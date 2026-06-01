@@ -1,0 +1,22 @@
+# Obsidian
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/appearance.json
+.trash/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Generated outputs (regenerable; lint history lives in log.md)
+outputs/
+
+# Claude Code local
+.claude/settings.local.json
