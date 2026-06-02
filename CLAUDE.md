@@ -27,7 +27,7 @@ log.md                     append-only operational history
 
 ## Hard rules (never violate)
 
-1. One AKU = exactly one falsifiable claim. If the statement contains "and", "both", "while", or implies a conjunction, split it.
+1. One AKU = exactly one falsifiable proposition (claim, method, or concept — see § AKU classes). If the statement chains two independent propositions via "and"/"both"/"while", split it. A concept statement with includes/excludes/implies clauses is NOT a conjunction — it is a single proposition with structured content.
 2. `sources[]` contains only `raw/` paths. No AKU IDs. Ever.
 3. Bidirectional relations are kept in sync at write time. All four pairs:
    - `supported_by` ↔ `supports`
@@ -42,7 +42,7 @@ log.md                     append-only operational history
 
 ## Ingest workflow (`/ingest <file-in-raw/>`)
 
-1. **Read the source completely.** Identify atomic claims and any executable structures (techniques, cases, tools, frameworks, heuristics, stories, protocols).
+1. **Read the source completely.** Identify atomic propositions across all three AKU classes — claims, methods, and concepts (see § AKU classes) — and any executable structures (techniques, cases, tools, frameworks, heuristics, stories, protocols). Do not discard content-bearing definitions or formulas as "merely definitional."
 2. **For each candidate AKU, run semantic dedup against all active AKUs in `aku/`:**
    - **Equivalent claim exists** → add this source to that AKU's `sources[]`, recompute `llm_confidence` (+0.10 per new independent source, cap 0.95), update `updated:`. Do NOT create a new AKU.
    - **Similar but distinct** → flag the pair in `outputs/lint/` and ask the human before creating.
@@ -64,6 +64,32 @@ log.md                     append-only operational history
   - `tacit` → `llm_confidence: null`, `sources[]` empty, human authors.
   - `hybrid` → both populated; human validation may refine/narrow the sourced claim.
 - **Relations**: prefer typed relations (`supported_by`, `constrained_by`, `context_breaks_at`, `contradicts`) over `related`. Over-use of `related` is a graph health signal.
+
+## AKU classes — concept, method, claim
+
+AKUs come in three first-class types. All are retrievable. None is filtered out as "merely definitional."
+
+- **`concept` AKU** — definition of a contentful concept. Statement pattern: *"W es [definition]; incluye [X]; excluye [Y]; implica [Z]."* Falsifiable by **adequacy** (does the definition capture what matters?), **implications** (the entailed consequences can be wrong), and **boundary** (the line it draws can be wrong in a context).
+- **`method` AKU** — procedural recipe. Statement pattern: *"En [conditions], Z se computa como [formula]."* Falsifiable by application (wrong formula yields wrong number) and by domain mismatch.
+- **`claim` AKU** — empirical or normative proposition. Statement pattern: *"X produce mejor resultado que Y bajo [conditions]."* Falsifiable in the classic Popperian sense.
+
+Exclude only **hollow nominal vocabulary** — terms with no implications, no formula, and no boundary conditions.
+
+**Required frontmatter field**: `aku_class: concept | method | claim` (placed right after `id`). Lint flags any AKU without this field.
+
+**Relation patterns by class** (bidirectional inverses still mandatory):
+- concept ↔ method: `supports` / `supported_by` (the concept underlies the formula).
+- claim → concept (when the claim refines the correct use of the concept): `constrains` / `constrained_by`.
+- method ↔ method in mutually exclusive contexts: `context_breaks_at` / `breaks_context_of` on both sides (symmetric pair).
+- concept ↔ concept (paired metrics, no causal/logical link): `related` (use sparingly — prefer a typed relation when one fits).
+
+## Language conventions
+
+- AKU statements and TAKU body prose are written in **Spanish**.
+- **Technical terms stay in their canonical English form**: CLTV, CAC, ARPU, churn rate, payback, ROI, lifetime, unit economics, input/output, and any acronym or term-of-art that is widely used untranslated in business/tech Spanish. When in doubt, keep the English form.
+- **Field names, IDs, slugs, and class labels stay in English**: `aku_class: concept`, `human_certainty.status: validated-true`, `id: aku-<english-slug>`, `taku_type: framework`, etc.
+- Source citations and `origin` strings match the source's published language.
+- This rule applies to all future ingests. Lint does not enforce it mechanically; it is a convention for retrieval and dedup consistency.
 
 ## `llm_confidence` scoring (deterministic)
 
@@ -161,6 +187,7 @@ Run all checks; write report to `outputs/lint/YYYY-MM-DD.md`. Flag:
 - `context-dependent` AKUs >90d without progress (unless `context_review_date` override).
 - Contradictions unresolved >30d.
 - AKUs with only `related` links after 14d → shallow integration.
+- AKUs missing the `aku_class` field → unclassified, fix at next pass.
 - `related` links >30d → propose typed upgrade or `related-confirmed`.
 - AKUs with zero relations → isolated nodes.
 - Foundational AKUs (10+ incoming `supports`) → axiom candidates.

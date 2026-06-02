@@ -1,9 +1,15 @@
 ---
 # ─── IDENTITY ──────────────────────────────────────────────────────────────────
 type: aku
+aku_class: claim          # claim | method | concept  (required — see CLAUDE.md § AKU classes)
 id: aku-REPLACE-WITH-SLUG
 statement: >
-  Single-sentence falsifiable claim. Present tense. Standalone-understandable.
+  Single Spanish-prose proposition; keep technical terms in canonical English
+  (CLTV, CAC, ARPU, churn rate, payback, ROI, lifetime, unit economics, ...).
+  Statement pattern by class:
+    - claim:   "X produce mejor resultado que Y bajo [conditions]."
+    - method:  "En [conditions], Z se computa como [formula]."
+    - concept: "W es [definition]; incluye [X]; excluye [Y]; implica [Z]."
 origin: "Author — Source title  |  or 'personal experience'  |  or 'synthesis'"
 domain: [tag-one, tag-two]
 
