@@ -214,3 +214,26 @@ sources:
       conceptualmente con includes/excludes/implies) — sería inflación
       artificial de llm_confidence. Registrado como ingested para que
       futuras pasadas de /pipeline lo salten.
+
+  - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\04-Business and Marketing strategies\\4.1-análisis de un sector.pdf"
+    name_slug: "4-1-an-alisis-de-un-sector"
+    raw_path: "raw/4-1-an-alisis-de-un-sector/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: 2026-06-03
+    ingested: 2026-06-03
+    chapters_ingested: []   # 2 H1 (5 fuerzas / ciclo de vida) tratados en una pasada — fuente corta (215 líneas)
+    aku_count: 15
+    taku_count: 3
+    last_commit: ""
+    notes: >
+      Primer PDF del módulo 04 (Business and Marketing strategies). 13 concept +
+      2 claim AKUs (cluster 5 Fuerzas de Porter + barreras entrada/salida,
+      costes de cambio, commodity, ciclo de vida del producto, concentración,
+      diferenciación, análisis PEST). 3 framework TAKUs (cinco-fuerzas-porter,
+      ciclo-vida-producto, analisis-pest). 3 imágenes informational con
+      blockquote. INTEGRATE nivel (a): wireado con network-effect, masa-critica,
+      oceano-rojo, early-adopter, competencia-amplia, empresas-borregos. Sin
+      dedup-merges con módulos 02/03. Pipeline pausado tras 4.1 a petición del
+      usuario; 4.2.1, 4.2.2, 4.3, 4.4, 4.5 aún SIN convertir (pendientes de la
+      siguiente pasada de /pipeline).

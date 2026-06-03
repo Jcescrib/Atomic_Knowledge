@@ -32,7 +32,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-commodity-concept
+    - aku-rivalidad-reduce-rentabilidad-claim
 
 sources:
   - "raw/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave.md"
@@ -46,3 +48,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-oceano-rojo-concept]]
+**related** ↔ [[aku-commodity-concept]] · [[aku-rivalidad-reduce-rentabilidad-claim]]

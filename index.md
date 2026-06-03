@@ -6,14 +6,14 @@ Router and validation dashboard. Updated by `/ingest`, `/pipeline`, `/lint`, and
 
 | Layer | Active | Draft | Deprecated | Validated-false / failing |
 |---|---|---|---|---|
-| AKU | 90 | — | 0 | 0 |
-| TAKU | 0 | 11 | 0 | 0 |
+| AKU | 105 | — | 0 | 0 |
+| TAKU | 0 | 14 | 0 | 0 |
 
-By AKU class: **72 concept**, **2 method**, **16 claim** · all `unvalidated` · 86 `epistemic_type: sourced` at `llm_confidence: 0.50`, 3 `sourced` at `0.60` (post-dedup), 1 `tacit` at `null` (Joan's free-bootstrap-plataforma claim).
+By AKU class: **85 concept**, **2 method**, **18 claim** · all `unvalidated` · 101 `epistemic_type: sourced` at `llm_confidence: 0.50`, 3 `sourced` at `0.60` (post-dedup), 1 `tacit` at `null` (Joan's free-bootstrap-plataforma claim).
 
-Graph: **1 connected component**, 388 directed edges, 0 bidirectional errors.
+Graph: **1 connected component** (módulos 02 + 03 + 4.1), 0 bidirectional errors.
 
-_Last updated: 2026-06-03 (graph-audit + tier-b integration; commit 279179f) — módulos 02 + 03 integrados._
+_Last updated: 2026-06-03 (pipeline módulo 04 — 4.1 «Análisis de un sector»: +15 AKUs, +3 framework TAKUs, integrado vía `related`/`supports` con clusters océano-rojo/plataformas/segmentación). Módulos 02 + 03 + 4.1 integrados; 4.2–4.5 pendientes (aún sin convertir)._
 
 ## Pending validation queue
 

@@ -42,6 +42,9 @@ relations:
     - aku-curva-valor-concept
     - aku-innovar-vs-competir-concept
     - aku-cliente-buscando-vs-no-concept
+    - aku-rivalidad-competitiva-concept
+    - aku-ciclo-vida-producto-concept
+    - aku-rivalidad-reduce-rentabilidad-claim
 
 sources:
   - "raw/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave.md"
@@ -56,4 +59,4 @@ status_note: ""
 
 **supported_by** ← [[aku-empresas-borregos-claim]]
 
-**related** ↔ [[aku-oceano-azul-concept]] · [[aku-curva-valor-concept]] · [[aku-innovar-vs-competir-concept]] · [[aku-cliente-buscando-vs-no-concept]]
+**related** ↔ [[aku-oceano-azul-concept]] · [[aku-curva-valor-concept]] · [[aku-innovar-vs-competir-concept]] · [[aku-cliente-buscando-vs-no-concept]] · [[aku-rivalidad-competitiva-concept]] · [[aku-ciclo-vida-producto-concept]] · [[aku-rivalidad-reduce-rentabilidad-claim]]

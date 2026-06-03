@@ -143,3 +143,19 @@ Plus 1 new tacit claim earlier in session: `aku-free-bootstrap-plataforma-claim`
 Result: graph passes from 2 components → **1 connected component**, 372→388 directed edges, 0 bidirectional errors.
 
 Permanent rules established in CLAUDE.md § Integración del grafo: INTEGRATE step (5.5) in every ingest, `/audit-graph` slash command for periodic global audits, three-tier rigor classification (a applied / b proposed / c user-led), distinction conceptual real vs empirical coincidence, lint flag «componentes > 1 = fragmentación». Memoria `feedback_graph_integration.md` guardada.
+
+## 2026-06-03 — pipeline (módulo 04, PDF 1/6)
+Source: `raw/4-1-an-alisis-de-un-sector/...md` (The Power MBA — Módulo 4.1 «Análisis de un sector»). PDF convertido con MinerU (pipeline backend, latin OCR), 10 páginas → 215 líneas. 2 H1 (5 Fuerzas+barreras / Ciclo de vida) tratadas en una pasada (fuente corta).
+- **3 imágenes informational** con blockquote `> **Figura**:`: diagrama 5 Fuerzas de Porter, curva del ciclo de vida del producto, flecha de escala de concentración.
+- **15 AKUs nuevos** (13 concept + 2 claim):
+  - Cluster 5 Fuerzas: `cinco-fuerzas-porter` (umbrella), `amenaza-sustitutivos`, `barreras-de-entrada`, `poder-proveedores`, `poder-compradores`, `rivalidad-competitiva`; soporte: `costes-de-cambio`, `commodity`, `barreras-de-salida`.
+  - `ciclo-vida-producto`, `concentracion-sector`, `diferenciacion-sector`, `analisis-pest`.
+  - Claims: `barreras-entrada-aumentan-rentabilidad`, `rivalidad-reduce-rentabilidad`.
+- **3 framework TAKUs** (draft, llm-authored, links llm-proposed): `taku-cinco-fuerzas-porter` (6 jb), `taku-ciclo-vida-producto` (2 jb), `taku-analisis-pest` (1 jb). Triángulo `complementary` entre los tres + `cinco-fuerzas` ↔ `oceano-azul`.
+- **INTEGRATE (5.5) — wires nivel (a) text-anchored aplicados** a clusters existentes:
+  - `barreras-de-entrada` ↔ `network-effect`, `masa-critica` («economías de red», «masa crítica»).
+  - `rivalidad-competitiva` ↔ `oceano-rojo`; `ciclo-vida-producto` ↔ `oceano-rojo` («Entra aquí el océano rojo»), `early-adopter`.
+  - `amenaza-sustitutivos` ↔ `competencia-amplia`.
+  - `commodity` ↔ `empresas-borregos`; `rivalidad-reduce-rentabilidad` ↔ `oceano-rojo`, `empresas-borregos`.
+- Sin dedup-merges: módulo 04 (estrategia competitiva) no solapa con clusters 02/03.
+- Sin pausas: ninguna ambigüedad de atomicidad/dedup. Pendiente OK del usuario antes de seguir con 4.2–4.5.
