@@ -46,7 +46,13 @@ _(none — first ingest, empty starting graph)_
 
 ## Lint flags (latest run)
 
-_No lint runs yet. Run `/lint` to populate. Reports archived in `outputs/lint/`._
+**2026-06-03**: 0 errors · 2 warnings · 2 informational. Graph healthy.
+- W1 — K2 statement contains " y " (compound-claim false positive; justified by joint-optimization framing).
+- W2 — TAKU has 11 `justified_by` links (>7 threshold; expected for comprehensive metrics map).
+- I1 — M1 statement contains "ambos" (unit-consistency qualifier, not a compound).
+- I2 — C1 trending toward axiom candidate (6 incoming `supports`, threshold 10+).
+
+Full report: `outputs/lint/2026-06-03.md` (gitignored).
 
 ## Domain map
 

@@ -67,3 +67,15 @@ Normalized legacy 2.2-motores source into the `raw/<slug>/<slug>.pdf` layout use
 - Updated `sources[]` in all 11 AKU files to point at the new path.
 - Updated the manifest entry: `raw_path: raw/2-2-motores-de-crecimiento/`, notes record the original flat path.
 - No relation graph changes. No content changes. Pure layout normalization for consistency with future pipeline runs.
+
+## 2026-06-03 — lint
+First lint pass over the 2.2-motores graph (11 AKUs + 1 TAKU) after the wikilinks retrofit and layout normalization. 0 errors · 2 warnings · 2 informational.
+- All 4 bidirectional pairs verified symmetric (28 frontmatter edges, all inverses present).
+- Body wikilinks ↔ frontmatter parity: zero drift across all 12 files.
+- All `sources[]` paths resolve. Legacy path removed cleanly.
+- TAKU framework body has all 7 required section headers + Relaciones.
+- W1: K2 statement contains " y " — false positive, the "y" is integral to the joint-optimization proposition.
+- W2: TAKU has 11 `justified_by` links — expected for comprehensive framework, documented.
+- I1: M1 statement contains "ambos" — unit-consistency qualifier, OK.
+- I2: C1 trending toward axiom candidate (6/10 incoming `supports`).
+- Report: outputs/lint/2026-06-03.md (gitignored).
