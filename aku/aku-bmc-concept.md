@@ -2,21 +2,14 @@
 type: aku
 aku_class: concept
 id: aku-bmc-concept
-statement: >
-  El BMC (Business Model Canvas) es un framework para describir, analizar y
-  diseñar un modelo de negocio mediante 9 bloques estructurales
-  interrelacionados; incluye los bloques de cliente (segmentos, canales,
-  relaciones), oferta (propuesta de valor), infraestructura (actividades,
-  recursos, alianzas) y económicos (estructura de costes, flujos de ingresos);
-  excluye dinámicas temporales explícitas (cómo el modelo evoluciona) y
-  contexto competitivo (sector, competidores, regulación); implica que un
-  cambio en cualquier bloque desplaza al menos otros dos y que el modelo de
-  negocio se analiza como sistema de 9 dimensiones interdependientes.
+statement: El BMC (Business Model Canvas) es un framework para describir, analizar y diseñar un modelo de negocio mediante 9 bloques estructurales interrelacionados; incluye los bloques de cliente (segmentos, canales, relaciones), oferta (propuesta de valor), infraestructura (actividades, recursos, alianzas) y económicos (estructura de costes, flujos de ingresos); excluye dinámicas temporales explícitas (cómo el modelo evoluciona) y contexto competitivo (sector, competidores, regulación); implica que un cambio en cualquier bloque desplaza al menos otros dos y que el modelo de negocio se analiza como sistema de 9 dimensiones interdependientes.
 origin: "The Power MBA — Módulo 2.1 «Análisis de un modelo de negocio: Innovación BMC»"
-domain: [business-model, strategy, framework, bmc]
-
-llm_confidence: 0.50
-
+domain:
+  - business-model
+  - strategy
+  - framework
+  - bmc
+llm_confidence: 0.5
 human_certainty:
   status: unvalidated
   iterations: 0
@@ -24,9 +17,7 @@ human_certainty:
   validated_by: ""
   validation_date: ""
   method: ""
-
 epistemic_type: sourced
-
 relations:
   supported_by: []
   supports: []
@@ -45,10 +36,8 @@ relations:
     - aku-actividades-clave-concept
     - aku-ecosistema-alianzas-concept
     - aku-estructura-de-costes-concept
-
 sources:
-  - "raw/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc.md"
-
+  - raw/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc.md
 created: 2026-06-03
 updated: 2026-06-03
 status: active

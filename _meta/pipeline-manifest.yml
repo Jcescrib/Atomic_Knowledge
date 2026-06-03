@@ -34,3 +34,19 @@ sources:
       consolidated informational blockquote inserted at the channel-diagram
       cluster. MinerU pipeline backend (CPU, latin OCR) used because the
       default hybrid-auto-engine requires CUDA which is unavailable.
+
+  - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\02-Innovación en los modelos de negocio\\2.2.1-Tiposmotorescrecimiento.pdf"
+    name_slug: "2-2-1-tiposmotorescrecimiento"
+    raw_path: "raw/2-2-1-tiposmotorescrecimiento/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 6
+    taku_count: 1
+    last_commit: ""
+    notes: >
+      Taxonomía de 3 motores de crecimiento (pago/viral/sticky). Sin imágenes
+      embebidas. 5 concept-AKUs + 1 claim-AKU + 1 framework TAKU. Sin
+      solapamiento conceptual con el cluster BMC del 2.1.
