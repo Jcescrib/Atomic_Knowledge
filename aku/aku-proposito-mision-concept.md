@@ -25,7 +25,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-circulo-dorado-concept]
+  supports: [aku-circulo-dorado-concept, aku-plan-de-marca-concept]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -44,5 +44,5 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-circulo-dorado-concept]]
+**supports** → [[aku-circulo-dorado-concept]] · [[aku-plan-de-marca-concept]]
 **related** ↔ [[aku-valores-marca-concept]] · [[aku-marca-concept]]

@@ -27,13 +27,13 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-marca-potente-beneficios-claim]
+  supports: [aku-marca-potente-beneficios-claim, aku-plan-de-marca-concept]
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-identidad-de-marca-concept, aku-brand-equity-concept]
+  related: [aku-identidad-de-marca-concept, aku-brand-equity-concept, aku-proposito-mision-concept]
 
 sources:
   - raw/4-4-branding/4-4-branding.md
@@ -46,5 +46,5 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-marca-potente-beneficios-claim]]
-**related** ↔ [[aku-identidad-de-marca-concept]] · [[aku-brand-equity-concept]]
+**supports** → [[aku-marca-potente-beneficios-claim]] · [[aku-plan-de-marca-concept]]
+**related** ↔ [[aku-identidad-de-marca-concept]] · [[aku-brand-equity-concept]] · [[aku-proposito-mision-concept]]

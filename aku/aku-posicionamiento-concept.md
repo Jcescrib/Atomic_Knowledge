@@ -27,7 +27,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports: [aku-plan-de-marca-concept]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -46,4 +46,5 @@ status_note: ""
 
 ## Relaciones
 
+**supports** → [[aku-plan-de-marca-concept]]
 **related** ↔ [[aku-estrategia-diferenciacion-concept]] · [[aku-diferenciacion-sector-concept]] · [[aku-atributos-marca-concept]] · [[aku-customer-persona-concept]]

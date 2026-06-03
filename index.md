@@ -6,14 +6,14 @@ Router and validation dashboard. Updated by `/ingest`, `/pipeline`, `/lint`, and
 
 | Layer | Active | Draft | Deprecated | Validated-false / failing |
 |---|---|---|---|---|
-| AKU | 105 | — | 0 | 0 |
-| TAKU | 0 | 14 | 0 | 0 |
+| AKU | 141 | — | 0 | 0 |
+| TAKU | 0 | 20 | 0 | 0 |
 
-By AKU class: **85 concept**, **2 method**, **18 claim** · all `unvalidated` · 101 `epistemic_type: sourced` at `llm_confidence: 0.50`, 3 `sourced` at `0.60` (post-dedup), 1 `tacit` at `null` (Joan's free-bootstrap-plataforma claim).
+By AKU class: **112 concept**, **2 method**, **27 claim** · all `unvalidated` · 135 `epistemic_type: sourced` at `llm_confidence: 0.50`, 4 `sourced` at `0.60` (post-dedup: segmentos, propuesta-valor, product-market-fit, nicho-strategy), 1 `sourced` at `0.20` (mas-valor-menos-coste, −0.30 por contradicción con atrapado-medio/Porter), 1 `tacit` at `null` (Joan's free-bootstrap-plataforma claim).
 
-Graph: **1 connected component** (módulos 02 + 03 + 4.1), 0 bidirectional errors.
+Graph: **1 connected component**, 0 bidirectional errors (AKU 141/141 simétrico; TAKU 20/20 simétrico — verificado por script).
 
-_Last updated: 2026-06-03 (pipeline módulo 04 — 4.1 «Análisis de un sector»: +15 AKUs, +3 framework TAKUs, integrado vía `related`/`supports` con clusters océano-rojo/plataformas/segmentación). Módulos 02 + 03 + 4.1 integrados; 4.2–4.5 pendientes (aún sin convertir)._
+_Last updated: 2026-06-03 (pipeline módulo 04 COMPLETO — 6/6 PDFs: +51 AKUs, +9 TAKUs. Clusters: 5 Fuerzas de Porter, ciclo de vida, PEST, estrategias genéricas, Ansoff, branding, blitzscaling. 1 contradicción modelada Porter↔océano-azul). Módulo 05 en curso (42 PDFs)._
 
 ## Pending validation queue
 

@@ -32,7 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-motor-crecimiento-concept, aku-ventaja-competitiva-concept, aku-innovar-vs-competir-concept]
+  related: [aku-motor-crecimiento-concept, aku-ventaja-competitiva-concept, aku-innovar-vs-competir-concept, aku-etapas-organizacion-concept]
 
 sources:
   - raw/4-5-blitzscaling/4-5-blitzscaling.md
@@ -46,4 +46,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-blitzscaling-cuando-oportunidad-enorme-claim]] · [[aku-tipos-estrategias-crecimiento-concept]]
-**related** ↔ [[aku-motor-crecimiento-concept]] · [[aku-ventaja-competitiva-concept]] · [[aku-innovar-vs-competir-concept]]
+**related** ↔ [[aku-motor-crecimiento-concept]] · [[aku-ventaja-competitiva-concept]] · [[aku-innovar-vs-competir-concept]] · [[aku-etapas-organizacion-concept]]

@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-marca-concept, aku-esencia-mas-que-logo-claim]
+  related: [aku-marca-concept, aku-esencia-mas-que-logo-claim, aku-plan-de-marca-concept]
 
 sources:
   - raw/4-4-branding/4-4-branding.md
@@ -44,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-marca-concept]] · [[aku-esencia-mas-que-logo-claim]]
+**related** ↔ [[aku-marca-concept]] · [[aku-esencia-mas-que-logo-claim]] · [[aku-plan-de-marca-concept]]

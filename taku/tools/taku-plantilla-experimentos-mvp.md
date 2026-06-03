@@ -57,7 +57,7 @@ human_certainty:
   method: ""
 
 taku_relations:
-  complementary: []
+  complementary: [taku-entrevista-problem-solution]
   alternative_to: []
   precedes: []
   follows: []
@@ -136,3 +136,5 @@ Sumadas, las plantillas forman un histórico que documenta cómo el modelo evolu
 ## Relaciones
 
 **justified_by** ← [[aku-lean-startup-method-concept]] · [[aku-hipotesis-concept]] · [[aku-mvp-concept]] · [[aku-aprendizaje-validado-concept]] · [[aku-build-measure-learn-concept]]
+
+**complementary** ↔ [[taku-entrevista-problem-solution]]
