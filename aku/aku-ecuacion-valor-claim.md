@@ -36,6 +36,7 @@ relations:
     - aku-power-value-modelo-concept
     - aku-coste-percibido-amplio-concept
     - aku-reducir-costes-no-precio-claim
+    - aku-pricing-psychology-kolenda-concept
 
 sources:
   - "raw/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a.md"
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-propuesta-de-valor-concept]]
 
-**related** ↔ [[aku-power-value-modelo-concept]] · [[aku-coste-percibido-amplio-concept]] · [[aku-reducir-costes-no-precio-claim]]
+**related** ↔ [[aku-power-value-modelo-concept]] · [[aku-coste-percibido-amplio-concept]] · [[aku-reducir-costes-no-precio-claim]] · [[aku-pricing-psychology-kolenda-concept]]

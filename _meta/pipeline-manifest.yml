@@ -640,3 +640,211 @@ sources:
     taku_count: 0
     last_commit: ""
     notes: "Herramientas para CRO (referencia). 0 AKUs."
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\ad-psychology2.pdf"
+    name_slug: "ad-psychology2"
+    raw_path: "raw/ad-psychology2/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 1
+    taku_count: 0
+    last_commit: ""
+    notes: "Kolenda (tesis nuclear). Advertising Psychology."
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\choice.pdf"
+    name_slug: "choice"
+    raw_path: "raw/choice/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 1
+    taku_count: 0
+    last_commit: ""
+    notes: "Kolenda (tesis nuclear). Choice Psychology."
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\color-psychology2.pdf"
+    name_slug: "color-psychology2"
+    raw_path: "raw/color-psychology2/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 1
+    taku_count: 0
+    last_commit: ""
+    notes: "Kolenda (tesis nuclear). Color Psychology."
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Copywriting Psychology by Nick Kolenda.pdf"
+    name_slug: "copywriting-psychology-by-nick-kolenda"
+    raw_path: "raw/copywriting-psychology-by-nick-kolenda/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 1
+    taku_count: 0
+    last_commit: ""
+    notes: "Kolenda (tesis nuclear). Copywriting Psychology."
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\eCommerce Psychology by Nick Kolenda.pdf"
+    name_slug: "ecommerce-psychology-by-nick-kolenda"
+    raw_path: "raw/ecommerce-psychology-by-nick-kolenda/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 1
+    taku_count: 0
+    last_commit: ""
+    notes: "Kolenda (tesis nuclear). Ecommerce Psychology."
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Font Psychology by Nick Kolenda.pdf"
+    name_slug: "font-psychology-by-nick-kolenda"
+    raw_path: "raw/font-psychology-by-nick-kolenda/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 1
+    taku_count: 0
+    last_commit: ""
+    notes: "Kolenda (tesis nuclear). Font Psychology."
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Naming a Product by Nick Kolenda.pdf"
+    name_slug: "naming-a-product-by-nick-kolenda"
+    raw_path: "raw/naming-a-product-by-nick-kolenda/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 1
+    taku_count: 0
+    last_commit: ""
+    notes: "Kolenda (tesis nuclear). Naming a Product."
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Negotiation Tactics by Nick Kolenda.pdf"
+    name_slug: "negotiation-tactics-by-nick-kolenda"
+    raw_path: "raw/negotiation-tactics-by-nick-kolenda/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 1
+    taku_count: 0
+    last_commit: ""
+    notes: "Kolenda (tesis nuclear). Negotiation Tactics."
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Packaging Psychology by Nick Kolenda.pdf"
+    name_slug: "packaging-psychology-by-nick-kolenda"
+    raw_path: "raw/packaging-psychology-by-nick-kolenda/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 1
+    taku_count: 0
+    last_commit: ""
+    notes: "Kolenda (tesis nuclear). Packaging Psychology."
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Pricing Psychology by Nick Kolenda.pdf"
+    name_slug: "pricing-psychology-by-nick-kolenda"
+    raw_path: "raw/pricing-psychology-by-nick-kolenda/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 1
+    taku_count: 0
+    last_commit: ""
+    notes: "Kolenda (tesis nuclear). Pricing Psychology (conversión recuperada en reintento)."
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\user-experience2.pdf"
+    name_slug: "user-experience2"
+    raw_path: "raw/user-experience2/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 1
+    taku_count: 0
+    last_commit: ""
+    notes: "Kolenda (tesis nuclear). UX Psychology."
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Visual Attention by Nick Kolenda.pdf"
+    name_slug: "visual-attention-by-nick-kolenda"
+    raw_path: "raw/visual-attention-by-nick-kolenda/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 1
+    taku_count: 0
+    last_commit: ""
+    notes: "Kolenda (tesis nuclear). Visual Attention."
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Audiobook-Images-Methods-of-Persuasion.pdf"
+    name_slug: "audiobook-images-methods-of-persuasion"
+    raw_path: "raw/audiobook-images-methods-of-persuasion/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 1
+    taku_count: 0
+    last_commit: ""
+    notes: "Kolenda (tesis nuclear). Methods of Persuasion (proceso METHODS 7 pasos)."
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\IRTB-Audiobook-PDF.pdf"
+    name_slug: "irtb-audiobook-pdf"
+    raw_path: "raw/irtb-audiobook-pdf/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 1
+    taku_count: 0
+    last_commit: ""
+    notes: "Kolenda (tesis nuclear). Imagine Reading This Book (mental imagery)."
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Pages - Viral Marketing.pdf"
+    name_slug: "pages-viral-marketing"
+    raw_path: "raw/pages-viral-marketing/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 1
+    taku_count: 0
+    last_commit: ""
+    notes: "Kolenda (tesis nuclear). The Science of Viral Marketing."
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Bonus-PDF.pdf"
+    name_slug: "bonus-pdf"
+    raw_path: "raw/bonus-pdf/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 0
+    taku_count: 0
+    last_commit: ""
+    notes: "Kolenda (tesis nuclear). The Tangled Mind (psicología evolutiva general, fuera de scope marketing). 0 AKUs."

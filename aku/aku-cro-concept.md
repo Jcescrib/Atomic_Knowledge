@@ -31,6 +31,7 @@ relations:
     - aku-palancas-marketing-digital-concept
     - aku-power-funnel-concept
     - aku-piramide-conversion-concept
+    - aku-ecommerce-psychology-kolenda-concept
 sources:
   - raw/5-6-1-conceptos-clave-conversi-on/5-6-1-conceptos-clave-conversi-on.md
 created: 2026-06-03
@@ -42,4 +43,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-proceso-cro-method]]
-**related** ↔ [[aku-conversion-olvidada-claim]] · [[aku-palancas-marketing-digital-concept]] · [[aku-power-funnel-concept]] · [[aku-piramide-conversion-concept]]
+**related** ↔ [[aku-conversion-olvidada-claim]] · [[aku-palancas-marketing-digital-concept]] · [[aku-power-funnel-concept]] · [[aku-piramide-conversion-concept]] · [[aku-ecommerce-psychology-kolenda-concept]]

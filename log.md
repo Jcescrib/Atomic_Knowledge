@@ -250,3 +250,10 @@ Source: `raw/5-5-1-...captacion-y-nurturing-de-leads...md` (100 líneas; imágen
 - **5.6.1 «Conversión»** (96 líneas; pirámide de conversión captionada, A/B img decorativa): 6 AKUs (`cro`, `cuello-botella-funnel`, `piramide-conversion`, `proceso-cro` [method], `ab-testing`, `landing-page`) + framework TAKU `taku-cro`. INTEGRATE: cro ↔ conversion-olvidada/palancas/power-funnel; proceso-cro ↔ lean-startup; ab-testing ↔ mvp.
 - **5.6.3 «Consejos para CTA»** (85 líneas, ejemplos decorativos): 1 AKU `cta` + heuristic TAKU `taku-optimizar-cta`. cta ↔ vender-una-accion, cro, landing-page.
 - **5.6.2 tabla herramientas** y **5.6.4 herramientas CRO**: directorios de referencia, 0 AKUs.
+
+## 2026-06-04 — pipeline (módulo 05, 5.6 Kolenda — 16 libros de psicología de marketing)
+Bundle `5.6-nickkolenda-Marketing full PDF` (16 PDFs book-length). Decisión documentada: por ser obras de referencia book-length y supletorias, se ingieren a **granularidad de tesis nuclear** — 1 concept-AKU por libro capturando su framework central (no capítulo-a-capítulo, que serían cientos de AKUs y desproporcionado). Conversión: 15 OK al primer intento + 1 fallo recuperado en reintento (Pricing Psychology, 70 págs).
+- **15 concept-AKUs** (todos sourced, 0.50): ad-psychology, copywriting, color, font, ecommerce, visual-attention, ux, choice, pricing, packaging, naming, negotiation (12) + methods-persuasion, mental-imagery (imagine-reading), viral-marketing (3 companions).
+- **0 AKUs**: `bonus-pdf` («The Tangled Mind», psicología evolutiva general, fuera del scope de marketing) → registrado como referencia.
+- Cluster Kolenda conectado internamente + **6 puentes** al grafo principal (copywriting↔estilo-editorial, pricing↔ecuacion-valor, ecommerce↔cro, visual-attention/ux↔piramide-conversion, ad-psychology/methods/negotiation↔leyes-cialdini, naming↔marca, viral-marketing↔coeficiente-viralidad/motor-crecimiento-viral). Garantiza 1 componente.
+- **PDF FALLIDO recuperado**: Pricing Psychology falló en la pasada batch (timeout/recurso) y convirtió OK en reintento individual.

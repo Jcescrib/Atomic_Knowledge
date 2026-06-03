@@ -37,6 +37,7 @@ relations:
   related:
     - aku-motor-crecimiento-viral-concept
     - aku-network-effect-concept
+    - aku-viral-marketing-kolenda-concept
 
 sources:
   - "raw/2-2-1-tiposmotorescrecimiento/2-2-1-tiposmotorescrecimiento.md"
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-motor-crecimiento-viral-concept]] · [[aku-network-effect-concept]]
+**related** ↔ [[aku-motor-crecimiento-viral-concept]] · [[aku-network-effect-concept]] · [[aku-viral-marketing-kolenda-concept]]

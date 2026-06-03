@@ -30,6 +30,7 @@ relations:
     - aku-emocion-prevalece-razon-claim
     - aku-brandscript-storybrand-concept
     - aku-publicidad-nativa-concept
+    - aku-copywriting-psychology-kolenda-concept
 sources:
   - raw/5-1-clave-powerselling/5-1-clave-powerselling.md
 created: 2026-06-03
@@ -40,4 +41,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-vender-una-accion-concept]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-brandscript-storybrand-concept]] · [[aku-publicidad-nativa-concept]]
+**related** ↔ [[aku-vender-una-accion-concept]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-brandscript-storybrand-concept]] · [[aku-publicidad-nativa-concept]] · [[aku-copywriting-psychology-kolenda-concept]]
