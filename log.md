@@ -265,3 +265,7 @@ Bundle `5.6-nickkolenda-Marketing full PDF` (16 PDFs book-length). Decisión doc
 - Imágenes decorativas/descritas en texto.
 
 ### Módulo 05 COMPLETO (42 PDFs)
+Resumen módulo 05: 42 PDFs procesados (incl. 16 libros Kolenda). +55 AKUs (48 concept + 2 method + 5 claim), +8 TAKUs. 1 conversión fallida y recuperada (Pricing Psychology). Lecciones nativas a granularidad completa; libros Kolenda a granularidad de tesis nuclear; directorios de herramientas/plataformas/ejemplos a 0 AKUs (referencia).
+
+## 2026-06-04 — lint/integridad final (módulos 04 + 05)
+Verificación por script tras módulo 05: **196 AKUs / 28 TAKUs**, **1 componente conectado** (~812 aristas, 0 huérfanos), **0 asimetrías bidireccionales** (AKU y TAKU), **0 body-drift** (frontmatter↔cuerpo), 0 wikilinks rotos, 0 AKUs sin aku_class. Reparadas 18 asimetrías intra-sesión (faltaban inversos en targets) + 1 type-mismatch (palancas-marketing-digital: conversion-olvidada movido de related→supports). index.md actualizado.

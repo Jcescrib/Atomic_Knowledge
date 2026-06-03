@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-choice-psychology-kolenda-concept, aku-leyes-persuasion-cialdini-concept]
+  related: [aku-choice-psychology-kolenda-concept, aku-leyes-persuasion-cialdini-concept, aku-methods-persuasion-kolenda-concept]
 
 sources:
   - raw/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -44,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-choice-psychology-kolenda-concept]] · [[aku-leyes-persuasion-cialdini-concept]]
+**related** ↔ [[aku-choice-psychology-kolenda-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-methods-persuasion-kolenda-concept]]

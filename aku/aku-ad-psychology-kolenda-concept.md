@@ -32,7 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-copywriting-psychology-kolenda-concept, aku-visual-attention-kolenda-concept, aku-color-psychology-kolenda-concept, aku-leyes-persuasion-cialdini-concept]
+  related: [aku-copywriting-psychology-kolenda-concept, aku-visual-attention-kolenda-concept, aku-color-psychology-kolenda-concept, aku-leyes-persuasion-cialdini-concept, aku-methods-persuasion-kolenda-concept, aku-viral-marketing-kolenda-concept]
 
 sources:
   - raw/ad-psychology2/ad-psychology2.md
@@ -45,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-copywriting-psychology-kolenda-concept]] · [[aku-visual-attention-kolenda-concept]] · [[aku-color-psychology-kolenda-concept]] · [[aku-leyes-persuasion-cialdini-concept]]
+**related** ↔ [[aku-copywriting-psychology-kolenda-concept]] · [[aku-visual-attention-kolenda-concept]] · [[aku-color-psychology-kolenda-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-methods-persuasion-kolenda-concept]] · [[aku-viral-marketing-kolenda-concept]]

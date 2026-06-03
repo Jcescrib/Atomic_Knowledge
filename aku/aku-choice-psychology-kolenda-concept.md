@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-pricing-psychology-kolenda-concept, aku-copywriting-psychology-kolenda-concept, aku-emocion-prevalece-razon-claim]
+  related: [aku-pricing-psychology-kolenda-concept, aku-copywriting-psychology-kolenda-concept, aku-emocion-prevalece-razon-claim, aku-mental-imagery-kolenda-concept, aku-negotiation-tactics-kolenda-concept]
 
 sources:
   - raw/choice/choice.md
@@ -44,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-pricing-psychology-kolenda-concept]] · [[aku-copywriting-psychology-kolenda-concept]] · [[aku-emocion-prevalece-razon-claim]]
+**related** ↔ [[aku-pricing-psychology-kolenda-concept]] · [[aku-copywriting-psychology-kolenda-concept]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-mental-imagery-kolenda-concept]] · [[aku-negotiation-tactics-kolenda-concept]]

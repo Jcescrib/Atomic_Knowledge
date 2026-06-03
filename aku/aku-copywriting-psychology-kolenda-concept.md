@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-ad-psychology-kolenda-concept, aku-choice-psychology-kolenda-concept, aku-estilo-editorial-concept]
+  related: [aku-ad-psychology-kolenda-concept, aku-choice-psychology-kolenda-concept, aku-estilo-editorial-concept, aku-mental-imagery-kolenda-concept]
 
 sources:
   - raw/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -44,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-ad-psychology-kolenda-concept]] · [[aku-choice-psychology-kolenda-concept]] · [[aku-estilo-editorial-concept]]
+**related** ↔ [[aku-ad-psychology-kolenda-concept]] · [[aku-choice-psychology-kolenda-concept]] · [[aku-estilo-editorial-concept]] · [[aku-mental-imagery-kolenda-concept]]

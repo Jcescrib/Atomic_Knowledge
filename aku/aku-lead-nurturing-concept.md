@@ -32,7 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-lead-concept, aku-marketing-automation-concept, aku-nurturing-segun-complejidad-claim, aku-funnel-corto-vs-largo-concept]
+  related: [aku-lead-concept, aku-marketing-automation-concept, aku-nurturing-segun-complejidad-claim, aku-funnel-corto-vs-largo-concept, aku-lead-scoring-concept]
 
 sources:
   - raw/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google.md
@@ -45,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-lead-concept]] · [[aku-marketing-automation-concept]] · [[aku-nurturing-segun-complejidad-claim]] · [[aku-funnel-corto-vs-largo-concept]]
+**related** ↔ [[aku-lead-concept]] · [[aku-marketing-automation-concept]] · [[aku-nurturing-segun-complejidad-claim]] · [[aku-funnel-corto-vs-largo-concept]] · [[aku-lead-scoring-concept]]

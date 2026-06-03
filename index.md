@@ -6,14 +6,14 @@ Router and validation dashboard. Updated by `/ingest`, `/pipeline`, `/lint`, and
 
 | Layer | Active | Draft | Deprecated | Validated-false / failing |
 |---|---|---|---|---|
-| AKU | 141 | — | 0 | 0 |
-| TAKU | 0 | 20 | 0 | 0 |
+| AKU | 196 | — | 0 | 0 |
+| TAKU | 0 | 28 | 0 | 0 |
 
-By AKU class: **112 concept**, **2 method**, **27 claim** · all `unvalidated` · 135 `epistemic_type: sourced` at `llm_confidence: 0.50`, 4 `sourced` at `0.60` (post-dedup: segmentos, propuesta-valor, product-market-fit, nicho-strategy), 1 `sourced` at `0.20` (mas-valor-menos-coste, −0.30 por contradicción con atrapado-medio/Porter), 1 `tacit` at `null` (Joan's free-bootstrap-plataforma claim).
+By AKU class: **160 concept**, **4 method**, **32 claim** · all `unvalidated` · 189 `epistemic_type: sourced` at `llm_confidence: 0.50`, 5 `sourced` at `0.60` (post-dedup: segmentos, propuesta-valor, product-market-fit, nicho-strategy, lead-magnet), 1 `sourced` at `0.20` (mas-valor-menos-coste, −0.30 por contradicción con atrapado-medio/Porter), 1 `tacit` at `null` (Joan's free-bootstrap-plataforma claim).
 
-Graph: **1 connected component**, 0 bidirectional errors (AKU 141/141 simétrico; TAKU 20/20 simétrico — verificado por script).
+Graph: **1 connected component** (196 nodos, ~812 aristas no dirigidas, 0 huérfanos), 0 bidirectional errors (AKU 196/196 simétrico, 0 body-drift; TAKU 28/28 simétrico — verificado por script).
 
-_Last updated: 2026-06-03 (pipeline módulo 04 COMPLETO — 6/6 PDFs: +51 AKUs, +9 TAKUs. Clusters: 5 Fuerzas de Porter, ciclo de vida, PEST, estrategias genéricas, Ansoff, branding, blitzscaling. 1 contradicción modelada Porter↔océano-azul). Módulo 05 en curso (42 PDFs)._
+_Last updated: 2026-06-04 (pipeline módulos 04 + 05 COMPLETOS. Módulo 04: 6 PDFs, +51 AKUs, +9 TAKUs. Módulo 05: 42 PDFs (incl. 16 libros Kolenda), +55 AKUs, +8 TAKUs. Total sesión: +106 AKUs, +17 TAKUs. 1 contradicción modelada Porter↔océano-azul; 1 PDF recuperado en reintento de conversión)._
 
 ## Pending validation queue
 
