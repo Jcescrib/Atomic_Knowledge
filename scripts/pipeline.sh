@@ -21,6 +21,31 @@ VAULT_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 TEMP_ROOT="$VAULT_ROOT/outputs/pipeline-temp"
 mkdir -p "$TEMP_ROOT" "$VAULT_ROOT/raw"
 
+# Locate the mineru binary. On Windows + user-install pip, the script lives
+# in %APPDATA%\Python\Python<ver>\Scripts and is NOT on PATH by default.
+find_mineru() {
+  if command -v mineru >/dev/null 2>&1; then
+    command -v mineru
+    return 0
+  fi
+  local cand
+  for cand in \
+    "$HOME/AppData/Roaming/Python/Python312/Scripts/mineru.exe" \
+    "$HOME/AppData/Roaming/Python/Python313/Scripts/mineru.exe" \
+    "$HOME/AppData/Roaming/Python/Python311/Scripts/mineru.exe" \
+    "$HOME/AppData/Roaming/Python/Python310/Scripts/mineru.exe" \
+    "$HOME/AppData/Local/Programs/Python/Python312/Scripts/mineru.exe" \
+    "/c/Python312/Scripts/mineru.exe" \
+    "$HOME/anaconda3/Scripts/mineru.exe"; do
+    if [ -x "$cand" ]; then
+      echo "$cand"
+      return 0
+    fi
+  done
+  return 1
+}
+MINERU_BIN="$(find_mineru || true)"
+
 # ─── helpers ────────────────────────────────────────────────────────────────
 
 slugify() {
@@ -31,9 +56,14 @@ slugify() {
   else
     out="$in"
   fi
+  # Note: file extensions are stripped by callers (cmd_convert, cmd_adopt)
+  # BEFORE calling slugify, so we do NOT attempt extension stripping here —
+  # the prior `s/\.[^.]+$//` was greedy and ate everything after the FIRST
+  # dot in names like "2.1-Análisis...". Replace any non-alnum with hyphens
+  # and let dots in "2.1" become hyphens naturally.
   printf '%s\n' "$out" \
     | tr '[:upper:]' '[:lower:]' \
-    | sed -E 's/\.[^.]+$//; s/[^a-z0-9]+/-/g; s/^-+|-+$//g; s/--+/-/g'
+    | sed -E 's/[^a-z0-9]+/-/g; s/^-+|-+$//g; s/--+/-/g'
 }
 
 flatten_image_refs() {
@@ -70,8 +100,15 @@ cmd_convert() {
   rm -rf "$tmp"
   mkdir -p "$tmp"
 
-  echo "[convert] MinerU → $tmp" >&2
-  if ! mineru -p "$pdf" -o "$tmp"; then
+  if [ -z "$MINERU_BIN" ]; then
+    echo "ERROR: mineru binary not found. Checked PATH and common user-install" >&2
+    echo "       locations (AppData/Roaming/Python/Python3xx/Scripts/mineru.exe)." >&2
+    echo "       Install or add to PATH, or edit find_mineru() in this script." >&2
+    exit 4
+  fi
+
+  echo "[convert] MinerU ($MINERU_BIN) → $tmp" >&2
+  if ! "$MINERU_BIN" -p "$pdf" -o "$tmp"; then
     echo "ERROR: MinerU failed for $pdf" >&2
     exit 2
   fi
