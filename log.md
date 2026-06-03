@@ -43,3 +43,13 @@ Source: `raw/2.2-Motores de crecimiento - proncipales métricas.pdf` (The Power 
 - 1 TAKU drafted: `taku-digital-growth-engine-metrics-map` (type: framework, status: draft, content_validation: llm-authored, 11 `justified_by` links all `llm-proposed`).
 - Dedup check: empty graph, all candidates net-new.
 - Lint flag preview: TAKU has 11 `justified_by` links (>7 threshold) — will flag on next `/lint` for link-inflation review. Expected given the framework's comprehensive scope.
+
+## 2026-06-03 — meta
+Pipeline workflow + body-wikilinks rule encoded permanently. CLAUDE.md grew to 280 lines (over 250 soft target — accepted given the new section).
+- New `/pipeline <folder>` command: discover → convert (MinerU) → adopt (pre-converted) → image classification (informational vs decorative, vision-analyzed with Spanish blockquote captions) → section-based ingest with resumability.
+- New `scripts/pipeline.sh` (discover, convert, adopt, slug) — deterministic file ops; LLM phases stay in the slash command.
+- New `_meta/pipeline-manifest.yml` — per-source state for resumability; legacy 2.2-motores entry pre-populated.
+- Body wikilinks rule: every AKU/TAKU body must include `## Relaciones` mirroring frontmatter relations as `[[wikilink]]`. Three-layer sync (frontmatter inverse + body wikilink on both files). Templates updated.
+- New hard rule #8: body Relaciones mandatory. Three new lint flags.
+- Vault layout updated to document `scripts/` and `_meta/pipeline-manifest.yml`.
+- Reason: Obsidian's graph view only renders edges from `[[wikilink]]` syntax, not from YAML frontmatter. Without the Relaciones body section, all AKUs appeared as disconnected nodes despite a fully-typed graph in the frontmatter.

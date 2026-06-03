@@ -1,0 +1,36 @@
+# Pipeline manifest — state tracker for /pipeline runs.
+# Updated by the /pipeline command after each phase. Re-running /pipeline on the
+# same folder skips sources with `ingested: <date>` set.
+#
+# Schema per entry:
+#   original:           absolute path to the original source (PDF or .md)
+#   name_slug:          canonical slug (matches raw/<slug>/ folder)
+#   raw_path:           "raw/<slug>/" (or "raw/" for legacy flat sources)
+#   converter:          mineru | preexisting | n/a
+#   converted:          YYYY-MM-DD | null
+#   image_processing:   YYYY-MM-DD | null | n/a (n/a if source has no images)
+#   ingested:           YYYY-MM-DD | null
+#   chapters_ingested:  [chapter-slug, ...] (book mode); [] for short mode
+#   aku_count:          integer
+#   taku_count:         integer
+#   last_commit:        short SHA of most recent ingest commit for this source
+#   notes:              free text
+
+sources:
+  - original: "raw/2.2-Motores de crecimiento - proncipales métricas.pdf"
+    name_slug: "2-2-motores-de-crecimiento"
+    raw_path: "raw/"
+    converter: preexisting
+    converted: 2026-06-02
+    image_processing: n/a
+    ingested: 2026-06-02
+    chapters_ingested: []
+    aku_count: 11
+    taku_count: 1
+    last_commit: f27be1d
+    notes: >
+      First ingest. Source was added manually before /pipeline existed and
+      lives flat in raw/ (not nested under raw/<slug>/). Future pipeline
+      runs will write to raw/<slug>/ subfolders. This entry is kept for
+      audit; do not migrate the path unless the source paths in all 11
+      AKUs' sources[] fields are updated in the same commit.

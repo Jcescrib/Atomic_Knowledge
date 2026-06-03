@@ -52,7 +52,19 @@ status: active           # active | deprecated | merged
 status_note: ""          # required when status ≠ active
 ---
 
+## Relaciones
+
 <!--
-Body is optional for AKUs. Use it only to expand the claim's mechanism, cite passages
-verbatim, or record reasoning behind confidence scoring. The frontmatter is the AKU.
+Mandatory body section. Mirror every non-empty frontmatter relation here as
+[[wikilink]] — Obsidian only draws graph edges from wikilink syntax, not
+from YAML. See CLAUDE.md § Body wikilinks.
+
+Format:  **<field>** <arrow> [[target-1]] · [[target-2]] · ...
+Arrows:  → outgoing, ← incoming, ↔ symmetric.
+Omit empty relations entirely — no placeholder lines.
+
+Example shape (delete this comment and replace):
+**supports** → [[aku-target-1]] · [[aku-target-2]]
+**constrained_by** ← [[aku-target-3]]
+**related** ↔ [[aku-target-4]]
 -->

@@ -82,3 +82,24 @@ declared taku_type. Lint verifies these headers exist.
               ## Protocol Steps  ## Decision Points  ## Exit Conditions
               ## Failure Handling  ## Review Trigger
 -->
+
+## Relaciones
+
+<!--
+Mandatory final body section. Mirror every non-empty aku_links.* and
+taku_relations.* field as [[wikilink]]. See CLAUDE.md § Body wikilinks.
+
+Format:  **<field>** <arrow> [[target-1]] · [[target-2]] · ...
+Arrows:  AKU-link incoming (justified_by, constrained_by) ← ;
+         AKU-link outgoing (breaks_when, illustrates, challenges) → ;
+         TAKU symmetric (complementary, alternative_to) ↔ ;
+         TAKU sequence: precedes → , follows ← .
+Omit empty fields entirely.
+
+Example:
+**justified_by** ← [[aku-x]] · [[aku-y]]
+**constrained_by** ← [[aku-z]]
+**breaks_when** → [[aku-w]]
+**complementary** ↔ [[taku-a]]
+**precedes** → [[taku-b]]
+-->

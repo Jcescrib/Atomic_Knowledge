@@ -21,6 +21,8 @@ outputs/{queries,reports,lint}/   generated artifacts (gitignored)
 _meta/templates/           aku.md, taku.md, daily.md, source.md
 _spec/                     authoritative specifications (reference only)
 .claude/commands/          slash commands
+scripts/                   shell scripts called by slash commands (pipeline.sh)
+_meta/pipeline-manifest.yml  per-source state for /pipeline resumability
 index.md                   router + validation dashboard
 log.md                     append-only operational history
 ```
@@ -39,8 +41,30 @@ log.md                     append-only operational history
 5. Never auto-activate a TAKU. LLM authorship produces `status: draft` only.
 6. Surface `validated-false` AKUs in every domain/situational retrieval. Do not filter them.
 7. Mandatory semantic dedup before creating any AKU (see Ingest below).
+8. Body `## Relaciones` section is mandatory and must mirror non-empty frontmatter relations exactly. Three layers stay in sync on every edit: frontmatter inverse on the other file + body wikilinks on this file + body wikilinks on the other file.
+
+## Pipeline (`/pipeline <folder>`)
+
+End-to-end ingestion of an external folder of PDFs and/or pre-converted markdowns, with resumability. Use `/pipeline` for batches and book-length sources; use `/ingest` for a single source already in `raw/`. Run `/pipeline` only against EXTERNAL folders, never the vault itself.
+
+**Phases**:
+
+1. **DISCOVER** — `scripts/pipeline.sh discover <folder>` lists every `.pdf` (recursive) and every `.md` candidate. Cross-reference `_meta/pipeline-manifest.yml`; items with `ingested: <date>` are skipped.
+2. **CONVERT / ADOPT** — For each PDF: `scripts/pipeline.sh convert <pdf>` runs MinerU, moves only `.md` + `images/` to `raw/<slug>/`, rewrites image refs to flat `images/<filename>`, and discards all MinerU scaffolding (`*middle.json`, `*model.json`, `*content_list*.json`, `*_layout.pdf`, `*_span.pdf`, `*_origin.pdf`). For each pre-converted markdown: `scripts/pipeline.sh adopt <md>` copies it + any adjacent `images/` folder into `raw/<slug>/`.
+3. **PROCESS IMAGES AND TABLES** — Tables (inline `<table>` HTML from MinerU) are read directly during ingest. Images are classified per reference:
+   - **Informational** (diagram, chart, framework figure, schema, data viz, structured screenshot) → vision-analyze, insert a `> **Figura**: <descripción precisa en español>` blockquote immediately after the image reference. Maximum fidelity — the figure's knowledge must be extractable from the description alone.
+   - **Decorative** (cover, portrait, ornament, divider, brand mark) → leave the reference, extract nothing.
+   - Idempotent: existing `> **Figura**:` captions are detected and skipped.
+4. **INGEST** — Short markdowns (≤500 lines, no H1 chapter structure): one pass via § Ingest workflow, one commit. Long markdowns/books: parse H1 (fall back to H2) into chapters; per chapter, run the full ingest workflow with dedup against the growing graph (including AKUs from earlier chapters of the same book); write AKUs and TAKUs with frontmatter + body `## Relaciones` wikilinks (three-layer sync per § Body wikilinks); commit per chapter as `ingest: <book-slug> - <chapter-slug>`.
+5. **REPORT** — Counts (discovered/converted/adopted/image-processed/ingested/skipped), AKU/TAKU breakdown by class, dedup decisions pending, lint preview, commits made.
+
+**Manifest** — `_meta/pipeline-manifest.yml` tracks per-source state across phases. Re-running `/pipeline` resumes from the most recent incomplete phase. Each phase is idempotent.
+
+**Hard rules during pipeline** — All ingest rules apply unchanged. The pipeline command does not relax any rule; it batches the work.
 
 ## Ingest workflow (`/ingest <file-in-raw/>`)
+
+For batch processing of an external folder of PDFs/markdowns (including MinerU conversion and image vision-classification), use `/pipeline <folder>` above. The `/ingest` command below operates on one source already present in `raw/`.
 
 1. **Read the source completely.** Identify atomic propositions across all three AKU classes — claims, methods, and concepts (see § AKU classes) — and any executable structures (techniques, cases, tools, frameworks, heuristics, stories, protocols). Do not discard content-bearing definitions or formulas as "merely definitional."
 2. **For each candidate AKU, run semantic dedup against all active AKUs in `aku/`:**
@@ -147,6 +171,34 @@ Never average. Never hide divergence — high `llm_confidence` + `validated-fals
 - `human-validated`: confirmed by the human, fully operational.
 - Both dimensions (content + each link) are independent. A `human-reviewed` TAKU with all `llm-proposed` links is not fully validated.
 
+## Body wikilinks — Obsidian graph visibility
+
+Every AKU and TAKU body must include a `## Relaciones` section that mirrors all non-empty frontmatter relations as `[[wikilink]]` references. The frontmatter is the canonical, machine-readable source of truth; the body section is the Obsidian-graph-visible projection — Obsidian only renders graph edges from `[[wikilink]]` syntax, not from YAML.
+
+**Format**:
+- One line per non-empty relation field.
+- `**<field>** <arrow> [[target-1]] · [[target-2]] · ...`
+- Field names stay in English; arrows: `→` outgoing, `←` incoming, `↔` symmetric.
+- Omit empty relations entirely — no placeholder lines.
+- For AKUs: `## Relaciones` is the only mandatory body content.
+- For TAKUs: `## Relaciones` is the **last** body section, after type-specific content.
+
+**Arrow convention**:
+- AKU outgoing (`supports`, `constrains`, `context_breaks_at`, `breaks_context_of`): `→`
+- AKU incoming (`supported_by`, `constrained_by`): `←`
+- AKU symmetric (`contradicts`, `related`): `↔`
+- TAKU AKU-link incoming (`justified_by`, `constrained_by`): `←`
+- TAKU AKU-link outgoing (`breaks_when`, `illustrates`, `challenges`): `→`
+- TAKU sibling symmetric (`complementary`, `alternative_to`): `↔`
+- TAKU sequence: `precedes` →, `follows` ←
+
+**Three-layer sync** — every relation edit propagates to three places:
+1. Frontmatter inverse on the OTHER file.
+2. Body wikilink on THIS file.
+3. Body wikilink on the OTHER file.
+
+Lint verifies all three.
+
 ## Bidirectional retrieval (`/query`)
 
 Every retrieval response has two sections:
@@ -188,6 +240,9 @@ Run all checks; write report to `outputs/lint/YYYY-MM-DD.md`. Flag:
 - Contradictions unresolved >30d.
 - AKUs with only `related` links after 14d → shallow integration.
 - AKUs missing the `aku_class` field → unclassified, fix at next pass.
+- Body `## Relaciones` section missing on any active AKU or TAKU → structural error.
+- Body wikilinks don't match frontmatter relations (missing, extra, or mistyped slug) → structural error.
+- Pipeline manifest references a source with no corresponding `raw/<slug>/` folder → broken manifest entry.
 - `related` links >30d → propose typed upgrade or `related-confirmed`.
 - AKUs with zero relations → isolated nodes.
 - Foundational AKUs (10+ incoming `supports`) → axiom candidates.
