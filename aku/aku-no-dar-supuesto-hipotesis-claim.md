@@ -37,6 +37,7 @@ relations:
   contradicts: []
   related:
     - aku-falso-positivo-validation-concept
+    - aku-asumir-equivocarse-claim
 
 sources:
   - "raw/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md"
@@ -51,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-hipotesis-concept]]
 
-**related** ↔ [[aku-falso-positivo-validation-concept]]
+**related** ↔ [[aku-falso-positivo-validation-concept]] · [[aku-asumir-equivocarse-claim]]

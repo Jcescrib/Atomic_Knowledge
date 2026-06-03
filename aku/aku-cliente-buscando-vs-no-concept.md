@@ -39,6 +39,7 @@ relations:
   related:
     - aku-segmentos-de-clientes-concept
     - aku-no-clientes-concept
+    - aku-oceano-rojo-concept
 
 sources:
   - "raw/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md"
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-segmentos-de-clientes-concept]] · [[aku-no-clientes-concept]]
+**related** ↔ [[aku-segmentos-de-clientes-concept]] · [[aku-no-clientes-concept]] · [[aku-oceano-rojo-concept]]

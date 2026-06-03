@@ -34,7 +34,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-no-dar-supuesto-hipotesis-claim
 
 sources:
   - "raw/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md"
@@ -48,3 +49,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-lean-startup-method-concept]]
+
+**related** ↔ [[aku-no-dar-supuesto-hipotesis-claim]]

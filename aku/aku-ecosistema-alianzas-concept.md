@@ -37,6 +37,9 @@ relations:
   contradicts: []
   related:
     - aku-bmc-concept
+    - aku-recursos-clave-concept
+    - aku-actividades-clave-concept
+    - aku-canales-de-distribucion-concept
 
 sources:
   - "raw/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc.md"
@@ -49,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-bmc-concept]]
+**related** ↔ [[aku-bmc-concept]] · [[aku-recursos-clave-concept]] · [[aku-actividades-clave-concept]] · [[aku-canales-de-distribucion-concept]]

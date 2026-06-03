@@ -35,6 +35,7 @@ relations:
   contradicts: []
   related:
     - aku-cosas-importantes-concept
+    - aku-propuesta-de-valor-concept
 
 sources:
   - "raw/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a.md"
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-beneficio-emocional-concept]]
 
-**related** ↔ [[aku-cosas-importantes-concept]]
+**related** ↔ [[aku-cosas-importantes-concept]] · [[aku-propuesta-de-valor-concept]]
