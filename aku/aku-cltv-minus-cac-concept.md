@@ -42,6 +42,7 @@ relations:
     - aku-cltv-cac-ratio-concept
     - aku-cltv-gross-margin-over-revenue
     - aku-motor-crecimiento-pago-concept
+    - aku-palancas-marketing-digital-concept
 
 sources:
   - "raw/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md"
@@ -58,4 +59,4 @@ status_note: ""
 
 **supports** → [[aku-cltv-cac-dual-optimization]]
 
-**related** ↔ [[aku-cltv-cac-ratio-concept]] · [[aku-cltv-gross-margin-over-revenue]] · [[aku-motor-crecimiento-pago-concept]]
+**related** ↔ [[aku-cltv-cac-ratio-concept]] · [[aku-cltv-gross-margin-over-revenue]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-palancas-marketing-digital-concept]]

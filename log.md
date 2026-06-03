@@ -208,3 +208,10 @@ Source: `raw/5-1-clave-powerselling/...md` (The Power MBA — 5.1 «Power Sellin
 ## 2026-06-03 — pipeline (módulo 05, 5.2)
 Source: `raw/5-2-m-etricas-clave-en-motores-de-crecimiento/...md` (The Power MBA — 5.2). Tabla-resumen de métricas (ARPU, Lifetime, Churn, CLTV, CAC, CLTV-CAC, CLTV/CAC, CAC payback, coef. viralidad).
 - **0 AKUs nuevos**: recap exacto del cluster de métricas ya cubierto en módulo 2.2 (arpu, cltv, cac, churn-rate, cltv-minus-cac, cltv-cac-ratio, cac-payback, coeficiente-viralidad). Decisión conservadora: no se añade como 2ª fuente ni se sube confianza (misma org, tabla-resumen que usa las métricas como labels, no las redefine; mismo criterio que 3.01.01). Lifetime=1/Churn no se aísla como AKU (cubierto en fórmulas CLTV). Registrado como ingested para que /pipeline lo salte.
+
+## 2026-06-03 — pipeline (módulo 05, 5.3)
+Source: `raw/5-3-visi-on-estrat-egica/...md` (The Power MBA — 5.3 «Visión estratégica»). 158 líneas, 2 imágenes decorativas (embudos sin labels).
+- **6 AKUs nuevos** (5 concept + 1 claim): `power-funnel` (incluye 5.3.1 como 2ª fuente), `funnel-corto-vs-largo`, `objetivos-negocio`, `palancas-marketing-digital`, `atribucion`; claim `conversion-olvidada`.
+- **1 framework TAKU**: `taku-power-funnel` (4 jb + 1 constrained_by), complementary a `digital-growth-engine-metrics-map`.
+- INTEGRATE fuerte con cluster métricas: palancas ↔ cltv/cac/cltv-minus-cac; conversion-olvidada ↔ cltv-cac-dual-optimization/cac; power-funnel ↔ motor-crecimiento/lead-magnet; atribucion ↔ cac/canales-de-distribucion.
+- Sin dedup-merges.

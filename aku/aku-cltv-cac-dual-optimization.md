@@ -31,7 +31,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-conversion-olvidada-claim
 
 sources:
   - "raw/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md"
@@ -45,3 +46,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-cltv-concept]] · [[aku-cac-concept]] · [[aku-cltv-minus-cac-concept]]
+**related** ↔ [[aku-conversion-olvidada-claim]]

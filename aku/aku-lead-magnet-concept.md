@@ -32,7 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-cliente-buscando-vs-no-concept, aku-leyes-persuasion-cialdini-concept]
+  related: [aku-cliente-buscando-vs-no-concept, aku-leyes-persuasion-cialdini-concept, aku-power-funnel-concept]
 
 sources:
   - raw/5-1-clave-powerselling/5-1-clave-powerselling.md
@@ -45,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cliente-buscando-vs-no-concept]] · [[aku-leyes-persuasion-cialdini-concept]]
+**related** ↔ [[aku-cliente-buscando-vs-no-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-power-funnel-concept]]

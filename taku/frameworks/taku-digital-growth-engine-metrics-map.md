@@ -76,6 +76,7 @@ human_certainty:
 taku_relations:
   complementary:
     - taku-tres-motores-crecimiento
+    - taku-power-funnel
   alternative_to: []
   precedes: []
   follows:
@@ -162,6 +163,6 @@ El marco descansa sobre dos conceptos centrales (CLTV y CAC) y un claim estraté
 
 **justified_by** ← [[aku-cltv-concept]] · [[aku-cac-concept]] · [[aku-arpu-concept]] · [[aku-churn-rate-concept]] · [[aku-cac-payback-concept]] · [[aku-cltv-cac-ratio-concept]] · [[aku-cltv-minus-cac-concept]] · [[aku-cltv-subscription-formula]] · [[aku-cltv-transactional-formula]] · [[aku-cltv-gross-margin-over-revenue]] · [[aku-cltv-cac-dual-optimization]]
 
-**complementary** ↔ [[taku-tres-motores-crecimiento]]
+**complementary** ↔ [[taku-tres-motores-crecimiento]] · [[taku-power-funnel]]
 
 **follows** ← [[taku-tres-motores-crecimiento]]

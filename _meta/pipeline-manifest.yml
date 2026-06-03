@@ -352,3 +352,18 @@ sources:
     notes: >
       Tabla-resumen de métricas. 0 AKUs nuevos (recap del cluster métricas del
       módulo 2.2). Dedup conservador: sin bump de confianza ni nuevas fuentes.
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.3 visión estratégica.pdf"
+    name_slug: "5-3-visi-on-estrat-egica"
+    raw_path: "raw/5-3-visi-on-estrat-egica/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: 2026-06-03
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 6
+    taku_count: 1
+    last_commit: ""
+    notes: >
+      Visión estratégica / Power Funnel. 5 concept + 1 claim AKUs, 1 framework
+      TAKU (power-funnel). Integrado con cluster de métricas. 2 imágenes decorativas.
