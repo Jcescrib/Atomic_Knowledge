@@ -219,3 +219,8 @@ Source: `raw/5-3-visi-on-estrat-egica/...md` (The Power MBA — 5.3 «Visión es
 ## 2026-06-03 — pipeline (módulo 05, 5.3.1)
 Source: `raw/5-3-1-tabla-power-funnel/...md` (tabla Power Funnel: etapas × estrategias/herramientas/métricas/responsables).
 - **0 AKUs nuevos**: la tabla es la plantilla de etapas del Power Funnel, ya incorporada al statement de `aku-power-funnel-concept`, que cita 5.3.1 como 2ª fuente. Registrado como ingested.
+
+## 2026-06-03 — pipeline (módulo 05, 5.3.2)
+Source: `raw/5-3-2-objetivos-formula-que-lo-relaciona-todo/...md` (28 líneas, 1 imagen decorativa).
+- **1 method-AKU**: `formula-objetivos-marketing-method` (Ventas/MB/ROI en función de las 4 palancas: tráfico × conversión × CLTV / CLTV-CAC). Related a objetivos-negocio, palancas-marketing-digital, cltv-minus-cac.
+- Cierra el cluster estratégico de módulo 05 (5.3+5.3.1+5.3.2).

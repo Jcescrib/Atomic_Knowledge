@@ -33,7 +33,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-objetivos-negocio-concept, aku-cltv-concept, aku-cac-concept, aku-cltv-minus-cac-concept, aku-conversion-olvidada-claim]
+  related: [aku-objetivos-negocio-concept, aku-cltv-concept, aku-cac-concept, aku-cltv-minus-cac-concept, aku-conversion-olvidada-claim, aku-formula-objetivos-marketing-method]
 
 sources:
   - raw/5-3-visi-on-estrat-egica/5-3-visi-on-estrat-egica.md
@@ -46,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-objetivos-negocio-concept]] · [[aku-cltv-concept]] · [[aku-cac-concept]] · [[aku-cltv-minus-cac-concept]] · [[aku-conversion-olvidada-claim]]
+**related** ↔ [[aku-objetivos-negocio-concept]] · [[aku-cltv-concept]] · [[aku-cac-concept]] · [[aku-cltv-minus-cac-concept]] · [[aku-conversion-olvidada-claim]] · [[aku-formula-objetivos-marketing-method]]
