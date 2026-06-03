@@ -6,26 +6,49 @@ Router and validation dashboard. Updated by `/ingest`, `/pipeline`, `/lint`, and
 
 | Layer | Active | Draft | Deprecated | Validated-false / failing |
 |---|---|---|---|---|
-| AKU | 0 | — | 0 | 0 |
-| TAKU | 0 | 0 | 0 | 0 |
+| AKU | 14 | — | 0 | 0 |
+| TAKU | 0 | 1 | 0 | 0 |
 
-_Last updated: 2026-06-03 (post-reset — empty vault, ready for first real ingest)_
+By AKU class: **12 concept**, **0 method**, **2 claim** · all `unvalidated` · all `epistemic_type: sourced` · all `llm_confidence: 0.50`.
+
+_Last updated: 2026-06-03 (pipeline ingest #1: 2.1-bmc — first PDF of module 02-Innovación)_
 
 ## Pending validation queue
 
 Items awaiting human review. Surface order: oldest first.
 
 ### AKUs to validate (in practice)
-_(none yet — AKUs created from sources start `unvalidated`; populate `human_certainty` after real-world testing)_
+
+All 14 AKUs from the 2.1-BMC ingest are `unvalidated` — populate `human_certainty` after real-world testing:
+
+**Concept-AKUs (12)**
+- `aku-bmc-concept`
+- `aku-segmentos-de-clientes-concept`
+- `aku-propuesta-de-valor-concept`
+- `aku-canales-de-distribucion-concept`
+- `aku-canal-directo-concept`
+- `aku-canal-indirecto-concept`
+- `aku-relaciones-con-clientes-concept`
+- `aku-flujos-de-ingresos-concept`
+- `aku-recursos-clave-concept`
+- `aku-actividades-clave-concept`
+- `aku-ecosistema-alianzas-concept`
+- `aku-estructura-de-costes-concept`
+
+**Claim-AKUs (2)**
+- `aku-segmento-relevante-claim`
+- `aku-coste-prioridad-segun-estrategia-claim`
 
 ### TAKUs awaiting activation
-_(LLM-authored TAKUs sit in `status: draft` until the human reviews content + AKU links and sets `active`)_
+
+- `taku-business-model-canvas` (framework, draft, `content_validation: llm-authored`)
 
 ### AKU links awaiting validation
-_(every `llm-proposed` link surfaces here until promoted to `human-validated` or removed)_
+
+14 `llm-proposed` links on `taku-business-model-canvas` (all `justified_by`). Promote each to `human-validated` after reviewing its `link_note`. Note: link count exceeds the lint threshold of 7 — expected for a comprehensive framework that covers an entire 9-block canvas.
 
 ### Dedup candidates
-_(pairs of similar AKUs flagged by `/ingest` for merge/distinct decision)_
+_(none — fresh post-reset graph; the 2.1-BMC ingest was vacuous against the empty starting state)_
 
 ## Lint flags (latest run)
 
@@ -33,7 +56,17 @@ _No lint runs since reset. Run `/lint` to populate. Reports archived in `outputs
 
 ## Domain map
 
-_(open taxonomy — populated as AKUs accumulate)_
+Tags currently in use (open taxonomy):
+
+- `business-model` (14) · `bmc` (14)
+- `strategy` (3) · `customer` (4) · `framework` (2)
+- `distribution` (3) · `channel` (2)
+- `segmentation` (2) · `methodology` (1)
+- `value-proposition` (1)
+- `relationship` (1) · `revenue` (1) · `monetization` (1)
+- `resources` (1) · `operations` (2) · `activities` (1)
+- `partnerships` (1) · `ecosystem` (1)
+- `cost` (1) · `finance` (1) · `cost-management` (1)
 
 ## How to navigate
 
