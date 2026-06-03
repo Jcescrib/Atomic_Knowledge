@@ -164,3 +164,11 @@ Source: `raw/4-1-an-alisis-de-un-sector/...md` (The Power MBA — Módulo 4.1 «
 Source: `raw/4-2-1-intro-estrategias-competitivas/...md` (The Power MBA — 4.2.1, intro). 38 líneas, 2 imágenes decorativas (portada vídeo + retrato cita Jack Welch).
 - **2 concept-AKUs nuevos** (introductorios): `aku-ventaja-competitiva-concept`, `aku-estrategias-genericas-porter-concept` (umbrella de las 3/4 estrategias genéricas). Se enriquecerán y recibirán 4.2.2 como 2ª fuente en el siguiente PDF.
 - Sin dedup-merges. Sin TAKUs (la intro no aporta estructura ejecutable; el framework va en 4.2.2).
+
+## 2026-06-03 — pipeline (módulo 04, PDF 3/6: 4.2.2)
+Source: `raw/4-2-2-estrategias-competitivas/...md` (The Power MBA — 4.2.2). 119 líneas, 1 imagen informational (matriz 2×2 estrategias genéricas) con blockquote.
+- **6 AKUs nuevos** (3 concept + 3 claim): `liderazgo-en-coste`, `estrategia-diferenciacion`, `factores-internos-recursos-capacidades`; claims `atrapado-medio`, `diferenciacion-mayores-margenes`, `liderazgo-coste-imitable`.
+- **1 framework TAKU**: `taku-estrategias-genericas-porter` (5 jb + 1 constrained_by). `complementary` ↔ cinco-fuerzas-porter; `alternative_to` ↔ estrategia-oceano-azul.
+- **CONTRADICCIÓN modelada**: `atrapado-medio-claim` (Porter «stuck in the middle») ↔ `contradicts` ↔ `mas-valor-menos-coste-no-tradeoff-claim` (océano azul). Anclado en texto en ambos lados (el claim de océano azul cita literalmente «la estrategia competitiva tradicional»). Penalización determinista −0.30 a la claim más antigua: `mas-valor-menos-coste` 0.50 → 0.20. Ambos AKUs preservados; divergencia = señal epistémica.
+- **Dedup/enriquecimiento**: `nicho-strategy` recibe 4.2.2 como 2ª fuente (lección distinta a 2.4 → corroboración → 0.50→0.60), statement enriquecido con framing Porter (3 dimensiones + sub-especialización). `ventaja-competitiva` y `estrategias-genericas-porter` reciben 4.2.2 como fuente SIN bump (misma lección que 4.2.1, regla de independencia: mismo autor/lección = una fuente).
+- INTEGRATE: inverse `related` a barreras-de-entrada, mass-market, commodity, diferenciacion-sector, recursos-clave, actividades-clave; supported_by chains a estrategias-genericas y ventaja-competitiva.

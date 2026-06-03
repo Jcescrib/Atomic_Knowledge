@@ -12,7 +12,10 @@ statement: >
 origin: "The Power MBA — Módulo 2.6 «Cómo crear propuestas de valor disruptivas y buscar tu océano azul»"
 domain: [strategy, blue-ocean, value-proposition, competitive-strategy]
 
-llm_confidence: 0.50
+llm_confidence: 0.20
+# 0.50 baseline − 0.30 al encontrarse una claim contradictoria más reciente
+# (aku-atrapado-medio-claim, Porter «stuck in the middle», módulo 4.2). Ambos
+# AKUs se preservan; la divergencia es la señal epistémica valiosa.
 
 human_certainty:
   status: unvalidated
@@ -32,7 +35,8 @@ relations:
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
-  contradicts: []
+  contradicts:
+    - aku-atrapado-medio-claim
   related: []
 
 sources:
@@ -47,3 +51,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-innovacion-valor-concept]]
+**contradicts** ↔ [[aku-atrapado-medio-claim]]

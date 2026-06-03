@@ -26,17 +26,18 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-estrategias-genericas-porter-concept]
+  supported_by: [aku-estrategias-genericas-porter-concept, aku-factores-internos-recursos-capacidades-concept]
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related: [aku-barreras-de-entrada-concept]
 
 sources:
   - raw/4-2-1-intro-estrategias-competitivas/4-2-1-intro-estrategias-competitivas.md
+  - raw/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
 
 created: 2026-06-03
 updated: 2026-06-03
@@ -46,4 +47,5 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-estrategias-genericas-porter-concept]]
+**supported_by** ← [[aku-estrategias-genericas-porter-concept]] · [[aku-factores-internos-recursos-capacidades-concept]]
+**related** ↔ [[aku-barreras-de-entrada-concept]]

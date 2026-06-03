@@ -54,7 +54,7 @@ human_certainty:
   method: ""
 
 taku_relations:
-  complementary: [taku-analisis-pest, taku-ciclo-vida-producto, taku-estrategia-oceano-azul]
+  complementary: [taku-analisis-pest, taku-ciclo-vida-producto, taku-estrategia-oceano-azul, taku-estrategias-genericas-porter]
   alternative_to: []
   precedes: []
   follows: []
@@ -121,4 +121,4 @@ sector en el que compite.
 ## Relaciones
 
 **justified_by** ← [[aku-cinco-fuerzas-porter-concept]] · [[aku-amenaza-sustitutivos-concept]] · [[aku-barreras-de-entrada-concept]] · [[aku-poder-proveedores-concept]] · [[aku-poder-compradores-concept]] · [[aku-rivalidad-competitiva-concept]]
-**complementary** ↔ [[taku-analisis-pest]] · [[taku-ciclo-vida-producto]] · [[taku-estrategia-oceano-azul]]
+**complementary** ↔ [[taku-analisis-pest]] · [[taku-ciclo-vida-producto]] · [[taku-estrategia-oceano-azul]] · [[taku-estrategias-genericas-porter]]

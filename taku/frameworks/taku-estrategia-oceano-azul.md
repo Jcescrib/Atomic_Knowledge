@@ -70,7 +70,7 @@ taku_relations:
   complementary:
     - taku-power-value-modelo
     - taku-cinco-fuerzas-porter
-  alternative_to: []
+  alternative_to: [taku-estrategias-genericas-porter]
   precedes: []
   follows: []
 
@@ -142,3 +142,4 @@ Estrategia formulada por Kim & Mauborgne (INSEAD, 1990; libro de 2005) para crea
 **justified_by** ← [[aku-oceano-azul-concept]] · [[aku-oceano-rojo-concept]] · [[aku-innovacion-valor-concept]] · [[aku-curva-valor-concept]] · [[aku-matriz-rice-concept]] · [[aku-no-clientes-concept]] · [[aku-factores-competitivos-concept]] · [[aku-empresas-borregos-claim]] · [[aku-mas-valor-menos-coste-no-tradeoff-claim]]
 
 **complementary** ↔ [[taku-power-value-modelo]] · [[taku-cinco-fuerzas-porter]]
+**alternative_to** ↔ [[taku-estrategias-genericas-porter]]

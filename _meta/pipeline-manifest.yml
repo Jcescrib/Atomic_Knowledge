@@ -253,3 +253,21 @@ sources:
       Intro a estrategias competitivas. 2 concept-AKUs fundacionales
       (ventaja-competitiva, estrategias-genericas-porter). 2 imágenes
       decorativas. Detalle de las estrategias en 4.2.2.
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\04-Business and Marketing strategies\4.2.2 Estrategias competitivas.pdf"
+    name_slug: "4-2-2-estrategias-competitivas"
+    raw_path: "raw/4-2-2-estrategias-competitivas/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: 2026-06-03
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 6
+    taku_count: 1
+    last_commit: ""
+    notes: >
+      Estrategias genéricas de Porter. 3 concept + 3 claim AKUs. 1 framework
+      TAKU (alternative_to océano azul). Contradicción modelada atrapado-medio
+      ↔ mas-valor-menos-coste-no-tradeoff (−0.30 → 0.20 en la más antigua).
+      Enriquecidos ventaja-competitiva/estrategias-genericas (4.2.1+4.2.2 misma
+      lección, sin bump) y nicho-strategy (2.4+4.2.2, 0.60).
