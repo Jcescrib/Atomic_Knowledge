@@ -32,7 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-vender-una-accion-concept, aku-emocion-prevalece-razon-claim, aku-brandscript-storybrand-concept]
+  related: [aku-vender-una-accion-concept, aku-emocion-prevalece-razon-claim, aku-brandscript-storybrand-concept, aku-publicidad-nativa-concept]
 
 sources:
   - raw/5-1-clave-powerselling/5-1-clave-powerselling.md
@@ -45,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-vender-una-accion-concept]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-brandscript-storybrand-concept]]
+**related** ↔ [[aku-vender-una-accion-concept]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-brandscript-storybrand-concept]] · [[aku-publicidad-nativa-concept]]

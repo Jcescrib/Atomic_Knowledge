@@ -396,3 +396,19 @@ sources:
     last_commit: ""
     notes: >
       Fórmula que relaciona objetivos con palancas. 1 method-AKU. 1 imagen decorativa.
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.4.1- atracción y branding.pdf"
+    name_slug: "5-4-1-atracci-on-y-branding"
+    raw_path: "raw/5-4-1-atracci-on-y-branding/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 8
+    taku_count: 1
+    last_commit: ""
+    notes: >
+      Atracción y branding: calidad/cantidad tráfico, performance/inbound/outbound,
+      taxonomía de canales, publicidad nativa, influencers, ROI vs ROAS. 8 concept
+      AKUs + 1 framework TAKU (mix-canales-atraccion).

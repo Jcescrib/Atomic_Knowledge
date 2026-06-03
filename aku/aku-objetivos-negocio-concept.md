@@ -30,7 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-palancas-marketing-digital-concept, aku-power-funnel-concept, aku-formula-objetivos-marketing-method]
+  related: [aku-palancas-marketing-digital-concept, aku-power-funnel-concept, aku-formula-objetivos-marketing-method, aku-roi-vs-roas-concept]
 
 sources:
   - raw/5-3-visi-on-estrat-egica/5-3-visi-on-estrat-egica.md
@@ -43,4 +43,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-palancas-marketing-digital-concept]] · [[aku-power-funnel-concept]] · [[aku-formula-objetivos-marketing-method]]
+**related** ↔ [[aku-palancas-marketing-digital-concept]] · [[aku-power-funnel-concept]] · [[aku-formula-objetivos-marketing-method]] · [[aku-roi-vs-roas-concept]]

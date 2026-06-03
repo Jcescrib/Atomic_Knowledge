@@ -224,3 +224,10 @@ Source: `raw/5-3-1-tabla-power-funnel/...md` (tabla Power Funnel: etapas × estr
 Source: `raw/5-3-2-objetivos-formula-que-lo-relaciona-todo/...md` (28 líneas, 1 imagen decorativa).
 - **1 method-AKU**: `formula-objetivos-marketing-method` (Ventas/MB/ROI en función de las 4 palancas: tráfico × conversión × CLTV / CLTV-CAC). Related a objetivos-negocio, palancas-marketing-digital, cltv-minus-cac.
 - Cierra el cluster estratégico de módulo 05 (5.3+5.3.1+5.3.2).
+
+## 2026-06-03 — pipeline (módulo 05, 5.4.1)
+Source: `raw/5-4-1-atracci-on-y-branding/...md` (180 líneas, sin imágenes). Lección de atracción/canales.
+- **8 concept-AKUs**: `calidad-vs-cantidad-trafico`, `performance-marketing`, `inbound-marketing`, `outbound-marketing`, `canales-marketing-digital` (taxonomía de canales), `publicidad-nativa`, `marketing-influencers`, `roi-vs-roas`.
+- **1 framework TAKU**: `taku-mix-canales-atraccion` (4 jb + 1 constrained_by), complementary a power-funnel.
+- Dedup: «branding» de 5.4.1 = brand-awareness/marca (4.4) → no se duplica; se relaciona. Email/SEO/SEM/display/programática se pliegan en canales-marketing-digital.
+- INTEGRATE: canales ↔ canales-de-distribucion/atribucion; calidad-cantidad ↔ palancas/power-funnel; publicidad-nativa ↔ estilo-editorial; influencers ↔ cialdini; roi-vs-roas ↔ objetivos-negocio/formula; inbound ↔ lead-magnet; performance ↔ brand-awareness.

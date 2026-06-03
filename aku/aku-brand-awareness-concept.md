@@ -34,7 +34,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related: [aku-performance-marketing-concept]
 
 sources:
   - raw/4-4-branding/4-4-branding.md
@@ -48,3 +48,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-brand-equity-concept]] · [[aku-gota-en-oceano-claim]]
+**related** ↔ [[aku-performance-marketing-concept]]
