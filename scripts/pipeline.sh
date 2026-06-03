@@ -107,8 +107,11 @@ cmd_convert() {
     exit 4
   fi
 
-  echo "[convert] MinerU ($MINERU_BIN) → $tmp" >&2
-  if ! "$MINERU_BIN" -p "$pdf" -o "$tmp"; then
+  # -b pipeline: force CPU backend (default hybrid-auto-engine requires CUDA)
+  # -l latin:    Latin-alphabet OCR (correct for Spanish/English content;
+  #              the MinerU default `-l ch` would degrade accent handling)
+  echo "[convert] MinerU ($MINERU_BIN) -b pipeline -l latin → $tmp" >&2
+  if ! "$MINERU_BIN" -p "$pdf" -o "$tmp" -b pipeline -l latin; then
     echo "ERROR: MinerU failed for $pdf" >&2
     exit 2
   fi
