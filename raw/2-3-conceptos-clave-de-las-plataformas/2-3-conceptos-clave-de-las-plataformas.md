@@ -20,6 +20,8 @@ Como consecuencia del network eect se produce un circulo virtuoso debido a que 
 
 ![](images/16d2e9b3defdae36023492f06d7a49514bd13c440e48d483746c1252cfdfc2b5.jpg)
 
+> **Figura**: Diagrama del círculo virtuoso de una plataforma. Dos cajas conectadas por flechas circulares bidireccionales: «MÁS USUARIOS» ⇄ «MÁS VALOR». Más usuarios generan más valor para todos (network effect), y más valor atrae más usuarios. La retroalimentación positiva, una vez en marcha, es auto-sostenida y acelera la captación.
+
 ## MASA CRÍTICA
 
 Las plataformas empiezan a crear valor cuando alcanzan cierta masa crítica. Por ejemplo, en un Marketplace se empieza a generar valor a los compradores cuando hay “suficientes” vendedores, y viceversa.
@@ -29,5 +31,7 @@ Las plataformas empiezan a crear valor cuando alcanzan cierta masa crítica. Por
 Visto desde la otra perspectiva, cuando no tienes usuarios, generas muy poco valor, lo que te dificultará crecer.
 
 ![](images/ee66457fe8d02b722f46659d48582dc5a26e5299d4d04ca0ee820edc36d31156.jpg)
+
+> **Figura**: Diagrama del círculo vicioso de una plataforma (espejo del virtuoso). Dos cajas conectadas por flechas circulares bidireccionales: «NO HAY USUARIOS» ⇄ «POCO VALOR». Sin usuarios no se genera valor, y sin valor no se atraen usuarios. Estado por defecto de una plataforma antes de alcanzar masa crítica; romper este ciclo es el reto del huevo y la gallina.
 
 <table><tr><td>EL &quot;HUEVO Y LA GALLINA&quot;</td><td>Así se conoce al reto de superar o romper el círculo vicioso.</td></tr><tr><td>MARKETPLACE</td><td>Plataforma que conecta la oferta y la demanda de productos y servicios de diversos tipos.</td></tr><tr><td>CLASIFICADOS</td><td>Modelo de negocio que tuvo mucho auge. Actualmente el término está en “desuso”. Se trata de plataformas que agregan oferta y demanda, con una propuesta gratuita para el usuario, y que monetizan principalmente mediante publicidad. Encajaría dentro del modelo Free. Algunos clasificados han incorporado cuotas Premium. (ej: Wallapop, Vibbo, etc.).</td></tr><tr><td>ON-DEMAND PLATFORMS</td><td>Plataformas como Uber, Cabify, Mr Jeff, Clintu... que ofrecen un servicio integral. Conectan oferta y demanda, pero no con la misma libertad que un Marketplace. Por ejemplo, los precios los fijas la plataforma. Ganan dinero cobrando una comisión por cada transacción.</td></tr><tr><td>PLATAFORMAS DE CONTENIDO</td><td>Plataformas como Youtube, Yelp, Tripadvisor.. en las que unos pocos crean contenido que todos consumen. Corresponden principalmente al modelo Free. En algunos casos también incorporan servicios Premium.</td></tr><tr><td>MODELOS DE NEGOCIO FREE</td><td>Atraen a millones de usuarios con una propuesta gratuita. Monetizan a sus usuarios vendiendo los &quot;datos” y la &quot;atención” a empresas anunciantes.</td></tr><tr><td>MODELOS DE</td><td>Ofrecen un servicio básico gratuito que les permite captar millones de usuarios y un servicio premium de mayor valor a cambio de, habitualmente, un precio en</td></tr><tr><td>NEGOCIO</td><td>formato suscripción. A veces también cobran por el consumo de un servicio</td></tr><tr><td>FREEMIUM</td><td>puntual.</td></tr></table>
