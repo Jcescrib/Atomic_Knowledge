@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-coeficiente-viralidad-concept, aku-motor-crecimiento-viral-concept, aku-ad-psychology-kolenda-concept]
+  related: [aku-coeficiente-viralidad-concept, aku-motor-crecimiento-viral-concept, aku-ad-psychology-kolenda-concept, aku-recomendacion-vs-viralizacion-concept]
 
 sources:
   - raw/pages-viral-marketing/pages-viral-marketing.md
@@ -44,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-coeficiente-viralidad-concept]] · [[aku-motor-crecimiento-viral-concept]] · [[aku-ad-psychology-kolenda-concept]]
+**related** ↔ [[aku-coeficiente-viralidad-concept]] · [[aku-motor-crecimiento-viral-concept]] · [[aku-ad-psychology-kolenda-concept]] · [[aku-recomendacion-vs-viralizacion-concept]]

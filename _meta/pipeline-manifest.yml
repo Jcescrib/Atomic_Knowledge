@@ -848,3 +848,40 @@ sources:
     taku_count: 0
     last_commit: ""
     notes: "Kolenda (tesis nuclear). The Tangled Mind (psicología evolutiva general, fuera de scope marketing). 0 AKUs."
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.7.1-Conceptos+Clave_+Fidelización+y+retención.pdf"
+    name_slug: "5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on"
+    raw_path: "raw/5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 2
+    taku_count: 0
+    last_commit: ""
+    notes: "Fidelización vs retención + claim retención-no-es-mala."
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.8.1-Conceptos+Clave_+Recomendacion+y+Viralizacion.pdf"
+    name_slug: "5-8-1-conceptos-clave-recomendacion-y-viralizacion"
+    raw_path: "raw/5-8-1-conceptos-clave-recomendacion-y-viralizacion/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: 2026-06-03
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 3
+    taku_count: 0
+    last_commit: ""
+    notes: "Recomendación vs viralización + 2 claims (boca-a-boca, depende-producto)."
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.8.2-Flywheel+Funnel.pdf"
+    name_slug: "5-8-2-flywheel-funnel"
+    raw_path: "raw/5-8-2-flywheel-funnel/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: 2026-06-03
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 1
+    taku_count: 1
+    last_commit: ""
+    notes: "Flywheel funnel (concept) + framework TAKU flywheel (alternative_to power-funnel)."

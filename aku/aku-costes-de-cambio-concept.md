@@ -32,7 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-poder-compradores-concept]
+  related: [aku-poder-compradores-concept, aku-fidelizacion-vs-retencion-concept]
 
 sources:
   - raw/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
@@ -46,4 +46,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-barreras-de-entrada-concept]]
-**related** ↔ [[aku-poder-compradores-concept]]
+**related** ↔ [[aku-poder-compradores-concept]] · [[aku-fidelizacion-vs-retencion-concept]]

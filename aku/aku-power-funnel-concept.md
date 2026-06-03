@@ -34,7 +34,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-objetivos-negocio-concept, aku-palancas-marketing-digital-concept, aku-funnel-corto-vs-largo-concept, aku-motor-crecimiento-concept, aku-lead-magnet-concept, aku-calidad-vs-cantidad-trafico-concept, aku-lead-concept, aku-estados-lead-funnel-concept, aku-cro-concept, aku-cuello-botella-funnel-concept]
+  related: [aku-objetivos-negocio-concept, aku-palancas-marketing-digital-concept, aku-funnel-corto-vs-largo-concept, aku-motor-crecimiento-concept, aku-lead-magnet-concept, aku-calidad-vs-cantidad-trafico-concept, aku-lead-concept, aku-estados-lead-funnel-concept, aku-cro-concept, aku-cuello-botella-funnel-concept, aku-fidelizacion-vs-retencion-concept, aku-flywheel-funnel-concept]
 
 sources:
   - raw/5-3-visi-on-estrat-egica/5-3-visi-on-estrat-egica.md
@@ -48,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-objetivos-negocio-concept]] · [[aku-palancas-marketing-digital-concept]] · [[aku-funnel-corto-vs-largo-concept]] · [[aku-motor-crecimiento-concept]] · [[aku-lead-magnet-concept]] · [[aku-calidad-vs-cantidad-trafico-concept]] · [[aku-lead-concept]] · [[aku-estados-lead-funnel-concept]] · [[aku-cro-concept]] · [[aku-cuello-botella-funnel-concept]]
+**related** ↔ [[aku-objetivos-negocio-concept]] · [[aku-palancas-marketing-digital-concept]] · [[aku-funnel-corto-vs-largo-concept]] · [[aku-motor-crecimiento-concept]] · [[aku-lead-magnet-concept]] · [[aku-calidad-vs-cantidad-trafico-concept]] · [[aku-lead-concept]] · [[aku-estados-lead-funnel-concept]] · [[aku-cro-concept]] · [[aku-cuello-botella-funnel-concept]] · [[aku-fidelizacion-vs-retencion-concept]] · [[aku-flywheel-funnel-concept]]

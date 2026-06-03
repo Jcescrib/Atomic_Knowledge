@@ -39,6 +39,7 @@ relations:
     - aku-cltv-concept
     - aku-motor-crecimiento-sticky-concept
     - aku-metricas-accionables-concept
+    - aku-fidelizacion-vs-retencion-concept
 
 sources:
   - "raw/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md"
@@ -53,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-cltv-subscription-formula]]
 
-**related** ↔ [[aku-cltv-concept]] · [[aku-motor-crecimiento-sticky-concept]] · [[aku-metricas-accionables-concept]]
+**related** ↔ [[aku-cltv-concept]] · [[aku-motor-crecimiento-sticky-concept]] · [[aku-metricas-accionables-concept]] · [[aku-fidelizacion-vs-retencion-concept]]

@@ -257,3 +257,11 @@ Bundle `5.6-nickkolenda-Marketing full PDF` (16 PDFs book-length). Decisión doc
 - **0 AKUs**: `bonus-pdf` («The Tangled Mind», psicología evolutiva general, fuera del scope de marketing) → registrado como referencia.
 - Cluster Kolenda conectado internamente + **6 puentes** al grafo principal (copywriting↔estilo-editorial, pricing↔ecuacion-valor, ecommerce↔cro, visual-attention/ux↔piramide-conversion, ad-psychology/methods/negotiation↔leyes-cialdini, naming↔marca, viral-marketing↔coeficiente-viralidad/motor-crecimiento-viral). Garantiza 1 componente.
 - **PDF FALLIDO recuperado**: Pricing Psychology falló en la pasada batch (timeout/recurso) y convirtió OK en reintento individual.
+
+## 2026-06-03 — pipeline (módulo 05, 5.7.1 + 5.8.1 + 5.8.2)
+- **5.7.1 «Fidelización y retención»**: 2 AKUs (`fidelizacion-vs-retencion` concept, `retencion-no-es-mala` claim). El funnel no acaba en la venta; fidelización (voluntad) vs retención (lock-in/costes-de-cambio/network-effect/prepago). INTEGRATE: ↔ churn-rate, costes-de-cambio, power-funnel.
+- **5.8.1 «Recomendación y viralización»**: 3 AKUs (`recomendacion-vs-viralizacion` concept, `boca-a-boca-supera-campana` + `recomendacion-depende-producto` claims). Reducen CAC ~0. INTEGRATE: ↔ coeficiente-viralidad, cac, viral-marketing-kolenda, leyes-cialdini, product-market-fit.
+- **5.8.2 «Flywheel Funnel»**: 1 AKU (`flywheel-funnel`) + framework TAKU `taku-flywheel-funnel` (`alternative_to` power-funnel). Rueda marketing-ventas-servicio; velocidad/fricción. ↔ fidelizacion, inbound, power-funnel.
+- Imágenes decorativas/descritas en texto.
+
+### Módulo 05 COMPLETO (42 PDFs)
