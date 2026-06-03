@@ -12,7 +12,7 @@ statement: >
 origin: "The Power MBA — Módulo 2.1 «Análisis de un modelo de negocio: Innovación BMC»"
 domain: [business-model, bmc, segmentation, customer]
 
-llm_confidence: 0.50
+llm_confidence: 0.60
 
 human_certainty:
   status: unvalidated
@@ -42,6 +42,7 @@ relations:
 
 sources:
   - "raw/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc.md"
+  - "raw/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md"
 
 created: 2026-06-03
 updated: 2026-06-03

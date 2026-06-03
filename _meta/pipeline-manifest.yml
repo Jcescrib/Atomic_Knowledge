@@ -87,3 +87,23 @@ sources:
       content, free/freemium). 12 concept-AKUs + 1 framework TAKU. 2 imágenes
       informational (los diagramas de los círculos) con blockquote consolidado
       por imagen. Sin solapamiento con clusters previos.
+
+  - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\02-Innovación en los modelos de negocio\\2.4-Segmentación y targeting Conceptos+clave+Clientes+y+mercado+objetivo.pdf"
+    name_slug: "2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo"
+    raw_path: "raw/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: 2026-06-03
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 10
+    taku_count: 2
+    last_commit: ""
+    notes: >
+      Cluster targeting/segmentación profundo: variables, customer persona,
+      3 estrategias (mass/segmentado/nicho), early adopters, clientes
+      buscando vs no, TAM/SAM/SOM, falacia del 1%, claim sobre nicho en
+      lanzamientos. Dedup: añadido como segunda fuente a aku-segmentos-de-
+      clientes-concept (llm_confidence 0.50→0.60). 2 imágenes informational
+      (TAM/SAM/SOM + top-down/bottom-up) con blockquotes. TAKUs: framework
+      de targeting + technique de customer persona.
