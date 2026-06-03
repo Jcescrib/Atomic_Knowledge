@@ -29,6 +29,7 @@ relations:
   related:
     - aku-canales-de-distribucion-concept
     - aku-canal-indirecto-concept
+    - aku-modelo-lineal-concept
 sources:
   - raw/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc.md
 created: 2026-06-03
@@ -39,4 +40,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-canales-de-distribucion-concept]] · [[aku-canal-indirecto-concept]]
+**related** ↔ [[aku-canales-de-distribucion-concept]] · [[aku-canal-indirecto-concept]] · [[aku-modelo-lineal-concept]]

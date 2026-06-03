@@ -26,7 +26,8 @@ _meta/templates/           aku.md, taku.md, daily.md, source.md
 _spec/                     authoritative specifications (reference only)
 .claude/commands/          slash commands
 scripts/                   shell scripts called by slash commands (pipeline.sh)
-_meta/pipeline-manifest.yml  per-source state for /pipeline resumability + origin paths
+_meta/pipeline-manifest.yml  per-source state for /pipeline resumability
+.claude/commands/audit-graph.md  /audit-graph — global graph integration audit + origin paths
 index.md                   router + validation dashboard
 log.md                     append-only operational history
 ```
@@ -82,6 +83,53 @@ For batch processing of an external folder of PDFs/markdowns (including MinerU c
 5. **Update `index.md`** (counts, pending validations).
 6. **Append to `log.md`** with what was ingested, AKUs created/updated, TAKUs proposed.
 7. **Commit** with `ingest: <source-name>`.
+
+## Integración del grafo
+
+El grafo se integra activamente. Ningún concepto nuevo queda huérfano por defecto. Se aplica en dos momentos.
+
+### En cada ingest — paso INTEGRATE (5.5) tras la deduplicación
+
+Después de crear los AKUs nuevos con sus inversos bidireccionales (paso 5 del Ingest workflow), añadir el paso **5.5 INTEGRATE**: para cada AKU nuevo, evaluar con qué AKUs **existentes del grafo** debería conectarse — no solo deduplicar contra ellos. Para cada AKU existente, buscar:
+
+- **Mención textual**: el `statement` del nuevo AKU menciona literalmente un término que es el concepto central del AKU existente, o viceversa.
+- **Adyacencia conceptual directa**: ambos describen el mismo objeto desde ángulos distintos, o uno es composición/instancia del otro.
+
+Wire las conexiones encontradas según la regla de los 3 niveles (abajo). Documentar las wires en el commit del ingest (no en una pasada posterior).
+
+### Auditoría global (`/audit-graph`)
+
+Operación periódica que escanea todo el grafo y propone puentes. Lanzada por el usuario explícitamente, no automática. Detecta:
+- Componentes conectados (debe ser 1 solo).
+- Nodos huérfanos (degree 0) — error.
+- Nodos sub-conectados (degree 1-2) — candidatos a wire-up.
+- Clusters temáticos aislados (>3 AKUs sin enlace externo).
+
+Genera propuestas clasificadas por los 3 niveles de rigor.
+
+### Regla de los 3 niveles de rigor
+
+Toda conexión candidata se clasifica en uno de tres niveles, de más a menos peso epistémico:
+
+**(a) Anclada en el texto de las fuentes** — el statement de un AKU menciona literalmente el concepto del otro (e.g., `canal-indirecto` dice «plataforma»; `ecosistema-alianzas` dice «recursos clave»). El agente **aplica directamente** sin pedir aprobación. Reportable, no preguntable.
+
+**(b) Conexión conceptual directa** — sin mención literal, los dos AKUs describen el mismo objeto desde ángulos distintos o uno es composición/instancia del otro (e.g., `modelo-lineal ↔ bmc`: un modelo lineal ES un modelo de negocio). El agente **propone con razonamiento; el humano aprueba antes de escribir**.
+
+**(c) Conocimiento práctico del humano** (siempre `epistemic_type: tacit` o `hybrid`, **nunca `sourced`**) — el humano aporta un claim o relación que viene de su experiencia, no del material de las fuentes. El agente **nunca lo crea unilateralmente**; solo lo soporta cuando el humano lo propone.
+
+### Quién decide qué
+
+- **Nivel (a)** → agente aplica. Lo lista en el reporte; no abre ronda de aprobación.
+- **Niveles (b) y (c)** → agente propone; humano aprueba antes de escribir.
+- **Rigor, no cantidad**: si dudas entre conectar o no, NO conectes y márcalo para revisión humana. Mejor un grafo parcialmente desconectado pero bien curado que sobre-conectado con puentes falsos.
+
+### Distinción crítica — conexión conceptual real ≠ coincidencia empírica
+
+Si la conexión aplica a «cualquier negocio» o «muchas empresas», es coincidencia empírica, no conceptual. Skip.
+
+Ejemplo del módulo 2.3:
+- ✓ `marketplace ↔ canal-indirecto`: definicional (canal-indirecto incluye «plataforma» como intermediario — anclado en texto).
+- ✗ `marketplace ↔ CLTV-CAC`: empírico (marketplaces aplican unit economics, pero TODA empresa los aplica — conexión genérica que no aporta).
 
 ## AKU creation rules
 
@@ -249,6 +297,7 @@ Run all checks; write report to `outputs/lint/YYYY-MM-DD.md`. Flag:
 - Body `## Relaciones` section missing on any active AKU or TAKU → structural error.
 - Body wikilinks don't match frontmatter relations (missing, extra, or mistyped slug) → structural error.
 - Pipeline manifest references a source with no corresponding `raw/<slug>/` folder → broken manifest entry.
+- Componentes conectados del grafo > 1 → fragmentación. Lanzar `/audit-graph` para detectar islas y proponer puentes.
 - `related` links >30d → propose typed upgrade or `related-confirmed`.
 - AKUs with zero relations → isolated nodes.
 - Foundational AKUs (10+ incoming `supports`) → axiom candidates.

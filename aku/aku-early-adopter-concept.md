@@ -38,6 +38,7 @@ relations:
     - aku-nicho-strategy-concept
     - aku-customer-persona-concept
     - aku-product-market-fit-concept
+    - aku-nicho-recomendado-lanzamiento-claim
 
 sources:
   - "raw/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md"
@@ -50,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-nicho-strategy-concept]] · [[aku-customer-persona-concept]] · [[aku-product-market-fit-concept]]
+**related** ↔ [[aku-nicho-strategy-concept]] · [[aku-customer-persona-concept]] · [[aku-product-market-fit-concept]] · [[aku-nicho-recomendado-lanzamiento-claim]]

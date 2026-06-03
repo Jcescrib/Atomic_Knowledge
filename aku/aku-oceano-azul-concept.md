@@ -42,6 +42,7 @@ relations:
     - aku-matriz-rice-concept
     - aku-curva-valor-concept
     - aku-innovar-vs-competir-concept
+    - aku-cliente-buscando-vs-no-concept
 
 sources:
   - "raw/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave.md"
@@ -54,4 +55,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-oceano-rojo-concept]] · [[aku-innovacion-valor-concept]] · [[aku-no-clientes-concept]] · [[aku-matriz-rice-concept]] · [[aku-curva-valor-concept]] · [[aku-innovar-vs-competir-concept]]
+**related** ↔ [[aku-oceano-rojo-concept]] · [[aku-innovacion-valor-concept]] · [[aku-no-clientes-concept]] · [[aku-matriz-rice-concept]] · [[aku-curva-valor-concept]] · [[aku-innovar-vs-competir-concept]] · [[aku-cliente-buscando-vs-no-concept]]

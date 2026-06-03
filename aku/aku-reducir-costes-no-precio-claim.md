@@ -35,6 +35,7 @@ relations:
   contradicts: []
   related:
     - aku-innovacion-valor-concept
+    - aku-ecuacion-valor-claim
 
 sources:
   - "raw/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a.md"
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-coste-percibido-amplio-concept]]
 
-**related** ↔ [[aku-innovacion-valor-concept]]
+**related** ↔ [[aku-innovacion-valor-concept]] · [[aku-ecuacion-valor-claim]]

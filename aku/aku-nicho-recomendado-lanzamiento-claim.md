@@ -33,7 +33,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-innovar-vs-competir-concept
+    - aku-early-adopter-concept
 
 sources:
   - "raw/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md"
@@ -47,3 +49,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-nicho-strategy-concept]]
+
+**related** ↔ [[aku-innovar-vs-competir-concept]] · [[aku-early-adopter-concept]]
