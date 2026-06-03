@@ -33,7 +33,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-cltv-concept
+    - aku-cac-concept
 
 sources:
   - "raw/2-2-1-tiposmotorescrecimiento/2-2-1-tiposmotorescrecimiento.md"
@@ -47,3 +49,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-motor-crecimiento-viral-concept]]
+
+**related** ↔ [[aku-cltv-concept]] · [[aku-cac-concept]]

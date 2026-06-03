@@ -42,6 +42,7 @@ relations:
     - aku-motor-crecimiento-pago-concept
     - aku-motor-crecimiento-sticky-concept
     - aku-coeficiente-viralidad-concept
+    - aku-cac-concept
 
 sources:
   - "raw/2-2-1-tiposmotorescrecimiento/2-2-1-tiposmotorescrecimiento.md"
@@ -56,4 +57,4 @@ status_note: ""
 
 **supported_by** ← [[aku-viral-bajo-cltv-compatible-claim]]
 
-**related** ↔ [[aku-motor-crecimiento-concept]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-motor-crecimiento-sticky-concept]] · [[aku-coeficiente-viralidad-concept]]
+**related** ↔ [[aku-motor-crecimiento-concept]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-motor-crecimiento-sticky-concept]] · [[aku-coeficiente-viralidad-concept]] · [[aku-cac-concept]]
