@@ -47,6 +47,7 @@ relations:
     - aku-churn-rate-concept
     - aku-motor-crecimiento-pago-concept
     - aku-viral-bajo-cltv-compatible-claim
+    - aku-metricas-accionables-concept
 
 sources:
   - "raw/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md"
@@ -63,4 +64,4 @@ status_note: ""
 
 **constrained_by** ← [[aku-cltv-gross-margin-over-revenue]]
 
-**related** ↔ [[aku-cac-concept]] · [[aku-arpu-concept]] · [[aku-churn-rate-concept]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-viral-bajo-cltv-compatible-claim]]
+**related** ↔ [[aku-cac-concept]] · [[aku-arpu-concept]] · [[aku-churn-rate-concept]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-viral-bajo-cltv-compatible-claim]] · [[aku-metricas-accionables-concept]]

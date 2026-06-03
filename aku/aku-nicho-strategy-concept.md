@@ -40,6 +40,7 @@ relations:
     - aku-mass-market-strategy-concept
     - aku-segmentado-strategy-concept
     - aku-early-adopter-concept
+    - aku-product-market-fit-concept
 
 sources:
   - "raw/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md"
@@ -54,4 +55,4 @@ status_note: ""
 
 **supported_by** ← [[aku-nicho-recomendado-lanzamiento-claim]]
 
-**related** ↔ [[aku-mass-market-strategy-concept]] · [[aku-segmentado-strategy-concept]] · [[aku-early-adopter-concept]]
+**related** ↔ [[aku-mass-market-strategy-concept]] · [[aku-segmentado-strategy-concept]] · [[aku-early-adopter-concept]] · [[aku-product-market-fit-concept]]

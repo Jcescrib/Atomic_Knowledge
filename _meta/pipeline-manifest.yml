@@ -151,3 +151,26 @@ sources:
       libro Blue Ocean, innovación en valor, matriz RICE, 3-niveles
       no-clientes) — el contenido equivalente está cubierto en el texto y
       en el body del TAKU; sin blockquotes individuales por eficiencia.
+
+  - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\03-Probando Modelos de Negocio y Lean Startup\\3.0.1-Lean StartUp+Lean+Startup+Recursos.pdf"
+    name_slug: "3-0-1-lean-startup-lean-startup-recursos"
+    raw_path: "raw/3-0-1-lean-startup-lean-startup-recursos/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: 2026-06-03
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 13
+    taku_count: 2
+    last_commit: ""
+    notes: >
+      Cluster Lean Startup (Eric Ries): 10 concept-AKUs (método, innovar-vs-
+      competir, PMF, build-measure-learn, hipótesis, MVP, Mago de Oz,
+      aprendizaje validado, métricas vanidosas/accionables) + 3 claim-AKUs
+      (asumir-equivocarse, aprender-clientes-reales, no-dar-supuesto-
+      hipótesis). 2 TAKUs: framework Lean Startup + tool plantilla-
+      experimentos. 3 imágenes (2 fragmentos canónicos del ciclo + 1
+      variante Power MBA) → 2 blockquotes informativas. Cross-source
+      related retroactive: cltv/cac/churn ↔ métricas-accionables;
+      early-adopter/nicho-strategy ↔ PMF; océano-rojo/azul ↔ innovar-vs-
+      competir.
