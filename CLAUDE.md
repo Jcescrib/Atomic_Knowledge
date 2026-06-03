@@ -13,7 +13,11 @@ You are the maintainer agent for this knowledge vault. The authoritative design 
 ## Vault layout
 
 ```
-raw/                       evidence (immutable; flat folder, any source type)
+raw/<slug>/<slug>.md       converted markdown of each source (canonical text the
+raw/<slug>/images/         vault works with) + paired figure images.
+                           PDFs and other source binaries NEVER live here.
+                           Original PDFs stay at their source location (G:\, OneDrive, etc.)
+                           and are read-only — see hard rule #9.
 capture/daily/             YYYY-MM-DD.md rough observations
 aku/                       one file per atomic claim — aku-<slug>.md
 taku/{techniques,cases,tools,frameworks,heuristics,stories,protocols}/
@@ -22,7 +26,7 @@ _meta/templates/           aku.md, taku.md, daily.md, source.md
 _spec/                     authoritative specifications (reference only)
 .claude/commands/          slash commands
 scripts/                   shell scripts called by slash commands (pipeline.sh)
-_meta/pipeline-manifest.yml  per-source state for /pipeline resumability
+_meta/pipeline-manifest.yml  per-source state for /pipeline resumability + origin paths
 index.md                   router + validation dashboard
 log.md                     append-only operational history
 ```
@@ -30,7 +34,7 @@ log.md                     append-only operational history
 ## Hard rules (never violate)
 
 1. One AKU = exactly one falsifiable proposition (claim, method, or concept — see § AKU classes). If the statement chains two independent propositions via "and"/"both"/"while", split it. A concept statement with includes/excludes/implies clauses is NOT a conjunction — it is a single proposition with structured content.
-2. `sources[]` contains only `raw/` paths. No AKU IDs. Ever.
+2. `sources[]` contains only `raw/<slug>/<slug>.md` paths — pointers to the converted markdown that lives inside the vault. Never PDFs, never other binaries, never another AKU's ID. The original PDF's location is recorded only in `_meta/pipeline-manifest.yml` (the `original:` field), not in `sources[]`.
 3. Bidirectional relations are kept in sync at write time. All four pairs:
    - `supported_by` ↔ `supports`
    - `constrained_by` ↔ `constrains`
@@ -42,6 +46,8 @@ log.md                     append-only operational history
 6. Surface `validated-false` AKUs in every domain/situational retrieval. Do not filter them.
 7. Mandatory semantic dedup before creating any AKU (see Ingest below).
 8. Body `## Relaciones` section is mandatory and must mirror non-empty frontmatter relations exactly. Three layers stay in sync on every edit: frontmatter inverse on the other file + body wikilinks on this file + body wikilinks on the other file.
+9. **Source PDFs are read-only at their origin path.** Never copied, moved, modified, or stored in the vault. The vault works exclusively with the markdown produced by MinerU (in `raw/<slug>/<slug>.md`) plus paired images. The original PDFs live wherever they came from (G:\ Drive mounts, OneDrive, local folders, ...) and remain untouched. Re-conversion always reads from the origin path.
+10. **Always quote paths with spaces or accents** when passing them to MinerU, shell commands, or any external tool. Use double quotes: `mineru -p "G:\Mi unidad\Formación\foo bar.pdf" -o "$tmp"`. This rule prevents silent argument splitting on Windows + git-bash + UTF-8 paths.
 
 ## Pipeline (`/pipeline <folder>`)
 
@@ -50,7 +56,7 @@ End-to-end ingestion of an external folder of PDFs and/or pre-converted markdown
 **Phases**:
 
 1. **DISCOVER** — `scripts/pipeline.sh discover <folder>` lists every `.pdf` (recursive) and every `.md` candidate. Cross-reference `_meta/pipeline-manifest.yml`; items with `ingested: <date>` are skipped.
-2. **CONVERT / ADOPT** — For each PDF: `scripts/pipeline.sh convert <pdf>` runs MinerU, moves only `.md` + `images/` to `raw/<slug>/`, rewrites image refs to flat `images/<filename>`, and discards all MinerU scaffolding (`*middle.json`, `*model.json`, `*content_list*.json`, `*_layout.pdf`, `*_span.pdf`, `*_origin.pdf`). For each pre-converted markdown: `scripts/pipeline.sh adopt <md>` copies it + any adjacent `images/` folder into `raw/<slug>/`.
+2. **CONVERT / ADOPT** — For each PDF: `scripts/pipeline.sh convert "<pdf>"` runs MinerU against the file at its **origin path** (G:\, OneDrive, etc. — the PDF is NEVER copied or moved into the vault), then moves only the produced `.md` + `images/` to `raw/<slug>/`, rewrites image refs to flat `images/<filename>`, and discards all MinerU scaffolding (`*middle.json`, `*model.json`, `*content_list*.json`, `*_layout.pdf`, `*_span.pdf`, `*_origin.pdf`). The original PDF location is recorded in the manifest's `original:` field. For each pre-converted markdown: `scripts/pipeline.sh adopt "<md>"` copies the .md + any adjacent `images/` folder into `raw/<slug>/`. **Always quote paths with spaces or accents.**
 3. **PROCESS IMAGES AND TABLES** — Tables (inline `<table>` HTML from MinerU) are read directly during ingest. Images are classified per reference:
    - **Informational** (diagram, chart, framework figure, schema, data viz, structured screenshot) → vision-analyze, insert a `> **Figura**: <descripción precisa en español>` blockquote immediately after the image reference. Maximum fidelity — the figure's knowledge must be extractable from the description alone.
    - **Decorative** (cover, portrait, ornament, divider, brand mark) → leave the reference, extract nothing.

@@ -25,11 +25,13 @@ Execute the five phases below in order. At every phase, surface progress to the 
 
 ## Phase 2 — CONVERT / ADOPT
 
+**Hard rule reminder (from CLAUDE.md #9 and #10)**: source PDFs stay at their origin path. They are NEVER copied, moved, or modified during this phase — MinerU reads from the origin and only the produced markdown + images land in `raw/<slug>/`. Always quote paths with spaces or accents.
+
 For each PDF queued to convert:
-- Run `scripts/pipeline.sh convert "<pdf-path>"`. The script prints the destination `raw/<slug>/`.
-- Append (or update) a manifest entry:
+- Run `scripts/pipeline.sh convert "<absolute-pdf-path>"` (quotes mandatory for `G:\Mi unidad\...` style paths with spaces and accents). The script prints the destination `raw/<slug>/`.
+- Append (or update) a manifest entry — critically, `original:` records the source PDF's origin path (NOT a path inside the vault):
   ```yaml
-  - original: <abs-pdf-path>
+  - original: "G:\\Mi unidad\\...\\source.pdf"   # absolute origin path
     name_slug: <slug>
     raw_path: raw/<slug>/
     converter: mineru

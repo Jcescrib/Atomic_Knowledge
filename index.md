@@ -1,76 +1,48 @@
 # Index — AKU/TAKU Vault
 
-Router and validation dashboard. Updated by `/ingest`, `/lint`, and validation actions.
+Router and validation dashboard. Updated by `/ingest`, `/pipeline`, `/lint`, and validation actions.
 
 ## Counts
 
 | Layer | Active | Draft | Deprecated | Validated-false / failing |
 |---|---|---|---|---|
-| AKU | 11 | — | 0 | 0 |
-| TAKU | 0 | 1 | 0 | 0 |
+| AKU | 0 | — | 0 | 0 |
+| TAKU | 0 | 0 | 0 | 0 |
 
-By AKU class: **7 concept**, **2 method**, **2 claim** · all `unvalidated` · all `epistemic_type: sourced` · all `llm_confidence: 0.50`.
-
-_Last updated: 2026-06-02 (ingest: 2.2-motores-de-crecimiento)_
+_Last updated: 2026-06-03 (post-reset — empty vault, ready for first real ingest)_
 
 ## Pending validation queue
 
 Items awaiting human review. Surface order: oldest first.
 
 ### AKUs to validate (in practice)
-
-All 11 AKUs from the first ingest are `unvalidated` — populate `human_certainty` after real-world testing:
-
-- `aku-cltv-concept` (concept)
-- `aku-cac-concept` (concept)
-- `aku-arpu-concept` (concept)
-- `aku-churn-rate-concept` (concept)
-- `aku-cac-payback-concept` (concept)
-- `aku-cltv-cac-ratio-concept` (concept)
-- `aku-cltv-minus-cac-concept` (concept)
-- `aku-cltv-subscription-formula` (method)
-- `aku-cltv-transactional-formula` (method)
-- `aku-cltv-gross-margin-over-revenue` (claim)
-- `aku-cltv-cac-dual-optimization` (claim)
+_(none yet — AKUs created from sources start `unvalidated`; populate `human_certainty` after real-world testing)_
 
 ### TAKUs awaiting activation
-
-- `taku-digital-growth-engine-metrics-map` (framework, draft, `content_validation: llm-authored`)
+_(LLM-authored TAKUs sit in `status: draft` until the human reviews content + AKU links and sets `active`)_
 
 ### AKU links awaiting validation
-
-11 `llm-proposed` links on `taku-digital-growth-engine-metrics-map` (all `justified_by`). Promote each to `human-validated` after reviewing the link_note. Note: link count exceeds the lint threshold of 7 — this is expected for a comprehensive metrics-map framework, but `/lint` will flag it for review.
+_(every `llm-proposed` link surfaces here until promoted to `human-validated` or removed)_
 
 ### Dedup candidates
-_(none — first ingest, empty starting graph)_
+_(pairs of similar AKUs flagged by `/ingest` for merge/distinct decision)_
 
 ## Lint flags (latest run)
 
-**2026-06-03**: 0 errors · 2 warnings · 2 informational. Graph healthy.
-- W1 — K2 statement contains " y " (compound-claim false positive; justified by joint-optimization framing).
-- W2 — TAKU has 11 `justified_by` links (>7 threshold; expected for comprehensive metrics map).
-- I1 — M1 statement contains "ambos" (unit-consistency qualifier, not a compound).
-- I2 — C1 trending toward axiom candidate (6 incoming `supports`, threshold 10+).
-
-Full report: `outputs/lint/2026-06-03.md` (gitignored).
+_No lint runs since reset. Run `/lint` to populate. Reports archived in `outputs/lint/` (gitignored)._
 
 ## Domain map
 
-Tags currently in use (open taxonomy):
-
-- `growth` (11)
-- `unit-economics` (11)
-- `metrics` (10)
-- `business-model` (5)
-- `subscription` (1) · `transactional` (1) · `retention` (1) · `monetization` (1) · `cash-flow` (1) · `roi` (1) · `profitability` (1) · `measurement` (1) · `strategy` (1)
+_(open taxonomy — populated as AKUs accumulate)_
 
 ## How to navigate
 
+- Process a folder of PDFs from outside the vault → `/pipeline "<absolute-folder-path>"` (PDFs stay at source; markdown lands in `raw/<slug>/`)
+- Process one source already in `raw/` → `/ingest raw/<slug>/<slug>.md`
 - Direct AKU lookup → `aku/aku-<slug>.md`
 - Direct TAKU lookup → `taku/<type>/taku-<slug>.md`
 - Situational query → `/query <description>`
 - Daily capture → `/capture <text>`
-- Process new source → drop file in `raw/`, then `/ingest raw/<file>`
 - Health check → `/lint`
 
 ## File map (live)
@@ -78,5 +50,7 @@ Tags currently in use (open taxonomy):
 - `CLAUDE.md` — operating manual
 - `log.md` — append-only history
 - `_meta/templates/` — schemas
+- `_meta/pipeline-manifest.yml` — per-source state + origin paths
 - `_spec/` — authoritative specifications (reference only)
 - `.claude/commands/` — slash command definitions
+- `scripts/pipeline.sh` — deterministic pipeline phases
