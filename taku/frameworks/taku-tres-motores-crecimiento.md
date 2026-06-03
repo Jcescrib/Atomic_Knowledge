@@ -63,7 +63,9 @@ taku_relations:
   complementary:
     - taku-digital-growth-engine-metrics-map
   alternative_to: []
-  precedes: []
+  precedes:
+    - id: taku-digital-growth-engine-metrics-map
+      sequence_type: recommended
   follows: []
 
 created: 2026-06-03
@@ -129,3 +131,5 @@ Taxonomía de los tres motores de crecimiento principales en negocios digitales:
 **justified_by** ← [[aku-motor-crecimiento-concept]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-motor-crecimiento-viral-concept]] · [[aku-motor-crecimiento-sticky-concept]] · [[aku-coeficiente-viralidad-concept]] · [[aku-viral-bajo-cltv-compatible-claim]]
 
 **complementary** ↔ [[taku-digital-growth-engine-metrics-map]]
+
+**precedes** → [[taku-digital-growth-engine-metrics-map]]

@@ -1,5 +1,5 @@
 ---
-description: End-to-end ingestion of a folder of PDFs/markdowns via MinerU + vision + section-based AKU/TAKU extraction with resumability
+description: End-to-end ingestion of a folder of PDFs/markdowns via MinerU + vision + section-based AKU/TAKU extraction with resumability — autonomous by default
 argument-hint: <absolute-path-to-source-folder>
 ---
 
@@ -9,19 +9,39 @@ If no argument was provided, ask the user for the folder path. The folder may co
 
 **Important**: do NOT run discover on the vault root. The script will return the vault's own infrastructure files if you do. Only run discover on EXTERNAL folders.
 
-Execute the five phases below in order. At every phase, surface progress to the user as concise updates.
+## DEFAULT MODE — AUTONOMOUS
+
+The pipeline runs **autonomously**: discover → convert/adopt → image-classify → ingest → commit, **per PDF, in sequence, without asking for approval between PDFs**. Process the whole folder end-to-end and produce **ONE consolidated report at the end**.
+
+**Aggressive dedup**: at every PDF's ingest step, compare each candidate AKU against the **full existing graph** (every active AKU in `aku/`, including those from earlier PDFs in this same run). When dedup matches:
+- Add the new source path to the existing AKU's `sources[]` (idempotent).
+- Recompute `llm_confidence` per CLAUDE.md (+0.10 per new independent source, cap 0.95).
+- Bump `updated` to today.
+- Where the new source adds new content (extra context, examples, refinements), enrich the statement on the existing AKU; do NOT create a duplicate.
+- Wire any new `related` / `supports` / `constrains` cross-source links surfacing from the new material.
+
+**Stop and ask the user ONLY when the work genuinely requires their decision**, namely:
+- A semantic dedup candidate is too close to call (could merge, could stay separate).
+- MinerU fails repeatedly on a specific PDF and pipeline cannot recover.
+- A concept the source treats as definitional contradicts an existing `validated-true` AKU in the graph (would force `contradicts` or `breaks_context_of` against human-validated content).
+- Custom TAKU type warranted but no schema declared in CLAUDE.md.
+- An image is genuinely ambiguous between informational and decorative AND its content materially affects extractable AKUs.
+
+Anything else — commit decisions, image classification of ordinary cases, claim vs concept-AKU choice within the 3-class rule, slug normalisation, etc. — is decided autonomously and reported (not pre-approved). The user reviews the consolidated report at the end and can redirect on the next turn.
+
+Execute the five phases below in order. Surface progress at most as one-line updates between PDFs ("PDF 3/7 done: 8 AKUs, 1 TAKU drafted, 2 image blockquotes"); save the deep narrative for the final report.
 
 ## Phase 1 — DISCOVER
 
 1. Run `scripts/pipeline.sh discover "$FOLDER"` via Bash. Parse the output: two sections (`## PDFs`, `## Pre-converted markdowns`).
 2. Read `_meta/pipeline-manifest.yml` (create it from `sources: []` if it does not exist).
 3. For each discovered item, look up its likely slug (use `scripts/pipeline.sh slug "<basename>"`) in the manifest. Skip any item whose entry has `ingested: <date>` set.
-4. Produce a discovery summary to the user:
+4. Produce a discovery summary in the consolidated final report (not as a separate user-facing turn):
    - N PDFs found, M to convert (others skipped: list IDs)
    - K markdowns found, J to adopt (others skipped: list IDs)
    - Total work units: M + J
 5. If total work is 0, stop and inform the user.
-6. If total work is >3 sources, **ask the user for confirmation before proceeding** (a book can take significant time).
+6. If total work is non-zero, **proceed autonomously** through phases 2–4 for every source in sequence. Do NOT ask for batch confirmation — autonomous mode is the default per user preference.
 
 ## Phase 2 — CONVERT / ADOPT
 
@@ -134,10 +154,14 @@ If interrupted at any phase:
 - Re-running `/pipeline <same-folder>` re-runs discover, sees what's already done from the manifest + filesystem state, and resumes from the most-advanced incomplete phase.
 - Each phase is idempotent: convert overwrites the temp/dest, adopt re-copies, image processing skips already-captioned images, ingest skips already-committed chapters.
 
-## When to ask the user
+## When to ask the user (rare — autonomous mode is the default)
 
-- Before processing >3 sources (confirm scope).
-- When a dedup candidate is similar but not clearly equivalent.
-- When an image is genuinely ambiguous between informational and decorative.
-- When MinerU output structure is unexpected and the script reports an error.
-- When a chapter has no extractable atomic propositions (a pure-narrative chapter — confirm whether to skip or extract).
+Only stop and ask if one of these is true; otherwise decide and report in the final consolidated report.
+
+- A semantic dedup candidate is too close to call (could merge, could stay separate, real ambiguity).
+- MinerU fails repeatedly on a specific PDF and the script's diagnostics cannot recover.
+- A new source's content contradicts an existing `validated-true` (human-validated) AKU and would force a `contradicts` or `breaks_context_of` link against human-validated content.
+- A custom TAKU type is genuinely warranted but no schema is declared in CLAUDE.md.
+- An image is genuinely ambiguous AND its content materially affects extractable AKUs.
+
+Image classification ordinary cases (icons, logos, book covers, slide template variants, fragmented diagram pieces), claim vs concept-AKU choice within the 3-class rule, slug normalisation, sequencing of related TAKUs, and standard dedup decisions are all autonomous — report in the final consolidated report rather than pausing per-PDF.
