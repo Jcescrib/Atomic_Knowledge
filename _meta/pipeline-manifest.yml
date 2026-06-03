@@ -303,3 +303,20 @@ sources:
       dorado, propósito, valores, atributos, posicionamiento, plan de marca.
       10 concept + 3 claim AKUs. 2 framework TAKUs (plan-de-marca, circulo-dorado).
       4 imágenes informational + 1 decorativa. Sin dedup-merges.
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\04-Business and Marketing strategies\4.5.Blitzscaling.pdf"
+    name_slug: "4-5-blitzscaling"
+    raw_path: "raw/4-5-blitzscaling/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: 2026-06-03
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 6
+    taku_count: 2
+    last_commit: ""
+    notes: >
+      Blitzscaling: concepto, factores y limitadores de crecimiento, tipos de
+      estrategia de crecimiento, etapas de la organización. 5 concept + 1 claim
+      AKUs. 2 TAKUs (framework blitzscaling + heuristic 9 principios). lean-startup
+      precedes blitzscaling. 2 imágenes decorativas. Sin dedup-merges.

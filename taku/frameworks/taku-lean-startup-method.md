@@ -82,7 +82,9 @@ human_certainty:
 taku_relations:
   complementary: []
   alternative_to: []
-  precedes: []
+  precedes:
+    - id: taku-blitzscaling
+      sequence_type: recommended
   follows: []
 
 created: 2026-06-03
@@ -157,3 +159,5 @@ Tres claims estructurales:
 ## Relaciones
 
 **justified_by** ← [[aku-lean-startup-method-concept]] · [[aku-innovar-vs-competir-concept]] · [[aku-build-measure-learn-concept]] · [[aku-hipotesis-concept]] · [[aku-mvp-concept]] · [[aku-aprendizaje-validado-concept]] · [[aku-product-market-fit-concept]] · [[aku-metricas-accionables-concept]] · [[aku-metricas-vanidosas-concept]] · [[aku-asumir-equivocarse-claim]] · [[aku-aprender-clientes-reales-claim]] · [[aku-no-dar-supuesto-hipotesis-claim]]
+
+**precedes** → [[taku-blitzscaling]]

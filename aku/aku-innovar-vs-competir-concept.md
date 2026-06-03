@@ -44,6 +44,8 @@ relations:
     - aku-oceano-rojo-concept
     - aku-oceano-azul-concept
     - aku-nicho-recomendado-lanzamiento-claim
+    - aku-tipos-estrategias-crecimiento-concept
+    - aku-blitzscaling-concept
 
 sources:
   - "raw/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md"
@@ -56,4 +58,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-lean-startup-method-concept]] · [[aku-product-market-fit-concept]] · [[aku-oceano-rojo-concept]] · [[aku-oceano-azul-concept]] · [[aku-nicho-recomendado-lanzamiento-claim]]
+**related** ↔ [[aku-lean-startup-method-concept]] · [[aku-product-market-fit-concept]] · [[aku-oceano-rojo-concept]] · [[aku-oceano-azul-concept]] · [[aku-nicho-recomendado-lanzamiento-claim]] · [[aku-tipos-estrategias-crecimiento-concept]] · [[aku-blitzscaling-concept]]

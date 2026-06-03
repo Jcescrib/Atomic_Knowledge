@@ -186,3 +186,14 @@ Source: `raw/4-4-branding/...md` (The Power MBA — 4.4). 267 líneas, 5 imágen
 - **2 framework TAKUs**: `taku-plan-de-marca` (5 jb + 1 constrained_by) y `taku-circulo-dorado` (2 jb), complementary entre sí; plan-de-marca complementary a power-value-modelo.
 - INTEGRATE nivel (a): marca-potente/circulo-dorado ↔ ventaja-competitiva, barreras-de-entrada; posicionamiento ↔ estrategia-diferenciacion, diferenciacion-sector, customer-persona; plan-de-marca ↔ propuesta-de-valor, canales-de-distribucion.
 - Sin dedup-merges (branding es cluster nuevo).
+
+## 2026-06-03 — pipeline (módulo 04, PDF 6/6: 4.5)
+Source: `raw/4-5-blitzscaling/...md` (The Power MBA — 4.5). 197 líneas, 2 imágenes decorativas (iconos de bullet rojo/verde). Tablas inline (tipos de crecimiento, etapas) leídas directamente.
+- **6 AKUs nuevos** (5 concept + 1 claim): `blitzscaling`, `factores-crecimiento-blitzscaling`, `limitadores-crecimiento-blitzscaling`, `tipos-estrategias-crecimiento`, `etapas-organizacion`; claim `blitzscaling-cuando-oportunidad-enorme`.
+- **2 TAKUs**: `taku-blitzscaling` (framework, 4 jb + 1 constrained_by) y `taku-principios-blitzscaling` (heuristic, 9 reglas contradictorias, 2 jb). `taku-lean-startup-method` precedes `taku-blitzscaling` (sequence recommended). complementary blitzscaling ↔ matriz-ansoff y ↔ principios.
+- Los «9 principios» se modelan como TAKU heuristic (forma imperativa) en vez de AKU, por la regla de desambiguación AKU vs heuristic.
+- INTEGRATE nivel (a): factores ↔ network-effect/masa-critica/motor-crecimiento; limitadores ↔ product-market-fit; tipos ↔ lean-startup-method/innovar-vs-competir/PMF; blitzscaling ↔ ventaja-competitiva/motor-crecimiento/innovar-vs-competir.
+- Sin dedup-merges.
+
+### Módulo 04 COMPLETO (6/6 PDFs)
+49 AKUs nuevos + 11 TAKUs nuevos en el módulo 04. 1 contradicción modelada (atrapado-medio ↔ océano-azul). 0 PDFs fallidos.

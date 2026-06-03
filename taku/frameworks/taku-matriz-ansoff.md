@@ -54,7 +54,7 @@ human_certainty:
   method: ""
 
 taku_relations:
-  complementary: [taku-estrategias-genericas-porter]
+  complementary: [taku-estrategias-genericas-porter, taku-blitzscaling]
   alternative_to: []
   precedes: []
   follows: []
@@ -119,4 +119,4 @@ adelante es un caso particular de entrada en el negocio de los distribuidores.
 
 **justified_by** ← [[aku-matriz-ansoff-concept]] · [[aku-penetracion-mercado-concept]] · [[aku-desarrollo-productos-concept]] · [[aku-desarrollo-mercados-concept]] · [[aku-diversificacion-concept]]
 **constrained_by** ← [[aku-riesgo-ansoff-claim]]
-**complementary** ↔ [[taku-estrategias-genericas-porter]]
+**complementary** ↔ [[taku-estrategias-genericas-porter]] · [[taku-blitzscaling]]
