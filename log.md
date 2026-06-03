@@ -104,3 +104,12 @@ Módulo 02-Innovación en los modelos de negocio completo. Procesados 7 PDFs (2.
 - 2 dedup updates (propuesta-de-valor y segmentos-de-clientes, ambos llm_confidence 0.50→0.60).
 - 7 raws conservados en `raw/<slug>/` con sus imágenes (PDFs originales intactos en G:\).
 - ~14 imágenes informacionales con blockquotes; ~14 decorativas dejadas sin caption.
+
+## 2026-06-03 — lint
+First lint pass over módulo 02 (72 AKUs + 8 TAKUs). Detected **15 bidirectional asymmetries**, fixed all 15 in the same pass. Final result: 0 errors, 5 warnings (TAKU link inflation, all expected), 3 informational.
+- 14 `related` asymmetries + 1 `supports` asymmetry caused by later-module AKUs wiring cross-module relations without updating the earlier file's inverse.
+- Most affected files: aku-propuesta-de-valor-concept (added 4 `related` + 1 `supported_by`) and aku-segmentos-de-clientes-concept (added 5 `related`).
+- Verified post-fix: 212 directed edges, 0 asymmetric, 0 missing targets, 0 isolated nodes, all sources[] resolve, all TAKU body headers complete per type.
+- Warnings: 5 TAKUs with >7 justified_by (BMC=14, growth-metrics=12, plataformas=12, Power Value=11, océano-azul=9). All expected for comprehensive frameworks.
+- Report: outputs/lint/2026-06-03-modulo-02.md (gitignored).
+- Lesson logged for future ingests: when wiring a cross-module `related` link, always update BOTH AKU files' frontmatter AND both body wikilink sections in the same Edit batch — failing to do so propagates asymmetry across the graph.

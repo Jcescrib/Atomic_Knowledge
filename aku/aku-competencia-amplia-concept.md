@@ -37,6 +37,7 @@ relations:
   contradicts: []
   related:
     - aku-propuesta-de-valor-concept
+    - aku-factores-competitivos-concept
 
 sources:
   - "raw/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a.md"
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-propuesta-de-valor-concept]]
+**related** ↔ [[aku-propuesta-de-valor-concept]] · [[aku-factores-competitivos-concept]]

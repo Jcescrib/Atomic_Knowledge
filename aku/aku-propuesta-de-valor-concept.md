@@ -27,7 +27,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-ecuacion-valor-claim
   supports: []
   constrained_by:
     - aku-segmentos-de-clientes-concept
@@ -39,6 +40,10 @@ relations:
   contradicts: []
   related:
     - aku-bmc-concept
+    - aku-power-value-modelo-concept
+    - aku-beneficio-funcional-concept
+    - aku-coste-percibido-amplio-concept
+    - aku-competencia-amplia-concept
 
 sources:
   - "raw/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc.md"
@@ -52,8 +57,10 @@ status_note: ""
 
 ## Relaciones
 
+**supported_by** ← [[aku-ecuacion-valor-claim]]
+
 **constrained_by** ← [[aku-segmentos-de-clientes-concept]]
 
 **constrains** → [[aku-actividades-clave-concept]] · [[aku-recursos-clave-concept]]
 
-**related** ↔ [[aku-bmc-concept]]
+**related** ↔ [[aku-bmc-concept]] · [[aku-power-value-modelo-concept]] · [[aku-beneficio-funcional-concept]] · [[aku-coste-percibido-amplio-concept]] · [[aku-competencia-amplia-concept]]

@@ -38,6 +38,7 @@ relations:
   contradicts: []
   related:
     - aku-segmentos-de-clientes-concept
+    - aku-no-clientes-concept
 
 sources:
   - "raw/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md"
@@ -50,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-segmentos-de-clientes-concept]]
+**related** ↔ [[aku-segmentos-de-clientes-concept]] · [[aku-no-clientes-concept]]

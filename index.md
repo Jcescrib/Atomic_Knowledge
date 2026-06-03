@@ -52,7 +52,13 @@ _(none — fresh post-reset graph; the 2.1-BMC ingest was vacuous against the em
 
 ## Lint flags (latest run)
 
-_No lint runs since reset. Run `/lint` to populate. Reports archived in `outputs/lint/` (gitignored)._
+**2026-06-03 (post-módulo 02)**: 0 errors · 5 warnings · 3 informational. Graph healthy after autonomous repair of 15 bidirectional asymmetries detected during the lint pass (all `related` and 1 `supports` cross-module edge inverses).
+- 72 AKUs / 8 TAKUs / 212 directed edges all symmetric.
+- W1-5 — 5 TAKUs > 7 `justified_by` (BMC=14, growth-metrics=12, plataformas=12, Power Value=11, océano-azul=9). Expected for comprehensive frameworks.
+- I1 — No axiom candidates yet (top AKU has 3 incoming `supports`, threshold 10).
+- I2 — 2 AKUs at `llm_confidence: 0.60` after dedup (segmentos-de-clientes, propuesta-de-valor).
+
+Full report: `outputs/lint/2026-06-03-modulo-02.md` (gitignored).
 
 ## Domain map
 
