@@ -33,7 +33,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-liderazgo-en-coste-concept, aku-diferenciacion-sector-concept, aku-propuesta-de-valor-concept, aku-mass-market-strategy-concept]
+  related: [aku-liderazgo-en-coste-concept, aku-diferenciacion-sector-concept, aku-propuesta-de-valor-concept, aku-mass-market-strategy-concept, aku-posicionamiento-concept, aku-circulo-dorado-concept]
 
 sources:
   - raw/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
@@ -47,4 +47,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-estrategias-genericas-porter-concept]] · [[aku-diferenciacion-mayores-margenes-claim]]
-**related** ↔ [[aku-liderazgo-en-coste-concept]] · [[aku-diferenciacion-sector-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-mass-market-strategy-concept]]
+**related** ↔ [[aku-liderazgo-en-coste-concept]] · [[aku-diferenciacion-sector-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-mass-market-strategy-concept]] · [[aku-posicionamiento-concept]] · [[aku-circulo-dorado-concept]]

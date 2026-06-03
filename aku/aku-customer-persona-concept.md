@@ -41,6 +41,7 @@ relations:
     - aku-variables-segmentacion-concept
     - aku-early-adopter-concept
     - aku-entrevista-problem-solution-concept
+    - aku-posicionamiento-concept
 
 sources:
   - "raw/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md"
@@ -53,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-segmentos-de-clientes-concept]] · [[aku-variables-segmentacion-concept]] · [[aku-early-adopter-concept]] · [[aku-entrevista-problem-solution-concept]]
+**related** ↔ [[aku-segmentos-de-clientes-concept]] · [[aku-variables-segmentacion-concept]] · [[aku-early-adopter-concept]] · [[aku-entrevista-problem-solution-concept]] · [[aku-posicionamiento-concept]]

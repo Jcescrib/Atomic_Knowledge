@@ -179,3 +179,10 @@ Source: `raw/4-3-estrategias-de-crecimiento/...md` (The Power MBA — 4.3). 110 
 - **1 framework TAKU**: `taku-matriz-ansoff` (5 jb + 1 constrained_by), `complementary` ↔ estrategias-genericas-porter.
 - INTEGRATE nivel (a): `penetracion` ↔ motor-crecimiento; `desarrollo-mercados` ↔ segmentos-de-clientes; `crecimiento-organico-inorganico` ↔ ecosistema-alianzas; `integracion-vertical` ↔ canal-directo/canal-indirecto/barreras-de-entrada/ventaja-competitiva.
 - Sin dedup-merges (Ansoff/crecimiento no solapan con AKUs previos).
+
+## 2026-06-03 — pipeline (módulo 04, PDF 5/6: 4.4)
+Source: `raw/4-4-branding/...md` (The Power MBA — 4.4). 267 líneas, 5 imágenes (4 informational con blockquote: brand equity, pirámide brand awareness, círculo dorado, plan de marca; 1 decorativa: gota de agua).
+- **13 AKUs nuevos** (10 concept + 3 claim): `marca`, `identidad-de-marca`, `brand-equity`, `brand-awareness`, `circulo-dorado`, `proposito-mision`, `valores-marca`, `atributos-marca`, `posicionamiento`, `plan-de-marca`; claims `marca-potente-beneficios`, `esencia-mas-que-logo`, `gota-en-oceano`.
+- **2 framework TAKUs**: `taku-plan-de-marca` (5 jb + 1 constrained_by) y `taku-circulo-dorado` (2 jb), complementary entre sí; plan-de-marca complementary a power-value-modelo.
+- INTEGRATE nivel (a): marca-potente/circulo-dorado ↔ ventaja-competitiva, barreras-de-entrada; posicionamiento ↔ estrategia-diferenciacion, diferenciacion-sector, customer-persona; plan-de-marca ↔ propuesta-de-valor, canales-de-distribucion.
+- Sin dedup-merges (branding es cluster nuevo).

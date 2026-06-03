@@ -286,3 +286,20 @@ sources:
     notes: >
       Matriz de Ansoff + crecimiento orgánico/inorgánico + integración vertical.
       7 concept + 2 claim AKUs, 1 framework TAKU. Sin dedup-merges.
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\04-Business and Marketing strategies\4.4.Branding.pdf"
+    name_slug: "4-4-branding"
+    raw_path: "raw/4-4-branding/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: 2026-06-03
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 13
+    taku_count: 2
+    last_commit: ""
+    notes: >
+      Branding completo: marca, identidad, brand equity, brand awareness, círculo
+      dorado, propósito, valores, atributos, posicionamiento, plan de marca.
+      10 concept + 3 claim AKUs. 2 framework TAKUs (plan-de-marca, circulo-dorado).
+      4 imágenes informational + 1 decorativa. Sin dedup-merges.

@@ -46,6 +46,7 @@ relations:
     - aku-competencia-amplia-concept
     - aku-cosas-importantes-concept
     - aku-emocion-prevalece-razon-claim
+    - aku-plan-de-marca-concept
 
 sources:
   - "raw/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc.md"
@@ -65,4 +66,4 @@ status_note: ""
 
 **constrains** → [[aku-actividades-clave-concept]] · [[aku-recursos-clave-concept]]
 
-**related** ↔ [[aku-bmc-concept]] · [[aku-power-value-modelo-concept]] · [[aku-beneficio-funcional-concept]] · [[aku-coste-percibido-amplio-concept]] · [[aku-competencia-amplia-concept]] · [[aku-cosas-importantes-concept]] · [[aku-emocion-prevalece-razon-claim]]
+**related** ↔ [[aku-bmc-concept]] · [[aku-power-value-modelo-concept]] · [[aku-beneficio-funcional-concept]] · [[aku-coste-percibido-amplio-concept]] · [[aku-competencia-amplia-concept]] · [[aku-cosas-importantes-concept]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-plan-de-marca-concept]]

@@ -33,7 +33,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-commodity-concept, aku-estrategia-diferenciacion-concept, aku-diferenciacion-mayores-margenes-claim]
+  related: [aku-commodity-concept, aku-estrategia-diferenciacion-concept, aku-diferenciacion-mayores-margenes-claim, aku-posicionamiento-concept]
 
 sources:
   - raw/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
@@ -46,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-commodity-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-diferenciacion-mayores-margenes-claim]]
+**related** ↔ [[aku-commodity-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-diferenciacion-mayores-margenes-claim]] · [[aku-posicionamiento-concept]]
