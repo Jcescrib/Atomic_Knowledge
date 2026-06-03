@@ -235,3 +235,13 @@ Source: `raw/5-4-1-atracci-on-y-branding/...md` (180 líneas, sin imágenes). Le
 ## 2026-06-03 — pipeline (módulo 05, 5.4.2–5.4.11 directorios de referencia)
 10 PDFs de referencia (herramientas, agencias, plataformas, ejemplos, formatos, tips), 0 AKUs nuevos cada uno. Su contenido conceptual ya está cubierto por las AKUs de 5.4.1 (canales-marketing-digital, inbound-marketing, publicidad-nativa, marketing-influencers) y de 5.1 (lead-magnet). Decisión conservadora (mismo criterio que 3.01.01): no se crean AKUs de listados/herramientas; se registran como ingested. Imágenes = capturas/logos de referencia (decorativas), no diagramas de conocimiento. Commit agrupado por eficiencia; cada PDF tiene su entrada en el manifest.
 - 5.4.2 herramientas tráfico · 5.4.3 formatos anuncios display · 5.4.4 bloqueadores de publicidad · 5.4.5 ejemplos publicidad nativa · 5.4.6 herramientas email marketing · 5.4.7 agencias influencers · 5.4.8 plataformas influencers · 5.4.9 formatos content marketing · 5.4.10 tips generación de contenidos · 5.4.11 listado plataformas afiliados.
+
+## 2026-06-03 — pipeline (módulo 05, 5.5.1)
+Source: `raw/5-5-1-...captacion-y-nurturing-de-leads...md` (100 líneas; imágenes = ejemplos de lead magnet + diagramas de estados/workflow descritos en texto → decorativas).
+- **6 AKUs nuevos** (5 concept + 1 claim): `lead`, `estados-lead-funnel`, `lead-nurturing`, `lead-scoring`, `marketing-automation`; claim `nurturing-segun-complejidad`.
+- **Dedup/enriquecimiento**: `lead-magnet` recibe 5.5.1 como 2ª fuente (lección distinta de 5.1 → corroboración → 0.50→0.60), statement ampliado a «cualquier forma de captar datos de un lead».
+- **1 framework TAKU**: `taku-lead-nurturing` (4 jb + 1 constrained_by), complementary a power-funnel.
+- INTEGRATE: lead/estados ↔ power-funnel; nurturing/claim ↔ funnel-corto-vs-largo; lead-magnet ↔ lead.
+
+## 2026-06-03 — pipeline (módulo 05, 5.5.2–5.5.4 directorios de referencia)
+3 PDFs de referencia (ejemplos de lead magnets, herramientas de formularios, herramientas de marketing automation), 0 AKUs nuevos. Contenido cubierto por lead-magnet y marketing-automation. Commit agrupado; entrada por PDF en el manifest.

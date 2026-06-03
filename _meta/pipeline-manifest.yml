@@ -542,3 +542,52 @@ sources:
     taku_count: 0
     last_commit: ""
     notes: "Directorio de referencia (módulo 5.4.x). 0 AKUs; cubierto por conceptos de 5.4.1/5.1."
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.5.1 Conceptos+Clave_+Captación+y+Nurturing+de+Leads+-+Documentos+de+Google.pdf"
+    name_slug: "5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google"
+    raw_path: "raw/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: 2026-06-03
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 6
+    taku_count: 1
+    last_commit: ""
+    notes: "Captación y nurturing de leads. 5 concept + 1 claim AKUs + framework TAKU lead-nurturing. lead-magnet enriquecido (0.60)."
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.5.2 Ejemplos+por+tipos+de+lead+magnets.pdf"
+    name_slug: "5-5-2-ejemplos-por-tipos-de-lead-magnets"
+    raw_path: "raw/5-5-2-ejemplos-por-tipos-de-lead-magnets/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 0
+    taku_count: 0
+    last_commit: ""
+    notes: "Ejemplos de lead magnets (referencia). 0 AKUs; cubierto por aku-lead-magnet-concept."
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.5.3 Herramientas+para+crear+formularios.pdf"
+    name_slug: "5-5-3-herramientas-para-crear-formularios"
+    raw_path: "raw/5-5-3-herramientas-para-crear-formularios/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 0
+    taku_count: 0
+    last_commit: ""
+    notes: "Herramientas de formularios (referencia). 0 AKUs."
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.5.4-Herramientas+más+comunes+de+marketing+automation.pdf"
+    name_slug: "5-5-4-herramientas-m-as-comunes-de-marketing-automation"
+    raw_path: "raw/5-5-4-herramientas-m-as-comunes-de-marketing-automation/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 0
+    taku_count: 0
+    last_commit: ""
+    notes: "Herramientas de marketing automation (referencia). 0 AKUs; cubierto por aku-marketing-automation-concept."

@@ -33,7 +33,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-power-funnel-concept]
+  related: [aku-power-funnel-concept, aku-lead-nurturing-concept, aku-nurturing-segun-complejidad-claim]
 
 sources:
   - raw/5-3-visi-on-estrat-egica/5-3-visi-on-estrat-egica.md
@@ -46,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-power-funnel-concept]]
+**related** ↔ [[aku-power-funnel-concept]] · [[aku-lead-nurturing-concept]] · [[aku-nurturing-segun-complejidad-claim]]
