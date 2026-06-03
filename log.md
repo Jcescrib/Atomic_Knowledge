@@ -197,3 +197,10 @@ Source: `raw/4-5-blitzscaling/...md` (The Power MBA — 4.5). 197 líneas, 2 im�
 
 ### Módulo 04 COMPLETO (6/6 PDFs)
 49 AKUs nuevos + 11 TAKUs nuevos en el módulo 04. 1 contradicción modelada (atrapado-medio ↔ océano-azul). 0 PDFs fallidos.
+
+## 2026-06-03 — pipeline (módulo 05, 5.1)
+Source: `raw/5-1-clave-powerselling/...md` (The Power MBA — 5.1 «Power Selling»). 334 líneas, 5 imágenes (2 informational: StoryBrand SB7 + BrandScript; 3 decorativas: metáfora mente, ejemplos de anuncio/lead magnet).
+- **6 concept-AKUs**: `leyes-persuasion-cialdini` (7 leyes), `vender-una-accion`, `conversacion-mente-cliente`, `estilo-editorial`, `lead-magnet`, `brandscript-storybrand`.
+- **2 TAKUs**: `taku-leyes-persuasion-cialdini` (framework) + `taku-decalogo-power-selling` (heuristic, 10 reglas). Complementary entre sí.
+- INTEGRATE: conversacion-mente-cliente ↔ customer-persona/cosas-importantes; lead-magnet ↔ cliente-buscando-vs-no; cialdini/estilo-editorial ↔ emocion-prevalece-razon; brandscript ↔ propuesta-de-valor.
+- Sin dedup-merges.

@@ -320,3 +320,20 @@ sources:
       estrategia de crecimiento, etapas de la organización. 5 concept + 1 claim
       AKUs. 2 TAKUs (framework blitzscaling + heuristic 9 principios). lean-startup
       precedes blitzscaling. 2 imágenes decorativas. Sin dedup-merges.
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.1-Clave+PowerSelling.pdf"
+    name_slug: "5-1-clave-powerselling"
+    raw_path: "raw/5-1-clave-powerselling/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: 2026-06-03
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 6
+    taku_count: 2
+    last_commit: ""
+    notes: >
+      Power Selling: 7 leyes de Cialdini, vender una acción, conversación en la
+      mente del cliente, estilo editorial, lead magnet, BrandScript StoryBrand.
+      6 concept AKUs + 2 TAKUs (cialdini framework + decálogo heuristic). 2 imágenes
+      informational (SB7). Sin dedup-merges.

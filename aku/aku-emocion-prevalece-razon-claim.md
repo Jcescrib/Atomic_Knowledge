@@ -36,6 +36,8 @@ relations:
   related:
     - aku-cosas-importantes-concept
     - aku-propuesta-de-valor-concept
+    - aku-leyes-persuasion-cialdini-concept
+    - aku-estilo-editorial-concept
 
 sources:
   - "raw/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a.md"
@@ -50,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-beneficio-emocional-concept]]
 
-**related** ↔ [[aku-cosas-importantes-concept]] · [[aku-propuesta-de-valor-concept]]
+**related** ↔ [[aku-cosas-importantes-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-estilo-editorial-concept]]
