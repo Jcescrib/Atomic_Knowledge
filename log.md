@@ -77,3 +77,11 @@ Source: `raw/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-ob
 - 2 TAKUs drafted: `taku-estrategias-targeting` (framework, 5 justified_by) + `taku-customer-persona` (technique, 3 justified_by). Neither triggers link inflation.
 - Dedup: `aku-segmentos-de-clientes-concept` (from BMC 2.1) got 2.4 as second independent source; llm_confidence 0.50 → 0.60.
 - Relations: 8 `related` edges among targeting concepts; 1 `supports` (nicho-claim → nicho-strategy); 1 `constrains` (TAM/SAM/SOM → falacia-claim).
+
+## 2026-06-03 — ingest
+Source: `raw/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/...md` (The Power MBA — Módulo 2.5). MinerU: 3 pages → 119 lines + figure blockquote.
+- 10 new AKUs: 7 concept (Power-Value-modelo, beneficio-funcional, beneficio-emocional, problema-resuelto, coste-percibido-amplio, competencia-amplia, cosas-importantes) + 3 claim (ecuacion-valor, emocion-prevalece-razon, reducir-costes-no-precio).
+- 1 TAKU drafted: `taku-power-value-modelo` (framework, 11 justified_by — will flag link inflation).
+- Dedup: `aku-propuesta-de-valor-concept` (from BMC 2.1) got 2.5 as second independent source; llm_confidence 0.50 → 0.60.
+- 3 images: 1 informational blockquote consolidado (estructura del canvas Power Value + ecuación de valor); 2 son variantes decorativas con quotes que el texto ya incluye.
+- Relations: 8 `related` edges entre componentes del Power Value; 3 `supports` (ecuación-claim → propuesta-valor; emocion-claim → beneficio-emocional; reducir-costes-claim → coste-percibido-amplio).

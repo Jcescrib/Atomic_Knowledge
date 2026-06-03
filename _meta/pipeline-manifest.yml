@@ -107,3 +107,24 @@ sources:
       clientes-concept (llm_confidence 0.50→0.60). 2 imágenes informational
       (TAM/SAM/SOM + top-down/bottom-up) con blockquotes. TAKUs: framework
       de targeting + technique de customer persona.
+
+  - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\02-Innovación en los modelos de negocio\\2.5-Propuesta de valor - PROPUESTAS+DE+VALOR++Conceptos+Clave.+A.pdf"
+    name_slug: "2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a"
+    raw_path: "raw/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: 2026-06-03
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 10
+    taku_count: 1
+    last_commit: ""
+    notes: >
+      Cluster propuesta de valor + modelo Power Value. 7 nuevos concept-AKUs
+      (Power Value modelo, 3 tipos de beneficios funcional/emocional/
+      problema-resuelto, coste amplio, competencia amplia, cosas
+      importantes) + 3 claim-AKUs (ecuación de valor, emoción>razón,
+      reducir costes no precio). Dedup: 2.5 añadido a aku-propuesta-de-
+      valor-concept (0.50→0.60). 3 imágenes (slides del canvas con
+      highlights distintos): 1 informational consolidado en blockquote, 2
+      decorativas (variantes del mismo canvas).
