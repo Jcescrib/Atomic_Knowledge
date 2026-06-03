@@ -38,6 +38,7 @@ relations:
     - aku-motor-crecimiento-pago-concept
     - aku-motor-crecimiento-viral-concept
     - aku-motor-crecimiento-sticky-concept
+    - aku-penetracion-mercado-concept
 
 sources:
   - "raw/2-2-1-tiposmotorescrecimiento/2-2-1-tiposmotorescrecimiento.md"
@@ -50,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-motor-crecimiento-pago-concept]] · [[aku-motor-crecimiento-viral-concept]] · [[aku-motor-crecimiento-sticky-concept]]
+**related** ↔ [[aku-motor-crecimiento-pago-concept]] · [[aku-motor-crecimiento-viral-concept]] · [[aku-motor-crecimiento-sticky-concept]] · [[aku-penetracion-mercado-concept]]

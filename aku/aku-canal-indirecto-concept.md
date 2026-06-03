@@ -39,6 +39,7 @@ relations:
     - aku-canal-directo-concept
     - aku-marketplace-concept
     - aku-on-demand-platform-concept
+    - aku-integracion-vertical-adelante-concept
 
 sources:
   - "raw/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc.md"
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-canales-de-distribucion-concept]] · [[aku-canal-directo-concept]] · [[aku-marketplace-concept]] · [[aku-on-demand-platform-concept]]
+**related** ↔ [[aku-canales-de-distribucion-concept]] · [[aku-canal-directo-concept]] · [[aku-marketplace-concept]] · [[aku-on-demand-platform-concept]] · [[aku-integracion-vertical-adelante-concept]]

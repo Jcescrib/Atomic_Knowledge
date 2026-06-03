@@ -33,7 +33,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-network-effect-concept, aku-masa-critica-concept, aku-ventaja-competitiva-concept, aku-liderazgo-en-coste-concept, aku-liderazgo-coste-imitable-claim]
+  related: [aku-network-effect-concept, aku-masa-critica-concept, aku-ventaja-competitiva-concept, aku-liderazgo-en-coste-concept, aku-liderazgo-coste-imitable-claim, aku-integracion-vertical-adelante-concept]
 
 sources:
   - raw/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
@@ -48,4 +48,4 @@ status_note: ""
 
 **supported_by** ← [[aku-costes-de-cambio-concept]]
 **supports** → [[aku-cinco-fuerzas-porter-concept]] · [[aku-barreras-entrada-aumentan-rentabilidad-claim]]
-**related** ↔ [[aku-network-effect-concept]] · [[aku-masa-critica-concept]] · [[aku-ventaja-competitiva-concept]] · [[aku-liderazgo-en-coste-concept]] · [[aku-liderazgo-coste-imitable-claim]]
+**related** ↔ [[aku-network-effect-concept]] · [[aku-masa-critica-concept]] · [[aku-ventaja-competitiva-concept]] · [[aku-liderazgo-en-coste-concept]] · [[aku-liderazgo-coste-imitable-claim]] · [[aku-integracion-vertical-adelante-concept]]

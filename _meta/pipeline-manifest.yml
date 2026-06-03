@@ -271,3 +271,18 @@ sources:
       ↔ mas-valor-menos-coste-no-tradeoff (−0.30 → 0.20 en la más antigua).
       Enriquecidos ventaja-competitiva/estrategias-genericas (4.2.1+4.2.2 misma
       lección, sin bump) y nicho-strategy (2.4+4.2.2, 0.60).
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\04-Business and Marketing strategies\4.3-Estrategias de crecimiento.pdf"
+    name_slug: "4-3-estrategias-de-crecimiento"
+    raw_path: "raw/4-3-estrategias-de-crecimiento/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: 2026-06-03
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 9
+    taku_count: 1
+    last_commit: ""
+    notes: >
+      Matriz de Ansoff + crecimiento orgánico/inorgánico + integración vertical.
+      7 concept + 2 claim AKUs, 1 framework TAKU. Sin dedup-merges.

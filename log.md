@@ -172,3 +172,10 @@ Source: `raw/4-2-2-estrategias-competitivas/...md` (The Power MBA — 4.2.2). 11
 - **CONTRADICCIÓN modelada**: `atrapado-medio-claim` (Porter «stuck in the middle») ↔ `contradicts` ↔ `mas-valor-menos-coste-no-tradeoff-claim` (océano azul). Anclado en texto en ambos lados (el claim de océano azul cita literalmente «la estrategia competitiva tradicional»). Penalización determinista −0.30 a la claim más antigua: `mas-valor-menos-coste` 0.50 → 0.20. Ambos AKUs preservados; divergencia = señal epistémica.
 - **Dedup/enriquecimiento**: `nicho-strategy` recibe 4.2.2 como 2ª fuente (lección distinta a 2.4 → corroboración → 0.50→0.60), statement enriquecido con framing Porter (3 dimensiones + sub-especialización). `ventaja-competitiva` y `estrategias-genericas-porter` reciben 4.2.2 como fuente SIN bump (misma lección que 4.2.1, regla de independencia: mismo autor/lección = una fuente).
 - INTEGRATE: inverse `related` a barreras-de-entrada, mass-market, commodity, diferenciacion-sector, recursos-clave, actividades-clave; supported_by chains a estrategias-genericas y ventaja-competitiva.
+
+## 2026-06-03 — pipeline (módulo 04, PDF 4/6: 4.3)
+Source: `raw/4-3-estrategias-de-crecimiento/...md` (The Power MBA — 4.3). 110 líneas, 2 imágenes informational (eje y matriz completa de Ansoff) con blockquote.
+- **9 AKUs nuevos** (7 concept + 2 claim): `matriz-ansoff` (umbrella) + 4 cuadrantes (`penetracion-mercado`, `desarrollo-productos`, `desarrollo-mercados`, `diversificacion`) + `crecimiento-organico-inorganico` + `integracion-vertical-adelante`; claims `riesgo-ansoff`, `crecimiento-inorganico-rapido`.
+- **1 framework TAKU**: `taku-matriz-ansoff` (5 jb + 1 constrained_by), `complementary` ↔ estrategias-genericas-porter.
+- INTEGRATE nivel (a): `penetracion` ↔ motor-crecimiento; `desarrollo-mercados` ↔ segmentos-de-clientes; `crecimiento-organico-inorganico` ↔ ecosistema-alianzas; `integracion-vertical` ↔ canal-directo/canal-indirecto/barreras-de-entrada/ventaja-competitiva.
+- Sin dedup-merges (Ansoff/crecimiento no solapan con AKUs previos).

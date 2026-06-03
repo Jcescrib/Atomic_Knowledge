@@ -33,7 +33,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-barreras-de-entrada-concept]
+  related: [aku-barreras-de-entrada-concept, aku-integracion-vertical-adelante-concept]
 
 sources:
   - raw/4-2-1-intro-estrategias-competitivas/4-2-1-intro-estrategias-competitivas.md
@@ -48,4 +48,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-estrategias-genericas-porter-concept]] · [[aku-factores-internos-recursos-capacidades-concept]]
-**related** ↔ [[aku-barreras-de-entrada-concept]]
+**related** ↔ [[aku-barreras-de-entrada-concept]] · [[aku-integracion-vertical-adelante-concept]]

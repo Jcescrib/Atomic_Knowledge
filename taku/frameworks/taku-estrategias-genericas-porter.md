@@ -54,7 +54,7 @@ human_certainty:
   method: ""
 
 taku_relations:
-  complementary: [taku-cinco-fuerzas-porter]
+  complementary: [taku-cinco-fuerzas-porter, taku-matriz-ansoff]
   alternative_to: [taku-estrategia-oceano-azul]
   precedes: []
   follows: []
@@ -123,5 +123,5 @@ central: hay que elegir una estrategia clara o se queda «atrapado en la mitad»
 
 **justified_by** ← [[aku-estrategias-genericas-porter-concept]] · [[aku-liderazgo-en-coste-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-nicho-strategy-concept]] · [[aku-ventaja-competitiva-concept]]
 **constrained_by** ← [[aku-factores-internos-recursos-capacidades-concept]]
-**complementary** ↔ [[taku-cinco-fuerzas-porter]]
+**complementary** ↔ [[taku-cinco-fuerzas-porter]] · [[taku-matriz-ansoff]]
 **alternative_to** ↔ [[taku-estrategia-oceano-azul]]
