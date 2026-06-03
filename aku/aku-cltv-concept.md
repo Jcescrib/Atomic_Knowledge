@@ -45,7 +45,7 @@ relations:
     - aku-churn-rate-concept
 
 sources:
-  - "raw/2.2-Motores de crecimiento - proncipales métricas.pdf"
+  - "raw/2-2-motores-de-crecimiento/2-2-motores-de-crecimiento.pdf"
 
 created: 2026-06-02
 updated: 2026-06-03

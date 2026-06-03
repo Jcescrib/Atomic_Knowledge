@@ -60,3 +60,10 @@ Retrofit: appended `## Relaciones` body sections to all 11 AKUs + 1 TAKU from th
 - All 12 files now show their typed relations both in YAML (canonical) and in body wikilinks (Obsidian-graph-visible).
 - `updated` field bumped to 2026-06-03 on all 12 files.
 - Expected effect in Obsidian: the previously disconnected cluster now renders as a single connected graph centered on `aku-cltv-concept`.
+
+## 2026-06-03 — meta
+Normalized legacy 2.2-motores source into the `raw/<slug>/<slug>.pdf` layout used by `/pipeline`.
+- `git mv "raw/2.2-Motores de crecimiento - proncipales métricas.pdf" "raw/2-2-motores-de-crecimiento/2-2-motores-de-crecimiento.pdf"` (preserves file history).
+- Updated `sources[]` in all 11 AKU files to point at the new path.
+- Updated the manifest entry: `raw_path: raw/2-2-motores-de-crecimiento/`, notes record the original flat path.
+- No relation graph changes. No content changes. Pure layout normalization for consistency with future pipeline runs.

@@ -17,9 +17,9 @@
 #   notes:              free text
 
 sources:
-  - original: "raw/2.2-Motores de crecimiento - proncipales métricas.pdf"
+  - original: "raw/2-2-motores-de-crecimiento/2-2-motores-de-crecimiento.pdf"
     name_slug: "2-2-motores-de-crecimiento"
-    raw_path: "raw/"
+    raw_path: "raw/2-2-motores-de-crecimiento/"
     converter: preexisting
     converted: 2026-06-02
     image_processing: n/a
@@ -29,8 +29,8 @@ sources:
     taku_count: 1
     last_commit: f27be1d
     notes: >
-      First ingest. Source was added manually before /pipeline existed and
-      lives flat in raw/ (not nested under raw/<slug>/). Future pipeline
-      runs will write to raw/<slug>/ subfolders. This entry is kept for
-      audit; do not migrate the path unless the source paths in all 11
-      AKUs' sources[] fields are updated in the same commit.
+      First ingest. Source was added manually before /pipeline existed.
+      Originally lived flat at "raw/2.2-Motores de crecimiento - proncipales métricas.pdf";
+      normalized 2026-06-03 into "raw/<slug>/<slug>.pdf" layout to match
+      the /pipeline convention. The 11 AKUs' sources[] paths were updated
+      in the same commit.
