@@ -39,6 +39,7 @@ relations:
     - aku-modelo-plataforma-concept
     - aku-circulo-virtuoso-concept
     - aku-huevo-gallina-concept
+    - aku-free-bootstrap-plataforma-claim
 
 sources:
   - "raw/2-3-conceptos-clave-de-las-plataformas/2-3-conceptos-clave-de-las-plataformas.md"
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-circulo-virtuoso-concept]] · [[aku-huevo-gallina-concept]]
+**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-circulo-virtuoso-concept]] · [[aku-huevo-gallina-concept]] · [[aku-free-bootstrap-plataforma-claim]]

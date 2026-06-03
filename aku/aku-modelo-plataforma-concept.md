@@ -49,6 +49,7 @@ relations:
     - aku-modelo-freemium-concept
     - aku-bmc-concept
     - aku-segmentos-de-clientes-concept
+    - aku-free-bootstrap-plataforma-claim
 
 sources:
   - "raw/2-3-conceptos-clave-de-las-plataformas/2-3-conceptos-clave-de-las-plataformas.md"
@@ -61,4 +62,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelo-lineal-concept]] · [[aku-network-effect-concept]] · [[aku-masa-critica-concept]] · [[aku-circulo-virtuoso-concept]] · [[aku-circulo-vicioso-concept]] · [[aku-huevo-gallina-concept]] · [[aku-marketplace-concept]] · [[aku-on-demand-platform-concept]] · [[aku-content-platform-concept]] · [[aku-modelo-free-concept]] · [[aku-modelo-freemium-concept]] · [[aku-bmc-concept]] · [[aku-segmentos-de-clientes-concept]]
+**related** ↔ [[aku-modelo-lineal-concept]] · [[aku-network-effect-concept]] · [[aku-masa-critica-concept]] · [[aku-circulo-virtuoso-concept]] · [[aku-circulo-vicioso-concept]] · [[aku-huevo-gallina-concept]] · [[aku-marketplace-concept]] · [[aku-on-demand-platform-concept]] · [[aku-content-platform-concept]] · [[aku-modelo-free-concept]] · [[aku-modelo-freemium-concept]] · [[aku-bmc-concept]] · [[aku-segmentos-de-clientes-concept]] · [[aku-free-bootstrap-plataforma-claim]]
