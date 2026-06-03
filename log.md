@@ -159,3 +159,8 @@ Source: `raw/4-1-an-alisis-de-un-sector/...md` (The Power MBA — Módulo 4.1 «
   - `commodity` ↔ `empresas-borregos`; `rivalidad-reduce-rentabilidad` ↔ `oceano-rojo`, `empresas-borregos`.
 - Sin dedup-merges: módulo 04 (estrategia competitiva) no solapa con clusters 02/03.
 - Sin pausas: ninguna ambigüedad de atomicidad/dedup. Pendiente OK del usuario antes de seguir con 4.2–4.5.
+
+## 2026-06-03 — pipeline (módulo 04, PDF 2/6: 4.2.1)
+Source: `raw/4-2-1-intro-estrategias-competitivas/...md` (The Power MBA — 4.2.1, intro). 38 líneas, 2 imágenes decorativas (portada vídeo + retrato cita Jack Welch).
+- **2 concept-AKUs nuevos** (introductorios): `aku-ventaja-competitiva-concept`, `aku-estrategias-genericas-porter-concept` (umbrella de las 3/4 estrategias genéricas). Se enriquecerán y recibirán 4.2.2 como 2ª fuente en el siguiente PDF.
+- Sin dedup-merges. Sin TAKUs (la intro no aporta estructura ejecutable; el framework va en 4.2.2).

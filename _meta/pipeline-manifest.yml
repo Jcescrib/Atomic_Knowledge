@@ -237,3 +237,19 @@ sources:
       dedup-merges con módulos 02/03. Pipeline pausado tras 4.1 a petición del
       usuario; 4.2.1, 4.2.2, 4.3, 4.4, 4.5 aún SIN convertir (pendientes de la
       siguiente pasada de /pipeline).
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\04-Business and Marketing strategies\4.2.1-intro estrategias competitivas.pdf"
+    name_slug: "4-2-1-intro-estrategias-competitivas"
+    raw_path: "raw/4-2-1-intro-estrategias-competitivas/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: 2026-06-03
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 2
+    taku_count: 0
+    last_commit: ""
+    notes: >
+      Intro a estrategias competitivas. 2 concept-AKUs fundacionales
+      (ventaja-competitiva, estrategias-genericas-porter). 2 imágenes
+      decorativas. Detalle de las estrategias en 4.2.2.
