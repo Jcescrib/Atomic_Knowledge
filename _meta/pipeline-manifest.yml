@@ -367,3 +367,18 @@ sources:
     notes: >
       Visión estratégica / Power Funnel. 5 concept + 1 claim AKUs, 1 framework
       TAKU (power-funnel). Integrado con cluster de métricas. 2 imágenes decorativas.
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.3.1-Tabla+Power+Funnel.pdf"
+    name_slug: "5-3-1-tabla-power-funnel"
+    raw_path: "raw/5-3-1-tabla-power-funnel/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 0
+    taku_count: 0
+    last_commit: ""
+    notes: >
+      Tabla de etapas del Power Funnel. 0 AKUs nuevos; incorporada como 2ª fuente
+      de aku-power-funnel-concept.

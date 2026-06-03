@@ -215,3 +215,7 @@ Source: `raw/5-3-visi-on-estrat-egica/...md` (The Power MBA — 5.3 «Visión es
 - **1 framework TAKU**: `taku-power-funnel` (4 jb + 1 constrained_by), complementary a `digital-growth-engine-metrics-map`.
 - INTEGRATE fuerte con cluster métricas: palancas ↔ cltv/cac/cltv-minus-cac; conversion-olvidada ↔ cltv-cac-dual-optimization/cac; power-funnel ↔ motor-crecimiento/lead-magnet; atribucion ↔ cac/canales-de-distribucion.
 - Sin dedup-merges.
+
+## 2026-06-03 — pipeline (módulo 05, 5.3.1)
+Source: `raw/5-3-1-tabla-power-funnel/...md` (tabla Power Funnel: etapas × estrategias/herramientas/métricas/responsables).
+- **0 AKUs nuevos**: la tabla es la plantilla de etapas del Power Funnel, ya incorporada al statement de `aku-power-funnel-concept`, que cita 5.3.1 como 2ª fuente. Registrado como ingested.
