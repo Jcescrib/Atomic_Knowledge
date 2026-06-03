@@ -35,7 +35,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-falso-positivo-validation-concept
 
 sources:
   - "raw/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md"
@@ -49,3 +50,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-hipotesis-concept]]
+
+**related** ↔ [[aku-falso-positivo-validation-concept]]

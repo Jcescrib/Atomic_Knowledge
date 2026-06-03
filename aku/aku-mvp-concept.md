@@ -32,6 +32,7 @@ relations:
   supported_by: []
   supports:
     - aku-mago-de-oz-mvp-concept
+    - aku-entrevista-problem-solution-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -54,6 +55,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-mago-de-oz-mvp-concept]]
+**supports** → [[aku-mago-de-oz-mvp-concept]] · [[aku-entrevista-problem-solution-concept]]
 
 **related** ↔ [[aku-lean-startup-method-concept]] · [[aku-hipotesis-concept]] · [[aku-build-measure-learn-concept]] · [[aku-aprendizaje-validado-concept]]

@@ -174,3 +174,43 @@ sources:
       related retroactive: cltv/cac/churn ↔ métricas-accionables;
       early-adopter/nicho-strategy ↔ PMF; océano-rojo/azul ↔ innovar-vs-
       competir.
+
+  - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\03-Probando Modelos de Negocio y Lean Startup\\3.0.2-Probando modelos de negocio Testing+Business+Models+Recursos.pdf"
+    name_slug: "3-0-2-probando-modelos-de-negocio-testing-business-models-recursos"
+    raw_path: "raw/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 4
+    taku_count: 1
+    last_commit: ""
+    notes: >
+      4 nuevos concept-AKUs (problem-solution-fit, etapas-startup,
+      entrevista-problem-solution, falso-positivo-validation) + 1 TAKU
+      technique (entrevista-problem-solution, 5 jb, constrained_by
+      falso-positivo). Dedup: aku-product-market-fit-concept recibe 3.0.2
+      como 2ª fuente (0.50→0.60). Sin imágenes. Cross-source related
+      retroactive: lean-startup-method/customer-persona/hipotesis/mvp/
+      claims ← nuevos AKUs.
+
+  - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\03-Probando Modelos de Negocio y Lean Startup\\3.01.01-Experiments+Template.pdf"
+    name_slug: "3-01-01-experiments-template"
+    raw_path: "raw/3-01-01-experiments-template/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 0
+    taku_count: 0
+    last_commit: ""
+    notes: >
+      Sin AKUs/TAKUs nuevos. Contenido = plantilla Hipótesis/MVP/Aprendizaje,
+      ya cubierta por taku-plantilla-experimentos-mvp del ingest 3.0.1.
+      No añadido como segunda fuente a hipotesis/mvp/aprendizaje-validado
+      porque 3.0.3 los usa como labels del template (no los define
+      conceptualmente con includes/excludes/implies) — sería inflación
+      artificial de llm_confidence. Registrado como ingested para que
+      futuras pasadas de /pipeline lo salten.

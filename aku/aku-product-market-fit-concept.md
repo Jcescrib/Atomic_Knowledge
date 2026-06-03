@@ -15,7 +15,7 @@ statement: >
 origin: "The Power MBA — Módulo 3.0.1 «El método Lean Startup»"
 domain: [lean-startup, product-market-fit, startup, validation]
 
-llm_confidence: 0.50
+llm_confidence: 0.60
 
 human_certainty:
   status: unvalidated
@@ -41,9 +41,12 @@ relations:
     - aku-metricas-accionables-concept
     - aku-early-adopter-concept
     - aku-nicho-strategy-concept
+    - aku-problem-solution-fit-concept
+    - aku-etapas-startup-concept
 
 sources:
   - "raw/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md"
+  - "raw/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos.md"
 
 created: 2026-06-03
 updated: 2026-06-03
@@ -53,4 +56,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-lean-startup-method-concept]] · [[aku-innovar-vs-competir-concept]] · [[aku-metricas-accionables-concept]] · [[aku-early-adopter-concept]] · [[aku-nicho-strategy-concept]]
+**related** ↔ [[aku-lean-startup-method-concept]] · [[aku-innovar-vs-competir-concept]] · [[aku-metricas-accionables-concept]] · [[aku-early-adopter-concept]] · [[aku-nicho-strategy-concept]] · [[aku-problem-solution-fit-concept]] · [[aku-etapas-startup-concept]]

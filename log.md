@@ -113,3 +113,22 @@ First lint pass over módulo 02 (72 AKUs + 8 TAKUs). Detected **15 bidirectional
 - Warnings: 5 TAKUs with >7 justified_by (BMC=14, growth-metrics=12, plataformas=12, Power Value=11, océano-azul=9). All expected for comprehensive frameworks.
 - Report: outputs/lint/2026-06-03-modulo-02.md (gitignored).
 - Lesson logged for future ingests: when wiring a cross-module `related` link, always update BOTH AKU files' frontmatter AND both body wikilink sections in the same Edit batch — failing to do so propagates asymmetry across the graph.
+## 2026-06-03 — ingest
+Source: `raw/3-0-1-lean-startup-lean-startup-recursos/...md` (Eric Ries via The Power MBA — Módulo 3.0.1). 4 pages → 117 lines + 2 figure blockquotes.
+- 13 new AKUs: 10 concept + 3 claim (Lean Startup cluster).
+- 2 TAKUs: `taku-lean-startup-method` (framework, 12 jb) + `taku-plantilla-experimentos-mvp` (tool, 5 jb).
+- New `context_breaks_at` pair: métricas-vanidosas ↔ métricas-accionables.
+- 7 retroactive cross-source `related` to módulo 02. 2 in-cluster fixes after lint check.
+
+## 2026-06-03 — ingest
+Source: `raw/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos/...md` (The Power MBA — Módulo 3.0.2). 3 pages → 14 lines (mostly tables) + tables flow through.
+- 4 new AKUs: 4 concept (problem-solution-fit, etapas-startup, entrevista-problem-solution, falso-positivo-validation).
+- 1 TAKU: `taku-entrevista-problem-solution` (technique, 5 jb, constrained_by falso-positivo). Complementary a `taku-plantilla-experimentos-mvp`.
+- Dedup: `aku-product-market-fit-concept` (de 3.0.1) recibe 3.0.2 como segunda fuente; llm_confidence 0.50 → 0.60.
+- 7 retroactive cross-source `related` wires post-lint check.
+
+## 2026-06-03 — ingest
+Source: `raw/3-01-01-experiments-template/...md` (The Power MBA — Módulo 3.01.01). 1 page → 5 lines, sin imágenes.
+- **Sin AKUs/TAKUs nuevos**: el contenido es exactamente la plantilla Hipótesis/MVP/Aprendizaje, ya cubierta por `taku-plantilla-experimentos-mvp` creado durante el ingest 3.0.1.
+- Dedup decision: NO añado 3.0.3 como segunda fuente a los AKUs hipotesis/mvp/aprendizaje-validado porque 3.0.3 los usa como labels del template (no los define conceptualmente con includes/excludes/implies). Sería inflación artificial de llm_confidence.
+- Registrado en manifest como ingested con aku_count=0, taku_count=0. La plantilla TAKU ya está completa.
