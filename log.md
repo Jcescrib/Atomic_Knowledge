@@ -132,3 +132,14 @@ Source: `raw/3-01-01-experiments-template/...md` (The Power MBA — Módulo 3.01
 - **Sin AKUs/TAKUs nuevos**: el contenido es exactamente la plantilla Hipótesis/MVP/Aprendizaje, ya cubierta por `taku-plantilla-experimentos-mvp` creado durante el ingest 3.0.1.
 - Dedup decision: NO añado 3.0.3 como segunda fuente a los AKUs hipotesis/mvp/aprendizaje-validado porque 3.0.3 los usa como labels del template (no los define conceptualmente con includes/excludes/implies). Sería inflación artificial de llm_confidence.
 - Registrado en manifest como ingested con aku_count=0, taku_count=0. La plantilla TAKU ya está completa.
+
+## 2026-06-03 — audit
+Graph integration audit post-módulo 03. Detected 2 connected components (88 + 2 isolated TAM/SAM/SOM cluster). Applied 17 cross-cluster `related` wires in two tiers:
+- **Tier (a)** — 8 text-anchored wires applied autonomously (ecosistema↔recursos/actividades/canales, cliente-buscando↔oceano-rojo, cosas-importantes↔propuesta-valor, emocion-claim↔propuesta-valor, mago-de-oz↔aprendizaje-validado, asumir-equivocarse↔no-dar-supuesto).
+- **Tier (b)** — 9 conceptual wires user-approved (tam-sam-som↔segmentos+bmc rescate, modelo-lineal↔bmc, canal-directo↔modelo-lineal, nicho-recomendado↔innovar-vs-competir+early-adopter, cliente-buscando↔oceano-azul, ecuacion-valor↔coste-percibido, reducir-costes↔ecuacion-valor).
+
+Plus 1 new tacit claim earlier in session: `aku-free-bootstrap-plataforma-claim` (Joan's tier-c knowledge, epistemic_type: tacit).
+
+Result: graph passes from 2 components → **1 connected component**, 372→388 directed edges, 0 bidirectional errors.
+
+Permanent rules established in CLAUDE.md § Integración del grafo: INTEGRATE step (5.5) in every ingest, `/audit-graph` slash command for periodic global audits, three-tier rigor classification (a applied / b proposed / c user-led), distinction conceptual real vs empirical coincidence, lint flag «componentes > 1 = fragmentación». Memoria `feedback_graph_integration.md` guardada.
