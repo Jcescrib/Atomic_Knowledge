@@ -245,3 +245,8 @@ Source: `raw/5-5-1-...captacion-y-nurturing-de-leads...md` (100 líneas; imágen
 
 ## 2026-06-03 — pipeline (módulo 05, 5.5.2–5.5.4 directorios de referencia)
 3 PDFs de referencia (ejemplos de lead magnets, herramientas de formularios, herramientas de marketing automation), 0 AKUs nuevos. Contenido cubierto por lead-magnet y marketing-automation. Commit agrupado; entrada por PDF en el manifest.
+
+## 2026-06-03 — pipeline (módulo 05, 5.6.1 + 5.6.3; 5.6.2/5.6.4 referencia)
+- **5.6.1 «Conversión»** (96 líneas; pirámide de conversión captionada, A/B img decorativa): 6 AKUs (`cro`, `cuello-botella-funnel`, `piramide-conversion`, `proceso-cro` [method], `ab-testing`, `landing-page`) + framework TAKU `taku-cro`. INTEGRATE: cro ↔ conversion-olvidada/palancas/power-funnel; proceso-cro ↔ lean-startup; ab-testing ↔ mvp.
+- **5.6.3 «Consejos para CTA»** (85 líneas, ejemplos decorativos): 1 AKU `cta` + heuristic TAKU `taku-optimizar-cta`. cta ↔ vender-una-accion, cro, landing-page.
+- **5.6.2 tabla herramientas** y **5.6.4 herramientas CRO**: directorios de referencia, 0 AKUs.

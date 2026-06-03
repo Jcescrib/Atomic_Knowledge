@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-cltv-cac-dual-optimization, aku-cac-concept]
+  related: [aku-cltv-cac-dual-optimization, aku-cac-concept, aku-cro-concept]
 
 sources:
   - raw/5-3-visi-on-estrat-egica/5-3-visi-on-estrat-egica.md
@@ -45,4 +45,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-palancas-marketing-digital-concept]]
-**related** ↔ [[aku-cltv-cac-dual-optimization]] · [[aku-cac-concept]]
+**related** ↔ [[aku-cltv-cac-dual-optimization]] · [[aku-cac-concept]] · [[aku-cro-concept]]

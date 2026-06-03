@@ -591,3 +591,52 @@ sources:
     taku_count: 0
     last_commit: ""
     notes: "Herramientas de marketing automation (referencia). 0 AKUs; cubierto por aku-marketing-automation-concept."
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6.1 Conceptos+Clave_+Conversión.pdf"
+    name_slug: "5-6-1-conceptos-clave-conversi-on"
+    raw_path: "raw/5-6-1-conceptos-clave-conversi-on/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: 2026-06-03
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 6
+    taku_count: 1
+    last_commit: ""
+    notes: "Conversión/CRO. 5 concept + 1 method AKUs + framework TAKU cro."
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6.2-Tabla+Herramientas+(2).pdf"
+    name_slug: "5-6-2-tabla-herramientas-2"
+    raw_path: "raw/5-6-2-tabla-herramientas-2/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 0
+    taku_count: 0
+    last_commit: ""
+    notes: "Tabla de herramientas (referencia). 0 AKUs."
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6.3 Anexo_+Consejos+para+CTA.pdf"
+    name_slug: "5-6-3-anexo-consejos-para-cta"
+    raw_path: "raw/5-6-3-anexo-consejos-para-cta/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: 2026-06-03
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 1
+    taku_count: 1
+    last_commit: ""
+    notes: "Consejos para CTA. 1 concept AKU (cta) + heuristic TAKU optimizar-cta."
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6.4 - Herramientas+para+CRO.pdf"
+    name_slug: "5-6-4-herramientas-para-cro"
+    raw_path: "raw/5-6-4-herramientas-para-cro/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 0
+    taku_count: 0
+    last_commit: ""
+    notes: "Herramientas para CRO (referencia). 0 AKUs."

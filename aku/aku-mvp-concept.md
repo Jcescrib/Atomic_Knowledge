@@ -43,6 +43,7 @@ relations:
     - aku-hipotesis-concept
     - aku-build-measure-learn-concept
     - aku-aprendizaje-validado-concept
+    - aku-ab-testing-concept
 
 sources:
   - "raw/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md"
@@ -57,4 +58,4 @@ status_note: ""
 
 **supports** → [[aku-mago-de-oz-mvp-concept]] · [[aku-entrevista-problem-solution-concept]]
 
-**related** ↔ [[aku-lean-startup-method-concept]] · [[aku-hipotesis-concept]] · [[aku-build-measure-learn-concept]] · [[aku-aprendizaje-validado-concept]]
+**related** ↔ [[aku-lean-startup-method-concept]] · [[aku-hipotesis-concept]] · [[aku-build-measure-learn-concept]] · [[aku-aprendizaje-validado-concept]] · [[aku-ab-testing-concept]]

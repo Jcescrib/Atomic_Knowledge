@@ -51,7 +51,7 @@ human_certainty:
   method: ""
 
 taku_relations:
-  complementary: [taku-digital-growth-engine-metrics-map, taku-mix-canales-atraccion, taku-lead-nurturing]
+  complementary: [taku-digital-growth-engine-metrics-map, taku-mix-canales-atraccion, taku-lead-nurturing, taku-cro]
   alternative_to: []
   precedes: []
   follows: []
@@ -108,4 +108,4 @@ ROI mediante cuatro palancas.
 
 **justified_by** ← [[aku-power-funnel-concept]] · [[aku-objetivos-negocio-concept]] · [[aku-palancas-marketing-digital-concept]] · [[aku-funnel-corto-vs-largo-concept]]
 **constrained_by** ← [[aku-conversion-olvidada-claim]]
-**complementary** ↔ [[taku-digital-growth-engine-metrics-map]] · [[taku-mix-canales-atraccion]] · [[taku-lead-nurturing]]
+**complementary** ↔ [[taku-digital-growth-engine-metrics-map]] · [[taku-mix-canales-atraccion]] · [[taku-lead-nurturing]] · [[taku-cro]]
