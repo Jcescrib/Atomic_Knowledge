@@ -36,6 +36,7 @@ relations:
     - aku-actividades-clave-concept
     - aku-ecosistema-alianzas-concept
     - aku-estructura-de-costes-concept
+    - aku-modelo-plataforma-concept
 sources:
   - raw/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc.md
 created: 2026-06-03
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-segmentos-de-clientes-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-canales-de-distribucion-concept]] · [[aku-relaciones-con-clientes-concept]] · [[aku-flujos-de-ingresos-concept]] · [[aku-recursos-clave-concept]] · [[aku-actividades-clave-concept]] · [[aku-ecosistema-alianzas-concept]] · [[aku-estructura-de-costes-concept]]
+**related** ↔ [[aku-segmentos-de-clientes-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-canales-de-distribucion-concept]] · [[aku-relaciones-con-clientes-concept]] · [[aku-flujos-de-ingresos-concept]] · [[aku-recursos-clave-concept]] · [[aku-actividades-clave-concept]] · [[aku-ecosistema-alianzas-concept]] · [[aku-estructura-de-costes-concept]] · [[aku-modelo-plataforma-concept]]

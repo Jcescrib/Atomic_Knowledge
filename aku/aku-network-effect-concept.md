@@ -40,6 +40,8 @@ relations:
   contradicts: []
   related:
     - aku-modelo-plataforma-concept
+    - aku-coeficiente-viralidad-concept
+    - aku-motor-crecimiento-viral-concept
 
 sources:
   - "raw/2-3-conceptos-clave-de-las-plataformas/2-3-conceptos-clave-de-las-plataformas.md"
@@ -54,4 +56,4 @@ status_note: ""
 
 **supports** → [[aku-circulo-virtuoso-concept]] · [[aku-circulo-vicioso-concept]]
 
-**related** ↔ [[aku-modelo-plataforma-concept]]
+**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-coeficiente-viralidad-concept]] · [[aku-motor-crecimiento-viral-concept]]

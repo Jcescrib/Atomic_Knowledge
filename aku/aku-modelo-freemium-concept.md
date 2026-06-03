@@ -38,6 +38,7 @@ relations:
   related:
     - aku-modelo-free-concept
     - aku-modelo-plataforma-concept
+    - aku-flujos-de-ingresos-concept
 
 sources:
   - "raw/2-3-conceptos-clave-de-las-plataformas/2-3-conceptos-clave-de-las-plataformas.md"
@@ -50,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelo-free-concept]] · [[aku-modelo-plataforma-concept]]
+**related** ↔ [[aku-modelo-free-concept]] · [[aku-modelo-plataforma-concept]] · [[aku-flujos-de-ingresos-concept]]
