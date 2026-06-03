@@ -337,3 +337,18 @@ sources:
       mente del cliente, estilo editorial, lead magnet, BrandScript StoryBrand.
       6 concept AKUs + 2 TAKUs (cialdini framework + decálogo heuristic). 2 imágenes
       informational (SB7). Sin dedup-merges.
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.2 Métricas+clave+en+motores+de+crecimiento.pdf"
+    name_slug: "5-2-m-etricas-clave-en-motores-de-crecimiento"
+    raw_path: "raw/5-2-m-etricas-clave-en-motores-de-crecimiento/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 0
+    taku_count: 0
+    last_commit: ""
+    notes: >
+      Tabla-resumen de métricas. 0 AKUs nuevos (recap del cluster métricas del
+      módulo 2.2). Dedup conservador: sin bump de confianza ni nuevas fuentes.
