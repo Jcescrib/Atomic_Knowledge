@@ -48,7 +48,15 @@ sources:
   - "raw/2.2-Motores de crecimiento - proncipales métricas.pdf"
 
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-06-03
 status: active
 status_note: ""
 ---
+
+## Relaciones
+
+**supports** → [[aku-cltv-subscription-formula]] · [[aku-cltv-transactional-formula]] · [[aku-cltv-cac-dual-optimization]] · [[aku-cac-payback-concept]] · [[aku-cltv-cac-ratio-concept]] · [[aku-cltv-minus-cac-concept]]
+
+**constrained_by** ← [[aku-cltv-gross-margin-over-revenue]]
+
+**related** ↔ [[aku-cac-concept]] · [[aku-arpu-concept]] · [[aku-churn-rate-concept]]

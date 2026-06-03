@@ -40,7 +40,13 @@ sources:
   - "raw/2.2-Motores de crecimiento - proncipales métricas.pdf"
 
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-06-03
 status: active
 status_note: ""
 ---
+
+## Relaciones
+
+**supports** → [[aku-cltv-subscription-formula]]
+
+**related** ↔ [[aku-cltv-concept]]

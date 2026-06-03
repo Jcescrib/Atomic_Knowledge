@@ -172,3 +172,7 @@ métricas son derivaciones o refinamientos:
   priorizar canales.
 - Extensión multi-producto: tratar cada producto como un motor con sus propias
   seis métricas y agregar al cierre.
+
+## Relaciones
+
+**justified_by** ← [[aku-cltv-concept]] · [[aku-cac-concept]] · [[aku-arpu-concept]] · [[aku-churn-rate-concept]] · [[aku-cac-payback-concept]] · [[aku-cltv-cac-ratio-concept]] · [[aku-cltv-minus-cac-concept]] · [[aku-cltv-subscription-formula]] · [[aku-cltv-transactional-formula]] · [[aku-cltv-gross-margin-over-revenue]] · [[aku-cltv-cac-dual-optimization]]

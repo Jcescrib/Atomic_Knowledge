@@ -53,3 +53,10 @@ Pipeline workflow + body-wikilinks rule encoded permanently. CLAUDE.md grew to 2
 - New hard rule #8: body Relaciones mandatory. Three new lint flags.
 - Vault layout updated to document `scripts/` and `_meta/pipeline-manifest.yml`.
 - Reason: Obsidian's graph view only renders edges from `[[wikilink]]` syntax, not from YAML frontmatter. Without the Relaciones body section, all AKUs appeared as disconnected nodes despite a fully-typed graph in the frontmatter.
+
+## 2026-06-03 — update
+Retrofit: appended `## Relaciones` body sections to all 11 AKUs + 1 TAKU from the 2.2-motores ingest, mirroring their current frontmatter relations as `[[wikilink]]`.
+- Pure mechanical projection: no relation graph changes, only body additions.
+- All 12 files now show their typed relations both in YAML (canonical) and in body wikilinks (Obsidian-graph-visible).
+- `updated` field bumped to 2026-06-03 on all 12 files.
+- Expected effect in Obsidian: the previously disconnected cluster now renders as a single connected graph centered on `aku-cltv-concept`.
