@@ -85,3 +85,22 @@ Source: `raw/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/...md`
 - Dedup: `aku-propuesta-de-valor-concept` (from BMC 2.1) got 2.5 as second independent source; llm_confidence 0.50 → 0.60.
 - 3 images: 1 informational blockquote consolidado (estructura del canvas Power Value + ecuación de valor); 2 son variantes decorativas con quotes que el texto ya incluye.
 - Relations: 8 `related` edges entre componentes del Power Value; 3 `supports` (ecuación-claim → propuesta-valor; emocion-claim → beneficio-emocional; reducir-costes-claim → coste-percibido-amplio).
+
+## 2026-06-03 — ingest
+Source: `raw/2-6-oceano-azul-.../...md` (Kim & Mauborgne resumido por The Power MBA — Módulo 2.6). MinerU: 2 pages → 121 lines, 5 imágenes (no blockquotes individuales — contenido cubierto por texto + body de TAKU).
+- 9 new AKUs: 7 concept (factores-competitivos, curva-valor, matriz-rice, océano-rojo, océano-azul, innovación-valor, no-clientes) + 2 claim (empresas-borregos, más-valor-menos-coste-no-tradeoff).
+- 1 TAKU drafted: `taku-estrategia-oceano-azul` (framework, 9 justified_by — flag link inflation).
+- Cross-source `related` wires:
+  - factores-competitivos ↔ competencia-amplia (2.5)
+  - innovación-valor ↔ reducir-costes-no-precio (2.5)
+  - no-clientes ↔ cliente-buscando-vs-no (2.4)
+- TAKU-to-TAKU: `taku-estrategia-oceano-azul` complementary a `taku-power-value-modelo` (ambos atacan el diseño de propuesta de valor, con énfasis distinto).
+- Lint preview: 4 TAKUs >7 justified_by acumulados (BMC=14, metrics-map=11, plataformas=12, power-value=11, océano-azul=9). Todos esperados.
+
+## 2026-06-03 — meta
+Módulo 02-Innovación en los modelos de negocio completo. Procesados 7 PDFs (2.1 BMC + 2.2.1 motores tipos + 2.2 motores métricas + 2.3 plataformas + 2.4 segmentación targeting + 2.5 propuesta de valor + 2.6 océano azul). Resultado:
+- 72 AKUs (58 concept · 2 method · 12 claim).
+- 8 TAKUs en draft (5 frameworks: BMC, tres motores, métricas-motor, plataformas, targeting, Power Value, océano azul; 1 technique: customer-persona; — wait, 7 frameworks + 1 technique = 8).
+- 2 dedup updates (propuesta-de-valor y segmentos-de-clientes, ambos llm_confidence 0.50→0.60).
+- 7 raws conservados en `raw/<slug>/` con sus imágenes (PDFs originales intactos en G:\).
+- ~14 imágenes informacionales con blockquotes; ~14 decorativas dejadas sin caption.

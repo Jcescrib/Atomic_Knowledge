@@ -128,3 +128,26 @@ sources:
       valor-concept (0.50→0.60). 3 imágenes (slides del canvas con
       highlights distintos): 1 informational consolidado en blockquote, 2
       decorativas (variantes del mismo canvas).
+
+  - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\02-Innovación en los modelos de negocio\\2.6-oceano azul COMO+CREAR+PROPUESTAS+DE+VALOR+DISRUPTIVAS+Y+BUSCAR+PARA+TU+OCÉANO+AZUL+Conceptos+Clave.pdf"
+    name_slug: "2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave"
+    raw_path: "raw/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: 2026-06-03
+    chapters_ingested: []
+    aku_count: 9
+    taku_count: 1
+    last_commit: ""
+    notes: >
+      Cluster océano azul (Kim & Mauborgne): 7 concept-AKUs (factores
+      competitivos, curva de valor, matriz Rice, océano rojo, océano azul,
+      innovación en valor, no-clientes) + 2 claim-AKUs (empresas-borregos,
+      más-valor-menos-coste-no-tradeoff). 1 framework TAKU complementary a
+      taku-power-value-modelo. Cross-source related con
+      competencia-amplia (2.5), reducir-costes-no-precio (2.5),
+      cliente-buscando-vs-no (2.4). 5 imágenes (curva de valor ejemplo,
+      libro Blue Ocean, innovación en valor, matriz RICE, 3-niveles
+      no-clientes) — el contenido equivalente está cubierto en el texto y
+      en el body del TAKU; sin blockquotes individuales por eficiencia.

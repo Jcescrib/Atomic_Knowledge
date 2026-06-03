@@ -6,12 +6,12 @@ Router and validation dashboard. Updated by `/ingest`, `/pipeline`, `/lint`, and
 
 | Layer | Active | Draft | Deprecated | Validated-false / failing |
 |---|---|---|---|---|
-| AKU | 63 | — | 0 | 0 |
-| TAKU | 0 | 7 | 0 | 0 |
+| AKU | 72 | — | 0 | 0 |
+| TAKU | 0 | 8 | 0 | 0 |
 
-By AKU class: **51 concept**, **2 method**, **10 claim** · all `unvalidated` (61 at `llm_confidence: 0.50`, 2 at `0.60` after dedup) · all `epistemic_type: sourced`.
+By AKU class: **58 concept**, **2 method**, **12 claim** · all `unvalidated` (70 at `llm_confidence: 0.50`, 2 at `0.60` after dedup) · all `epistemic_type: sourced`.
 
-_Last updated: 2026-06-03 (pipeline ingest #6: 2.5-propuesta de valor / Power Value)_
+_Last updated: 2026-06-03 (pipeline ingest #7: 2.6-océano azul) — módulo 02 completo._
 
 ## Pending validation queue
 

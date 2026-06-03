@@ -74,7 +74,8 @@ human_certainty:
   method: ""
 
 taku_relations:
-  complementary: []
+  complementary:
+    - taku-estrategia-oceano-azul
   alternative_to: []
   precedes: []
   follows: []
@@ -139,3 +140,5 @@ Canvas 2×3 que descompone una propuesta de valor en columnas (qué ofreces / be
 ## Relaciones
 
 **justified_by** ← [[aku-power-value-modelo-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-beneficio-funcional-concept]] · [[aku-beneficio-emocional-concept]] · [[aku-problema-resuelto-concept]] · [[aku-coste-percibido-amplio-concept]] · [[aku-cosas-importantes-concept]] · [[aku-competencia-amplia-concept]] · [[aku-ecuacion-valor-claim]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-reducir-costes-no-precio-claim]]
+
+**complementary** ↔ [[taku-estrategia-oceano-azul]]
