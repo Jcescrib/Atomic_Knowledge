@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-create-flow-monetize-flow-add-friction-claim
+    - aku-high-value-low-cost-one-to-many-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-create-flow-monetize-flow-add-friction-claim]]
+**related** ↔ [[aku-create-flow-monetize-flow-add-friction-claim]] · [[aku-high-value-low-cost-one-to-many-claim]]

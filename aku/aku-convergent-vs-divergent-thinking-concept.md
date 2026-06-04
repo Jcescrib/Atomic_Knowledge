@@ -32,7 +32,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-problemas-a-soluciones-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -46,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
+
+**related** ↔ [[aku-problemas-a-soluciones-concept]]

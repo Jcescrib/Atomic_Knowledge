@@ -33,6 +33,7 @@ relations:
   related:
     - aku-trim-and-stack-concept
     - aku-delivery-cube-concept
+    - aku-sales-fulfillment-continuum-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-trim-and-stack-concept]] · [[aku-delivery-cube-concept]]
+**related** ↔ [[aku-trim-and-stack-concept]] · [[aku-delivery-cube-concept]] · [[aku-sales-fulfillment-continuum-concept]]
