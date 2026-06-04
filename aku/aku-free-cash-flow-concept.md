@@ -32,7 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-cash-flow-accionistas-concept, aku-enterprise-value-concept]
+  related: [aku-cash-flow-accionistas-concept, aku-enterprise-value-concept, aku-valor-residual-concept]
 
 sources:
   - raw/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -46,4 +46,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-dcf-method]]
-**related** ↔ [[aku-cash-flow-accionistas-concept]] · [[aku-enterprise-value-concept]]
+**related** ↔ [[aku-cash-flow-accionistas-concept]] · [[aku-enterprise-value-concept]] · [[aku-valor-residual-concept]]

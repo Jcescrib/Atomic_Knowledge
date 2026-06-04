@@ -1084,7 +1084,7 @@ sources:
     image_processing: n/a
     ingested: 2026-06-04
     chapters_ingested: []
-    aku_count: 9
+    aku_count: 15  # 9 base + 6 del 2º pase (ingresos-financieros, subvenciones, arrendamientos, prestaciones-servicios, gastos-de-explotacion, sueldos-y-salarios)
     taku_count: 0
     last_commit: ""
     notes: >
@@ -1103,7 +1103,7 @@ sources:
     image_processing: 2026-06-04
     ingested: 2026-06-04
     chapters_ingested: []
-    aku_count: 25
+    aku_count: 28  # 25 base + 3 del 2º pase (periodo-medio-cobro, periodo-medio-pago, dias-de-existencias)
     taku_count: 0
     last_commit: ""
     notes: >
@@ -1126,7 +1126,7 @@ sources:
     image_processing: 2026-06-04
     ingested: 2026-06-04
     chapters_ingested: []
-    aku_count: 31
+    aku_count: 36  # 31 base + 5 del 2º pase (valor-residual, interes-sin-riesgo, roe, roa, apalancamiento-financiero)
     taku_count: 0
     last_commit: ""
     notes: >

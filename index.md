@@ -6,10 +6,10 @@ Router and validation dashboard. Updated by `/ingest`, `/pipeline`, `/lint`, and
 
 | Layer | Active | Draft | Deprecated | Validated-false / failing |
 |---|---|---|---|---|
-| AKU | 354 | — | 0 | 0 |
+| AKU | 368 | — | 0 | 0 |
 | TAKU | 0 | 47 | 0 | 0 |
 
-By AKU class: **274 concept**, **30 method**, **50 claim** · all `unvalidated` · `sourced` mayoría at `llm_confidence: 0.50`, 7 `sourced` at `0.60` (post-dedup: segmentos, propuesta-valor, product-market-fit, nicho-strategy, lead-magnet, **proposito-mision**, **valores-marca**), 1 `sourced` at `0.20` (mas-valor-menos-coste, −0.30 por contradicción con atrapado-medio/Porter), 1 `tacit` at `null` (Joan's free-bootstrap-plataforma claim).
+By AKU class: **288 concept**, **30 method**, **50 claim** · all `unvalidated` · `sourced` mayoría at `llm_confidence: 0.50`, 7 `sourced` at `0.60` (post-dedup: segmentos, propuesta-valor, product-market-fit, nicho-strategy, lead-magnet, **proposito-mision**, **valores-marca**), 1 `sourced` at `0.20` (mas-valor-menos-coste, −0.30 por contradicción con atrapado-medio/Porter), 1 `tacit` at `null` (Joan's free-bootstrap-plataforma claim).
 
 Graph: **1 connected component**, 0 bidirectional errors (AKU 263/263 simétrico, 0 body-drift, 0 wikilinks rotos; TAKU 43/43 simétrico — verificado por script format-aware). Módulo 07 (Leadership) creó temporalmente 6 componentes; reunificado a 1 con 5 puentes INTEGRATE nivel (a) anclados en texto (ikigai↔proposito-mision, tres-capas→liderazgo-situacional, cultura↔cascada, liderazgo↔tests-personalidad, autoevaluacion↔minimalismo-digital).
 

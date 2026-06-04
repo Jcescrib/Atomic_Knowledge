@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-valor-futuro-concept, aku-tasa-de-descuento-concept, aku-van-concept]
+  related: [aku-valor-futuro-concept, aku-tasa-de-descuento-concept, aku-van-concept, aku-valor-residual-concept]
 
 sources:
   - raw/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -45,4 +45,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-descontar-actualizar-method]] · [[aku-dcf-method]]
-**related** ↔ [[aku-valor-futuro-concept]] · [[aku-tasa-de-descuento-concept]] · [[aku-van-concept]]
+**related** ↔ [[aku-valor-futuro-concept]] · [[aku-tasa-de-descuento-concept]] · [[aku-van-concept]] · [[aku-valor-residual-concept]]

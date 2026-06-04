@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-valor-actual-presente-concept, aku-prima-de-riesgo-concept]
+  related: [aku-valor-actual-presente-concept, aku-prima-de-riesgo-concept, aku-interes-sin-riesgo-concept]
 
 sources:
   - raw/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -44,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-valor-actual-presente-concept]] · [[aku-prima-de-riesgo-concept]]
+**related** ↔ [[aku-valor-actual-presente-concept]] · [[aku-prima-de-riesgo-concept]] · [[aku-interes-sin-riesgo-concept]]

@@ -1,13 +1,13 @@
 ---
 type: aku
 aku_class: concept
-id: aku-prima-de-riesgo-concept
+id: aku-interes-sin-riesgo-concept
 statement: >
-  La prima de riesgo es el componente adicional de rentabilidad que se exige a una
-  inversión por encima del interés sin riesgo, en compensación por su riesgo; incluye
-  que sumada al interés sin riesgo conforma la tasa de descuento; implica que a mayor
-  riesgo percibido, mayor prima exigida y menor valor actual de los flujos; excluye la
-  parte de la rentabilidad atribuible al activo libre de riesgo.
+  El interés sin riesgo (tasa libre de riesgo) es la rentabilidad de una inversión
+  considerada sin riesgo de impago (típicamente deuda pública de alta calidad);
+  incluye que es el componente base de la tasa de descuento, al que se suma la prima de
+  riesgo; implica el suelo de rentabilidad que cualquier inversor exige; excluye la
+  compensación por el riesgo específico de la inversión (prima de riesgo).
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
 domain: [finanzas, valoracion, riesgo]
 
@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-tasa-de-descuento-concept, aku-interes-sin-riesgo-concept]
+  related: [aku-tasa-de-descuento-concept, aku-prima-de-riesgo-concept]
 
 sources:
   - raw/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -44,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-tasa-de-descuento-concept]] · [[aku-interes-sin-riesgo-concept]]
+**related** ↔ [[aku-tasa-de-descuento-concept]] · [[aku-prima-de-riesgo-concept]]

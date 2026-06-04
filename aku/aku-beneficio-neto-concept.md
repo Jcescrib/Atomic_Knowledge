@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-ebit-concept, aku-estado-resultados-concept, aku-multiplo-concept]
+  related: [aku-ebit-concept, aku-estado-resultados-concept, aku-multiplo-concept, aku-roe-concept]
 
 sources:
   - raw/09-02-01-ratios-analisis-financieros/09-02-01-ratios-analisis-financieros.md
@@ -45,4 +45,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-margen-neto-method]] · [[aku-per-method]]
-**related** ↔ [[aku-ebit-concept]] · [[aku-estado-resultados-concept]] · [[aku-multiplo-concept]]
+**related** ↔ [[aku-ebit-concept]] · [[aku-estado-resultados-concept]] · [[aku-multiplo-concept]] · [[aku-roe-concept]]

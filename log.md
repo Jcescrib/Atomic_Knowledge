@@ -463,3 +463,13 @@ INTEGRATE (a) anclado a PDF3: multiplo ↔ ebitda/ventas/beneficio-neto; per sup
 1 imagen informational (U invertida valor-empresa vs apalancamiento).
 Verificación: 354 AKUs, 0 asimetrías, 0 body-drift, 0 sin aku_class.
 Módulo 09 ingesta base: 4 PDFs, +86 AKUs (21+9+25+31). Pendiente 2º pase de verificación (relectura raw/).
+
+## 2026-06-04 — módulo 09 SEGUNDO PASE DE VERIFICACIÓN (regla especial módulo 09)
+
+Relectura de los 4 raw/ del módulo. Conceptos/fórmulas que habían quedado sin AKU → creados (+14 concept):
+- PDF2 (estado resultados): ingresos-financieros, subvenciones, ingresos-por-arrendamientos, ingresos-prestaciones-servicios, gastos-de-explotacion, sueldos-y-salarios.
+- PDF3 (ratios): periodo-medio-cobro (PMC), periodo-medio-pago (PMP), dias-de-existencias (componentes del ciclo de working capital).
+- PDF4 (finanzas): valor-residual, interes-sin-riesgo, roe, roa, apalancamiento-financiero.
+Todos enlazados a sus conceptos padre (ingresos-contables, gastos-contables, periodo-medio-maduracion, estructura-de-capital, etc.) con sync bidireccional.
+Verificación módulo 09 COMPLETO: 368 AKUs (288 concept · 30 method · 50 claim), 0 asimetrías, 0 body-drift, 0 sin aku_class.
+Módulo 09 total: 4 PDFs + 2º pase = +100 AKUs (21+9+25+31+14), 0 TAKUs (contenido conceptual/fórmulas).
