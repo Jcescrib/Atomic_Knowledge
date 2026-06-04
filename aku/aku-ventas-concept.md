@@ -26,7 +26,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports: [aku-margen-bruto-sobre-ventas-method, aku-margen-ebitda-method, aku-margen-ebit-method, aku-margen-neto-method, aku-rotacion-activo-method]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -45,4 +45,5 @@ status_note: ""
 
 ## Relaciones
 
+**supports** → [[aku-margen-bruto-sobre-ventas-method]] · [[aku-margen-ebitda-method]] · [[aku-margen-ebit-method]] · [[aku-margen-neto-method]] · [[aku-rotacion-activo-method]]
 **related** ↔ [[aku-ingresos-contables-concept]]

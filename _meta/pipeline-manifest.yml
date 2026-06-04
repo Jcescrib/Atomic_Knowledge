@@ -1095,3 +1095,26 @@ sources:
       coste-mercancias↔existencias, gastos-financieros↔pasivo. INTEGRATE nivel (b) aplicado bajo
       autonomía y anotado: ingresos-contables↔flujos-de-ingresos (BMC) y gastos-contables↔estructura-de-costes
       (BMC) — reconectan TODO el cluster contable al grafo principal. 0 imágenes, 0 TAKUs.
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\09-Contabilidad y finannzas\09.02.01-Ratios Analisis Financieros.pdf"
+    name_slug: "09-02-01-ratios-analisis-financieros"
+    raw_path: "raw/09-02-01-ratios-analisis-financieros/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: 2026-06-04
+    ingested: 2026-06-04
+    chapters_ingested: []
+    aku_count: 25
+    taku_count: 0
+    last_commit: ""
+    notes: >
+      Módulo 09 PDF 3 — Ratios de análisis financiero. HYPERDETALLE: 25 AKUs = 9 concept (solvencia,
+      liquidez, ebitda, ebit, margen-bruto, beneficio-neto, necesidades-operativas-fondos (NOF),
+      fondo-de-maniobra, periodo-medio-maduracion) + 15 method (cada fórmula con cálculo explícito:
+      ratio-endeudamiento/-cp/-lp, ratio-solvencia, ratio-liquidez, acid-test, ratio-tesoreria,
+      margen-bruto-sobre-ventas, margen-ebitda, margen-ebit, margen-neto, rotacion-activo,
+      rotacion-existencias, formula-nof, ciclo-working-capital-dias) + 1 claim
+      (margen-volumen-patron-sectorial). Backbone concept→method supports/supported_by totalmente
+      tipado. INTEGRATE (a) anclado: margen-volumen-patron-sectorial ↔ liderazgo-en-coste,
+      diferenciacion-mayores-margenes (texto cita «Diferenciación», «Liderazgo en coste»). 1 imagen
+      informational captionada (ciclo working capital PMM = días existencias + PMC − PMP). Verificación:
+      323 AKUs, 0 asimetrías, 0 body-drift.

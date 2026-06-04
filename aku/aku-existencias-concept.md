@@ -25,7 +25,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports: [aku-rotacion-existencias-method]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -44,4 +44,5 @@ status_note: ""
 
 ## Relaciones
 
+**supports** → [[aku-rotacion-existencias-method]]
 **related** ↔ [[aku-activo-corriente-concept]] · [[aku-coste-mercancias-vendidas-concept]]

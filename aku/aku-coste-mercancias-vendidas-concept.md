@@ -26,13 +26,13 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports: [aku-rotacion-existencias-method]
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-gastos-contables-concept, aku-existencias-concept]
+  related: [aku-gastos-contables-concept, aku-existencias-concept, aku-margen-bruto-concept]
 
 sources:
   - raw/09-01-02-detalle-cuentas-estado-resultados/09-01-02-detalle-cuentas-estado-resultados.md
@@ -45,4 +45,5 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-gastos-contables-concept]] · [[aku-existencias-concept]]
+**supports** → [[aku-rotacion-existencias-method]]
+**related** ↔ [[aku-gastos-contables-concept]] · [[aku-existencias-concept]] · [[aku-margen-bruto-concept]]

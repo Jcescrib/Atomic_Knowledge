@@ -30,7 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-diferenciacion-sector-concept]
+  related: [aku-diferenciacion-sector-concept, aku-margen-volumen-patron-sectorial-claim]
 
 sources:
   - raw/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
@@ -44,4 +44,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-estrategia-diferenciacion-concept]]
-**related** ↔ [[aku-diferenciacion-sector-concept]]
+**related** ↔ [[aku-diferenciacion-sector-concept]] · [[aku-margen-volumen-patron-sectorial-claim]]

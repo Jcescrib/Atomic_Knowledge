@@ -447,3 +447,11 @@ Cluster contable aislado temporalmente del grafo principal — reconexión en IN
 INTEGRATE (a) anclado: estado-resultados↔balance-situacion, ingresos-contables↔patrimonio-neto, amortizacion↔activo-no-corriente, coste-mercancias↔existencias, gastos-financieros↔pasivo.
 INTEGRATE (b) bajo autonomía (anotado para revisión): ingresos-contables↔flujos-de-ingresos (BMC), gastos-contables↔estructura-de-costes (BMC) → reconectan el cluster contable completo al grafo principal.
 0 imágenes, 0 TAKUs.
+
+## 2026-06-04 — pipeline módulo 09 (HYPERDETALLE) PDF 3/4: 09.02.01 Ratios de análisis financiero
+
++25 AKUs: 9 concept (solvencia, liquidez, ebitda, ebit, margen-bruto, beneficio-neto, NOF, fondo-de-maniobra, periodo-medio-maduracion) + 15 method (4 endeudamiento/solvencia, 3 liquidez, 4 márgenes, 2 rotación, formula-nof, ciclo-working-capital-dias) + 1 claim (margen-volumen-patron-sectorial).
+Backbone concept→method (supports/supported_by) totalmente tipado; ventas/activo/existencias/coste-mercancias (de PDFs 1-2) actualizados con sus supports.
+INTEGRATE (a) anclado: margen-volumen-patron-sectorial ↔ liderazgo-en-coste + diferenciacion-mayores-margenes.
+1 imagen informational captionada (ciclo working capital PMM).
+Verificación: 323 AKUs, 0 asimetrías bidireccionales, 0 body-drift.

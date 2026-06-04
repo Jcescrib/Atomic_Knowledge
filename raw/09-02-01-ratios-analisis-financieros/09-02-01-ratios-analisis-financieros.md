@@ -44,3 +44,13 @@ COMPRA DE ESTANCIAS
 VENTA (SALIDA DE EXISTENCIAS)  
 COBRO  
 ![](images/021ce5012676e4e29072de1fc622428cdb3b9ef4e9f99a8466d6cc85fda82bab.jpg)
+> **Figura**: Diagrama del ciclo de working capital (Periodo Medio de Maduración,
+> PMM) sobre una línea temporal. De arriba abajo y de izquierda a derecha: la flecha
+> superior «PMM, Working Capital Ciclo» abarca desde la compra/entrada de existencias
+> hasta el cobro al cliente. Debajo, «Nº días de existencias» va desde la entrada de
+> existencias hasta su venta (salida). «PMP» (Periodo Medio de Pago a proveedores) es
+> el tramo inicial, desde la compra hasta el pago al proveedor. «PMC» (Periodo Medio
+> de Cobro) es el tramo final, desde la venta hasta el cobro del cliente. La relación
+> que ilustra es: Ciclo de Working Capital (PMM) = Nº días de existencias + PMC − PMP.
+> A mayor PMP (pagar más tarde a proveedores), menor es el ciclo y menores las
+> necesidades operativas de fondos (NOF).

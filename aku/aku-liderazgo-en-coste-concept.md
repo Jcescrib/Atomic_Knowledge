@@ -33,7 +33,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-estrategia-diferenciacion-concept, aku-barreras-de-entrada-concept, aku-mass-market-strategy-concept, aku-commodity-concept]
+  related: [aku-estrategia-diferenciacion-concept, aku-barreras-de-entrada-concept, aku-mass-market-strategy-concept, aku-commodity-concept, aku-margen-volumen-patron-sectorial-claim]
 
 sources:
   - raw/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
@@ -48,4 +48,4 @@ status_note: ""
 
 **supported_by** ← [[aku-economias-de-escala-concept]]
 **supports** → [[aku-estrategias-genericas-porter-concept]] · [[aku-liderazgo-coste-imitable-claim]]
-**related** ↔ [[aku-estrategia-diferenciacion-concept]] · [[aku-barreras-de-entrada-concept]] · [[aku-mass-market-strategy-concept]] · [[aku-commodity-concept]]
+**related** ↔ [[aku-estrategia-diferenciacion-concept]] · [[aku-barreras-de-entrada-concept]] · [[aku-mass-market-strategy-concept]] · [[aku-commodity-concept]] · [[aku-margen-volumen-patron-sectorial-claim]]
