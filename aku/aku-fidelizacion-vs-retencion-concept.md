@@ -30,7 +30,8 @@ relations:
   supported_by: []
   supports:
     - aku-retencion-no-es-mala-claim
-  constrained_by: []
+  constrained_by:
+    - aku-fidelizacion-retencion-eleva-cltv-claim
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
@@ -55,4 +56,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-retencion-no-es-mala-claim]]
+**constrained_by** ← [[aku-fidelizacion-retencion-eleva-cltv-claim]]
 **related** ↔ [[aku-churn-rate-concept]] · [[aku-costes-de-cambio-concept]] · [[aku-power-funnel-concept]] · [[aku-flywheel-funnel-concept]] · [[aku-cialdini-pertenencia-concept]] · [[aku-continuity-offer-concept]]
