@@ -26,7 +26,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports: [aku-plan-medicion-objetivos-concept, aku-plan-medicion-estrategias-concept, aku-plan-medicion-kpis-concept, aku-plan-medicion-metas-concept, aku-plan-medicion-segmentos-concept]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -45,4 +45,5 @@ status_note: ""
 
 ## Relaciones
 
+**supports** → [[aku-plan-medicion-objetivos-concept]] · [[aku-plan-medicion-estrategias-concept]] · [[aku-plan-medicion-kpis-concept]] · [[aku-plan-medicion-metas-concept]] · [[aku-plan-medicion-segmentos-concept]]
 **related** ↔ [[aku-objetivos-negocio-concept]] · [[aku-metricas-accionables-concept]] · [[aku-metricas-google-analytics-concept]] · [[aku-codigos-utm-concept]] · [[aku-tipos-objetivos-google-analytics-concept]]
