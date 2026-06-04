@@ -32,7 +32,14 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-outbound-marketing-concept, aku-lead-magnet-concept, aku-canales-marketing-digital-concept, aku-flywheel-funnel-concept, aku-seo-aso-concept, aku-content-marketing-concept]
+  related:
+    - aku-outbound-marketing-concept
+    - aku-lead-magnet-concept
+    - aku-canales-marketing-digital-concept
+    - aku-flywheel-funnel-concept
+    - aku-seo-aso-concept
+    - aku-content-marketing-concept
+    - aku-content-nutre-toda-publicidad-claim
 
 sources:
   - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
@@ -45,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-outbound-marketing-concept]] · [[aku-lead-magnet-concept]] · [[aku-canales-marketing-digital-concept]] · [[aku-flywheel-funnel-concept]] · [[aku-seo-aso-concept]] · [[aku-content-marketing-concept]]
+**related** ↔ [[aku-outbound-marketing-concept]] · [[aku-lead-magnet-concept]] · [[aku-canales-marketing-digital-concept]] · [[aku-flywheel-funnel-concept]] · [[aku-seo-aso-concept]] · [[aku-content-marketing-concept]] · [[aku-content-nutre-toda-publicidad-claim]]

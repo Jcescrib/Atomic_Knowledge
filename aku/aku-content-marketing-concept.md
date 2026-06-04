@@ -33,7 +33,12 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-inbound-marketing-concept, aku-canales-marketing-digital-concept, aku-herramientas-creacion-contenido-rrss-concept]
+  related:
+    - aku-inbound-marketing-concept
+    - aku-canales-marketing-digital-concept
+    - aku-herramientas-creacion-contenido-rrss-concept
+    - aku-audiencia-activo-compuesto-claim
+    - aku-content-nutre-toda-publicidad-claim
 
 sources:
   - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
@@ -48,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-inbound-marketing-concept]] · [[aku-canales-marketing-digital-concept]] · [[aku-herramientas-creacion-contenido-rrss-concept]]
+**related** ↔ [[aku-inbound-marketing-concept]] · [[aku-canales-marketing-digital-concept]] · [[aku-herramientas-creacion-contenido-rrss-concept]] · [[aku-audiencia-activo-compuesto-claim]] · [[aku-content-nutre-toda-publicidad-claim]]
