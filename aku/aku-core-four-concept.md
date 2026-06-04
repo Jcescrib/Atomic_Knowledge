@@ -41,6 +41,7 @@ relations:
     - aku-paid-ads-concept
     - aku-more-better-new-concept
     - aku-lead-getters-apalancamiento-concept
+    - aku-empleados-lead-getters-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -55,4 +56,4 @@ status_note: ""
 
 **supported_by** ← [[aku-warm-cold-audience-concept]] · [[aku-warm-outreach-concept]]
 
-**related** ↔ [[aku-canales-marketing-digital-concept]] · [[aku-audiencia-activo-compuesto-claim]] · [[aku-content-nutre-toda-publicidad-claim]] · [[aku-paid-ads-concept]] · [[aku-more-better-new-concept]] · [[aku-lead-getters-apalancamiento-concept]]
+**related** ↔ [[aku-canales-marketing-digital-concept]] · [[aku-audiencia-activo-compuesto-claim]] · [[aku-content-nutre-toda-publicidad-claim]] · [[aku-paid-ads-concept]] · [[aku-more-better-new-concept]] · [[aku-lead-getters-apalancamiento-concept]] · [[aku-empleados-lead-getters-concept]]

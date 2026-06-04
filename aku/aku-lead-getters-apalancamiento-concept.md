@@ -35,6 +35,7 @@ relations:
   related:
     - aku-core-four-concept
     - aku-pedir-referidos-como-oferta-claim
+    - aku-empleados-lead-getters-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-core-four-concept]] · [[aku-pedir-referidos-como-oferta-claim]]
+**related** ↔ [[aku-core-four-concept]] · [[aku-pedir-referidos-como-oferta-claim]] · [[aku-empleados-lead-getters-concept]]

@@ -29,12 +29,15 @@ epistemic_type: sourced
 relations:
   supported_by: []
   supports: []
-  constrained_by: [aku-estructura-cultura-siguen-estrategia-claim]
+  constrained_by:
+    - aku-estructura-cultura-siguen-estrategia-claim
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-arquetipos-cultura-concept]
+  related:
+    - aku-arquetipos-cultura-concept
+    - aku-empleados-lead-getters-concept
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -48,4 +51,4 @@ status_note: ""
 ## Relaciones
 
 **constrained_by** ← [[aku-estructura-cultura-siguen-estrategia-claim]]
-**related** ↔ [[aku-arquetipos-cultura-concept]]
+**related** ↔ [[aku-arquetipos-cultura-concept]] · [[aku-empleados-lead-getters-concept]]
