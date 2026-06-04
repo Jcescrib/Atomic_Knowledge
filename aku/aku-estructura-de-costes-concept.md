@@ -33,6 +33,7 @@ relations:
   supported_by:
     - aku-recursos-clave-concept
     - aku-actividades-clave-concept
+    - aku-costes-fijos-variables-economias-escala-concept
   supports: []
   constrained_by:
     - aku-coste-prioridad-segun-estrategia-claim
@@ -55,7 +56,7 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-recursos-clave-concept]] · [[aku-actividades-clave-concept]]
+**supported_by** ← [[aku-recursos-clave-concept]] · [[aku-actividades-clave-concept]] · [[aku-costes-fijos-variables-economias-escala-concept]]
 
 **constrained_by** ← [[aku-coste-prioridad-segun-estrategia-claim]]
 

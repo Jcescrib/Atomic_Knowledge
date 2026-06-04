@@ -22,7 +22,8 @@ epistemic_type: sourced
 relations:
   supported_by: []
   supports: []
-  constrained_by: []
+  constrained_by:
+    - aku-bmc-cambio-bloque-desplaza-otros-claim
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
@@ -51,5 +52,7 @@ status_note: ""
 ---
 
 ## Relaciones
+
+**constrained_by** ← [[aku-bmc-cambio-bloque-desplaza-otros-claim]]
 
 **related** ↔ [[aku-segmentos-de-clientes-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-canales-de-distribucion-concept]] · [[aku-relaciones-con-clientes-concept]] · [[aku-flujos-de-ingresos-concept]] · [[aku-recursos-clave-concept]] · [[aku-actividades-clave-concept]] · [[aku-ecosistema-alianzas-concept]] · [[aku-estructura-de-costes-concept]] · [[aku-modelo-plataforma-concept]] · [[aku-tam-sam-som-concept]] · [[aku-modelo-lineal-concept]] · [[aku-pitch-deck-concept]] · [[aku-pitch-deck-modelo-negocio-concept]]

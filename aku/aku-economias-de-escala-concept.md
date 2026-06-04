@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-liderazgo-coste-imitable-claim]
+  related: [aku-liderazgo-coste-imitable-claim, aku-costes-fijos-variables-economias-escala-concept]
 
 sources:
   - raw/cursos/power-mba/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
@@ -46,4 +46,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-liderazgo-en-coste-concept]] · [[aku-barreras-de-entrada-concept]]
-**related** ↔ [[aku-liderazgo-coste-imitable-claim]]
+**related** ↔ [[aku-liderazgo-coste-imitable-claim]] · [[aku-costes-fijos-variables-economias-escala-concept]]
