@@ -1,13 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-rule-of-100-claim
+id: aku-open-to-goal-claim
 statement: >
-  La Rule of 100: hacer 100 acciones primarias de publicidad al día durante 100
-  días seguidos garantiza conseguir más engaged leads; se aplica a cada
-  actividad de la Core Four (100 reach outs/día en warm o cold; 100 minutos/día
-  creando contenido; 100 minutos/día creando paid ads), y es la forma concreta
-  de ejecutar el «More».
+  La Rule of 100 «on steroids» es «open to goal»: comprometerse a trabajar cada
+  día hasta alcanzar un número de resultados (no de acciones), pase lo que pase;
+  desbloquea un nivel de esfuerzo nuevo y elimina el esfuerzo como excusa,
+  porque la publicidad es un juego de inputs→outputs y la mayoría subestima
+  drásticamente el volumen necesario (haciendo 1/42 o incluso 1/1500 del
+  esfuerzo requerido).
 origin: "Alex Hormozi — $100M Leads"
 domain: [marketing-digital, captacion, disciplina, hormozi]
 
@@ -32,8 +33,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-more-better-new-concept
-    - aku-open-to-goal-claim
+    - aku-rule-of-100-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-more-better-new-concept]] · [[aku-open-to-goal-claim]]
+**related** ↔ [[aku-rule-of-100-claim]]
