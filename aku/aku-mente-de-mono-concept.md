@@ -25,7 +25,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports: [aku-mente-mono-no-estar-presente-concept]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -44,4 +44,5 @@ status_note: ""
 
 ## Relaciones
 
+**supports** → [[aku-mente-mono-no-estar-presente-concept]]
 **related** ↔ [[aku-mindfulness-concept]]

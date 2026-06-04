@@ -26,7 +26,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-mbti-concept]
+  supports: [aku-mbti-concept, aku-cuando-aplicar-tests-personalidad-concept]
   constrained_by: [aku-test-personalidad-solo-preferencias-claim]
   constrains: []
   context_breaks_at: []
@@ -46,6 +46,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-mbti-concept]]
+**supports** → [[aku-mbti-concept]] · [[aku-cuando-aplicar-tests-personalidad-concept]]
 **constrained_by** ← [[aku-test-personalidad-solo-preferencias-claim]]
 **related** ↔ [[aku-liderazgo-concept]] · [[aku-descubrir-fortalezas-feedback-externo-concept]]

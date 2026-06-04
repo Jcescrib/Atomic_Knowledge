@@ -27,13 +27,13 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports: [aku-deep-work-ritmica-concept, aku-deep-work-monastica-concept, aku-deep-work-periodistica-concept]
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-minimalismo-digital-concept]
+  related: [aku-minimalismo-digital-concept, aku-single-tasking-foco-una-tarea-claim]
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -46,4 +46,5 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-minimalismo-digital-concept]]
+**supports** → [[aku-deep-work-ritmica-concept]] · [[aku-deep-work-monastica-concept]] · [[aku-deep-work-periodistica-concept]]
+**related** ↔ [[aku-minimalismo-digital-concept]] · [[aku-single-tasking-foco-una-tarea-claim]]

@@ -32,7 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-mente-de-mono-concept, aku-autoevaluacion-cuerpo-mente-alma-concept]
+  related: [aku-mente-de-mono-concept, aku-autoevaluacion-cuerpo-mente-alma-concept, aku-single-tasking-foco-una-tarea-claim, aku-descansos-un-minuto-method, aku-mente-mono-no-estar-presente-concept]
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -45,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-mente-de-mono-concept]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]]
+**related** ↔ [[aku-mente-de-mono-concept]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-single-tasking-foco-una-tarea-claim]] · [[aku-descansos-un-minuto-method]] · [[aku-mente-mono-no-estar-presente-concept]]

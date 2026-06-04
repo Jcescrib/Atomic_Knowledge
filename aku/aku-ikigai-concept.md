@@ -26,7 +26,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports: [aku-ikigai-pasion-concept, aku-ikigai-mision-concept, aku-ikigai-profesion-concept, aku-ikigai-vocacion-concept]
   constrained_by: [aku-proposito-personal-sostenibilidad-claim]
   constrains: []
   context_breaks_at: []
@@ -45,5 +45,6 @@ status_note: ""
 
 ## Relaciones
 
+**supports** → [[aku-ikigai-pasion-concept]] · [[aku-ikigai-mision-concept]] · [[aku-ikigai-profesion-concept]] · [[aku-ikigai-vocacion-concept]]
 **constrained_by** ← [[aku-proposito-personal-sostenibilidad-claim]]
 **related** ↔ [[aku-objetivos-personales-concept]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-proposito-mision-concept]] · [[aku-fortalezas-debilidades-motivaciones-concept]]
