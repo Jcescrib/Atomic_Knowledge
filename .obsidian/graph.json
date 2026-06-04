@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "[\"domain\":hormozi",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
     }
   ],
   "collapse-display": false,
@@ -25,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1166089157945728,
+  "scale": 0.11660891579457293,
   "close": true
 }

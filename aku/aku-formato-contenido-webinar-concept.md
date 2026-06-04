@@ -25,14 +25,14 @@ epistemic_type: sourced
 relations:
   supported_by:
     - aku-formatos-marketing-contenidos-concept
+    - aku-lead-magnet-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-lead-magnet-concept
+  related: []
 
 sources:
   - raw/cursos/power-mba/5-4-9-marketing-de-contenidos-formatos-m-as-habituales/5-4-9-marketing-de-contenidos-formatos-m-as-habituales.md
@@ -45,6 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-formatos-marketing-contenidos-concept]]
-
-**related** ↔ [[aku-lead-magnet-concept]]
+**supported_by** ← [[aku-formatos-marketing-contenidos-concept]] · [[aku-lead-magnet-concept]]

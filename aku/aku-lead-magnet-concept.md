@@ -30,6 +30,18 @@ relations:
     - aku-problem-solution-cycle-concept
   supports:
     - aku-tipos-lead-magnet-concept
+    - aku-lead-magnet-prueba-producto-concept
+    - aku-lead-magnet-curso-gratuito-concept
+    - aku-lead-magnet-resumen-visita-concept
+    - aku-lead-magnet-descuento-cupon-concept
+    - aku-lead-magnet-concurso-sorteo-concept
+    - aku-lead-magnet-calculadora-concept
+    - aku-lead-magnet-plantilla-template-concept
+    - aku-lead-magnet-ubicaciones-claim
+    - aku-formato-contenido-webinar-concept
+    - aku-formato-contenido-guia-ebook-concept
+    - aku-formato-contenido-checklist-concept
+    - aku-formato-contenido-test-quiz-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -53,8 +65,6 @@ relations:
     - aku-lead-magnet-multiples-formatos-claim
     - aku-scarcity-real-etica-concept
     - aku-lead-magnet-cuatro-funciones-claim
-    - aku-formato-contenido-guia-ebook-concept
-    - aku-formato-contenido-webinar-concept
     - aku-aportar-valor-es-clave-del-contenido-claim
 
 sources:
@@ -70,8 +80,8 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cliente-buscando-vs-no-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-power-funnel-concept]] · [[aku-inbound-marketing-concept]] · [[aku-lead-concept]] · [[aku-lista-de-espera-concept]] · [[aku-cialdini-reciprocidad-concept]] · [[aku-give-away-secrets-sell-implementation-claim]] · [[aku-lead-magnet-reduce-cac-claim]] · [[aku-big-fast-value-claim]] · [[aku-attraction-offer-concept]] · [[aku-lead-magnet-hormozi-concept]] · [[aku-core-offer-concept]] · [[aku-lead-magnet-siete-pasos-concept]] · [[aku-lead-magnet-multiples-formatos-claim]] · [[aku-scarcity-real-etica-concept]] · [[aku-lead-magnet-cuatro-funciones-claim]] · [[aku-formato-contenido-guia-ebook-concept]] · [[aku-formato-contenido-webinar-concept]] · [[aku-aportar-valor-es-clave-del-contenido-claim]]
+**related** ↔ [[aku-cliente-buscando-vs-no-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-power-funnel-concept]] · [[aku-inbound-marketing-concept]] · [[aku-lead-concept]] · [[aku-lista-de-espera-concept]] · [[aku-cialdini-reciprocidad-concept]] · [[aku-give-away-secrets-sell-implementation-claim]] · [[aku-lead-magnet-reduce-cac-claim]] · [[aku-big-fast-value-claim]] · [[aku-attraction-offer-concept]] · [[aku-lead-magnet-hormozi-concept]] · [[aku-core-offer-concept]] · [[aku-lead-magnet-siete-pasos-concept]] · [[aku-lead-magnet-multiples-formatos-claim]] · [[aku-scarcity-real-etica-concept]] · [[aku-lead-magnet-cuatro-funciones-claim]] · [[aku-aportar-valor-es-clave-del-contenido-claim]]
 
-**supports** → [[aku-tipos-lead-magnet-concept]]
+**supports** → [[aku-tipos-lead-magnet-concept]] · [[aku-lead-magnet-prueba-producto-concept]] · [[aku-lead-magnet-curso-gratuito-concept]] · [[aku-lead-magnet-resumen-visita-concept]] · [[aku-lead-magnet-descuento-cupon-concept]] · [[aku-lead-magnet-concurso-sorteo-concept]] · [[aku-lead-magnet-calculadora-concept]] · [[aku-lead-magnet-plantilla-template-concept]] · [[aku-lead-magnet-ubicaciones-claim]] · [[aku-formato-contenido-webinar-concept]] · [[aku-formato-contenido-guia-ebook-concept]] · [[aku-formato-contenido-checklist-concept]] · [[aku-formato-contenido-test-quiz-concept]]
 
 **supported_by** ← [[aku-problem-solution-cycle-concept]]
