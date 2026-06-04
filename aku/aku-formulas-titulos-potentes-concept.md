@@ -48,6 +48,7 @@ relations:
     - aku-content-hook-concept
     - aku-callout-cocktail-party-claim
     - aku-copy-incluir-titular-claim
+    - aku-titulos-llamativos-cortos-evita-clickbait-claim
 
 sources:
   - raw/cursos/power-mba/20-2-lista-de-f-ormulas-para-escribir-t-itulos-potentes/20-2-lista-de-f-ormulas-para-escribir-t-itulos-potentes.md
@@ -61,4 +62,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-formula-titulo-resultado-tiempo-objecion-method]] · [[aku-formula-titulo-numero-sustantivo-adjetivo-method]] · [[aku-formula-titulo-como-lograr-objecion-method]] · [[aku-formula-titulo-numero-errores-deseo-method]] · [[aku-formula-titulo-caso-exito-method]] · [[aku-formula-titulo-numero-trucos-resultado-objecion-method]] · [[aku-formula-titulo-porque-resultado-method]]
-**related** ↔ [[aku-hacks-copywriting-concept]] · [[aku-titulo-anuncio-google-concept]] · [[aku-magic-naming-concept]] · [[aku-content-hook-concept]] · [[aku-callout-cocktail-party-claim]] · [[aku-copy-incluir-titular-claim]]
+**related** ↔ [[aku-hacks-copywriting-concept]] · [[aku-titulo-anuncio-google-concept]] · [[aku-magic-naming-concept]] · [[aku-content-hook-concept]] · [[aku-callout-cocktail-party-claim]] · [[aku-copy-incluir-titular-claim]] · [[aku-titulos-llamativos-cortos-evita-clickbait-claim]]

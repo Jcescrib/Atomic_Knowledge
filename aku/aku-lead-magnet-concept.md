@@ -55,6 +55,7 @@ relations:
     - aku-lead-magnet-cuatro-funciones-claim
     - aku-formato-contenido-guia-ebook-concept
     - aku-formato-contenido-webinar-concept
+    - aku-aportar-valor-es-clave-del-contenido-claim
 
 sources:
   - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
@@ -69,7 +70,7 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cliente-buscando-vs-no-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-power-funnel-concept]] · [[aku-inbound-marketing-concept]] · [[aku-lead-concept]] · [[aku-lista-de-espera-concept]] · [[aku-cialdini-reciprocidad-concept]] · [[aku-give-away-secrets-sell-implementation-claim]] · [[aku-lead-magnet-reduce-cac-claim]] · [[aku-big-fast-value-claim]] · [[aku-attraction-offer-concept]] · [[aku-lead-magnet-hormozi-concept]] · [[aku-core-offer-concept]] · [[aku-lead-magnet-siete-pasos-concept]] · [[aku-lead-magnet-multiples-formatos-claim]] · [[aku-scarcity-real-etica-concept]] · [[aku-lead-magnet-cuatro-funciones-claim]] · [[aku-formato-contenido-guia-ebook-concept]] · [[aku-formato-contenido-webinar-concept]]
+**related** ↔ [[aku-cliente-buscando-vs-no-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-power-funnel-concept]] · [[aku-inbound-marketing-concept]] · [[aku-lead-concept]] · [[aku-lista-de-espera-concept]] · [[aku-cialdini-reciprocidad-concept]] · [[aku-give-away-secrets-sell-implementation-claim]] · [[aku-lead-magnet-reduce-cac-claim]] · [[aku-big-fast-value-claim]] · [[aku-attraction-offer-concept]] · [[aku-lead-magnet-hormozi-concept]] · [[aku-core-offer-concept]] · [[aku-lead-magnet-siete-pasos-concept]] · [[aku-lead-magnet-multiples-formatos-claim]] · [[aku-scarcity-real-etica-concept]] · [[aku-lead-magnet-cuatro-funciones-claim]] · [[aku-formato-contenido-guia-ebook-concept]] · [[aku-formato-contenido-webinar-concept]] · [[aku-aportar-valor-es-clave-del-contenido-claim]]
 
 **supports** → [[aku-tipos-lead-magnet-concept]]
 
