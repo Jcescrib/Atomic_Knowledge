@@ -26,7 +26,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-blitzscaling-cuando-oportunidad-enorme-claim, aku-tipos-estrategias-crecimiento-concept]
+  supports: [aku-blitzscaling-cuando-oportunidad-enorme-claim, aku-tipos-estrategias-crecimiento-concept, aku-nueve-principios-blitzscaling-concept, aku-winner-takes-all-go-to-market-claim]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -45,5 +45,5 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-blitzscaling-cuando-oportunidad-enorme-claim]] · [[aku-tipos-estrategias-crecimiento-concept]]
+**supports** → [[aku-blitzscaling-cuando-oportunidad-enorme-claim]] · [[aku-tipos-estrategias-crecimiento-concept]] · [[aku-nueve-principios-blitzscaling-concept]] · [[aku-winner-takes-all-go-to-market-claim]]
 **related** ↔ [[aku-motor-crecimiento-concept]] · [[aku-ventaja-competitiva-concept]] · [[aku-innovar-vs-competir-concept]] · [[aku-etapas-organizacion-concept]] · [[aku-venture-capital-concept]] · [[aku-fastscaling-concept]]

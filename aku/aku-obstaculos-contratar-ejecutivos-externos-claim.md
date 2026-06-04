@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-evolucion-rol-fundador-concept, aku-etapas-organizacion-concept]
+  related: [aku-evolucion-rol-fundador-concept, aku-etapas-organizacion-concept, aku-blitz-contrata-rapido-claim]
 
 sources:
   - raw/cursos/power-mba/4-5-blitzscaling/4-5-blitzscaling.md
@@ -44,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-evolucion-rol-fundador-concept]] · [[aku-etapas-organizacion-concept]]
+**related** ↔ [[aku-evolucion-rol-fundador-concept]] · [[aku-etapas-organizacion-concept]] · [[aku-blitz-contrata-rapido-claim]]

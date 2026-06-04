@@ -47,6 +47,7 @@ relations:
     - aku-build-measure-learn-concept
     - aku-aprendizaje-validado-concept
     - aku-ab-testing-concept
+    - aku-blitz-lanza-producto-aunque-averguence-claim
 
 sources:
   - "raw/cursos/power-mba/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md"
@@ -61,4 +62,4 @@ status_note: ""
 
 **supports** → [[aku-mago-de-oz-mvp-concept]] · [[aku-entrevista-problem-solution-concept]] · [[aku-test-de-humo-concept]] · [[aku-crowdfunding-validacion-concept]] · [[aku-lista-de-espera-concept]]
 
-**related** ↔ [[aku-lean-startup-method-concept]] · [[aku-hipotesis-concept]] · [[aku-build-measure-learn-concept]] · [[aku-aprendizaje-validado-concept]] · [[aku-ab-testing-concept]]
+**related** ↔ [[aku-lean-startup-method-concept]] · [[aku-hipotesis-concept]] · [[aku-build-measure-learn-concept]] · [[aku-aprendizaje-validado-concept]] · [[aku-ab-testing-concept]] · [[aku-blitz-lanza-producto-aunque-averguence-claim]]
