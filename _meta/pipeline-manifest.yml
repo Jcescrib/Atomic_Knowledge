@@ -1179,3 +1179,19 @@ sources:
       1 technique TAKU (estrategia-concordancias-google, ej. Montblanc). INTEGRATE (a): concordancia
       ↔ sem-paid-search y ↔ anuncio-texto-google-ads. 0 imágenes. MÓDULO 11 COMPLETO (2 PDFs, +15 AKUs,
       +3 TAKUs).
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\12-Social media\12.1-Herramientas de creación de contenido para RRSS.pdf"
+    name_slug: "12-1-herramientas-de-creaci-on-de-contenido-para-rrss"
+    raw_path: "raw/12-1-herramientas-de-creaci-on-de-contenido-para-rrss/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: 2026-06-04
+    ingested: 2026-06-04
+    chapters_ingested: []
+    aku_count: 1
+    taku_count: 0
+    last_commit: ""
+    notes: >
+      Módulo 12 «Social media» PDF 1 — Herramientas de creación de contenido. 1 concept
+      (herramientas-creacion-contenido-rrss) que cataloga apps por función (infografías, edición foto,
+      diseño, stories, feed, GIFs). Catálogo de apps → un concept (nombres de apps = vocabulario,
+      no AKU propio). 6 imágenes decorativas (capturas de apps). related ↔ content-marketing.
