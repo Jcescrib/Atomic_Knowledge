@@ -29,7 +29,11 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-eric-reducir-method
+    - aku-eric-eliminar-method
+    - aku-eric-incrementar-method
+    - aku-eric-crear-method
   supports:
     - aku-innovacion-valor-concept
   constrained_by: []
@@ -40,6 +44,7 @@ relations:
   related:
     - aku-curva-valor-concept
     - aku-oceano-azul-concept
+    - aku-innovacion-valor-via-eric-claim
 
 sources:
   - "raw/cursos/power-mba/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave.md"
@@ -52,6 +57,8 @@ status_note: ""
 
 ## Relaciones
 
+**supported_by** ← [[aku-eric-reducir-method]] · [[aku-eric-eliminar-method]] · [[aku-eric-incrementar-method]] · [[aku-eric-crear-method]]
+
 **supports** → [[aku-innovacion-valor-concept]]
 
-**related** ↔ [[aku-curva-valor-concept]] · [[aku-oceano-azul-concept]]
+**related** ↔ [[aku-curva-valor-concept]] · [[aku-oceano-azul-concept]] · [[aku-innovacion-valor-via-eric-claim]]

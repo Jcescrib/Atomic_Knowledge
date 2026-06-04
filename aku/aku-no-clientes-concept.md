@@ -29,7 +29,10 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-no-clientes-proximos-concept
+    - aku-no-clientes-que-rechazan-concept
+    - aku-no-clientes-inexplorados-concept
   supports: []
   constrained_by: []
   constrains: []
@@ -51,5 +54,7 @@ status_note: ""
 ---
 
 ## Relaciones
+
+**supported_by** ← [[aku-no-clientes-proximos-concept]] · [[aku-no-clientes-que-rechazan-concept]] · [[aku-no-clientes-inexplorados-concept]]
 
 **related** ↔ [[aku-oceano-azul-concept]] · [[aku-cliente-buscando-vs-no-concept]] · [[aku-dirigirse-a-no-buscadores-mayor-conversion-claim]]
