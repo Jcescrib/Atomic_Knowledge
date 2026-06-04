@@ -26,7 +26,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports: [aku-fortalezas-debilidades-motivaciones-concept]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -45,4 +45,5 @@ status_note: ""
 
 ## Relaciones
 
+**supports** → [[aku-fortalezas-debilidades-motivaciones-concept]]
 **related** ↔ [[aku-diagnostico-estrategico-personal-concept]] · [[aku-objetivos-personales-concept]]

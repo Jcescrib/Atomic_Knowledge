@@ -32,7 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-objetivos-personales-concept, aku-autoevaluacion-cuerpo-mente-alma-concept, aku-proposito-mision-concept]
+  related: [aku-objetivos-personales-concept, aku-autoevaluacion-cuerpo-mente-alma-concept, aku-proposito-mision-concept, aku-fortalezas-debilidades-motivaciones-concept]
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -46,4 +46,4 @@ status_note: ""
 ## Relaciones
 
 **constrained_by** ← [[aku-proposito-personal-sostenibilidad-claim]]
-**related** ↔ [[aku-objetivos-personales-concept]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-proposito-mision-concept]]
+**related** ↔ [[aku-objetivos-personales-concept]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-proposito-mision-concept]] · [[aku-fortalezas-debilidades-motivaciones-concept]]

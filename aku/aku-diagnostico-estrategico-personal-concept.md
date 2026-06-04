@@ -29,7 +29,7 @@ relations:
   supported_by: []
   supports: []
   constrained_by: []
-  constrains: []
+  constrains: [aku-fortalezas-debilidades-motivaciones-concept]
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
@@ -46,4 +46,5 @@ status_note: ""
 
 ## Relaciones
 
+**constrains** → [[aku-fortalezas-debilidades-motivaciones-concept]]
 **related** ↔ [[aku-objetivos-personales-concept]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-claridad-objetivos-fortalezas-exito-claim]] · [[aku-alineacion-laboral-motivaciones-felicidad-claim]] · [[aku-descubrir-fortalezas-feedback-externo-concept]] · [[aku-motivaciones-desde-experiencias-pasadas-concept]]
