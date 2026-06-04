@@ -37,6 +37,7 @@ relations:
   related:
     - aku-client-financed-acquisition-concept
     - aku-cac-payback-concept
+    - aku-upsell-offer-concept
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -51,4 +52,4 @@ status_note: ""
 
 **supported_by** ← [[aku-cuatro-tipos-oferta-concept]]
 
-**related** ↔ [[aku-client-financed-acquisition-concept]] · [[aku-cac-payback-concept]]
+**related** ↔ [[aku-client-financed-acquisition-concept]] · [[aku-cac-payback-concept]] · [[aku-upsell-offer-concept]]
