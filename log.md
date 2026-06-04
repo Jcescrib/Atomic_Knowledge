@@ -549,3 +549,9 @@ contradicts: no añadido — no existe un AKU claim de buenas prácticas de Face
 Se conserva como evidencia negativa (✗ FALSIFIED). llm_confidence se mantiene 0.50 (informativo; señal: high-confidence-sourced + validated-false).
 index dashboard: validated-false 0 → 1.
 TAKUs: NO tocados (los activa el humano manualmente).
+
+## 2026-06-04 — meta: custom type `reference` + migración bibliografía copywriting
+
+- CLAUDE.md § TAKU creation rules: declarado el custom type `reference` con headers obligatorios (## Descripción · ## Recursos · ## Cómo usar esta referencia · ## Relaciones).
+- DEPRECADO aku-libros-copywriting-recomendados-concept (status: active → deprecated; status_note: "Sustituido por taku-bibliografia-copywriting (reference)."). Se conserva; los related entrantes (aku-hacks-copywriting-concept, aku-leyes-persuasion-cialdini-concept) se mantienen.
+- CREADO taku/reference/taku-bibliografia-copywriting.md (status: draft, content_validation: llm-authored). justified_by ← aku-hacks-copywriting-concept · aku-leyes-persuasion-cialdini-concept (aku-corpus-copywriting-concept no existe, omitido). Carpeta taku/reference/ creada.

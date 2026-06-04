@@ -33,8 +33,8 @@ sources:
   - raw/cursos/power-mba/20-3-libros-de-copywriting/20-3-libros-de-copywriting.md
 created: 2026-06-04
 updated: 2026-06-04
-status: active
-status_note: ""
+status: deprecated
+status_note: "Sustituido por taku-bibliografia-copywriting (reference)."
 ---
 
 ## Relaciones

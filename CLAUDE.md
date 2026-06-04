@@ -219,6 +219,14 @@ Never average. Never hide divergence — high `llm_confidence` + `validated-fals
 - **`taku_relations.precedes` / `follows`** must carry matching `sequence_type` (`recommended` | `required`) and be maintained bidirectionally.
 - **Never auto-activate.** New TAKUs are `status: draft`. Only the human transitions to `active`.
 
+#### Custom type declarations
+
+- **`reference`** — a curated pointer to external resources (bibliography, link list, resource index) that grounds future ingests rather than executing a procedure. Required body headers:
+  - `## Descripción`
+  - `## Recursos`
+  - `## Cómo usar esta referencia`
+  - `## Relaciones`
+
 ### Disambiguation: AKU vs heuristic TAKU
 
 - If the content is a falsifiable declarative ("X produces Y") → AKU.
