@@ -6,14 +6,14 @@ Router and validation dashboard. Updated by `/ingest`, `/pipeline`, `/lint`, and
 
 | Layer | Active | Draft | Deprecated | Validated-false / failing |
 |---|---|---|---|---|
-| AKU | 531 | — | 1 | 1 |
+| AKU | 790 | — | 1 | 1 |
 | TAKU | 0 | 83 | 0 | 0 |
 
-By AKU class: **392 concept**, **30 method**, **110 claim** · all `unvalidated` · `sourced` mayoría at `llm_confidence: 0.50`, ~14 `sourced` at `0.60` (post-dedup), 1 at `0.70` (lead-magnet, 3 fuentes), 1 `sourced` at `0.20` (mas-valor-menos-coste, −0.30 por contradicción con atrapado-medio/Porter), 1 `tacit` at `null` (Joan's free-bootstrap-plataforma claim).
+By AKU class: **482 concept**, **51 method**, **258 claim** · all `unvalidated` · `sourced` mayoría at `llm_confidence: 0.50`, ~14 `sourced` at `0.60` (post-dedup), 1 at `0.70` (lead-magnet, 3 fuentes), 1 `sourced` at `0.20` (mas-valor-menos-coste), 1 `tacit` at `null` (Joan's free-bootstrap-plataforma claim).
 
-Graph: **1 connected component** (615 nodos: 532 AKU + 83 TAKU), 0 bidirectional errors (532/532 simétrico, 0 body-drift, 0 wikilinks rotos, 0 huérfanos — verificado por `scripts/verify_graph.py`). **130 AKUs llevan el source-tag `hormozi`** (121 nuevos + 9 dedup-merges cross-corpus). Tras la ingesta Hormozi se reconectaron 1 huérfano (convergent-vs-divergent) y 1 isla (create-flow/sales-fulfillment) con puentes nivel (a)/(b).
+Graph: **1 connected component** (874 nodos: 791 AKU + 83 TAKU), 0 bidirectional errors (791/791 simétrico, 0 body-drift, 0 wikilinks rotos, 0 huérfanos — verificado por `scripts/verify_graph.py`). **389 AKUs llevan el source-tag `hormozi`** (130 de la 1ª ingesta + 259 de la reingesta diferencial hiper-exhaustiva).
 
-_Last updated: 2026-06-04 (TRILOGÍA HORMOZI COMPLETA — 3 libros book-mode: +121 AKUs / +25 TAKUs. **100M Offers** (51 AKU, 9 TAKU: grand-slam-offer, value-equation, escasez/urgencia/bonos/garantías, MAGIC naming), **100M Leads** (53 AKU, 11 TAKU: Core Four —warm/cold outreach, content, paid ads—, lead getters —referidos/empleados/agencias/afiliados—, LTGP:CAC, client-financed-acquisition, more-better-new, open-to-goal), **100M Money Models** (17 AKU, 5 TAKU: money model 3 etapas, attraction/upsell/downsell/continuity offers). Dedups cross-corpus Power-MBA↔Hormozi: commodity, ecuacion-valor, cialdini-escasez, lead-concept, lead-magnet, cta, cltv-cac-ratio, cltv-gross-margin, marketing-afiliados, cac/cac-payback. Previo: pipeline módulo 07 «Leadership» → 233 AKUs / 32 TAKUs)._
+_Last updated: 2026-06-04 (REINGESTA DIFERENCIAL HIPER-EXHAUSTIVA Hormozi: +259 AKUs (offers +51, leads +88, money +120), máxima granularidad — explota paraguas en sub-tipos individuales (4 upsells, 3 downsells, 3 continuity, 5 componentes MAGIC, tipos de garantía/escasez/urgencia), atomiza claims normativos y money-math methods, y 7 SPLIT cross-corpus (gross-profit, LTGP, price-to-value, lead-contactable, lead-magnet-hormozi, cta-hormozi, affiliate-hormozi). Total Hormozi: 389 AKUs. Previo: TRILOGÍA HORMOZI 1ª ingesta — 3 libros book-mode: +121 AKUs / +25 TAKUs. **100M Offers** (51 AKU, 9 TAKU: grand-slam-offer, value-equation, escasez/urgencia/bonos/garantías, MAGIC naming), **100M Leads** (53 AKU, 11 TAKU: Core Four —warm/cold outreach, content, paid ads—, lead getters —referidos/empleados/agencias/afiliados—, LTGP:CAC, client-financed-acquisition, more-better-new, open-to-goal), **100M Money Models** (17 AKU, 5 TAKU: money model 3 etapas, attraction/upsell/downsell/continuity offers). Dedups cross-corpus Power-MBA↔Hormozi: commodity, ecuacion-valor, cialdini-escasez, lead-concept, lead-magnet, cta, cltv-cac-ratio, cltv-gross-margin, marketing-afiliados, cac/cac-payback. Previo: pipeline módulo 07 «Leadership» → 233 AKUs / 32 TAKUs)._
 
 ## Pending validation queue
 
