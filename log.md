@@ -510,3 +510,10 @@ Verificación: 397 AKUs, 0 asimetrías, 0 body-drift.
 14.05 (modelo contrato C21BeBrave) = mismo caso que 14.03 → folded como 2ª fuente, 0 AKUs nuevos.
 INTEGRATE (a): los 4 conceptos ↔ marketing-influencers-concept (parent); medicion-resultados ↔ power-funnel.
 Imágenes: 14.02 y 14.06 redundantes (tablas en HTML), 14.05 decorativa (firma). Verificación: 401 AKUs, 53 TAKUs, 0 asimetrías, 0 body-drift.
+
+## 2026-06-04 — pipeline módulo 15 «Analítica» (4 PDFs, Google Analytics)
+
++4 AKUs concept: plan-de-medicion (15.1, hub), metricas-google-analytics (15.2, 8 métricas), codigos-utm (15.3, 5 params), tipos-objetivos-google-analytics (15.4, 4 tipos).
++1 framework TAKU: plan-de-medicion.
+INTEGRATE (a) anclado: plan-de-medicion ↔ objetivos-negocio + metricas-accionables; metricas-ga ↔ metricas-accionables; codigos-utm ↔ atribucion; tipos-objetivos ↔ piramide-conversion.
+Imágenes: todas redundantes (tablas en HTML). Verificación: 405 AKUs, 54 TAKUs, 0 asimetrías, 0 body-drift.

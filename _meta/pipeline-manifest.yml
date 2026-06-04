@@ -1298,3 +1298,43 @@ sources:
     aku_count: 1
     taku_count: 1
     notes: "M14 PDF6 — Medición resultados. 1 concept (medicion-resultados-influencers, funnel→KPIs→cómo medir) + framework TAKU medicion-campana-influencers. INTEGRATE (a): ↔ power-funnel. MÓDULO 14 COMPLETO (5 PDFs, +4 AKUs, +2 TAKUs)."
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\15-Analítica (Especialización)\15.1.[Plantilla]+Plan+de+Medición.xlsx.pdf"
+    name_slug: "15-1-plantilla-plan-de-medici-on-xlsx"
+    raw_path: "raw/15-1-plantilla-plan-de-medici-on-xlsx/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: 2026-06-04
+    ingested: 2026-06-04
+    aku_count: 1
+    taku_count: 1
+    notes: "M15 PDF1 — Plan de Medición. 1 concept (objetivos/estrategias/KPIs/metas/segmentos) + framework TAKU plan-de-medicion. 2 imgs redundantes (tablas)."
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\15-Analítica (Especialización)\15.2. Principales+métricas+-+Google+Analytics.pptx.pdf"
+    name_slug: "15-2-principales-m-etricas-google-analytics-pptx"
+    raw_path: "raw/15-2-principales-m-etricas-google-analytics-pptx/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: 2026-06-04
+    ingested: 2026-06-04
+    aku_count: 1
+    taku_count: 0
+    notes: "M15 PDF2 — Métricas GA. 1 concept (8 métricas: usuarios, sesiones, páginas vistas/únicas, páginas-sesión, duración media, bounce rate, page value). 1 img redundante."
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\15-Analítica (Especialización)\15.3.Códigos+UTM+-+Google+Analytics.pptx.pdf"
+    name_slug: "15-3-c-odigos-utm-google-analytics-pptx"
+    raw_path: "raw/15-3-c-odigos-utm-google-analytics-pptx/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: 2026-06-04
+    ingested: 2026-06-04
+    aku_count: 1
+    taku_count: 0
+    notes: "M15 PDF3 — Códigos UTM. 1 concept (5 params: source/medium/campaign/term/content). INTEGRATE (a): ↔ atribucion. 1 img redundante."
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\15-Analítica (Especialización)\15.4.Tipos+de+objetivos+-+Google+Analytics.pptx.pdf"
+    name_slug: "15-4-tipos-de-objetivos-google-analytics-pptx"
+    raw_path: "raw/15-4-tipos-de-objetivos-google-analytics-pptx/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: 2026-06-04
+    ingested: 2026-06-04
+    aku_count: 1
+    taku_count: 0
+    notes: "M15 PDF4 — Tipos de objetivos GA. 1 concept (destino/evento/engagement/duración). ↔ piramide-conversion. MÓDULO 15 COMPLETO (4 PDFs, +4 AKUs, +1 TAKU)."

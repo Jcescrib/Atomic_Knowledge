@@ -43,6 +43,8 @@ relations:
     - aku-cac-concept
     - aku-churn-rate-concept
     - aku-product-market-fit-concept
+    - aku-plan-de-medicion-concept
+    - aku-metricas-google-analytics-concept
 
 sources:
   - "raw/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md"
@@ -59,4 +61,4 @@ status_note: ""
 
 **breaks_context_of** → [[aku-metricas-vanidosas-concept]]
 
-**related** ↔ [[aku-cltv-concept]] · [[aku-cac-concept]] · [[aku-churn-rate-concept]] · [[aku-product-market-fit-concept]]
+**related** ↔ [[aku-cltv-concept]] · [[aku-cac-concept]] · [[aku-churn-rate-concept]] · [[aku-product-market-fit-concept]] · [[aku-plan-de-medicion-concept]] · [[aku-metricas-google-analytics-concept]]
