@@ -14,7 +14,7 @@ statement: >
 origin: "The Power MBA — Módulo 2.2.1 «Tipos de motores de crecimiento»"
 domain: [growth, virality, metrics, network-effects, power-mba]
 
-llm_confidence: 0.50
+llm_confidence: 0.60
 
 human_certainty:
   status: unvalidated
@@ -42,9 +42,10 @@ relations:
 
 sources:
   - "raw/cursos/power-mba/2-2-1-tiposmotorescrecimiento/2-2-1-tiposmotorescrecimiento.md"
+  - "raw/cursos/power-mba/5-2-m-etricas-clave-en-motores-de-crecimiento/5-2-m-etricas-clave-en-motores-de-crecimiento.md"
 
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-04
 status: active
 status_note: ""
 ---

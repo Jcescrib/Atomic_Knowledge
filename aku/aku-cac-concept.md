@@ -14,7 +14,7 @@ statement: >
 origin: "The Power MBA — Módulo 2.2 «Motores de crecimiento — principales métricas»"
 domain: [growth, unit-economics, business-model, metrics, power-mba]
 
-llm_confidence: 0.50
+llm_confidence: 0.60
 
 human_certainty:
   status: unvalidated
@@ -53,9 +53,10 @@ relations:
 
 sources:
   - "raw/cursos/power-mba/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md"
+  - "raw/cursos/power-mba/5-2-m-etricas-clave-en-motores-de-crecimiento/5-2-m-etricas-clave-en-motores-de-crecimiento.md"
 
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-04
 status: active
 status_note: ""
 ---
