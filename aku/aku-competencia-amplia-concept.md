@@ -39,6 +39,7 @@ relations:
     - aku-propuesta-de-valor-concept
     - aku-factores-competitivos-concept
     - aku-amenaza-sustitutivos-concept
+    - aku-pitch-deck-competencia-concept
 
 sources:
   - "raw/cursos/power-mba/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a.md"
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-propuesta-de-valor-concept]] · [[aku-factores-competitivos-concept]] · [[aku-amenaza-sustitutivos-concept]]
+**related** ↔ [[aku-propuesta-de-valor-concept]] · [[aku-factores-competitivos-concept]] · [[aku-amenaza-sustitutivos-concept]] · [[aku-pitch-deck-competencia-concept]]

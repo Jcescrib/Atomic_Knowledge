@@ -1,0 +1,53 @@
+---
+type: aku
+aku_class: concept
+id: aku-pitch-deck-solucion-concept
+statement: >
+  La sección solución del pitch deck describe qué ofrece el proyecto y por qué
+  resuelve el problema planteado, respondiendo a tres preguntas-guía: ¿qué
+  ofrecemos?, ¿por qué da solución a esos problemas? y ¿cómo hemos validado la
+  solución?; incluye consejos de presentación (enseñar el producto, apalancarse
+  en la opinión de los clientes); excluye el detalle del modelo de monetización;
+  implica articular la propuesta de valor y su validación frente al problema
+  expuesto.
+origin: "The Power MBA — Módulo 6 «Vender tu proyecto»"
+domain: [emprendimiento, pitch, financiacion, comunicacion, power-mba]
+
+llm_confidence: 0.50
+
+human_certainty:
+  status: unvalidated
+  iterations: 0
+  context_boundary: ""
+  validated_by: ""
+  validation_date: ""
+  method: ""
+
+epistemic_type: sourced
+
+relations:
+  supported_by:
+    - aku-pitch-deck-concept
+  supports: []
+  constrained_by: []
+  constrains: []
+  context_breaks_at: []
+  breaks_context_of: []
+  contradicts: []
+  related:
+    - aku-propuesta-de-valor-concept
+
+sources:
+  - raw/cursos/power-mba/6-3-3-estructura-del-pitch-deck/6-3-3-estructura-del-pitch-deck.md
+
+created: 2026-06-04
+updated: 2026-06-04
+status: active
+status_note: ""
+---
+
+## Relaciones
+
+**supported_by** ← [[aku-pitch-deck-concept]]
+
+**related** ↔ [[aku-propuesta-de-valor-concept]]

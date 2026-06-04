@@ -34,7 +34,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-pitch-deck-concept, aku-propuesta-de-valor-concept, aku-vender-una-accion-concept, aku-brandscript-storybrand-concept]
+  related: [aku-pitch-deck-concept, aku-propuesta-de-valor-concept, aku-vender-una-accion-concept, aku-brandscript-storybrand-concept, aku-pitch-deck-one-liner-concept]
 
 sources:
   - raw/cursos/power-mba/6-3-4-templates-elevator-pitch/6-3-4-templates-elevator-pitch.md
@@ -47,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-pitch-deck-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-vender-una-accion-concept]] · [[aku-brandscript-storybrand-concept]]
+**related** ↔ [[aku-pitch-deck-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-vender-una-accion-concept]] · [[aku-brandscript-storybrand-concept]] · [[aku-pitch-deck-one-liner-concept]]

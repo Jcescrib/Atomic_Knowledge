@@ -42,6 +42,7 @@ relations:
     - aku-bmc-concept
     - aku-pitch-deck-concept
     - aku-estimacion-tamano-mercado-concept
+    - aku-pitch-deck-mercado-tamano-concept
 
 sources:
   - "raw/cursos/power-mba/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md"
@@ -56,4 +57,4 @@ status_note: ""
 
 **constrains** → [[aku-falacia-1-porciento-claim]]
 
-**related** ↔ [[aku-segmentos-de-clientes-concept]] · [[aku-bmc-concept]] · [[aku-pitch-deck-concept]] · [[aku-estimacion-tamano-mercado-concept]]
+**related** ↔ [[aku-segmentos-de-clientes-concept]] · [[aku-bmc-concept]] · [[aku-pitch-deck-concept]] · [[aku-estimacion-tamano-mercado-concept]] · [[aku-pitch-deck-mercado-tamano-concept]]
