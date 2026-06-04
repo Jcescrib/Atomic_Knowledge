@@ -29,7 +29,7 @@ epistemic_type: sourced
 relations:
   supported_by: [aku-marca-concept, aku-posicionamiento-concept, aku-proposito-mision-concept]
   supports: []
-  constrained_by: []
+  constrained_by: [aku-errores-marca-90-empresas-claim]
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
@@ -48,4 +48,6 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-marca-concept]] · [[aku-posicionamiento-concept]] · [[aku-proposito-mision-concept]]
+
+**constrained_by** ← [[aku-errores-marca-90-empresas-claim]]
 **related** ↔ [[aku-propuesta-de-valor-concept]] · [[aku-identidad-de-marca-concept]] · [[aku-canales-de-distribucion-concept]]

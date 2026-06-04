@@ -27,7 +27,7 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by: [aku-brand-awareness-top-of-mind-concept, aku-brand-awareness-brand-recall-concept, aku-brand-awareness-brand-recognition-concept, aku-brand-awareness-unaware-concept]
   supports: [aku-brand-equity-concept, aku-gota-en-oceano-claim]
   constrained_by: []
   constrains: []
@@ -46,6 +46,8 @@ status_note: ""
 ---
 
 ## Relaciones
+
+**supported_by** ← [[aku-brand-awareness-top-of-mind-concept]] · [[aku-brand-awareness-brand-recall-concept]] · [[aku-brand-awareness-brand-recognition-concept]] · [[aku-brand-awareness-unaware-concept]]
 
 **supports** → [[aku-brand-equity-concept]] · [[aku-gota-en-oceano-claim]]
 **related** ↔ [[aku-performance-marketing-concept]]

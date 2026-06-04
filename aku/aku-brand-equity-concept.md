@@ -25,7 +25,7 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-brand-awareness-concept]
+  supported_by: [aku-brand-awareness-concept, aku-brand-love-concept]
   supports: []
   constrained_by: []
   constrains: []
@@ -45,5 +45,5 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-brand-awareness-concept]]
+**supported_by** ← [[aku-brand-awareness-concept]] · [[aku-brand-love-concept]]
 **related** ↔ [[aku-marca-concept]]
