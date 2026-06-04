@@ -29,7 +29,7 @@ epistemic_type: sourced
 relations:
   supported_by: [aku-liderazgo-en-coste-concept, aku-estrategia-diferenciacion-concept, aku-nicho-strategy-concept]
   supports: [aku-ventaja-competitiva-concept, aku-atrapado-medio-claim]
-  constrained_by: []
+  constrained_by: [aku-fuentes-ventaja-competitiva-solo-dos-claim]
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
@@ -50,3 +50,4 @@ status_note: ""
 
 **supported_by** ← [[aku-liderazgo-en-coste-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-nicho-strategy-concept]]
 **supports** → [[aku-ventaja-competitiva-concept]] · [[aku-atrapado-medio-claim]]
+**constrained_by** ← [[aku-fuentes-ventaja-competitiva-solo-dos-claim]]
