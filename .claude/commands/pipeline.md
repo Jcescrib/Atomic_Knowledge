@@ -5,7 +5,7 @@ argument-hint: <absolute-path-to-source-folder>
 
 Run the full ingestion pipeline as defined in `CLAUDE.md` § Pipeline. Source folder: `$ARGUMENTS`.
 
-If no argument was provided, ask the user for the folder path. The folder may contain PDFs (to be converted via MinerU) and/or pre-converted markdowns (adopted directly).
+If no argument was provided, ask the user for the folder path. The folder may contain PDFs (converted via MinerU), EPUBs (converted via `scripts/epub_to_md.py` — ebooklib + BeautifulSoup), and/or pre-converted markdowns (adopted directly).
 
 **Important**: do NOT run discover on the vault root. The script will return the vault's own infrastructure files if you do. Only run discover on EXTERNAL folders.
 
@@ -33,19 +33,20 @@ Execute the five phases below in order. Surface progress at most as one-line upd
 
 ## Phase 1 — DISCOVER
 
-1. Run `scripts/pipeline.sh discover "$FOLDER"` via Bash. Parse the output: two sections (`## PDFs`, `## Pre-converted markdowns`).
+1. Run `scripts/pipeline.sh discover "$FOLDER"` via Bash. Parse the output: three sections (`## PDFs`, `## EPUBs`, `## Pre-converted markdowns (candidate sources)`).
 2. Read `_meta/pipeline-manifest.yml` (create it from `sources: []` if it does not exist).
 3. For each discovered item, look up its likely slug (use `scripts/pipeline.sh slug "<basename>"`) in the manifest. Skip any item whose entry has `ingested: <date>` set.
 4. Produce a discovery summary in the consolidated final report (not as a separate user-facing turn):
    - N PDFs found, M to convert (others skipped: list IDs)
+   - E EPUBs found, F to convert (others skipped: list IDs)
    - K markdowns found, J to adopt (others skipped: list IDs)
-   - Total work units: M + J
+   - Total work units: M + F + J
 5. If total work is 0, stop and inform the user.
 6. If total work is non-zero, **proceed autonomously** through phases 2–4 for every source in sequence. Do NOT ask for batch confirmation — autonomous mode is the default per user preference.
 
 ## Phase 2 — CONVERT / ADOPT
 
-**Hard rule reminder (from CLAUDE.md #9 and #10)**: source PDFs stay at their origin path. They are NEVER copied, moved, or modified during this phase — MinerU reads from the origin and only the produced markdown + images land in `raw/<slug>/`. Always quote paths with spaces or accents.
+**Hard rule reminder (from CLAUDE.md #9 and #10)**: source binaries (PDF and EPUB) stay at their origin path. They are NEVER copied, moved, or modified during this phase — the converter reads from the origin and only the produced markdown + images land in `raw/<slug>/`. Always quote paths with spaces or accents.
 
 For each PDF queued to convert:
 - Run `scripts/pipeline.sh convert "<absolute-pdf-path>"` (quotes mandatory for `G:\Mi unidad\...` style paths with spaces and accents). The script prints the destination `raw/<slug>/`.
@@ -64,6 +65,10 @@ For each PDF queued to convert:
     last_commit: ""
     notes: ""
   ```
+
+For each EPUB queued to convert:
+- Run `scripts/pipeline.sh convert-epub "<absolute-epub-path>"` (quotes mandatory). The script invokes `scripts/epub_to_md.py` (ebooklib reads spine order, BeautifulSoup converts each chapter's HTML to clean markdown) and prints the destination `raw/<slug>/`. The EPUB stays read-only at its origin path, exactly like a PDF.
+- Manifest entry: same shape, `converter: epub`. `original:` records the EPUB's origin path.
 
 For each markdown queued to adopt:
 - Run `scripts/pipeline.sh adopt "<md-path>"`. The script prints the destination and reports whether an `images/` folder was located.

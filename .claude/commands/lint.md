@@ -14,6 +14,7 @@ Run these checks and collect findings:
 - TAKU bodies missing required section headers for their declared `taku_type`.
 - Custom-type TAKUs without a schema declared in `CLAUDE.md`.
 - AKUs with self-relations.
+- Source-tag integrity (per `CLAUDE.md` § AKU creation rules): for each `sourced`/`hybrid` AKU, derive the expected canonical source-tag from its `sources[]` path (`raw/cursos/power-mba/…`→`power-mba`, `raw/libros/hormozi/…`→`hormozi`, `raw/libros/kolenda/…`→`kolenda`). Flag if that tag is absent from `domain`. Conversely flag any `tacit` AKU — or any AKU whose source path matches no known prefix — that carries a known source-tag (`power-mba`/`hormozi`/`kolenda`) → spurious source-tag.
 
 **Atomicity / claim quality**
 - AKU statements containing ` and `, ` both `, ` while ` — flag as possible compound claims.

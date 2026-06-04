@@ -142,6 +142,16 @@ Ejemplo del módulo 2.3:
 - **Statement**: present tense, falsifiable, standalone-understandable, ≤3 lines.
 - **`origin`**: intellectual credit (author + work, or "personal experience", or "synthesis"). Distinct from `sources[]`.
 - **`domain`**: open taxonomy, lowercase-hyphenated, multiple tags expected.
+- **`domain` source-tag (mandatory)**: every `sourced`/`hybrid` AKU carries **exactly one canonical source-tag** in `domain` identifying the origin corpus, derived from the `raw/` path of its source. The vocabulary is **closed** and mirrors `raw_subdir_for` in `scripts/pipeline.sh` — never invent a variant (`thepowermba`, `alex-hormozi`, `nick-kolenda` are all wrong):
+
+  | `raw/` path prefix | canonical source-tag |
+  |---|---|
+  | `raw/cursos/power-mba/…` | `power-mba` |
+  | `raw/libros/hormozi/…` | `hormozi` |
+  | `raw/libros/kolenda/…` | `kolenda` |
+  | `raw/<slug>/…` (root fallback, unknown origin) | *(no source-tag — leave it off rather than guess)* |
+
+  The source-tag is the only `domain` entry with a fixed vocabulary; all other domain tags remain free taxonomy. A `tacit` AKU (no `sources[]`) has no source-tag. When a new corpus is first ingested, fix its tag here **before** writing the first AKU, then add the matching `raw_subdir_for` case if missing.
 - **`epistemic_type`**:
   - `sourced` → `llm_confidence` populated, `sources[]` non-empty.
   - `tacit` → `llm_confidence: null`, `sources[]` empty, human authors.
@@ -309,6 +319,7 @@ Run all checks; write report to `outputs/lint/YYYY-MM-DD.md`. Flag:
 - Contradictions unresolved >30d.
 - AKUs with only `related` links after 14d → shallow integration.
 - AKUs missing the `aku_class` field → unclassified, fix at next pass.
+- `sourced`/`hybrid` AKU whose `domain` lacks the canonical source-tag expected from its `sources[]` path (per § AKU creation rules table) → missing source-tag, fix at next pass. Also flag the inverse: a `tacit` AKU (or a source whose path matches no known prefix) carrying a known source-tag → spurious source-tag.
 - Body `## Relaciones` section missing on any active AKU or TAKU → structural error.
 - Body wikilinks don't match frontmatter relations (missing, extra, or mistyped slug) → structural error.
 - Pipeline manifest references a source with no corresponding `raw/<slug>/` folder → broken manifest entry.
