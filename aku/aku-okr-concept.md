@@ -27,8 +27,8 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
-  constrained_by: []
+  supports: [aku-objetivos-vs-resultados-clave-concept]
+  constrained_by: [aku-beneficios-okr-claim]
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
@@ -46,4 +46,6 @@ status_note: ""
 
 ## Relaciones
 
+**supports** → [[aku-objetivos-vs-resultados-clave-concept]]
+**constrained_by** ← [[aku-beneficios-okr-claim]]
 **related** ↔ [[aku-cascada-estrategica-ejecucion-concept]] · [[aku-objetivos-negocio-concept]] · [[aku-ajuste-objetivos-tradicional-concept]]

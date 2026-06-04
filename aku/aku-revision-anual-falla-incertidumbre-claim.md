@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related: [aku-beneficios-okr-claim]
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -45,3 +45,4 @@ status_note: ""
 ## Relaciones
 
 **constrains** → [[aku-ajuste-objetivos-tradicional-concept]]
+**related** ↔ [[aku-beneficios-okr-claim]]

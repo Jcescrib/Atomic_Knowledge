@@ -28,7 +28,11 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-estructura-funcional-concept
+    - aku-estructura-divisional-concept
+    - aku-estructura-matriz-concept
+    - aku-estructura-basada-proyectos-concept
   constrained_by:
     - aku-estructura-cultura-siguen-estrategia-claim
   constrains: []
@@ -50,5 +54,6 @@ status_note: ""
 
 ## Relaciones
 
+**supports** → [[aku-estructura-funcional-concept]] · [[aku-estructura-divisional-concept]] · [[aku-estructura-matriz-concept]] · [[aku-estructura-basada-proyectos-concept]]
 **constrained_by** ← [[aku-estructura-cultura-siguen-estrategia-claim]]
 **related** ↔ [[aku-arquetipos-cultura-concept]] · [[aku-empleados-lead-getters-concept]]
