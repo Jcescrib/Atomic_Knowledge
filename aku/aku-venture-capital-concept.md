@@ -26,7 +26,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-fuentes-financiacion-concept, aku-vc-busca-x10-claim]
+  supports: [aku-fuentes-financiacion-concept, aku-vc-busca-x10-claim, aku-vc-no-invierte-en-seed-claim, aku-portfolio-vc-10-20-exito-claim, aku-vc-aporta-knowhow-networking-claim]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -45,5 +45,5 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-fuentes-financiacion-concept]] · [[aku-vc-busca-x10-claim]]
+**supports** → [[aku-fuentes-financiacion-concept]] · [[aku-vc-busca-x10-claim]] · [[aku-vc-no-invierte-en-seed-claim]] · [[aku-portfolio-vc-10-20-exito-claim]] · [[aku-vc-aporta-knowhow-networking-claim]]
 **related** ↔ [[aku-blitzscaling-concept]] · [[aku-etapas-startup-concept]] · [[aku-criterios-inversion-concept]] · [[aku-business-angel-concept]]

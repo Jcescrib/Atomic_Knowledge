@@ -1,12 +1,12 @@
 ---
 type: aku
-aku_class: concept
-id: aku-organismos-publicos-concept
+aku_class: claim
+id: aku-no-depender-financiacion-publica-claim
 statement: >
-  Los organismos públicos son una fuente de financiación que concede
-  habitualmente préstamos participativos a startups (p. ej. Enisa en España); se
-  recomienda que la viabilidad del cash-flow o del negocio no dependa de este tipo
-  de financiación.
+  La viabilidad del cash-flow o del negocio no debe depender de la financiación de
+  organismos públicos (p. ej. préstamos participativos de Enisa): conviene tratarla
+  como un complemento, no como pilar de la viabilidad, porque es incierta y no
+  garantizada.
 origin: "The Power MBA — Módulo 6.3 «Fuentes de financiación: quién»"
 domain: [emprendimiento, financiacion, sector-publico, power-mba]
 
@@ -24,9 +24,9 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-fuentes-financiacion-concept]
-  constrained_by: [aku-no-depender-financiacion-publica-claim]
-  constrains: []
+  supports: []
+  constrained_by: []
+  constrains: [aku-organismos-publicos-concept]
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
@@ -43,6 +43,4 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-fuentes-financiacion-concept]]
-
-**constrained_by** ← [[aku-no-depender-financiacion-publica-claim]]
+**constrains** → [[aku-organismos-publicos-concept]]

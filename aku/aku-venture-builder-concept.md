@@ -29,7 +29,7 @@ epistemic_type: sourced
 relations:
   supported_by: []
   supports: []
-  constrained_by: []
+  constrained_by: [aku-venture-builder-no-es-fuente-financiacion-claim]
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
@@ -46,5 +46,7 @@ status_note: ""
 ---
 
 ## Relaciones
+
+**constrained_by** ← [[aku-venture-builder-no-es-fuente-financiacion-claim]]
 
 **related** ↔ [[aku-fuentes-financiacion-concept]]

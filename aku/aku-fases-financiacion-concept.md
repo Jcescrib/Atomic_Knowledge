@@ -28,7 +28,7 @@ epistemic_type: sourced
 relations:
   supported_by: []
   supports: [aku-fuentes-financiacion-concept]
-  constrained_by: []
+  constrained_by: [aku-vc-no-invierte-en-seed-claim]
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
@@ -47,4 +47,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-fuentes-financiacion-concept]]
+**constrained_by** ← [[aku-vc-no-invierte-en-seed-claim]]
 **related** ↔ [[aku-problem-solution-fit-concept]] · [[aku-product-market-fit-concept]] · [[aku-motor-crecimiento-concept]] · [[aku-business-angel-concept]] · [[aku-perfil-startup-vs-tradicional-concept]]
