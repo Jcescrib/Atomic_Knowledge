@@ -31,7 +31,15 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-sem-paid-search-concept, aku-titulo-anuncio-google-concept, aku-descripcion-anuncio-google-concept, aku-url-visible-google-concept, aku-extensiones-anuncio-google-concept, aku-relevancia-anuncio-landing-rendimiento-claim, aku-concordancia-palabras-clave-concept]
+  related:
+    - aku-sem-paid-search-concept
+    - aku-titulo-anuncio-google-concept
+    - aku-descripcion-anuncio-google-concept
+    - aku-url-visible-google-concept
+    - aku-extensiones-anuncio-google-concept
+    - aku-relevancia-anuncio-landing-rendimiento-claim
+    - aku-concordancia-palabras-clave-concept
+    - aku-anuncio-callout-value-cta-concept
 
 sources:
   - raw/cursos/power-mba/anuncios-de-texto-google-marketing/anuncios-de-texto-google-marketing.md
@@ -44,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-sem-paid-search-concept]] · [[aku-titulo-anuncio-google-concept]] · [[aku-descripcion-anuncio-google-concept]] · [[aku-url-visible-google-concept]] · [[aku-extensiones-anuncio-google-concept]] · [[aku-relevancia-anuncio-landing-rendimiento-claim]] · [[aku-concordancia-palabras-clave-concept]]
+**related** ↔ [[aku-sem-paid-search-concept]] · [[aku-titulo-anuncio-google-concept]] · [[aku-descripcion-anuncio-google-concept]] · [[aku-url-visible-google-concept]] · [[aku-extensiones-anuncio-google-concept]] · [[aku-relevancia-anuncio-landing-rendimiento-claim]] · [[aku-concordancia-palabras-clave-concept]] · [[aku-anuncio-callout-value-cta-concept]]

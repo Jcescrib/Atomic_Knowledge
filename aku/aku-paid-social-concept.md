@@ -24,13 +24,18 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-canales-marketing-digital-concept]
+  supports:
+    - aku-canales-marketing-digital-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-sem-paid-search-concept, aku-marketing-influencers-concept, aku-comparativa-redes-sociales-concept]
+  related:
+    - aku-sem-paid-search-concept
+    - aku-marketing-influencers-concept
+    - aku-comparativa-redes-sociales-concept
+    - aku-paid-ads-concept
 
 sources:
   - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
@@ -44,4 +49,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-canales-marketing-digital-concept]]
-**related** ↔ [[aku-sem-paid-search-concept]] · [[aku-marketing-influencers-concept]] · [[aku-comparativa-redes-sociales-concept]]
+**related** ↔ [[aku-sem-paid-search-concept]] · [[aku-marketing-influencers-concept]] · [[aku-comparativa-redes-sociales-concept]] · [[aku-paid-ads-concept]]
