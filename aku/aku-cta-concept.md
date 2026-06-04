@@ -34,7 +34,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-cro-concept, aku-vender-una-accion-concept, aku-landing-page-concept, aku-test-de-humo-concept, aku-descripcion-anuncio-google-concept, aku-hacks-copywriting-concept]
+  related: [aku-cro-concept, aku-vender-una-accion-concept, aku-landing-page-concept, aku-test-de-humo-concept, aku-descripcion-anuncio-google-concept, aku-hacks-copywriting-concept, aku-palabras-frases-persuasivas-concept]
 
 sources:
   - raw/5-6-3-anexo-consejos-para-cta/5-6-3-anexo-consejos-para-cta.md
@@ -47,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cro-concept]] · [[aku-vender-una-accion-concept]] · [[aku-landing-page-concept]] · [[aku-test-de-humo-concept]] · [[aku-descripcion-anuncio-google-concept]] · [[aku-hacks-copywriting-concept]]
+**related** ↔ [[aku-cro-concept]] · [[aku-vender-una-accion-concept]] · [[aku-landing-page-concept]] · [[aku-test-de-humo-concept]] · [[aku-descripcion-anuncio-google-concept]] · [[aku-hacks-copywriting-concept]] · [[aku-palabras-frases-persuasivas-concept]]

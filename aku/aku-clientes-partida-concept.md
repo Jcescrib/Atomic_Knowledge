@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-activo-corriente-concept]
+  related: [aku-activo-corriente-concept, aku-necesidades-operativas-fondos-concept]
 
 sources:
   - raw/09-01-01-balancedesituacion/09-01-01-balancedesituacion.md
@@ -44,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-activo-corriente-concept]]
+**related** ↔ [[aku-activo-corriente-concept]] · [[aku-necesidades-operativas-fondos-concept]]

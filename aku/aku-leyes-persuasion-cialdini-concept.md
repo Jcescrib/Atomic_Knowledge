@@ -40,6 +40,8 @@ relations:
     - aku-marketing-influencers-concept
     - aku-boca-a-boca-supera-campana-claim
     - aku-levantar-financiacion-como-ventas-claim
+    - aku-palabras-frases-persuasivas-concept
+    - aku-libros-copywriting-recomendados-concept
 sources:
   - raw/5-1-clave-powerselling/5-1-clave-powerselling.md
 created: 2026-06-03
@@ -52,4 +54,4 @@ status_note: ""
 
 **supported_by** ← [[aku-cialdini-reciprocidad-concept]] · [[aku-cialdini-compromiso-consistencia-concept]] · [[aku-cialdini-prueba-social-concept]] · [[aku-cialdini-simpatia-concept]] · [[aku-cialdini-autoridad-concept]] · [[aku-cialdini-escasez-concept]] · [[aku-cialdini-pertenencia-concept]]
 
-**related** ↔ [[aku-emocion-prevalece-razon-claim]] · [[aku-vender-una-accion-concept]] · [[aku-lead-magnet-concept]] · [[aku-marketing-influencers-concept]] · [[aku-boca-a-boca-supera-campana-claim]] · [[aku-levantar-financiacion-como-ventas-claim]]
+**related** ↔ [[aku-emocion-prevalece-razon-claim]] · [[aku-vender-una-accion-concept]] · [[aku-lead-magnet-concept]] · [[aku-marketing-influencers-concept]] · [[aku-boca-a-boca-supera-campana-claim]] · [[aku-levantar-financiacion-como-ventas-claim]] · [[aku-palabras-frases-persuasivas-concept]] · [[aku-libros-copywriting-recomendados-concept]]

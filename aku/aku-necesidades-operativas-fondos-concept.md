@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-fondo-de-maniobra-concept, aku-periodo-medio-maduracion-concept]
+  related: [aku-fondo-de-maniobra-concept, aku-periodo-medio-maduracion-concept, aku-existencias-concept, aku-clientes-partida-concept, aku-proveedores-partida-concept]
 
 sources:
   - raw/09-02-01-ratios-analisis-financieros/09-02-01-ratios-analisis-financieros.md
@@ -45,4 +45,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-formula-nof-method]]
-**related** ↔ [[aku-fondo-de-maniobra-concept]] · [[aku-periodo-medio-maduracion-concept]]
+**related** ↔ [[aku-fondo-de-maniobra-concept]] · [[aku-periodo-medio-maduracion-concept]] · [[aku-existencias-concept]] · [[aku-clientes-partida-concept]] · [[aku-proveedores-partida-concept]]

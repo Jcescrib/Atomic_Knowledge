@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-necesidades-operativas-fondos-concept, aku-periodo-medio-maduracion-concept]
+  related: [aku-necesidades-operativas-fondos-concept, aku-periodo-medio-maduracion-concept, aku-activo-corriente-concept, aku-pasivo-corriente-concept]
 
 sources:
   - raw/09-02-01-ratios-analisis-financieros/09-02-01-ratios-analisis-financieros.md
@@ -45,4 +45,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ratio-liquidez-method]]
-**related** ↔ [[aku-necesidades-operativas-fondos-concept]] · [[aku-periodo-medio-maduracion-concept]]
+**related** ↔ [[aku-necesidades-operativas-fondos-concept]] · [[aku-periodo-medio-maduracion-concept]] · [[aku-activo-corriente-concept]] · [[aku-pasivo-corriente-concept]]

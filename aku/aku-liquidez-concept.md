@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-solvencia-concept]
+  related: [aku-solvencia-concept, aku-activo-corriente-concept]
 
 sources:
   - raw/09-02-01-ratios-analisis-financieros/09-02-01-ratios-analisis-financieros.md
@@ -45,4 +45,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ratio-liquidez-method]] · [[aku-acid-test-method]] · [[aku-ratio-tesoreria-method]]
-**related** ↔ [[aku-solvencia-concept]]
+**related** ↔ [[aku-solvencia-concept]] · [[aku-activo-corriente-concept]]

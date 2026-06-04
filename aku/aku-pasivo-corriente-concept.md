@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-pasivo-concept, aku-proveedores-partida-concept, aku-deudas-corto-plazo-entidades-financieras-concept, aku-otros-acreedores-concept]
+  related: [aku-pasivo-concept, aku-proveedores-partida-concept, aku-deudas-corto-plazo-entidades-financieras-concept, aku-otros-acreedores-concept, aku-fondo-de-maniobra-concept]
 
 sources:
   - raw/09-01-01-balancedesituacion/09-01-01-balancedesituacion.md
@@ -44,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-pasivo-concept]] · [[aku-proveedores-partida-concept]] · [[aku-deudas-corto-plazo-entidades-financieras-concept]] · [[aku-otros-acreedores-concept]]
+**related** ↔ [[aku-pasivo-concept]] · [[aku-proveedores-partida-concept]] · [[aku-deudas-corto-plazo-entidades-financieras-concept]] · [[aku-otros-acreedores-concept]] · [[aku-fondo-de-maniobra-concept]]

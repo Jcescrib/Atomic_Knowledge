@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-activo-corriente-concept, aku-coste-mercancias-vendidas-concept]
+  related: [aku-activo-corriente-concept, aku-coste-mercancias-vendidas-concept, aku-necesidades-operativas-fondos-concept]
 
 sources:
   - raw/09-01-01-balancedesituacion/09-01-01-balancedesituacion.md
@@ -45,4 +45,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-rotacion-existencias-method]]
-**related** ↔ [[aku-activo-corriente-concept]] · [[aku-coste-mercancias-vendidas-concept]]
+**related** ↔ [[aku-activo-corriente-concept]] · [[aku-coste-mercancias-vendidas-concept]] · [[aku-necesidades-operativas-fondos-concept]]

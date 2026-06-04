@@ -32,7 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-cta-concept]
+  related: [aku-cta-concept, aku-palabras-frases-persuasivas-concept, aku-formulas-titulos-potentes-concept, aku-libros-copywriting-recomendados-concept]
 
 sources:
   - raw/18-info-hacks-copy/18-info-hacks-copy.md
@@ -45,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cta-concept]]
+**related** ↔ [[aku-cta-concept]] · [[aku-palabras-frases-persuasivas-concept]] · [[aku-formulas-titulos-potentes-concept]] · [[aku-libros-copywriting-recomendados-concept]]

@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-anuncio-texto-google-ads-concept]
+  related: [aku-anuncio-texto-google-ads-concept, aku-formulas-titulos-potentes-concept]
 
 sources:
   - raw/anuncios-de-texto-google-marketing/anuncios-de-texto-google-marketing.md
@@ -44,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-anuncio-texto-google-ads-concept]]
+**related** ↔ [[aku-anuncio-texto-google-ads-concept]] · [[aku-formulas-titulos-potentes-concept]]

@@ -524,3 +524,13 @@ PDF (herramientas crear anuncios): +1 concept (herramientas-creacion-anuncios-fa
 DOCX (info.docx «Hacks copy», convertido con python-docx): +1 concept (hacks-copywriting: 7 principios) + 1 heuristic TAKU (hacks-copywriting).
 INTEGRATE (a): herramientas-anuncios-fb ↔ herramientas-creacion-contenido-rrss + facebook; regla-20-texto ↔ facebook; hacks-copywriting ↔ cta.
 Verificación: 408 AKUs, 55 TAKUs, 0 asimetrías, 0 body-drift.
+
+## 2026-06-04 — pipeline módulo 20 «Copywriting» (3 PDFs) + AUDIT reunificación grafo
+
+PDF1 (power words): +1 concept (palabras-frases-persuasivas) + heuristic TAKU power-words-copywriting.
+PDF2 (fórmulas titulares): +1 concept (formulas-titulos-potentes, 7 plantillas) + framework TAKU formulas-titulos-potentes.
+PDF3 (libros): +1 concept (libros-copywriting-recomendados, bibliografía). 21 portadas decorativas.
+INTEGRATE (a): cluster copy ↔ hacks-copywriting (M18), cta, cialdini, titulo-anuncio-google.
+
+AUDIT FINAL DE GRAFO: detectado 2º componente (isla de 17 nodos: solvencia/liquidez/working-capital del módulo 09 ratios). Reunificado con 6 puentes INTEGRATE nivel (a) anclados en texto: solvencia↔pasivo, liquidez↔activo-corriente, fondo-de-maniobra↔activo-corriente/pasivo-corriente, NOF↔existencias/clientes-partida/proveedores-partida.
+Resultado: 1 componente conectado (468 nodos), 411 AKUs (326 concept · 30 method · 55 claim) + 57 TAKUs, 0 asimetrías, 0 body-drift, 0 sin aku_class, TAKU justified_by 100% válidos.

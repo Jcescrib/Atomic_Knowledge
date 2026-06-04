@@ -1368,3 +1368,33 @@ sources:
       7 principios — investiga, objetivo, titular, promesas concretas, pruebas, sin florituras, CTA) +
       1 heuristic TAKU (hacks-copywriting). INTEGRATE (a): ↔ cta-concept. MÓDULO 18 COMPLETO (1 PDF +
       1 DOCX, +3 AKUs, +1 TAKU).
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\20-Copywriting\20.1-Palabras+y+frases+que+te+ayudarán+a+vender+más.pdf"
+    name_slug: "20-1-palabras-y-frases-que-te-ayudar-an-a-vender-m-as"
+    raw_path: "raw/20-1-palabras-y-frases-que-te-ayudar-an-a-vender-m-as/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: n/a
+    ingested: 2026-06-04
+    aku_count: 1
+    taku_count: 1
+    notes: "M20 PDF1 — Power words. 1 concept (palabras-frases-persuasivas: urgencia/escasez, gratis, exclusividad, prueba, riesgo cero, facilidad) + heuristic TAKU power-words-copywriting. INTEGRATE (a): ↔ hacks-copywriting, cta, cialdini."
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\20-Copywriting\20.2-Lista+de+fórmulas+para+escribir+títulos+potentes.pdf"
+    name_slug: "20-2-lista-de-f-ormulas-para-escribir-t-itulos-potentes"
+    raw_path: "raw/20-2-lista-de-f-ormulas-para-escribir-t-itulos-potentes/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: 2026-06-04
+    ingested: 2026-06-04
+    aku_count: 1
+    taku_count: 1
+    notes: "M20 PDF2 — Fórmulas de titulares. 1 concept (formulas-titulos-potentes: 7 plantillas) + framework TAKU formulas-titulos-potentes. INTEGRATE (a): ↔ titulo-anuncio-google, hacks-copywriting. 5 imgs decorativas (badges numéricos)."
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\20-Copywriting\20.3-Libros+de+copywriting.pdf"
+    name_slug: "20-3-libros-de-copywriting"
+    raw_path: "raw/20-3-libros-de-copywriting/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: 2026-06-04
+    ingested: 2026-06-04
+    aku_count: 1
+    taku_count: 0
+    notes: "M20 PDF3 — Libros de copywriting. 1 concept (libros-copywriting-recomendados: bibliografía Sugarman/Bly/Halbert/Cialdini/Klaric...). 21 imgs decorativas (portadas). INTEGRATE (a): ↔ cialdini, hacks-copywriting. MÓDULO 20 COMPLETO (3 PDFs, +3 AKUs, +2 TAKUs)."

@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-liquidez-concept]
+  related: [aku-liquidez-concept, aku-pasivo-concept]
 
 sources:
   - raw/09-02-01-ratios-analisis-financieros/09-02-01-ratios-analisis-financieros.md
@@ -45,4 +45,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ratio-endeudamiento-method]] · [[aku-ratio-endeudamiento-cp-method]] · [[aku-ratio-endeudamiento-lp-method]] · [[aku-ratio-solvencia-method]]
-**related** ↔ [[aku-liquidez-concept]]
+**related** ↔ [[aku-liquidez-concept]] · [[aku-pasivo-concept]]
