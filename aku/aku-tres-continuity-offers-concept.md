@@ -29,6 +29,9 @@ relations:
   supported_by: []
   supports:
     - aku-continuity-offer-concept
+    - aku-continuity-bonus-concept
+    - aku-continuity-discount-concept
+    - aku-waived-fee-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -48,6 +51,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-continuity-offer-concept]]
+**supports** → [[aku-continuity-offer-concept]] · [[aku-continuity-bonus-concept]] · [[aku-continuity-discount-concept]] · [[aku-waived-fee-concept]]
 
 **related** ↔ [[aku-bonuses-stack-concept]]

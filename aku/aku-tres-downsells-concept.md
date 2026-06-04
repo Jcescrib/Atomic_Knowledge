@@ -28,6 +28,9 @@ relations:
   supported_by: []
   supports:
     - aku-downsell-offer-concept
+    - aku-payment-plan-downsell-concept
+    - aku-trial-with-penalty-concept
+    - aku-feature-downsell-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -47,6 +50,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-downsell-offer-concept]]
+**supports** → [[aku-downsell-offer-concept]] · [[aku-payment-plan-downsell-concept]] · [[aku-trial-with-penalty-concept]] · [[aku-feature-downsell-concept]]
 
 **related** ↔ [[aku-pay-less-now-or-more-later-concept]]

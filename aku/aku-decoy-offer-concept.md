@@ -33,7 +33,11 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-decoy-permiso-para-vender-premium
+    - aku-decoy-surprise-benefit
+    - aku-decoy-pricing-tres-opciones-method
+    - aku-economist-decoy-bundle-method
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -47,3 +51,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-attraction-offer-concept]]
+
+**related** ↔ [[aku-decoy-permiso-para-vender-premium]] · [[aku-decoy-surprise-benefit]] · [[aku-decoy-pricing-tres-opciones-method]] · [[aku-economist-decoy-bundle-method]]

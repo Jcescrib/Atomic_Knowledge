@@ -35,6 +35,14 @@ relations:
   contradicts: []
   related:
     - aku-free-stuff-too-expensive-hidden-costs-claim
+    - aku-mas-y-mejor-gratis-vende
+    - aku-buy-x-get-y-reframe-precio
+    - aku-subir-precios-antes-de-regalar
+    - aku-mas-gratis-que-pagado
+    - aku-free-stuff-puede-ser-distinto
+    - aku-seguir-vendiendo-a-prepagados
+    - aku-buy-x-get-y-a-existentes-fast-cash
+    - aku-compra-unica-hazla-grande
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -49,4 +57,4 @@ status_note: ""
 
 **supports** → [[aku-attraction-offer-concept]]
 
-**related** ↔ [[aku-free-stuff-too-expensive-hidden-costs-claim]]
+**related** ↔ [[aku-free-stuff-too-expensive-hidden-costs-claim]] · [[aku-mas-y-mejor-gratis-vende]] · [[aku-buy-x-get-y-reframe-precio]] · [[aku-subir-precios-antes-de-regalar]] · [[aku-mas-gratis-que-pagado]] · [[aku-free-stuff-puede-ser-distinto]] · [[aku-seguir-vendiendo-a-prepagados]] · [[aku-buy-x-get-y-a-existentes-fast-cash]] · [[aku-compra-unica-hazla-grande]]

@@ -36,6 +36,9 @@ relations:
   related:
     - aku-garantia-condicional-acciones-claim
     - aku-tres-downsells-concept
+    - aku-pay-later-card-on-file-bajo-riesgo
+    - aku-pay-now-pay-later-optimizar-take-rate
+    - aku-pay-less-vs-trial-penalty-aplicacion
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -50,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-attraction-offer-concept]]
 
-**related** ↔ [[aku-garantia-condicional-acciones-claim]] · [[aku-tres-downsells-concept]]
+**related** ↔ [[aku-garantia-condicional-acciones-claim]] · [[aku-tres-downsells-concept]] · [[aku-pay-later-card-on-file-bajo-riesgo]] · [[aku-pay-now-pay-later-optimizar-take-rate]] · [[aku-pay-less-vs-trial-penalty-aplicacion]]

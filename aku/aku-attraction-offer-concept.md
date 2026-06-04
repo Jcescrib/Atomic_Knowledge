@@ -41,6 +41,8 @@ relations:
   related:
     - aku-modelo-free-concept
     - aku-lead-magnet-concept
+    - aku-cuatro-formas-anunciar-descuento
+    - aku-discount-mas-showup-que-free
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -57,4 +59,4 @@ status_note: ""
 
 **supports** → [[aku-cuatro-tipos-oferta-concept]]
 
-**related** ↔ [[aku-modelo-free-concept]] · [[aku-lead-magnet-concept]]
+**related** ↔ [[aku-modelo-free-concept]] · [[aku-lead-magnet-concept]] · [[aku-cuatro-formas-anunciar-descuento]] · [[aku-discount-mas-showup-que-free]]

@@ -35,6 +35,8 @@ relations:
   contradicts: []
   related:
     - aku-garantia-condicional-acciones-claim
+    - aku-win-money-back-criterios-tres-caracteristicas
+    - aku-win-money-back-refund-rate-5pct
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -49,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-attraction-offer-concept]]
 
-**related** ↔ [[aku-garantia-condicional-acciones-claim]]
+**related** ↔ [[aku-garantia-condicional-acciones-claim]] · [[aku-win-money-back-criterios-tres-caracteristicas]] · [[aku-win-money-back-refund-rate-5pct]]
