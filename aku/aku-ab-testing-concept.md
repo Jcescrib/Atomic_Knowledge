@@ -11,7 +11,7 @@ statement: >
 origin: "The Power MBA — Módulo 5.6.1 «Conceptos clave: Conversión»"
 domain: [marketing-digital, conversion, cro, experimentacion, power-mba]
 
-llm_confidence: 0.50
+llm_confidence: 0.60
 
 human_certainty:
   status: unvalidated
@@ -35,9 +35,10 @@ relations:
 
 sources:
   - raw/cursos/power-mba/5-6-1-conceptos-clave-conversi-on/5-6-1-conceptos-clave-conversi-on.md
+  - raw/cursos/power-mba/5-6-2-tabla-herramientas-2/5-6-2-tabla-herramientas-2.md
 
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-04
 status: active
 status_note: ""
 ---

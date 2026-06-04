@@ -21,6 +21,10 @@ epistemic_type: sourced
 relations:
   supported_by:
     - aku-proceso-cro-method
+    - aku-plataformas-analiticas-medicion-conversiones-concept
+    - aku-herramientas-analitica-que-pasa-concept
+    - aku-user-testing-remoto-mapas-calor-concept
+    - aku-user-testing-presencial-concept
   supports: []
   constrained_by: []
   constrains: []
@@ -45,5 +49,5 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-proceso-cro-method]]
+**supported_by** ← [[aku-proceso-cro-method]] · [[aku-plataformas-analiticas-medicion-conversiones-concept]] · [[aku-herramientas-analitica-que-pasa-concept]] · [[aku-user-testing-remoto-mapas-calor-concept]] · [[aku-user-testing-presencial-concept]]
 **related** ↔ [[aku-conversion-olvidada-claim]] · [[aku-palancas-marketing-digital-concept]] · [[aku-power-funnel-concept]] · [[aku-piramide-conversion-concept]] · [[aku-cuello-botella-funnel-concept]] · [[aku-landing-page-concept]] · [[aku-cta-concept]]
