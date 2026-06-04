@@ -21,6 +21,9 @@ aku_links:
     - id: aku-etapas-organizacion-concept
       link_validation: llm-proposed
       link_note: "Los principios acompañan la evolución de la organización."
+    - id: aku-nueve-principios-blitzscaling-concept
+      link_validation: llm-proposed
+      link_note: "Paraguas que define los nueve principios de gestión contraintuitivos que esta heurística enumera y operacionaliza."
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -94,5 +97,5 @@ fastscaling o scale-up clásico).
 
 ## Relaciones
 
-**justified_by** ← [[aku-blitzscaling-concept]] · [[aku-etapas-organizacion-concept]]
+**justified_by** ← [[aku-blitzscaling-concept]] · [[aku-etapas-organizacion-concept]] · [[aku-nueve-principios-blitzscaling-concept]]
 **complementary** ↔ [[taku-blitzscaling]]

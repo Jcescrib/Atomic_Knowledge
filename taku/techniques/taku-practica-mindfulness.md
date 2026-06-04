@@ -37,7 +37,7 @@ human_certainty:
   method: ""
 
 taku_relations:
-  complementary: [taku-deep-work]
+  complementary: [taku-deep-work, taku-apps-meditacion]
   alternative_to: []
   precedes: []
   follows: []
@@ -100,4 +100,4 @@ periodos de práctica; complementa con minimalismo digital para reducir distracc
 ## Relaciones
 
 **justified_by** ← [[aku-mindfulness-concept]] · [[aku-mente-de-mono-concept]]
-**complementary** ↔ [[taku-deep-work]]
+**complementary** ↔ [[taku-deep-work]] · [[taku-apps-meditacion]]
