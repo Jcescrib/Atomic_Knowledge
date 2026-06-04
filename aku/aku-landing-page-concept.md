@@ -35,8 +35,10 @@ relations:
     - aku-relevancia-anuncio-landing-rendimiento-claim
 sources:
   - raw/cursos/power-mba/5-6-1-conceptos-clave-conversi-on/5-6-1-conceptos-clave-conversi-on.md
+  - "raw/cursos/power-mba/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md"
+  - "raw/cursos/power-mba/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos.md"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-04
 status: active
 status_note: ""
 ---

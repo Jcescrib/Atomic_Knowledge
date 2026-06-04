@@ -32,6 +32,7 @@ epistemic_type: sourced
 relations:
   supported_by:
     - aku-asumir-equivocarse-claim
+    - aku-beneficios-lean-startup-claim
   supports: []
   constrained_by: []
   constrains: []
@@ -63,6 +64,6 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-asumir-equivocarse-claim]]
+**supported_by** ← [[aku-asumir-equivocarse-claim]] · [[aku-beneficios-lean-startup-claim]]
 
 **related** ↔ [[aku-innovar-vs-competir-concept]] · [[aku-build-measure-learn-concept]] · [[aku-hipotesis-concept]] · [[aku-mvp-concept]] · [[aku-aprendizaje-validado-concept]] · [[aku-product-market-fit-concept]] · [[aku-etapas-startup-concept]] · [[aku-problem-solution-fit-concept]] · [[aku-tipos-estrategias-crecimiento-concept]] · [[aku-proceso-cro-method]] · [[aku-crecimiento-clasico-startup-concept]] · [[aku-blitz-lanza-producto-aunque-averguence-claim]]

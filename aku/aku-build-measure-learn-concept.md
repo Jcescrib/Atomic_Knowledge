@@ -31,7 +31,8 @@ epistemic_type: sourced
 relations:
   supported_by: []
   supports: []
-  constrained_by: []
+  constrained_by:
+    - aku-velocidad-iteracion-ciclo-claim
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
@@ -52,5 +53,7 @@ status_note: ""
 ---
 
 ## Relaciones
+
+**constrained_by** ← [[aku-velocidad-iteracion-ciclo-claim]]
 
 **related** ↔ [[aku-lean-startup-method-concept]] · [[aku-hipotesis-concept]] · [[aku-mvp-concept]] · [[aku-aprendizaje-validado-concept]]
