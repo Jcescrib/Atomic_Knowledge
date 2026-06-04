@@ -1451,9 +1451,9 @@ sources:
     converted: 2026-06-03
     image_processing: n/a
     ingested: null   # book mode — en curso
-    chapters_ingested: [money-model-y-attraction-offers, attraction-offers-restantes, upsell-offers]
-    aku_count: 11
-    taku_count: 2
+    chapters_ingested: [money-model-y-attraction-offers, attraction-offers-restantes, upsell-offers, downsell-offers]
+    aku_count: 14
+    taku_count: 3
     last_commit: ""
     notes: >
       Libro 3 de la trilogía Hormozi (Acquisition.com Vol. III, el más reciente). source-tag:

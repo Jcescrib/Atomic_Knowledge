@@ -28,6 +28,7 @@ relations:
   supported_by:
     - aku-attraction-offer-concept
     - aku-upsell-offer-concept
+    - aku-downsell-offer-concept
   supports:
     - aku-money-model-concept
   constrained_by: []
@@ -48,6 +49,6 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-attraction-offer-concept]] · [[aku-upsell-offer-concept]]
+**supported_by** ← [[aku-attraction-offer-concept]] · [[aku-upsell-offer-concept]] · [[aku-downsell-offer-concept]]
 
 **supports** → [[aku-money-model-concept]]

@@ -35,6 +35,7 @@ relations:
   contradicts: []
   related:
     - aku-garantia-condicional-acciones-claim
+    - aku-tres-downsells-concept
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-attraction-offer-concept]]
 
-**related** ↔ [[aku-garantia-condicional-acciones-claim]]
+**related** ↔ [[aku-garantia-condicional-acciones-claim]] · [[aku-tres-downsells-concept]]
