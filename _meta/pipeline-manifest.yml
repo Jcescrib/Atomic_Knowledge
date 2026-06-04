@@ -898,3 +898,20 @@ sources:
     taku_count: 1
     last_commit: ""
     notes: "Fit proyecto-emprendedor + implicaciones del modelo (7 dim). 1 imagen MATCH captionada. Tablas ya en HTML."
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\06-Emprendimiento\6.3.01-FUENTES_FINANCIACION_QUIEN_OK.pdf"
+    name_slug: "6-3-01-fuentes-financiacion-quien-ok"
+    raw_path: "raw/6-3-01-fuentes-financiacion-quien-ok/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: 2026-06-04
+    ingested: 2026-06-04
+    chapters_ingested: []
+    aku_count: 7
+    taku_count: 1
+    last_commit: ""
+    notes: >
+      Fuentes de financiación (quién/cuándo). 6 concept + 1 claim AKUs + framework
+      TAKU mapa-fuentes-financiacion. Tabla extraída por MinerU (HTML) + render
+      markdown estructurado añadido al raw. Sin imágenes (la tabla NO estaba como
+      imagen; MinerU la convirtió a texto).

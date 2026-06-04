@@ -41,6 +41,7 @@ relations:
     - aku-problem-solution-fit-concept
     - aku-product-market-fit-concept
     - aku-lean-startup-method-concept
+    - aku-venture-capital-concept
 
 sources:
   - "raw/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos.md"
@@ -53,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-problem-solution-fit-concept]] · [[aku-product-market-fit-concept]] · [[aku-lean-startup-method-concept]]
+**related** ↔ [[aku-problem-solution-fit-concept]] · [[aku-product-market-fit-concept]] · [[aku-lean-startup-method-concept]] · [[aku-venture-capital-concept]]

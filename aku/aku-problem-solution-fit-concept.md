@@ -42,6 +42,7 @@ relations:
     - aku-etapas-startup-concept
     - aku-entrevista-problem-solution-concept
     - aku-lean-startup-method-concept
+    - aku-fases-financiacion-concept
 
 sources:
   - "raw/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos.md"
@@ -54,4 +55,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-product-market-fit-concept]] · [[aku-etapas-startup-concept]] · [[aku-entrevista-problem-solution-concept]] · [[aku-lean-startup-method-concept]]
+**related** ↔ [[aku-product-market-fit-concept]] · [[aku-etapas-startup-concept]] · [[aku-entrevista-problem-solution-concept]] · [[aku-lean-startup-method-concept]] · [[aku-fases-financiacion-concept]]

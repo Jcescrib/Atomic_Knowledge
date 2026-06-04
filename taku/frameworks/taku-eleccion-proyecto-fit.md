@@ -42,7 +42,7 @@ human_certainty:
   method: ""
 
 taku_relations:
-  complementary: []
+  complementary: [taku-mapa-fuentes-financiacion]
   alternative_to: []
   precedes: []
   follows: []
@@ -93,3 +93,4 @@ conocimientos, contactos) y comprobando después su «match» con el fundador.
 ## Relaciones
 
 **justified_by** ← [[aku-fit-proyecto-emprendedor-concept]] · [[aku-implicaciones-modelo-negocio-concept]]
+**complementary** ↔ [[taku-mapa-fuentes-financiacion]]

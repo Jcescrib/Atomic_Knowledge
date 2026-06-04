@@ -34,7 +34,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-fit-proyecto-emprendedor-concept, aku-innovar-vs-competir-concept]
+  related: [aku-fit-proyecto-emprendedor-concept, aku-innovar-vs-competir-concept, aku-fuentes-financiacion-concept]
 
 sources:
   - raw/6-1-01-fit-entre-tu-proyecto-y-tu/6-1-01-fit-entre-tu-proyecto-y-tu.md
@@ -47,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-fit-proyecto-emprendedor-concept]] · [[aku-innovar-vs-competir-concept]]
+**related** ↔ [[aku-fit-proyecto-emprendedor-concept]] · [[aku-innovar-vs-competir-concept]] · [[aku-fuentes-financiacion-concept]]

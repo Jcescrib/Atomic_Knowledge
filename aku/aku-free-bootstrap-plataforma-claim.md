@@ -35,6 +35,7 @@ relations:
     - aku-huevo-gallina-concept
     - aku-network-effect-concept
     - aku-masa-critica-concept
+    - aku-bootstrapping-concept
 sources: []
 created: 2026-06-03
 updated: 2026-06-03
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-modelo-free-concept]] · [[aku-modelo-freemium-concept]] · [[aku-huevo-gallina-concept]] · [[aku-network-effect-concept]] · [[aku-masa-critica-concept]]
+**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-modelo-free-concept]] · [[aku-modelo-freemium-concept]] · [[aku-huevo-gallina-concept]] · [[aku-network-effect-concept]] · [[aku-masa-critica-concept]] · [[aku-bootstrapping-concept]]

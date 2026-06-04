@@ -285,3 +285,9 @@ Source: `raw/6-1-01-fit-entre-tu-proyecto-y-tu/...md` (Power MBA — 6.1 «Fit e
 - **2 concept-AKUs**: `fit-proyecto-emprendedor`, `implicaciones-modelo-negocio` (7 dimensiones).
 - **1 framework TAKU**: `taku-eleccion-proyecto-fit`.
 - INTEGRATE: ↔ innovar-vs-competir (riesgo/incertidumbre), ventaja-competitiva.
+
+## 2026-06-04 — pipeline (módulo 06, 6.3.01)
+Source: `raw/6-3-01-fuentes-financiacion-quien-ok/...md`. La tabla del «quién/cuándo» ya fue extraída por MinerU como HTML; añadido además su render en **markdown estructurado** en el raw (honrando la instrucción de la tabla). Sin imágenes.
+- **6 concept-AKUs + 1 claim**: `fuentes-financiacion` (umbrella), `fases-financiacion`, `bootstrapping`, `incubadora-aceleradora`, `venture-capital`, `venture-builder`; claim `vc-busca-x10`.
+- **1 framework TAKU**: `taku-mapa-fuentes-financiacion` (5 jb + constrained_by vc-busca-x10), complementary a eleccion-proyecto-fit.
+- INTEGRATE: fases-financiacion ↔ problem-solution-fit / product-market-fit / motor-crecimiento (mapa fase desarrollo); bootstrapping ↔ free-bootstrap-plataforma; venture-capital ↔ blitzscaling / etapas-startup; fuentes ↔ implicaciones-modelo-negocio (puente diferido de 6.1.01).

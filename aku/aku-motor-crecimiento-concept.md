@@ -42,6 +42,7 @@ relations:
     - aku-blitzscaling-concept
     - aku-factores-crecimiento-blitzscaling-concept
     - aku-power-funnel-concept
+    - aku-fases-financiacion-concept
 
 sources:
   - "raw/2-2-1-tiposmotorescrecimiento/2-2-1-tiposmotorescrecimiento.md"
@@ -54,4 +55,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-motor-crecimiento-pago-concept]] · [[aku-motor-crecimiento-viral-concept]] · [[aku-motor-crecimiento-sticky-concept]] · [[aku-penetracion-mercado-concept]] · [[aku-blitzscaling-concept]] · [[aku-factores-crecimiento-blitzscaling-concept]] · [[aku-power-funnel-concept]]
+**related** ↔ [[aku-motor-crecimiento-pago-concept]] · [[aku-motor-crecimiento-viral-concept]] · [[aku-motor-crecimiento-sticky-concept]] · [[aku-penetracion-mercado-concept]] · [[aku-blitzscaling-concept]] · [[aku-factores-crecimiento-blitzscaling-concept]] · [[aku-power-funnel-concept]] · [[aku-fases-financiacion-concept]]
