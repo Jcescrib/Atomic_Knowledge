@@ -1143,3 +1143,22 @@ sources:
       informational (U invertida valor-empresa vs apalancamiento). Verificación: 354 AKUs, 0 asimetrías,
       0 body-drift, 0 sin aku_class. MÓDULO 09 ingesta base COMPLETA (4 PDFs, +86 AKUs); pendiente 2º
       pase de verificación.
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\11-Google Ads (Especialización)\Anuncios+de+texto+google+marketing.pdf"
+    name_slug: "anuncios-de-texto-google-marketing"
+    raw_path: "raw/anuncios-de-texto-google-marketing/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: 2026-06-04
+    ingested: 2026-06-04
+    chapters_ingested: []
+    aku_count: 8
+    taku_count: 2
+    last_commit: ""
+    notes: >
+      Módulo 11 «Google Ads» PDF 1 — Anuncios de texto. 6 concept (anuncio-texto-google-ads, titulo,
+      descripcion, url-visible, extensiones-anuncio-google, tipos-extensiones-google) + 2 claim
+      (extensiones-mejoran-rendimiento, relevancia-anuncio-landing-rendimiento) + 2 TAKUs
+      (heuristic optimizar-anuncio-texto-google, technique ab-testing-anuncio-google). INTEGRATE (a)
+      anclado: anuncio-texto ↔ sem-paid-search; descripcion ↔ cta-concept (CTA); url-visible ↔
+      landing-page; relevancia-claim ↔ landing-page. 7 imágenes decorativas (capturas de anuncios ya
+      descritas en texto). 0 dudas de dedup.

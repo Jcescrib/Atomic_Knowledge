@@ -473,3 +473,10 @@ Relectura de los 4 raw/ del módulo. Conceptos/fórmulas que habían quedado sin
 Todos enlazados a sus conceptos padre (ingresos-contables, gastos-contables, periodo-medio-maduracion, estructura-de-capital, etc.) con sync bidireccional.
 Verificación módulo 09 COMPLETO: 368 AKUs (288 concept · 30 method · 50 claim), 0 asimetrías, 0 body-drift, 0 sin aku_class.
 Módulo 09 total: 4 PDFs + 2º pase = +100 AKUs (21+9+25+31+14), 0 TAKUs (contenido conceptual/fórmulas).
+
+## 2026-06-04 — pipeline módulo 11 «Google Ads» PDF 1/2: Anuncios de texto
+
++8 AKUs (6 concept: anuncio-texto-google-ads, titulo, descripcion, url-visible, extensiones-anuncio-google, tipos-extensiones-google; 2 claim: extensiones-mejoran-rendimiento, relevancia-anuncio-landing-rendimiento).
++2 TAKUs: heuristic optimizar-anuncio-texto-google, technique ab-testing-anuncio-google.
+INTEGRATE (a) anclado: anuncio-texto ↔ sem-paid-search; descripcion ↔ cta-concept; url-visible ↔ landing-page; relevancia-claim ↔ landing-page.
+7 imágenes decorativas (capturas de anuncios reales ya descritas íntegramente en el texto). Verificación: 376 AKUs, 0 asimetrías, 0 body-drift, TAKU links OK.

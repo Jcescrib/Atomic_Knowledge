@@ -30,6 +30,8 @@ relations:
     - aku-cro-concept
     - aku-cta-concept
     - aku-test-de-humo-concept
+    - aku-url-visible-google-concept
+    - aku-relevancia-anuncio-landing-rendimiento-claim
 sources:
   - raw/5-6-1-conceptos-clave-conversi-on/5-6-1-conceptos-clave-conversi-on.md
 created: 2026-06-03
@@ -40,4 +42,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cro-concept]] · [[aku-cta-concept]] · [[aku-test-de-humo-concept]]
+**related** ↔ [[aku-cro-concept]] · [[aku-cta-concept]] · [[aku-test-de-humo-concept]] · [[aku-url-visible-google-concept]] · [[aku-relevancia-anuncio-landing-rendimiento-claim]]
