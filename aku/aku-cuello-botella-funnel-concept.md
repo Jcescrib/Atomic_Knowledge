@@ -32,7 +32,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-cro-concept, aku-power-funnel-concept]
+  related:
+    - aku-cro-concept
+    - aku-power-funnel-concept
+    - aku-constraint-mayor-drop-off-claim
 
 sources:
   - raw/cursos/power-mba/5-6-1-conceptos-clave-conversi-on/5-6-1-conceptos-clave-conversi-on.md
@@ -45,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cro-concept]] · [[aku-power-funnel-concept]]
+**related** ↔ [[aku-cro-concept]] · [[aku-power-funnel-concept]] · [[aku-constraint-mayor-drop-off-claim]]
