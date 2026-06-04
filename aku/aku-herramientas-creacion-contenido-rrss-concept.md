@@ -32,7 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-content-marketing-concept]
+  related: [aku-content-marketing-concept, aku-herramientas-gestion-rrss-concept]
 
 sources:
   - raw/12-1-herramientas-de-creaci-on-de-contenido-para-rrss/12-1-herramientas-de-creaci-on-de-contenido-para-rrss.md
@@ -45,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-content-marketing-concept]]
+**related** ↔ [[aku-content-marketing-concept]] · [[aku-herramientas-gestion-rrss-concept]]
