@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-proceso-cro-method, aku-mvp-concept]
+  related: [aku-proceso-cro-method, aku-mvp-concept, aku-utm-content-concept]
 
 sources:
   - raw/cursos/power-mba/5-6-1-conceptos-clave-conversi-on/5-6-1-conceptos-clave-conversi-on.md
@@ -45,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-proceso-cro-method]] · [[aku-mvp-concept]]
+**related** ↔ [[aku-proceso-cro-method]] · [[aku-mvp-concept]] · [[aku-utm-content-concept]]

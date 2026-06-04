@@ -27,7 +27,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related: [aku-ab-testing-concept]
 sources:
   - raw/cursos/power-mba/15-3-c-odigos-utm-google-analytics-pptx/15-3-c-odigos-utm-google-analytics-pptx.md
 created: 2026-06-04
@@ -39,3 +39,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-codigos-utm-concept]]
+
+**related** ↔ [[aku-ab-testing-concept]]

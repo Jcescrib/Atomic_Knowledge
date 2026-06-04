@@ -33,7 +33,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related: [aku-arquetipos-cultura-concept]
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -47,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-estructuras-organizacionales-concept]]
+
+**related** ↔ [[aku-arquetipos-cultura-concept]]

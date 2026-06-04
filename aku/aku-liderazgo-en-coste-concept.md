@@ -33,7 +33,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-estrategia-diferenciacion-concept, aku-barreras-de-entrada-concept, aku-mass-market-strategy-concept, aku-commodity-concept, aku-margen-volumen-patron-sectorial-claim, aku-fuentes-ventaja-competitiva-solo-dos-claim, aku-best-cost-strategy-concept, aku-segmentacion-especializada-coste-vs-diferenciacion-concept, aku-imposibilidad-pivotar-lowcost-a-diferenciacion-claim, aku-mercados-apropiados-para-cada-ventaja-claim]
+  related: [aku-estrategia-diferenciacion-concept, aku-barreras-de-entrada-concept, aku-mass-market-strategy-concept, aku-commodity-concept, aku-margen-volumen-patron-sectorial-claim, aku-fuentes-ventaja-competitiva-solo-dos-claim, aku-best-cost-strategy-concept, aku-segmentacion-especializada-coste-vs-diferenciacion-concept, aku-imposibilidad-pivotar-lowcost-a-diferenciacion-claim, aku-mercados-apropiados-para-cada-ventaja-claim, aku-posicionamiento-mas-barato-concept]
 
 sources:
   - raw/cursos/power-mba/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
@@ -48,4 +48,4 @@ status_note: ""
 
 **supported_by** ← [[aku-economias-de-escala-concept]]
 **supports** → [[aku-estrategias-genericas-porter-concept]] · [[aku-liderazgo-coste-imitable-claim]]
-**related** ↔ [[aku-estrategia-diferenciacion-concept]] · [[aku-barreras-de-entrada-concept]] · [[aku-mass-market-strategy-concept]] · [[aku-commodity-concept]] · [[aku-margen-volumen-patron-sectorial-claim]] · [[aku-fuentes-ventaja-competitiva-solo-dos-claim]] · [[aku-best-cost-strategy-concept]] · [[aku-segmentacion-especializada-coste-vs-diferenciacion-concept]] · [[aku-imposibilidad-pivotar-lowcost-a-diferenciacion-claim]] · [[aku-mercados-apropiados-para-cada-ventaja-claim]]
+**related** ↔ [[aku-estrategia-diferenciacion-concept]] · [[aku-barreras-de-entrada-concept]] · [[aku-mass-market-strategy-concept]] · [[aku-commodity-concept]] · [[aku-margen-volumen-patron-sectorial-claim]] · [[aku-fuentes-ventaja-competitiva-solo-dos-claim]] · [[aku-best-cost-strategy-concept]] · [[aku-segmentacion-especializada-coste-vs-diferenciacion-concept]] · [[aku-imposibilidad-pivotar-lowcost-a-diferenciacion-claim]] · [[aku-mercados-apropiados-para-cada-ventaja-claim]] · [[aku-posicionamiento-mas-barato-concept]]

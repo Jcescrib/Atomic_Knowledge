@@ -28,7 +28,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related: [aku-cta-concept]
 sources:
   - raw/cursos/power-mba/15-4-tipos-de-objetivos-google-analytics-pptx/15-4-tipos-de-objetivos-google-analytics-pptx.md
 created: 2026-06-04
@@ -40,3 +40,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-tipos-objetivos-google-analytics-concept]]
+
+**related** ↔ [[aku-cta-concept]]

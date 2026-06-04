@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related: [aku-publicidad-nativa-concept]
 
 sources:
   - raw/cursos/power-mba/5-4-4-bloqueadores-de-publicidad/5-4-4-bloqueadores-de-publicidad.md
@@ -45,3 +45,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-adblockers-concept]]
+
+**related** ↔ [[aku-publicidad-nativa-concept]]

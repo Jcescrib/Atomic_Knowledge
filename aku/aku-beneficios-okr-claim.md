@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-revision-anual-falla-incertidumbre-claim]
+  related: [aku-revision-anual-falla-incertidumbre-claim, aku-cultura-corporativa-concept]
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -45,4 +45,4 @@ status_note: ""
 ## Relaciones
 
 **constrains** → [[aku-okr-concept]]
-**related** ↔ [[aku-revision-anual-falla-incertidumbre-claim]]
+**related** ↔ [[aku-revision-anual-falla-incertidumbre-claim]] · [[aku-cultura-corporativa-concept]]

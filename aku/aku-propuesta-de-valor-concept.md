@@ -54,6 +54,7 @@ relations:
     - aku-pitch-deck-problema-concept
     - aku-pitch-deck-solucion-concept
     - aku-gente-no-tiene-claro-que-busca-claim
+    - aku-desglosar-propuesta-valor-componentes-method
 
 sources:
   - "raw/cursos/power-mba/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc.md"
@@ -73,4 +74,4 @@ status_note: ""
 
 **constrains** → [[aku-actividades-clave-concept]] · [[aku-recursos-clave-concept]]
 
-**related** ↔ [[aku-bmc-concept]] · [[aku-power-value-modelo-concept]] · [[aku-beneficio-funcional-concept]] · [[aku-coste-percibido-amplio-concept]] · [[aku-competencia-amplia-concept]] · [[aku-cosas-importantes-concept]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-plan-de-marca-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-brandscript-storybrand-concept]] · [[aku-elevator-pitch-concept]] · [[aku-value-equation-concept]] · [[aku-pitch-deck-problema-concept]] · [[aku-pitch-deck-solucion-concept]] · [[aku-gente-no-tiene-claro-que-busca-claim]]
+**related** ↔ [[aku-bmc-concept]] · [[aku-power-value-modelo-concept]] · [[aku-beneficio-funcional-concept]] · [[aku-coste-percibido-amplio-concept]] · [[aku-competencia-amplia-concept]] · [[aku-cosas-importantes-concept]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-plan-de-marca-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-brandscript-storybrand-concept]] · [[aku-elevator-pitch-concept]] · [[aku-value-equation-concept]] · [[aku-pitch-deck-problema-concept]] · [[aku-pitch-deck-solucion-concept]] · [[aku-gente-no-tiene-claro-que-busca-claim]] · [[aku-desglosar-propuesta-valor-componentes-method]]

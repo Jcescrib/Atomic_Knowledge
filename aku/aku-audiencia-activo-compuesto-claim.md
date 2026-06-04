@@ -36,6 +36,7 @@ relations:
     - aku-core-four-concept
     - aku-content-unit-concept
     - aku-give-ask-ratio-claim
+    - aku-regularidad-importa-mas-que-frecuencia-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-content-marketing-concept]] · [[aku-core-four-concept]] · [[aku-content-unit-concept]] · [[aku-give-ask-ratio-claim]]
+**related** ↔ [[aku-content-marketing-concept]] · [[aku-core-four-concept]] · [[aku-content-unit-concept]] · [[aku-give-ask-ratio-claim]] · [[aku-regularidad-importa-mas-que-frecuencia-claim]]

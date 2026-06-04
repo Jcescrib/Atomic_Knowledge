@@ -36,6 +36,7 @@ relations:
     - aku-boca-a-boca-supera-campana-claim
     - aku-marketing-influencers-concept
     - aku-perceived-likelihood-achievement-concept
+    - aku-formato-contenido-testimonio-concept
 
 sources:
   - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
@@ -49,4 +50,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-leyes-persuasion-cialdini-concept]]
-**related** ↔ [[aku-boca-a-boca-supera-campana-claim]] · [[aku-marketing-influencers-concept]] · [[aku-perceived-likelihood-achievement-concept]]
+**related** ↔ [[aku-boca-a-boca-supera-campana-claim]] · [[aku-marketing-influencers-concept]] · [[aku-perceived-likelihood-achievement-concept]] · [[aku-formato-contenido-testimonio-concept]]

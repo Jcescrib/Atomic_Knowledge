@@ -29,7 +29,8 @@ relations:
   breaks_context_of: []
   contradicts:
     - aku-mas-valor-menos-coste-no-tradeoff-claim
-  related: []
+  related:
+    - aku-best-cost-strategy-concept
 sources:
   - raw/cursos/power-mba/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
 created: 2026-06-03
@@ -42,3 +43,5 @@ status_note: "Contradice a aku-mas-valor-menos-coste-no-tradeoff-claim (océano 
 
 **supported_by** ← [[aku-estrategias-genericas-porter-concept]]
 **contradicts** ↔ [[aku-mas-valor-menos-coste-no-tradeoff-claim]]
+
+**related** ↔ [[aku-best-cost-strategy-concept]]

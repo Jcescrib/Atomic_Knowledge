@@ -30,7 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-liderar-vs-gestionar-concept, aku-autoconciencia-lider-carencias-claim, aku-aprende-nuevas-habilidades-liderazgo-claim]
+  related: [aku-liderar-vs-gestionar-concept, aku-autoconciencia-lider-carencias-claim, aku-aprende-nuevas-habilidades-liderazgo-claim, aku-pitch-deck-equipo-concept]
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -43,4 +43,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-liderar-vs-gestionar-concept]] · [[aku-autoconciencia-lider-carencias-claim]] · [[aku-aprende-nuevas-habilidades-liderazgo-claim]]
+**related** ↔ [[aku-liderar-vs-gestionar-concept]] · [[aku-autoconciencia-lider-carencias-claim]] · [[aku-aprende-nuevas-habilidades-liderazgo-claim]] · [[aku-pitch-deck-equipo-concept]]

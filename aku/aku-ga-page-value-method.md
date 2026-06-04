@@ -27,7 +27,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related: [aku-cuello-botella-funnel-concept]
 sources:
   - raw/cursos/power-mba/15-2-principales-m-etricas-google-analytics-pptx/15-2-principales-m-etricas-google-analytics-pptx.md
 created: 2026-06-04
@@ -39,3 +39,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-metricas-google-analytics-concept]]
+
+**related** ↔ [[aku-cuello-botella-funnel-concept]]

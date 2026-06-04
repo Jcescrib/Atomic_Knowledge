@@ -37,6 +37,7 @@ relations:
     - aku-mass-market-strategy-concept
     - aku-nicho-strategy-concept
     - aku-segmentos-de-clientes-concept
+    - aku-comparativa-mass-market-vs-nicho-concept
 
 sources:
   - "raw/cursos/power-mba/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md"
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-mass-market-strategy-concept]] · [[aku-nicho-strategy-concept]] · [[aku-segmentos-de-clientes-concept]]
+**related** ↔ [[aku-mass-market-strategy-concept]] · [[aku-nicho-strategy-concept]] · [[aku-segmentos-de-clientes-concept]] · [[aku-comparativa-mass-market-vs-nicho-concept]]

@@ -30,7 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related: [aku-liderazgo-en-coste-concept]
 
 sources:
   - raw/cursos/power-mba/4-4-branding/4-4-branding.md
@@ -44,3 +44,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-posicionamiento-concept]]
+
+**related** ↔ [[aku-liderazgo-en-coste-concept]]

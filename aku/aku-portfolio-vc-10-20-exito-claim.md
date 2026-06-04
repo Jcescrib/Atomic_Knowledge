@@ -30,7 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related: [aku-vc-busca-x10-claim]
 
 sources:
   - raw/cursos/power-mba/6-3-01-fuentes-financiacion-quien-ok/6-3-01-fuentes-financiacion-quien-ok.md
@@ -44,3 +44,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-venture-capital-concept]]
+
+**related** ↔ [[aku-vc-busca-x10-claim]]

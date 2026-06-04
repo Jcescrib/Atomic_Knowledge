@@ -33,7 +33,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related: [aku-complementar-habilidades-equipo-claim]
 
 sources:
   - raw/cursos/power-mba/6-3-3-estructura-del-pitch-deck/6-3-3-estructura-del-pitch-deck.md
@@ -47,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-pitch-deck-concept]]
+
+**related** ↔ [[aku-complementar-habilidades-equipo-claim]]

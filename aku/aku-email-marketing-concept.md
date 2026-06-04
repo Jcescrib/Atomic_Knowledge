@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-lead-nurturing-concept, aku-marketing-automation-concept]
+  related: [aku-lead-nurturing-concept, aku-marketing-automation-concept, aku-lead-magnet-descuento-cupon-concept]
 
 sources:
   - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
@@ -45,4 +45,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-canales-marketing-digital-concept]]
-**related** ↔ [[aku-lead-nurturing-concept]] · [[aku-marketing-automation-concept]]
+**related** ↔ [[aku-lead-nurturing-concept]] · [[aku-marketing-automation-concept]] · [[aku-lead-magnet-descuento-cupon-concept]]
