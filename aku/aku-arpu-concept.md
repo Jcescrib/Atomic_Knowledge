@@ -35,6 +35,7 @@ relations:
   contradicts: []
   related:
     - aku-cltv-concept
+    - aku-lifetime-concept
 
 sources:
   - "raw/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md"
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-cltv-subscription-formula]]
 
-**related** ↔ [[aku-cltv-concept]]
+**related** ↔ [[aku-cltv-concept]] · [[aku-lifetime-concept]]

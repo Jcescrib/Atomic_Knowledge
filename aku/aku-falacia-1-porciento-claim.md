@@ -35,7 +35,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-estimacion-tamano-mercado-concept
 
 sources:
   - "raw/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md"
@@ -49,3 +50,5 @@ status_note: ""
 ## Relaciones
 
 **constrained_by** ← [[aku-tam-sam-som-concept]]
+
+**related** ↔ [[aku-estimacion-tamano-mercado-concept]]

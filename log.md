@@ -313,3 +313,10 @@ Source: `raw/6-3-4-templates-elevator-pitch/...md`. Plantillas de elevator pitch
 13 AKUs nuevos (11 concept + 2 claim) + 4 TAKUs (eleccion-proyecto-fit, mapa-fuentes-financiacion, pitch-deck [framework], elevator-pitch [technique]). 0 PDFs fallidos. La «tabla en imagen» resultó ya extraída por MinerU como texto/HTML; añadido render markdown de la tabla de financiación; única imagen real (diagrama MATCH) captionada.
 
 Verificación final módulo 06: 194 AKUs / 32 TAKUs, 1 componente conectado, 0 asimetrías (AKU+TAKU), 0 body-drift, 0 wikilinks rotos. Reparada 1 asimetría intra-06 (propuesta-de-valor ← elevator-pitch).
+
+## 2026-06-04 — reingesta diferencial (módulo 02)
+Re-escaneo de los raw del módulo 02 aplicando la regla «nunca omitir AKU por escasez de info». 3 conceptos nuevos con identidad propia creados:
+- `aku-lifetime-concept` (2.2) — métrica de permanencia (lifetime = 1/churn); ↔ churn-rate, cltv, arpu, cltv-subscription-formula.
+- `aku-clasificados-concept` (2.3) — subtipo de plataforma (Wallapop/Vibbo, monetización publicitaria, modelo Free); ↔ modelo-plataforma, marketplace, modelo-free, on-demand.
+- `aku-estimacion-tamano-mercado-concept` (2.4) — top-down vs bottom-up; ↔ tam-sam-som, falacia-1%.
+Sin ambigüedades (ninguno era dedup de un AKU existente). Verificado: 197 AKUs, 0 asimetrías, 0 body-drift.

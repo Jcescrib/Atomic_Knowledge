@@ -39,6 +39,7 @@ relations:
     - aku-modelo-plataforma-concept
     - aku-on-demand-platform-concept
     - aku-canal-indirecto-concept
+    - aku-clasificados-concept
 
 sources:
   - "raw/2-3-conceptos-clave-de-las-plataformas/2-3-conceptos-clave-de-las-plataformas.md"
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-on-demand-platform-concept]] · [[aku-canal-indirecto-concept]]
+**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-on-demand-platform-concept]] · [[aku-canal-indirecto-concept]] · [[aku-clasificados-concept]]

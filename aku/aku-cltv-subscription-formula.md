@@ -34,7 +34,8 @@ relations:
   breaks_context_of:
     - aku-cltv-transactional-formula
   contradicts: []
-  related: []
+  related:
+    - aku-lifetime-concept
 
 sources:
   - "raw/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md"
@@ -52,3 +53,5 @@ status_note: ""
 **context_breaks_at** → [[aku-cltv-transactional-formula]]
 
 **breaks_context_of** → [[aku-cltv-transactional-formula]]
+
+**related** ↔ [[aku-lifetime-concept]]

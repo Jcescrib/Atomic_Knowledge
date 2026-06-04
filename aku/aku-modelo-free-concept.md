@@ -40,6 +40,7 @@ relations:
     - aku-modelo-freemium-concept
     - aku-flujos-de-ingresos-concept
     - aku-free-bootstrap-plataforma-claim
+    - aku-clasificados-concept
 
 sources:
   - "raw/2-3-conceptos-clave-de-las-plataformas/2-3-conceptos-clave-de-las-plataformas.md"
@@ -52,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-content-platform-concept]] · [[aku-modelo-freemium-concept]] · [[aku-flujos-de-ingresos-concept]] · [[aku-free-bootstrap-plataforma-claim]]
+**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-content-platform-concept]] · [[aku-modelo-freemium-concept]] · [[aku-flujos-de-ingresos-concept]] · [[aku-free-bootstrap-plataforma-claim]] · [[aku-clasificados-concept]]
