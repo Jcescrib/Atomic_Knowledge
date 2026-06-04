@@ -296,3 +296,9 @@ Source: `raw/6-3-01-fuentes-financiacion-quien-ok/...md`. La tabla del «quién/
 Source: `raw/6-3-1-vender-tu-proyecto/...md` (intro al curso de relación con inversores). Sin imágenes.
 - **1 concept + 1 claim**: `criterios-inversion`, `levantar-financiacion-como-ventas`. Sin TAKU (es introducción; el framework va en 6.3.3/6.3.4).
 - INTEGRATE: criterios-inversion ↔ venture-capital; levantar-financiacion ↔ vender-una-accion, leyes-cialdini.
+
+## 2026-06-04 — pipeline (módulo 06, 6.3.3)
+Source: `raw/6-3-3-estructura-del-pitch-deck/...md`. Estructura del Pitch Deck (tabla de secciones ya en HTML por MinerU).
+- **1 concept-AKU**: `pitch-deck` (estructura de ~11 secciones + opcionales).
+- **1 framework TAKU**: `taku-pitch-deck` (3 jb: pitch-deck + criterios-inversion + levantar-financiacion-como-ventas).
+- INTEGRATE: pitch-deck ↔ criterios-inversion, problem-solution-fit, tam-sam-som, bmc (las secciones del deck mapean a estos conceptos).

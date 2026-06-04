@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-venture-capital-concept]
+  related: [aku-venture-capital-concept, aku-pitch-deck-concept]
 
 sources:
   - raw/6-3-1-vender-tu-proyecto/6-3-1-vender-tu-proyecto.md
@@ -44,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-venture-capital-concept]]
+**related** ↔ [[aku-venture-capital-concept]] · [[aku-pitch-deck-concept]]
