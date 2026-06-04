@@ -1035,3 +1035,22 @@ sources:
       retrato Carlos Puig). related ↔ objetivos-personales, autoevaluacion-cuerpo-mente-alma.
       Posible dedup leve anotado: claridad-objetivos-exito vs autoliderazgo-prerequisito (distintos,
       conservado separado).
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\08-desarrollo personal\08.01.02-Herramientasdedesarrollopersonal.pdf"
+    name_slug: "08-01-02-herramientasdedesarrollopersonal"
+    raw_path: "raw/08-01-02-herramientasdedesarrollopersonal/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: 2026-06-04
+    ingested: 2026-06-04
+    chapters_ingested: []
+    aku_count: 2
+    taku_count: 4
+    last_commit: ""
+    notes: >
+      Módulo 08 PDF 2 — Herramientas de desarrollo personal. 2 concept nuevos
+      (descubrir-fortalezas-feedback-externo, motivaciones-desde-experiencias-pasadas) + 4 technique
+      TAKUs en secuencia (test-del-aeropuerto → viaje-al-pasado → email-descubre-tus-poderes →
+      analisis-situacion-laboral). DEDUP: dimensiones de personalidad → enriquecen aku-mbti-concept
+      (+fuente, MISMO org → sin bump, 0.50); puntos ciegos → aku-tests-personalidad-concept (+fuente,
+      sin bump). 2 imágenes redundantes (tablas ya capturadas como HTML por MinerU). related sync con
+      diagnostico, objetivos-personales, tests-personalidad.

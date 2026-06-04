@@ -33,7 +33,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-objetivos-personales-concept, aku-autoevaluacion-cuerpo-mente-alma-concept, aku-claridad-objetivos-fortalezas-exito-claim, aku-alineacion-laboral-motivaciones-felicidad-claim]
+  related: [aku-objetivos-personales-concept, aku-autoevaluacion-cuerpo-mente-alma-concept, aku-claridad-objetivos-fortalezas-exito-claim, aku-alineacion-laboral-motivaciones-felicidad-claim, aku-descubrir-fortalezas-feedback-externo-concept, aku-motivaciones-desde-experiencias-pasadas-concept]
 
 sources:
   - raw/08-01-01-diagnostico-desarrollo-personal/08-01-01-diagnostico-desarrollo-personal.md
@@ -46,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-objetivos-personales-concept]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-claridad-objetivos-fortalezas-exito-claim]] · [[aku-alineacion-laboral-motivaciones-felicidad-claim]]
+**related** ↔ [[aku-objetivos-personales-concept]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-claridad-objetivos-fortalezas-exito-claim]] · [[aku-alineacion-laboral-motivaciones-felicidad-claim]] · [[aku-descubrir-fortalezas-feedback-externo-concept]] · [[aku-motivaciones-desde-experiencias-pasadas-concept]]

@@ -32,10 +32,11 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-liderazgo-concept]
+  related: [aku-liderazgo-concept, aku-descubrir-fortalezas-feedback-externo-concept]
 
 sources:
   - raw/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
+  - raw/08-01-02-herramientasdedesarrollopersonal/08-01-02-herramientasdedesarrollopersonal.md
 
 created: 2026-06-04
 updated: 2026-06-04
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-mbti-concept]]
 **constrained_by** ← [[aku-test-personalidad-solo-preferencias-claim]]
-**related** ↔ [[aku-liderazgo-concept]]
+**related** ↔ [[aku-liderazgo-concept]] · [[aku-descubrir-fortalezas-feedback-externo-concept]]

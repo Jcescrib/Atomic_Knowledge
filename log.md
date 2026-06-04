@@ -421,3 +421,13 @@ Verificación final módulo 07: 263 AKUs / 43 TAKUs, 1 componente conectado, 0 n
 Relations: related ↔ objetivos-personales-concept, autoevaluacion-cuerpo-mente-alma-concept (3 capas sync).
 Imágenes: 2 decorativas (portada Power MBA + retrato Carlos Puig). 0 TAKUs.
 Posible dedup leve anotado para revisión: claridad-objetivos-exito vs autoliderazgo-prerequisito (conservados separados — distinto objeto).
+
+## 2026-06-04 — pipeline módulo 08 «Desarrollo personal» PDF 2/2: 08.01.02 Herramientas de desarrollo personal
+
++2 AKUs concept:
+- aku-descubrir-fortalezas-feedback-externo-concept — terceros revelan fortalezas/puntos ciegos que la introspección no capta.
+- aku-motivaciones-desde-experiencias-pasadas-concept — analizar experiencias pasadas revela motivaciones intrínsecas.
++4 TAKUs technique (secuencia): test-del-aeropuerto → viaje-al-pasado → email-descubre-tus-poderes → analisis-situacion-laboral.
+DEDUP: dimensiones de personalidad (E/I, S/N, T/F, J/P) → enriquecen aku-mbti-concept (+2ª fuente, mismo org → sin bump); puntos ciegos → +2ª fuente a aku-tests-personalidad-concept (sin bump).
+Imágenes: 2 redundantes (tablas Test del aeropuerto + Viaje al pasado, ya en HTML del markdown).
+Módulo 08 COMPLETO: 2 PDFs, +5 AKUs (3 concept + 2 claim) + 4 TAKUs.

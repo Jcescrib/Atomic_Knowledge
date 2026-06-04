@@ -9,8 +9,13 @@ statement: >
   Sentimiento) y de vida (Juzgar/Percibir); cada tipo se nombra con la inicial del
   extremo dominante de cada dimensión; implica que la mayoría está entre ambos
   extremos pero con una preferencia natural, que puede complementarse con
-  habilidades aprendidas.
-origin: "The Power MBA — Módulo 7.1; Katharine Cook Briggs e Isabel Briggs Myers"
+  habilidades aprendidas. Caracterización de polos: Extrovertidos se recargan con
+  gente / Introvertidos a solas; Sensoriales son realistas y atienden detalles y
+  pasado / iNtuitivos analizan futuro, patrones y big picture; Pensadores (Thinkers)
+  deciden con lógica y análisis objetivo / Sentimentales deciden por el impacto en
+  las personas; Juzgadores (Judgers) planifican y se comprometen / Perceptores
+  (Perceivers) prefieren mantener opciones abiertas y la espontaneidad.
+origin: "The Power MBA — Módulos 7.1 y 8.1; Katharine Cook Briggs e Isabel Briggs Myers"
 domain: [leadership, autoconocimiento, psicologia]
 
 llm_confidence: 0.50
@@ -37,6 +42,7 @@ relations:
 
 sources:
   - raw/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
+  - raw/08-01-02-herramientasdedesarrollopersonal/08-01-02-herramientasdedesarrollopersonal.md
 
 created: 2026-06-04
 updated: 2026-06-04
