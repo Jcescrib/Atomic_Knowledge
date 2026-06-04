@@ -12,9 +12,9 @@ statement: >
   ratio supera holgadamente 1 y se utiliza como umbral de calidad de unit
   economics.
 origin: "The Power MBA — Módulo 2.2 «Motores de crecimiento — principales métricas»"
-domain: [growth, unit-economics, metrics, roi, power-mba]
+domain: [growth, unit-economics, metrics, roi, power-mba, hormozi]
 
-llm_confidence: 0.50
+llm_confidence: 0.60
 
 human_certainty:
   status: unvalidated
@@ -39,12 +39,14 @@ relations:
   related:
     - aku-cac-payback-concept
     - aku-cltv-minus-cac-concept
+    - aku-ltgp-cac-3-a-1-claim
 
 sources:
   - "raw/cursos/power-mba/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md"
+  - raw/libros/hormozi/100m-leads/100m-leads.md
 
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-04
 status: active
 status_note: ""
 ---
@@ -53,4 +55,4 @@ status_note: ""
 
 **supported_by** ← [[aku-cltv-concept]] · [[aku-cac-concept]]
 
-**related** ↔ [[aku-cac-payback-concept]] · [[aku-cltv-minus-cac-concept]]
+**related** ↔ [[aku-cac-payback-concept]] · [[aku-cltv-minus-cac-concept]] · [[aku-ltgp-cac-3-a-1-claim]]

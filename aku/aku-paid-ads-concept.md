@@ -39,6 +39,7 @@ relations:
     - aku-sem-paid-search-concept
     - aku-core-four-concept
     - aku-ads-eficiencia-vs-alcance-claim
+    - aku-tres-fases-escalar-ads-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -53,4 +54,4 @@ status_note: ""
 
 **supported_by** ← [[aku-anuncio-callout-value-cta-concept]] · [[aku-targeting-lookalike-filtros-concept]]
 
-**related** ↔ [[aku-paid-social-concept]] · [[aku-sem-paid-search-concept]] · [[aku-core-four-concept]] · [[aku-ads-eficiencia-vs-alcance-claim]]
+**related** ↔ [[aku-paid-social-concept]] · [[aku-sem-paid-search-concept]] · [[aku-core-four-concept]] · [[aku-ads-eficiencia-vs-alcance-claim]] · [[aku-tres-fases-escalar-ads-concept]]
