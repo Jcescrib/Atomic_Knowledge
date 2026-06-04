@@ -142,6 +142,7 @@ Ejemplo del módulo 2.3:
   - `tacit` → `llm_confidence: null`, `sources[]` empty, human authors.
   - `hybrid` → both populated; human validation may refine/narrow the sourced claim.
 - **Relations**: prefer typed relations (`supported_by`, `constrained_by`, `context_breaks_at`, `contradicts`) over `related`. Over-use of `related` is a graph health signal.
+- **Nunca omitir un AKU por escasez de información en la fuente actual.** Si un concepto tiene identidad propia (nombre propio, rol diferenciado, mecanismo específico), se crea con lo disponible ahora. La riqueza llega con fuentes futuras — el sistema está diseñado para enriquecerse con nuevas fuentes, no para esperar a tener información completa. Omitir un AKU hoy es impedir que se enriquezca mañana.
 
 ## AKU classes — concept, method, claim
 
