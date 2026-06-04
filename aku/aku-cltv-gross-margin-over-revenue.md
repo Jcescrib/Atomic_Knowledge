@@ -7,9 +7,9 @@ statement: >
   resultados más útiles para la toma de decisiones que usar el ingreso
   total.
 origin: "The Power MBA — Módulo 2.2 «Motores de crecimiento — principales métricas»"
-domain: [growth, unit-economics, measurement, business-model, power-mba]
+domain: [growth, unit-economics, measurement, business-model, power-mba, hormozi]
 
-llm_confidence: 0.50
+llm_confidence: 0.60
 
 human_certainty:
   status: unvalidated
@@ -35,9 +35,10 @@ relations:
 
 sources:
   - "raw/cursos/power-mba/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md"
+  - raw/libros/hormozi/100m-offers/100m-offers.md
 
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-04
 status: active
 status_note: ""
 ---

@@ -23,14 +23,18 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-estrategia-diferenciacion-concept]
+  supported_by:
+    - aku-estrategia-diferenciacion-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-diferenciacion-sector-concept, aku-margen-volumen-patron-sectorial-claim]
+  related:
+    - aku-diferenciacion-sector-concept
+    - aku-margen-volumen-patron-sectorial-claim
+    - aku-compra-value-vs-price-driven-concept
 
 sources:
   - raw/cursos/power-mba/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
@@ -44,4 +48,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-estrategia-diferenciacion-concept]]
-**related** ↔ [[aku-diferenciacion-sector-concept]] · [[aku-margen-volumen-patron-sectorial-claim]]
+**related** ↔ [[aku-diferenciacion-sector-concept]] · [[aku-margen-volumen-patron-sectorial-claim]] · [[aku-compra-value-vs-price-driven-concept]]

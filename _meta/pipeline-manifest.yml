@@ -1399,3 +1399,23 @@ sources:
     aku_count: 1
     taku_count: 0
     notes: "M20 PDF3 — Libros de copywriting. 1 concept (libros-copywriting-recomendados: bibliografía Sugarman/Bly/Halbert/Cialdini/Klaric...). 21 imgs decorativas (portadas). INTEGRATE (a): ↔ cialdini, hacks-copywriting. MÓDULO 20 COMPLETO (3 PDFs, +3 AKUs, +2 TAKUs)."
+
+  - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\05-Estrategies de marketing digital\\5.6-nickkolenda-Marketing full PDF\\Alex Hormozi\\100M Offers.pdf"
+    name_slug: "100m-offers"
+    raw_path: "raw/libros/hormozi/100m-offers/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a   # figuras = diagramas decorativos OCR; contenido en texto/tablas HTML
+    ingested: null   # book mode — en curso, ver chapters_ingested
+    chapters_ingested: [grand-slam-offer-y-comoditizacion]
+    aku_count: 4
+    taku_count: 0
+    last_commit: ""
+    notes: >
+      Libro 1 de la trilogía Hormozi (Acquisition.com Vol. I). Ingesta book-mode
+      capítulo a capítulo con dedup contra el grafo Power MBA (cluster value-proposition/
+      pricing/marketing). source-tag: hormozi. Cap.1 (grand-slam-offer-y-comoditizacion):
+      4 AKUs nuevos (grand-slam-offer, categoria-de-uno, compra-value-vs-price-driven,
+      grand-slam-offer-tres-palancas) + 2 dedup-merges (commodity 0.50→0.60 +tag hormozi;
+      cltv-gross-margin-over-revenue 0.50→0.60). INTEGRATE (a) anclado: GSO/categoria-de-uno
+      ↔ commodity, estrategia-diferenciacion; compra-value-vs-price ↔ diferenciacion-mayores-margenes.

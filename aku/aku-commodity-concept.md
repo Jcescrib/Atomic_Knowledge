@@ -10,9 +10,9 @@ statement: >
   guerras de precios que erosionan la rentabilidad; se sitúa en el extremo
   opuesto al de los sectores diferenciados.
 origin: "Michael Porter — Competitive Strategy"
-domain: [estrategia, analisis-sectorial, competencia, power-mba]
+domain: [estrategia, analisis-sectorial, competencia, power-mba, hormozi]
 
-llm_confidence: 0.50
+llm_confidence: 0.60
 
 human_certainty:
   status: unvalidated
@@ -32,17 +32,18 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-poder-compradores-concept, aku-diferenciacion-sector-concept, aku-empresas-borregos-claim, aku-liderazgo-en-coste-concept]
+  related: [aku-poder-compradores-concept, aku-diferenciacion-sector-concept, aku-empresas-borregos-claim, aku-liderazgo-en-coste-concept, aku-grand-slam-offer-concept, aku-categoria-de-uno-concept, aku-compra-value-vs-price-driven-concept]
 
 sources:
   - raw/cursos/power-mba/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
+  - raw/libros/hormozi/100m-offers/100m-offers.md
 
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-04
 status: active
 status_note: ""
 ---
 
 ## Relaciones
 
-**related** ↔ [[aku-poder-compradores-concept]] · [[aku-diferenciacion-sector-concept]] · [[aku-empresas-borregos-claim]] · [[aku-liderazgo-en-coste-concept]]
+**related** ↔ [[aku-poder-compradores-concept]] · [[aku-diferenciacion-sector-concept]] · [[aku-empresas-borregos-claim]] · [[aku-liderazgo-en-coste-concept]] · [[aku-grand-slam-offer-concept]] · [[aku-categoria-de-uno-concept]] · [[aku-compra-value-vs-price-driven-concept]]
