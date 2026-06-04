@@ -17,6 +17,21 @@ aku_links:
     - id: aku-hacks-copywriting-concept
       link_validation: llm-proposed
       link_note: "El hack «incluye siempre un titular» se operacionaliza con estas fórmulas."
+    - id: aku-formula-titulo-resultado-tiempo-objecion-method
+      link_validation: llm-proposed
+      link_note: "Plantilla «Resultado + Tiempo + Objeción»."
+    - id: aku-formula-titulo-numero-sustantivo-adjetivo-method
+      link_validation: llm-proposed
+      link_note: "Plantilla «Número + Sustantivo + Adjetivo + resto»."
+    - id: aku-formula-titulo-como-lograr-objecion-method
+      link_validation: llm-proposed
+      link_note: "Plantilla «Cómo + lograr algo + Objeción»."
+    - id: aku-formula-titulo-numero-errores-deseo-method
+      link_validation: llm-proposed
+      link_note: "Plantilla «Número + errores comunes al + Deseo»."
+    - id: aku-formula-titulo-caso-exito-method
+      link_validation: llm-proposed
+      link_note: "Plantilla «Cómo + Empresa + consiguió + Resultado + Tiempo»."
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -94,4 +109,4 @@ Combina con power words y prueba social; testea variantes con A/B testing.
 
 ## Relaciones
 
-**justified_by** ← [[aku-formulas-titulos-potentes-concept]] · [[aku-hacks-copywriting-concept]]
+**justified_by** ← [[aku-formulas-titulos-potentes-concept]] · [[aku-hacks-copywriting-concept]] · [[aku-formula-titulo-resultado-tiempo-objecion-method]] · [[aku-formula-titulo-numero-sustantivo-adjetivo-method]] · [[aku-formula-titulo-como-lograr-objecion-method]] · [[aku-formula-titulo-numero-errores-deseo-method]] · [[aku-formula-titulo-caso-exito-method]]
