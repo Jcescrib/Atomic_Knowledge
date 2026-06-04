@@ -32,7 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-blitzscaling-concept, aku-etapas-startup-concept]
+  related: [aku-blitzscaling-concept, aku-etapas-startup-concept, aku-criterios-inversion-concept]
 
 sources:
   - raw/6-3-01-fuentes-financiacion-quien-ok/6-3-01-fuentes-financiacion-quien-ok.md
@@ -46,4 +46,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-fuentes-financiacion-concept]] · [[aku-vc-busca-x10-claim]]
-**related** ↔ [[aku-blitzscaling-concept]] · [[aku-etapas-startup-concept]]
+**related** ↔ [[aku-blitzscaling-concept]] · [[aku-etapas-startup-concept]] · [[aku-criterios-inversion-concept]]

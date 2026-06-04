@@ -291,3 +291,8 @@ Source: `raw/6-3-01-fuentes-financiacion-quien-ok/...md`. La tabla del «quién/
 - **6 concept-AKUs + 1 claim**: `fuentes-financiacion` (umbrella), `fases-financiacion`, `bootstrapping`, `incubadora-aceleradora`, `venture-capital`, `venture-builder`; claim `vc-busca-x10`.
 - **1 framework TAKU**: `taku-mapa-fuentes-financiacion` (5 jb + constrained_by vc-busca-x10), complementary a eleccion-proyecto-fit.
 - INTEGRATE: fases-financiacion ↔ problem-solution-fit / product-market-fit / motor-crecimiento (mapa fase desarrollo); bootstrapping ↔ free-bootstrap-plataforma; venture-capital ↔ blitzscaling / etapas-startup; fuentes ↔ implicaciones-modelo-negocio (puente diferido de 6.1.01).
+
+## 2026-06-04 — pipeline (módulo 06, 6.3.1)
+Source: `raw/6-3-1-vender-tu-proyecto/...md` (intro al curso de relación con inversores). Sin imágenes.
+- **1 concept + 1 claim**: `criterios-inversion`, `levantar-financiacion-como-ventas`. Sin TAKU (es introducción; el framework va en 6.3.3/6.3.4).
+- INTEGRATE: criterios-inversion ↔ venture-capital; levantar-financiacion ↔ vender-una-accion, leyes-cialdini.
