@@ -33,7 +33,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-cro-concept, aku-visual-attention-kolenda-concept, aku-ux-psychology-kolenda-concept]
+  related: [aku-cro-concept]
 
 sources:
   - raw/5-6-1-conceptos-clave-conversi-on/5-6-1-conceptos-clave-conversi-on.md
@@ -46,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cro-concept]] · [[aku-visual-attention-kolenda-concept]] · [[aku-ux-psychology-kolenda-concept]]
+**related** ↔ [[aku-cro-concept]]

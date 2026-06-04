@@ -37,7 +37,6 @@ relations:
   related:
     - aku-motor-crecimiento-viral-concept
     - aku-network-effect-concept
-    - aku-viral-marketing-kolenda-concept
     - aku-recomendacion-vs-viralizacion-concept
 
 sources:
@@ -51,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-motor-crecimiento-viral-concept]] · [[aku-network-effect-concept]] · [[aku-viral-marketing-kolenda-concept]] · [[aku-recomendacion-vs-viralizacion-concept]]
+**related** ↔ [[aku-motor-crecimiento-viral-concept]] · [[aku-network-effect-concept]] · [[aku-recomendacion-vs-viralizacion-concept]]

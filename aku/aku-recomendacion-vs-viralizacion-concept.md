@@ -33,7 +33,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-coeficiente-viralidad-concept, aku-cac-concept, aku-viral-marketing-kolenda-concept]
+  related: [aku-coeficiente-viralidad-concept, aku-cac-concept]
 
 sources:
   - raw/5-8-1-conceptos-clave-recomendacion-y-viralizacion/5-8-1-conceptos-clave-recomendacion-y-viralizacion.md
@@ -47,4 +47,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-boca-a-boca-supera-campana-claim]] · [[aku-recomendacion-depende-producto-claim]]
-**related** ↔ [[aku-coeficiente-viralidad-concept]] · [[aku-cac-concept]] · [[aku-viral-marketing-kolenda-concept]]
+**related** ↔ [[aku-coeficiente-viralidad-concept]] · [[aku-cac-concept]]

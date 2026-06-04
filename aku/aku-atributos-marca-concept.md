@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-valores-marca-concept, aku-posicionamiento-concept, aku-naming-producto-kolenda-concept]
+  related: [aku-valores-marca-concept, aku-posicionamiento-concept]
 
 sources:
   - raw/4-4-branding/4-4-branding.md
@@ -44,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-valores-marca-concept]] · [[aku-posicionamiento-concept]] · [[aku-naming-producto-kolenda-concept]]
+**related** ↔ [[aku-valores-marca-concept]] · [[aku-posicionamiento-concept]]

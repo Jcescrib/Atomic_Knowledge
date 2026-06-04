@@ -36,7 +36,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-emocion-prevalece-razon-claim, aku-vender-una-accion-concept, aku-lead-magnet-concept, aku-marketing-influencers-concept, aku-ad-psychology-kolenda-concept, aku-negotiation-tactics-kolenda-concept, aku-methods-persuasion-kolenda-concept, aku-boca-a-boca-supera-campana-claim]
+  related: [aku-emocion-prevalece-razon-claim, aku-vender-una-accion-concept, aku-lead-magnet-concept, aku-marketing-influencers-concept, aku-boca-a-boca-supera-campana-claim]
 
 sources:
   - raw/5-1-clave-powerselling/5-1-clave-powerselling.md
@@ -49,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-emocion-prevalece-razon-claim]] · [[aku-vender-una-accion-concept]] · [[aku-lead-magnet-concept]] · [[aku-marketing-influencers-concept]] · [[aku-ad-psychology-kolenda-concept]] · [[aku-negotiation-tactics-kolenda-concept]] · [[aku-methods-persuasion-kolenda-concept]] · [[aku-boca-a-boca-supera-campana-claim]]
+**related** ↔ [[aku-emocion-prevalece-razon-claim]] · [[aku-vender-una-accion-concept]] · [[aku-lead-magnet-concept]] · [[aku-marketing-influencers-concept]] · [[aku-boca-a-boca-supera-campana-claim]]

@@ -269,3 +269,11 @@ Resumen módulo 05: 42 PDFs procesados (incl. 16 libros Kolenda). +55 AKUs (48 c
 
 ## 2026-06-04 — lint/integridad final (módulos 04 + 05)
 Verificación por script tras módulo 05: **196 AKUs / 28 TAKUs**, **1 componente conectado** (~812 aristas, 0 huérfanos), **0 asimetrías bidireccionales** (AKU y TAKU), **0 body-drift** (frontmatter↔cuerpo), 0 wikilinks rotos, 0 AKUs sin aku_class. Reparadas 18 asimetrías intra-sesión (faltaban inversos en targets) + 1 type-mismatch (palancas-marketing-digital: conversion-olvidada movido de related→supports). index.md actualizado.
+
+## 2026-06-04 — cleanup (eliminación AKUs Kolenda tesis-nuclear)
+Borrados los 15 AKUs `*-kolenda-*` creados a granularidad de tesis nuclear (decisión del usuario: granularidad insuficiente; pendiente desglose capítulo a capítulo tras completar Power MBA). Reversible vía git; `raw/` de Kolenda conservados para el re-ingest real.
+- **15 AKUs eliminados**: ad-psychology, choice, color, copywriting, ecommerce, font, mental-imagery, methods-persuasion, naming, negotiation, packaging, pricing, ux, viral-marketing, visual-attention (todos `-kolenda-`).
+- **11 AKUs del grafo principal**: eliminada la referencia puente a AKUs Kolenda (frontmatter + body) dejando el resto intacto: atributos-marca, coeficiente-viralidad, cro, ecuacion-valor, emocion-prevalece-razon, estilo-editorial, leyes-persuasion-cialdini, marca, motor-crecimiento-viral, piramide-conversion, recomendacion-vs-viralizacion.
+- **Manifest**: los 16 PDFs de `5.6-nickkolenda` marcados `ingested: null # pending-reingestion`, `aku_count: 0`, nota "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA". `converted`/`raw_path` intactos.
+- **Verificado**: 181 AKUs / 28 TAKUs, 0 referencias kolenda residuales, 0 wikilinks rotos, 0 asimetrías, 0 body-drift, 1 componente conectado, 0 huérfanos.
+- Nota: CLAUDE.md prohíbe borrar AKUs (usar deprecated); ejecutado bajo override explícito del propietario, reversible por git.
