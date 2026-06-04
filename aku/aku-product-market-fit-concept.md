@@ -48,6 +48,7 @@ relations:
     - aku-recomendacion-depende-producto-claim
     - aku-fases-financiacion-concept
     - aku-crecimiento-clasico-startup-concept
+    - aku-validar-economia-clave-claim
 
 sources:
   - "raw/cursos/power-mba/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md"
@@ -61,4 +62,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-lean-startup-method-concept]] · [[aku-innovar-vs-competir-concept]] · [[aku-metricas-accionables-concept]] · [[aku-early-adopter-concept]] · [[aku-nicho-strategy-concept]] · [[aku-problem-solution-fit-concept]] · [[aku-etapas-startup-concept]] · [[aku-limitadores-crecimiento-blitzscaling-concept]] · [[aku-tipos-estrategias-crecimiento-concept]] · [[aku-recomendacion-depende-producto-claim]] · [[aku-fases-financiacion-concept]] · [[aku-crecimiento-clasico-startup-concept]]
+**related** ↔ [[aku-lean-startup-method-concept]] · [[aku-innovar-vs-competir-concept]] · [[aku-metricas-accionables-concept]] · [[aku-early-adopter-concept]] · [[aku-nicho-strategy-concept]] · [[aku-problem-solution-fit-concept]] · [[aku-etapas-startup-concept]] · [[aku-limitadores-crecimiento-blitzscaling-concept]] · [[aku-tipos-estrategias-crecimiento-concept]] · [[aku-recomendacion-depende-producto-claim]] · [[aku-fases-financiacion-concept]] · [[aku-crecimiento-clasico-startup-concept]] · [[aku-validar-economia-clave-claim]]

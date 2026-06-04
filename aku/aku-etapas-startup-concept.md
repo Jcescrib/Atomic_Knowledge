@@ -31,7 +31,9 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-fase-optimizar-canales-concept
+    - aku-fase-escalar-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -54,5 +56,7 @@ status_note: ""
 ---
 
 ## Relaciones
+
+**supports** → [[aku-fase-optimizar-canales-concept]] · [[aku-fase-escalar-concept]]
 
 **related** ↔ [[aku-problem-solution-fit-concept]] · [[aku-product-market-fit-concept]] · [[aku-lean-startup-method-concept]] · [[aku-venture-capital-concept]] · [[aku-perfil-startup-vs-tradicional-concept]]

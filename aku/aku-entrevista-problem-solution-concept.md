@@ -32,7 +32,11 @@ epistemic_type: sourced
 relations:
   supported_by:
     - aku-mvp-concept
-  supports: []
+  supports:
+    - aku-desglosar-propuesta-valor-componentes-method
+    - aku-prueba-precio-entrevista-method
+    - aku-validar-mensajes-comunicacion-method
+    - aku-explorar-alternativas-actuales-method
   constrained_by:
     - aku-falso-positivo-validation-concept
   constrains: []
@@ -56,6 +60,8 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-mvp-concept]]
+
+**supports** → [[aku-desglosar-propuesta-valor-componentes-method]] · [[aku-prueba-precio-entrevista-method]] · [[aku-validar-mensajes-comunicacion-method]] · [[aku-explorar-alternativas-actuales-method]]
 
 **constrained_by** ← [[aku-falso-positivo-validation-concept]]
 
