@@ -6,14 +6,14 @@ Router and validation dashboard. Updated by `/ingest`, `/pipeline`, `/lint`, and
 
 | Layer | Active | Draft | Deprecated | Validated-false / failing |
 |---|---|---|---|---|
-| AKU | 194 | — | 0 | 0 |
+| AKU | 231 | — | 0 | 0 |
 | TAKU | 0 | 32 | 0 | 0 |
 
-By AKU class: **156 concept**, **4 method**, **34 claim** · all `unvalidated` · 187 `epistemic_type: sourced` at `llm_confidence: 0.50`, 5 `sourced` at `0.60` (post-dedup: segmentos, propuesta-valor, product-market-fit, nicho-strategy, lead-magnet), 1 `sourced` at `0.20` (mas-valor-menos-coste, −0.30 por contradicción con atrapado-medio/Porter), 1 `tacit` at `null` (Joan's free-bootstrap-plataforma claim).
+By AKU class: **193 concept**, **4 method**, **34 claim** · all `unvalidated` · 187 `epistemic_type: sourced` at `llm_confidence: 0.50`, 5 `sourced` at `0.60` (post-dedup: segmentos, propuesta-valor, product-market-fit, nicho-strategy, lead-magnet), 1 `sourced` at `0.20` (mas-valor-menos-coste, −0.30 por contradicción con atrapado-medio/Porter), 1 `tacit` at `null` (Joan's free-bootstrap-plataforma claim).
 
-Graph: **1 connected component**, 0 bidirectional errors (AKU 194/194 simétrico, 0 body-drift; TAKU 32/32 simétrico — verificado por script).
+Graph: **1 connected component**, 0 bidirectional errors (AKU 231/231 simétrico, 0 body-drift, 0 wikilinks rotos; TAKU 32/32 simétrico — verificado por script).
 
-_Last updated: 2026-06-04 (pipeline módulo 06 «Emprendimiento» COMPLETO — 5 PDFs: +13 AKUs / +4 TAKUs (fit proyecto-emprendedor, fuentes de financiación, pitch deck, elevator pitch). La «tabla en imagen» ya venía extraída como texto por MinerU; añadido render markdown + caption del diagrama MATCH. Antes: módulos 04+05 + cleanup Kolenda → 181 AKUs; ahora 194 AKUs / 32 TAKUs)._
+_Last updated: 2026-06-04 (reingesta diferencial módulos 02–06 aplicando «nunca omitir AKU por escasez de info»: +37 AKUs de conceptos con identidad propia antes plegados — métricas (lifetime), plataformas (clasificados), estimación de mercado, tipos de MVP, estructuras de mercado (monopolio/oligopolio), M&A (fusión/adquisición/JV/alianza), tipos de crecimiento, 7 leyes de Cialdini, 8 canales de marketing, 6 fuentes de financiación. Pendientes de consulta: content-marketing (vs inbound), publicidad-dirigida (vs performance/test-de-humo). Kolenda excluido. Previo: pipeline módulo 06 COMPLETO — 5 PDFs: +13 AKUs / +4 TAKUs (fit proyecto-emprendedor, fuentes de financiación, pitch deck, elevator pitch). La «tabla en imagen» ya venía extraída como texto por MinerU; añadido render markdown + caption del diagrama MATCH. Antes: módulos 04+05 + cleanup Kolenda → 181 AKUs; ahora 194 AKUs / 32 TAKUs)._
 
 ## Pending validation queue
 

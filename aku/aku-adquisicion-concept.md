@@ -29,7 +29,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-fusion-concept]
+  related: [aku-fusion-concept, aku-socio-industrial-concept]
 
 sources:
   - raw/4-3-estrategias-de-crecimiento/4-3-estrategias-de-crecimiento.md
@@ -43,4 +43,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-crecimiento-organico-inorganico-concept]]
-**related** ↔ [[aku-fusion-concept]]
+**related** ↔ [[aku-fusion-concept]] · [[aku-socio-industrial-concept]]

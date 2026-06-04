@@ -1,16 +1,16 @@
 ---
 type: aku
 aku_class: concept
-id: aku-bootstrapping-concept
+id: aku-equity-crowdfunding-concept
 statement: >
-  El bootstrapping es financiar el desarrollo de la empresa con recursos propios,
-  sin capital externo; es especialmente viable en proyectos cuyas operaciones
-  generan cash desde el inicio (poco intensivos en necesidades financieras);
-  implica conservar el control y no diluirse, a cambio de un ritmo de crecimiento
-  limitado por los recursos disponibles, y está presente como opción en todas las
-  fases de financiación.
+  El equity crowdfunding son plataformas que ponen en contacto a inversores con
+  startups permitiendo invertir tickets menores y haciendo el proceso más
+  automático y transparente; para el inversor abre el acceso a invertir en no
+  cotizadas (startups), y para la startup, el acceso a una enorme comunidad
+  inversora sin «desgastarse» en la búsqueda y gestión individual de inversores
+  (p. ej. Startupxplore).
 origin: "The Power MBA — Módulo 6.3 «Fuentes de financiación: quién»"
-domain: [emprendimiento, financiacion, bootstrap, startup]
+domain: [emprendimiento, financiacion, crowdfunding, inversion]
 
 llm_confidence: 0.50
 
@@ -32,7 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-free-bootstrap-plataforma-claim, aku-fff-concept]
+  related: [aku-crowdfunding-validacion-concept]
 
 sources:
   - raw/6-3-01-fuentes-financiacion-quien-ok/6-3-01-fuentes-financiacion-quien-ok.md
@@ -46,4 +46,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-fuentes-financiacion-concept]]
-**related** ↔ [[aku-free-bootstrap-plataforma-claim]] · [[aku-fff-concept]]
+**related** ↔ [[aku-crowdfunding-validacion-concept]]

@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-aprendizaje-validado-concept, aku-fuentes-financiacion-concept]
+  related: [aku-aprendizaje-validado-concept, aku-fuentes-financiacion-concept, aku-equity-crowdfunding-concept]
 
 sources:
   - raw/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md
@@ -45,4 +45,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-mvp-concept]]
-**related** ↔ [[aku-aprendizaje-validado-concept]] · [[aku-fuentes-financiacion-concept]]
+**related** ↔ [[aku-aprendizaje-validado-concept]] · [[aku-fuentes-financiacion-concept]] · [[aku-equity-crowdfunding-concept]]

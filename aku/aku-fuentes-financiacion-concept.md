@@ -29,7 +29,7 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-fases-financiacion-concept, aku-bootstrapping-concept, aku-incubadora-aceleradora-concept, aku-venture-capital-concept]
+  supported_by: [aku-fases-financiacion-concept, aku-bootstrapping-concept, aku-incubadora-aceleradora-concept, aku-venture-capital-concept, aku-business-angel-concept, aku-fff-concept, aku-media-4-equity-concept, aku-socio-industrial-concept, aku-equity-crowdfunding-concept, aku-organismos-publicos-concept]
   supports: []
   constrained_by: []
   constrains: []
@@ -49,5 +49,5 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-fases-financiacion-concept]] · [[aku-bootstrapping-concept]] · [[aku-incubadora-aceleradora-concept]] · [[aku-venture-capital-concept]]
+**supported_by** ← [[aku-fases-financiacion-concept]] · [[aku-bootstrapping-concept]] · [[aku-incubadora-aceleradora-concept]] · [[aku-venture-capital-concept]] · [[aku-business-angel-concept]] · [[aku-fff-concept]] · [[aku-media-4-equity-concept]] · [[aku-socio-industrial-concept]] · [[aku-equity-crowdfunding-concept]] · [[aku-organismos-publicos-concept]]
 **related** ↔ [[aku-venture-builder-concept]] · [[aku-implicaciones-modelo-negocio-concept]] · [[aku-crowdfunding-validacion-concept]]

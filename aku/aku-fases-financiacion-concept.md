@@ -33,7 +33,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-problem-solution-fit-concept, aku-product-market-fit-concept, aku-motor-crecimiento-concept]
+  related: [aku-problem-solution-fit-concept, aku-product-market-fit-concept, aku-motor-crecimiento-concept, aku-business-angel-concept]
 
 sources:
   - raw/6-3-01-fuentes-financiacion-quien-ok/6-3-01-fuentes-financiacion-quien-ok.md
@@ -47,4 +47,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-fuentes-financiacion-concept]]
-**related** ↔ [[aku-problem-solution-fit-concept]] · [[aku-product-market-fit-concept]] · [[aku-motor-crecimiento-concept]]
+**related** ↔ [[aku-problem-solution-fit-concept]] · [[aku-product-market-fit-concept]] · [[aku-motor-crecimiento-concept]] · [[aku-business-angel-concept]]

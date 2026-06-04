@@ -344,3 +344,11 @@ Re-escaneo de los raw nativos del módulo 05 (5.1–5.8). El sub-bundle 5.6-nick
 - 8 canales (5.4.1): `seo-aso`, `sem-paid-search`, `paid-social`, `red-display`, `programatica`, `email-marketing`, `marketing-afiliados`, `publicidad-offline` → support canales-marketing-digital.
 AMBIGÜEDAD pendiente (no creado): `content-marketing` — solapa fuertemente con `inbound-marketing` (¿AKU propio o faceta?). PLEGADOS (degradación/overlap): niveles de brand-awareness, PR, redes-sociales-orgánicas.
 Verificado: 0 asimetrías, 0 body-drift.
+
+## 2026-06-04 — reingesta diferencial (módulo 06)
+6 conceptos nuevos: fuentes de financiación con nombre propio antes plegadas en el umbrella:
+- `business-angel`, `fff`, `media-4-equity`, `socio-industrial`, `equity-crowdfunding`, `organismos-publicos` → support fuentes-financiacion.
+Puentes: business-angel ↔ venture-capital/fases; fff ↔ bootstrapping; socio-industrial ↔ adquisicion/diversificacion; equity-crowdfunding ↔ crowdfunding-validacion (primo «reward» del módulo 03); media-4-equity ↔ publicidad-offline.
+
+## 2026-06-04 — reingesta diferencial 02–06 COMPLETA
+Total: +37 AKUs (02:+3, 03:+3, 04:+10, 05:+15, 06:+6). Grafo: 231 AKUs / 32 TAKUs, 1 componente conectado, 0 asimetrías, 0 body-drift, 0 wikilinks rotos, 0 sin aku_class. Kolenda excluido (preferencia usuario). 2 ambigüedades pendientes de consulta: `content-marketing` (¿AKU propio o faceta de inbound-marketing?) y `publicidad-dirigida` como MVP (¿propio o faceta de performance/test-de-humo?).

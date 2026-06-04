@@ -1,16 +1,15 @@
 ---
 type: aku
 aku_class: concept
-id: aku-bootstrapping-concept
+id: aku-socio-industrial-concept
 statement: >
-  El bootstrapping es financiar el desarrollo de la empresa con recursos propios,
-  sin capital externo; es especialmente viable en proyectos cuyas operaciones
-  generan cash desde el inicio (poco intensivos en necesidades financieras);
-  implica conservar el control y no diluirse, a cambio de un ritmo de crecimiento
-  limitado por los recursos disponibles, y está presente como opción en todas las
-  fases de financiación.
+  Un socio industrial es una empresa del mismo sector que invierte en o adquiere
+  tu compañía por motivos estratégicos: buscar sinergias, entrar en un nuevo
+  mercado geográfico y ganar una posición de dominancia, o diversificar entrando
+  en tu negocio (consciente de que tu potencial de crecimiento es mayor que el
+  suyo y no quiere «quedarse fuera»); es una fuente típica de la fase de expansión.
 origin: "The Power MBA — Módulo 6.3 «Fuentes de financiación: quién»"
-domain: [emprendimiento, financiacion, bootstrap, startup]
+domain: [emprendimiento, financiacion, expansion, m-and-a]
 
 llm_confidence: 0.50
 
@@ -32,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-free-bootstrap-plataforma-claim, aku-fff-concept]
+  related: [aku-adquisicion-concept, aku-diversificacion-concept]
 
 sources:
   - raw/6-3-01-fuentes-financiacion-quien-ok/6-3-01-fuentes-financiacion-quien-ok.md
@@ -46,4 +45,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-fuentes-financiacion-concept]]
-**related** ↔ [[aku-free-bootstrap-plataforma-claim]] · [[aku-fff-concept]]
+**related** ↔ [[aku-adquisicion-concept]] · [[aku-diversificacion-concept]]
