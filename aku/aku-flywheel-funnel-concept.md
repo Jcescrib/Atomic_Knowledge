@@ -27,7 +27,9 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-velocidad-flywheel-concept
+    - aku-friccion-flywheel-concept
   supports: []
   constrained_by: []
   constrains: []
@@ -47,4 +49,5 @@ status_note: ""
 
 ## Relaciones
 
+**supported_by** ← [[aku-velocidad-flywheel-concept]] · [[aku-friccion-flywheel-concept]]
 **related** ↔ [[aku-fidelizacion-vs-retencion-concept]] · [[aku-power-funnel-concept]] · [[aku-inbound-marketing-concept]]
