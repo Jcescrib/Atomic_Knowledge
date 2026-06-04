@@ -39,6 +39,7 @@ relations:
   related:
     - aku-oceano-azul-concept
     - aku-cliente-buscando-vs-no-concept
+    - aku-dirigirse-a-no-buscadores-mayor-conversion-claim
 
 sources:
   - "raw/cursos/power-mba/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave.md"
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-oceano-azul-concept]] · [[aku-cliente-buscando-vs-no-concept]]
+**related** ↔ [[aku-oceano-azul-concept]] · [[aku-cliente-buscando-vs-no-concept]] · [[aku-dirigirse-a-no-buscadores-mayor-conversion-claim]]

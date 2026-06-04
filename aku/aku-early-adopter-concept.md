@@ -40,6 +40,7 @@ relations:
     - aku-product-market-fit-concept
     - aku-nicho-recomendado-lanzamiento-claim
     - aku-ciclo-vida-producto-concept
+    - aku-foco-early-adopters-match-brutal-claim
 
 sources:
   - "raw/cursos/power-mba/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md"
@@ -52,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-nicho-strategy-concept]] · [[aku-customer-persona-concept]] · [[aku-product-market-fit-concept]] · [[aku-nicho-recomendado-lanzamiento-claim]] · [[aku-ciclo-vida-producto-concept]]
+**related** ↔ [[aku-nicho-strategy-concept]] · [[aku-customer-persona-concept]] · [[aku-product-market-fit-concept]] · [[aku-nicho-recomendado-lanzamiento-claim]] · [[aku-ciclo-vida-producto-concept]] · [[aku-foco-early-adopters-match-brutal-claim]]

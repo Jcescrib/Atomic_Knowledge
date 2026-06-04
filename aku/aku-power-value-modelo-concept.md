@@ -43,6 +43,7 @@ relations:
     - aku-problema-resuelto-concept
     - aku-coste-percibido-amplio-concept
     - aku-ecuacion-valor-claim
+    - aku-customer-persona-dimensiones-analisis-concept
 
 sources:
   - "raw/cursos/power-mba/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a.md"
@@ -55,4 +56,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-propuesta-de-valor-concept]] · [[aku-beneficio-funcional-concept]] · [[aku-beneficio-emocional-concept]] · [[aku-problema-resuelto-concept]] · [[aku-coste-percibido-amplio-concept]] · [[aku-ecuacion-valor-claim]]
+**related** ↔ [[aku-propuesta-de-valor-concept]] · [[aku-beneficio-funcional-concept]] · [[aku-beneficio-emocional-concept]] · [[aku-problema-resuelto-concept]] · [[aku-coste-percibido-amplio-concept]] · [[aku-ecuacion-valor-claim]] · [[aku-customer-persona-dimensiones-analisis-concept]]

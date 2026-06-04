@@ -42,6 +42,8 @@ relations:
     - aku-modelo-plataforma-concept
     - aku-tam-sam-som-concept
     - aku-desarrollo-mercados-concept
+    - aku-importancia-segmentacion-claim
+    - aku-segmentos-vs-personas-concept
 sources:
   - raw/cursos/power-mba/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc.md
   - raw/cursos/power-mba/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md
@@ -57,4 +59,4 @@ status_note: ""
 
 **constrains** → [[aku-propuesta-de-valor-concept]] · [[aku-canales-de-distribucion-concept]] · [[aku-relaciones-con-clientes-concept]] · [[aku-flujos-de-ingresos-concept]]
 
-**related** ↔ [[aku-bmc-concept]] · [[aku-variables-segmentacion-concept]] · [[aku-customer-persona-concept]] · [[aku-mass-market-strategy-concept]] · [[aku-segmentado-strategy-concept]] · [[aku-cliente-buscando-vs-no-concept]] · [[aku-modelo-plataforma-concept]] · [[aku-tam-sam-som-concept]] · [[aku-desarrollo-mercados-concept]]
+**related** ↔ [[aku-bmc-concept]] · [[aku-variables-segmentacion-concept]] · [[aku-customer-persona-concept]] · [[aku-mass-market-strategy-concept]] · [[aku-segmentado-strategy-concept]] · [[aku-cliente-buscando-vs-no-concept]] · [[aku-modelo-plataforma-concept]] · [[aku-tam-sam-som-concept]] · [[aku-desarrollo-mercados-concept]] · [[aku-importancia-segmentacion-claim]] · [[aku-segmentos-vs-personas-concept]]

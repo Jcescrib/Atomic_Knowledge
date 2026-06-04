@@ -40,6 +40,7 @@ relations:
     - aku-segmentos-de-clientes-concept
     - aku-liderazgo-en-coste-concept
     - aku-estrategia-diferenciacion-concept
+    - aku-comparativa-mass-market-vs-nicho-concept
 
 sources:
   - "raw/cursos/power-mba/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md"
@@ -52,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-segmentado-strategy-concept]] · [[aku-nicho-strategy-concept]] · [[aku-segmentos-de-clientes-concept]] · [[aku-liderazgo-en-coste-concept]] · [[aku-estrategia-diferenciacion-concept]]
+**related** ↔ [[aku-segmentado-strategy-concept]] · [[aku-nicho-strategy-concept]] · [[aku-segmentos-de-clientes-concept]] · [[aku-liderazgo-en-coste-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-comparativa-mass-market-vs-nicho-concept]]

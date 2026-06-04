@@ -43,6 +43,7 @@ relations:
     - aku-oceano-azul-concept
     - aku-lead-magnet-concept
     - aku-starving-crowd-concept
+    - aku-dirigirse-a-no-buscadores-mayor-conversion-claim
 
 sources:
   - "raw/cursos/power-mba/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md"
@@ -55,4 +56,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-segmentos-de-clientes-concept]] · [[aku-no-clientes-concept]] · [[aku-oceano-rojo-concept]] · [[aku-oceano-azul-concept]] · [[aku-lead-magnet-concept]] · [[aku-starving-crowd-concept]]
+**related** ↔ [[aku-segmentos-de-clientes-concept]] · [[aku-no-clientes-concept]] · [[aku-oceano-rojo-concept]] · [[aku-oceano-azul-concept]] · [[aku-lead-magnet-concept]] · [[aku-starving-crowd-concept]] · [[aku-dirigirse-a-no-buscadores-mayor-conversion-claim]]
