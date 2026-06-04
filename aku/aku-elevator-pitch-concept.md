@@ -28,7 +28,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports: [aku-elevator-pitch-template-3-lineas-method, aku-elevator-pitch-template-mi-empresa-ha-creado-method, aku-elevator-pitch-template-soy-ceo-method, aku-elevator-pitch-bloques-adicionales-concept, aku-elevator-pitch-template-anglosajon-completo-method]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -46,5 +46,7 @@ status_note: ""
 ---
 
 ## Relaciones
+
+**supports** → [[aku-elevator-pitch-template-3-lineas-method]] · [[aku-elevator-pitch-template-mi-empresa-ha-creado-method]] · [[aku-elevator-pitch-template-soy-ceo-method]] · [[aku-elevator-pitch-bloques-adicionales-concept]] · [[aku-elevator-pitch-template-anglosajon-completo-method]]
 
 **related** ↔ [[aku-pitch-deck-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-vender-una-accion-concept]] · [[aku-brandscript-storybrand-concept]] · [[aku-pitch-deck-one-liner-concept]]
