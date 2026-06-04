@@ -39,6 +39,7 @@ relations:
     - aku-beneficio-emocional-concept
     - aku-problema-resuelto-concept
     - aku-propuesta-de-valor-concept
+    - aku-vete-a-beneficios-ultimos-claim
 
 sources:
   - "raw/cursos/power-mba/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a.md"
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-power-value-modelo-concept]] · [[aku-beneficio-emocional-concept]] · [[aku-problema-resuelto-concept]] · [[aku-propuesta-de-valor-concept]]
+**related** ↔ [[aku-power-value-modelo-concept]] · [[aku-beneficio-emocional-concept]] · [[aku-problema-resuelto-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-vete-a-beneficios-ultimos-claim]]
