@@ -6,14 +6,14 @@ Router and validation dashboard. Updated by `/ingest`, `/pipeline`, `/lint`, and
 
 | Layer | Active | Draft | Deprecated | Validated-false / failing |
 |---|---|---|---|---|
-| AKU | 181 | — | 0 | 0 |
-| TAKU | 0 | 28 | 0 | 0 |
+| AKU | 194 | — | 0 | 0 |
+| TAKU | 0 | 32 | 0 | 0 |
 
-By AKU class: **145 concept**, **4 method**, **32 claim** · all `unvalidated` · 174 `epistemic_type: sourced` at `llm_confidence: 0.50`, 5 `sourced` at `0.60` (post-dedup: segmentos, propuesta-valor, product-market-fit, nicho-strategy, lead-magnet), 1 `sourced` at `0.20` (mas-valor-menos-coste, −0.30 por contradicción con atrapado-medio/Porter), 1 `tacit` at `null` (Joan's free-bootstrap-plataforma claim).
+By AKU class: **156 concept**, **4 method**, **34 claim** · all `unvalidated` · 187 `epistemic_type: sourced` at `llm_confidence: 0.50`, 5 `sourced` at `0.60` (post-dedup: segmentos, propuesta-valor, product-market-fit, nicho-strategy, lead-magnet), 1 `sourced` at `0.20` (mas-valor-menos-coste, −0.30 por contradicción con atrapado-medio/Porter), 1 `tacit` at `null` (Joan's free-bootstrap-plataforma claim).
 
-Graph: **1 connected component**, 0 bidirectional errors (AKU 181/181 simétrico, 0 body-drift; TAKU 28/28 simétrico — verificado por script).
+Graph: **1 connected component**, 0 bidirectional errors (AKU 194/194 simétrico, 0 body-drift; TAKU 32/32 simétrico — verificado por script).
 
-_Last updated: 2026-06-04 (cleanup: eliminados los 15 AKUs Kolenda de tesis-nuclear; 16 PDFs de 5.6-nickkolenda marcados pending-reingestion para desglose capítulo a capítulo tras completar Power MBA. raw/ conservados. Antes: pipeline módulos 04 + 05 completos — +106 AKUs/+17 TAKUs; tras cleanup quedan 181 AKUs / 28 TAKUs)._
+_Last updated: 2026-06-04 (pipeline módulo 06 «Emprendimiento» COMPLETO — 5 PDFs: +13 AKUs / +4 TAKUs (fit proyecto-emprendedor, fuentes de financiación, pitch deck, elevator pitch). La «tabla en imagen» ya venía extraída como texto por MinerU; añadido render markdown + caption del diagrama MATCH. Antes: módulos 04+05 + cleanup Kolenda → 181 AKUs; ahora 194 AKUs / 32 TAKUs)._
 
 ## Pending validation queue
 

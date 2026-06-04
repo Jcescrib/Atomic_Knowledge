@@ -311,3 +311,5 @@ Source: `raw/6-3-4-templates-elevator-pitch/...md`. Plantillas de elevator pitch
 
 ### Módulo 06 COMPLETO (5 PDFs)
 13 AKUs nuevos (11 concept + 2 claim) + 4 TAKUs (eleccion-proyecto-fit, mapa-fuentes-financiacion, pitch-deck [framework], elevator-pitch [technique]). 0 PDFs fallidos. La «tabla en imagen» resultó ya extraída por MinerU como texto/HTML; añadido render markdown de la tabla de financiación; única imagen real (diagrama MATCH) captionada.
+
+Verificación final módulo 06: 194 AKUs / 32 TAKUs, 1 componente conectado, 0 asimetrías (AKU+TAKU), 0 body-drift, 0 wikilinks rotos. Reparada 1 asimetría intra-06 (propuesta-de-valor ← elevator-pitch).
