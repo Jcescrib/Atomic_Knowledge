@@ -37,7 +37,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-money-model-tres-etapas-concept
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -53,3 +54,5 @@ status_note: ""
 **supported_by** ← [[aku-attraction-offer-concept]] · [[aku-upsell-offer-concept]] · [[aku-downsell-offer-concept]] · [[aku-continuity-offer-concept]]
 
 **supports** → [[aku-money-model-concept]]
+
+**related** ↔ [[aku-money-model-tres-etapas-concept]]

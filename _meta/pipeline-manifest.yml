@@ -1450,13 +1450,16 @@ sources:
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
-    ingested: null   # book mode — en curso
-    chapters_ingested: [money-model-y-attraction-offers, attraction-offers-restantes, upsell-offers, downsell-offers, continuity-offers]
-    aku_count: 16
-    taku_count: 4
+    ingested: 2026-06-04   # book mode COMPLETO (6 capítulos)
+    chapters_ingested: [money-model-y-attraction-offers, attraction-offers-restantes, upsell-offers, downsell-offers, continuity-offers, make-your-money-model]
+    aku_count: 17
+    taku_count: 5
     last_commit: ""
     notes: >
       Libro 3 de la trilogía Hormozi (Acquisition.com Vol. III, el más reciente). source-tag:
       hormozi. Estructura: money model + 4 tipos de oferta (attraction/upsell/downsell/continuity)
-      + make your money model. Cap.1: money-model, cuatro-tipos-oferta, attraction-offer,
-      win-your-money-back. INTEGRATE (a): money-model↔client-financed-acquisition/cac-payback.
+      + make your money model. 17 AKUs nuevos, 5 TAKUs (5 frameworks por tipo de oferta +
+      capstone construir-money-model). INTEGRATE (a): money-model↔client-financed-acquisition/
+      cac-payback (puente clave libro2↔libro3); continuity↔fidelizacion/churn/cltv-subscription;
+      attraction↔modelo-free/lead-magnet; win-your-money-back↔garantia-condicional.
+      LIBRO COMPLETO (2026-06-04). verify_graph 532 AKUs / 0 errores.

@@ -36,6 +36,7 @@ relations:
     - aku-cac-payback-concept
     - aku-ltgp-cac-3-a-1-claim
     - aku-money-model-concept
+    - aku-money-model-tres-etapas-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cac-payback-concept]] · [[aku-ltgp-cac-3-a-1-claim]] · [[aku-money-model-concept]]
+**related** ↔ [[aku-cac-payback-concept]] · [[aku-ltgp-cac-3-a-1-claim]] · [[aku-money-model-concept]] · [[aku-money-model-tres-etapas-concept]]

@@ -28,6 +28,7 @@ epistemic_type: sourced
 relations:
   supported_by:
     - aku-cuatro-tipos-oferta-concept
+    - aku-money-model-tres-etapas-concept
   supports: []
   constrained_by: []
   constrains: []
@@ -50,6 +51,6 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-cuatro-tipos-oferta-concept]]
+**supported_by** ← [[aku-cuatro-tipos-oferta-concept]] · [[aku-money-model-tres-etapas-concept]]
 
 **related** ↔ [[aku-client-financed-acquisition-concept]] · [[aku-cac-payback-concept]] · [[aku-upsell-offer-concept]]
