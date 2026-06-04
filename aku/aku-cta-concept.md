@@ -45,6 +45,7 @@ relations:
     - aku-reason-why-aumenta-accion-claim
     - aku-anuncio-callout-value-cta-concept
     - aku-cta-hormozi-concept
+    - aku-copy-incluir-cta-claim
 
 sources:
   - raw/cursos/power-mba/5-6-3-anexo-consejos-para-cta/5-6-3-anexo-consejos-para-cta.md
@@ -58,4 +59,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cro-concept]] · [[aku-vender-una-accion-concept]] · [[aku-landing-page-concept]] · [[aku-test-de-humo-concept]] · [[aku-descripcion-anuncio-google-concept]] · [[aku-hacks-copywriting-concept]] · [[aku-palabras-frases-persuasivas-concept]] · [[aku-reason-why-aumenta-accion-claim]] · [[aku-anuncio-callout-value-cta-concept]] · [[aku-cta-hormozi-concept]]
+**related** ↔ [[aku-cro-concept]] · [[aku-vender-una-accion-concept]] · [[aku-landing-page-concept]] · [[aku-test-de-humo-concept]] · [[aku-descripcion-anuncio-google-concept]] · [[aku-hacks-copywriting-concept]] · [[aku-palabras-frases-persuasivas-concept]] · [[aku-reason-why-aumenta-accion-claim]] · [[aku-anuncio-callout-value-cta-concept]] · [[aku-cta-hormozi-concept]] · [[aku-copy-incluir-cta-claim]]

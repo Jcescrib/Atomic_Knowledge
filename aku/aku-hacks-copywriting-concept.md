@@ -26,7 +26,14 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-copy-investiga-antes-de-escribir-claim
+    - aku-copy-objetivo-definido-claim
+    - aku-copy-incluir-titular-claim
+    - aku-copy-promesas-concretas-claim
+    - aku-copy-aportar-pruebas-claim
+    - aku-copy-sin-florituras-claim
+    - aku-copy-incluir-cta-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -44,5 +51,7 @@ status_note: ""
 ---
 
 ## Relaciones
+
+**supports** → [[aku-copy-investiga-antes-de-escribir-claim]] · [[aku-copy-objetivo-definido-claim]] · [[aku-copy-incluir-titular-claim]] · [[aku-copy-promesas-concretas-claim]] · [[aku-copy-aportar-pruebas-claim]] · [[aku-copy-sin-florituras-claim]] · [[aku-copy-incluir-cta-claim]]
 
 **related** ↔ [[aku-cta-concept]] · [[aku-palabras-frases-persuasivas-concept]] · [[aku-formulas-titulos-potentes-concept]] · [[aku-libros-copywriting-recomendados-concept]]
