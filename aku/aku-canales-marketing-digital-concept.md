@@ -28,14 +28,29 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-seo-aso-concept, aku-sem-paid-search-concept, aku-paid-social-concept, aku-red-display-concept, aku-programatica-concept, aku-email-marketing-concept, aku-marketing-afiliados-concept, aku-publicidad-offline-concept]
+  supported_by:
+    - aku-seo-aso-concept
+    - aku-sem-paid-search-concept
+    - aku-paid-social-concept
+    - aku-red-display-concept
+    - aku-programatica-concept
+    - aku-email-marketing-concept
+    - aku-marketing-afiliados-concept
+    - aku-publicidad-offline-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-canales-de-distribucion-concept, aku-atribucion-concept, aku-publicidad-nativa-concept, aku-marketing-influencers-concept, aku-inbound-marketing-concept, aku-content-marketing-concept]
+  related:
+    - aku-canales-de-distribucion-concept
+    - aku-atribucion-concept
+    - aku-publicidad-nativa-concept
+    - aku-marketing-influencers-concept
+    - aku-inbound-marketing-concept
+    - aku-content-marketing-concept
+    - aku-core-four-concept
 
 sources:
   - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
@@ -50,4 +65,4 @@ status_note: ""
 
 **supported_by** ← [[aku-seo-aso-concept]] · [[aku-sem-paid-search-concept]] · [[aku-paid-social-concept]] · [[aku-red-display-concept]] · [[aku-programatica-concept]] · [[aku-email-marketing-concept]] · [[aku-marketing-afiliados-concept]] · [[aku-publicidad-offline-concept]]
 
-**related** ↔ [[aku-canales-de-distribucion-concept]] · [[aku-atribucion-concept]] · [[aku-publicidad-nativa-concept]] · [[aku-marketing-influencers-concept]] · [[aku-inbound-marketing-concept]] · [[aku-content-marketing-concept]]
+**related** ↔ [[aku-canales-de-distribucion-concept]] · [[aku-atribucion-concept]] · [[aku-publicidad-nativa-concept]] · [[aku-marketing-influencers-concept]] · [[aku-inbound-marketing-concept]] · [[aku-content-marketing-concept]] · [[aku-core-four-concept]]

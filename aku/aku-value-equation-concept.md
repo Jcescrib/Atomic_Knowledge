@@ -42,6 +42,7 @@ relations:
     - aku-perception-is-reality-value-claim
     - aku-problemas-a-soluciones-concept
     - aku-trim-and-stack-concept
+    - aku-costes-ocultos-oferta-gratis-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -56,4 +57,4 @@ status_note: ""
 
 **supported_by** ← [[aku-dream-outcome-concept]] · [[aku-perceived-likelihood-achievement-concept]] · [[aku-time-delay-value-concept]] · [[aku-effort-sacrifice-concept]]
 
-**related** ↔ [[aku-ecuacion-valor-claim]] · [[aku-propuesta-de-valor-concept]] · [[aku-focus-bottom-value-equation-claim]] · [[aku-perception-is-reality-value-claim]] · [[aku-problemas-a-soluciones-concept]] · [[aku-trim-and-stack-concept]]
+**related** ↔ [[aku-ecuacion-valor-claim]] · [[aku-propuesta-de-valor-concept]] · [[aku-focus-bottom-value-equation-claim]] · [[aku-perception-is-reality-value-claim]] · [[aku-problemas-a-soluciones-concept]] · [[aku-trim-and-stack-concept]] · [[aku-costes-ocultos-oferta-gratis-claim]]
