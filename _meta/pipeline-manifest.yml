@@ -998,9 +998,22 @@ sources:
     converter: mineru
     converted: 2026-06-04
     image_processing: 2026-06-04
-    ingested: null
+    ingested: 2026-06-04
     chapters_ingested: []
-    aku_count: 0
-    taku_count: 0
+    aku_count: 15
+    taku_count: 6
     last_commit: ""
-    notes: "Convertido + imágenes captionadas (7 informational: estilos autoritario/delegativo, 4 arquetipos cultura, 4 organigramas). Ingesta pendiente en esta misma pasada."
+    notes: >
+      «Liderar a otros». 10 concept + 5 claim AKUs (liderar-vs-gestionar, liderazgo-situacional,
+      estilos-autoritario-delegativo, vision-empresa, cascada-estrategica-ejecucion, cultura-corporativa,
+      arquetipos-cultura, estructuras-organizacionales, okr, ajuste-objetivos-tradicional + claims
+      mix-liderazgo-gestion, complementar-habilidades, estructura-cultura-siguen-estrategia,
+      cultura-saludable-ventaja, revision-anual-falla-incertidumbre). 6 framework TAKUs. DEDUP: misión
+      org → aku-proposito-mision-concept (+2ª fuente, 0.50→0.60, enriquecido); valores org →
+      aku-valores-marca-concept (+2ª fuente, 0.50→0.60, enriquecido). 7 imágenes informational
+      captionadas (estilos autoritario/delegativo, 4 arquetipos cultura 2×2, 4 organigramas
+      funcional/divisional/matriz/proyectos). INTEGRATE: 5 puentes nivel (a) anclados en texto para
+      reunificar el grafo (ikigai↔proposito-mision, tres-capas→liderazgo-situacional,
+      cultura↔cascada, liderazgo↔tests-personalidad, autoevaluacion↔minimalismo-digital). Bridge
+      tres-capas→liderar-vs-gestionar cerrado. Grafo final: 263 AKUs / 43 TAKUs, 1 componente, 0
+      asimetrías, 0 body-drift.

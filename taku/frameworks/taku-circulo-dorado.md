@@ -41,7 +41,7 @@ human_certainty:
   method: ""
 
 taku_relations:
-  complementary: [taku-plan-de-marca]
+  complementary: [taku-plan-de-marca, taku-mision-vision-valores]
   alternative_to: []
   precedes: []
   follows: []
@@ -92,4 +92,4 @@ marcas excepcionales comunican de dentro hacia fuera: empiezan por el porqué
 ## Relaciones
 
 **justified_by** ← [[aku-circulo-dorado-concept]] · [[aku-proposito-mision-concept]]
-**complementary** ↔ [[taku-plan-de-marca]]
+**complementary** ↔ [[taku-plan-de-marca]] · [[taku-mision-vision-valores]]

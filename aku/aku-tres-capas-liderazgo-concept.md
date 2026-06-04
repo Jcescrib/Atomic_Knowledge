@@ -25,7 +25,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: [aku-liderazgo-concept]
-  supports: [aku-autoevaluacion-cuerpo-mente-alma-concept]
+  supports: [aku-autoevaluacion-cuerpo-mente-alma-concept, aku-liderar-vs-gestionar-concept, aku-liderazgo-situacional-concept]
   constrained_by: [aku-autoliderazgo-prerequisito-claim]
   constrains: []
   context_breaks_at: []
@@ -45,5 +45,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-liderazgo-concept]]
-**supports** → [[aku-autoevaluacion-cuerpo-mente-alma-concept]]
+**supports** → [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-liderar-vs-gestionar-concept]] · [[aku-liderazgo-situacional-concept]]
 **constrained_by** ← [[aku-autoliderazgo-prerequisito-claim]]

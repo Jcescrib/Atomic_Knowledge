@@ -380,3 +380,32 @@ Convertidos 3 PDFs del módulo 07 vía MinerU. Ingesta de 7.1.1 + 7.1.2 (plantil
 - Bridge pendiente: aku-tres-capas-liderazgo supports → aku-liderar-vs-gestionar-concept (se cablea
   en la ingesta de 7.2.1, donde nace ese AKU).
 Verificación post-7.1.x: sin asimetrías ni body-drift dentro del lote.
+
+## 2026-06-04 — pipeline módulo 07 (Leadership) — 7.2.1 «Liderar a otros»
+**+15 AKUs** (10 concept + 5 claim) + **6 framework TAKUs**.
+- Concepts: liderar-vs-gestionar, liderazgo-situacional, estilos-autoritario-delegativo, vision-empresa,
+  cascada-estrategica-ejecucion (misión→visión→valores→objetivos→iniciativas→ejecución),
+  cultura-corporativa, arquetipos-cultura (Clan/Adhocracia/Jerarquía/Mercado, modelo Cameron & Quinn),
+  estructuras-organizacionales (funcional/divisional/matriz/proyectos), okr, ajuste-objetivos-tradicional.
+- Claims: mix-liderazgo-gestion-segun-trabajo (constrains liderar-vs-gestionar),
+  complementar-habilidades-equipo, estructura-cultura-siguen-estrategia (constrains cultura + estructuras),
+  cultura-saludable-ventaja, revision-anual-falla-incertidumbre (constrains ajuste-tradicional).
+- TAKUs: taku-liderar-vs-gestionar, taku-estilos-liderazgo-situacional, taku-mision-vision-valores,
+  taku-arquetipos-cultura, taku-estructuras-organizacionales, taku-okr (todos framework, draft).
+  Complementarios: liderar-vs-gestionar↔estilos-situacional, mision-vision-valores↔okr,
+  mision-vision-valores↔circulo-dorado (Sinek, anclado en texto), arquetipos-cultura↔estructuras.
+- DEDUP (enriquecimiento, sin AKU nuevo):
+  - misión organizacional → aku-proposito-mision-concept: +raw/7-2-1 (2ª fuente, 0.50→0.60), statement
+    enriquecido con framing organizacional/ejecución (Tesla, estrella polar, círculo dorado).
+  - valores organizacionales → aku-valores-marca-concept: +raw/7-2-1 (2ª fuente, 0.50→0.60), statement
+    enriquecido con cultura/ejecución.
+- INTEGRATE (paso 5.5) — el módulo 07 creó 6 componentes; reunificado a 1 con 5 puentes nivel (a)
+  anclados literalmente en el texto de las fuentes (agente aplica, reporta):
+  1. ikigai ↔ proposito-mision (related) — 7.2.1: «Podemos compararlo con el propósito de nuestra vida personal».
+  2. tres-capas → liderazgo-situacional (supports) — capa «liderar equipos» que el liderazgo situacional desarrolla.
+  3. cultura-corporativa ↔ cascada-estrategica (related) — la cultura «depende de la misión/visión/valores».
+  4. liderazgo ↔ tests-personalidad (related) — el liderazgo debe «alinearse con tu personalidad».
+  5. autoevaluacion ↔ minimalismo-digital (related) — el área Mente evalúa «desconectar de distracciones digitales».
+  + bridge tres-capas → liderar-vs-gestionar (capa equipos/organizaciones).
+Verificación final módulo 07: 263 AKUs / 43 TAKUs, 1 componente conectado, 0 nodos aislados,
+0 asimetrías bidireccionales, 0 body-drift, 0 wikilinks rotos (script format-aware AKU+TAKU).

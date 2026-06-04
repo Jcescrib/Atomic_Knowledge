@@ -30,7 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related: [aku-tests-personalidad-concept]
 
 sources:
   - raw/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -44,3 +44,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-tres-capas-liderazgo-concept]]
+**related** ↔ [[aku-tests-personalidad-concept]]

@@ -32,7 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related: [aku-liderazgo-concept]
 
 sources:
   - raw/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -47,3 +47,4 @@ status_note: ""
 
 **supports** → [[aku-mbti-concept]]
 **constrained_by** ← [[aku-test-personalidad-solo-preferencias-claim]]
+**related** ↔ [[aku-liderazgo-concept]]

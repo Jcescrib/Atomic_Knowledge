@@ -32,7 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-mindfulness-concept, aku-ikigai-concept]
+  related: [aku-mindfulness-concept, aku-ikigai-concept, aku-minimalismo-digital-concept]
 
 sources:
   - raw/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -47,4 +47,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-tres-capas-liderazgo-concept]]
-**related** ↔ [[aku-mindfulness-concept]] · [[aku-ikigai-concept]]
+**related** ↔ [[aku-mindfulness-concept]] · [[aku-ikigai-concept]] · [[aku-minimalismo-digital-concept]]

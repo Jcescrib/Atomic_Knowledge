@@ -6,14 +6,14 @@ Router and validation dashboard. Updated by `/ingest`, `/pipeline`, `/lint`, and
 
 | Layer | Active | Draft | Deprecated | Validated-false / failing |
 |---|---|---|---|---|
-| AKU | 233 | — | 0 | 0 |
-| TAKU | 0 | 32 | 0 | 0 |
+| AKU | 263 | — | 0 | 0 |
+| TAKU | 0 | 43 | 0 | 0 |
 
-By AKU class: **195 concept**, **4 method**, **34 claim** · all `unvalidated` · 187 `epistemic_type: sourced` at `llm_confidence: 0.50`, 5 `sourced` at `0.60` (post-dedup: segmentos, propuesta-valor, product-market-fit, nicho-strategy, lead-magnet), 1 `sourced` at `0.20` (mas-valor-menos-coste, −0.30 por contradicción con atrapado-medio/Porter), 1 `tacit` at `null` (Joan's free-bootstrap-plataforma claim).
+By AKU class: **216 concept**, **4 method**, **43 claim** · all `unvalidated` · `sourced` mayoría at `llm_confidence: 0.50`, 7 `sourced` at `0.60` (post-dedup: segmentos, propuesta-valor, product-market-fit, nicho-strategy, lead-magnet, **proposito-mision**, **valores-marca**), 1 `sourced` at `0.20` (mas-valor-menos-coste, −0.30 por contradicción con atrapado-medio/Porter), 1 `tacit` at `null` (Joan's free-bootstrap-plataforma claim).
 
-Graph: **1 connected component**, 0 bidirectional errors (AKU 233/233 simétrico, 0 body-drift, 0 wikilinks rotos; TAKU 32/32 simétrico — verificado por script). Resueltas las 2 ambigüedades como AKU propio: `content-marketing` (↔ inbound/canales) y `publicidad-dirigida-mvp` (↔ test-de-humo/performance/outbound).
+Graph: **1 connected component**, 0 bidirectional errors (AKU 263/263 simétrico, 0 body-drift, 0 wikilinks rotos; TAKU 43/43 simétrico — verificado por script format-aware). Módulo 07 (Leadership) creó temporalmente 6 componentes; reunificado a 1 con 5 puentes INTEGRATE nivel (a) anclados en texto (ikigai↔proposito-mision, tres-capas→liderazgo-situacional, cultura↔cascada, liderazgo↔tests-personalidad, autoevaluacion↔minimalismo-digital).
 
-_Last updated: 2026-06-04 (reingesta diferencial módulos 02–06 aplicando «nunca omitir AKU por escasez de info»: +37 AKUs de conceptos con identidad propia antes plegados — métricas (lifetime), plataformas (clasificados), estimación de mercado, tipos de MVP, estructuras de mercado (monopolio/oligopolio), M&A (fusión/adquisición/JV/alianza), tipos de crecimiento, 7 leyes de Cialdini, 8 canales de marketing, 6 fuentes de financiación. Pendientes de consulta: content-marketing (vs inbound), publicidad-dirigida (vs performance/test-de-humo). Kolenda excluido. Previo: pipeline módulo 06 COMPLETO — 5 PDFs: +13 AKUs / +4 TAKUs (fit proyecto-emprendedor, fuentes de financiación, pitch deck, elevator pitch). La «tabla en imagen» ya venía extraída como texto por MinerU; añadido render markdown + caption del diagrama MATCH. Antes: módulos 04+05 + cleanup Kolenda → 181 AKUs; ahora 194 AKUs / 32 TAKUs)._
+_Last updated: 2026-06-04 (pipeline módulo 07 «Leadership» COMPLETO — 3 PDFs: +30 AKUs / +11 TAKUs. 7.1.1 «Liderarse a uno mismo» (+15 AKUs, 5 TAKUs: liderazgo personal, autoevaluación cuerpo-mente-alma, mindfulness, MBTI, deep work, Ikigai), 7.1.2 plantilla (0 AKUs, plegada en autoevaluación), 7.2.1 «Liderar a otros» (+15 AKUs, 6 TAKUs: liderar-vs-gestionar, liderazgo situacional, misión/visión/valores, cultura corporativa + 4 arquetipos, estructuras organizativas, OKR). Dedup: misión y valores organizacionales enriquecen proposito-mision y valores-marca (0.50→0.60). Previo: reingesta diferencial 02–06 → 233 AKUs / 32 TAKUs)._
 
 ## Pending validation queue
 
