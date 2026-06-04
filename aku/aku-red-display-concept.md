@@ -26,7 +26,7 @@ epistemic_type: sourced
 relations:
   supported_by: []
   supports: [aku-canales-marketing-digital-concept, aku-clasificacion-display-por-movimiento-concept]
-  constrained_by: []
+  constrained_by: [aku-publicidad-invasiva-contraproducente-claim]
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
@@ -45,4 +45,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-canales-marketing-digital-concept]] · [[aku-clasificacion-display-por-movimiento-concept]]
+**constrained_by** ← [[aku-publicidad-invasiva-contraproducente-claim]]
 **related** ↔ [[aku-programatica-concept]] · [[aku-publicidad-nativa-concept]]

@@ -27,7 +27,7 @@ epistemic_type: sourced
 relations:
   supported_by: [aku-red-display-concept]
   supports: [aku-robapaginas-concept, aku-banner-display-concept, aku-formatos-flotantes-concept, aku-display-video-in-stream-concept, aku-display-video-out-stream-concept, aku-incentivized-ads-concept]
-  constrained_by: []
+  constrained_by: [aku-publicidad-invasiva-contraproducente-claim]
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
@@ -46,5 +46,6 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-red-display-concept]]
+**constrained_by** ← [[aku-publicidad-invasiva-contraproducente-claim]]
 **supports** → [[aku-robapaginas-concept]] · [[aku-banner-display-concept]] · [[aku-formatos-flotantes-concept]] · [[aku-display-video-in-stream-concept]] · [[aku-display-video-out-stream-concept]] · [[aku-incentivized-ads-concept]]
 **related** ↔ [[aku-adaptacion-display-a-movil-claim]]
