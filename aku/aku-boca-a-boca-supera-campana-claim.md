@@ -30,7 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-leyes-persuasion-cialdini-concept]
+  related: [aku-leyes-persuasion-cialdini-concept, aku-cialdini-prueba-social-concept]
 
 sources:
   - raw/5-8-1-conceptos-clave-recomendacion-y-viralizacion/5-8-1-conceptos-clave-recomendacion-y-viralizacion.md
@@ -44,4 +44,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-recomendacion-vs-viralizacion-concept]]
-**related** ↔ [[aku-leyes-persuasion-cialdini-concept]]
+**related** ↔ [[aku-leyes-persuasion-cialdini-concept]] · [[aku-cialdini-prueba-social-concept]]

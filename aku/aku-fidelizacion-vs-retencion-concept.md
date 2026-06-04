@@ -34,7 +34,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-churn-rate-concept, aku-costes-de-cambio-concept, aku-power-funnel-concept, aku-flywheel-funnel-concept]
+  related: [aku-churn-rate-concept, aku-costes-de-cambio-concept, aku-power-funnel-concept, aku-flywheel-funnel-concept, aku-cialdini-pertenencia-concept]
 
 sources:
   - raw/5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on/5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on.md
@@ -48,4 +48,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-retencion-no-es-mala-claim]]
-**related** ↔ [[aku-churn-rate-concept]] · [[aku-costes-de-cambio-concept]] · [[aku-power-funnel-concept]] · [[aku-flywheel-funnel-concept]]
+**related** ↔ [[aku-churn-rate-concept]] · [[aku-costes-de-cambio-concept]] · [[aku-power-funnel-concept]] · [[aku-flywheel-funnel-concept]] · [[aku-cialdini-pertenencia-concept]]

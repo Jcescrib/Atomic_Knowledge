@@ -28,7 +28,7 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by: [aku-seo-aso-concept, aku-sem-paid-search-concept, aku-paid-social-concept, aku-red-display-concept, aku-programatica-concept, aku-email-marketing-concept, aku-marketing-afiliados-concept, aku-publicidad-offline-concept]
   supports: []
   constrained_by: []
   constrains: []
@@ -47,5 +47,7 @@ status_note: ""
 ---
 
 ## Relaciones
+
+**supported_by** ← [[aku-seo-aso-concept]] · [[aku-sem-paid-search-concept]] · [[aku-paid-social-concept]] · [[aku-red-display-concept]] · [[aku-programatica-concept]] · [[aku-email-marketing-concept]] · [[aku-marketing-afiliados-concept]] · [[aku-publicidad-offline-concept]]
 
 **related** ↔ [[aku-canales-de-distribucion-concept]] · [[aku-atribucion-concept]] · [[aku-publicidad-nativa-concept]] · [[aku-marketing-influencers-concept]] · [[aku-inbound-marketing-concept]]

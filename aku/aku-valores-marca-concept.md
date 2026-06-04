@@ -33,7 +33,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-proposito-mision-concept, aku-atributos-marca-concept]
+  related: [aku-proposito-mision-concept, aku-atributos-marca-concept, aku-cialdini-simpatia-concept]
 
 sources:
   - raw/4-4-branding/4-4-branding.md
@@ -46,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-proposito-mision-concept]] · [[aku-atributos-marca-concept]]
+**related** ↔ [[aku-proposito-mision-concept]] · [[aku-atributos-marca-concept]] · [[aku-cialdini-simpatia-concept]]

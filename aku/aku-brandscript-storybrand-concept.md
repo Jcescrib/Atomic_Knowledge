@@ -32,7 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-estilo-editorial-concept, aku-vender-una-accion-concept, aku-propuesta-de-valor-concept, aku-elevator-pitch-concept]
+  related: [aku-estilo-editorial-concept, aku-vender-una-accion-concept, aku-propuesta-de-valor-concept, aku-elevator-pitch-concept, aku-cialdini-simpatia-concept]
 
 sources:
   - raw/5-1-clave-powerselling/5-1-clave-powerselling.md
@@ -45,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-estilo-editorial-concept]] · [[aku-vender-una-accion-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-elevator-pitch-concept]]
+**related** ↔ [[aku-estilo-editorial-concept]] · [[aku-vender-una-accion-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-elevator-pitch-concept]] · [[aku-cialdini-simpatia-concept]]

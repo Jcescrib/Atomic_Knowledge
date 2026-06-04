@@ -337,3 +337,10 @@ Re-escaneo de los raw del módulo 04. 10 conceptos nuevos con identidad propia (
 - `fastscaling`, `crecimiento-clasico-startup`, `crecimiento-clasico-scaleup` (4.5) → support tipos-estrategias-crecimiento (junto a blitzscaling); startup ↔ lean-startup/PMF.
 PLEGADOS deliberadamente (degradaciones de una escala / contenido estructurado, no entidades con mecanismo propio), marcados como candidatos: niveles de brand-awareness (top-of-mind/recall/recognition/unaware), etapas de organización (familia→nación), atomización, conglomerado.
 Verificado: 210 AKUs, 0 asimetrías, 0 body-drift.
+
+## 2026-06-04 — reingesta diferencial (módulo 05; Kolenda EXCLUIDO)
+Re-escaneo de los raw nativos del módulo 05 (5.1–5.8). El sub-bundle 5.6-nickkolenda se OMITE deliberadamente (preferencia de usuario: pendiente de reingesta capítulo a capítulo). 15 conceptos nuevos con identidad propia, antes plegados en umbrellas:
+- 7 leyes de Cialdini (5.1): `cialdini-reciprocidad`, `cialdini-compromiso-consistencia`, `cialdini-prueba-social`, `cialdini-simpatia`, `cialdini-autoridad`, `cialdini-escasez`, `cialdini-pertenencia` → support leyes-persuasion-cialdini.
+- 8 canales (5.4.1): `seo-aso`, `sem-paid-search`, `paid-social`, `red-display`, `programatica`, `email-marketing`, `marketing-afiliados`, `publicidad-offline` → support canales-marketing-digital.
+AMBIGÜEDAD pendiente (no creado): `content-marketing` — solapa fuertemente con `inbound-marketing` (¿AKU propio o faceta?). PLEGADOS (degradación/overlap): niveles de brand-awareness, PR, redes-sociales-orgánicas.
+Verificado: 0 asimetrías, 0 body-drift.
