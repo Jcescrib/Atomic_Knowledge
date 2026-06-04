@@ -28,7 +28,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports: [aku-ga-usuarios-concept, aku-ga-sesiones-concept, aku-ga-paginas-vistas-concept, aku-ga-paginas-vistas-unicas-concept, aku-ga-paginas-por-sesion-method, aku-ga-duracion-media-sesion-method, aku-ga-bounce-rate-concept, aku-ga-page-value-method]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -47,4 +47,5 @@ status_note: ""
 
 ## Relaciones
 
+**supports** → [[aku-ga-usuarios-concept]] · [[aku-ga-sesiones-concept]] · [[aku-ga-paginas-vistas-concept]] · [[aku-ga-paginas-vistas-unicas-concept]] · [[aku-ga-paginas-por-sesion-method]] · [[aku-ga-duracion-media-sesion-method]] · [[aku-ga-bounce-rate-concept]] · [[aku-ga-page-value-method]]
 **related** ↔ [[aku-plan-de-medicion-concept]] · [[aku-metricas-accionables-concept]]
