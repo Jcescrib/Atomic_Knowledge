@@ -954,3 +954,53 @@ sources:
     taku_count: 1
     last_commit: ""
     notes: "Plantillas elevator pitch. 1 concept + technique TAKU taku-elevator-pitch. Sin imágenes."
+
+  - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\07-Leadership\\7.1.1-Recursos.+Liderarse+a+uno+mismo+OK.pdf"
+    name_slug: "7-1-1-recursos-liderarse-a-uno-mismo-ok"
+    raw_path: "raw/7-1-1-recursos-liderarse-a-uno-mismo-ok/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: 2026-06-04
+    ingested: 2026-06-04
+    chapters_ingested: []
+    aku_count: 15
+    taku_count: 5
+    last_commit: ""
+    notes: >
+      Primer PDF del módulo 07 (Leadership) — «Liderarse a uno mismo». 11 concept +
+      4 claim AKUs (liderazgo, tres-capas, autoevaluacion cuerpo-mente-alma, mente-de-mono,
+      mindfulness, tests-personalidad, MBTI, objetivos-personales, deep-work, minimalismo-digital,
+      ikigai + claims autoliderazgo-prerequisito, test-solo-preferencias, compartir-objetivos,
+      proposito-personal-sostenibilidad). 5 TAKUs (tool autoevaluacion + 3 technique + framework ikigai).
+      7 imágenes: 4 informational captionadas (diana 3-capas, ciclo mindfulness, 4 dim MBTI, Venn
+      Ikigai), 3 decorativas (mente-de-mono, portadas Deep Work / Digital Minimalism). Cluster nuevo
+      de liderazgo personal; bridge a 7.2.1 vía tres-capas → liderar-vs-gestionar.
+
+  - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\07-Leadership\\7.1.2-Plantilla+de+evaluación+liderarse+a+uno+mismo.pdf"
+    name_slug: "7-1-2-plantilla-de-evaluaci-on-liderarse-a-uno-mismo"
+    raw_path: "raw/7-1-2-plantilla-de-evaluaci-on-liderarse-a-uno-mismo/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: n/a
+    ingested: 2026-06-04
+    chapters_ingested: []
+    aku_count: 0
+    taku_count: 0
+    last_commit: ""
+    notes: >
+      Plantilla descargable de la autoevaluación cuerpo-mente-alma (idéntica a la tabla de 7.1.1).
+      0 AKUs nuevos; añadida como 2ª fuente de aku-autoevaluacion-cuerpo-mente-alma-concept SIN bump
+      de confianza (misma lección 7.1, no independiente). Imágenes = iconos decorativos en HTML (n/a).
+
+  - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\07-Leadership\\7.2.1-Recurso_Liderar_a_otros.pdf"
+    name_slug: "7-2-1-recurso-liderar-a-otros"
+    raw_path: "raw/7-2-1-recurso-liderar-a-otros/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: 2026-06-04
+    ingested: null
+    chapters_ingested: []
+    aku_count: 0
+    taku_count: 0
+    last_commit: ""
+    notes: "Convertido + imágenes captionadas (7 informational: estilos autoritario/delegativo, 4 arquetipos cultura, 4 organigramas). Ingesta pendiente en esta misma pasada."

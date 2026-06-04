@@ -358,3 +358,25 @@ Las 2 ambigüedades pendientes resueltas como AKU propio (decisión del humano):
 - `aku-content-marketing-concept` (canal/táctica distinta de inbound) → related ↔ inbound-marketing, canales-marketing-digital.
 - `aku-publicidad-dirigida-mvp-concept` (instancia del paraguas test-de-humo: lanzar publicidad real, no el producto, para medir demanda) → related ↔ test-de-humo, performance-marketing, outbound-marketing.
 Grafo final reingesta diferencial: 233 AKUs / 32 TAKUs, 1 componente, 0 asimetrías, 0 body-drift, 0 wikilinks rotos.
+
+## 2026-06-04 — pipeline módulo 07 (Leadership) — 7.1.x «Liderarse a uno mismo»
+Convertidos 3 PDFs del módulo 07 vía MinerU. Ingesta de 7.1.1 + 7.1.2 (plantilla):
+**+15 AKUs** (11 concept + 4 claim) + **5 TAKUs** (1 tool, 3 technique, 1 framework).
+- Concepts: liderazgo, tres-capas-liderazgo (self→teams→orgs), autoevaluacion-cuerpo-mente-alma,
+  mente-de-mono, mindfulness, tests-personalidad, mbti, objetivos-personales, deep-work,
+  minimalismo-digital, ikigai.
+- Claims: autoliderazgo-prerequisito (constrains tres-capas), test-personalidad-solo-preferencias
+  (constrains tests-personalidad), compartir-objetivos-compromiso, proposito-personal-sostenibilidad
+  (constrains ikigai).
+- TAKUs: taku-autoevaluacion-liderazgo-personal (tool), taku-practica-mindfulness (technique,
+  complementary deep-work), taku-deep-work (technique), taku-objetivos-personales (technique,
+  complementary ikigai), taku-ikigai (framework).
+- 7.1.2 es la plantilla descargable de la autoevaluación cuerpo-mente-alma: 0 AKUs nuevos; añadida
+  como 2ª fuente de aku-autoevaluacion-cuerpo-mente-alma-concept SIN bump de confianza (misma lección
+  7.1, no fuente independiente — regla de independencia). Sus imágenes son iconos decorativos dentro
+  de la tabla HTML (image_processing n/a).
+- Imágenes 7.1.1: 4 informational captionadas (3-capas diana, ciclo mindfulness, 4 dimensiones MBTI,
+  Venn Ikigai); 3 decorativas (mente-de-mono, portadas Deep Work / Digital Minimalism de Newport).
+- Bridge pendiente: aku-tres-capas-liderazgo supports → aku-liderar-vs-gestionar-concept (se cablea
+  en la ingesta de 7.2.1, donde nace ese AKU).
+Verificación post-7.1.x: sin asimetrías ni body-drift dentro del lote.
