@@ -36,6 +36,7 @@ relations:
   related:
     - aku-innovar-vs-competir-concept
     - aku-early-adopter-concept
+    - aku-commit-to-niche-claim
 
 sources:
   - "raw/cursos/power-mba/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md"
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-nicho-strategy-concept]]
 
-**related** ↔ [[aku-innovar-vs-competir-concept]] · [[aku-early-adopter-concept]]
+**related** ↔ [[aku-innovar-vs-competir-concept]] · [[aku-early-adopter-concept]] · [[aku-commit-to-niche-claim]]
