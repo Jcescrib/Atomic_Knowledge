@@ -44,7 +44,7 @@ relations:
     - aku-cac-payback-concept
 
 sources:
-  - "raw/2-2-1-tiposmotorescrecimiento/2-2-1-tiposmotorescrecimiento.md"
+  - "raw/cursos/power-mba/2-2-1-tiposmotorescrecimiento/2-2-1-tiposmotorescrecimiento.md"
 
 created: 2026-06-03
 updated: 2026-06-03

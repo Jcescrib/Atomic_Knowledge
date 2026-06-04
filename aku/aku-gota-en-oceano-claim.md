@@ -29,7 +29,7 @@ relations:
   contradicts: []
   related: []
 sources:
-  - raw/4-4-branding/4-4-branding.md
+  - raw/cursos/power-mba/4-4-branding/4-4-branding.md
 created: 2026-06-03
 updated: 2026-06-03
 status: active

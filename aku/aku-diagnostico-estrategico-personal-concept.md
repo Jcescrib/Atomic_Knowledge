@@ -36,7 +36,7 @@ relations:
   related: [aku-objetivos-personales-concept, aku-autoevaluacion-cuerpo-mente-alma-concept, aku-claridad-objetivos-fortalezas-exito-claim, aku-alineacion-laboral-motivaciones-felicidad-claim, aku-descubrir-fortalezas-feedback-externo-concept, aku-motivaciones-desde-experiencias-pasadas-concept]
 
 sources:
-  - raw/08-01-01-diagnostico-desarrollo-personal/08-01-01-diagnostico-desarrollo-personal.md
+  - raw/cursos/power-mba/08-01-01-diagnostico-desarrollo-personal/08-01-01-diagnostico-desarrollo-personal.md
 
 created: 2026-06-04
 updated: 2026-06-04

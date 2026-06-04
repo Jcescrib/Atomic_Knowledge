@@ -35,7 +35,7 @@ relations:
   related: [aku-content-marketing-concept, aku-herramientas-gestion-rrss-concept, aku-herramientas-creacion-anuncios-facebook-concept]
 
 sources:
-  - raw/12-1-herramientas-de-creaci-on-de-contenido-para-rrss/12-1-herramientas-de-creaci-on-de-contenido-para-rrss.md
+  - raw/cursos/power-mba/12-1-herramientas-de-creaci-on-de-contenido-para-rrss/12-1-herramientas-de-creaci-on-de-contenido-para-rrss.md
 
 created: 2026-06-04
 updated: 2026-06-04

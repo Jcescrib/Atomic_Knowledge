@@ -35,7 +35,7 @@ relations:
   related: [aku-test-de-humo-concept, aku-performance-marketing-concept, aku-outbound-marketing-concept]
 
 sources:
-  - raw/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md
+  - raw/cursos/power-mba/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md
 
 created: 2026-06-04
 updated: 2026-06-04

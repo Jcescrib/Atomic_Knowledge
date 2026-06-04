@@ -34,7 +34,7 @@ relations:
   related: [aku-concordancia-palabras-clave-concept, aku-concordancia-alcance-relevancia-tradeoff-claim]
 
 sources:
-  - raw/concordancia-de-palabras-google/concordancia-de-palabras-google.md
+  - raw/cursos/power-mba/concordancia-de-palabras-google/concordancia-de-palabras-google.md
 
 created: 2026-06-04
 updated: 2026-06-04

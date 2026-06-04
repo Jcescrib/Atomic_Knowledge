@@ -34,7 +34,7 @@ relations:
   related: [aku-venture-capital-concept, aku-pitch-deck-concept]
 
 sources:
-  - raw/6-3-1-vender-tu-proyecto/6-3-1-vender-tu-proyecto.md
+  - raw/cursos/power-mba/6-3-1-vender-tu-proyecto/6-3-1-vender-tu-proyecto.md
 
 created: 2026-06-04
 updated: 2026-06-04

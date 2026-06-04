@@ -36,7 +36,7 @@ relations:
   related: [aku-liderazgo-en-coste-concept, aku-diferenciacion-sector-concept, aku-propuesta-de-valor-concept, aku-mass-market-strategy-concept, aku-posicionamiento-concept, aku-circulo-dorado-concept]
 
 sources:
-  - raw/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
+  - raw/cursos/power-mba/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
 
 created: 2026-06-03
 updated: 2026-06-03

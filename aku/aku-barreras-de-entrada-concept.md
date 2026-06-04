@@ -36,7 +36,7 @@ relations:
   related: [aku-network-effect-concept, aku-masa-critica-concept, aku-ventaja-competitiva-concept, aku-liderazgo-en-coste-concept, aku-liderazgo-coste-imitable-claim, aku-integracion-vertical-adelante-concept, aku-marca-potente-beneficios-claim]
 
 sources:
-  - raw/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
+  - raw/cursos/power-mba/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
 
 created: 2026-06-03
 updated: 2026-06-03

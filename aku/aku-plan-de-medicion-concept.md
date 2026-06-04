@@ -35,7 +35,7 @@ relations:
   related: [aku-objetivos-negocio-concept, aku-metricas-accionables-concept, aku-metricas-google-analytics-concept, aku-codigos-utm-concept, aku-tipos-objetivos-google-analytics-concept]
 
 sources:
-  - raw/15-1-plantilla-plan-de-medici-on-xlsx/15-1-plantilla-plan-de-medici-on-xlsx.md
+  - raw/cursos/power-mba/15-1-plantilla-plan-de-medici-on-xlsx/15-1-plantilla-plan-de-medici-on-xlsx.md
 
 created: 2026-06-04
 updated: 2026-06-04

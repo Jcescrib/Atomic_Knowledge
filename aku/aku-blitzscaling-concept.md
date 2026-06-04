@@ -35,7 +35,7 @@ relations:
   related: [aku-motor-crecimiento-concept, aku-ventaja-competitiva-concept, aku-innovar-vs-competir-concept, aku-etapas-organizacion-concept, aku-venture-capital-concept, aku-fastscaling-concept]
 
 sources:
-  - raw/4-5-blitzscaling/4-5-blitzscaling.md
+  - raw/cursos/power-mba/4-5-blitzscaling/4-5-blitzscaling.md
 
 created: 2026-06-03
 updated: 2026-06-03

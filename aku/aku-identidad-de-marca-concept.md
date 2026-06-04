@@ -34,7 +34,7 @@ relations:
   related: [aku-marca-concept, aku-esencia-mas-que-logo-claim, aku-plan-de-marca-concept]
 
 sources:
-  - raw/4-4-branding/4-4-branding.md
+  - raw/cursos/power-mba/4-4-branding/4-4-branding.md
 
 created: 2026-06-03
 updated: 2026-06-03

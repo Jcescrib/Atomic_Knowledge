@@ -34,7 +34,7 @@ relations:
   related: [aku-comparativa-redes-sociales-concept]
 
 sources:
-  - raw/12-3-tabla-comparativa-rrss/12-3-tabla-comparativa-rrss.md
+  - raw/cursos/power-mba/12-3-tabla-comparativa-rrss/12-3-tabla-comparativa-rrss.md
 
 created: 2026-06-04
 updated: 2026-06-04

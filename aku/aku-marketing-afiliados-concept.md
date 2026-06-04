@@ -33,8 +33,8 @@ relations:
   related: []
 
 sources:
-  - raw/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
-  - raw/5-4-11-listado-de-plataformas-de-afiliados/5-4-11-listado-de-plataformas-de-afiliados.md
+  - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
+  - raw/cursos/power-mba/5-4-11-listado-de-plataformas-de-afiliados/5-4-11-listado-de-plataformas-de-afiliados.md
 
 created: 2026-06-04
 updated: 2026-06-04

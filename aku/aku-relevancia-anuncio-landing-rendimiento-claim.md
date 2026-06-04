@@ -34,7 +34,7 @@ relations:
   related: [aku-landing-page-concept, aku-anuncio-texto-google-ads-concept]
 
 sources:
-  - raw/anuncios-de-texto-google-marketing/anuncios-de-texto-google-marketing.md
+  - raw/cursos/power-mba/anuncios-de-texto-google-marketing/anuncios-de-texto-google-marketing.md
 
 created: 2026-06-04
 updated: 2026-06-04

@@ -40,7 +40,7 @@ relations:
     - aku-huevo-gallina-concept
 
 sources:
-  - "raw/2-3-conceptos-clave-de-las-plataformas/2-3-conceptos-clave-de-las-plataformas.md"
+  - "raw/cursos/power-mba/2-3-conceptos-clave-de-las-plataformas/2-3-conceptos-clave-de-las-plataformas.md"
 
 created: 2026-06-03
 updated: 2026-06-03

@@ -37,7 +37,7 @@ relations:
   related: [aku-plan-de-medicion-concept, aku-metricas-accionables-concept]
 
 sources:
-  - raw/15-2-principales-m-etricas-google-analytics-pptx/15-2-principales-m-etricas-google-analytics-pptx.md
+  - raw/cursos/power-mba/15-2-principales-m-etricas-google-analytics-pptx/15-2-principales-m-etricas-google-analytics-pptx.md
 
 created: 2026-06-04
 updated: 2026-06-04

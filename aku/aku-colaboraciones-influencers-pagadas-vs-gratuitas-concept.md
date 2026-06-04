@@ -36,7 +36,7 @@ relations:
   related: [aku-marketing-influencers-concept, aku-clausulas-contrato-influencers-concept]
 
 sources:
-  - raw/14-02-colaboraciones-pagadas-pptx/14-02-colaboraciones-pagadas-pptx.md
+  - raw/cursos/power-mba/14-02-colaboraciones-pagadas-pptx/14-02-colaboraciones-pagadas-pptx.md
 
 created: 2026-06-04
 updated: 2026-06-04

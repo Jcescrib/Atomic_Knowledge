@@ -33,7 +33,7 @@ relations:
   related: [aku-product-market-fit-concept]
 
 sources:
-  - raw/5-8-1-conceptos-clave-recomendacion-y-viralizacion/5-8-1-conceptos-clave-recomendacion-y-viralizacion.md
+  - raw/cursos/power-mba/5-8-1-conceptos-clave-recomendacion-y-viralizacion/5-8-1-conceptos-clave-recomendacion-y-viralizacion.md
 
 created: 2026-06-03
 updated: 2026-06-03

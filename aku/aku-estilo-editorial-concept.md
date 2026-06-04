@@ -32,7 +32,7 @@ relations:
     - aku-brandscript-storybrand-concept
     - aku-publicidad-nativa-concept
 sources:
-  - raw/5-1-clave-powerselling/5-1-clave-powerselling.md
+  - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
 created: 2026-06-03
 updated: 2026-06-03
 status: active

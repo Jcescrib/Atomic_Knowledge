@@ -36,7 +36,7 @@ relations:
   related: [aku-network-effect-concept, aku-masa-critica-concept, aku-motor-crecimiento-concept]
 
 sources:
-  - raw/4-5-blitzscaling/4-5-blitzscaling.md
+  - raw/cursos/power-mba/4-5-blitzscaling/4-5-blitzscaling.md
 
 created: 2026-06-03
 updated: 2026-06-03

@@ -34,7 +34,7 @@ relations:
   related: [aku-liquidez-concept, aku-pasivo-concept]
 
 sources:
-  - raw/09-02-01-ratios-analisis-financieros/09-02-01-ratios-analisis-financieros.md
+  - raw/cursos/power-mba/09-02-01-ratios-analisis-financieros/09-02-01-ratios-analisis-financieros.md
 
 created: 2026-06-04
 updated: 2026-06-04

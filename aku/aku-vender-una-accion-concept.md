@@ -36,7 +36,7 @@ relations:
   related: [aku-conversacion-mente-cliente-concept, aku-estilo-editorial-concept, aku-leyes-persuasion-cialdini-concept, aku-cta-concept, aku-brandscript-storybrand-concept, aku-levantar-financiacion-como-ventas-claim, aku-elevator-pitch-concept]
 
 sources:
-  - raw/5-1-clave-powerselling/5-1-clave-powerselling.md
+  - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
 
 created: 2026-06-03
 updated: 2026-06-03

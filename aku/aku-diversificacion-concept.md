@@ -35,7 +35,7 @@ relations:
   related: [aku-socio-industrial-concept]
 
 sources:
-  - raw/4-3-estrategias-de-crecimiento/4-3-estrategias-de-crecimiento.md
+  - raw/cursos/power-mba/4-3-estrategias-de-crecimiento/4-3-estrategias-de-crecimiento.md
 
 created: 2026-06-03
 updated: 2026-06-03

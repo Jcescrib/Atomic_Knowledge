@@ -34,7 +34,7 @@ relations:
   related: [aku-boca-a-boca-supera-campana-claim, aku-marketing-influencers-concept]
 
 sources:
-  - raw/5-1-clave-powerselling/5-1-clave-powerselling.md
+  - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
 
 created: 2026-06-04
 updated: 2026-06-04

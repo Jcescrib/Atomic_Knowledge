@@ -36,7 +36,7 @@ relations:
   related: [aku-cac-concept, aku-canales-de-distribucion-concept, aku-power-funnel-concept, aku-performance-marketing-concept, aku-canales-marketing-digital-concept, aku-publicidad-offline-concept, aku-codigos-utm-concept]
 
 sources:
-  - raw/5-3-visi-on-estrat-egica/5-3-visi-on-estrat-egica.md
+  - raw/cursos/power-mba/5-3-visi-on-estrat-egica/5-3-visi-on-estrat-egica.md
 
 created: 2026-06-03
 updated: 2026-06-03

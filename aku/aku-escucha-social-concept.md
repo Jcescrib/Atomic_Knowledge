@@ -35,7 +35,7 @@ relations:
   related: [aku-herramientas-gestion-rrss-concept]
 
 sources:
-  - raw/12-2-herramientas-de-gesti-on-de-rrss/12-2-herramientas-de-gesti-on-de-rrss.md
+  - raw/cursos/power-mba/12-2-herramientas-de-gesti-on-de-rrss/12-2-herramientas-de-gesti-on-de-rrss.md
 
 created: 2026-06-04
 updated: 2026-06-04

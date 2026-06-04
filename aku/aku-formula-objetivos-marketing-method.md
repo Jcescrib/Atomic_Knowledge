@@ -37,7 +37,7 @@ relations:
   related: [aku-objetivos-negocio-concept, aku-palancas-marketing-digital-concept, aku-cltv-minus-cac-concept, aku-roi-vs-roas-concept]
 
 sources:
-  - raw/5-3-2-objetivos-formula-que-lo-relaciona-todo/5-3-2-objetivos-formula-que-lo-relaciona-todo.md
+  - raw/cursos/power-mba/5-3-2-objetivos-formula-que-lo-relaciona-todo/5-3-2-objetivos-formula-que-lo-relaciona-todo.md
 
 created: 2026-06-03
 updated: 2026-06-03

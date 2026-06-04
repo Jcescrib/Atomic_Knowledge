@@ -87,6 +87,18 @@ cmd_discover() {
   find "$folder" -type f -iname '*.md' 2>/dev/null | sort
 }
 
+# Decide the raw/ subpath for a source file based on its origin path.
+# Nick Kolenda books → raw/libros/kolenda ; Power MBA modules → raw/cursos/power-mba ;
+# anything else → raw (root, generic fallback).
+raw_subdir_for() {
+  local src="$1"
+  case "$src" in
+    *nickkolenda*|*Kolenda*|*kolenda*) echo "raw/libros/kolenda" ;;
+    *"Apuntes Power MBA"*|*"Power MBA"*) echo "raw/cursos/power-mba" ;;
+    *) echo "raw" ;;
+  esac
+}
+
 cmd_convert() {
   local pdf="${1:-}"
   [ -n "$pdf" ] || { echo "ERROR: convert requires a PDF path" >&2; exit 1; }
@@ -128,7 +140,7 @@ cmd_convert() {
     exit 3
   fi
 
-  local dest="$VAULT_ROOT/raw/$slug"
+  local dest="$VAULT_ROOT/$(raw_subdir_for "$pdf")/$slug"
   mkdir -p "$dest"
 
   mv "$md" "$dest/$slug.md"
@@ -155,7 +167,7 @@ cmd_adopt() {
   local base; base="$(basename "$md")"
   local name="${base%.[mM][dD]}"
   local slug; slug="$(slugify "$name")"
-  local dest="$VAULT_ROOT/raw/$slug"
+  local dest="$VAULT_ROOT/$(raw_subdir_for "$md")/$slug"
   mkdir -p "$dest"
 
   cp "$md" "$dest/$slug.md"

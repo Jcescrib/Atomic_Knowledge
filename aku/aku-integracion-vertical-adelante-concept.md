@@ -37,7 +37,7 @@ relations:
   related: [aku-canal-directo-concept, aku-canal-indirecto-concept, aku-barreras-de-entrada-concept, aku-ventaja-competitiva-concept]
 
 sources:
-  - raw/4-3-estrategias-de-crecimiento/4-3-estrategias-de-crecimiento.md
+  - raw/cursos/power-mba/4-3-estrategias-de-crecimiento/4-3-estrategias-de-crecimiento.md
 
 created: 2026-06-03
 updated: 2026-06-03

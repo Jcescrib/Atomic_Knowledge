@@ -34,7 +34,7 @@ relations:
   related: [aku-barreras-de-entrada-concept, aku-economias-de-escala-concept]
 
 sources:
-  - raw/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
+  - raw/cursos/power-mba/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
 
 created: 2026-06-03
 updated: 2026-06-03

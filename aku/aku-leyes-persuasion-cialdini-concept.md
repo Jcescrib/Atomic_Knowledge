@@ -44,7 +44,7 @@ relations:
     - aku-palabras-frases-persuasivas-concept
     - aku-libros-copywriting-recomendados-concept
 sources:
-  - raw/5-1-clave-powerselling/5-1-clave-powerselling.md
+  - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
 created: 2026-06-03
 updated: 2026-06-03
 status: active

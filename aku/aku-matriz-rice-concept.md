@@ -42,7 +42,7 @@ relations:
     - aku-oceano-azul-concept
 
 sources:
-  - "raw/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave.md"
+  - "raw/cursos/power-mba/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave.md"
 
 created: 2026-06-03
 updated: 2026-06-03

@@ -33,7 +33,7 @@ relations:
   related: [aku-diferenciacion-sector-concept, aku-margen-volumen-patron-sectorial-claim]
 
 sources:
-  - raw/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
+  - raw/cursos/power-mba/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
 
 created: 2026-06-03
 updated: 2026-06-03

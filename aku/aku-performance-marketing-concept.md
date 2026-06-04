@@ -35,7 +35,7 @@ relations:
   related: [aku-outbound-marketing-concept, aku-atribucion-concept, aku-brand-awareness-concept, aku-publicidad-dirigida-mvp-concept]
 
 sources:
-  - raw/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
+  - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
 
 created: 2026-06-03
 updated: 2026-06-03

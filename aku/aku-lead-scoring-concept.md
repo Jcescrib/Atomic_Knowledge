@@ -34,7 +34,7 @@ relations:
   related: [aku-lead-nurturing-concept, aku-marketing-automation-concept]
 
 sources:
-  - raw/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google.md
+  - raw/cursos/power-mba/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google.md
 
 created: 2026-06-03
 updated: 2026-06-03

@@ -35,7 +35,7 @@ relations:
   related: [aku-diagnostico-estrategico-personal-concept, aku-objetivos-personales-concept]
 
 sources:
-  - raw/08-01-02-herramientasdedesarrollopersonal/08-01-02-herramientasdedesarrollopersonal.md
+  - raw/cursos/power-mba/08-01-02-herramientasdedesarrollopersonal/08-01-02-herramientasdedesarrollopersonal.md
 
 created: 2026-06-04
 updated: 2026-06-04

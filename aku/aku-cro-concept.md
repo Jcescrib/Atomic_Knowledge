@@ -36,7 +36,7 @@ relations:
     - aku-landing-page-concept
     - aku-cta-concept
 sources:
-  - raw/5-6-1-conceptos-clave-conversi-on/5-6-1-conceptos-clave-conversi-on.md
+  - raw/cursos/power-mba/5-6-1-conceptos-clave-conversi-on/5-6-1-conceptos-clave-conversi-on.md
 created: 2026-06-03
 updated: 2026-06-03
 status: active

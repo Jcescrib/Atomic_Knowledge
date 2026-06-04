@@ -37,7 +37,7 @@ relations:
   related: [aku-fidelizacion-vs-retencion-concept, aku-power-funnel-concept, aku-inbound-marketing-concept]
 
 sources:
-  - raw/5-8-2-flywheel-funnel/5-8-2-flywheel-funnel.md
+  - raw/cursos/power-mba/5-8-2-flywheel-funnel/5-8-2-flywheel-funnel.md
 
 created: 2026-06-03
 updated: 2026-06-03

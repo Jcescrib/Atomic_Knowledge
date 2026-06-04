@@ -35,7 +35,7 @@ relations:
   related: [aku-enterprise-value-concept, aku-coste-fondos-propios-ke-concept, aku-cash-flow-accionistas-concept]
 
 sources:
-  - raw/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
+  - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
 
 created: 2026-06-04
 updated: 2026-06-04

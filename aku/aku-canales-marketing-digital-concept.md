@@ -38,7 +38,7 @@ relations:
   related: [aku-canales-de-distribucion-concept, aku-atribucion-concept, aku-publicidad-nativa-concept, aku-marketing-influencers-concept, aku-inbound-marketing-concept, aku-content-marketing-concept]
 
 sources:
-  - raw/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
+  - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
 
 created: 2026-06-03
 updated: 2026-06-03

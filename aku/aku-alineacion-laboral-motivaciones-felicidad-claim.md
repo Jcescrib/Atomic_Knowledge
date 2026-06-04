@@ -33,7 +33,7 @@ relations:
   related: [aku-diagnostico-estrategico-personal-concept]
 
 sources:
-  - raw/08-01-01-diagnostico-desarrollo-personal/08-01-01-diagnostico-desarrollo-personal.md
+  - raw/cursos/power-mba/08-01-01-diagnostico-desarrollo-personal/08-01-01-diagnostico-desarrollo-personal.md
 
 created: 2026-06-04
 updated: 2026-06-04

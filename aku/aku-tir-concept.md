@@ -34,7 +34,7 @@ relations:
   related: [aku-van-concept, aku-van-tir-equivalencia-claim]
 
 sources:
-  - raw/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
+  - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
 
 created: 2026-06-04
 updated: 2026-06-04

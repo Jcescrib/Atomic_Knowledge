@@ -36,8 +36,8 @@ relations:
   related: [aku-barreras-de-entrada-concept, aku-integracion-vertical-adelante-concept, aku-circulo-dorado-concept, aku-marca-potente-beneficios-claim, aku-blitzscaling-concept, aku-blitzscaling-cuando-oportunidad-enorme-claim, aku-fit-proyecto-emprendedor-concept]
 
 sources:
-  - raw/4-2-1-intro-estrategias-competitivas/4-2-1-intro-estrategias-competitivas.md
-  - raw/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
+  - raw/cursos/power-mba/4-2-1-intro-estrategias-competitivas/4-2-1-intro-estrategias-competitivas.md
+  - raw/cursos/power-mba/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
 
 created: 2026-06-03
 updated: 2026-06-03

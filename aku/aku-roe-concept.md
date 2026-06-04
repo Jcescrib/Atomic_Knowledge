@@ -35,7 +35,7 @@ relations:
   related: [aku-estructura-de-capital-concept, aku-apalancamiento-aumenta-roe-claim, aku-roa-concept, aku-apalancamiento-financiero-concept, aku-beneficio-neto-concept]
 
 sources:
-  - raw/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
+  - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
 
 created: 2026-06-04
 updated: 2026-06-04

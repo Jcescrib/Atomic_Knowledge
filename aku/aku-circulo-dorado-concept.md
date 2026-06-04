@@ -36,7 +36,7 @@ relations:
   related: [aku-ventaja-competitiva-concept, aku-estrategia-diferenciacion-concept, aku-esencia-mas-que-logo-claim]
 
 sources:
-  - raw/4-4-branding/4-4-branding.md
+  - raw/cursos/power-mba/4-4-branding/4-4-branding.md
 
 created: 2026-06-03
 updated: 2026-06-03

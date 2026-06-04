@@ -37,8 +37,8 @@ relations:
   related: [aku-objetivos-negocio-concept, aku-palancas-marketing-digital-concept, aku-funnel-corto-vs-largo-concept, aku-motor-crecimiento-concept, aku-lead-magnet-concept, aku-calidad-vs-cantidad-trafico-concept, aku-lead-concept, aku-estados-lead-funnel-concept, aku-cro-concept, aku-cuello-botella-funnel-concept, aku-fidelizacion-vs-retencion-concept, aku-flywheel-funnel-concept, aku-atribucion-concept, aku-medicion-resultados-influencers-concept]
 
 sources:
-  - raw/5-3-visi-on-estrat-egica/5-3-visi-on-estrat-egica.md
-  - raw/5-3-1-tabla-power-funnel/5-3-1-tabla-power-funnel.md
+  - raw/cursos/power-mba/5-3-visi-on-estrat-egica/5-3-visi-on-estrat-egica.md
+  - raw/cursos/power-mba/5-3-1-tabla-power-funnel/5-3-1-tabla-power-funnel.md
 
 created: 2026-06-03
 updated: 2026-06-03

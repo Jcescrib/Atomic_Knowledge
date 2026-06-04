@@ -36,7 +36,7 @@ relations:
   related: [aku-marketing-influencers-concept, aku-power-funnel-concept]
 
 sources:
-  - raw/14-06-medici-on-resultados-influencers-pptx/14-06-medici-on-resultados-influencers-pptx.md
+  - raw/cursos/power-mba/14-06-medici-on-resultados-influencers-pptx/14-06-medici-on-resultados-influencers-pptx.md
 
 created: 2026-06-04
 updated: 2026-06-04

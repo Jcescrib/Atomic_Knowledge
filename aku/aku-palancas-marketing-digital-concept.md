@@ -36,7 +36,7 @@ relations:
   related: [aku-objetivos-negocio-concept, aku-cltv-concept, aku-cac-concept, aku-cltv-minus-cac-concept, aku-formula-objetivos-marketing-method, aku-calidad-vs-cantidad-trafico-concept, aku-cro-concept, aku-power-funnel-concept]
 
 sources:
-  - raw/5-3-visi-on-estrat-egica/5-3-visi-on-estrat-egica.md
+  - raw/cursos/power-mba/5-3-visi-on-estrat-egica/5-3-visi-on-estrat-egica.md
 
 created: 2026-06-03
 updated: 2026-06-03

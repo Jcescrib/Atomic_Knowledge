@@ -34,7 +34,7 @@ relations:
   related: [aku-churn-rate-concept, aku-cltv-concept, aku-arpu-concept, aku-cltv-subscription-formula]
 
 sources:
-  - raw/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md
+  - raw/cursos/power-mba/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md
 
 created: 2026-06-04
 updated: 2026-06-04

@@ -50,7 +50,7 @@ relations:
     - aku-recomendacion-vs-viralizacion-concept
 
 sources:
-  - "raw/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md"
+  - "raw/cursos/power-mba/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md"
 
 created: 2026-06-03
 updated: 2026-06-03

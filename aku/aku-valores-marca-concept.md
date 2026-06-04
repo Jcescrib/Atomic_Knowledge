@@ -36,8 +36,8 @@ relations:
   related: [aku-proposito-mision-concept, aku-atributos-marca-concept, aku-cialdini-simpatia-concept]
 
 sources:
-  - raw/4-4-branding/4-4-branding.md
-  - raw/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
+  - raw/cursos/power-mba/4-4-branding/4-4-branding.md
+  - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
 
 created: 2026-06-03
 updated: 2026-06-04

@@ -37,7 +37,7 @@ relations:
   related: [aku-criterios-inversion-concept, aku-problem-solution-fit-concept, aku-tam-sam-som-concept, aku-bmc-concept, aku-elevator-pitch-concept]
 
 sources:
-  - raw/6-3-3-estructura-del-pitch-deck/6-3-3-estructura-del-pitch-deck.md
+  - raw/cursos/power-mba/6-3-3-estructura-del-pitch-deck/6-3-3-estructura-del-pitch-deck.md
 
 created: 2026-06-04
 updated: 2026-06-04

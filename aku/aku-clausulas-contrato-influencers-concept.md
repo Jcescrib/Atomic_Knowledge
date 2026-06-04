@@ -36,8 +36,8 @@ relations:
   related: [aku-marketing-influencers-concept, aku-colaboraciones-influencers-pagadas-vs-gratuitas-concept]
 
 sources:
-  - raw/14-03-cl-ausulas-de-un-contrato-con-influencers/14-03-cl-ausulas-de-un-contrato-con-influencers.md
-  - raw/14-05-modelo-contrato-stories/14-05-modelo-contrato-stories.md
+  - raw/cursos/power-mba/14-03-cl-ausulas-de-un-contrato-con-influencers/14-03-cl-ausulas-de-un-contrato-con-influencers.md
+  - raw/cursos/power-mba/14-05-modelo-contrato-stories/14-05-modelo-contrato-stories.md
 
 created: 2026-06-04
 updated: 2026-06-04

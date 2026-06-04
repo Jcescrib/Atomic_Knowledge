@@ -33,7 +33,7 @@ relations:
   related: [aku-venture-capital-concept, aku-fases-financiacion-concept]
 
 sources:
-  - raw/6-3-01-fuentes-financiacion-quien-ok/6-3-01-fuentes-financiacion-quien-ok.md
+  - raw/cursos/power-mba/6-3-01-fuentes-financiacion-quien-ok/6-3-01-fuentes-financiacion-quien-ok.md
 
 created: 2026-06-04
 updated: 2026-06-04

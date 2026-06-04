@@ -34,7 +34,7 @@ relations:
   related: [aku-cltv-cac-dual-optimization, aku-cac-concept, aku-cro-concept]
 
 sources:
-  - raw/5-3-visi-on-estrat-egica/5-3-visi-on-estrat-egica.md
+  - raw/cursos/power-mba/5-3-visi-on-estrat-egica/5-3-visi-on-estrat-egica.md
 
 created: 2026-06-03
 updated: 2026-06-03

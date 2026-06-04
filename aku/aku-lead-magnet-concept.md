@@ -36,8 +36,8 @@ relations:
   related: [aku-cliente-buscando-vs-no-concept, aku-leyes-persuasion-cialdini-concept, aku-power-funnel-concept, aku-inbound-marketing-concept, aku-lead-concept, aku-lista-de-espera-concept, aku-cialdini-reciprocidad-concept]
 
 sources:
-  - raw/5-1-clave-powerselling/5-1-clave-powerselling.md
-  - raw/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google.md
+  - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
+  - raw/cursos/power-mba/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google.md
 
 created: 2026-06-03
 updated: 2026-06-03

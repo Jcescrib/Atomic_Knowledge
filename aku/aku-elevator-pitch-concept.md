@@ -37,7 +37,7 @@ relations:
   related: [aku-pitch-deck-concept, aku-propuesta-de-valor-concept, aku-vender-una-accion-concept, aku-brandscript-storybrand-concept]
 
 sources:
-  - raw/6-3-4-templates-elevator-pitch/6-3-4-templates-elevator-pitch.md
+  - raw/cursos/power-mba/6-3-4-templates-elevator-pitch/6-3-4-templates-elevator-pitch.md
 
 created: 2026-06-04
 updated: 2026-06-04

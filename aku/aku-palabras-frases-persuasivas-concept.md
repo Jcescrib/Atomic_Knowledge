@@ -37,7 +37,7 @@ relations:
   related: [aku-hacks-copywriting-concept, aku-cta-concept, aku-leyes-persuasion-cialdini-concept]
 
 sources:
-  - raw/20-1-palabras-y-frases-que-te-ayudar-an-a-vender-m-as/20-1-palabras-y-frases-que-te-ayudar-an-a-vender-m-as.md
+  - raw/cursos/power-mba/20-1-palabras-y-frases-que-te-ayudar-an-a-vender-m-as/20-1-palabras-y-frases-que-te-ayudar-an-a-vender-m-as.md
 
 created: 2026-06-04
 updated: 2026-06-04

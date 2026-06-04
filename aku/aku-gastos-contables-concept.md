@@ -36,7 +36,7 @@ relations:
   related: [aku-estado-resultados-concept, aku-coste-mercancias-vendidas-concept, aku-amortizacion-concept, aku-provisiones-concept, aku-gastos-financieros-concept, aku-partidas-extraordinarias-concept, aku-estructura-de-costes-concept, aku-gastos-de-explotacion-concept, aku-sueldos-y-salarios-concept]
 
 sources:
-  - raw/09-01-02-detalle-cuentas-estado-resultados/09-01-02-detalle-cuentas-estado-resultados.md
+  - raw/cursos/power-mba/09-01-02-detalle-cuentas-estado-resultados/09-01-02-detalle-cuentas-estado-resultados.md
 
 created: 2026-06-04
 updated: 2026-06-04

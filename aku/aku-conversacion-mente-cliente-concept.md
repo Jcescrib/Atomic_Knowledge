@@ -35,7 +35,7 @@ relations:
   related: [aku-customer-persona-concept, aku-cosas-importantes-concept, aku-vender-una-accion-concept]
 
 sources:
-  - raw/5-1-clave-powerselling/5-1-clave-powerselling.md
+  - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
 
 created: 2026-06-03
 updated: 2026-06-03

@@ -34,7 +34,7 @@ relations:
   related: [aku-balance-situacion-concept, aku-capital-social-concept, aku-reservas-beneficios-no-distribuidos-concept, aku-ingresos-contables-concept]
 
 sources:
-  - raw/09-01-01-balancedesituacion/09-01-01-balancedesituacion.md
+  - raw/cursos/power-mba/09-01-01-balancedesituacion/09-01-01-balancedesituacion.md
 
 created: 2026-06-04
 updated: 2026-06-04

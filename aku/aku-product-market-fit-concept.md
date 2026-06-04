@@ -50,8 +50,8 @@ relations:
     - aku-crecimiento-clasico-startup-concept
 
 sources:
-  - "raw/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md"
-  - "raw/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos.md"
+  - "raw/cursos/power-mba/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md"
+  - "raw/cursos/power-mba/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos.md"
 
 created: 2026-06-03
 updated: 2026-06-03

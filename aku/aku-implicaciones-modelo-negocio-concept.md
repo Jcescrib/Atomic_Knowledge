@@ -37,7 +37,7 @@ relations:
   related: [aku-fit-proyecto-emprendedor-concept, aku-innovar-vs-competir-concept, aku-fuentes-financiacion-concept]
 
 sources:
-  - raw/6-1-01-fit-entre-tu-proyecto-y-tu/6-1-01-fit-entre-tu-proyecto-y-tu.md
+  - raw/cursos/power-mba/6-1-01-fit-entre-tu-proyecto-y-tu/6-1-01-fit-entre-tu-proyecto-y-tu.md
 
 created: 2026-06-04
 updated: 2026-06-04

@@ -4,8 +4,9 @@
 #
 # Schema per entry:
 #   original:           absolute path to the original source (PDF or .md)
-#   name_slug:          canonical slug (matches raw/<slug>/ folder)
-#   raw_path:           "raw/<slug>/" (or "raw/" for legacy flat sources)
+#   name_slug:          canonical slug (matches the leaf folder name)
+#   raw_path:           origin-organised path, e.g. "raw/cursos/power-mba/<slug>/"
+#                       or "raw/libros/<autor>/<slug>/" (bare "raw/<slug>/" = legacy fallback)
 #   converter:          mineru | preexisting | n/a
 #   converted:          YYYY-MM-DD | null
 #   image_processing:   YYYY-MM-DD | null | n/a (n/a if source has no images)
@@ -19,7 +20,7 @@
 sources:
   - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\02-Innovación en los modelos de negocio\\2.1-Análisis de un modelo de negocio- Innovacion - BMC.pdf"
     name_slug: "2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc"
-    raw_path: "raw/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/"
+    raw_path: "raw/cursos/power-mba/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/"
     converter: mineru
     converted: 2026-06-03
     image_processing: 2026-06-03
@@ -37,7 +38,7 @@ sources:
 
   - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\02-Innovación en los modelos de negocio\\2.2.1-Tiposmotorescrecimiento.pdf"
     name_slug: "2-2-1-tiposmotorescrecimiento"
-    raw_path: "raw/2-2-1-tiposmotorescrecimiento/"
+    raw_path: "raw/cursos/power-mba/2-2-1-tiposmotorescrecimiento/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -53,7 +54,7 @@ sources:
 
   - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\02-Innovación en los modelos de negocio\\2.2-Motores de crecimiento - proncipales métricas.pdf"
     name_slug: "2-2-motores-de-crecimiento-proncipales-m-etricas"
-    raw_path: "raw/2-2-motores-de-crecimiento-proncipales-m-etricas/"
+    raw_path: "raw/cursos/power-mba/2-2-motores-de-crecimiento-proncipales-m-etricas/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -72,7 +73,7 @@ sources:
 
   - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\02-Innovación en los modelos de negocio\\2.3-Conceptos clave de las plataformas.pdf"
     name_slug: "2-3-conceptos-clave-de-las-plataformas"
-    raw_path: "raw/2-3-conceptos-clave-de-las-plataformas/"
+    raw_path: "raw/cursos/power-mba/2-3-conceptos-clave-de-las-plataformas/"
     converter: mineru
     converted: 2026-06-03
     image_processing: 2026-06-03
@@ -90,7 +91,7 @@ sources:
 
   - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\02-Innovación en los modelos de negocio\\2.4-Segmentación y targeting Conceptos+clave+Clientes+y+mercado+objetivo.pdf"
     name_slug: "2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo"
-    raw_path: "raw/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/"
+    raw_path: "raw/cursos/power-mba/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/"
     converter: mineru
     converted: 2026-06-03
     image_processing: 2026-06-03
@@ -110,7 +111,7 @@ sources:
 
   - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\02-Innovación en los modelos de negocio\\2.5-Propuesta de valor - PROPUESTAS+DE+VALOR++Conceptos+Clave.+A.pdf"
     name_slug: "2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a"
-    raw_path: "raw/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/"
+    raw_path: "raw/cursos/power-mba/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/"
     converter: mineru
     converted: 2026-06-03
     image_processing: 2026-06-03
@@ -131,7 +132,7 @@ sources:
 
   - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\02-Innovación en los modelos de negocio\\2.6-oceano azul COMO+CREAR+PROPUESTAS+DE+VALOR+DISRUPTIVAS+Y+BUSCAR+PARA+TU+OCÉANO+AZUL+Conceptos+Clave.pdf"
     name_slug: "2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave"
-    raw_path: "raw/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave/"
+    raw_path: "raw/cursos/power-mba/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -154,7 +155,7 @@ sources:
 
   - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\03-Probando Modelos de Negocio y Lean Startup\\3.0.1-Lean StartUp+Lean+Startup+Recursos.pdf"
     name_slug: "3-0-1-lean-startup-lean-startup-recursos"
-    raw_path: "raw/3-0-1-lean-startup-lean-startup-recursos/"
+    raw_path: "raw/cursos/power-mba/3-0-1-lean-startup-lean-startup-recursos/"
     converter: mineru
     converted: 2026-06-03
     image_processing: 2026-06-03
@@ -177,7 +178,7 @@ sources:
 
   - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\03-Probando Modelos de Negocio y Lean Startup\\3.0.2-Probando modelos de negocio Testing+Business+Models+Recursos.pdf"
     name_slug: "3-0-2-probando-modelos-de-negocio-testing-business-models-recursos"
-    raw_path: "raw/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos/"
+    raw_path: "raw/cursos/power-mba/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -197,7 +198,7 @@ sources:
 
   - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\03-Probando Modelos de Negocio y Lean Startup\\3.01.01-Experiments+Template.pdf"
     name_slug: "3-01-01-experiments-template"
-    raw_path: "raw/3-01-01-experiments-template/"
+    raw_path: "raw/cursos/power-mba/3-01-01-experiments-template/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -217,7 +218,7 @@ sources:
 
   - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\04-Business and Marketing strategies\\4.1-análisis de un sector.pdf"
     name_slug: "4-1-an-alisis-de-un-sector"
-    raw_path: "raw/4-1-an-alisis-de-un-sector/"
+    raw_path: "raw/cursos/power-mba/4-1-an-alisis-de-un-sector/"
     converter: mineru
     converted: 2026-06-03
     image_processing: 2026-06-03
@@ -240,7 +241,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\04-Business and Marketing strategies\4.2.1-intro estrategias competitivas.pdf"
     name_slug: "4-2-1-intro-estrategias-competitivas"
-    raw_path: "raw/4-2-1-intro-estrategias-competitivas/"
+    raw_path: "raw/cursos/power-mba/4-2-1-intro-estrategias-competitivas/"
     converter: mineru
     converted: 2026-06-03
     image_processing: 2026-06-03
@@ -256,7 +257,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\04-Business and Marketing strategies\4.2.2 Estrategias competitivas.pdf"
     name_slug: "4-2-2-estrategias-competitivas"
-    raw_path: "raw/4-2-2-estrategias-competitivas/"
+    raw_path: "raw/cursos/power-mba/4-2-2-estrategias-competitivas/"
     converter: mineru
     converted: 2026-06-03
     image_processing: 2026-06-03
@@ -274,7 +275,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\04-Business and Marketing strategies\4.3-Estrategias de crecimiento.pdf"
     name_slug: "4-3-estrategias-de-crecimiento"
-    raw_path: "raw/4-3-estrategias-de-crecimiento/"
+    raw_path: "raw/cursos/power-mba/4-3-estrategias-de-crecimiento/"
     converter: mineru
     converted: 2026-06-03
     image_processing: 2026-06-03
@@ -289,7 +290,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\04-Business and Marketing strategies\4.4.Branding.pdf"
     name_slug: "4-4-branding"
-    raw_path: "raw/4-4-branding/"
+    raw_path: "raw/cursos/power-mba/4-4-branding/"
     converter: mineru
     converted: 2026-06-03
     image_processing: 2026-06-03
@@ -306,7 +307,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\04-Business and Marketing strategies\4.5.Blitzscaling.pdf"
     name_slug: "4-5-blitzscaling"
-    raw_path: "raw/4-5-blitzscaling/"
+    raw_path: "raw/cursos/power-mba/4-5-blitzscaling/"
     converter: mineru
     converted: 2026-06-03
     image_processing: 2026-06-03
@@ -323,7 +324,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.1-Clave+PowerSelling.pdf"
     name_slug: "5-1-clave-powerselling"
-    raw_path: "raw/5-1-clave-powerselling/"
+    raw_path: "raw/cursos/power-mba/5-1-clave-powerselling/"
     converter: mineru
     converted: 2026-06-03
     image_processing: 2026-06-03
@@ -340,7 +341,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.2 Métricas+clave+en+motores+de+crecimiento.pdf"
     name_slug: "5-2-m-etricas-clave-en-motores-de-crecimiento"
-    raw_path: "raw/5-2-m-etricas-clave-en-motores-de-crecimiento/"
+    raw_path: "raw/cursos/power-mba/5-2-m-etricas-clave-en-motores-de-crecimiento/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -355,7 +356,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.3 visión estratégica.pdf"
     name_slug: "5-3-visi-on-estrat-egica"
-    raw_path: "raw/5-3-visi-on-estrat-egica/"
+    raw_path: "raw/cursos/power-mba/5-3-visi-on-estrat-egica/"
     converter: mineru
     converted: 2026-06-03
     image_processing: 2026-06-03
@@ -370,7 +371,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.3.1-Tabla+Power+Funnel.pdf"
     name_slug: "5-3-1-tabla-power-funnel"
-    raw_path: "raw/5-3-1-tabla-power-funnel/"
+    raw_path: "raw/cursos/power-mba/5-3-1-tabla-power-funnel/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -385,7 +386,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.3.2-Objetivos_+formula+que+lo+relaciona+todo.pdf"
     name_slug: "5-3-2-objetivos-formula-que-lo-relaciona-todo"
-    raw_path: "raw/5-3-2-objetivos-formula-que-lo-relaciona-todo/"
+    raw_path: "raw/cursos/power-mba/5-3-2-objetivos-formula-que-lo-relaciona-todo/"
     converter: mineru
     converted: 2026-06-03
     image_processing: 2026-06-03
@@ -399,7 +400,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.4.1- atracción y branding.pdf"
     name_slug: "5-4-1-atracci-on-y-branding"
-    raw_path: "raw/5-4-1-atracci-on-y-branding/"
+    raw_path: "raw/cursos/power-mba/5-4-1-atracci-on-y-branding/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -415,7 +416,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.4.2-Herramientas+para+saber+el+tráfico+de+una+página.pdf"
     name_slug: "5-4-2-herramientas-para-saber-el-tr-afico-de-una-p-agina"
-    raw_path: "raw/5-4-2-herramientas-para-saber-el-tr-afico-de-una-p-agina/"
+    raw_path: "raw/cursos/power-mba/5-4-2-herramientas-para-saber-el-tr-afico-de-una-p-agina/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -428,7 +429,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.4.3-Formatos+de+anuncios+display.pdf"
     name_slug: "5-4-3-formatos-de-anuncios-display"
-    raw_path: "raw/5-4-3-formatos-de-anuncios-display/"
+    raw_path: "raw/cursos/power-mba/5-4-3-formatos-de-anuncios-display/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -441,7 +442,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.4.4-BLOQUEADORES+DE+PUBLICIDAD.pdf"
     name_slug: "5-4-4-bloqueadores-de-publicidad"
-    raw_path: "raw/5-4-4-bloqueadores-de-publicidad/"
+    raw_path: "raw/cursos/power-mba/5-4-4-bloqueadores-de-publicidad/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -454,7 +455,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.4.5-Ejemplos+de+publicidad+nativa.pdf"
     name_slug: "5-4-5-ejemplos-de-publicidad-nativa"
-    raw_path: "raw/5-4-5-ejemplos-de-publicidad-nativa/"
+    raw_path: "raw/cursos/power-mba/5-4-5-ejemplos-de-publicidad-nativa/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -467,7 +468,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.4.6-Herramientas de email marketing.pdf"
     name_slug: "5-4-6-herramientas-de-email-marketing"
-    raw_path: "raw/5-4-6-herramientas-de-email-marketing/"
+    raw_path: "raw/cursos/power-mba/5-4-6-herramientas-de-email-marketing/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -480,7 +481,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.4.7-Agencias de representación de influencers.pdf"
     name_slug: "5-4-7-agencias-de-representaci-on-de-influencers"
-    raw_path: "raw/5-4-7-agencias-de-representaci-on-de-influencers/"
+    raw_path: "raw/cursos/power-mba/5-4-7-agencias-de-representaci-on-de-influencers/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -493,7 +494,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.4.8-Plataformas de influencers.pdf"
     name_slug: "5-4-8-plataformas-de-influencers"
-    raw_path: "raw/5-4-8-plataformas-de-influencers/"
+    raw_path: "raw/cursos/power-mba/5-4-8-plataformas-de-influencers/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -506,7 +507,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.4.9-Marketing de contenidos formatos más habituales.pdf"
     name_slug: "5-4-9-marketing-de-contenidos-formatos-m-as-habituales"
-    raw_path: "raw/5-4-9-marketing-de-contenidos-formatos-m-as-habituales/"
+    raw_path: "raw/cursos/power-mba/5-4-9-marketing-de-contenidos-formatos-m-as-habituales/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -519,7 +520,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.4.10-Tips para la generación de contenidos.pdf"
     name_slug: "5-4-10-tips-para-la-generaci-on-de-contenidos"
-    raw_path: "raw/5-4-10-tips-para-la-generaci-on-de-contenidos/"
+    raw_path: "raw/cursos/power-mba/5-4-10-tips-para-la-generaci-on-de-contenidos/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -532,7 +533,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.4.11-Listado de plataformas de afiliados.pdf"
     name_slug: "5-4-11-listado-de-plataformas-de-afiliados"
-    raw_path: "raw/5-4-11-listado-de-plataformas-de-afiliados/"
+    raw_path: "raw/cursos/power-mba/5-4-11-listado-de-plataformas-de-afiliados/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -545,7 +546,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.5.1 Conceptos+Clave_+Captación+y+Nurturing+de+Leads+-+Documentos+de+Google.pdf"
     name_slug: "5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google"
-    raw_path: "raw/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google/"
+    raw_path: "raw/cursos/power-mba/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google/"
     converter: mineru
     converted: 2026-06-03
     image_processing: 2026-06-03
@@ -557,7 +558,7 @@ sources:
     notes: "Captación y nurturing de leads. 5 concept + 1 claim AKUs + framework TAKU lead-nurturing. lead-magnet enriquecido (0.60)."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.5.2 Ejemplos+por+tipos+de+lead+magnets.pdf"
     name_slug: "5-5-2-ejemplos-por-tipos-de-lead-magnets"
-    raw_path: "raw/5-5-2-ejemplos-por-tipos-de-lead-magnets/"
+    raw_path: "raw/cursos/power-mba/5-5-2-ejemplos-por-tipos-de-lead-magnets/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -569,7 +570,7 @@ sources:
     notes: "Ejemplos de lead magnets (referencia). 0 AKUs; cubierto por aku-lead-magnet-concept."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.5.3 Herramientas+para+crear+formularios.pdf"
     name_slug: "5-5-3-herramientas-para-crear-formularios"
-    raw_path: "raw/5-5-3-herramientas-para-crear-formularios/"
+    raw_path: "raw/cursos/power-mba/5-5-3-herramientas-para-crear-formularios/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -581,7 +582,7 @@ sources:
     notes: "Herramientas de formularios (referencia). 0 AKUs."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.5.4-Herramientas+más+comunes+de+marketing+automation.pdf"
     name_slug: "5-5-4-herramientas-m-as-comunes-de-marketing-automation"
-    raw_path: "raw/5-5-4-herramientas-m-as-comunes-de-marketing-automation/"
+    raw_path: "raw/cursos/power-mba/5-5-4-herramientas-m-as-comunes-de-marketing-automation/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -594,7 +595,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6.1 Conceptos+Clave_+Conversión.pdf"
     name_slug: "5-6-1-conceptos-clave-conversi-on"
-    raw_path: "raw/5-6-1-conceptos-clave-conversi-on/"
+    raw_path: "raw/cursos/power-mba/5-6-1-conceptos-clave-conversi-on/"
     converter: mineru
     converted: 2026-06-03
     image_processing: 2026-06-03
@@ -606,7 +607,7 @@ sources:
     notes: "Conversión/CRO. 5 concept + 1 method AKUs + framework TAKU cro."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6.2-Tabla+Herramientas+(2).pdf"
     name_slug: "5-6-2-tabla-herramientas-2"
-    raw_path: "raw/5-6-2-tabla-herramientas-2/"
+    raw_path: "raw/cursos/power-mba/5-6-2-tabla-herramientas-2/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -618,7 +619,7 @@ sources:
     notes: "Tabla de herramientas (referencia). 0 AKUs."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6.3 Anexo_+Consejos+para+CTA.pdf"
     name_slug: "5-6-3-anexo-consejos-para-cta"
-    raw_path: "raw/5-6-3-anexo-consejos-para-cta/"
+    raw_path: "raw/cursos/power-mba/5-6-3-anexo-consejos-para-cta/"
     converter: mineru
     converted: 2026-06-03
     image_processing: 2026-06-03
@@ -630,7 +631,7 @@ sources:
     notes: "Consejos para CTA. 1 concept AKU (cta) + heuristic TAKU optimizar-cta."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6.4 - Herramientas+para+CRO.pdf"
     name_slug: "5-6-4-herramientas-para-cro"
-    raw_path: "raw/5-6-4-herramientas-para-cro/"
+    raw_path: "raw/cursos/power-mba/5-6-4-herramientas-para-cro/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -643,7 +644,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\ad-psychology2.pdf"
     name_slug: "ad-psychology2"
-    raw_path: "raw/ad-psychology2/"
+    raw_path: "raw/libros/kolenda/ad-psychology2/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -656,7 +657,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\choice.pdf"
     name_slug: "choice"
-    raw_path: "raw/choice/"
+    raw_path: "raw/libros/kolenda/choice/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -669,7 +670,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\color-psychology2.pdf"
     name_slug: "color-psychology2"
-    raw_path: "raw/color-psychology2/"
+    raw_path: "raw/libros/kolenda/color-psychology2/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -682,7 +683,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Copywriting Psychology by Nick Kolenda.pdf"
     name_slug: "copywriting-psychology-by-nick-kolenda"
-    raw_path: "raw/copywriting-psychology-by-nick-kolenda/"
+    raw_path: "raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -695,7 +696,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\eCommerce Psychology by Nick Kolenda.pdf"
     name_slug: "ecommerce-psychology-by-nick-kolenda"
-    raw_path: "raw/ecommerce-psychology-by-nick-kolenda/"
+    raw_path: "raw/libros/kolenda/ecommerce-psychology-by-nick-kolenda/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -708,7 +709,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Font Psychology by Nick Kolenda.pdf"
     name_slug: "font-psychology-by-nick-kolenda"
-    raw_path: "raw/font-psychology-by-nick-kolenda/"
+    raw_path: "raw/libros/kolenda/font-psychology-by-nick-kolenda/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -721,7 +722,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Naming a Product by Nick Kolenda.pdf"
     name_slug: "naming-a-product-by-nick-kolenda"
-    raw_path: "raw/naming-a-product-by-nick-kolenda/"
+    raw_path: "raw/libros/kolenda/naming-a-product-by-nick-kolenda/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -734,7 +735,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Negotiation Tactics by Nick Kolenda.pdf"
     name_slug: "negotiation-tactics-by-nick-kolenda"
-    raw_path: "raw/negotiation-tactics-by-nick-kolenda/"
+    raw_path: "raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -747,7 +748,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Packaging Psychology by Nick Kolenda.pdf"
     name_slug: "packaging-psychology-by-nick-kolenda"
-    raw_path: "raw/packaging-psychology-by-nick-kolenda/"
+    raw_path: "raw/libros/kolenda/packaging-psychology-by-nick-kolenda/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -760,7 +761,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Pricing Psychology by Nick Kolenda.pdf"
     name_slug: "pricing-psychology-by-nick-kolenda"
-    raw_path: "raw/pricing-psychology-by-nick-kolenda/"
+    raw_path: "raw/libros/kolenda/pricing-psychology-by-nick-kolenda/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -773,7 +774,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\user-experience2.pdf"
     name_slug: "user-experience2"
-    raw_path: "raw/user-experience2/"
+    raw_path: "raw/libros/kolenda/user-experience2/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -786,7 +787,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Visual Attention by Nick Kolenda.pdf"
     name_slug: "visual-attention-by-nick-kolenda"
-    raw_path: "raw/visual-attention-by-nick-kolenda/"
+    raw_path: "raw/libros/kolenda/visual-attention-by-nick-kolenda/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -799,7 +800,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Audiobook-Images-Methods-of-Persuasion.pdf"
     name_slug: "audiobook-images-methods-of-persuasion"
-    raw_path: "raw/audiobook-images-methods-of-persuasion/"
+    raw_path: "raw/libros/kolenda/audiobook-images-methods-of-persuasion/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -812,7 +813,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\IRTB-Audiobook-PDF.pdf"
     name_slug: "irtb-audiobook-pdf"
-    raw_path: "raw/irtb-audiobook-pdf/"
+    raw_path: "raw/libros/kolenda/irtb-audiobook-pdf/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -825,7 +826,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Pages - Viral Marketing.pdf"
     name_slug: "pages-viral-marketing"
-    raw_path: "raw/pages-viral-marketing/"
+    raw_path: "raw/libros/kolenda/pages-viral-marketing/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -838,7 +839,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Bonus-PDF.pdf"
     name_slug: "bonus-pdf"
-    raw_path: "raw/bonus-pdf/"
+    raw_path: "raw/libros/kolenda/bonus-pdf/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -851,7 +852,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.7.1-Conceptos+Clave_+Fidelización+y+retención.pdf"
     name_slug: "5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on"
-    raw_path: "raw/5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on/"
+    raw_path: "raw/cursos/power-mba/5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on/"
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a
@@ -863,7 +864,7 @@ sources:
     notes: "Fidelización vs retención + claim retención-no-es-mala."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.8.1-Conceptos+Clave_+Recomendacion+y+Viralizacion.pdf"
     name_slug: "5-8-1-conceptos-clave-recomendacion-y-viralizacion"
-    raw_path: "raw/5-8-1-conceptos-clave-recomendacion-y-viralizacion/"
+    raw_path: "raw/cursos/power-mba/5-8-1-conceptos-clave-recomendacion-y-viralizacion/"
     converter: mineru
     converted: 2026-06-03
     image_processing: 2026-06-03
@@ -875,7 +876,7 @@ sources:
     notes: "Recomendación vs viralización + 2 claims (boca-a-boca, depende-producto)."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.8.2-Flywheel+Funnel.pdf"
     name_slug: "5-8-2-flywheel-funnel"
-    raw_path: "raw/5-8-2-flywheel-funnel/"
+    raw_path: "raw/cursos/power-mba/5-8-2-flywheel-funnel/"
     converter: mineru
     converted: 2026-06-03
     image_processing: 2026-06-03
@@ -888,7 +889,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\06-Emprendimiento\6.1.01-Fit entre tu proyecto y tu.pdf"
     name_slug: "6-1-01-fit-entre-tu-proyecto-y-tu"
-    raw_path: "raw/6-1-01-fit-entre-tu-proyecto-y-tu/"
+    raw_path: "raw/cursos/power-mba/6-1-01-fit-entre-tu-proyecto-y-tu/"
     converter: mineru
     converted: 2026-06-04
     image_processing: 2026-06-04
@@ -901,7 +902,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\06-Emprendimiento\6.3.01-FUENTES_FINANCIACION_QUIEN_OK.pdf"
     name_slug: "6-3-01-fuentes-financiacion-quien-ok"
-    raw_path: "raw/6-3-01-fuentes-financiacion-quien-ok/"
+    raw_path: "raw/cursos/power-mba/6-3-01-fuentes-financiacion-quien-ok/"
     converter: mineru
     converted: 2026-06-04
     image_processing: 2026-06-04
@@ -918,7 +919,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\06-Emprendimiento\6.3.1 Vender tu proyecto.pdf"
     name_slug: "6-3-1-vender-tu-proyecto"
-    raw_path: "raw/6-3-1-vender-tu-proyecto/"
+    raw_path: "raw/cursos/power-mba/6-3-1-vender-tu-proyecto/"
     converter: mineru
     converted: 2026-06-04
     image_processing: n/a
@@ -931,7 +932,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\06-Emprendimiento\6.3.3 Estructura del Pitch Deck.pdf"
     name_slug: "6-3-3-estructura-del-pitch-deck"
-    raw_path: "raw/6-3-3-estructura-del-pitch-deck/"
+    raw_path: "raw/cursos/power-mba/6-3-3-estructura-del-pitch-deck/"
     converter: mineru
     converted: 2026-06-04
     image_processing: n/a
@@ -944,7 +945,7 @@ sources:
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\06-Emprendimiento\6.3.4 Templates Elevator Pitch.pdf"
     name_slug: "6-3-4-templates-elevator-pitch"
-    raw_path: "raw/6-3-4-templates-elevator-pitch/"
+    raw_path: "raw/cursos/power-mba/6-3-4-templates-elevator-pitch/"
     converter: mineru
     converted: 2026-06-04
     image_processing: n/a
@@ -957,7 +958,7 @@ sources:
 
   - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\07-Leadership\\7.1.1-Recursos.+Liderarse+a+uno+mismo+OK.pdf"
     name_slug: "7-1-1-recursos-liderarse-a-uno-mismo-ok"
-    raw_path: "raw/7-1-1-recursos-liderarse-a-uno-mismo-ok/"
+    raw_path: "raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/"
     converter: mineru
     converted: 2026-06-04
     image_processing: 2026-06-04
@@ -978,7 +979,7 @@ sources:
 
   - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\07-Leadership\\7.1.2-Plantilla+de+evaluación+liderarse+a+uno+mismo.pdf"
     name_slug: "7-1-2-plantilla-de-evaluaci-on-liderarse-a-uno-mismo"
-    raw_path: "raw/7-1-2-plantilla-de-evaluaci-on-liderarse-a-uno-mismo/"
+    raw_path: "raw/cursos/power-mba/7-1-2-plantilla-de-evaluaci-on-liderarse-a-uno-mismo/"
     converter: mineru
     converted: 2026-06-04
     image_processing: n/a
@@ -994,7 +995,7 @@ sources:
 
   - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\07-Leadership\\7.2.1-Recurso_Liderar_a_otros.pdf"
     name_slug: "7-2-1-recurso-liderar-a-otros"
-    raw_path: "raw/7-2-1-recurso-liderar-a-otros/"
+    raw_path: "raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/"
     converter: mineru
     converted: 2026-06-04
     image_processing: 2026-06-04
@@ -1019,7 +1020,7 @@ sources:
       asimetrías, 0 body-drift.
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\08-desarrollo personal\08.01.01-Diagnostico desarrollo personal.pdf"
     name_slug: "08-01-01-diagnostico-desarrollo-personal"
-    raw_path: "raw/08-01-01-diagnostico-desarrollo-personal/"
+    raw_path: "raw/cursos/power-mba/08-01-01-diagnostico-desarrollo-personal/"
     converter: mineru
     converted: 2026-06-04
     image_processing: 2026-06-04
@@ -1037,7 +1038,7 @@ sources:
       conservado separado).
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\08-desarrollo personal\08.01.02-Herramientasdedesarrollopersonal.pdf"
     name_slug: "08-01-02-herramientasdedesarrollopersonal"
-    raw_path: "raw/08-01-02-herramientasdedesarrollopersonal/"
+    raw_path: "raw/cursos/power-mba/08-01-02-herramientasdedesarrollopersonal/"
     converter: mineru
     converted: 2026-06-04
     image_processing: 2026-06-04
@@ -1056,7 +1057,7 @@ sources:
       diagnostico, objetivos-personales, tests-personalidad.
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\09-Contabilidad y finannzas\09.01.01-BALANCEDESITUACION.pdf"
     name_slug: "09-01-01-balancedesituacion"
-    raw_path: "raw/09-01-01-balancedesituacion/"
+    raw_path: "raw/cursos/power-mba/09-01-01-balancedesituacion/"
     converter: mineru
     converted: 2026-06-04
     image_processing: n/a
@@ -1078,7 +1079,7 @@ sources:
       relaciones-con-clientes y Porter poder-proveedores. 0 imágenes.
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\09-Contabilidad y finannzas\09.01.02-Detalle+cuentas+Estado+Resultados.pdf"
     name_slug: "09-01-02-detalle-cuentas-estado-resultados"
-    raw_path: "raw/09-01-02-detalle-cuentas-estado-resultados/"
+    raw_path: "raw/cursos/power-mba/09-01-02-detalle-cuentas-estado-resultados/"
     converter: mineru
     converted: 2026-06-04
     image_processing: n/a
@@ -1097,7 +1098,7 @@ sources:
       (BMC) — reconectan TODO el cluster contable al grafo principal. 0 imágenes, 0 TAKUs.
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\09-Contabilidad y finannzas\09.02.01-Ratios Analisis Financieros.pdf"
     name_slug: "09-02-01-ratios-analisis-financieros"
-    raw_path: "raw/09-02-01-ratios-analisis-financieros/"
+    raw_path: "raw/cursos/power-mba/09-02-01-ratios-analisis-financieros/"
     converter: mineru
     converted: 2026-06-04
     image_processing: 2026-06-04
@@ -1120,7 +1121,7 @@ sources:
       323 AKUs, 0 asimetrías, 0 body-drift.
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\09-Contabilidad y finannzas\09.03.01-ConceptosClaveFinanzas2.pdf"
     name_slug: "09-03-01-conceptosclavefinanzas2"
-    raw_path: "raw/09-03-01-conceptosclavefinanzas2/"
+    raw_path: "raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/"
     converter: mineru
     converted: 2026-06-04
     image_processing: 2026-06-04
@@ -1145,7 +1146,7 @@ sources:
       pase de verificación.
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\11-Google Ads (Especialización)\Anuncios+de+texto+google+marketing.pdf"
     name_slug: "anuncios-de-texto-google-marketing"
-    raw_path: "raw/anuncios-de-texto-google-marketing/"
+    raw_path: "raw/cursos/power-mba/anuncios-de-texto-google-marketing/"
     converter: mineru
     converted: 2026-06-04
     image_processing: 2026-06-04
@@ -1164,7 +1165,7 @@ sources:
       descritas en texto). 0 dudas de dedup.
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\11-Google Ads (Especialización)\Concordancia+de+palabras+google.pdf"
     name_slug: "concordancia-de-palabras-google"
-    raw_path: "raw/concordancia-de-palabras-google/"
+    raw_path: "raw/cursos/power-mba/concordancia-de-palabras-google/"
     converter: mineru
     converted: 2026-06-04
     image_processing: n/a
@@ -1181,7 +1182,7 @@ sources:
       +3 TAKUs).
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\12-Social media\12.1-Herramientas de creación de contenido para RRSS.pdf"
     name_slug: "12-1-herramientas-de-creaci-on-de-contenido-para-rrss"
-    raw_path: "raw/12-1-herramientas-de-creaci-on-de-contenido-para-rrss/"
+    raw_path: "raw/cursos/power-mba/12-1-herramientas-de-creaci-on-de-contenido-para-rrss/"
     converter: mineru
     converted: 2026-06-04
     image_processing: 2026-06-04
@@ -1197,7 +1198,7 @@ sources:
       no AKU propio). 6 imágenes decorativas (capturas de apps). related ↔ content-marketing.
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\12-Social media\12.2-Herramientas de gestión de RRSS .pdf"
     name_slug: "12-2-herramientas-de-gesti-on-de-rrss"
-    raw_path: "raw/12-2-herramientas-de-gesti-on-de-rrss/"
+    raw_path: "raw/cursos/power-mba/12-2-herramientas-de-gesti-on-de-rrss/"
     converter: mineru
     converted: 2026-06-04
     image_processing: 2026-06-04
@@ -1213,7 +1214,7 @@ sources:
       herramientas-creacion-contenido-rrss.
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\12-Social media\12.3-Tabla+comparativa+RRSS.pdf"
     name_slug: "12-3-tabla-comparativa-rrss"
-    raw_path: "raw/12-3-tabla-comparativa-rrss/"
+    raw_path: "raw/cursos/power-mba/12-3-tabla-comparativa-rrss/"
     converter: mineru
     converted: 2026-06-04
     image_processing: 2026-06-04
@@ -1231,7 +1232,7 @@ sources:
       paid-social (todas las plataformas se anuncian). MÓDULO 12 COMPLETO (3 PDFs, +13 AKUs, +1 TAKU).
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\13-Growth hacking\Herramientas+y+recursos+de+Growth+Hacking.pdf"
     name_slug: "herramientas-y-recursos-de-growth-hacking"
-    raw_path: "raw/herramientas-y-recursos-de-growth-hacking/"
+    raw_path: "raw/cursos/power-mba/herramientas-y-recursos-de-growth-hacking/"
     converter: mineru
     converted: 2026-06-04
     image_processing: n/a
@@ -1250,7 +1251,7 @@ sources:
       escalable de clientes). MÓDULO 13 COMPLETO.
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\14-Marketing de Influencers (Especialización)\14.01_Herramientas+MARKETING+influencers.pdf"
     name_slug: "14-01-herramientas-marketing-influencers"
-    raw_path: "raw/14-01-herramientas-marketing-influencers/"
+    raw_path: "raw/cursos/power-mba/14-01-herramientas-marketing-influencers/"
     converter: mineru
     converted: 2026-06-04
     image_processing: n/a
@@ -1260,7 +1261,7 @@ sources:
     notes: "M14 PDF1 — Herramientas influencer marketing. 1 concept (categorías: análisis audiencia, búsqueda, gestión/medición campañas, contenido viral). Directorio de tools."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\14-Marketing de Influencers (Especialización)\14.02_Colaboraciones+pagadas.pptx.pdf"
     name_slug: "14-02-colaboraciones-pagadas-pptx"
-    raw_path: "raw/14-02-colaboraciones-pagadas-pptx/"
+    raw_path: "raw/cursos/power-mba/14-02-colaboraciones-pagadas-pptx/"
     converter: mineru
     converted: 2026-06-04
     image_processing: 2026-06-04
@@ -1270,7 +1271,7 @@ sources:
     notes: "M14 PDF2 — Colaboraciones pagadas vs gratuitas. 1 concept (tradeoff control/contrato vs riesgo). Tabla HTML; imagen redundante."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\14-Marketing de Influencers (Especialización)\14.03_cláusulas+de+un+contrato+con+INFLUENCERS.pdf"
     name_slug: "14-03-cl-ausulas-de-un-contrato-con-influencers"
-    raw_path: "raw/14-03-cl-ausulas-de-un-contrato-con-influencers/"
+    raw_path: "raw/cursos/power-mba/14-03-cl-ausulas-de-un-contrato-con-influencers/"
     converter: mineru
     converted: 2026-06-04
     image_processing: n/a
@@ -1280,7 +1281,7 @@ sources:
     notes: "M14 PDF3 — Cláusulas contrato (10). 1 concept (clausulas-contrato-influencers) + framework TAKU contrato-influencers. Fuente compartida con 14.05."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\14-Marketing de Influencers (Especialización)\14.05_Modelo+Contrato_Stories.pdf"
     name_slug: "14-05-modelo-contrato-stories"
-    raw_path: "raw/14-05-modelo-contrato-stories/"
+    raw_path: "raw/cursos/power-mba/14-05-modelo-contrato-stories/"
     converter: mineru
     converted: 2026-06-04
     image_processing: 2026-06-04
@@ -1290,7 +1291,7 @@ sources:
     notes: "M14 PDF5 — Modelo de contrato (ejemplo real C21BeBrave, mismo caso que 14.03). 0 AKUs nuevos; añadido como 2ª fuente de clausulas-contrato-influencers. Imagen = firma (decorativa)."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\14-Marketing de Influencers (Especialización)\14.06_Medición+resultados+influencers.pptx.pdf"
     name_slug: "14-06-medici-on-resultados-influencers-pptx"
-    raw_path: "raw/14-06-medici-on-resultados-influencers-pptx/"
+    raw_path: "raw/cursos/power-mba/14-06-medici-on-resultados-influencers-pptx/"
     converter: mineru
     converted: 2026-06-04
     image_processing: 2026-06-04
@@ -1300,7 +1301,7 @@ sources:
     notes: "M14 PDF6 — Medición resultados. 1 concept (medicion-resultados-influencers, funnel→KPIs→cómo medir) + framework TAKU medicion-campana-influencers. INTEGRATE (a): ↔ power-funnel. MÓDULO 14 COMPLETO (5 PDFs, +4 AKUs, +2 TAKUs)."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\15-Analítica (Especialización)\15.1.[Plantilla]+Plan+de+Medición.xlsx.pdf"
     name_slug: "15-1-plantilla-plan-de-medici-on-xlsx"
-    raw_path: "raw/15-1-plantilla-plan-de-medici-on-xlsx/"
+    raw_path: "raw/cursos/power-mba/15-1-plantilla-plan-de-medici-on-xlsx/"
     converter: mineru
     converted: 2026-06-04
     image_processing: 2026-06-04
@@ -1310,7 +1311,7 @@ sources:
     notes: "M15 PDF1 — Plan de Medición. 1 concept (objetivos/estrategias/KPIs/metas/segmentos) + framework TAKU plan-de-medicion. 2 imgs redundantes (tablas)."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\15-Analítica (Especialización)\15.2. Principales+métricas+-+Google+Analytics.pptx.pdf"
     name_slug: "15-2-principales-m-etricas-google-analytics-pptx"
-    raw_path: "raw/15-2-principales-m-etricas-google-analytics-pptx/"
+    raw_path: "raw/cursos/power-mba/15-2-principales-m-etricas-google-analytics-pptx/"
     converter: mineru
     converted: 2026-06-04
     image_processing: 2026-06-04
@@ -1320,7 +1321,7 @@ sources:
     notes: "M15 PDF2 — Métricas GA. 1 concept (8 métricas: usuarios, sesiones, páginas vistas/únicas, páginas-sesión, duración media, bounce rate, page value). 1 img redundante."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\15-Analítica (Especialización)\15.3.Códigos+UTM+-+Google+Analytics.pptx.pdf"
     name_slug: "15-3-c-odigos-utm-google-analytics-pptx"
-    raw_path: "raw/15-3-c-odigos-utm-google-analytics-pptx/"
+    raw_path: "raw/cursos/power-mba/15-3-c-odigos-utm-google-analytics-pptx/"
     converter: mineru
     converted: 2026-06-04
     image_processing: 2026-06-04
@@ -1330,7 +1331,7 @@ sources:
     notes: "M15 PDF3 — Códigos UTM. 1 concept (5 params: source/medium/campaign/term/content). INTEGRATE (a): ↔ atribucion. 1 img redundante."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\15-Analítica (Especialización)\15.4.Tipos+de+objetivos+-+Google+Analytics.pptx.pdf"
     name_slug: "15-4-tipos-de-objetivos-google-analytics-pptx"
-    raw_path: "raw/15-4-tipos-de-objetivos-google-analytics-pptx/"
+    raw_path: "raw/cursos/power-mba/15-4-tipos-de-objetivos-google-analytics-pptx/"
     converter: mineru
     converted: 2026-06-04
     image_processing: 2026-06-04
@@ -1340,7 +1341,7 @@ sources:
     notes: "M15 PDF4 — Tipos de objetivos GA. 1 concept (destino/evento/engagement/duración). ↔ piramide-conversion. MÓDULO 15 COMPLETO (4 PDFs, +4 AKUs, +1 TAKU)."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\18-Facebook & Instagram Ads (Especialización)\_Herramientas+para+crear+anuncios+TOP+EN+FACEBOOK+ADS+a.pdf"
     name_slug: "herramientas-para-crear-anuncios-top-en-facebook-ads-a"
-    raw_path: "raw/herramientas-para-crear-anuncios-top-en-facebook-ads-a/"
+    raw_path: "raw/cursos/power-mba/herramientas-para-crear-anuncios-top-en-facebook-ads-a/"
     converter: mineru
     converted: 2026-06-04
     image_processing: 2026-06-04
@@ -1356,7 +1357,7 @@ sources:
       (Canva), ↔ facebook-concept.
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\18-Facebook & Instagram Ads (Especialización)\info.docx"
     name_slug: "18-info-hacks-copy"
-    raw_path: "raw/18-info-hacks-copy/"
+    raw_path: "raw/cursos/power-mba/18-info-hacks-copy/"
     converter: python-docx
     converted: 2026-06-04
     image_processing: n/a
@@ -1370,7 +1371,7 @@ sources:
       1 DOCX, +3 AKUs, +1 TAKU).
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\20-Copywriting\20.1-Palabras+y+frases+que+te+ayudarán+a+vender+más.pdf"
     name_slug: "20-1-palabras-y-frases-que-te-ayudar-an-a-vender-m-as"
-    raw_path: "raw/20-1-palabras-y-frases-que-te-ayudar-an-a-vender-m-as/"
+    raw_path: "raw/cursos/power-mba/20-1-palabras-y-frases-que-te-ayudar-an-a-vender-m-as/"
     converter: mineru
     converted: 2026-06-04
     image_processing: n/a
@@ -1380,7 +1381,7 @@ sources:
     notes: "M20 PDF1 — Power words. 1 concept (palabras-frases-persuasivas: urgencia/escasez, gratis, exclusividad, prueba, riesgo cero, facilidad) + heuristic TAKU power-words-copywriting. INTEGRATE (a): ↔ hacks-copywriting, cta, cialdini."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\20-Copywriting\20.2-Lista+de+fórmulas+para+escribir+títulos+potentes.pdf"
     name_slug: "20-2-lista-de-f-ormulas-para-escribir-t-itulos-potentes"
-    raw_path: "raw/20-2-lista-de-f-ormulas-para-escribir-t-itulos-potentes/"
+    raw_path: "raw/cursos/power-mba/20-2-lista-de-f-ormulas-para-escribir-t-itulos-potentes/"
     converter: mineru
     converted: 2026-06-04
     image_processing: 2026-06-04
@@ -1390,7 +1391,7 @@ sources:
     notes: "M20 PDF2 — Fórmulas de titulares. 1 concept (formulas-titulos-potentes: 7 plantillas) + framework TAKU formulas-titulos-potentes. INTEGRATE (a): ↔ titulo-anuncio-google, hacks-copywriting. 5 imgs decorativas (badges numéricos)."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\20-Copywriting\20.3-Libros+de+copywriting.pdf"
     name_slug: "20-3-libros-de-copywriting"
-    raw_path: "raw/20-3-libros-de-copywriting/"
+    raw_path: "raw/cursos/power-mba/20-3-libros-de-copywriting/"
     converter: mineru
     converted: 2026-06-04
     image_processing: 2026-06-04

@@ -47,8 +47,8 @@ relations:
     - aku-product-market-fit-concept
 
 sources:
-  - "raw/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md"
-  - raw/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
+  - "raw/cursos/power-mba/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md"
+  - raw/cursos/power-mba/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
 
 created: 2026-06-03
 updated: 2026-06-03

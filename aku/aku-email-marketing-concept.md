@@ -34,7 +34,7 @@ relations:
   related: [aku-lead-nurturing-concept, aku-marketing-automation-concept]
 
 sources:
-  - raw/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
+  - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
 
 created: 2026-06-04
 updated: 2026-06-04

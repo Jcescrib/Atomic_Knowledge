@@ -35,7 +35,7 @@ relations:
   related: [aku-escudo-fiscal-concept, aku-coste-fondos-propios-ke-concept, aku-coste-deuda-kd-concept, aku-apalancamiento-aumenta-roe-claim, aku-apalancamiento-aumenta-riesgo-claim, aku-apalancamiento-valoracion-optimo-claim, aku-roe-concept, aku-apalancamiento-financiero-concept]
 
 sources:
-  - raw/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
+  - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
 
 created: 2026-06-04
 updated: 2026-06-04

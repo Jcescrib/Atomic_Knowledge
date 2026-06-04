@@ -35,7 +35,7 @@ relations:
   related: [aku-leyes-persuasion-cialdini-concept, aku-canales-marketing-digital-concept, aku-cialdini-prueba-social-concept, aku-paid-social-concept, aku-herramientas-marketing-influencers-concept, aku-colaboraciones-influencers-pagadas-vs-gratuitas-concept, aku-clausulas-contrato-influencers-concept, aku-medicion-resultados-influencers-concept]
 
 sources:
-  - raw/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
+  - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
 
 created: 2026-06-03
 updated: 2026-06-03

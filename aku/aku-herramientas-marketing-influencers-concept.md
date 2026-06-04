@@ -36,7 +36,7 @@ relations:
   related: [aku-marketing-influencers-concept]
 
 sources:
-  - raw/14-01-herramientas-marketing-influencers/14-01-herramientas-marketing-influencers.md
+  - raw/cursos/power-mba/14-01-herramientas-marketing-influencers/14-01-herramientas-marketing-influencers.md
 
 created: 2026-06-04
 updated: 2026-06-04

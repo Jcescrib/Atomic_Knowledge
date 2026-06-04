@@ -34,7 +34,7 @@ relations:
   related: []
 
 sources:
-  - raw/5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on/5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on.md
+  - raw/cursos/power-mba/5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on/5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on.md
 
 created: 2026-06-03
 updated: 2026-06-03

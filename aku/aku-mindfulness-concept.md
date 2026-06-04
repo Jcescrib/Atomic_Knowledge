@@ -35,7 +35,7 @@ relations:
   related: [aku-mente-de-mono-concept, aku-autoevaluacion-cuerpo-mente-alma-concept]
 
 sources:
-  - raw/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
+  - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
 
 created: 2026-06-04
 updated: 2026-06-04

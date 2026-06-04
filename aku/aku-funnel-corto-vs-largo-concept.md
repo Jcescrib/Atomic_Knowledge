@@ -36,7 +36,7 @@ relations:
   related: [aku-power-funnel-concept, aku-lead-nurturing-concept, aku-nurturing-segun-complejidad-claim]
 
 sources:
-  - raw/5-3-visi-on-estrat-egica/5-3-visi-on-estrat-egica.md
+  - raw/cursos/power-mba/5-3-visi-on-estrat-egica/5-3-visi-on-estrat-egica.md
 
 created: 2026-06-03
 updated: 2026-06-03

@@ -34,8 +34,8 @@ relations:
   related: [aku-liderazgo-coste-imitable-claim]
 
 sources:
-  - raw/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
-  - raw/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
+  - raw/cursos/power-mba/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
+  - raw/cursos/power-mba/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
 
 created: 2026-06-04
 updated: 2026-06-04

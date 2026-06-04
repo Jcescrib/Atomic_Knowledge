@@ -35,8 +35,8 @@ relations:
   related: [aku-mindfulness-concept, aku-ikigai-concept, aku-minimalismo-digital-concept, aku-diagnostico-estrategico-personal-concept]
 
 sources:
-  - raw/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
-  - raw/7-1-2-plantilla-de-evaluaci-on-liderarse-a-uno-mismo/7-1-2-plantilla-de-evaluaci-on-liderarse-a-uno-mismo.md
+  - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
+  - raw/cursos/power-mba/7-1-2-plantilla-de-evaluaci-on-liderarse-a-uno-mismo/7-1-2-plantilla-de-evaluaci-on-liderarse-a-uno-mismo.md
 
 created: 2026-06-04
 updated: 2026-06-04

@@ -37,7 +37,7 @@ relations:
   related: [aku-lean-startup-method-concept, aku-innovar-vs-competir-concept, aku-product-market-fit-concept]
 
 sources:
-  - raw/4-5-blitzscaling/4-5-blitzscaling.md
+  - raw/cursos/power-mba/4-5-blitzscaling/4-5-blitzscaling.md
 
 created: 2026-06-03
 updated: 2026-06-03

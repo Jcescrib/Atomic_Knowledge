@@ -34,7 +34,7 @@ relations:
   related: [aku-gastos-contables-concept, aku-pasivo-concept, aku-ebit-concept, aku-escudo-fiscal-concept]
 
 sources:
-  - raw/09-01-02-detalle-cuentas-estado-resultados/09-01-02-detalle-cuentas-estado-resultados.md
+  - raw/cursos/power-mba/09-01-02-detalle-cuentas-estado-resultados/09-01-02-detalle-cuentas-estado-resultados.md
 
 created: 2026-06-04
 updated: 2026-06-04

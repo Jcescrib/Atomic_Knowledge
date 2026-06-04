@@ -37,7 +37,7 @@ relations:
   related: [aku-motor-crecimiento-concept]
 
 sources:
-  - raw/herramientas-y-recursos-de-growth-hacking/herramientas-y-recursos-de-growth-hacking.md
+  - raw/cursos/power-mba/herramientas-y-recursos-de-growth-hacking/herramientas-y-recursos-de-growth-hacking.md
 
 created: 2026-06-04
 updated: 2026-06-04

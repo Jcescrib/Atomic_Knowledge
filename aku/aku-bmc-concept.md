@@ -42,7 +42,7 @@ relations:
     - aku-modelo-lineal-concept
     - aku-pitch-deck-concept
 sources:
-  - raw/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc.md
+  - raw/cursos/power-mba/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc.md
 created: 2026-06-03
 updated: 2026-06-03
 status: active

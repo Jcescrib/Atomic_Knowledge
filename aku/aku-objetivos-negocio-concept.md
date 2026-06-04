@@ -33,7 +33,7 @@ relations:
   related: [aku-palancas-marketing-digital-concept, aku-power-funnel-concept, aku-formula-objetivos-marketing-method, aku-roi-vs-roas-concept, aku-okr-concept, aku-plan-de-medicion-concept]
 
 sources:
-  - raw/5-3-visi-on-estrat-egica/5-3-visi-on-estrat-egica.md
+  - raw/cursos/power-mba/5-3-visi-on-estrat-egica/5-3-visi-on-estrat-egica.md
 
 created: 2026-06-03
 updated: 2026-06-04

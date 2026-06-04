@@ -32,7 +32,7 @@ relations:
   related: [aku-fusion-concept, aku-socio-industrial-concept]
 
 sources:
-  - raw/4-3-estrategias-de-crecimiento/4-3-estrategias-de-crecimiento.md
+  - raw/cursos/power-mba/4-3-estrategias-de-crecimiento/4-3-estrategias-de-crecimiento.md
 
 created: 2026-06-04
 updated: 2026-06-04

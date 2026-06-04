@@ -35,7 +35,7 @@ relations:
   related: [aku-cta-concept, aku-palabras-frases-persuasivas-concept, aku-formulas-titulos-potentes-concept, aku-libros-copywriting-recomendados-concept]
 
 sources:
-  - raw/18-info-hacks-copy/18-info-hacks-copy.md
+  - raw/cursos/power-mba/18-info-hacks-copy/18-info-hacks-copy.md
 
 created: 2026-06-04
 updated: 2026-06-04

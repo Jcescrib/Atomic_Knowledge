@@ -40,7 +40,7 @@ relations:
     - aku-estilo-editorial-concept
 
 sources:
-  - "raw/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a.md"
+  - "raw/cursos/power-mba/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a.md"
 
 created: 2026-06-03
 updated: 2026-06-03

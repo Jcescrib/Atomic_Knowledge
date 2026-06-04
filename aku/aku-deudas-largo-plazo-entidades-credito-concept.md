@@ -33,7 +33,7 @@ relations:
   related: [aku-pasivo-no-corriente-concept]
 
 sources:
-  - raw/09-01-01-balancedesituacion/09-01-01-balancedesituacion.md
+  - raw/cursos/power-mba/09-01-01-balancedesituacion/09-01-01-balancedesituacion.md
 
 created: 2026-06-04
 updated: 2026-06-04

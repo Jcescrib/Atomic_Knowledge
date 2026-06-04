@@ -36,7 +36,7 @@ relations:
   related: [aku-twitter-concept, aku-instagram-concept, aku-linkedin-concept, aku-facebook-concept, aku-tiktok-concept, aku-pinterest-concept, aku-youtube-concept, aku-eleccion-red-social-segun-negocio-claim, aku-paid-social-concept]
 
 sources:
-  - raw/12-3-tabla-comparativa-rrss/12-3-tabla-comparativa-rrss.md
+  - raw/cursos/power-mba/12-3-tabla-comparativa-rrss/12-3-tabla-comparativa-rrss.md
 
 created: 2026-06-04
 updated: 2026-06-04

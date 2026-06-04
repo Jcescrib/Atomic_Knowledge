@@ -34,7 +34,7 @@ relations:
   related: [aku-facebook-concept]
 
 sources:
-  - raw/herramientas-para-crear-anuncios-top-en-facebook-ads-a/herramientas-para-crear-anuncios-top-en-facebook-ads-a.md
+  - raw/cursos/power-mba/herramientas-para-crear-anuncios-top-en-facebook-ads-a/herramientas-para-crear-anuncios-top-en-facebook-ads-a.md
 
 created: 2026-06-04
 updated: 2026-06-04

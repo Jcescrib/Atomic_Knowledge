@@ -37,7 +37,7 @@ relations:
   related: [aku-cro-concept, aku-vender-una-accion-concept, aku-landing-page-concept, aku-test-de-humo-concept, aku-descripcion-anuncio-google-concept, aku-hacks-copywriting-concept, aku-palabras-frases-persuasivas-concept]
 
 sources:
-  - raw/5-6-3-anexo-consejos-para-cta/5-6-3-anexo-consejos-para-cta.md
+  - raw/cursos/power-mba/5-6-3-anexo-consejos-para-cta/5-6-3-anexo-consejos-para-cta.md
 
 created: 2026-06-03
 updated: 2026-06-03

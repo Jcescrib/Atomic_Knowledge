@@ -36,9 +36,9 @@ relations:
   related: [aku-inbound-marketing-concept, aku-canales-marketing-digital-concept, aku-herramientas-creacion-contenido-rrss-concept]
 
 sources:
-  - raw/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
-  - raw/5-4-9-marketing-de-contenidos-formatos-m-as-habituales/5-4-9-marketing-de-contenidos-formatos-m-as-habituales.md
-  - raw/5-4-10-tips-para-la-generaci-on-de-contenidos/5-4-10-tips-para-la-generaci-on-de-contenidos.md
+  - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
+  - raw/cursos/power-mba/5-4-9-marketing-de-contenidos-formatos-m-as-habituales/5-4-9-marketing-de-contenidos-formatos-m-as-habituales.md
+  - raw/cursos/power-mba/5-4-10-tips-para-la-generaci-on-de-contenidos/5-4-10-tips-para-la-generaci-on-de-contenidos.md
 
 created: 2026-06-04
 updated: 2026-06-04

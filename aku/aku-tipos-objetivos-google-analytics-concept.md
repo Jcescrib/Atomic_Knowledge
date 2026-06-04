@@ -36,7 +36,7 @@ relations:
   related: [aku-plan-de-medicion-concept, aku-piramide-conversion-concept]
 
 sources:
-  - raw/15-4-tipos-de-objetivos-google-analytics-pptx/15-4-tipos-de-objetivos-google-analytics-pptx.md
+  - raw/cursos/power-mba/15-4-tipos-de-objetivos-google-analytics-pptx/15-4-tipos-de-objetivos-google-analytics-pptx.md
 
 created: 2026-06-04
 updated: 2026-06-04

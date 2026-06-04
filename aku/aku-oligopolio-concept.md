@@ -33,7 +33,7 @@ relations:
   related: [aku-monopolio-concept]
 
 sources:
-  - raw/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
+  - raw/cursos/power-mba/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
 
 created: 2026-06-04
 updated: 2026-06-04

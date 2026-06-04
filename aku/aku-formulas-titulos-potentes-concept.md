@@ -37,7 +37,7 @@ relations:
   related: [aku-hacks-copywriting-concept, aku-titulo-anuncio-google-concept]
 
 sources:
-  - raw/20-2-lista-de-f-ormulas-para-escribir-t-itulos-potentes/20-2-lista-de-f-ormulas-para-escribir-t-itulos-potentes.md
+  - raw/cursos/power-mba/20-2-lista-de-f-ormulas-para-escribir-t-itulos-potentes/20-2-lista-de-f-ormulas-para-escribir-t-itulos-potentes.md
 
 created: 2026-06-04
 updated: 2026-06-04

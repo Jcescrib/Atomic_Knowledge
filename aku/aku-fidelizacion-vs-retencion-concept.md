@@ -37,7 +37,7 @@ relations:
   related: [aku-churn-rate-concept, aku-costes-de-cambio-concept, aku-power-funnel-concept, aku-flywheel-funnel-concept, aku-cialdini-pertenencia-concept]
 
 sources:
-  - raw/5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on/5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on.md
+  - raw/cursos/power-mba/5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on/5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on.md
 
 created: 2026-06-03
 updated: 2026-06-03

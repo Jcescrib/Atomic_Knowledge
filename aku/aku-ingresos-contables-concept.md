@@ -35,7 +35,7 @@ relations:
   related: [aku-estado-resultados-concept, aku-ventas-concept, aku-patrimonio-neto-concept, aku-flujos-de-ingresos-concept, aku-ingresos-financieros-concept, aku-subvenciones-concept, aku-ingresos-por-arrendamientos-concept, aku-ingresos-prestaciones-servicios-concept]
 
 sources:
-  - raw/09-01-02-detalle-cuentas-estado-resultados/09-01-02-detalle-cuentas-estado-resultados.md
+  - raw/cursos/power-mba/09-01-02-detalle-cuentas-estado-resultados/09-01-02-detalle-cuentas-estado-resultados.md
 
 created: 2026-06-04
 updated: 2026-06-04

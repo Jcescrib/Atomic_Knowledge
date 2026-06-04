@@ -36,7 +36,7 @@ relations:
   related: [aku-cascada-estrategica-ejecucion-concept, aku-objetivos-negocio-concept, aku-ajuste-objetivos-tradicional-concept]
 
 sources:
-  - raw/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
+  - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
 
 created: 2026-06-04
 updated: 2026-06-04

@@ -34,7 +34,7 @@ relations:
   related: [aku-sem-paid-search-concept, aku-titulo-anuncio-google-concept, aku-descripcion-anuncio-google-concept, aku-url-visible-google-concept, aku-extensiones-anuncio-google-concept, aku-relevancia-anuncio-landing-rendimiento-claim, aku-concordancia-palabras-clave-concept]
 
 sources:
-  - raw/anuncios-de-texto-google-marketing/anuncios-de-texto-google-marketing.md
+  - raw/cursos/power-mba/anuncios-de-texto-google-marketing/anuncios-de-texto-google-marketing.md
 
 created: 2026-06-04
 updated: 2026-06-04
