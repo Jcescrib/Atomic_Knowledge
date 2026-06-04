@@ -35,6 +35,7 @@ relations:
   related:
     - aku-value-equation-concept
     - aku-solve-every-problem-claim
+    - aku-problem-solution-cycle-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-value-equation-concept]] · [[aku-solve-every-problem-claim]]
+**related** ↔ [[aku-value-equation-concept]] · [[aku-solve-every-problem-claim]] · [[aku-problem-solution-cycle-concept]]

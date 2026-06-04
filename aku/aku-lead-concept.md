@@ -10,9 +10,9 @@ statement: >
   negocio); excluye los contactos sin ningún dato accionable; implica que el lead
   es el estado intermedio entre el visitante y el cliente dentro del funnel.
 origin: "The Power MBA — Módulo 5.5.1 «Captación y nurturing de leads»"
-domain: [marketing-digital, leads, funnel, captacion, power-mba]
+domain: [marketing-digital, leads, funnel, captacion, power-mba, hormozi]
 
-llm_confidence: 0.50
+llm_confidence: 0.60
 
 human_certainty:
   status: unvalidated
@@ -32,17 +32,23 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-estados-lead-funnel-concept, aku-lead-magnet-concept, aku-power-funnel-concept, aku-lead-nurturing-concept]
+  related:
+    - aku-estados-lead-funnel-concept
+    - aku-lead-magnet-concept
+    - aku-power-funnel-concept
+    - aku-lead-nurturing-concept
+    - aku-engaged-lead-concept
 
 sources:
   - raw/cursos/power-mba/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google.md
+  - raw/libros/hormozi/100m-leads/100m-leads.md
 
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-04
 status: active
 status_note: ""
 ---
 
 ## Relaciones
 
-**related** ↔ [[aku-estados-lead-funnel-concept]] · [[aku-lead-magnet-concept]] · [[aku-power-funnel-concept]] · [[aku-lead-nurturing-concept]]
+**related** ↔ [[aku-estados-lead-funnel-concept]] · [[aku-lead-magnet-concept]] · [[aku-power-funnel-concept]] · [[aku-lead-nurturing-concept]] · [[aku-engaged-lead-concept]]

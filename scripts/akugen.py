@@ -201,9 +201,17 @@ def _render_taku(r):
     return "\n".join(fm) + "\n" + _taku_body(r)
 
 
-def generate(akus, takus, root):
+def generate(akus, takus, root, allow_overwrite=False):
     """Espeja inversos entre AKUs del lote, escribe ficheros, devuelve cross-links."""
     by_id = {a["id"]: a for a in akus}
+    # guard anti-colisión: un AKU "nuevo" cuyo fichero ya existe es casi siempre
+    # un dedup no detectado — abortar para no sobrescribir el grafo existente.
+    if not allow_overwrite:
+        clash = [a["id"] for a in akus
+                 if os.path.exists(os.path.join(root, "aku", a["id"] + ".md"))]
+        if clash:
+            raise SystemExit(f"COLISIÓN: ya existen {clash} — ¿dedup no detectado? "
+                             f"Trátalos como dedup (akupatch) o pasa allow_overwrite=True.")
     for a in akus:
         a.setdefault("rel", {})
     # mirror among-set inverses

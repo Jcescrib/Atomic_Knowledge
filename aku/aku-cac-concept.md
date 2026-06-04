@@ -48,6 +48,7 @@ relations:
     - aku-atribucion-concept
     - aku-conversion-olvidada-claim
     - aku-recomendacion-vs-viralizacion-concept
+    - aku-lead-magnet-reduce-cac-claim
 
 sources:
   - "raw/cursos/power-mba/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md"
@@ -62,4 +63,4 @@ status_note: ""
 
 **supports** → [[aku-cltv-cac-dual-optimization]] · [[aku-cac-payback-concept]] · [[aku-cltv-cac-ratio-concept]] · [[aku-cltv-minus-cac-concept]]
 
-**related** ↔ [[aku-cltv-concept]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-motor-crecimiento-viral-concept]] · [[aku-viral-bajo-cltv-compatible-claim]] · [[aku-metricas-accionables-concept]] · [[aku-palancas-marketing-digital-concept]] · [[aku-atribucion-concept]] · [[aku-conversion-olvidada-claim]] · [[aku-recomendacion-vs-viralizacion-concept]]
+**related** ↔ [[aku-cltv-concept]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-motor-crecimiento-viral-concept]] · [[aku-viral-bajo-cltv-compatible-claim]] · [[aku-metricas-accionables-concept]] · [[aku-palancas-marketing-digital-concept]] · [[aku-atribucion-concept]] · [[aku-conversion-olvidada-claim]] · [[aku-recomendacion-vs-viralizacion-concept]] · [[aku-lead-magnet-reduce-cac-claim]]

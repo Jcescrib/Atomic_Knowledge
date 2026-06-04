@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-high-value-low-cost-one-to-many-claim
+    - aku-tipos-lead-magnet-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-high-value-low-cost-one-to-many-claim]]
+**related** ↔ [[aku-high-value-low-cost-one-to-many-claim]] · [[aku-tipos-lead-magnet-concept]]

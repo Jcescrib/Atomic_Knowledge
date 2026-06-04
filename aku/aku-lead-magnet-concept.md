@@ -11,9 +11,9 @@ statement: >
   decálogo de venta (identificación inmediata, dejar claro qué se va a recibir,
   ayudar a visualizarlo y apoyarse en social proof).
 origin: "The Power MBA — Módulos 5.1 «Power Selling» y 5.5.1 «Captación y nurturing de leads»"
-domain: [marketing, captacion, leads, funnel, power-mba]
+domain: [marketing, captacion, leads, funnel, power-mba, hormozi]
 
-llm_confidence: 0.60
+llm_confidence: 0.70
 
 human_certainty:
   status: unvalidated
@@ -26,25 +26,41 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
-  supports: []
+  supported_by:
+    - aku-problem-solution-cycle-concept
+  supports:
+    - aku-tipos-lead-magnet-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-cliente-buscando-vs-no-concept, aku-leyes-persuasion-cialdini-concept, aku-power-funnel-concept, aku-inbound-marketing-concept, aku-lead-concept, aku-lista-de-espera-concept, aku-cialdini-reciprocidad-concept]
+  related:
+    - aku-cliente-buscando-vs-no-concept
+    - aku-leyes-persuasion-cialdini-concept
+    - aku-power-funnel-concept
+    - aku-inbound-marketing-concept
+    - aku-lead-concept
+    - aku-lista-de-espera-concept
+    - aku-cialdini-reciprocidad-concept
+    - aku-give-away-secrets-sell-implementation-claim
+    - aku-lead-magnet-reduce-cac-claim
 
 sources:
   - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
   - raw/cursos/power-mba/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google.md
+  - raw/libros/hormozi/100m-leads/100m-leads.md
 
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-04
 status: active
 status_note: ""
 ---
 
 ## Relaciones
 
-**related** ↔ [[aku-cliente-buscando-vs-no-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-power-funnel-concept]] · [[aku-inbound-marketing-concept]] · [[aku-lead-concept]] · [[aku-lista-de-espera-concept]] · [[aku-cialdini-reciprocidad-concept]]
+**related** ↔ [[aku-cliente-buscando-vs-no-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-power-funnel-concept]] · [[aku-inbound-marketing-concept]] · [[aku-lead-concept]] · [[aku-lista-de-espera-concept]] · [[aku-cialdini-reciprocidad-concept]] · [[aku-give-away-secrets-sell-implementation-claim]] · [[aku-lead-magnet-reduce-cac-claim]]
+
+**supports** → [[aku-tipos-lead-magnet-concept]]
+
+**supported_by** ← [[aku-problem-solution-cycle-concept]]

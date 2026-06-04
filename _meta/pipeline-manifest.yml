@@ -1419,3 +1419,22 @@ sources:
       grand-slam-offer-tres-palancas) + 2 dedup-merges (commodity 0.50→0.60 +tag hormozi;
       cltv-gross-margin-over-revenue 0.50→0.60). INTEGRATE (a) anclado: GSO/categoria-de-uno
       ↔ commodity, estrategia-diferenciacion; compra-value-vs-price ↔ diferenciacion-mayores-margenes.
+      LIBRO COMPLETO (2026-06-04): 51 AKUs nuevos, 9 TAKUs, 6 dedup-merges; verify_graph 0 errores.
+
+  - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\05-Estrategies de marketing digital\\5.6-nickkolenda-Marketing full PDF\\Alex Hormozi\\100M Leads.pdf"
+    name_slug: "100m-leads"
+    raw_path: "raw/libros/hormozi/100m-leads/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: null   # book mode — en curso
+    chapters_ingested: [lead-magnets-y-engaged-leads]
+    aku_count: 6
+    taku_count: 1
+    last_commit: ""
+    notes: >
+      Libro 2 de la trilogía Hormozi (Acquisition.com Vol. II). source-tag: hormozi.
+      Cap.1 (lead-magnets-y-engaged-leads): 6 AKUs nuevos (engaged-lead, tipos-lead-magnet,
+      problem-solution-cycle, give-away-secrets, lead-magnet-reduce-cac, reason-why) +
+      technique TAKU crear-lead-magnet. Dedup: lead-concept (+fuente 0.50→0.60; Hormozi
+      separa lead/engaged-lead), lead-magnet-concept (0.60→0.70), cta-concept (0.50→0.60).
