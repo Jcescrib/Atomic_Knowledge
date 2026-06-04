@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-paid-social-concept, aku-anuncio-texto-google-ads-concept]
+  related: [aku-paid-social-concept, aku-anuncio-texto-google-ads-concept, aku-concordancia-palabras-clave-concept]
 
 sources:
   - raw/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
@@ -45,4 +45,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-canales-marketing-digital-concept]]
-**related** ↔ [[aku-paid-social-concept]] · [[aku-anuncio-texto-google-ads-concept]]
+**related** ↔ [[aku-paid-social-concept]] · [[aku-anuncio-texto-google-ads-concept]] · [[aku-concordancia-palabras-clave-concept]]

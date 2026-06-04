@@ -480,3 +480,11 @@ Módulo 09 total: 4 PDFs + 2º pase = +100 AKUs (21+9+25+31+14), 0 TAKUs (conten
 +2 TAKUs: heuristic optimizar-anuncio-texto-google, technique ab-testing-anuncio-google.
 INTEGRATE (a) anclado: anuncio-texto ↔ sem-paid-search; descripcion ↔ cta-concept; url-visible ↔ landing-page; relevancia-claim ↔ landing-page.
 7 imágenes decorativas (capturas de anuncios reales ya descritas íntegramente en el texto). Verificación: 376 AKUs, 0 asimetrías, 0 body-drift, TAKU links OK.
+
+## 2026-06-04 — pipeline módulo 11 «Google Ads» PDF 2/2: Concordancia de palabras clave
+
++7 AKUs (6 concept: concordancia-palabras-clave, concordancia-amplia, modificador-concordancia-amplia, concordancia-frase, concordancia-exacta, concordancia-negativa; 1 claim: concordancia-alcance-relevancia-tradeoff).
++1 TAKU technique: estrategia-concordancias-google (ejemplo Montblanc).
+INTEGRATE (a): concordancia-palabras-clave ↔ sem-paid-search + anuncio-texto-google-ads.
+0 imágenes. Verificación: 383 AKUs, 0 asimetrías, 0 body-drift.
+Módulo 11 COMPLETO: 2 PDFs, +15 AKUs (12 concept + 3 claim) + 3 TAKUs.

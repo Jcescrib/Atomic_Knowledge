@@ -1162,3 +1162,20 @@ sources:
       anclado: anuncio-texto ↔ sem-paid-search; descripcion ↔ cta-concept (CTA); url-visible ↔
       landing-page; relevancia-claim ↔ landing-page. 7 imágenes decorativas (capturas de anuncios ya
       descritas en texto). 0 dudas de dedup.
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\11-Google Ads (Especialización)\Concordancia+de+palabras+google.pdf"
+    name_slug: "concordancia-de-palabras-google"
+    raw_path: "raw/concordancia-de-palabras-google/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: n/a
+    ingested: 2026-06-04
+    chapters_ingested: []
+    aku_count: 7
+    taku_count: 1
+    last_commit: ""
+    notes: >
+      Módulo 11 PDF 2 — Concordancia de palabras clave. 6 concept (concordancia-palabras-clave +
+      amplia, modificador-amplia, frase, exacta, negativa) + 1 claim (alcance-relevancia-tradeoff) +
+      1 technique TAKU (estrategia-concordancias-google, ej. Montblanc). INTEGRATE (a): concordancia
+      ↔ sem-paid-search y ↔ anuncio-texto-google-ads. 0 imágenes. MÓDULO 11 COMPLETO (2 PDFs, +15 AKUs,
+      +3 TAKUs).
