@@ -431,3 +431,12 @@ Posible dedup leve anotado para revisión: claridad-objetivos-exito vs autolider
 DEDUP: dimensiones de personalidad (E/I, S/N, T/F, J/P) → enriquecen aku-mbti-concept (+2ª fuente, mismo org → sin bump); puntos ciegos → +2ª fuente a aku-tests-personalidad-concept (sin bump).
 Imágenes: 2 redundantes (tablas Test del aeropuerto + Viaje al pasado, ya en HTML del markdown).
 Módulo 08 COMPLETO: 2 PDFs, +5 AKUs (3 concept + 2 claim) + 4 TAKUs.
+
+## 2026-06-04 — pipeline módulo 09 «Contabilidad y finanzas» (HYPERDETALLE) PDF 1/4: 09.01.01 Balance de situación
+
++21 AKUs concept (hyperdetalle, una por concepto contable con identidad propia):
+Estructura: balance-situacion, activo, activo-corriente, activo-no-corriente, pasivo, pasivo-corriente, pasivo-no-corriente, patrimonio-neto.
+Partidas: caja-bancos, clientes-partida, existencias, inmovilizado-{intangible,material,financiero}, proveedores-partida, deudas-corto-plazo-entidades-financieras, otros-acreedores, deudas-largo-plazo-entidades-credito, obligaciones-y-bonos, capital-social, reservas-beneficios-no-distribuidos.
+Cada partida con su rango de cuentas del PGC español. Árbol related interno simétrico (categoría↔partida).
+Cluster contable aislado temporalmente del grafo principal — reconexión en INTEGRATE al cierre del módulo.
+0 imágenes, 0 TAKUs (contenido puramente definicional).

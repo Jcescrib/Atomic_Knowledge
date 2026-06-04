@@ -1054,3 +1054,25 @@ sources:
       (+fuente, MISMO org → sin bump, 0.50); puntos ciegos → aku-tests-personalidad-concept (+fuente,
       sin bump). 2 imágenes redundantes (tablas ya capturadas como HTML por MinerU). related sync con
       diagnostico, objetivos-personales, tests-personalidad.
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\09-Contabilidad y finannzas\09.01.01-BALANCEDESITUACION.pdf"
+    name_slug: "09-01-01-balancedesituacion"
+    raw_path: "raw/09-01-01-balancedesituacion/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: n/a
+    ingested: 2026-06-04
+    chapters_ingested: []
+    aku_count: 21
+    taku_count: 0
+    last_commit: ""
+    notes: >
+      Módulo 09 «Contabilidad y finanzas» PDF 1 — Balance de situación. HYPERDETALLE: 21 concept AKUs
+      (1 balance-situacion + 7 estructurales: activo, activo-corriente, activo-no-corriente, pasivo,
+      pasivo-corriente, pasivo-no-corriente, patrimonio-neto + 13 partidas: caja-bancos,
+      clientes-partida, existencias, inmovilizado-intangible/material/financiero, proveedores-partida,
+      deudas-cp-entidades-financieras, otros-acreedores, deudas-lp-entidades-credito, obligaciones-y-bonos,
+      capital-social, reservas-beneficios-no-distribuidos). Cada partida con cuentas PGC. Árbol related
+      interno simétrico (parent↔child). Cluster contable temporalmente aislado del grafo principal —
+      se reconecta en INTEGRATE al cierre del módulo (puentes vía margenes/EBITDA↔unit-economics,
+      estructura-costes). Naming: clientes-partida/proveedores-partida para evitar colisión con BMC
+      relaciones-con-clientes y Porter poder-proveedores. 0 imágenes.
