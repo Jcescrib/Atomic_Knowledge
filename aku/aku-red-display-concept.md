@@ -25,7 +25,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-canales-marketing-digital-concept]
+  supports: [aku-canales-marketing-digital-concept, aku-clasificacion-display-por-movimiento-concept]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -44,5 +44,5 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-canales-marketing-digital-concept]]
+**supports** → [[aku-canales-marketing-digital-concept]] · [[aku-clasificacion-display-por-movimiento-concept]]
 **related** ↔ [[aku-programatica-concept]] · [[aku-publicidad-nativa-concept]]
