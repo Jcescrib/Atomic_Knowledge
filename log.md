@@ -488,3 +488,11 @@ INTEGRATE (a) anclado: anuncio-texto ↔ sem-paid-search; descripcion ↔ cta-co
 INTEGRATE (a): concordancia-palabras-clave ↔ sem-paid-search + anuncio-texto-google-ads.
 0 imágenes. Verificación: 383 AKUs, 0 asimetrías, 0 body-drift.
 Módulo 11 COMPLETO: 2 PDFs, +15 AKUs (12 concept + 3 claim) + 3 TAKUs.
+
+## 2026-06-04 — pipeline módulo 12 «Social media» (3 PDFs)
+
+PDF1 (creación contenido): +1 concept (herramientas-creacion-contenido-rrss). 6 img decorativas.
+PDF2 (gestión RRSS): +3 concept (herramientas-gestion-rrss, community-manager, escucha-social). 3 img decorativas.
+PDF3 (tabla comparativa): +9 AKUs (hub comparativa-redes-sociales + 7 platforms twitter/instagram/linkedin/facebook/tiktok/pinterest/youtube + claim eleccion-red-social-segun-negocio) + 1 framework TAKU seleccion-red-social. 10 logos decorativos; tablas HTML = fuente.
+INTEGRATE (a): herramientas-creacion ↔ content-marketing; comparativa ↔ paid-social.
+Módulo 12 COMPLETO: 3 PDFs, +13 AKUs (12 concept + 1 claim) + 1 TAKU. Verificación: 396 AKUs, 51 TAKUs, 0 asimetrías, 0 body-drift.

@@ -30,7 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-sem-paid-search-concept, aku-marketing-influencers-concept]
+  related: [aku-sem-paid-search-concept, aku-marketing-influencers-concept, aku-comparativa-redes-sociales-concept]
 
 sources:
   - raw/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
@@ -44,4 +44,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-canales-marketing-digital-concept]]
-**related** ↔ [[aku-sem-paid-search-concept]] · [[aku-marketing-influencers-concept]]
+**related** ↔ [[aku-sem-paid-search-concept]] · [[aku-marketing-influencers-concept]] · [[aku-comparativa-redes-sociales-concept]]
