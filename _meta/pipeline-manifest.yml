@@ -1118,3 +1118,28 @@ sources:
       diferenciacion-mayores-margenes (texto cita «Diferenciación», «Liderazgo en coste»). 1 imagen
       informational captionada (ciclo working capital PMM = días existencias + PMC − PMP). Verificación:
       323 AKUs, 0 asimetrías, 0 body-drift.
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\09-Contabilidad y finannzas\09.03.01-ConceptosClaveFinanzas2.pdf"
+    name_slug: "09-03-01-conceptosclavefinanzas2"
+    raw_path: "raw/09-03-01-conceptosclavefinanzas2/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: 2026-06-04
+    ingested: 2026-06-04
+    chapters_ingested: []
+    aku_count: 31
+    taku_count: 0
+    last_commit: ""
+    notes: >
+      Módulo 09 PDF 4 — Conceptos clave: Finanzas (valoración). HYPERDETALLE: 31 AKUs = 16 concept
+      (valor-actual-presente, valor-futuro, tasa-de-descuento, prima-de-riesgo, van, tir,
+      enterprise-value, equity-value, valoracion-empresa-enfoques, multiplo, estructura-de-capital,
+      escudo-fiscal, free-cash-flow, cash-flow-accionistas, coste-fondos-propios-ke, coste-deuda-kd)
+      + 11 method (descontar-actualizar, capitalizar-interes-simple/-compuesto, van-formula, tir-formula,
+      valoracion-por-activos, valoracion-por-multiplos, per, ratio-de-apalancamiento, dcf, wacc) + 4 claim
+      (van-tir-equivalencia, apalancamiento-aumenta-roe, apalancamiento-aumenta-riesgo,
+      apalancamiento-valoracion-optimo). Backbone concept→method totalmente tipado. INTEGRATE (a)
+      anclado a PDF3: multiplo ↔ ebitda/ventas/beneficio-neto (EV/EBITDA, EV/Ventas, PER); per
+      supported_by beneficio-neto; escudo-fiscal ↔ gastos-financieros (intereses deducibles). 1 imagen
+      informational (U invertida valor-empresa vs apalancamiento). Verificación: 354 AKUs, 0 asimetrías,
+      0 body-drift, 0 sin aku_class. MÓDULO 09 ingesta base COMPLETA (4 PDFs, +86 AKUs); pendiente 2º
+      pase de verificación.

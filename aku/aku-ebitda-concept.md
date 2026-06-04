@@ -32,7 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-ebit-concept, aku-amortizacion-concept, aku-margen-bruto-concept]
+  related: [aku-ebit-concept, aku-amortizacion-concept, aku-margen-bruto-concept, aku-multiplo-concept]
 
 sources:
   - raw/09-02-01-ratios-analisis-financieros/09-02-01-ratios-analisis-financieros.md
@@ -46,4 +46,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-margen-ebitda-method]]
-**related** ↔ [[aku-ebit-concept]] · [[aku-amortizacion-concept]] · [[aku-margen-bruto-concept]]
+**related** ↔ [[aku-ebit-concept]] · [[aku-amortizacion-concept]] · [[aku-margen-bruto-concept]] · [[aku-multiplo-concept]]

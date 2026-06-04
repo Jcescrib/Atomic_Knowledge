@@ -290,7 +290,13 @@ La deuda genera un riesgo mientras que el equity no. Por lo tanto, a medida que 
 
 La valoración de la empresa crece si incrementa el apalancamiento, hasta superar un punto en el que tanto el Equity (socios) como la Deuda (bancos), perciben que el riesgo es excesivo.
 
-![](images/2a7eb8d696924d05d6959d8769ced58df183892fb33044ea7851615dbbcc6aac.jpg)  
+![](images/2a7eb8d696924d05d6959d8769ced58df183892fb33044ea7851615dbbcc6aac.jpg)
+> **Figura**: Curva en forma de U invertida que relaciona el Valor de la Empresa (eje
+> vertical) con el nivel de Apalancamiento (eje horizontal). El valor crece a medida
+> que aumenta el apalancamiento (por el escudo fiscal de la deuda) hasta alcanzar un
+> punto óptimo (máximo de la curva); a partir de ahí, más apalancamiento reduce el
+> valor porque tanto el Equity (socios) como la Deuda (bancos) perciben un riesgo
+> excesivo. Ilustra que existe una estructura de capital óptima.
 APALANCAMIENTO
 
 ## EN QUÉ CONSISTE

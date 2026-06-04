@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-gastos-contables-concept, aku-pasivo-concept, aku-ebit-concept]
+  related: [aku-gastos-contables-concept, aku-pasivo-concept, aku-ebit-concept, aku-escudo-fiscal-concept]
 
 sources:
   - raw/09-01-02-detalle-cuentas-estado-resultados/09-01-02-detalle-cuentas-estado-resultados.md
@@ -44,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-gastos-contables-concept]] · [[aku-pasivo-concept]] · [[aku-ebit-concept]]
+**related** ↔ [[aku-gastos-contables-concept]] · [[aku-pasivo-concept]] · [[aku-ebit-concept]] · [[aku-escudo-fiscal-concept]]

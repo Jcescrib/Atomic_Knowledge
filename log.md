@@ -455,3 +455,11 @@ Backbone concept→method (supports/supported_by) totalmente tipado; ventas/acti
 INTEGRATE (a) anclado: margen-volumen-patron-sectorial ↔ liderazgo-en-coste + diferenciacion-mayores-margenes.
 1 imagen informational captionada (ciclo working capital PMM).
 Verificación: 323 AKUs, 0 asimetrías bidireccionales, 0 body-drift.
+
+## 2026-06-04 — pipeline módulo 09 (HYPERDETALLE) PDF 4/4: 09.03.01 Conceptos clave Finanzas (valoración)
+
++31 AKUs: 16 concept (valor-actual-presente, valor-futuro, tasa-de-descuento, prima-de-riesgo, van, tir, enterprise-value, equity-value, valoracion-empresa-enfoques, multiplo, estructura-de-capital, escudo-fiscal, free-cash-flow, cash-flow-accionistas, coste-fondos-propios-ke, coste-deuda-kd) + 11 method (descontar-actualizar, capitalizar-interes-simple/-compuesto, van-formula, tir-formula, valoracion-por-activos, valoracion-por-multiplos, per, ratio-de-apalancamiento, dcf, wacc) + 4 claim (van-tir-equivalencia, apalancamiento-aumenta-roe/-riesgo, apalancamiento-valoracion-optimo).
+INTEGRATE (a) anclado a PDF3: multiplo ↔ ebitda/ventas/beneficio-neto; per supported_by beneficio-neto; escudo-fiscal ↔ gastos-financieros.
+1 imagen informational (U invertida valor-empresa vs apalancamiento).
+Verificación: 354 AKUs, 0 asimetrías, 0 body-drift, 0 sin aku_class.
+Módulo 09 ingesta base: 4 PDFs, +86 AKUs (21+9+25+31). Pendiente 2º pase de verificación (relectura raw/).

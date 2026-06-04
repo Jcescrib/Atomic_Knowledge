@@ -32,7 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-ingresos-contables-concept]
+  related: [aku-ingresos-contables-concept, aku-multiplo-concept]
 
 sources:
   - raw/09-01-02-detalle-cuentas-estado-resultados/09-01-02-detalle-cuentas-estado-resultados.md
@@ -46,4 +46,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-margen-bruto-sobre-ventas-method]] · [[aku-margen-ebitda-method]] · [[aku-margen-ebit-method]] · [[aku-margen-neto-method]] · [[aku-rotacion-activo-method]]
-**related** ↔ [[aku-ingresos-contables-concept]]
+**related** ↔ [[aku-ingresos-contables-concept]] · [[aku-multiplo-concept]]
