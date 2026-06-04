@@ -27,7 +27,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports: [aku-factor-crecimiento-network-effects-concept, aku-factor-crecimiento-distribucion-concept, aku-factor-crecimiento-tamano-mercado-concept, aku-factor-crecimiento-grandes-margenes-concept]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -46,4 +46,5 @@ status_note: ""
 
 ## Relaciones
 
+**supports** → [[aku-factor-crecimiento-network-effects-concept]] · [[aku-factor-crecimiento-distribucion-concept]] · [[aku-factor-crecimiento-tamano-mercado-concept]] · [[aku-factor-crecimiento-grandes-margenes-concept]]
 **related** ↔ [[aku-network-effect-concept]] · [[aku-masa-critica-concept]] · [[aku-motor-crecimiento-concept]]

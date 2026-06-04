@@ -28,13 +28,13 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports: [aku-evolucion-rol-fundador-concept]
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-blitzscaling-concept, aku-limitadores-crecimiento-blitzscaling-concept]
+  related: [aku-blitzscaling-concept, aku-limitadores-crecimiento-blitzscaling-concept, aku-obstaculos-contratar-ejecutivos-externos-claim]
 
 sources:
   - raw/cursos/power-mba/4-5-blitzscaling/4-5-blitzscaling.md
@@ -47,4 +47,5 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-blitzscaling-concept]] · [[aku-limitadores-crecimiento-blitzscaling-concept]]
+**supports** → [[aku-evolucion-rol-fundador-concept]]
+**related** ↔ [[aku-blitzscaling-concept]] · [[aku-limitadores-crecimiento-blitzscaling-concept]] · [[aku-obstaculos-contratar-ejecutivos-externos-claim]]
