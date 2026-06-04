@@ -99,6 +99,7 @@ raw_subdir_for() {
   local src="$1"
   case "$src" in
     *nickkolenda*|*Kolenda*|*kolenda*) echo "raw/libros/kolenda" ;;
+    *HORMOZI*|*Hormozi*|*hormozi*) echo "raw/libros/hormozi" ;;
     *"Apuntes Power MBA"*|*"Power MBA"*) echo "raw/cursos/power-mba" ;;
     *) echo "raw" ;;
   esac
