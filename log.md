@@ -279,3 +279,9 @@ Borrados los 15 AKUs `*-kolenda-*` creados a granularidad de tesis nuclear (deci
 - Nota: CLAUDE.md prohíbe borrar AKUs (usar deprecated); ejecutado bajo override explícito del propietario, reversible por git.
 
 ## 2026-06-04 — lint  0 errors / 6 warnings / info
+
+## 2026-06-04 — pipeline (módulo 06, 6.1.01)
+Source: `raw/6-1-01-fit-entre-tu-proyecto-y-tu/...md` (Power MBA — 6.1 «Fit entre tu proyecto y tú»). 1 imagen (diagrama MATCH «TÚ ♥ MODELO DE NEGOCIO») captionada como informacional; tablas (implicaciones, anexo startup/tradicional/marketplace/ecommerce) ya extraídas por MinerU como HTML.
+- **2 concept-AKUs**: `fit-proyecto-emprendedor`, `implicaciones-modelo-negocio` (7 dimensiones).
+- **1 framework TAKU**: `taku-eleccion-proyecto-fit`.
+- INTEGRATE: ↔ innovar-vs-competir (riesgo/incertidumbre), ventaja-competitiva.

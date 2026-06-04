@@ -885,3 +885,16 @@ sources:
     taku_count: 1
     last_commit: ""
     notes: "Flywheel funnel (concept) + framework TAKU flywheel (alternative_to power-funnel)."
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\06-Emprendimiento\6.1.01-Fit entre tu proyecto y tu.pdf"
+    name_slug: "6-1-01-fit-entre-tu-proyecto-y-tu"
+    raw_path: "raw/6-1-01-fit-entre-tu-proyecto-y-tu/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: 2026-06-04
+    ingested: 2026-06-04
+    chapters_ingested: []
+    aku_count: 2
+    taku_count: 1
+    last_commit: ""
+    notes: "Fit proyecto-emprendedor + implicaciones del modelo (7 dim). 1 imagen MATCH captionada. Tablas ya en HTML."
