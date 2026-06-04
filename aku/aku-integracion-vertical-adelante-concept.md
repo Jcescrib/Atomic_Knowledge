@@ -27,7 +27,7 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by: [aku-objetivos-integracion-vertical-adelante-claim]
   supports: []
   constrained_by: []
   constrains: []
@@ -46,5 +46,7 @@ status_note: ""
 ---
 
 ## Relaciones
+
+**supported_by** ← [[aku-objetivos-integracion-vertical-adelante-claim]]
 
 **related** ↔ [[aku-canal-directo-concept]] · [[aku-canal-indirecto-concept]] · [[aku-barreras-de-entrada-concept]] · [[aku-ventaja-competitiva-concept]]

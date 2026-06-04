@@ -24,7 +24,7 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by: [aku-sinergias-desarrollo-productos-claim]
   supports: [aku-matriz-ansoff-concept]
   constrained_by: []
   constrains: []
@@ -43,5 +43,7 @@ status_note: ""
 ---
 
 ## Relaciones
+
+**supported_by** ← [[aku-sinergias-desarrollo-productos-claim]]
 
 **supports** → [[aku-matriz-ansoff-concept]]

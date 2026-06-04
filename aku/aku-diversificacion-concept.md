@@ -26,7 +26,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-matriz-ansoff-concept]
+  supports: [aku-matriz-ansoff-concept, aku-conglomerados-concept]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -45,6 +45,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-matriz-ansoff-concept]]
+**supports** → [[aku-matriz-ansoff-concept]] · [[aku-conglomerados-concept]]
 
 **related** ↔ [[aku-socio-industrial-concept]]
