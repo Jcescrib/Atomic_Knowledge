@@ -36,6 +36,7 @@ relations:
   related:
     - aku-innovacion-valor-concept
     - aku-ecuacion-valor-claim
+    - aku-ampliar-gap-valor-precio-claim
 
 sources:
   - "raw/cursos/power-mba/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a.md"
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-coste-percibido-amplio-concept]]
 
-**related** ↔ [[aku-innovacion-valor-concept]] · [[aku-ecuacion-valor-claim]]
+**related** ↔ [[aku-innovacion-valor-concept]] · [[aku-ecuacion-valor-claim]] · [[aku-ampliar-gap-valor-precio-claim]]

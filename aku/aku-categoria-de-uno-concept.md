@@ -30,6 +30,7 @@ relations:
     - aku-commodity-concept
     - aku-estrategia-diferenciacion-concept
     - aku-grand-slam-offer-concept
+    - aku-precio-alto-aumenta-valor-percibido-claim
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
 created: 2026-06-04
@@ -40,4 +41,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-commodity-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-grand-slam-offer-concept]]
+**related** ↔ [[aku-commodity-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-grand-slam-offer-concept]] · [[aku-precio-alto-aumenta-valor-percibido-claim]]
