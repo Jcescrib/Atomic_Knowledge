@@ -36,6 +36,7 @@ relations:
   contradicts: []
   related:
     - aku-lifetime-concept
+    - aku-continuity-offer-concept
 
 sources:
   - "raw/cursos/power-mba/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md"
@@ -54,4 +55,4 @@ status_note: ""
 
 **breaks_context_of** → [[aku-cltv-transactional-formula]]
 
-**related** ↔ [[aku-lifetime-concept]]
+**related** ↔ [[aku-lifetime-concept]] · [[aku-continuity-offer-concept]]

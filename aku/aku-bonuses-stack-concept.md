@@ -38,6 +38,7 @@ relations:
     - aku-ampliar-gap-valor-precio-claim
     - aku-bonos-de-terceros-claim
     - aku-cuatro-upsells-concept
+    - aku-tres-continuity-offers-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -50,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cialdini-reciprocidad-concept]] · [[aku-ampliar-gap-valor-precio-claim]] · [[aku-bonos-de-terceros-claim]] · [[aku-cuatro-upsells-concept]]
+**related** ↔ [[aku-cialdini-reciprocidad-concept]] · [[aku-ampliar-gap-valor-precio-claim]] · [[aku-bonos-de-terceros-claim]] · [[aku-cuatro-upsells-concept]] · [[aku-tres-continuity-offers-concept]]
