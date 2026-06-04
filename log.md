@@ -302,3 +302,12 @@ Source: `raw/6-3-3-estructura-del-pitch-deck/...md`. Estructura del Pitch Deck (
 - **1 concept-AKU**: `pitch-deck` (estructura de ~11 secciones + opcionales).
 - **1 framework TAKU**: `taku-pitch-deck` (3 jb: pitch-deck + criterios-inversion + levantar-financiacion-como-ventas).
 - INTEGRATE: pitch-deck ↔ criterios-inversion, problem-solution-fit, tam-sam-som, bmc (las secciones del deck mapean a estos conceptos).
+
+## 2026-06-04 — pipeline (módulo 06, 6.3.4)
+Source: `raw/6-3-4-templates-elevator-pitch/...md`. Plantillas de elevator pitch. Sin imágenes.
+- **1 concept-AKU**: `elevator-pitch`.
+- **1 technique TAKU**: `taku-elevator-pitch` (2 jb), complementary a `taku-pitch-deck`.
+- INTEGRATE: elevator-pitch ↔ pitch-deck, propuesta-de-valor, vender-una-accion, brandscript-storybrand.
+
+### Módulo 06 COMPLETO (5 PDFs)
+13 AKUs nuevos (11 concept + 2 claim) + 4 TAKUs (eleccion-proyecto-fit, mapa-fuentes-financiacion, pitch-deck [framework], elevator-pitch [technique]). 0 PDFs fallidos. La «tabla en imagen» resultó ya extraída por MinerU como texto/HTML; añadido render markdown de la tabla de financiación; única imagen real (diagrama MATCH) captionada.

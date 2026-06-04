@@ -941,3 +941,16 @@ sources:
     taku_count: 1
     last_commit: ""
     notes: "Estructura del Pitch Deck. 1 concept + framework TAKU taku-pitch-deck. Tabla de secciones ya en HTML."
+
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\06-Emprendimiento\6.3.4 Templates Elevator Pitch.pdf"
+    name_slug: "6-3-4-templates-elevator-pitch"
+    raw_path: "raw/6-3-4-templates-elevator-pitch/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: n/a
+    ingested: 2026-06-04
+    chapters_ingested: []
+    aku_count: 1
+    taku_count: 1
+    last_commit: ""
+    notes: "Plantillas elevator pitch. 1 concept + technique TAKU taku-elevator-pitch. Sin imágenes."

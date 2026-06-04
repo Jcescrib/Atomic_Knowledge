@@ -44,7 +44,7 @@ human_certainty:
   method: ""
 
 taku_relations:
-  complementary: []
+  complementary: [taku-elevator-pitch]
   alternative_to: []
   precedes: []
   follows: []
@@ -102,3 +102,4 @@ responde, en orden, a las preguntas que todo inversor se hace sobre un proyecto.
 ## Relaciones
 
 **justified_by** ← [[aku-pitch-deck-concept]] · [[aku-criterios-inversion-concept]] · [[aku-levantar-financiacion-como-ventas-claim]]
+**complementary** ↔ [[taku-elevator-pitch]]

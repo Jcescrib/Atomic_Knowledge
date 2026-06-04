@@ -34,7 +34,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-criterios-inversion-concept, aku-problem-solution-fit-concept, aku-tam-sam-som-concept, aku-bmc-concept]
+  related: [aku-criterios-inversion-concept, aku-problem-solution-fit-concept, aku-tam-sam-som-concept, aku-bmc-concept, aku-elevator-pitch-concept]
 
 sources:
   - raw/6-3-3-estructura-del-pitch-deck/6-3-3-estructura-del-pitch-deck.md
@@ -47,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-criterios-inversion-concept]] · [[aku-problem-solution-fit-concept]] · [[aku-tam-sam-som-concept]] · [[aku-bmc-concept]]
+**related** ↔ [[aku-criterios-inversion-concept]] · [[aku-problem-solution-fit-concept]] · [[aku-tam-sam-som-concept]] · [[aku-bmc-concept]] · [[aku-elevator-pitch-concept]]
