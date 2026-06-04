@@ -25,7 +25,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports: [aku-formatos-ubicaciones-publicidad-nativa-concept]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -44,4 +44,5 @@ status_note: ""
 
 ## Relaciones
 
+**supports** → [[aku-formatos-ubicaciones-publicidad-nativa-concept]]
 **related** ↔ [[aku-estilo-editorial-concept]] · [[aku-canales-marketing-digital-concept]] · [[aku-red-display-concept]]
