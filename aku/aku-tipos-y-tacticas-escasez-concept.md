@@ -36,6 +36,7 @@ relations:
   contradicts: []
   related:
     - aku-vender-menos-aumenta-demanda-claim
+    - aku-urgencia-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supported_by** ← [[aku-cialdini-escasez-concept]] · [[aku-fear-of-loss-claim]]
 
-**related** ↔ [[aku-vender-menos-aumenta-demanda-claim]]
+**related** ↔ [[aku-vender-menos-aumenta-demanda-claim]] · [[aku-urgencia-concept]]
