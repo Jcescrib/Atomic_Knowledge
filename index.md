@@ -6,14 +6,14 @@ Router and validation dashboard. Updated by `/ingest`, `/pipeline`, `/lint`, and
 
 | Layer | Active | Draft | Deprecated | Validated-false / failing |
 |---|---|---|---|---|
-| AKU | 411 | — | 0 | 1 |
-| TAKU | 0 | 57 | 0 | 0 |
+| AKU | 531 | — | 1 | 1 |
+| TAKU | 0 | 83 | 0 | 0 |
 
-By AKU class: **326 concept**, **30 method**, **55 claim** · all `unvalidated` · `sourced` mayoría at `llm_confidence: 0.50`, 7 `sourced` at `0.60` (post-dedup: segmentos, propuesta-valor, product-market-fit, nicho-strategy, lead-magnet, **proposito-mision**, **valores-marca**), 1 `sourced` at `0.20` (mas-valor-menos-coste, −0.30 por contradicción con atrapado-medio/Porter), 1 `tacit` at `null` (Joan's free-bootstrap-plataforma claim).
+By AKU class: **392 concept**, **30 method**, **110 claim** · all `unvalidated` · `sourced` mayoría at `llm_confidence: 0.50`, ~14 `sourced` at `0.60` (post-dedup), 1 at `0.70` (lead-magnet, 3 fuentes), 1 `sourced` at `0.20` (mas-valor-menos-coste, −0.30 por contradicción con atrapado-medio/Porter), 1 `tacit` at `null` (Joan's free-bootstrap-plataforma claim).
 
-Graph: **1 connected component** (468 nodos: 411 AKU + 57 TAKU), 0 bidirectional errors (AKU 411/411 simétrico, 0 body-drift, 0 wikilinks rotos; TAKU justified_by 100% válidos — verificado por script). Tras ingesta módulos 08-20: el cluster contable (módulo 09) y el de ratios solvencia/liquidez/working-capital quedaron temporalmente aislados; reunificados con puentes INTEGRATE nivel (a) anclados en texto (ingresos↔flujos-de-ingresos, gastos↔estructura-de-costes, NOF↔existencias/clientes/proveedores, fondo-maniobra↔activo/pasivo-corriente, solvencia↔pasivo, liquidez↔activo-corriente).
+Graph: **1 connected component** (615 nodos: 532 AKU + 83 TAKU), 0 bidirectional errors (532/532 simétrico, 0 body-drift, 0 wikilinks rotos, 0 huérfanos — verificado por `scripts/verify_graph.py`). **130 AKUs llevan el source-tag `hormozi`** (121 nuevos + 9 dedup-merges cross-corpus). Tras la ingesta Hormozi se reconectaron 1 huérfano (convergent-vs-divergent) y 1 isla (create-flow/sales-fulfillment) con puentes nivel (a)/(b).
 
-_Last updated: 2026-06-04 (pipeline módulo 07 «Leadership» COMPLETO — 3 PDFs: +30 AKUs / +11 TAKUs. 7.1.1 «Liderarse a uno mismo» (+15 AKUs, 5 TAKUs: liderazgo personal, autoevaluación cuerpo-mente-alma, mindfulness, MBTI, deep work, Ikigai), 7.1.2 plantilla (0 AKUs, plegada en autoevaluación), 7.2.1 «Liderar a otros» (+15 AKUs, 6 TAKUs: liderar-vs-gestionar, liderazgo situacional, misión/visión/valores, cultura corporativa + 4 arquetipos, estructuras organizativas, OKR). Dedup: misión y valores organizacionales enriquecen proposito-mision y valores-marca (0.50→0.60). Previo: reingesta diferencial 02–06 → 233 AKUs / 32 TAKUs)._
+_Last updated: 2026-06-04 (TRILOGÍA HORMOZI COMPLETA — 3 libros book-mode: +121 AKUs / +25 TAKUs. **100M Offers** (51 AKU, 9 TAKU: grand-slam-offer, value-equation, escasez/urgencia/bonos/garantías, MAGIC naming), **100M Leads** (53 AKU, 11 TAKU: Core Four —warm/cold outreach, content, paid ads—, lead getters —referidos/empleados/agencias/afiliados—, LTGP:CAC, client-financed-acquisition, more-better-new, open-to-goal), **100M Money Models** (17 AKU, 5 TAKU: money model 3 etapas, attraction/upsell/downsell/continuity offers). Dedups cross-corpus Power-MBA↔Hormozi: commodity, ecuacion-valor, cialdini-escasez, lead-concept, lead-magnet, cta, cltv-cac-ratio, cltv-gross-margin, marketing-afiliados, cac/cac-payback. Previo: pipeline módulo 07 «Leadership» → 233 AKUs / 32 TAKUs)._
 
 ## Pending validation queue
 

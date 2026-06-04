@@ -555,3 +555,17 @@ TAKUs: NO tocados (los activa el humano manualmente).
 - CLAUDE.md § TAKU creation rules: declarado el custom type `reference` con headers obligatorios (## Descripción · ## Recursos · ## Cómo usar esta referencia · ## Relaciones).
 - DEPRECADO aku-libros-copywriting-recomendados-concept (status: active → deprecated; status_note: "Sustituido por taku-bibliografia-copywriting (reference)."). Se conserva; los related entrantes (aku-hacks-copywriting-concept, aku-leyes-persuasion-cialdini-concept) se mantienen.
 - CREADO taku/reference/taku-bibliografia-copywriting.md (status: draft, content_validation: llm-authored). justified_by ← aku-hacks-copywriting-concept · aku-leyes-persuasion-cialdini-concept (aku-corpus-copywriting-concept no existe, omitido). Carpeta taku/reference/ creada.
+
+## 2026-06-04 — ingest: TRILOGÍA HORMOZI completa (3 libros book-mode)
+
+Ingesta capítulo a capítulo de los 3 libros de Alex Hormozi (`raw/libros/hormozi/`), autónoma, con dedup contra el grafo Power MBA creciente. source-tag: `hormozi`. Herramientas nuevas: `scripts/akugen.py` (generador con espejado bidireccional + cuerpo `## Relaciones`), `scripts/akupatch.py` (parcheo de ficheros existentes con sync 3-capas), `scripts/verify_graph.py` (simetría + body-drift + targets + componentes).
+
+**Totales**: +121 AKUs nuevos, +25 TAKUs (51→... ver index). 10 dedup-merges cross-corpus Power-MBA↔Hormozi. verify_graph final: **532 AKUs, 0 errores, 1 componente conectado, 0 huérfanos**.
+
+- **100M Offers** (51 AKU, 9 TAKU) — 11 caps: grand-slam-offer/categoría-de-uno, starving-crowd/4-indicadores-mercado/riches-in-niches, premium-pricing/virtuous-cycle, **value-equation** (dream-outcome/perceived-likelihood/time-delay/effort-sacrifice), crear-la-oferta (problemas→soluciones/trim-and-stack/delivery-cube), oferta-demanda/escasez, urgencia, bonos, garantías (4 tipos), MAGIC naming. Dedups: commodity, cltv-gross-margin, ecuacion-valor, cialdini-escasez.
+- **100M Leads** (53 AKU, 11 TAKU) — 11 caps: lead/engaged-lead/lead-magnet, **Core Four** (warm-outreach/ACA, post-free-content/content-unit/give-ask, cold-outreach/big-fast-value, paid-ads/call-out-value-cta/what-who-when/LTGP:CAC/**client-financed-acquisition**), more-better-new/rule-of-100, **lead getters** (referidos/goodwill, empleados/3D-training, agencias, afiliados/whisper-tease-shout), open-to-goal/roadmap-7-niveles. Dedups: lead-concept (restaurado tras colisión), lead-magnet (0.70), cta, cltv-cac-ratio, marketing-afiliados.
+- **100M Money Models** (17 AKU, 5 TAKU) — 6 caps: money-model (3 etapas), 4 tipos de oferta — attraction (win-your-money-back/giveaway/decoy/buy-x-get-y/pay-less-now), upsell (classic/menu/anchor/rollover), downsell (payment-plan/trial-penalty/feature), continuity (bonus/discount/waived-fee) — + capstone construir-money-model. Puente clave libro2↔libro3: money-model↔client-financed-acquisition.
+
+**INTEGRATE**: aplicados solo puentes nivel (a) anclados en texto + algún (b) anotado (effort-sacrifice↔coste-percibido-amplio, constraint↔cuello-botella-funnel, money-model↔CFA, continuity↔churn/cltv-subscription, etc.). Manifest: entradas `100m-offers`/`100m-leads`/`100m-money-models` con `ingested: 2026-06-04` y `chapters_ingested` por capítulo (resumible). Commit por capítulo (`ingest: <libro> - <cap>`).
+
+**Pendiente humano**: los 121 AKUs nuevos son `unvalidated`; los 25 TAKUs son `draft` con links `llm-proposed` (a validar por Joan). Kolenda (16 libros) sigue bloqueado por instrucción global.
