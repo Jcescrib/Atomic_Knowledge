@@ -36,6 +36,7 @@ relations:
   related:
     - aku-core-four-concept
     - aku-lead-getters-apalancamiento-concept
+    - aku-100m-lead-machine-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-core-four-concept]] · [[aku-lead-getters-apalancamiento-concept]]
+**related** ↔ [[aku-core-four-concept]] · [[aku-lead-getters-apalancamiento-concept]] · [[aku-100m-lead-machine-concept]]

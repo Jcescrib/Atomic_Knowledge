@@ -36,6 +36,7 @@ relations:
   related:
     - aku-oferta-al-afiliado-concept
     - aku-ltgp-cac-3-a-1-claim
+    - aku-payout-medio-menor-que-cac-maximo-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-oferta-al-afiliado-concept]] · [[aku-ltgp-cac-3-a-1-claim]]
+**related** ↔ [[aku-oferta-al-afiliado-concept]] · [[aku-ltgp-cac-3-a-1-claim]] · [[aku-payout-medio-menor-que-cac-maximo-claim]]

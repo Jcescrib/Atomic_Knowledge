@@ -38,6 +38,7 @@ relations:
     - aku-empleados-lead-getters-concept
     - aku-oferta-al-afiliado-concept
     - aku-roadmap-7-niveles-captacion-concept
+    - aku-cuatro-fortalezas-lead-getters-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -50,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-core-four-concept]] · [[aku-pedir-referidos-como-oferta-claim]] · [[aku-empleados-lead-getters-concept]] · [[aku-oferta-al-afiliado-concept]] · [[aku-roadmap-7-niveles-captacion-concept]]
+**related** ↔ [[aku-core-four-concept]] · [[aku-pedir-referidos-como-oferta-claim]] · [[aku-empleados-lead-getters-concept]] · [[aku-oferta-al-afiliado-concept]] · [[aku-roadmap-7-niveles-captacion-concept]] · [[aku-cuatro-fortalezas-lead-getters-concept]]

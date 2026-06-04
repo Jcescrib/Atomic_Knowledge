@@ -32,7 +32,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-listas-steps-stories-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-content-unit-concept]]
+
+**related** ↔ [[aku-listas-steps-stories-concept]]

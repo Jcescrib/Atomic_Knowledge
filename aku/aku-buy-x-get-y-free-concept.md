@@ -33,7 +33,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-free-stuff-too-expensive-hidden-costs-claim
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -47,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-attraction-offer-concept]]
+
+**related** ↔ [[aku-free-stuff-too-expensive-hidden-costs-claim]]

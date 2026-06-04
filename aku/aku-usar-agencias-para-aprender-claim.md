@@ -34,6 +34,9 @@ relations:
   contradicts: []
   related:
     - aku-empleados-lead-getters-concept
+    - aku-agencia-concept
+    - aku-dos-agencias-buena-y-elite-concept
+    - aku-diez-criterios-buena-agencia-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-empleados-lead-getters-concept]]
+**related** ↔ [[aku-empleados-lead-getters-concept]] · [[aku-agencia-concept]] · [[aku-dos-agencias-buena-y-elite-concept]] · [[aku-diez-criterios-buena-agencia-concept]]

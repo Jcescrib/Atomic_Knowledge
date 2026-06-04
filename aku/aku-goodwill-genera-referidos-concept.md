@@ -36,6 +36,7 @@ relations:
     - aku-referral-growth-exponential-claim
     - aku-ampliar-gap-valor-precio-claim
     - aku-pedir-referidos-como-oferta-claim
+    - aku-goodwill-precio-valor-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supported_by** ← [[aku-seis-formas-mas-valor-referidos-concept]]
 
-**related** ↔ [[aku-referral-growth-exponential-claim]] · [[aku-ampliar-gap-valor-precio-claim]] · [[aku-pedir-referidos-como-oferta-claim]]
+**related** ↔ [[aku-referral-growth-exponential-claim]] · [[aku-ampliar-gap-valor-precio-claim]] · [[aku-pedir-referidos-como-oferta-claim]] · [[aku-goodwill-precio-valor-concept]]

@@ -51,6 +51,7 @@ relations:
     - aku-palancas-marketing-digital-concept
     - aku-lifetime-concept
     - aku-ltgp-concept
+    - aku-affiliate-ltgp-cac-method
 
 sources:
   - "raw/cursos/power-mba/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md"
@@ -67,4 +68,4 @@ status_note: ""
 
 **constrained_by** ← [[aku-cltv-gross-margin-over-revenue]]
 
-**related** ↔ [[aku-cac-concept]] · [[aku-arpu-concept]] · [[aku-churn-rate-concept]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-viral-bajo-cltv-compatible-claim]] · [[aku-metricas-accionables-concept]] · [[aku-palancas-marketing-digital-concept]] · [[aku-lifetime-concept]] · [[aku-ltgp-concept]]
+**related** ↔ [[aku-cac-concept]] · [[aku-arpu-concept]] · [[aku-churn-rate-concept]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-viral-bajo-cltv-compatible-claim]] · [[aku-metricas-accionables-concept]] · [[aku-palancas-marketing-digital-concept]] · [[aku-lifetime-concept]] · [[aku-ltgp-concept]] · [[aku-affiliate-ltgp-cac-method]]

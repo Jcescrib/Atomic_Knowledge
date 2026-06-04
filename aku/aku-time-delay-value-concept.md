@@ -35,6 +35,7 @@ relations:
   related:
     - aku-fast-beats-free-claim
     - aku-focus-bottom-value-equation-claim
+    - aku-wins-rapidos-frecuentes-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-value-equation-concept]]
 
-**related** ↔ [[aku-fast-beats-free-claim]] · [[aku-focus-bottom-value-equation-claim]]
+**related** ↔ [[aku-fast-beats-free-claim]] · [[aku-focus-bottom-value-equation-claim]] · [[aku-wins-rapidos-frecuentes-concept]]

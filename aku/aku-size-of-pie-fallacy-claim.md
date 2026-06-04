@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-more-better-new-concept
+    - aku-puddles-ponds-lakes-oceans-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-more-better-new-concept]]
+**related** ↔ [[aku-more-better-new-concept]] · [[aku-puddles-ponds-lakes-oceans-claim]]

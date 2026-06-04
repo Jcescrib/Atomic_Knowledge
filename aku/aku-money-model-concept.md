@@ -40,6 +40,7 @@ relations:
     - aku-cac-payback-concept
     - aku-upsell-offer-concept
     - aku-create-flow-monetize-flow-add-friction-claim
+    - aku-volumen-cold-tres-palancas-concept
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -54,4 +55,4 @@ status_note: ""
 
 **supported_by** ← [[aku-cuatro-tipos-oferta-concept]] · [[aku-money-model-tres-etapas-concept]]
 
-**related** ↔ [[aku-client-financed-acquisition-concept]] · [[aku-cac-payback-concept]] · [[aku-upsell-offer-concept]] · [[aku-create-flow-monetize-flow-add-friction-claim]]
+**related** ↔ [[aku-client-financed-acquisition-concept]] · [[aku-cac-payback-concept]] · [[aku-upsell-offer-concept]] · [[aku-create-flow-monetize-flow-add-friction-claim]] · [[aku-volumen-cold-tres-palancas-concept]]

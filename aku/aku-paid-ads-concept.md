@@ -40,6 +40,17 @@ relations:
     - aku-core-four-concept
     - aku-ads-eficiencia-vs-alcance-claim
     - aku-tres-fases-escalar-ads-concept
+    - aku-cuatro-requisitos-plataforma-ads-concept
+    - aku-callouts-verbales-concept
+    - aku-callouts-no-verbales-concept
+    - aku-ocho-elementos-what-concept
+    - aku-landing-page-permiso-concept
+    - aku-presupuesto-test-ads-2x-method
+    - aku-presupuesto-desde-objetivo-clientes-method
+    - aku-cac-similar-entre-competidores-claim
+    - aku-diagnostico-cac-3x-industria-method
+    - aku-sales-problem-vs-ads-problem-claim
+    - aku-mejor-contenido-mejores-ads-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -54,4 +65,4 @@ status_note: ""
 
 **supported_by** ← [[aku-anuncio-callout-value-cta-concept]] · [[aku-targeting-lookalike-filtros-concept]]
 
-**related** ↔ [[aku-paid-social-concept]] · [[aku-sem-paid-search-concept]] · [[aku-core-four-concept]] · [[aku-ads-eficiencia-vs-alcance-claim]] · [[aku-tres-fases-escalar-ads-concept]]
+**related** ↔ [[aku-paid-social-concept]] · [[aku-sem-paid-search-concept]] · [[aku-core-four-concept]] · [[aku-ads-eficiencia-vs-alcance-claim]] · [[aku-tres-fases-escalar-ads-concept]] · [[aku-cuatro-requisitos-plataforma-ads-concept]] · [[aku-callouts-verbales-concept]] · [[aku-callouts-no-verbales-concept]] · [[aku-ocho-elementos-what-concept]] · [[aku-landing-page-permiso-concept]] · [[aku-presupuesto-test-ads-2x-method]] · [[aku-presupuesto-desde-objetivo-clientes-method]] · [[aku-cac-similar-entre-competidores-claim]] · [[aku-diagnostico-cac-3x-industria-method]] · [[aku-sales-problem-vs-ads-problem-claim]] · [[aku-mejor-contenido-mejores-ads-claim]]

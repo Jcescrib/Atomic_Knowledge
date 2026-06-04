@@ -43,6 +43,31 @@ relations:
     - aku-lead-getters-apalancamiento-concept
     - aku-empleados-lead-getters-concept
     - aku-roadmap-7-niveles-captacion-concept
+    - aku-lead-contactable-hormozi-concept
+    - aku-engaged-leads-son-el-objetivo-claim
+    - aku-advertising-making-known-concept
+    - aku-doblar-leads-dobla-negocio-claim
+    - aku-hook-topic-headline-format-concept
+    - aku-cinco-categorias-topics-concept
+    - aku-siete-componentes-headline-concept
+    - aku-format-matchea-plataforma-claim
+    - aku-listas-steps-stories-concept
+    - aku-short-vs-long-content-claim
+    - aku-give-ask-benchmarks-concept
+    - aku-integrated-vs-intermittent-offers-concept
+    - aku-depth-then-width-vs-width-then-depth-concept
+    - aku-siete-lecciones-contenido-concept
+    - aku-how-to-vs-how-i-claim
+    - aku-puddles-ponds-lakes-oceans-claim
+    - aku-content-benchmarks-crecimiento-method
+    - aku-un-test-por-semana-por-plataforma-claim
+    - aku-orden-new-placements-platforms-activity-concept
+    - aku-leverage-leads-por-tiempo-concept
+    - aku-volumen-test-size-suficiente-claim
+    - aku-high-roi-habit-stack-concept
+    - aku-one-page-advertising-checklist-concept
+    - aku-100m-lead-machine-concept
+    - aku-many-sided-die-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -57,4 +82,4 @@ status_note: ""
 
 **supported_by** ← [[aku-warm-cold-audience-concept]] · [[aku-warm-outreach-concept]]
 
-**related** ↔ [[aku-canales-marketing-digital-concept]] · [[aku-audiencia-activo-compuesto-claim]] · [[aku-content-nutre-toda-publicidad-claim]] · [[aku-paid-ads-concept]] · [[aku-more-better-new-concept]] · [[aku-lead-getters-apalancamiento-concept]] · [[aku-empleados-lead-getters-concept]] · [[aku-roadmap-7-niveles-captacion-concept]]
+**related** ↔ [[aku-canales-marketing-digital-concept]] · [[aku-audiencia-activo-compuesto-claim]] · [[aku-content-nutre-toda-publicidad-claim]] · [[aku-paid-ads-concept]] · [[aku-more-better-new-concept]] · [[aku-lead-getters-apalancamiento-concept]] · [[aku-empleados-lead-getters-concept]] · [[aku-roadmap-7-niveles-captacion-concept]] · [[aku-lead-contactable-hormozi-concept]] · [[aku-engaged-leads-son-el-objetivo-claim]] · [[aku-advertising-making-known-concept]] · [[aku-doblar-leads-dobla-negocio-claim]] · [[aku-hook-topic-headline-format-concept]] · [[aku-cinco-categorias-topics-concept]] · [[aku-siete-componentes-headline-concept]] · [[aku-format-matchea-plataforma-claim]] · [[aku-listas-steps-stories-concept]] · [[aku-short-vs-long-content-claim]] · [[aku-give-ask-benchmarks-concept]] · [[aku-integrated-vs-intermittent-offers-concept]] · [[aku-depth-then-width-vs-width-then-depth-concept]] · [[aku-siete-lecciones-contenido-concept]] · [[aku-how-to-vs-how-i-claim]] · [[aku-puddles-ponds-lakes-oceans-claim]] · [[aku-content-benchmarks-crecimiento-method]] · [[aku-un-test-por-semana-por-plataforma-claim]] · [[aku-orden-new-placements-platforms-activity-concept]] · [[aku-leverage-leads-por-tiempo-concept]] · [[aku-volumen-test-size-suficiente-claim]] · [[aku-high-roi-habit-stack-concept]] · [[aku-one-page-advertising-checklist-concept]] · [[aku-100m-lead-machine-concept]] · [[aku-many-sided-die-claim]]

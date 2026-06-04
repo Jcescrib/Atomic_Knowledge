@@ -39,6 +39,11 @@ relations:
     - aku-document-demonstrate-duplicate-concept
     - aku-negocio-sin-ti-es-activo-claim
     - aku-usar-agencias-para-aprender-claim
+    - aku-trade-40-horas-por-4-gestion-claim
+    - aku-internal-core-four-concept
+    - aku-entrenar-seguir-instrucciones-claim
+    - aku-coste-por-engaged-lead-payroll-method
+    - aku-diagnostico-sales-vs-ads-una-pregunta-method
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -51,4 +56,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-lead-getters-apalancamiento-concept]] · [[aku-core-four-concept]] · [[aku-estructuras-organizacionales-concept]] · [[aku-document-demonstrate-duplicate-concept]] · [[aku-negocio-sin-ti-es-activo-claim]] · [[aku-usar-agencias-para-aprender-claim]]
+**related** ↔ [[aku-lead-getters-apalancamiento-concept]] · [[aku-core-four-concept]] · [[aku-estructuras-organizacionales-concept]] · [[aku-document-demonstrate-duplicate-concept]] · [[aku-negocio-sin-ti-es-activo-claim]] · [[aku-usar-agencias-para-aprender-claim]] · [[aku-trade-40-horas-por-4-gestion-claim]] · [[aku-internal-core-four-concept]] · [[aku-entrenar-seguir-instrucciones-claim]] · [[aku-coste-por-engaged-lead-payroll-method]] · [[aku-diagnostico-sales-vs-ads-una-pregunta-method]]

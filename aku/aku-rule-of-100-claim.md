@@ -34,6 +34,7 @@ relations:
   related:
     - aku-more-better-new-concept
     - aku-open-to-goal-claim
+    - aku-volumen-test-size-suficiente-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-more-better-new-concept]] · [[aku-open-to-goal-claim]]
+**related** ↔ [[aku-more-better-new-concept]] · [[aku-open-to-goal-claim]] · [[aku-volumen-test-size-suficiente-claim]]

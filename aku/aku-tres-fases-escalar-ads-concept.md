@@ -35,6 +35,7 @@ relations:
   related:
     - aku-paid-ads-concept
     - aku-ltgp-cac-3-a-1-claim
+    - aku-presupuesto-test-ads-2x-method
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-paid-ads-concept]] · [[aku-ltgp-cac-3-a-1-claim]]
+**related** ↔ [[aku-paid-ads-concept]] · [[aku-ltgp-cac-3-a-1-claim]] · [[aku-presupuesto-test-ads-2x-method]]

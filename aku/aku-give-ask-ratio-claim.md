@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-audiencia-activo-compuesto-claim
+    - aku-give-ask-benchmarks-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-audiencia-activo-compuesto-claim]]
+**related** ↔ [[aku-audiencia-activo-compuesto-claim]] · [[aku-give-ask-benchmarks-concept]]
