@@ -30,7 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-venture-capital-concept, aku-fases-financiacion-concept]
+  related: [aku-venture-capital-concept, aku-fases-financiacion-concept, aku-perfil-modelo-innovador-vs-menos-innovador-concept]
 
 sources:
   - raw/cursos/power-mba/6-3-01-fuentes-financiacion-quien-ok/6-3-01-fuentes-financiacion-quien-ok.md
@@ -44,4 +44,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-fuentes-financiacion-concept]]
-**related** ↔ [[aku-venture-capital-concept]] · [[aku-fases-financiacion-concept]]
+**related** ↔ [[aku-venture-capital-concept]] · [[aku-fases-financiacion-concept]] · [[aku-perfil-modelo-innovador-vs-menos-innovador-concept]]

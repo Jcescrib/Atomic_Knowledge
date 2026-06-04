@@ -36,7 +36,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-venture-builder-concept, aku-implicaciones-modelo-negocio-concept, aku-crowdfunding-validacion-concept]
+  related: [aku-venture-builder-concept, aku-implicaciones-modelo-negocio-concept, aku-crowdfunding-validacion-concept, aku-financiacion-necesaria-modelo-concept]
 
 sources:
   - raw/cursos/power-mba/6-3-01-fuentes-financiacion-quien-ok/6-3-01-fuentes-financiacion-quien-ok.md
@@ -50,4 +50,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-fases-financiacion-concept]] · [[aku-bootstrapping-concept]] · [[aku-incubadora-aceleradora-concept]] · [[aku-venture-capital-concept]] · [[aku-business-angel-concept]] · [[aku-fff-concept]] · [[aku-media-4-equity-concept]] · [[aku-socio-industrial-concept]] · [[aku-equity-crowdfunding-concept]] · [[aku-organismos-publicos-concept]]
-**related** ↔ [[aku-venture-builder-concept]] · [[aku-implicaciones-modelo-negocio-concept]] · [[aku-crowdfunding-validacion-concept]]
+**related** ↔ [[aku-venture-builder-concept]] · [[aku-implicaciones-modelo-negocio-concept]] · [[aku-crowdfunding-validacion-concept]] · [[aku-financiacion-necesaria-modelo-concept]]

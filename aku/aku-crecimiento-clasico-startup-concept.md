@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-lean-startup-method-concept, aku-product-market-fit-concept]
+  related: [aku-lean-startup-method-concept, aku-product-market-fit-concept, aku-perfil-startup-vs-tradicional-concept]
 
 sources:
   - raw/cursos/power-mba/4-5-blitzscaling/4-5-blitzscaling.md
@@ -45,4 +45,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-tipos-estrategias-crecimiento-concept]]
-**related** ↔ [[aku-lean-startup-method-concept]] · [[aku-product-market-fit-concept]]
+**related** ↔ [[aku-lean-startup-method-concept]] · [[aku-product-market-fit-concept]] · [[aku-perfil-startup-vs-tradicional-concept]]

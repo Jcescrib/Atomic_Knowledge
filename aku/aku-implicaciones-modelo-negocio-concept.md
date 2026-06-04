@@ -28,13 +28,13 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports: [aku-riesgo-modelo-concept, aku-potencial-modelo-concept, aku-financiacion-necesaria-modelo-concept, aku-ingresos-punto-muerto-modelo-concept, aku-primeros-pasos-modelo-concept, aku-conocimientos-habilidades-modelo-concept, aku-contactos-modelo-concept, aku-perfil-modelo-innovador-vs-menos-innovador-concept, aku-perfil-startup-vs-tradicional-concept, aku-perfil-marketplace-implicaciones-concept, aku-perfil-ecommerce-implicaciones-concept]
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-fit-proyecto-emprendedor-concept, aku-innovar-vs-competir-concept, aku-fuentes-financiacion-concept]
+  related: [aku-fit-proyecto-emprendedor-concept, aku-innovar-vs-competir-concept, aku-fuentes-financiacion-concept, aku-analisis-match-fundadores-method]
 
 sources:
   - raw/cursos/power-mba/6-1-01-fit-entre-tu-proyecto-y-tu/6-1-01-fit-entre-tu-proyecto-y-tu.md
@@ -47,4 +47,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-fit-proyecto-emprendedor-concept]] · [[aku-innovar-vs-competir-concept]] · [[aku-fuentes-financiacion-concept]]
+**supports** → [[aku-riesgo-modelo-concept]] · [[aku-potencial-modelo-concept]] · [[aku-financiacion-necesaria-modelo-concept]] · [[aku-ingresos-punto-muerto-modelo-concept]] · [[aku-primeros-pasos-modelo-concept]] · [[aku-conocimientos-habilidades-modelo-concept]] · [[aku-contactos-modelo-concept]] · [[aku-perfil-modelo-innovador-vs-menos-innovador-concept]] · [[aku-perfil-startup-vs-tradicional-concept]] · [[aku-perfil-marketplace-implicaciones-concept]] · [[aku-perfil-ecommerce-implicaciones-concept]]
+
+**related** ↔ [[aku-fit-proyecto-emprendedor-concept]] · [[aku-innovar-vs-competir-concept]] · [[aku-fuentes-financiacion-concept]] · [[aku-analisis-match-fundadores-method]]

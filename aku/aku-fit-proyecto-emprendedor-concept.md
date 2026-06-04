@@ -26,7 +26,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports: [aku-analisis-match-fundadores-method]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -44,5 +44,7 @@ status_note: ""
 ---
 
 ## Relaciones
+
+**supports** → [[aku-analisis-match-fundadores-method]]
 
 **related** ↔ [[aku-implicaciones-modelo-negocio-concept]] · [[aku-innovar-vs-competir-concept]] · [[aku-ventaja-competitiva-concept]]
