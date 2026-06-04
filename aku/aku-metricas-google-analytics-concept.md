@@ -34,7 +34,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-plan-de-medicion-concept, aku-metricas-accionables-concept]
+  related: [aku-plan-de-medicion-concept, aku-metricas-accionables-concept, aku-conocer-trafico-propio-y-competidores-claim]
 
 sources:
   - raw/cursos/power-mba/15-2-principales-m-etricas-google-analytics-pptx/15-2-principales-m-etricas-google-analytics-pptx.md
@@ -48,4 +48,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ga-usuarios-concept]] · [[aku-ga-sesiones-concept]] · [[aku-ga-paginas-vistas-concept]] · [[aku-ga-paginas-vistas-unicas-concept]] · [[aku-ga-paginas-por-sesion-method]] · [[aku-ga-duracion-media-sesion-method]] · [[aku-ga-bounce-rate-concept]] · [[aku-ga-page-value-method]]
-**related** ↔ [[aku-plan-de-medicion-concept]] · [[aku-metricas-accionables-concept]]
+**related** ↔ [[aku-plan-de-medicion-concept]] · [[aku-metricas-accionables-concept]] · [[aku-conocer-trafico-propio-y-competidores-claim]]
