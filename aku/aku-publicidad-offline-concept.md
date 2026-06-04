@@ -32,7 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-atribucion-concept, aku-media-4-equity-concept]
+  related: [aku-atribucion-concept, aku-media-4-equity-concept, aku-branding-concept]
 
 sources:
   - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
@@ -46,4 +46,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-canales-marketing-digital-concept]]
-**related** ↔ [[aku-atribucion-concept]] · [[aku-media-4-equity-concept]]
+**related** ↔ [[aku-atribucion-concept]] · [[aku-media-4-equity-concept]] · [[aku-branding-concept]]

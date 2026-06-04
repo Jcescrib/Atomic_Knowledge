@@ -33,7 +33,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-estrategia-diferenciacion-concept, aku-diferenciacion-sector-concept, aku-atributos-marca-concept, aku-customer-persona-concept]
+  related: [aku-estrategia-diferenciacion-concept, aku-diferenciacion-sector-concept, aku-atributos-marca-concept, aku-customer-persona-concept, aku-branding-concept]
 
 sources:
   - raw/cursos/power-mba/4-4-branding/4-4-branding.md
@@ -49,4 +49,4 @@ status_note: ""
 **supported_by** ← [[aku-posicionamiento-ser-el-primero-concept]] · [[aku-posicionamiento-apoyarse-en-atributo-concept]] · [[aku-posicionamiento-mas-premium-concept]] · [[aku-posicionamiento-mas-barato-concept]] · [[aku-posicionamiento-comunicacion-disruptiva-concept]] · [[aku-posicionamiento-especialista-de-nicho-concept]] · [[aku-posicionamiento-gama-amplia-concept]] · [[aku-posicionamiento-sector-comoditizado-concept]]
 
 **supports** → [[aku-plan-de-marca-concept]]
-**related** ↔ [[aku-estrategia-diferenciacion-concept]] · [[aku-diferenciacion-sector-concept]] · [[aku-atributos-marca-concept]] · [[aku-customer-persona-concept]]
+**related** ↔ [[aku-estrategia-diferenciacion-concept]] · [[aku-diferenciacion-sector-concept]] · [[aku-atributos-marca-concept]] · [[aku-customer-persona-concept]] · [[aku-branding-concept]]

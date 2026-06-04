@@ -32,7 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-outbound-marketing-concept, aku-atribucion-concept, aku-brand-awareness-concept, aku-publicidad-dirigida-mvp-concept]
+  related: [aku-outbound-marketing-concept, aku-atribucion-concept, aku-brand-awareness-concept, aku-publicidad-dirigida-mvp-concept, aku-branding-concept]
 
 sources:
   - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
@@ -45,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-outbound-marketing-concept]] · [[aku-atribucion-concept]] · [[aku-brand-awareness-concept]] · [[aku-publicidad-dirigida-mvp-concept]]
+**related** ↔ [[aku-outbound-marketing-concept]] · [[aku-atribucion-concept]] · [[aku-brand-awareness-concept]] · [[aku-publicidad-dirigida-mvp-concept]] · [[aku-branding-concept]]
