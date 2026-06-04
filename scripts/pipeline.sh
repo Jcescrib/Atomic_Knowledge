@@ -2,12 +2,14 @@
 # scripts/pipeline.sh — Deterministic phases of the AKU/TAKU ingestion pipeline.
 #
 # Subcommands:
-#   discover <folder>     List PDFs (recursive) and pre-converted .md files
-#   convert  <pdf>        Run MinerU; move only .md + images/ to raw/<slug>/;
-#                         rewrite image paths flat; discard MinerU scaffolding
-#   adopt    <markdown>   Adopt a pre-converted .md into raw/<slug>/
-#                         (auto-detects an adjacent images/ folder)
-#   slug     <name>       Print the canonical slug for a name (debug helper)
+#   discover     <folder>   List PDFs, EPUBs (recursive) and pre-converted .md
+#   convert      <pdf>      Run MinerU; move only .md + images/ to raw/<slug>/;
+#                           rewrite image paths flat; discard MinerU scaffolding
+#   convert-epub <epub>     Convert an EPUB with ebooklib + BeautifulSoup;
+#                           write .md + flat images/ into raw/<slug>/
+#   adopt        <markdown> Adopt a pre-converted .md into raw/<slug>/
+#                           (auto-detects an adjacent images/ folder)
+#   slug         <name>     Print the canonical slug for a name (debug helper)
 #
 # Image classification, vision analysis, and AKU/TAKU extraction are handled
 # by the /pipeline slash command (LLM phases). This script only does the
@@ -82,6 +84,9 @@ cmd_discover() {
 
   echo "## PDFs"
   find "$folder" -type f -iname '*.pdf' 2>/dev/null | sort
+  echo
+  echo "## EPUBs"
+  find "$folder" -type f -iname '*.epub' 2>/dev/null | sort
   echo
   echo "## Pre-converted markdowns (candidate sources)"
   find "$folder" -type f -iname '*.md' 2>/dev/null | sort
@@ -159,6 +164,51 @@ cmd_convert() {
   echo "$dest"
 }
 
+# Locate a Python interpreter (python, then python3, then py launcher).
+find_python() {
+  local cand
+  for cand in python python3; do
+    if command -v "$cand" >/dev/null 2>&1; then
+      command -v "$cand"
+      return 0
+    fi
+  done
+  if command -v py >/dev/null 2>&1; then
+    echo "py"
+    return 0
+  fi
+  return 1
+}
+
+cmd_convert_epub() {
+  local ebook="${1:-}"
+  [ -n "$ebook" ] || { echo "ERROR: convert-epub requires an EPUB path" >&2; exit 1; }
+  [ -f "$ebook" ] || { echo "ERROR: not a file: $ebook" >&2; exit 1; }
+
+  local base; base="$(basename "$ebook")"
+  local name="${base%.[eE][pP][uU][bB]}"
+  local slug; slug="$(slugify "$name")"
+  local dest="$VAULT_ROOT/$(raw_subdir_for "$ebook")/$slug"
+
+  local py; py="$(find_python || true)"
+  if [ -z "$py" ]; then
+    echo "ERROR: no Python interpreter found (tried python, python3, py)." >&2
+    exit 4
+  fi
+
+  echo "[convert-epub] ebooklib ($py) → $dest" >&2
+  if ! "$py" "$VAULT_ROOT/scripts/epub_to_md.py" "$ebook" "$dest"; then
+    echo "ERROR: EPUB conversion failed for $ebook" >&2
+    exit 2
+  fi
+
+  # epub_to_md.py already writes flat images/<file> refs; flatten again is a
+  # harmless idempotent safety net consistent with the PDF/adopt paths.
+  flatten_image_refs "$dest/$slug.md"
+
+  echo "$dest"
+}
+
 cmd_adopt() {
   local md="${1:-}"
   [ -n "$md" ] || { echo "ERROR: adopt requires a markdown path" >&2; exit 1; }
@@ -210,21 +260,24 @@ cmd="${1:-help}"
 shift || true
 
 case "$cmd" in
-  discover) cmd_discover "$@" ;;
-  convert)  cmd_convert  "$@" ;;
-  adopt)    cmd_adopt    "$@" ;;
-  slug)     cmd_slug     "$@" ;;
+  discover)     cmd_discover     "$@" ;;
+  convert)      cmd_convert      "$@" ;;
+  convert-epub) cmd_convert_epub "$@" ;;
+  adopt)        cmd_adopt        "$@" ;;
+  slug)         cmd_slug         "$@" ;;
   help|*)
     cat <<'USAGE'
 scripts/pipeline.sh — AKU/TAKU ingestion pipeline (deterministic phases)
 
 Subcommands:
-  discover <folder>     List PDFs (recursive) and pre-converted .md files
-  convert  <pdf>        Run MinerU; move only .md+images/ into raw/<slug>/;
-                        rewrite image paths flat; discard scaffolding
-  adopt    <markdown>   Adopt a pre-converted markdown into raw/<slug>/
-                        (auto-detects an adjacent images/ folder)
-  slug     <name>       Print canonical slug for a name (debug helper)
+  discover     <folder>   List PDFs, EPUBs (recursive) and pre-converted .md
+  convert      <pdf>      Run MinerU; move only .md+images/ into raw/<slug>/;
+                          rewrite image paths flat; discard scaffolding
+  convert-epub <epub>     Convert an EPUB (ebooklib + BeautifulSoup); write
+                          .md + flat images/ into raw/<slug>/
+  adopt        <markdown> Adopt a pre-converted markdown into raw/<slug>/
+                          (auto-detects an adjacent images/ folder)
+  slug         <name>     Print canonical slug for a name (debug helper)
 
 Image classification, vision analysis, and AKU/TAKU extraction are LLM
 phases handled by the /pipeline slash command, not by this script.
