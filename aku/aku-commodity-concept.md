@@ -32,7 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-poder-compradores-concept, aku-diferenciacion-sector-concept, aku-empresas-borregos-claim, aku-liderazgo-en-coste-concept, aku-grand-slam-offer-concept, aku-categoria-de-uno-concept, aku-compra-value-vs-price-driven-concept]
+  related: [aku-poder-compradores-concept, aku-diferenciacion-sector-concept, aku-empresas-borregos-claim, aku-liderazgo-en-coste-concept, aku-grand-slam-offer-concept, aku-categoria-de-uno-concept, aku-compra-value-vs-price-driven-concept, aku-mercados-apropiados-para-cada-ventaja-claim]
 
 sources:
   - raw/cursos/power-mba/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
@@ -46,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-poder-compradores-concept]] · [[aku-diferenciacion-sector-concept]] · [[aku-empresas-borregos-claim]] · [[aku-liderazgo-en-coste-concept]] · [[aku-grand-slam-offer-concept]] · [[aku-categoria-de-uno-concept]] · [[aku-compra-value-vs-price-driven-concept]]
+**related** ↔ [[aku-poder-compradores-concept]] · [[aku-diferenciacion-sector-concept]] · [[aku-empresas-borregos-claim]] · [[aku-liderazgo-en-coste-concept]] · [[aku-grand-slam-offer-concept]] · [[aku-categoria-de-uno-concept]] · [[aku-compra-value-vs-price-driven-concept]] · [[aku-mercados-apropiados-para-cada-ventaja-claim]]

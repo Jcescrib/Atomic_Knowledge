@@ -45,6 +45,10 @@ relations:
     - aku-grand-slam-offer-concept
     - aku-categoria-de-uno-concept
     - aku-fuentes-ventaja-competitiva-solo-dos-claim
+    - aku-best-cost-strategy-concept
+    - aku-segmentacion-especializada-coste-vs-diferenciacion-concept
+    - aku-imposibilidad-pivotar-lowcost-a-diferenciacion-claim
+    - aku-mercados-apropiados-para-cada-ventaja-claim
 
 sources:
   - raw/cursos/power-mba/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
@@ -58,4 +62,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-estrategias-genericas-porter-concept]] · [[aku-diferenciacion-mayores-margenes-claim]]
-**related** ↔ [[aku-liderazgo-en-coste-concept]] · [[aku-diferenciacion-sector-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-mass-market-strategy-concept]] · [[aku-posicionamiento-concept]] · [[aku-circulo-dorado-concept]] · [[aku-grand-slam-offer-concept]] · [[aku-categoria-de-uno-concept]] · [[aku-fuentes-ventaja-competitiva-solo-dos-claim]]
+**related** ↔ [[aku-liderazgo-en-coste-concept]] · [[aku-diferenciacion-sector-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-mass-market-strategy-concept]] · [[aku-posicionamiento-concept]] · [[aku-circulo-dorado-concept]] · [[aku-grand-slam-offer-concept]] · [[aku-categoria-de-uno-concept]] · [[aku-fuentes-ventaja-competitiva-solo-dos-claim]] · [[aku-best-cost-strategy-concept]] · [[aku-segmentacion-especializada-coste-vs-diferenciacion-concept]] · [[aku-imposibilidad-pivotar-lowcost-a-diferenciacion-claim]] · [[aku-mercados-apropiados-para-cada-ventaja-claim]]
