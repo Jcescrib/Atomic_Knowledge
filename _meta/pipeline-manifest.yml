@@ -1338,3 +1338,33 @@ sources:
     aku_count: 1
     taku_count: 0
     notes: "M15 PDF4 — Tipos de objetivos GA. 1 concept (destino/evento/engagement/duración). ↔ piramide-conversion. MÓDULO 15 COMPLETO (4 PDFs, +4 AKUs, +1 TAKU)."
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\18-Facebook & Instagram Ads (Especialización)\_Herramientas+para+crear+anuncios+TOP+EN+FACEBOOK+ADS+a.pdf"
+    name_slug: "herramientas-para-crear-anuncios-top-en-facebook-ads-a"
+    raw_path: "raw/herramientas-para-crear-anuncios-top-en-facebook-ads-a/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: 2026-06-04
+    ingested: 2026-06-04
+    aku_count: 2
+    taku_count: 0
+    notes: >
+      M18 PDF — Herramientas para crear anuncios FB/IG. 1 concept (herramientas-creacion-anuncios-facebook:
+      Canva/Crello/Snappa/Pablo/Stencil + vídeo Magisto/Lumen5/Biteable + bancos gratuitos) + 1 claim
+      substantivo (regla-20-texto-facebook-ads: >20% texto en imagen → limita alcance/coste sube; IG
+      Stories exento; status_note: FB retiró la regla en 2020, pendiente validación). 13 imágenes
+      decorativas (capturas de planes de precios). INTEGRATE (a): ↔ herramientas-creacion-contenido-rrss
+      (Canva), ↔ facebook-concept.
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\18-Facebook & Instagram Ads (Especialización)\info.docx"
+    name_slug: "18-info-hacks-copy"
+    raw_path: "raw/18-info-hacks-copy/"
+    converter: python-docx
+    converted: 2026-06-04
+    image_processing: n/a
+    ingested: 2026-06-04
+    aku_count: 1
+    taku_count: 1
+    notes: >
+      M18 DOCX — info.docx «Hacks copy» (convertido con python-docx). 1 concept (hacks-copywriting:
+      7 principios — investiga, objetivo, titular, promesas concretas, pruebas, sin florituras, CTA) +
+      1 heuristic TAKU (hacks-copywriting). INTEGRATE (a): ↔ cta-concept. MÓDULO 18 COMPLETO (1 PDF +
+      1 DOCX, +3 AKUs, +1 TAKU).

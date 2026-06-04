@@ -517,3 +517,10 @@ Imágenes: 14.02 y 14.06 redundantes (tablas en HTML), 14.05 decorativa (firma).
 +1 framework TAKU: plan-de-medicion.
 INTEGRATE (a) anclado: plan-de-medicion ↔ objetivos-negocio + metricas-accionables; metricas-ga ↔ metricas-accionables; codigos-utm ↔ atribucion; tipos-objetivos ↔ piramide-conversion.
 Imágenes: todas redundantes (tablas en HTML). Verificación: 405 AKUs, 54 TAKUs, 0 asimetrías, 0 body-drift.
+
+## 2026-06-04 — pipeline módulo 18 «Facebook & Instagram Ads» (1 PDF + 1 DOCX)
+
+PDF (herramientas crear anuncios): +1 concept (herramientas-creacion-anuncios-facebook) + 1 claim (regla-20-texto-facebook-ads, con status_note sobre vigencia). 13 imgs decorativas (planes de precios).
+DOCX (info.docx «Hacks copy», convertido con python-docx): +1 concept (hacks-copywriting: 7 principios) + 1 heuristic TAKU (hacks-copywriting).
+INTEGRATE (a): herramientas-anuncios-fb ↔ herramientas-creacion-contenido-rrss + facebook; regla-20-texto ↔ facebook; hacks-copywriting ↔ cta.
+Verificación: 408 AKUs, 55 TAKUs, 0 asimetrías, 0 body-drift.
