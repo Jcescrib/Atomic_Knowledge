@@ -10,7 +10,7 @@ domain:
   - distribution
   - customer
   - power-mba
-llm_confidence: 0.5
+llm_confidence: 0.50
 human_certainty:
   status: unvalidated
   iterations: 0
