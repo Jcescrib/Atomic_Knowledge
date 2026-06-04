@@ -25,7 +25,7 @@ raw/<curso-o-libro>/<slug>/images/     text the vault works with) + paired figur
                            and are read-only — see hard rule #9.
 capture/daily/             YYYY-MM-DD.md rough observations
 aku/                       one file per atomic claim — aku-<slug>.md
-taku/{techniques,cases,tools,frameworks,heuristics,stories,protocols}/
+taku/{techniques,cases,tools,frameworks,heuristics,stories,protocols,reference}/
 outputs/{queries,reports,lint}/   generated artifacts (gitignored)
 _meta/templates/           aku.md, taku.md, daily.md, source.md
 _spec/                     authoritative specifications (reference only)
@@ -232,6 +232,7 @@ Never average. Never hide divergence — high `llm_confidence` + `validated-fals
 - If the content is a falsifiable declarative ("X produces Y") → AKU.
 - If it is imperative ("Do X when Y") → heuristic TAKU.
 - If both forms are useful → create both and link them (`justified_by`).
+- If it is a curated pointer to external resources (e.g., a list of recommended books by domain) → `reference` TAKU, not a `concept` AKU.
 
 ### Link validation (TAKU → AKU)
 
