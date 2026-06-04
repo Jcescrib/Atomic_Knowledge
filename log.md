@@ -502,3 +502,11 @@ Módulo 12 COMPLETO: 3 PDFs, +13 AKUs (12 concept + 1 claim) + 1 TAKU. Verificac
 +1 concept (herramientas-growth-hacking) que cataloga las categorías funcionales de herramientas (bases de datos, emails, scrapers, competidores, extensiones Chrome, product marketing, contenido, data enrichment, market research, LinkedIn automation, email outreach). Directorio de nombres de producto (hollow nominal) → 1 concept de categorías.
 INTEGRATE nivel (b) bajo autonomía (ANOTADO para revisión humana): herramientas-growth-hacking ↔ motor-crecimiento-concept (conexión conceptual, no anclada textualmente). 0 imágenes, 0 TAKUs.
 Verificación: 397 AKUs, 0 asimetrías, 0 body-drift.
+
+## 2026-06-04 — pipeline módulo 14 «Marketing de Influencers» (5 PDFs)
+
++4 AKUs concept: herramientas-marketing-influencers (14.01), colaboraciones-influencers-pagadas-vs-gratuitas (14.02), clausulas-contrato-influencers (14.03+14.05), medicion-resultados-influencers (14.06).
++2 framework TAKUs: contrato-influencers, medicion-campana-influencers.
+14.05 (modelo contrato C21BeBrave) = mismo caso que 14.03 → folded como 2ª fuente, 0 AKUs nuevos.
+INTEGRATE (a): los 4 conceptos ↔ marketing-influencers-concept (parent); medicion-resultados ↔ power-funnel.
+Imágenes: 14.02 y 14.06 redundantes (tablas en HTML), 14.05 decorativa (firma). Verificación: 401 AKUs, 53 TAKUs, 0 asimetrías, 0 body-drift.

@@ -1248,3 +1248,53 @@ sources:
       que captura las CATEGORÍAS funcionales. 0 imágenes. INTEGRATE nivel (b) bajo autonomía (anotado para
       revisión): herramientas-growth-hacking ↔ motor-crecimiento (ambos sobre adquisición sistemática/
       escalable de clientes). MÓDULO 13 COMPLETO.
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\14-Marketing de Influencers (Especialización)\14.01_Herramientas+MARKETING+influencers.pdf"
+    name_slug: "14-01-herramientas-marketing-influencers"
+    raw_path: "raw/14-01-herramientas-marketing-influencers/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: n/a
+    ingested: 2026-06-04
+    aku_count: 1
+    taku_count: 0
+    notes: "M14 PDF1 — Herramientas influencer marketing. 1 concept (categorías: análisis audiencia, búsqueda, gestión/medición campañas, contenido viral). Directorio de tools."
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\14-Marketing de Influencers (Especialización)\14.02_Colaboraciones+pagadas.pptx.pdf"
+    name_slug: "14-02-colaboraciones-pagadas-pptx"
+    raw_path: "raw/14-02-colaboraciones-pagadas-pptx/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: 2026-06-04
+    ingested: 2026-06-04
+    aku_count: 1
+    taku_count: 0
+    notes: "M14 PDF2 — Colaboraciones pagadas vs gratuitas. 1 concept (tradeoff control/contrato vs riesgo). Tabla HTML; imagen redundante."
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\14-Marketing de Influencers (Especialización)\14.03_cláusulas+de+un+contrato+con+INFLUENCERS.pdf"
+    name_slug: "14-03-cl-ausulas-de-un-contrato-con-influencers"
+    raw_path: "raw/14-03-cl-ausulas-de-un-contrato-con-influencers/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: n/a
+    ingested: 2026-06-04
+    aku_count: 1
+    taku_count: 1
+    notes: "M14 PDF3 — Cláusulas contrato (10). 1 concept (clausulas-contrato-influencers) + framework TAKU contrato-influencers. Fuente compartida con 14.05."
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\14-Marketing de Influencers (Especialización)\14.05_Modelo+Contrato_Stories.pdf"
+    name_slug: "14-05-modelo-contrato-stories"
+    raw_path: "raw/14-05-modelo-contrato-stories/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: 2026-06-04
+    ingested: 2026-06-04
+    aku_count: 0
+    taku_count: 0
+    notes: "M14 PDF5 — Modelo de contrato (ejemplo real C21BeBrave, mismo caso que 14.03). 0 AKUs nuevos; añadido como 2ª fuente de clausulas-contrato-influencers. Imagen = firma (decorativa)."
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\14-Marketing de Influencers (Especialización)\14.06_Medición+resultados+influencers.pptx.pdf"
+    name_slug: "14-06-medici-on-resultados-influencers-pptx"
+    raw_path: "raw/14-06-medici-on-resultados-influencers-pptx/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: 2026-06-04
+    ingested: 2026-06-04
+    aku_count: 1
+    taku_count: 1
+    notes: "M14 PDF6 — Medición resultados. 1 concept (medicion-resultados-influencers, funnel→KPIs→cómo medir) + framework TAKU medicion-campana-influencers. INTEGRATE (a): ↔ power-funnel. MÓDULO 14 COMPLETO (5 PDFs, +4 AKUs, +2 TAKUs)."

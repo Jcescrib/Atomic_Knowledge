@@ -1,0 +1,3 @@
+## MEDICIÓN RESULTADOS INFLUENCERS
+
+<table><tr><td>FUNNEL</td><td>KPIs</td><td>¿Cómo medirlos?</td></tr><tr><td>NOTORIEDAD/ AWARENESS</td><td>Alcance Impresiones (o métrica similar)</td><td>Analítica de la plataforma Pedir informe</td></tr><tr><td>ENGAGEMENT</td><td>Me gusta ontarios Shares Menciones Hashtags Mensajes privados (DMs)</td><td>por contrato Analítica de la plataforma</td></tr><tr><td>VISITA</td><td>Visitas web/landing pages % gente nueva que entra en la web Tiempo por sesión N.º páginas vistas % de rebote (bounce rate) Leads (registros, nuevos seguidores, etc.)</td><td>Google Analytics</td></tr><tr><td>ACCIÓN</td><td>Ventas generadas Ratio de conversión</td><td>Google Analytics</td></tr></table>

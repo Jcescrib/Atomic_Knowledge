@@ -1,0 +1,3 @@
+## COMPARACIÓN COLABORACIONES CON INFLUENCERS
+
+<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Pagadas</td><td rowspan=1 colspan=1>Gratuitas</td></tr><tr><td rowspan=1 colspan=1>Ventajas</td><td rowspan=1 colspan=1>Control sobre la campaña(contrato)Influencer incentivadoAcceso a influencersrelevantes</td><td rowspan=1 colspan=1>Menor riesgoPodemos hacer máscolaboraciones</td></tr><tr><td rowspan=1 colspan=1>Inconvenientes</td><td rowspan=1 colspan=1>Inversión = RiesgoRetorno incierto (resultadosno garantizados)</td><td rowspan=1 colspan=1>No hay contrato → nohay controlNo tenemosresultados paravalorar la campañaLimitado a microinfluencers</td></tr></table>
