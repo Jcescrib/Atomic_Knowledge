@@ -328,3 +328,12 @@ Re-escaneo de los raw del módulo 03 (Lean Startup). 3 conceptos nuevos con iden
 - `aku-lista-de-espera-concept` (3.0.1) — waitlist; ↔ mvp, aprendizaje-validado, lead-magnet.
 AMBIGÜEDAD pendiente de consulta (no creado): `publicidad dirigida` como MVP — solapa con performance-marketing/outbound-marketing (5.4.1) y con test-de-humo. A decisión del humano: crear como AKU propio, o tratar como faceta de los existentes.
 Verificado: 200 AKUs, 0 asimetrías, 0 body-drift.
+
+## 2026-06-04 — reingesta diferencial (módulo 04)
+Re-escaneo de los raw del módulo 04. 10 conceptos nuevos con identidad propia (nombre + mecanismo distinto), antes plegados en umbrellas:
+- `economias-de-escala` (4.1/4.2.2) → supports liderazgo-en-coste + barreras-de-entrada.
+- `monopolio`, `oligopolio` (4.1) → support concentracion-sector.
+- `fusion`, `adquisicion`, `joint-venture`, `alianza-estrategica` (4.3) → support crecimiento-organico-inorganico; alianza ↔ ecosistema-alianzas.
+- `fastscaling`, `crecimiento-clasico-startup`, `crecimiento-clasico-scaleup` (4.5) → support tipos-estrategias-crecimiento (junto a blitzscaling); startup ↔ lean-startup/PMF.
+PLEGADOS deliberadamente (degradaciones de una escala / contenido estructurado, no entidades con mecanismo propio), marcados como candidatos: niveles de brand-awareness (top-of-mind/recall/recognition/unaware), etapas de organización (familia→nación), atomización, conglomerado.
+Verificado: 210 AKUs, 0 asimetrías, 0 body-drift.

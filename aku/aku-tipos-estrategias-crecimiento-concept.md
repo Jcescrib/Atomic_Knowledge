@@ -27,7 +27,7 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-blitzscaling-concept]
+  supported_by: [aku-blitzscaling-concept, aku-fastscaling-concept, aku-crecimiento-clasico-startup-concept, aku-crecimiento-clasico-scaleup-concept]
   supports: []
   constrained_by: []
   constrains: []
@@ -47,5 +47,5 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-blitzscaling-concept]]
+**supported_by** ← [[aku-blitzscaling-concept]] · [[aku-fastscaling-concept]] · [[aku-crecimiento-clasico-startup-concept]] · [[aku-crecimiento-clasico-scaleup-concept]]
 **related** ↔ [[aku-lean-startup-method-concept]] · [[aku-innovar-vs-competir-concept]] · [[aku-product-market-fit-concept]]

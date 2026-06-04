@@ -26,7 +26,7 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by: [aku-economias-de-escala-concept]
   supports: [aku-estrategias-genericas-porter-concept, aku-liderazgo-coste-imitable-claim]
   constrained_by: []
   constrains: []
@@ -46,5 +46,6 @@ status_note: ""
 
 ## Relaciones
 
+**supported_by** ← [[aku-economias-de-escala-concept]]
 **supports** → [[aku-estrategias-genericas-porter-concept]] · [[aku-liderazgo-coste-imitable-claim]]
 **related** ↔ [[aku-estrategia-diferenciacion-concept]] · [[aku-barreras-de-entrada-concept]] · [[aku-mass-market-strategy-concept]] · [[aku-commodity-concept]]

@@ -31,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-barreras-de-entrada-concept]
+  related: [aku-barreras-de-entrada-concept, aku-economias-de-escala-concept]
 
 sources:
   - raw/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
@@ -45,4 +45,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-liderazgo-en-coste-concept]]
-**related** ↔ [[aku-barreras-de-entrada-concept]]
+**related** ↔ [[aku-barreras-de-entrada-concept]] · [[aku-economias-de-escala-concept]]

@@ -26,7 +26,7 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-costes-de-cambio-concept]
+  supported_by: [aku-costes-de-cambio-concept, aku-economias-de-escala-concept]
   supports: [aku-cinco-fuerzas-porter-concept, aku-barreras-entrada-aumentan-rentabilidad-claim]
   constrained_by: []
   constrains: []
@@ -46,6 +46,6 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-costes-de-cambio-concept]]
+**supported_by** ← [[aku-costes-de-cambio-concept]] · [[aku-economias-de-escala-concept]]
 **supports** → [[aku-cinco-fuerzas-porter-concept]] · [[aku-barreras-entrada-aumentan-rentabilidad-claim]]
 **related** ↔ [[aku-network-effect-concept]] · [[aku-masa-critica-concept]] · [[aku-ventaja-competitiva-concept]] · [[aku-liderazgo-en-coste-concept]] · [[aku-liderazgo-coste-imitable-claim]] · [[aku-integracion-vertical-adelante-concept]] · [[aku-marca-potente-beneficios-claim]]

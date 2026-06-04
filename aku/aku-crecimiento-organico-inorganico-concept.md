@@ -25,7 +25,7 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by: [aku-fusion-concept, aku-adquisicion-concept, aku-joint-venture-concept, aku-alianza-estrategica-concept]
   supports: [aku-crecimiento-inorganico-rapido-claim]
   constrained_by: []
   constrains: []
@@ -45,5 +45,6 @@ status_note: ""
 
 ## Relaciones
 
+**supported_by** ← [[aku-fusion-concept]] · [[aku-adquisicion-concept]] · [[aku-joint-venture-concept]] · [[aku-alianza-estrategica-concept]]
 **supports** → [[aku-crecimiento-inorganico-rapido-claim]]
 **related** ↔ [[aku-ecosistema-alianzas-concept]]
