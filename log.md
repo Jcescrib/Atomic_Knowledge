@@ -608,3 +608,14 @@ Refactor retroactivo aprobado por el usuario: desplegar TODOS los sub-items pleg
 **Candidatos TAKU flagged (NO creados, pendiente de Joan)**: Customer Persona Canvas + ERIC/Four Actions + plantilla de experimentos (framework); 9 reglas de blitzscaling + 7 tips de contenido (heuristic); apps de meditación (reference).
 
 **Pendiente humano**: los 234 nuevos son `unvalidated`. Flags nivel (b) acumulados para revisión / `/audit-graph` (p.ej. utm-content↔ab-testing, anuncios-aceptables↔publicidad-nativa, estructura-proyectos↔adhocracia, prueba-precio↔falso-positivo, posicionamiento-barato↔liderazgo-coste). Nota menor: ~14 AKUs nuevos llevan `llm_confidence: 0.5` (en vez de `0.50`) — cosmético, no afecta verify.
+
+## 2026-06-04 — capa ejecutable + integración (b): 3 TAKUs nuevos + 22 conexiones (b) + normalización
+
+Tras el refactor PASO 3, conexión de la capa ejecutable y aplicación de las conexiones conceptuales nivel (b) aprobadas por Joan.
+
+- **3 TAKUs creados** (draft, llm-authored, links llm-proposed): `taku-four-actions-eric` (framework, justified_by 4 acciones ERIC + innovacion-valor-via-eric; complementary ↔ taku-estrategia-oceano-azul), `taku-tips-generacion-contenidos` (heuristic, justified_by 7 tips 5-4-10), `taku-apps-meditacion` (reference, justified_by mindfulness + descansos-un-minuto; complementary ↔ taku-practica-mindfulness). 83→86 TAKUs.
+- **3 candidatos NO duplicados** (dedup): Customer Persona Canvas → ya existe `taku-customer-persona` (technique, enriquecido +1 justified_by customer-persona-dimensiones-analisis); plantilla experimentos → ya existe `taku-plantilla-experimentos-mvp` (tool, intacto); 9 reglas blitzscaling → ya existe `taku-principios-blitzscaling` (heuristic, enriquecido +1 justified_by paraguas nueve-principios).
+- **22 conexiones nivel (b)** aplicadas como `related` bidireccional (three-layer), aprobadas por Joan (par #12 ya existía).
+- **Normalización**: 14 AKUs `llm_confidence: 0.5` → `0.50`.
+
+verify_graph: 1044 AKUs, 0 errores.
