@@ -42,6 +42,7 @@ relations:
   contradicts: []
   related:
     - aku-bmc-concept
+    - aku-gastos-contables-concept
 
 sources:
   - "raw/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc.md"
@@ -58,4 +59,4 @@ status_note: ""
 
 **constrained_by** ← [[aku-coste-prioridad-segun-estrategia-claim]]
 
-**related** ↔ [[aku-bmc-concept]]
+**related** ↔ [[aku-bmc-concept]] · [[aku-gastos-contables-concept]]

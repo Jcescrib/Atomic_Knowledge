@@ -1076,3 +1076,22 @@ sources:
       se reconecta en INTEGRATE al cierre del módulo (puentes vía margenes/EBITDA↔unit-economics,
       estructura-costes). Naming: clientes-partida/proveedores-partida para evitar colisión con BMC
       relaciones-con-clientes y Porter poder-proveedores. 0 imágenes.
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\09-Contabilidad y finannzas\09.01.02-Detalle+cuentas+Estado+Resultados.pdf"
+    name_slug: "09-01-02-detalle-cuentas-estado-resultados"
+    raw_path: "raw/09-01-02-detalle-cuentas-estado-resultados/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: n/a
+    ingested: 2026-06-04
+    chapters_ingested: []
+    aku_count: 9
+    taku_count: 0
+    last_commit: ""
+    notes: >
+      Módulo 09 PDF 2 — Estado de resultados. HYPERDETALLE: 9 concept AKUs (estado-resultados,
+      ingresos-contables, ventas, gastos-contables, coste-mercancias-vendidas (COGS), amortizacion,
+      provisiones, gastos-financieros, partidas-extraordinarias). INTEGRATE nivel (a) anclado en texto:
+      estado-resultados↔balance, ingresos↔patrimonio-neto, amortizacion↔activo-no-corriente,
+      coste-mercancias↔existencias, gastos-financieros↔pasivo. INTEGRATE nivel (b) aplicado bajo
+      autonomía y anotado: ingresos-contables↔flujos-de-ingresos (BMC) y gastos-contables↔estructura-de-costes
+      (BMC) — reconectan TODO el cluster contable al grafo principal. 0 imágenes, 0 TAKUs.

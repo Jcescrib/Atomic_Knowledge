@@ -32,7 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-activo-concept, aku-pasivo-concept, aku-patrimonio-neto-concept]
+  related: [aku-activo-concept, aku-pasivo-concept, aku-patrimonio-neto-concept, aku-estado-resultados-concept]
 
 sources:
   - raw/09-01-01-balancedesituacion/09-01-01-balancedesituacion.md
@@ -45,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-activo-concept]] · [[aku-pasivo-concept]] · [[aku-patrimonio-neto-concept]]
+**related** ↔ [[aku-activo-concept]] · [[aku-pasivo-concept]] · [[aku-patrimonio-neto-concept]] · [[aku-estado-resultados-concept]]

@@ -440,3 +440,10 @@ Partidas: caja-bancos, clientes-partida, existencias, inmovilizado-{intangible,m
 Cada partida con su rango de cuentas del PGC español. Árbol related interno simétrico (categoría↔partida).
 Cluster contable aislado temporalmente del grafo principal — reconexión en INTEGRATE al cierre del módulo.
 0 imágenes, 0 TAKUs (contenido puramente definicional).
+
+## 2026-06-04 — pipeline módulo 09 (HYPERDETALLE) PDF 2/4: 09.01.02 Estado de resultados
+
++9 AKUs concept: estado-resultados, ingresos-contables, ventas, gastos-contables, coste-mercancias-vendidas (COGS), amortizacion, provisiones, gastos-financieros, partidas-extraordinarias.
+INTEGRATE (a) anclado: estado-resultados↔balance-situacion, ingresos-contables↔patrimonio-neto, amortizacion↔activo-no-corriente, coste-mercancias↔existencias, gastos-financieros↔pasivo.
+INTEGRATE (b) bajo autonomía (anotado para revisión): ingresos-contables↔flujos-de-ingresos (BMC), gastos-contables↔estructura-de-costes (BMC) → reconectan el cluster contable completo al grafo principal.
+0 imágenes, 0 TAKUs.

@@ -30,7 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-activo-concept, aku-inmovilizado-intangible-concept, aku-inmovilizado-material-concept, aku-inmovilizado-financiero-concept]
+  related: [aku-activo-concept, aku-inmovilizado-intangible-concept, aku-inmovilizado-material-concept, aku-inmovilizado-financiero-concept, aku-amortizacion-concept]
 
 sources:
   - raw/09-01-01-balancedesituacion/09-01-01-balancedesituacion.md
@@ -43,4 +43,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-activo-concept]] · [[aku-inmovilizado-intangible-concept]] · [[aku-inmovilizado-material-concept]] · [[aku-inmovilizado-financiero-concept]]
+**related** ↔ [[aku-activo-concept]] · [[aku-inmovilizado-intangible-concept]] · [[aku-inmovilizado-material-concept]] · [[aku-inmovilizado-financiero-concept]] · [[aku-amortizacion-concept]]
