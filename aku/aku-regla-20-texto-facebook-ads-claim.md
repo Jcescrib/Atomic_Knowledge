@@ -39,7 +39,7 @@ sources:
 created: 2026-06-04
 updated: 2026-06-04
 status: active
-status_note: "Política de Facebook enseñada en el curso; FB flexibilizó/retiró la regla del 20% en 2020 — pendiente de validación humana sobre vigencia actual."
+status_note: "DESACTUALIZADO: Facebook ELIMINÓ la regla del 20% de texto en imágenes en 2020. El AKU registra el contenido del curso, pero ya no refleja la política vigente. El humano lo marcará human_certainty: validated-false en la próxima revisión humana (mantener como evidencia negativa, no borrar)."
 ---
 
 ## Relaciones

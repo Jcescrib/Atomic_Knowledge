@@ -534,3 +534,9 @@ INTEGRATE (a): cluster copy ↔ hacks-copywriting (M18), cta, cialdini, titulo-a
 
 AUDIT FINAL DE GRAFO: detectado 2º componente (isla de 17 nodos: solvencia/liquidez/working-capital del módulo 09 ratios). Reunificado con 6 puentes INTEGRATE nivel (a) anclados en texto: solvencia↔pasivo, liquidez↔activo-corriente, fondo-de-maniobra↔activo-corriente/pasivo-corriente, NOF↔existencias/clientes-partida/proveedores-partida.
 Resultado: 1 componente conectado (468 nodos), 411 AKUs (326 concept · 30 method · 55 claim) + 57 TAKUs, 0 asimetrías, 0 body-drift, 0 sin aku_class, TAKU justified_by 100% válidos.
+
+## 2026-06-04 — revisión humana (Joan): aprobaciones + nota de obsolescencia
+
+- DEDUPS aprobados como SEPARADOS (3): claridad-objetivos-exito vs autoliderazgo-prerequisito; ingresos-prestaciones-servicios vs ventas; enriquecimientos mbti/tests-personalidad sin bump.
+- PUENTES nivel (b) APROBADOS (3): ingresos-contables↔flujos-de-ingresos, gastos-contables↔estructura-de-costes, herramientas-growth-hacking↔motor-crecimiento.
+- aku-regla-20-texto-facebook-ads-claim: status_note actualizado → Facebook eliminó la regla del 20% en 2020; el AKU queda DESACTUALIZADO; el humano lo marcará human_certainty: validated-false en próxima revisión (se conserva como evidencia negativa). human_certainty SIN cambios (sigue unvalidated, no lo toca el agente).
