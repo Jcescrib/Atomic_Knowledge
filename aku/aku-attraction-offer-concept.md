@@ -27,6 +27,10 @@ epistemic_type: sourced
 relations:
   supported_by:
     - aku-win-your-money-back-concept
+    - aku-giveaway-offer-concept
+    - aku-decoy-offer-concept
+    - aku-buy-x-get-y-free-concept
+    - aku-pay-less-now-or-more-later-concept
   supports:
     - aku-cuatro-tipos-oferta-concept
   constrained_by: []
@@ -49,7 +53,7 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-win-your-money-back-concept]]
+**supported_by** ← [[aku-win-your-money-back-concept]] · [[aku-giveaway-offer-concept]] · [[aku-decoy-offer-concept]] · [[aku-buy-x-get-y-free-concept]] · [[aku-pay-less-now-or-more-later-concept]]
 
 **supports** → [[aku-cuatro-tipos-oferta-concept]]
 
