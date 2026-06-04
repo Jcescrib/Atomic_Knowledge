@@ -28,7 +28,7 @@ epistemic_type: sourced
 relations:
   supported_by: []
   supports: [aku-boca-a-boca-supera-campana-claim, aku-recomendacion-depende-producto-claim]
-  constrained_by: []
+  constrained_by: [aku-viralizacion-coste-cercano-cero-claim]
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
@@ -47,4 +47,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-boca-a-boca-supera-campana-claim]] · [[aku-recomendacion-depende-producto-claim]]
+**constrained_by** ← [[aku-viralizacion-coste-cercano-cero-claim]]
 **related** ↔ [[aku-coeficiente-viralidad-concept]] · [[aku-cac-concept]]
