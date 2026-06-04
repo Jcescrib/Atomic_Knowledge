@@ -14,12 +14,12 @@ domain: [marketing-digital, paid-social, facebook-ads]
 llm_confidence: 0.50
 
 human_certainty:
-  status: unvalidated
-  iterations: 0
+  status: validated-false
+  iterations: 1
   context_boundary: ""
-  validated_by: ""
-  validation_date: ""
-  method: ""
+  validated_by: "Joan Cepero"
+  validation_date: 2026-06-04
+  method: "Revisión humana: Facebook eliminó la regla del 20% de texto en imágenes en 2020; la política ya no aplica."
 
 epistemic_type: sourced
 
@@ -39,7 +39,7 @@ sources:
 created: 2026-06-04
 updated: 2026-06-04
 status: active
-status_note: "DESACTUALIZADO: Facebook ELIMINÓ la regla del 20% de texto en imágenes en 2020. El AKU registra el contenido del curso, pero ya no refleja la política vigente. El humano lo marcará human_certainty: validated-false en la próxima revisión humana (mantener como evidencia negativa, no borrar)."
+status_note: "Facebook eliminó la regla del 20% de texto en imágenes en 2020. El AKU registra el contenido del curso pero está desactualizado y ya no aplica. ✗ FALSIFIED — preserved as negative evidence (no eligible validated-true Facebook-Ads claim to link via contradicts at this time)."
 ---
 
 ## Relaciones

@@ -540,3 +540,12 @@ Resultado: 1 componente conectado (468 nodos), 411 AKUs (326 concept · 30 metho
 - DEDUPS aprobados como SEPARADOS (3): claridad-objetivos-exito vs autoliderazgo-prerequisito; ingresos-prestaciones-servicios vs ventas; enriquecimientos mbti/tests-personalidad sin bump.
 - PUENTES nivel (b) APROBADOS (3): ingresos-contables↔flujos-de-ingresos, gastos-contables↔estructura-de-costes, herramientas-growth-hacking↔motor-crecimiento.
 - aku-regla-20-texto-facebook-ads-claim: status_note actualizado → Facebook eliminó la regla del 20% en 2020; el AKU queda DESACTUALIZADO; el humano lo marcará human_certainty: validated-false en próxima revisión (se conserva como evidencia negativa). human_certainty SIN cambios (sigue unvalidated, no lo toca el agente).
+
+## 2026-06-04 — validación humana (Joan): aku-regla-20-texto-facebook-ads-claim → VALIDATED-FALSE
+
+human_certainty.status: unvalidated → validated-false (validated_by: Joan Cepero, validation_date: 2026-06-04).
+Motivo: Facebook eliminó la regla del 20% de texto en imágenes en 2020; el AKU registra el contenido del curso pero está desactualizado y ya no aplica.
+contradicts: no añadido — no existe un AKU claim de buenas prácticas de Facebook Ads vigente y validated-true al que enlazar (los relacionados son definiciones: facebook-concept, paid-social-concept, herramientas-creacion-anuncios-facebook-concept). Se revisará si en futuras ingestas aparece un claim contradictorio.
+Se conserva como evidencia negativa (✗ FALSIFIED). llm_confidence se mantiene 0.50 (informativo; señal: high-confidence-sourced + validated-false).
+index dashboard: validated-false 0 → 1.
+TAKUs: NO tocados (los activa el humano manualmente).
