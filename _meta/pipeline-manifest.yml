@@ -1428,9 +1428,9 @@ sources:
     converted: 2026-06-03
     image_processing: n/a
     ingested: null   # book mode — en curso
-    chapters_ingested: [lead-magnets-y-engaged-leads, core-four-y-warm-outreach, post-free-content, cold-outreach, paid-ads-making-an-ad, paid-ads-money, core-four-on-steroids-y-lead-getters]
-    aku_count: 40
-    taku_count: 7
+    chapters_ingested: [lead-magnets-y-engaged-leads, core-four-y-warm-outreach, post-free-content, cold-outreach, paid-ads-making-an-ad, paid-ads-money, core-four-on-steroids-y-lead-getters, customer-referrals]
+    aku_count: 44
+    taku_count: 8
     last_commit: ""
     notes: >
       Libro 2 de la trilogía Hormozi (Acquisition.com Vol. II). source-tag: hormozi.

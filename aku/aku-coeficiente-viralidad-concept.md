@@ -38,6 +38,7 @@ relations:
     - aku-motor-crecimiento-viral-concept
     - aku-network-effect-concept
     - aku-recomendacion-vs-viralizacion-concept
+    - aku-referral-growth-exponential-claim
 
 sources:
   - "raw/cursos/power-mba/2-2-1-tiposmotorescrecimiento/2-2-1-tiposmotorescrecimiento.md"
@@ -50,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-motor-crecimiento-viral-concept]] · [[aku-network-effect-concept]] · [[aku-recomendacion-vs-viralizacion-concept]]
+**related** ↔ [[aku-motor-crecimiento-viral-concept]] · [[aku-network-effect-concept]] · [[aku-recomendacion-vs-viralizacion-concept]] · [[aku-referral-growth-exponential-claim]]
