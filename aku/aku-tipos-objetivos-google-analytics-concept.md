@@ -27,7 +27,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports: [aku-ga-objetivo-destino-concept, aku-ga-objetivo-evento-concept, aku-ga-objetivo-engagement-concept, aku-ga-objetivo-duracion-concept]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -46,4 +46,5 @@ status_note: ""
 
 ## Relaciones
 
+**supports** → [[aku-ga-objetivo-destino-concept]] · [[aku-ga-objetivo-evento-concept]] · [[aku-ga-objetivo-engagement-concept]] · [[aku-ga-objetivo-duracion-concept]]
 **related** ↔ [[aku-plan-de-medicion-concept]] · [[aku-piramide-conversion-concept]]
