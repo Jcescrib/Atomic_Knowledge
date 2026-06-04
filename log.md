@@ -496,3 +496,9 @@ PDF2 (gestión RRSS): +3 concept (herramientas-gestion-rrss, community-manager, 
 PDF3 (tabla comparativa): +9 AKUs (hub comparativa-redes-sociales + 7 platforms twitter/instagram/linkedin/facebook/tiktok/pinterest/youtube + claim eleccion-red-social-segun-negocio) + 1 framework TAKU seleccion-red-social. 10 logos decorativos; tablas HTML = fuente.
 INTEGRATE (a): herramientas-creacion ↔ content-marketing; comparativa ↔ paid-social.
 Módulo 12 COMPLETO: 3 PDFs, +13 AKUs (12 concept + 1 claim) + 1 TAKU. Verificación: 396 AKUs, 51 TAKUs, 0 asimetrías, 0 body-drift.
+
+## 2026-06-04 — pipeline módulo 13 «Growth hacking» (1 PDF): Herramientas y recursos
+
++1 concept (herramientas-growth-hacking) que cataloga las categorías funcionales de herramientas (bases de datos, emails, scrapers, competidores, extensiones Chrome, product marketing, contenido, data enrichment, market research, LinkedIn automation, email outreach). Directorio de nombres de producto (hollow nominal) → 1 concept de categorías.
+INTEGRATE nivel (b) bajo autonomía (ANOTADO para revisión humana): herramientas-growth-hacking ↔ motor-crecimiento-concept (conexión conceptual, no anclada textualmente). 0 imágenes, 0 TAKUs.
+Verificación: 397 AKUs, 0 asimetrías, 0 body-drift.
