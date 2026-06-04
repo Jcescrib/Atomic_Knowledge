@@ -36,6 +36,7 @@ relations:
   related:
     - aku-value-equation-concept
     - aku-status-driver-compra-claim
+    - aku-whisper-tease-shout-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-anuncio-callout-value-cta-concept]]
 
-**related** ↔ [[aku-value-equation-concept]] · [[aku-status-driver-compra-claim]]
+**related** ↔ [[aku-value-equation-concept]] · [[aku-status-driver-compra-claim]] · [[aku-whisper-tease-shout-concept]]

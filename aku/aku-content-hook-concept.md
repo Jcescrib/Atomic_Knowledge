@@ -36,6 +36,7 @@ relations:
   contradicts: []
   related:
     - aku-formulas-titulos-potentes-concept
+    - aku-whisper-tease-shout-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-content-unit-concept]]
 
-**related** ↔ [[aku-formulas-titulos-potentes-concept]]
+**related** ↔ [[aku-formulas-titulos-potentes-concept]] · [[aku-whisper-tease-shout-concept]]
