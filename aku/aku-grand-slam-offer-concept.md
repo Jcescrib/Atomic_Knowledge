@@ -41,6 +41,7 @@ relations:
     - aku-grand-slam-offer-tres-palancas-claim
     - aku-mercado-oferta-persuasion-jerarquia-claim
     - aku-implied-guarantee-performance-concept
+    - aku-magic-naming-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -53,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-commodity-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-categoria-de-uno-concept]] · [[aku-compra-value-vs-price-driven-concept]] · [[aku-grand-slam-offer-tres-palancas-claim]] · [[aku-mercado-oferta-persuasion-jerarquia-claim]] · [[aku-implied-guarantee-performance-concept]]
+**related** ↔ [[aku-commodity-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-categoria-de-uno-concept]] · [[aku-compra-value-vs-price-driven-concept]] · [[aku-grand-slam-offer-tres-palancas-claim]] · [[aku-mercado-oferta-persuasion-jerarquia-claim]] · [[aku-implied-guarantee-performance-concept]] · [[aku-magic-naming-concept]]

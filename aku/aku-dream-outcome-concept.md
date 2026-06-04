@@ -37,6 +37,7 @@ relations:
     - aku-beneficio-emocional-concept
     - aku-cosas-importantes-concept
     - aku-status-driver-compra-claim
+    - aku-magic-naming-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -51,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-value-equation-concept]]
 
-**related** ↔ [[aku-beneficio-emocional-concept]] · [[aku-cosas-importantes-concept]] · [[aku-status-driver-compra-claim]]
+**related** ↔ [[aku-beneficio-emocional-concept]] · [[aku-cosas-importantes-concept]] · [[aku-status-driver-compra-claim]] · [[aku-magic-naming-concept]]

@@ -1406,10 +1406,10 @@ sources:
     converter: mineru
     converted: 2026-06-03
     image_processing: n/a   # figuras = diagramas decorativos OCR; contenido en texto/tablas HTML
-    ingested: null   # book mode — en curso, ver chapters_ingested
-    chapters_ingested: [grand-slam-offer-y-comoditizacion, seleccion-de-mercado, precio-premium-circulo-virtuoso, value-equation, crear-la-oferta, oferta-demanda-y-escasez, urgencia, bonos, garantias]
-    aku_count: 49
-    taku_count: 8
+    ingested: 2026-06-04   # book mode COMPLETO (11 capítulos)
+    chapters_ingested: [grand-slam-offer-y-comoditizacion, seleccion-de-mercado, precio-premium-circulo-virtuoso, value-equation, crear-la-oferta, oferta-demanda-y-escasez, urgencia, bonos, garantias, naming-y-fatiga]
+    aku_count: 51
+    taku_count: 9
     last_commit: ""
     notes: >
       Libro 1 de la trilogía Hormozi (Acquisition.com Vol. I). Ingesta book-mode

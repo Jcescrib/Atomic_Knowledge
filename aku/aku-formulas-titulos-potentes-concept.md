@@ -34,7 +34,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-hacks-copywriting-concept, aku-titulo-anuncio-google-concept]
+  related:
+    - aku-hacks-copywriting-concept
+    - aku-titulo-anuncio-google-concept
+    - aku-magic-naming-concept
 
 sources:
   - raw/cursos/power-mba/20-2-lista-de-f-ormulas-para-escribir-t-itulos-potentes/20-2-lista-de-f-ormulas-para-escribir-t-itulos-potentes.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-hacks-copywriting-concept]] · [[aku-titulo-anuncio-google-concept]]
+**related** ↔ [[aku-hacks-copywriting-concept]] · [[aku-titulo-anuncio-google-concept]] · [[aku-magic-naming-concept]]
