@@ -42,6 +42,20 @@ relations:
     - aku-mercado-oferta-persuasion-jerarquia-claim
     - aku-implied-guarantee-performance-concept
     - aku-magic-naming-concept
+    - aku-grow-or-die-claim
+    - aku-tres-formas-crecer-concept
+    - aku-cobrar-premium-decision-moral-claim
+    - aku-quien-necesita-menos-tiene-ventaja-claim
+    - aku-offer-definicion-concept
+    - aku-gso-cinco-pasos-method
+    - aku-listar-problemas-cuatro-drivers-method
+    - aku-problema-a-solucion-method
+    - aku-delivery-vehicles-concept
+    - aku-trim-and-stack-method
+    - aku-resolver-cada-problema-percibido-claim
+    - aku-bundle-tres-efectos-claim
+    - aku-cohort-based-rolling-urgency-concept
+    - aku-pedir-de-nuevo-con-bono-reciprocidad-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -54,4 +68,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-commodity-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-categoria-de-uno-concept]] · [[aku-compra-value-vs-price-driven-concept]] · [[aku-grand-slam-offer-tres-palancas-claim]] · [[aku-mercado-oferta-persuasion-jerarquia-claim]] · [[aku-implied-guarantee-performance-concept]] · [[aku-magic-naming-concept]]
+**related** ↔ [[aku-commodity-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-categoria-de-uno-concept]] · [[aku-compra-value-vs-price-driven-concept]] · [[aku-grand-slam-offer-tres-palancas-claim]] · [[aku-mercado-oferta-persuasion-jerarquia-claim]] · [[aku-implied-guarantee-performance-concept]] · [[aku-magic-naming-concept]] · [[aku-grow-or-die-claim]] · [[aku-tres-formas-crecer-concept]] · [[aku-cobrar-premium-decision-moral-claim]] · [[aku-quien-necesita-menos-tiene-ventaja-claim]] · [[aku-offer-definicion-concept]] · [[aku-gso-cinco-pasos-method]] · [[aku-listar-problemas-cuatro-drivers-method]] · [[aku-problema-a-solucion-method]] · [[aku-delivery-vehicles-concept]] · [[aku-trim-and-stack-method]] · [[aku-resolver-cada-problema-percibido-claim]] · [[aku-bundle-tres-efectos-claim]] · [[aku-cohort-based-rolling-urgency-concept]] · [[aku-pedir-de-nuevo-con-bono-reciprocidad-claim]]

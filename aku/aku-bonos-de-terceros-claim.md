@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-bonuses-stack-concept
+    - aku-bonos-terceros-revenue-streams-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-bonuses-stack-concept]]
+**related** ↔ [[aku-bonuses-stack-concept]] · [[aku-bonos-terceros-revenue-streams-claim]]

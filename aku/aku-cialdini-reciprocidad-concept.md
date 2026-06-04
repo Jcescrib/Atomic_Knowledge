@@ -34,6 +34,7 @@ relations:
   related:
     - aku-lead-magnet-concept
     - aku-bonuses-stack-concept
+    - aku-pedir-de-nuevo-con-bono-reciprocidad-claim
 
 sources:
   - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
@@ -47,4 +48,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-leyes-persuasion-cialdini-concept]]
-**related** ↔ [[aku-lead-magnet-concept]] · [[aku-bonuses-stack-concept]]
+**related** ↔ [[aku-lead-magnet-concept]] · [[aku-bonuses-stack-concept]] · [[aku-pedir-de-nuevo-con-bono-reciprocidad-claim]]

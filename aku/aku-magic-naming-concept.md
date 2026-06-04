@@ -27,7 +27,12 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-magic-magnet-concept
+    - aku-magic-avatar-concept
+    - aku-magic-goal-concept
+    - aku-magic-interval-concept
+    - aku-magic-container-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -38,6 +43,10 @@ relations:
     - aku-grand-slam-offer-concept
     - aku-formulas-titulos-potentes-concept
     - aku-offers-fatigue-claim
+    - aku-ofertas-fatigan-rebranding-claim
+    - aku-orden-variacion-oferta-fatiga-method
+    - aku-marketing-local-doble-filo-claim
+    - aku-implicit-egotism-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -50,4 +59,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-dream-outcome-concept]] · [[aku-grand-slam-offer-concept]] · [[aku-formulas-titulos-potentes-concept]] · [[aku-offers-fatigue-claim]]
+**related** ↔ [[aku-dream-outcome-concept]] · [[aku-grand-slam-offer-concept]] · [[aku-formulas-titulos-potentes-concept]] · [[aku-offers-fatigue-claim]] · [[aku-ofertas-fatigan-rebranding-claim]] · [[aku-orden-variacion-oferta-fatiga-method]] · [[aku-marketing-local-doble-filo-claim]] · [[aku-implicit-egotism-concept]]
+
+**supports** → [[aku-magic-magnet-concept]] · [[aku-magic-avatar-concept]] · [[aku-magic-goal-concept]] · [[aku-magic-interval-concept]] · [[aku-magic-container-concept]]

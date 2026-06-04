@@ -25,13 +25,18 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-margen-bruto-sobre-ventas-method]
+  supports:
+    - aku-margen-bruto-sobre-ventas-method
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-coste-mercancias-vendidas-concept, aku-ebitda-concept, aku-margen-volumen-patron-sectorial-claim]
+  related:
+    - aku-coste-mercancias-vendidas-concept
+    - aku-ebitda-concept
+    - aku-margen-volumen-patron-sectorial-claim
+    - aku-gross-profit-additional-customer-concept
 
 sources:
   - raw/cursos/power-mba/09-02-01-ratios-analisis-financieros/09-02-01-ratios-analisis-financieros.md
@@ -45,4 +50,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-margen-bruto-sobre-ventas-method]]
-**related** ↔ [[aku-coste-mercancias-vendidas-concept]] · [[aku-ebitda-concept]] · [[aku-margen-volumen-patron-sectorial-claim]]
+**related** ↔ [[aku-coste-mercancias-vendidas-concept]] · [[aku-ebitda-concept]] · [[aku-margen-volumen-patron-sectorial-claim]] · [[aku-gross-profit-additional-customer-concept]]
