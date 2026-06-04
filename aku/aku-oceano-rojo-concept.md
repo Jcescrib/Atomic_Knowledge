@@ -45,6 +45,7 @@ relations:
     - aku-rivalidad-competitiva-concept
     - aku-ciclo-vida-producto-concept
     - aku-rivalidad-reduce-rentabilidad-claim
+    - aku-madurez-oceano-rojo-robar-cuota-claim
 
 sources:
   - "raw/cursos/power-mba/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave.md"
@@ -59,4 +60,4 @@ status_note: ""
 
 **supported_by** ← [[aku-empresas-borregos-claim]]
 
-**related** ↔ [[aku-oceano-azul-concept]] · [[aku-curva-valor-concept]] · [[aku-innovar-vs-competir-concept]] · [[aku-cliente-buscando-vs-no-concept]] · [[aku-rivalidad-competitiva-concept]] · [[aku-ciclo-vida-producto-concept]] · [[aku-rivalidad-reduce-rentabilidad-claim]]
+**related** ↔ [[aku-oceano-azul-concept]] · [[aku-curva-valor-concept]] · [[aku-innovar-vs-competir-concept]] · [[aku-cliente-buscando-vs-no-concept]] · [[aku-rivalidad-competitiva-concept]] · [[aku-ciclo-vida-producto-concept]] · [[aku-rivalidad-reduce-rentabilidad-claim]] · [[aku-madurez-oceano-rojo-robar-cuota-claim]]

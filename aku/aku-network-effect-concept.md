@@ -46,6 +46,7 @@ relations:
     - aku-barreras-de-entrada-concept
     - aku-factores-crecimiento-blitzscaling-concept
     - aku-blitzscaling-cuando-oportunidad-enorme-claim
+    - aku-barrera-economias-de-red-concept
 
 sources:
   - "raw/cursos/power-mba/2-3-conceptos-clave-de-las-plataformas/2-3-conceptos-clave-de-las-plataformas.md"
@@ -60,4 +61,4 @@ status_note: ""
 
 **supports** → [[aku-circulo-virtuoso-concept]] · [[aku-circulo-vicioso-concept]]
 
-**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-coeficiente-viralidad-concept]] · [[aku-motor-crecimiento-viral-concept]] · [[aku-free-bootstrap-plataforma-claim]] · [[aku-barreras-de-entrada-concept]] · [[aku-factores-crecimiento-blitzscaling-concept]] · [[aku-blitzscaling-cuando-oportunidad-enorme-claim]]
+**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-coeficiente-viralidad-concept]] · [[aku-motor-crecimiento-viral-concept]] · [[aku-free-bootstrap-plataforma-claim]] · [[aku-barreras-de-entrada-concept]] · [[aku-factores-crecimiento-blitzscaling-concept]] · [[aku-blitzscaling-cuando-oportunidad-enorme-claim]] · [[aku-barrera-economias-de-red-concept]]

@@ -26,7 +26,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports: [aku-pest-factores-politicos-concept, aku-pest-factores-economicos-concept, aku-pest-factores-sociales-concept, aku-pest-factores-tecnologicos-concept]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -45,4 +45,5 @@ status_note: ""
 
 ## Relaciones
 
+**supports** → [[aku-pest-factores-politicos-concept]] · [[aku-pest-factores-economicos-concept]] · [[aku-pest-factores-sociales-concept]] · [[aku-pest-factores-tecnologicos-concept]]
 **related** ↔ [[aku-cinco-fuerzas-porter-concept]]

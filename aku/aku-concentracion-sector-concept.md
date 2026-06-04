@@ -26,7 +26,7 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-monopolio-concept, aku-oligopolio-concept]
+  supported_by: [aku-monopolio-concept, aku-oligopolio-concept, aku-sector-atomizado-concept]
   supports: []
   constrained_by: []
   constrains: []
@@ -46,5 +46,5 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-monopolio-concept]] · [[aku-oligopolio-concept]]
+**supported_by** ← [[aku-monopolio-concept]] · [[aku-oligopolio-concept]] · [[aku-sector-atomizado-concept]]
 **related** ↔ [[aku-rivalidad-competitiva-concept]]

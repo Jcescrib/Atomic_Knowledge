@@ -30,7 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-ventaja-competitiva-concept, aku-barreras-de-entrada-concept, aku-cialdini-autoridad-concept]
+  related: [aku-ventaja-competitiva-concept, aku-barreras-de-entrada-concept, aku-cialdini-autoridad-concept, aku-barrera-marca-concept]
 
 sources:
   - raw/cursos/power-mba/4-4-branding/4-4-branding.md
@@ -44,4 +44,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-marca-concept]]
-**related** ↔ [[aku-ventaja-competitiva-concept]] · [[aku-barreras-de-entrada-concept]] · [[aku-cialdini-autoridad-concept]]
+**related** ↔ [[aku-ventaja-competitiva-concept]] · [[aku-barreras-de-entrada-concept]] · [[aku-cialdini-autoridad-concept]] · [[aku-barrera-marca-concept]]

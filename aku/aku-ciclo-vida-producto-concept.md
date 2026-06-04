@@ -35,7 +35,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-early-adopter-concept, aku-oceano-rojo-concept]
+  related: [aku-early-adopter-concept, aku-oceano-rojo-concept, aku-madurez-oceano-rojo-robar-cuota-claim]
 
 sources:
   - raw/cursos/power-mba/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
@@ -48,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-early-adopter-concept]] · [[aku-oceano-rojo-concept]]
+**related** ↔ [[aku-early-adopter-concept]] · [[aku-oceano-rojo-concept]] · [[aku-madurez-oceano-rojo-robar-cuota-claim]]

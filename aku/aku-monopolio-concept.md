@@ -30,7 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-oligopolio-concept]
+  related: [aku-oligopolio-concept, aku-sector-atomizado-concept]
 
 sources:
   - raw/cursos/power-mba/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
@@ -44,4 +44,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-concentracion-sector-concept]]
-**related** ↔ [[aku-oligopolio-concept]]
+**related** ↔ [[aku-oligopolio-concept]] · [[aku-sector-atomizado-concept]]

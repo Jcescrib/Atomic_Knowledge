@@ -33,7 +33,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-identidad-de-marca-concept, aku-brand-equity-concept, aku-proposito-mision-concept]
+  related: [aku-identidad-de-marca-concept, aku-brand-equity-concept, aku-proposito-mision-concept, aku-barrera-marca-concept]
 
 sources:
   - raw/cursos/power-mba/4-4-branding/4-4-branding.md
@@ -47,4 +47,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-marca-potente-beneficios-claim]] · [[aku-plan-de-marca-concept]]
-**related** ↔ [[aku-identidad-de-marca-concept]] · [[aku-brand-equity-concept]] · [[aku-proposito-mision-concept]]
+**related** ↔ [[aku-identidad-de-marca-concept]] · [[aku-brand-equity-concept]] · [[aku-proposito-mision-concept]] · [[aku-barrera-marca-concept]]
