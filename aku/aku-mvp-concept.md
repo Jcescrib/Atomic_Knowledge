@@ -33,6 +33,9 @@ relations:
   supports:
     - aku-mago-de-oz-mvp-concept
     - aku-entrevista-problem-solution-concept
+    - aku-test-de-humo-concept
+    - aku-crowdfunding-validacion-concept
+    - aku-lista-de-espera-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -56,6 +59,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-mago-de-oz-mvp-concept]] · [[aku-entrevista-problem-solution-concept]]
+**supports** → [[aku-mago-de-oz-mvp-concept]] · [[aku-entrevista-problem-solution-concept]] · [[aku-test-de-humo-concept]] · [[aku-crowdfunding-validacion-concept]] · [[aku-lista-de-espera-concept]]
 
 **related** ↔ [[aku-lean-startup-method-concept]] · [[aku-hipotesis-concept]] · [[aku-build-measure-learn-concept]] · [[aku-aprendizaje-validado-concept]] · [[aku-ab-testing-concept]]

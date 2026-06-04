@@ -320,3 +320,11 @@ Re-escaneo de los raw del módulo 02 aplicando la regla «nunca omitir AKU por e
 - `aku-clasificados-concept` (2.3) — subtipo de plataforma (Wallapop/Vibbo, monetización publicitaria, modelo Free); ↔ modelo-plataforma, marketplace, modelo-free, on-demand.
 - `aku-estimacion-tamano-mercado-concept` (2.4) — top-down vs bottom-up; ↔ tam-sam-som, falacia-1%.
 Sin ambigüedades (ninguno era dedup de un AKU existente). Verificado: 197 AKUs, 0 asimetrías, 0 body-drift.
+
+## 2026-06-04 — reingesta diferencial (módulo 03)
+Re-escaneo de los raw del módulo 03 (Lean Startup). 3 conceptos nuevos con identidad propia (tipos de MVP que estaban listados pero no eran AKU propio):
+- `aku-test-de-humo-concept` (3.0.1) — smoke test (landing/forms/CTA sin producto); ↔ mvp(supported_by), landing-page, cta, aprendizaje-validado.
+- `aku-crowdfunding-validacion-concept` (3.0.1) — Kickstarter/Indiegogo como validación + financiación; ↔ mvp, aprendizaje-validado, fuentes-financiacion.
+- `aku-lista-de-espera-concept` (3.0.1) — waitlist; ↔ mvp, aprendizaje-validado, lead-magnet.
+AMBIGÜEDAD pendiente de consulta (no creado): `publicidad dirigida` como MVP — solapa con performance-marketing/outbound-marketing (5.4.1) y con test-de-humo. A decisión del humano: crear como AKU propio, o tratar como faceta de los existentes.
+Verificado: 200 AKUs, 0 asimetrías, 0 body-drift.
