@@ -1428,9 +1428,9 @@ sources:
     converted: 2026-06-03
     image_processing: n/a
     ingested: null   # book mode — en curso
-    chapters_ingested: [lead-magnets-y-engaged-leads, core-four-y-warm-outreach, post-free-content]
-    aku_count: 21
-    taku_count: 3
+    chapters_ingested: [lead-magnets-y-engaged-leads, core-four-y-warm-outreach, post-free-content, cold-outreach]
+    aku_count: 26
+    taku_count: 4
     last_commit: ""
     notes: >
       Libro 2 de la trilogía Hormozi (Acquisition.com Vol. II). source-tag: hormozi.

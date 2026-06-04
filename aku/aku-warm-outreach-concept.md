@@ -37,6 +37,7 @@ relations:
     - aku-todos-tienen-lista-claim
     - aku-aca-framework-concept
     - aku-first-five-free-claim
+    - aku-cold-outreach-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -51,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-core-four-concept]]
 
-**related** ↔ [[aku-warm-cold-audience-concept]] · [[aku-todos-tienen-lista-claim]] · [[aku-aca-framework-concept]] · [[aku-first-five-free-claim]]
+**related** ↔ [[aku-warm-cold-audience-concept]] · [[aku-todos-tienen-lista-claim]] · [[aku-aca-framework-concept]] · [[aku-first-five-free-claim]] · [[aku-cold-outreach-concept]]

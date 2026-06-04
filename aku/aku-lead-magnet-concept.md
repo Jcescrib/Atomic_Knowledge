@@ -45,6 +45,7 @@ relations:
     - aku-cialdini-reciprocidad-concept
     - aku-give-away-secrets-sell-implementation-claim
     - aku-lead-magnet-reduce-cac-claim
+    - aku-big-fast-value-claim
 
 sources:
   - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
@@ -59,7 +60,7 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cliente-buscando-vs-no-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-power-funnel-concept]] · [[aku-inbound-marketing-concept]] · [[aku-lead-concept]] · [[aku-lista-de-espera-concept]] · [[aku-cialdini-reciprocidad-concept]] · [[aku-give-away-secrets-sell-implementation-claim]] · [[aku-lead-magnet-reduce-cac-claim]]
+**related** ↔ [[aku-cliente-buscando-vs-no-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-power-funnel-concept]] · [[aku-inbound-marketing-concept]] · [[aku-lead-concept]] · [[aku-lista-de-espera-concept]] · [[aku-cialdini-reciprocidad-concept]] · [[aku-give-away-secrets-sell-implementation-claim]] · [[aku-lead-magnet-reduce-cac-claim]] · [[aku-big-fast-value-claim]]
 
 **supports** → [[aku-tipos-lead-magnet-concept]]
 
