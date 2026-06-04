@@ -36,6 +36,7 @@ relations:
   contradicts: []
   related:
     - aku-propuesta-de-valor-concept
+    - aku-pitch-deck-producto-concept
 
 sources:
   - raw/cursos/power-mba/6-3-3-estructura-del-pitch-deck/6-3-3-estructura-del-pitch-deck.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supported_by** ← [[aku-pitch-deck-concept]]
 
-**related** ↔ [[aku-propuesta-de-valor-concept]]
+**related** ↔ [[aku-propuesta-de-valor-concept]] · [[aku-pitch-deck-producto-concept]]

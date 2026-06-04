@@ -28,7 +28,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-pitch-deck-one-liner-concept, aku-pitch-deck-problema-concept, aku-pitch-deck-solucion-concept, aku-pitch-deck-oportunidad-concept, aku-pitch-deck-mercado-tamano-concept, aku-pitch-deck-competencia-concept, aku-pitch-deck-modelo-negocio-concept, aku-pitch-deck-equipo-concept, aku-pitch-deck-traccion-concept, aku-pitch-deck-financials-concept, aku-pitch-deck-roadmap-concept, aku-pitch-deck-call-to-action-concept]
+  supports: [aku-pitch-deck-one-liner-concept, aku-pitch-deck-problema-concept, aku-pitch-deck-solucion-concept, aku-pitch-deck-producto-concept, aku-pitch-deck-oportunidad-concept, aku-pitch-deck-mercado-tamano-concept, aku-pitch-deck-competencia-concept, aku-pitch-deck-modelo-negocio-concept, aku-pitch-deck-equipo-concept, aku-pitch-deck-traccion-concept, aku-pitch-deck-financials-concept, aku-pitch-deck-marketing-crecimiento-concept, aku-pitch-deck-roadmap-concept, aku-pitch-deck-call-to-action-concept]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -47,6 +47,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-pitch-deck-one-liner-concept]] · [[aku-pitch-deck-problema-concept]] · [[aku-pitch-deck-solucion-concept]] · [[aku-pitch-deck-oportunidad-concept]] · [[aku-pitch-deck-mercado-tamano-concept]] · [[aku-pitch-deck-competencia-concept]] · [[aku-pitch-deck-modelo-negocio-concept]] · [[aku-pitch-deck-equipo-concept]] · [[aku-pitch-deck-traccion-concept]] · [[aku-pitch-deck-financials-concept]] · [[aku-pitch-deck-roadmap-concept]] · [[aku-pitch-deck-call-to-action-concept]]
+**supports** → [[aku-pitch-deck-one-liner-concept]] · [[aku-pitch-deck-problema-concept]] · [[aku-pitch-deck-solucion-concept]] · [[aku-pitch-deck-producto-concept]] · [[aku-pitch-deck-oportunidad-concept]] · [[aku-pitch-deck-mercado-tamano-concept]] · [[aku-pitch-deck-competencia-concept]] · [[aku-pitch-deck-modelo-negocio-concept]] · [[aku-pitch-deck-equipo-concept]] · [[aku-pitch-deck-traccion-concept]] · [[aku-pitch-deck-financials-concept]] · [[aku-pitch-deck-marketing-crecimiento-concept]] · [[aku-pitch-deck-roadmap-concept]] · [[aku-pitch-deck-call-to-action-concept]]
 
 **related** ↔ [[aku-criterios-inversion-concept]] · [[aku-problem-solution-fit-concept]] · [[aku-tam-sam-som-concept]] · [[aku-bmc-concept]] · [[aku-elevator-pitch-concept]]
