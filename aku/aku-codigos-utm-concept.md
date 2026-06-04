@@ -27,7 +27,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports: [aku-utm-source-concept, aku-utm-medium-concept, aku-utm-campaign-concept, aku-utm-term-concept, aku-utm-content-concept, aku-construccion-url-utm-method]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -46,4 +46,5 @@ status_note: ""
 
 ## Relaciones
 
+**supports** → [[aku-utm-source-concept]] · [[aku-utm-medium-concept]] · [[aku-utm-campaign-concept]] · [[aku-utm-term-concept]] · [[aku-utm-content-concept]] · [[aku-construccion-url-utm-method]]
 **related** ↔ [[aku-plan-de-medicion-concept]] · [[aku-atribucion-concept]]
