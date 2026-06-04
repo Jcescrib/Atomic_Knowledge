@@ -27,7 +27,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-clausula-briefing-concept, aku-clausula-contenidos-obligatorios-concept, aku-clausula-extension-contenidos-concept, aku-clausula-formato-contenidos-concept, aku-clausula-periodicidad-calendario-concept, aku-clausula-contenidos-relacionados-concept, aku-clausula-previsualizacion-aprobacion-concept, aku-clausula-remuneracion-influencer-concept, aku-clausula-exclusividad-influencer-concept, aku-clausula-envio-resultados-influencer-concept]
+  supports: [aku-clausula-briefing-concept, aku-clausula-contenidos-obligatorios-concept, aku-clausula-extension-contenidos-concept, aku-clausula-formato-contenidos-concept, aku-clausula-periodicidad-calendario-concept, aku-clausula-contenidos-relacionados-concept, aku-clausula-previsualizacion-aprobacion-concept, aku-clausula-remuneracion-influencer-concept, aku-clausula-exclusividad-influencer-concept, aku-clausula-envio-resultados-influencer-concept, aku-cesion-uso-contenido-influencer-concept]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -47,5 +47,5 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-clausula-briefing-concept]] · [[aku-clausula-contenidos-obligatorios-concept]] · [[aku-clausula-extension-contenidos-concept]] · [[aku-clausula-formato-contenidos-concept]] · [[aku-clausula-periodicidad-calendario-concept]] · [[aku-clausula-contenidos-relacionados-concept]] · [[aku-clausula-previsualizacion-aprobacion-concept]] · [[aku-clausula-remuneracion-influencer-concept]] · [[aku-clausula-exclusividad-influencer-concept]] · [[aku-clausula-envio-resultados-influencer-concept]]
+**supports** → [[aku-clausula-briefing-concept]] · [[aku-clausula-contenidos-obligatorios-concept]] · [[aku-clausula-extension-contenidos-concept]] · [[aku-clausula-formato-contenidos-concept]] · [[aku-clausula-periodicidad-calendario-concept]] · [[aku-clausula-contenidos-relacionados-concept]] · [[aku-clausula-previsualizacion-aprobacion-concept]] · [[aku-clausula-remuneracion-influencer-concept]] · [[aku-clausula-exclusividad-influencer-concept]] · [[aku-clausula-envio-resultados-influencer-concept]] · [[aku-cesion-uso-contenido-influencer-concept]]
 **related** ↔ [[aku-marketing-influencers-concept]] · [[aku-colaboraciones-influencers-pagadas-vs-gratuitas-concept]]
