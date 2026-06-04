@@ -9,7 +9,7 @@ statement: >
   que representa el valor contable de los fondos propios y absorbe pérdidas y
   acumula beneficios retenidos.
 origin: "The Power MBA — Módulo 9.1 «Balance de situación»"
-domain: [finanzas, contabilidad, estados-financieros]
+domain: [finanzas, contabilidad, estados-financieros, power-mba]
 
 llm_confidence: 0.50
 

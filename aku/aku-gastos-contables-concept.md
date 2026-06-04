@@ -11,7 +11,7 @@ statement: >
   provisiones; implica que su naturaleza (recurrente/no recurrente, de explotación/
   financiera) condiciona la lectura del resultado.
 origin: "The Power MBA — Módulo 9.1 «Estado de resultados»"
-domain: [finanzas, contabilidad, gastos]
+domain: [finanzas, contabilidad, gastos, power-mba]
 
 llm_confidence: 0.50
 

@@ -8,7 +8,7 @@ statement: >
   líquido del balance; implica disponibilidad inmediata para atender pagos; en el
   Plan General Contable español se registra en las cuentas 570 a 576.
 origin: "The Power MBA — Módulo 9.1 «Balance de situación»; PGC español"
-domain: [finanzas, contabilidad, tesoreria]
+domain: [finanzas, contabilidad, tesoreria, power-mba]
 
 llm_confidence: 0.50
 

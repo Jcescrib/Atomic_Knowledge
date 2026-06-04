@@ -4,7 +4,7 @@ taku_type: heuristic
 id: taku-optimizar-cta
 title: "Optimizar un CTA (Call To Action)"
 origin: "The Power MBA — Módulo 5.6.3 «Consejos para CTA»"
-domain: [marketing-digital, conversion, cta, copywriting]
+domain: [marketing-digital, conversion, cta, copywriting, power-mba]
 
 when_to_use: >
   Al diseñar o mejorar el botón/elemento que pide al usuario una acción concreta

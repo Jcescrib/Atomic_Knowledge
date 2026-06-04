@@ -10,7 +10,7 @@ statement: >
   referencia para KPIs y objetivos individuales); incluye revisión anual; implica
   rigidez frente a cambios del entorno.
 origin: "The Power MBA — Módulo 7.2 «Liderar a otros»"
-domain: [leadership, objetivos, gestion, finanzas]
+domain: [leadership, objetivos, gestion, finanzas, power-mba]
 
 llm_confidence: 0.50
 

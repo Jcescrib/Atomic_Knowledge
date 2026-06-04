@@ -8,7 +8,7 @@ statement: >
   para observar el comportamiento real de los clientes (clics, registros) y medir
   su interés; implica validar la demanda antes de construir nada.
 origin: "The Power MBA — Módulo 3.0.1 «El método Lean Startup» (Eric Ries)"
-domain: [lean-startup, mvp, validation, experimentation]
+domain: [lean-startup, mvp, validation, experimentation, power-mba]
 
 llm_confidence: 0.50
 

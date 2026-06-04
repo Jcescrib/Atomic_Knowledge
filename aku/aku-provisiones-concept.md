@@ -10,7 +10,7 @@ statement: >
   sobrevalorar el resultado ni el patrimonio; excluye los gastos ya ciertos y
   devengados.
 origin: "The Power MBA — Módulo 9.1 «Estado de resultados»"
-domain: [finanzas, contabilidad, gastos]
+domain: [finanzas, contabilidad, gastos, power-mba]
 
 llm_confidence: 0.50
 

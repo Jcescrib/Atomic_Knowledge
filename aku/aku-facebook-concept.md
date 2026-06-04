@@ -10,7 +10,7 @@ statement: >
   implica que es ideal para el negocio local; su limitación principal es que el alcance
   orgánico es cada vez más difícil sin promoción de pago.
 origin: "The Power MBA — Módulo 12 «Social media» — Tabla comparativa RRSS"
-domain: [marketing-digital, social-media, canales]
+domain: [marketing-digital, social-media, canales, power-mba]
 
 llm_confidence: 0.50
 

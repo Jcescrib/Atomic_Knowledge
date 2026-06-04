@@ -10,7 +10,7 @@ statement: >
   el dominio; implica que la ruta aumenta la relevancia percibida y orienta sobre la
   página de destino; excluye mostrar la URL final completa con parámetros.
 origin: "The Power MBA — Módulo 11 «Google Ads» — Anuncios de texto"
-domain: [marketing-digital, sem, google-ads]
+domain: [marketing-digital, sem, google-ads, power-mba]
 
 llm_confidence: 0.50
 

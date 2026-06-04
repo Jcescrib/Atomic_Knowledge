@@ -12,7 +12,7 @@ statement: >
   mezcla de canales es una decisión económica (no solo de marketing), y que
   en motores virales el CAC puede aproximarse a cero.
 origin: "The Power MBA — Módulo 2.2 «Motores de crecimiento — principales métricas»"
-domain: [growth, unit-economics, business-model, metrics]
+domain: [growth, unit-economics, business-model, metrics, power-mba]
 
 llm_confidence: 0.50
 

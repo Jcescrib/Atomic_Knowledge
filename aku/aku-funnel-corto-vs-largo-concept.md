@@ -11,7 +11,7 @@ statement: >
   llamadas; implica que ninguno es mejor que el otro y que el funnel se optimiza
   según los objetivos del negocio.
 origin: "The Power MBA — Módulo 5.3 «Visión estratégica»"
-domain: [marketing-digital, funnel, ventas]
+domain: [marketing-digital, funnel, ventas, power-mba]
 
 llm_confidence: 0.50
 

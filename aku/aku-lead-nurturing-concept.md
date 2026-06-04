@@ -10,7 +10,7 @@ statement: >
   más habitual en negocios digitales; implica un trabajo deliberado de
   convencimiento entre la captación y la conversión.
 origin: "The Power MBA — Módulo 5.5.1 «Captación y nurturing de leads»"
-domain: [marketing-digital, leads, nurturing, conversion]
+domain: [marketing-digital, leads, nurturing, conversion, power-mba]
 
 llm_confidence: 0.50
 

@@ -9,7 +9,7 @@ statement: >
   resultado de explotación para evaluar la rentabilidad recurrente y normalizada del
   negocio; excluye los resultados ordinarios y financieros habituales.
 origin: "The Power MBA — Módulo 9.1 «Estado de resultados»"
-domain: [finanzas, contabilidad, resultado]
+domain: [finanzas, contabilidad, resultado, power-mba]
 
 llm_confidence: 0.50
 

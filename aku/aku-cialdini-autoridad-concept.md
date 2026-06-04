@@ -8,7 +8,7 @@ statement: >
   campo; en marketing se aplica destacando éxitos, logros, clientes, premios y
   credenciales que posicionen a la marca como experta.
 origin: "Robert Cialdini — «Influence»; The Power MBA — Módulo 5.1 «Power Selling»"
-domain: [marketing, persuasion, psicologia]
+domain: [marketing, persuasion, psicologia, power-mba]
 
 llm_confidence: 0.50
 

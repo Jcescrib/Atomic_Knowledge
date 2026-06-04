@@ -9,7 +9,7 @@ statement: >
   aplican a los indicadores de la empresa valorada; su inconveniente es que aporta una
   perspectiva limitada al no incorporar las particularidades futuras de la empresa.
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion, multiplos]
+domain: [finanzas, valoracion, multiplos, power-mba]
 
 llm_confidence: 0.50
 

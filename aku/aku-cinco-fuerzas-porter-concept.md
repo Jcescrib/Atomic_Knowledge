@@ -12,7 +12,7 @@ statement: >
   de la estructura competitiva del sector; excluye los factores del macroentorno
   (PEST), que se analizan aparte.
 origin: "Michael Porter — Competitive Strategy"
-domain: [estrategia, analisis-sectorial, competencia]
+domain: [estrategia, analisis-sectorial, competencia, power-mba]
 
 llm_confidence: 0.50
 

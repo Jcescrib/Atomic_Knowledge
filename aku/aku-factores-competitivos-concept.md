@@ -13,7 +13,7 @@ statement: >
   competitivos es prerequisito para dibujar la curva de valor y para tomar
   decisiones estratégicas de diferenciación o de océano azul.
 origin: "The Power MBA — Módulo 2.6 «Cómo crear propuestas de valor disruptivas y buscar tu océano azul»"
-domain: [strategy, blue-ocean, competitive-analysis, value-proposition]
+domain: [strategy, blue-ocean, competitive-analysis, value-proposition, power-mba]
 
 llm_confidence: 0.50
 

@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-blitzscaling
 title: "Blitzscaling — velocidad sobre eficiencia en incertidumbre"
 origin: "Reid Hoffman & Chris Yeh — «Blitzscaling» (2018); The Power MBA — Módulo 4.5"
-domain: [estrategia, crecimiento, blitzscaling]
+domain: [estrategia, crecimiento, blitzscaling, power-mba]
 
 when_to_use: >
   Cuando la oportunidad es enorme y «winner-takes-all» (network effects), ya hay

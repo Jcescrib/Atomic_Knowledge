@@ -10,7 +10,7 @@ statement: >
   de móviles); implica que a mayor poder del proveedor, menor es la rentabilidad
   que la empresa puede capturar.
 origin: "Michael Porter — Competitive Strategy"
-domain: [estrategia, analisis-sectorial, competencia]
+domain: [estrategia, analisis-sectorial, competencia, power-mba]
 
 llm_confidence: 0.50
 

@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-estructuras-organizacionales
 title: "Estructuras organizativas (funcional · divisional · matriz · proyectos)"
 origin: "The Power MBA — Módulo 7.2 «Liderar a otros»"
-domain: [leadership, organizacion, estructura, estrategia]
+domain: [leadership, organizacion, estructura, estrategia, power-mba]
 
 when_to_use: "Para elegir o rediseñar la estructura organizativa de modo que siga y sirva a la estrategia."
 when_not_to_use: "Como decisión puramente teórica desligada de la estrategia y la etapa de la empresa."

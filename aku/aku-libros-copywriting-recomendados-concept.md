@@ -11,7 +11,7 @@ statement: >
   Pegan» (Chip & Dan Heath) y «Everybody Writes» (Ann Handley); implica que el
   copywriting eficaz se apoya en principios de persuasión y escritura contrastados.
 origin: "The Power MBA — Módulo 20 «Copywriting» — Los 20 mejores libros de copywriting"
-domain: [marketing-digital, copywriting, referencia]
+domain: [marketing-digital, copywriting, referencia, power-mba]
 
 llm_confidence: 0.50
 

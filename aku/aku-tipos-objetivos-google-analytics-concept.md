@@ -11,7 +11,7 @@ statement: >
   determinado o más, p. ej. 10 minutos); implica elegir el tipo de objetivo según la
   conversión que se quiere medir.
 origin: "The Power MBA — Módulo 15 «Analítica» — Tipos de objetivos de Google Analytics"
-domain: [marketing-digital, analitica, conversion]
+domain: [marketing-digital, analitica, conversion, power-mba]
 
 llm_confidence: 0.50
 

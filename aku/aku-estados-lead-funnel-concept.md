@@ -10,7 +10,7 @@ statement: >
   difíciles de convertir se denominan leads «muertos»; implica que no todos los
   leads se convierten y que el funnel pierde una parte en cada transición.
 origin: "The Power MBA — Módulo 5.5.1 «Captación y nurturing de leads»"
-domain: [marketing-digital, leads, funnel]
+domain: [marketing-digital, leads, funnel, power-mba]
 
 llm_confidence: 0.50
 

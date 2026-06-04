@@ -10,7 +10,7 @@ statement: >
   permite valorar «por comparación» con empresas comparables del sector; excluye
   capturar las particularidades futuras propias de cada empresa.
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion, multiplos]
+domain: [finanzas, valoracion, multiplos, power-mba]
 
 llm_confidence: 0.50
 

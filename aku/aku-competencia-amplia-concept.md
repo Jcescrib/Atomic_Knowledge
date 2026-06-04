@@ -13,7 +13,7 @@ statement: >
   en casa»), no en categorías de producto, y que la propuesta de valor se
   posiciona contra ese conjunto ampliado.
 origin: "The Power MBA — Módulo 2.5 «Conceptos clave: propuesta de valor»"
-domain: [value-proposition, competition, strategy, jobs-to-be-done]
+domain: [value-proposition, competition, strategy, jobs-to-be-done, power-mba]
 
 llm_confidence: 0.50
 

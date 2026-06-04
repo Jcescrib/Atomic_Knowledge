@@ -9,7 +9,7 @@ statement: >
   implica que debe compararse con la rentabilidad exigida (k): si TIR > k la inversión
   crea valor; excluye expresar el valor absoluto creado (eso es el VAN).
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion, inversion]
+domain: [finanzas, valoracion, inversion, power-mba]
 
 llm_confidence: 0.50
 

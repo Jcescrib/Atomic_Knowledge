@@ -10,7 +10,7 @@ statement: >
   negocio); excluye los contactos sin ningún dato accionable; implica que el lead
   es el estado intermedio entre el visitante y el cliente dentro del funnel.
 origin: "The Power MBA — Módulo 5.5.1 «Captación y nurturing de leads»"
-domain: [marketing-digital, leads, funnel, captacion]
+domain: [marketing-digital, leads, funnel, captacion, power-mba]
 
 llm_confidence: 0.50
 

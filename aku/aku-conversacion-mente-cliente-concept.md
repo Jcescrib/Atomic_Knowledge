@@ -10,7 +10,7 @@ statement: >
   webs y emails para conectar mejor; implica investigar tanto el contenido (qué
   piensa) como el lenguaje (qué palabras usa).
 origin: "The Power MBA — Módulo 5.1 «Power Selling»"
-domain: [marketing, copywriting, customer, investigacion]
+domain: [marketing, copywriting, customer, investigacion, power-mba]
 
 llm_confidence: 0.50
 

@@ -9,7 +9,7 @@ statement: >
   conducta, por lo que el test debe usarse como un mero indicador y no como una
   etiqueta determinista.
 origin: "The Power MBA — Módulo 7.1 «Liderarse a uno mismo»"
-domain: [leadership, autoconocimiento, psicologia]
+domain: [leadership, autoconocimiento, psicologia, power-mba]
 
 llm_confidence: 0.50
 

@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-ciclo-vida-producto
 title: "Análisis del ciclo de vida del producto"
 origin: "Theodore Levitt — Product Life Cycle (vía The Power MBA)"
-domain: [estrategia, analisis-sectorial, ciclo-de-vida]
+domain: [estrategia, analisis-sectorial, ciclo-de-vida, power-mba]
 
 when_to_use: >
   Para diagnosticar en qué fase del ciclo de vida está un producto, categoría o

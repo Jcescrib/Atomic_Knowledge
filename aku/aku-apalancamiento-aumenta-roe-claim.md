@@ -8,7 +8,7 @@ statement: >
   las inversiones realizadas sea superior al coste de la deuda; si esa condición no se
   cumple, el apalancamiento reduce el ROE.
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, estructura-capital, rentabilidad]
+domain: [finanzas, estructura-capital, rentabilidad, power-mba]
 
 llm_confidence: 0.50
 

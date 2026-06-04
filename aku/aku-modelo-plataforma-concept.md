@@ -13,7 +13,7 @@ statement: >
   por la libertad/control que ejercen sobre las interacciones (marketplace,
   on-demand, content platform).
 origin: "The Power MBA — Módulo 2.3 «Conceptos clave de las plataformas»"
-domain: [business-model, platform, two-sided-market, network-effects]
+domain: [business-model, platform, two-sided-market, network-effects, power-mba]
 
 llm_confidence: 0.50
 

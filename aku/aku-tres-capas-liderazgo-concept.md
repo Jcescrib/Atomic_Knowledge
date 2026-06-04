@@ -9,7 +9,7 @@ statement: >
   externas se construyen sobre la interna y que el desarrollo del líder progresa
   de dentro hacia afuera.
 origin: "The Power MBA — Módulo 7.1 «Liderarse a uno mismo»"
-domain: [leadership, liderazgo, desarrollo-personal]
+domain: [leadership, liderazgo, desarrollo-personal, power-mba]
 
 llm_confidence: 0.50
 

@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-matriz-ansoff
 title: "Matriz de Ansoff — estrategias de crecimiento"
 origin: "Igor Ansoff — «Strategies for Diversification» (1957); The Power MBA — Módulo 4.3"
-domain: [estrategia, crecimiento, ansoff]
+domain: [estrategia, crecimiento, ansoff, power-mba]
 
 when_to_use: >
   Al decidir hacia dónde crecer: elegir entre crecer con los productos/mercados

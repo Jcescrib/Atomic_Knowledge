@@ -9,7 +9,7 @@ statement: >
   malas prácticas concretas de retención que perjudican al cliente para sacarle
   más dinero (como dificultar deliberadamente darse de baja).
 origin: "The Power MBA — Módulo 5.7.1 «Fidelización y retención»"
-domain: [marketing-digital, retencion, etica]
+domain: [marketing-digital, retencion, etica, power-mba]
 
 llm_confidence: 0.50
 

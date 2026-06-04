@@ -12,7 +12,7 @@ statement: >
   plazo); implica que cada arquetipo encaja en condiciones distintas y tiene pros y
   contras propios.
 origin: "The Power MBA — Módulo 7.2; modelo de Valores en Competencia (Cameron & Quinn)"
-domain: [leadership, cultura, organizacion]
+domain: [leadership, cultura, organizacion, power-mba]
 
 llm_confidence: 0.50
 

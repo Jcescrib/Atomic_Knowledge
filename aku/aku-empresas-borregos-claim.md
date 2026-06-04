@@ -9,7 +9,7 @@ statement: >
   agregado es la causa estructural por la que casi todos los sectores
   funcionan como océanos rojos.
 origin: "The Power MBA — Módulo 2.6 «Cómo crear propuestas de valor disruptivas y buscar tu océano azul»"
-domain: [strategy, competition, market-structure, behavioral]
+domain: [strategy, competition, market-structure, behavioral, power-mba]
 
 llm_confidence: 0.50
 

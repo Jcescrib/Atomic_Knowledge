@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-flywheel-funnel
 title: "Flywheel — funnel circular centrado en fidelización"
 origin: "HubSpot; The Power MBA — Módulo 5.8.2 «Flywheel Funnel»"
-domain: [marketing-digital, funnel, fidelizacion, flywheel]
+domain: [marketing-digital, funnel, fidelizacion, flywheel, power-mba]
 
 when_to_use: >
   En modelos de negocio recurrentes donde el foco es deleitar y retener al cliente

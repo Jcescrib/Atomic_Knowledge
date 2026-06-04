@@ -9,7 +9,7 @@ statement: >
   mínimo alcance, idónea para modelos o referencias específicas (p. ej. [hp pavilion
   x360]); excluye búsquedas con intención distinta a la del término exacto.
 origin: "The Power MBA — Módulo 11 «Google Ads» — Concordancia de palabras clave"
-domain: [marketing-digital, sem, google-ads, keywords]
+domain: [marketing-digital, sem, google-ads, keywords, power-mba]
 
 llm_confidence: 0.50
 

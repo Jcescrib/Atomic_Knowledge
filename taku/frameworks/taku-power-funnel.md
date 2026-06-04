@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-power-funnel
 title: "Power Funnel — visión estratégica del marketing digital"
 origin: "The Power MBA — Módulo 5.3 «Visión estratégica»"
-domain: [marketing-digital, funnel, estrategia]
+domain: [marketing-digital, funnel, estrategia, power-mba]
 
 when_to_use: >
   Para diseñar la estrategia integral de marketing digital de una empresa:

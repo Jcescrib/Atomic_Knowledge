@@ -10,7 +10,7 @@ statement: >
   la acción; implica que un buen copy combina claridad, relevancia, credibilidad y
   orientación a la acción.
 origin: "The Power MBA — Módulo 18 «Facebook & Instagram Ads» — info.docx «Hacks copy»"
-domain: [marketing-digital, copywriting, conversion]
+domain: [marketing-digital, copywriting, conversion, power-mba]
 
 llm_confidence: 0.50
 

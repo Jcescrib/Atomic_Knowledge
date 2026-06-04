@@ -10,7 +10,7 @@ statement: >
   producto vendido; implica que se sitúan entre el margen bruto y el EBITDA; excluye los
   aprovisionamientos (coste de ventas) y los gastos financieros.
 origin: "The Power MBA — Módulo 9.1 «Estado de resultados»"
-domain: [finanzas, contabilidad, gastos]
+domain: [finanzas, contabilidad, gastos, power-mba]
 
 llm_confidence: 0.50
 

@@ -15,7 +15,7 @@ statement: >
   correcta; implica que el éxito no depende del tamaño del plan sino de la
   velocidad de aprendizaje validado con clientes reales.
 origin: "The Power MBA — Módulo 3.0.1 «El método Lean Startup» (Eric Ries)"
-domain: [lean-startup, methodology, innovation, startup]
+domain: [lean-startup, methodology, innovation, startup, power-mba]
 
 llm_confidence: 0.50
 

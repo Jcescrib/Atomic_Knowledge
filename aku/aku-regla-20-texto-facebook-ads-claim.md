@@ -9,7 +9,7 @@ statement: >
   (mismo gasto impactando a menos audiencia); esta limitación no aplica a los anuncios
   de Instagram Stories.
 origin: "The Power MBA — Módulo 18 «Facebook & Instagram Ads» — Herramientas para crear anuncios"
-domain: [marketing-digital, paid-social, facebook-ads]
+domain: [marketing-digital, paid-social, facebook-ads, power-mba]
 
 llm_confidence: 0.50
 

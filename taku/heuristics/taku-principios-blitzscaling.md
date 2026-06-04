@@ -4,7 +4,7 @@ taku_type: heuristic
 id: taku-principios-blitzscaling
 title: "9 principios de gestión contradictorios del blitzscaling"
 origin: "Reid Hoffman & Chris Yeh — «Blitzscaling»; The Power MBA — Módulo 4.5"
-domain: [estrategia, crecimiento, gestion, blitzscaling]
+domain: [estrategia, crecimiento, gestion, blitzscaling, power-mba]
 
 when_to_use: >
   En las fases caóticas de hipercrecimiento de un blitzscaling, cuando las

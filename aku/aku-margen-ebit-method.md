@@ -8,7 +8,7 @@ statement: >
   rentabilidad de explotación tras amortizaciones y provisiones, pero antes de
   intereses e impuestos.
 origin: "The Power MBA — Módulo 9.2 «Ratios de análisis financiero»"
-domain: [finanzas, contabilidad, rentabilidad]
+domain: [finanzas, contabilidad, rentabilidad, power-mba]
 
 llm_confidence: 0.50
 

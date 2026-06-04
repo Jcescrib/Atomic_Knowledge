@@ -4,7 +4,7 @@ taku_type: technique
 id: taku-viaje-al-pasado
 title: "Viaje al pasado (descubrir motivaciones desde experiencias vividas)"
 origin: "The Power MBA — Módulo 8.1 «Herramientas de desarrollo personal»"
-domain: [desarrollo-personal, autoconocimiento, motivacion]
+domain: [desarrollo-personal, autoconocimiento, motivacion, power-mba]
 
 when_to_use: "Para descubrir qué te motiva de verdad analizando experiencias pasadas significativas."
 when_not_to_use: "Cuando ya tienes alta claridad sobre tus motivaciones y necesitas pasar a la acción."

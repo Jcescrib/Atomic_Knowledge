@@ -7,7 +7,7 @@ statement: >
   el compromiso con su consecución; nos comprometemos más con nuestras metas cuando
   las hacemos públicas que cuando las mantenemos privadas.
 origin: "The Power MBA — Módulo 7.1 «Liderarse a uno mismo»"
-domain: [leadership, objetivos, psicologia, desarrollo-personal]
+domain: [leadership, objetivos, psicologia, desarrollo-personal, power-mba]
 
 llm_confidence: 0.50
 

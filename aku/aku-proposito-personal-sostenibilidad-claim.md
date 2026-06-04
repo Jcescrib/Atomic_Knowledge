@@ -7,7 +7,7 @@ statement: >
   propósito; tener claro lo que te importa y el coraje de vivir conforme a ello es
   fundamental tanto para la felicidad como para el rendimiento a largo plazo.
 origin: "The Power MBA — Módulo 7.1 «Liderarse a uno mismo»"
-domain: [leadership, proposito, desarrollo-personal, bienestar]
+domain: [leadership, proposito, desarrollo-personal, bienestar, power-mba]
 
 llm_confidence: 0.50
 

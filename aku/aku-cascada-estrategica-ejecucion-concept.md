@@ -10,7 +10,7 @@ statement: >
   todo debe estar conectado y alineado de arriba abajo para que la estrategia se
   traduzca en acción.
 origin: "The Power MBA — Módulo 7.2 «Liderar a otros»"
-domain: [leadership, estrategia, ejecucion, organizacion]
+domain: [leadership, estrategia, ejecucion, organizacion, power-mba]
 
 llm_confidence: 0.50
 

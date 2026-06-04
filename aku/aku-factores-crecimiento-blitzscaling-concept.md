@@ -11,7 +11,7 @@ statement: >
   beneficio; implica que sin estos factores el crecimiento explosivo no es
   sostenible.
 origin: "Reid Hoffman & Chris Yeh — «Blitzscaling»; The Power MBA — Módulo 4.5"
-domain: [estrategia, crecimiento, blitzscaling]
+domain: [estrategia, crecimiento, blitzscaling, power-mba]
 
 llm_confidence: 0.50
 

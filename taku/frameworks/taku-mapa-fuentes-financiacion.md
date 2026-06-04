@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-mapa-fuentes-financiacion
 title: "Mapa de fuentes de financiación por fase"
 origin: "The Power MBA — Módulo 6.3 «Fuentes de financiación: quién»"
-domain: [emprendimiento, financiacion, startup, inversion]
+domain: [emprendimiento, financiacion, startup, inversion, power-mba]
 
 when_to_use: >
   Al planificar la financiación de una startup: identificar qué fuentes encajan

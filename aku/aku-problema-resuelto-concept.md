@@ -12,7 +12,7 @@ statement: >
   valor en términos de problema eliminado que de beneficio aportado, y
   que ambas formulaciones son válidas y a menudo complementarias.
 origin: "The Power MBA — Módulo 2.5 «Conceptos clave: propuesta de valor»"
-domain: [value-proposition, customer, jobs-to-be-done, marketing]
+domain: [value-proposition, customer, jobs-to-be-done, marketing, power-mba]
 
 llm_confidence: 0.50
 

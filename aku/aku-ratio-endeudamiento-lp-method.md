@@ -8,7 +8,7 @@ statement: >
   Endeudamiento LP = Deudas a LP / (Pasivo + Patrimonio Neto); mide el peso de la
   financiación estructural exigible a más de un año sobre el total de recursos.
 origin: "The Power MBA — Módulo 9.2 «Ratios de análisis financiero»"
-domain: [finanzas, contabilidad, ratios]
+domain: [finanzas, contabilidad, ratios, power-mba]
 
 llm_confidence: 0.50
 

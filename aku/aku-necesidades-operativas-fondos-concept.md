@@ -9,7 +9,7 @@ statement: >
   cuanto mayores son las NOF, más financiación requiere el ciclo de explotación;
   excluye las inversiones en activo fijo y la financiación estructural.
 origin: "The Power MBA — Módulo 9.2 «Ratios de análisis financiero»"
-domain: [finanzas, contabilidad, working-capital]
+domain: [finanzas, contabilidad, working-capital, power-mba]
 
 llm_confidence: 0.50
 

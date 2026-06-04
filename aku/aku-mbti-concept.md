@@ -16,7 +16,7 @@ statement: >
   las personas; Juzgadores (Judgers) planifican y se comprometen / Perceptores
   (Perceivers) prefieren mantener opciones abiertas y la espontaneidad.
 origin: "The Power MBA — Módulos 7.1 y 8.1; Katharine Cook Briggs e Isabel Briggs Myers"
-domain: [leadership, autoconocimiento, psicologia]
+domain: [leadership, autoconocimiento, psicologia, power-mba]
 
 llm_confidence: 0.50
 

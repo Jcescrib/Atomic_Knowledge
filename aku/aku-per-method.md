@@ -9,7 +9,7 @@ statement: >
   precio; se usa comparándolo con el PER de empresas comparables del sector para
   estimar el Equity Value.
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion, multiplos]
+domain: [finanzas, valoracion, multiplos, power-mba]
 
 llm_confidence: 0.50
 

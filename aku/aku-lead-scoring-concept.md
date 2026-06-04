@@ -9,7 +9,7 @@ statement: >
   implica priorizar las acciones comerciales y de nurturing sobre los leads con
   más score, automatizando ese razonamiento cuando se manejan muchos leads.
 origin: "The Power MBA — Módulo 5.5.1 «Captación y nurturing de leads»"
-domain: [marketing-digital, leads, priorizacion]
+domain: [marketing-digital, leads, priorizacion, power-mba]
 
 llm_confidence: 0.50
 

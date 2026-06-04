@@ -10,7 +10,7 @@ statement: >
   fracaso; implica que la marca debe ser el guía y el cliente el héroe, y resuelve
   los dos retos de la comunicación: qué mensajes transmitir y cómo estructurarlos.
 origin: "Donald Miller — «Building a StoryBrand»; The Power MBA — Módulo 5.1"
-domain: [marketing, storytelling, branding, comunicacion]
+domain: [marketing, storytelling, branding, comunicacion, power-mba]
 
 llm_confidence: 0.50
 

@@ -10,7 +10,7 @@ statement: >
   amplio tipo TV; por ello conviene priorizar las redes que encajan con el negocio en
   lugar de estar en todas.
 origin: "The Power MBA — Módulo 12 «Social media» — Tabla comparativa RRSS"
-domain: [marketing-digital, social-media, estrategia]
+domain: [marketing-digital, social-media, estrategia, power-mba]
 
 llm_confidence: 0.50
 

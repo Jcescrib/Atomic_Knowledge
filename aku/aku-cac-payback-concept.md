@@ -14,7 +14,7 @@ statement: >
   corto, que se auto-financia) y capital-intensivos (como el sticky con
   payback largo).
 origin: "The Power MBA — Módulo 2.2 «Motores de crecimiento — principales métricas»"
-domain: [growth, unit-economics, cash-flow, metrics]
+domain: [growth, unit-economics, cash-flow, metrics, power-mba]
 
 llm_confidence: 0.50
 

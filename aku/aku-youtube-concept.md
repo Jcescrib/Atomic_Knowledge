@@ -9,7 +9,7 @@ statement: >
   con anuncios y colaboraciones; implica que es ideal para cualquier negocio (es
   «como anunciarte en la TV»); su limitación principal es la fuerte competencia.
 origin: "The Power MBA — Módulo 12 «Social media» — Tabla comparativa RRSS"
-domain: [marketing-digital, social-media, canales]
+domain: [marketing-digital, social-media, canales, power-mba]
 
 llm_confidence: 0.50
 

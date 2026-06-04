@@ -8,7 +8,7 @@ statement: >
   creando comunidad, haciendo partícipes a los clientes, consultándoles y usando
   las redes sociales para reforzar ese sentido de pertenencia.
 origin: "Robert Cialdini — «Influence»; The Power MBA — Módulo 5.1 «Power Selling»"
-domain: [marketing, persuasion, psicologia]
+domain: [marketing, persuasion, psicologia, power-mba]
 
 llm_confidence: 0.50
 

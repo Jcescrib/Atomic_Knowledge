@@ -11,7 +11,7 @@ statement: >
   estrategia competitiva no es solo cuestión de elegir, sino que debe partir de
   un análisis interno de fortalezas reales sobre las que construir.
 origin: "The Power MBA — Módulo 4.2 «Estrategias competitivas»"
-domain: [estrategia, competencia, recursos-internos]
+domain: [estrategia, competencia, recursos-internos, power-mba]
 
 llm_confidence: 0.50
 

@@ -9,7 +9,7 @@ statement: >
   cuántas veces se renueva el inventario en el periodo; una rotación alta indica
   gestión eficiente del stock.
 origin: "The Power MBA — Módulo 9.2 «Ratios de análisis financiero»"
-domain: [finanzas, contabilidad, ratios]
+domain: [finanzas, contabilidad, ratios, power-mba]
 
 llm_confidence: 0.50
 

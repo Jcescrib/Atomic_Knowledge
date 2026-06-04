@@ -9,7 +9,7 @@ statement: >
   financiación operativa de corto plazo (financiación espontánea); en el PGC se
   registra principalmente en las cuentas 400 a 406.
 origin: "The Power MBA — Módulo 9.1 «Balance de situación»; PGC español"
-domain: [finanzas, contabilidad, circulante]
+domain: [finanzas, contabilidad, circulante, power-mba]
 
 llm_confidence: 0.50
 

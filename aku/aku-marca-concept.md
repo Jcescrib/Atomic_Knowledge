@@ -11,7 +11,7 @@ statement: >
   trabajarla; implica que la marca se construye con la coherencia de cientos de
   mensajes a través de todos los canales e interacciones.
 origin: "Marty Neumeier; The Power MBA — Módulo 4.4 «Branding»"
-domain: [marketing, branding, marca]
+domain: [marketing, branding, marca, power-mba]
 
 llm_confidence: 0.50
 

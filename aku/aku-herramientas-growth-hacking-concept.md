@@ -12,7 +12,7 @@ statement: >
   hacking consiste en orquestar estas herramientas para escalar la adquisición a bajo
   coste.
 origin: "The Power MBA — Módulo 13 «Growth hacking» — Herramientas y recursos"
-domain: [marketing-digital, growth-hacking, herramientas]
+domain: [marketing-digital, growth-hacking, herramientas, power-mba]
 
 llm_confidence: 0.50
 

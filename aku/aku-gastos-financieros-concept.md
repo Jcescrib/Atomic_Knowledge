@@ -9,7 +9,7 @@ statement: >
   tipo de interés, y que son deducibles fiscalmente (escudo fiscal); excluye la
   devolución del principal de la deuda (no es gasto, es flujo financiero).
 origin: "The Power MBA — Módulo 9.1 «Estado de resultados»"
-domain: [finanzas, contabilidad, gastos]
+domain: [finanzas, contabilidad, gastos, power-mba]
 
 llm_confidence: 0.50
 

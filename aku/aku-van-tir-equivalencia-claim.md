@@ -8,7 +8,7 @@ statement: >
   si VAN < 0 entonces TIR < k; por ello ambos indicadores, bien aplicados, conducen a
   la misma decisión de aceptar o rechazar una inversión convencional.
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion, inversion]
+domain: [finanzas, valoracion, inversion, power-mba]
 
 llm_confidence: 0.50
 

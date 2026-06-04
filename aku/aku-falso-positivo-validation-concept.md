@@ -15,7 +15,7 @@ statement: >
   contramedida es preguntar por el porqué y el para qué (no solo el qué) y
   clasificar el entusiasmo en escala antes de tomar el «sí» literal.
 origin: "The Power MBA — Módulo 3.0.2 «Probando modelos de negocio»"
-domain: [lean-startup, validation, bias, customer-development]
+domain: [lean-startup, validation, bias, customer-development, power-mba]
 
 llm_confidence: 0.50
 

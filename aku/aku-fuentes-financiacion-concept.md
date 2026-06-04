@@ -14,7 +14,7 @@ statement: >
   una fuente de financiación para startups externas sino un creador de proyectos
   propios.
 origin: "The Power MBA — Módulo 6.3 «Fuentes de financiación: quién»"
-domain: [emprendimiento, financiacion, inversion, startup]
+domain: [emprendimiento, financiacion, inversion, startup, power-mba]
 
 llm_confidence: 0.50
 

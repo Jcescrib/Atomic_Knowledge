@@ -10,7 +10,7 @@ statement: >
   ROE, la rentabilidad de los activos (ROA) debe superar el coste de la deuda; excluye
   el efecto de la estructura de financiación (eso lo capta el ROE).
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, rentabilidad]
+domain: [finanzas, rentabilidad, power-mba]
 
 llm_confidence: 0.50
 

@@ -14,7 +14,7 @@ statement: >
   —escribir el plan de negocio, conseguir financiación, pulir el pitch
   deck— son secundarias hasta haber validado las hipótesis críticas.
 origin: "The Power MBA — Módulo 3.0.1 «El método Lean Startup» (Eric Ries)"
-domain: [lean-startup, validation, learning, methodology]
+domain: [lean-startup, validation, learning, methodology, power-mba]
 
 llm_confidence: 0.50
 

@@ -11,7 +11,7 @@ statement: >
   implica que ayuda a la ejecución (comunica el porqué/círculo dorado, alinea
   stakeholders, guía la toma de decisiones y pone foco) y «abre puertas».
 origin: "The Power MBA — Módulo 4.4 «Branding» y Módulo 7.2 «Liderar a otros»; Simon Sinek"
-domain: [marketing, branding, proposito, leadership, estrategia]
+domain: [marketing, branding, proposito, leadership, estrategia, power-mba]
 
 llm_confidence: 0.60
 

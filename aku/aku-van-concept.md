@@ -10,7 +10,7 @@ statement: >
   (valor económico creado), VAN = 0 igual a la exigida y VAN < 0 inferior; excluye ser
   un indicador de rentabilidad relativa (eso es la TIR).
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion, inversion]
+domain: [finanzas, valoracion, inversion, power-mba]
 
 llm_confidence: 0.50
 

@@ -11,7 +11,7 @@ statement: >
   la web carga tan lento que el usuario se va antes de leerlos —se construye desde
   la cimentación, no desde el tejado—.
 origin: "The Power MBA — Módulo 5.6.1 «Conceptos clave: Conversión»"
-domain: [marketing-digital, conversion, cro, ux]
+domain: [marketing-digital, conversion, cro, ux, power-mba]
 
 llm_confidence: 0.50
 

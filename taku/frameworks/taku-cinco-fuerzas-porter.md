@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-cinco-fuerzas-porter
 title: "Análisis de las 5 Fuerzas de Porter"
 origin: "Michael Porter — Competitive Strategy (1980)"
-domain: [estrategia, analisis-sectorial, competencia]
+domain: [estrategia, analisis-sectorial, competencia, power-mba]
 
 when_to_use: >
   Antes de entrar en un sector, al evaluar la rentabilidad estructural de un

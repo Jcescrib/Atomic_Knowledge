@@ -9,7 +9,7 @@ statement: >
   ajena que genera intereses; un valor alto indica mayor dependencia de la deuda y
   mayor riesgo financiero.
 origin: "The Power MBA — Módulo 9.2 «Ratios de análisis financiero»"
-domain: [finanzas, contabilidad, ratios]
+domain: [finanzas, contabilidad, ratios, power-mba]
 
 llm_confidence: 0.50
 

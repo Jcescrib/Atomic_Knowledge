@@ -9,7 +9,7 @@ statement: >
   y se anuncia con LinkedIn Ads; implica que es ideal para negocios B2B; su limitación
   principal es estar muy limitada al ámbito B2B.
 origin: "The Power MBA — Módulo 12 «Social media» — Tabla comparativa RRSS"
-domain: [marketing-digital, social-media, canales, b2b]
+domain: [marketing-digital, social-media, canales, b2b, power-mba]
 
 llm_confidence: 0.50
 

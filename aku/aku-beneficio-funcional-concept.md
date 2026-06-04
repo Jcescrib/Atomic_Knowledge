@@ -12,7 +12,7 @@ statement: >
   con la dimensión racional de la decisión de compra y debe complementarse
   con beneficios emocionales para producir una propuesta de valor potente.
 origin: "The Power MBA — Módulo 2.5 «Conceptos clave: propuesta de valor»"
-domain: [value-proposition, customer, benefits, marketing]
+domain: [value-proposition, customer, benefits, marketing, power-mba]
 
 llm_confidence: 0.50
 

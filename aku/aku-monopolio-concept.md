@@ -8,7 +8,7 @@ statement: >
   la posición cuasi-monopólica de Microsoft en su momento); es el extremo de
   máxima concentración de un sector.
 origin: "The Power MBA — Módulo 4.1 «Análisis de un sector»"
-domain: [estrategia, analisis-sectorial, competencia, market-structure]
+domain: [estrategia, analisis-sectorial, competencia, market-structure, power-mba]
 
 llm_confidence: 0.50
 

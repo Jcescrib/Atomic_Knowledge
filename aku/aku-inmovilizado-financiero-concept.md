@@ -9,7 +9,7 @@ statement: >
   esperados a largo plazo; en el PGC las inversiones financieras a largo plazo se
   anotan en las cuentas 240 y 241.
 origin: "The Power MBA — Módulo 9.1 «Balance de situación»; PGC español"
-domain: [finanzas, contabilidad, inmovilizado]
+domain: [finanzas, contabilidad, inmovilizado, power-mba]
 
 llm_confidence: 0.50
 

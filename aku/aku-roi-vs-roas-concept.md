@@ -11,7 +11,7 @@ statement: >
   solo la eficacia del gasto en anuncios y el ROI la rentabilidad real de la
   operación.
 origin: "The Power MBA — Módulo 5.4.1 «Atracción y branding»"
-domain: [marketing-digital, metricas, roi, finanzas]
+domain: [marketing-digital, metricas, roi, finanzas, power-mba]
 
 llm_confidence: 0.50
 

@@ -9,7 +9,7 @@ statement: >
   Existencias + Periodo Medio de Cobro (PMC) − Periodo Medio de Pago (PMP); un ciclo
   menor (p. ej. mayor PMP) reduce las necesidades operativas de fondos.
 origin: "The Power MBA — Módulo 9.2 «Ratios de análisis financiero»"
-domain: [finanzas, contabilidad, working-capital]
+domain: [finanzas, contabilidad, working-capital, power-mba]
 
 llm_confidence: 0.50
 

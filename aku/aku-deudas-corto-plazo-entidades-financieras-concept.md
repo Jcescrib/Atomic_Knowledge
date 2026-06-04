@@ -8,7 +8,7 @@ statement: >
   corriente; implica un coste financiero (intereses) y presión sobre la liquidez de
   corto plazo; en el PGC español se registran en las cuentas 50, 51 y 52.
 origin: "The Power MBA — Módulo 9.1 «Balance de situación»; PGC español"
-domain: [finanzas, contabilidad, deuda]
+domain: [finanzas, contabilidad, deuda, power-mba]
 
 llm_confidence: 0.50
 

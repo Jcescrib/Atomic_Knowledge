@@ -9,7 +9,7 @@ statement: >
   más potente que un logo bonito, y la mayoría de empresas comete el error de
   centrarse en el logo sin tener clara su esencia.
 origin: "The Power MBA — Módulo 4.4 «Branding»"
-domain: [marketing, branding, marca]
+domain: [marketing, branding, marca, power-mba]
 
 llm_confidence: 0.50
 

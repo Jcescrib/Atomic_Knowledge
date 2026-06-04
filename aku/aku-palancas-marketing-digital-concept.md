@@ -11,7 +11,7 @@ statement: >
   el coste de adquisición); implica que toda estrategia de marketing digital actúa
   sobre una o varias de estas cuatro palancas.
 origin: "The Power MBA — Módulo 5.3 «Visión estratégica»"
-domain: [marketing-digital, estrategia, metricas]
+domain: [marketing-digital, estrategia, metricas, power-mba]
 
 llm_confidence: 0.50
 

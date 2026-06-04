@@ -10,7 +10,7 @@ statement: >
   implica una plataforma de anuncios cuya monetización es publicitaria, no
   transaccional como en un marketplace.
 origin: "The Power MBA — Módulo 2.3 «Conceptos clave de las plataformas»"
-domain: [business-model, platform, classifieds, monetization]
+domain: [business-model, platform, classifieds, monetization, power-mba]
 
 llm_confidence: 0.50
 

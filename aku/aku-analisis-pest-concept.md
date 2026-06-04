@@ -10,7 +10,7 @@ statement: >
   implica complementar el análisis del sector con una mirada holística de las
   oportunidades y amenazas externas.
 origin: "The Power MBA — Análisis de un sector (análisis PEST/PESTEL)"
-domain: [estrategia, macroentorno, analisis-externo]
+domain: [estrategia, macroentorno, analisis-externo, power-mba]
 
 llm_confidence: 0.50
 

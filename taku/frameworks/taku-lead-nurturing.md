@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-lead-nurturing
 title: "Captación y nurturing de leads"
 origin: "The Power MBA — Módulo 5.5.1 «Captación y nurturing de leads»"
-domain: [marketing-digital, leads, nurturing, conversion]
+domain: [marketing-digital, leads, nurturing, conversion, power-mba]
 
 when_to_use: >
   Cuando la compra no es impulsiva y hay que convertir leads en clientes a lo

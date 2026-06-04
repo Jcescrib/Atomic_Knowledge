@@ -9,7 +9,7 @@ statement: >
   a formar parte de la red; implica acceso a la mayor red de espacios para anuncios
   del mundo, más allá del propio buscador.
 origin: "The Power MBA — Módulo 5.4.1 «Atracción y branding»"
-domain: [marketing-digital, canales, display, paid-media]
+domain: [marketing-digital, canales, display, paid-media, power-mba]
 
 llm_confidence: 0.50
 

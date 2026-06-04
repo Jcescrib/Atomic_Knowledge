@@ -8,7 +8,7 @@ statement: >
   mide cuántas veces el activo cubre las deudas totales; un valor superior a 1 indica
   que el activo supera al pasivo (la empresa es solvente).
 origin: "The Power MBA — Módulo 9.2 «Ratios de análisis financiero»"
-domain: [finanzas, contabilidad, ratios]
+domain: [finanzas, contabilidad, ratios, power-mba]
 
 llm_confidence: 0.50
 

@@ -11,7 +11,7 @@ statement: >
   HypeAuditor, Heepsy, Klear, Upfluence, HYPR, BuzzSumo); implica profesionalizar la
   selección y el seguimiento más allá del contacto manual.
 origin: "The Power MBA — Módulo 14 «Marketing de influencers» — Herramientas"
-domain: [marketing-digital, influencer-marketing, herramientas]
+domain: [marketing-digital, influencer-marketing, herramientas, power-mba]
 
 llm_confidence: 0.50
 

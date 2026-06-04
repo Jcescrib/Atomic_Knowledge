@@ -8,7 +8,7 @@ statement: >
   personal explícito (al modo en que las empresas fijan visión, objetivos y KPIs)
   mejora las probabilidades de lograrlo frente a «dejarse llevar por la corriente».
 origin: "The Power MBA — Módulo 8.1 «Diagnóstico estratégico personal»"
-domain: [desarrollo-personal, objetivos, leadership]
+domain: [desarrollo-personal, objetivos, leadership, power-mba]
 
 llm_confidence: 0.50
 

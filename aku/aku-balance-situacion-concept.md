@@ -10,7 +10,7 @@ statement: >
   se ordenan de abajo a arriba (abajo lo más líquido/exigible) mientras que en el
   criterio anglosajón es a la inversa (arriba lo más líquido/exigible).
 origin: "The Power MBA — Módulo 9.1 «Balance de situación»; Plan General Contable español"
-domain: [finanzas, contabilidad, estados-financieros]
+domain: [finanzas, contabilidad, estados-financieros, power-mba]
 
 llm_confidence: 0.50
 

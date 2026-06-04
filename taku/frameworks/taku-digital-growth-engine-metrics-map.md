@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-digital-growth-engine-metrics-map
 title: "Mapa de métricas del motor de crecimiento digital"
 origin: "The Power MBA — Módulo 2.2 «Motores de crecimiento — principales métricas»"
-domain: [growth, unit-economics, business-model, metrics]
+domain: [growth, unit-economics, business-model, metrics, power-mba]
 
 when_to_use: >
   Cuando se necesita diagnosticar la salud económica de un motor de

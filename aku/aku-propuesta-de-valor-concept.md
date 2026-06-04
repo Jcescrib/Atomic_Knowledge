@@ -12,7 +12,7 @@ statement: >
   por segmento, los bloques de oferta y operación del modelo carecen de
   dirección.
 origin: "The Power MBA — Módulo 2.1 «Análisis de un modelo de negocio: Innovación BMC»"
-domain: [business-model, bmc, value-proposition, customer]
+domain: [business-model, bmc, value-proposition, customer, power-mba]
 
 llm_confidence: 0.60
 

@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-power-value-modelo
 title: "Power Value — modelo para analizar y diseñar propuestas de valor"
 origin: "The Power MBA — Módulo 2.5 «Conceptos clave: propuesta de valor»"
-domain: [value-proposition, framework, marketing, business-model]
+domain: [value-proposition, framework, marketing, business-model, power-mba]
 
 when_to_use: >
   Cuando se necesita analizar la propuesta de valor de un negocio

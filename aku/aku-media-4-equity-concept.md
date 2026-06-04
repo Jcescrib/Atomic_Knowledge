@@ -11,7 +11,7 @@ statement: >
   difusión, el know-how y el espacio preferencial del medio como socio (no como
   proveedor); la clave es estar en el momento adecuado para usar TV, radio o prensa.
 origin: "The Power MBA — Módulo 6.3 «Fuentes de financiación: quién»"
-domain: [emprendimiento, financiacion, growth, media]
+domain: [emprendimiento, financiacion, growth, media, power-mba]
 
 llm_confidence: 0.50
 

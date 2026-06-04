@@ -9,7 +9,7 @@ statement: >
   efectivamente atribuible a los accionistas, base del PER y del margen neto; excluye
   cualquier partida ya considerada (todos los gastos están descontados).
 origin: "The Power MBA — Módulo 9.2/9.3 «Finanzas»"
-domain: [finanzas, contabilidad, rentabilidad]
+domain: [finanzas, contabilidad, rentabilidad, power-mba]
 
 llm_confidence: 0.50
 

@@ -10,7 +10,7 @@ statement: >
   no relacionada (sin puntos de contacto ni sinergias); los grupos empresariales
   que crecen vía diversificación no relacionada se denominan conglomerados.
 origin: "Igor Ansoff — Matriz de Ansoff; The Power MBA — Módulo 4.3"
-domain: [estrategia, crecimiento, ansoff, diversificacion]
+domain: [estrategia, crecimiento, ansoff, diversificacion, power-mba]
 
 llm_confidence: 0.50
 

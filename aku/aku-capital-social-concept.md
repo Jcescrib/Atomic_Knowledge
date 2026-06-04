@@ -8,7 +8,7 @@ statement: >
   no exigibles; implica que se remunera (si procede) vía dividendos, no de forma
   contractual; en el PGC español se registra en las cuentas 100 a 102.
 origin: "The Power MBA — Módulo 9.1 «Balance de situación»; PGC español"
-domain: [finanzas, contabilidad, fondos-propios]
+domain: [finanzas, contabilidad, fondos-propios, power-mba]
 
 llm_confidence: 0.50
 

@@ -10,7 +10,7 @@ statement: >
   imposible— hacer el seguimiento de un potencial cliente que llega por un canal
   offline.
 origin: "The Power MBA — Módulo 5.4.1 «Atracción y branding»"
-domain: [marketing-digital, canales, offline, publicidad]
+domain: [marketing-digital, canales, offline, publicidad, power-mba]
 
 llm_confidence: 0.50
 

@@ -8,7 +8,7 @@ statement: >
   equity (socios) como la deuda (bancos) perciben que el riesgo es excesivo y la
   valoración disminuye; existe por tanto una estructura de capital óptima.
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, estructura-capital, valoracion]
+domain: [finanzas, estructura-capital, valoracion, power-mba]
 
 llm_confidence: 0.50
 

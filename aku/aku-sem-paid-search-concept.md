@@ -9,7 +9,7 @@ statement: >
   aparecen anuncios contextualizados a la búsqueda; implica captar demanda ya
   existente (alta intención) de forma medible y rápida.
 origin: "The Power MBA — Módulo 5.4.1 «Atracción y branding»"
-domain: [marketing-digital, canales, sem, paid-media]
+domain: [marketing-digital, canales, sem, paid-media, power-mba]
 
 llm_confidence: 0.50
 

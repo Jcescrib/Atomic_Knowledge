@@ -9,7 +9,7 @@ statement: >
   financiera a largo plazo; se distingue de la liquidez, que mide la capacidad de
   pago a corto plazo.
 origin: "The Power MBA — Módulo 9.2 «Ratios de análisis financiero»"
-domain: [finanzas, contabilidad, ratios]
+domain: [finanzas, contabilidad, ratios, power-mba]
 
 llm_confidence: 0.50
 

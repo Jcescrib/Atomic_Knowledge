@@ -9,7 +9,7 @@ statement: >
   PMP mayor reduce las necesidades operativas de fondos al financiarse con los
   proveedores; excluye el tiempo de cobro a clientes (PMC).
 origin: "The Power MBA — Módulo 9.2 «Ratios de análisis financiero»"
-domain: [finanzas, contabilidad, working-capital]
+domain: [finanzas, contabilidad, working-capital, power-mba]
 
 llm_confidence: 0.50
 

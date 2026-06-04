@@ -9,7 +9,7 @@ statement: >
   implica que tenerlos claros sirve de recordatorio permanente y guía qué tipo de
   mensajes lanzar, y que es fácil «olvidarlos» a medida que la empresa crece.
 origin: "The Power MBA — Módulo 4.4 «Branding»"
-domain: [marketing, branding, atributos]
+domain: [marketing, branding, atributos, power-mba]
 
 llm_confidence: 0.50
 

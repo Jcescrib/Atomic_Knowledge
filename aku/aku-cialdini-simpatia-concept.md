@@ -9,7 +9,7 @@ statement: >
   de la empresa, siendo las redes sociales el canal idóneo para generar esa
   cercanía.
 origin: "Robert Cialdini — «Influence»; The Power MBA — Módulo 5.1 «Power Selling»"
-domain: [marketing, persuasion, psicologia]
+domain: [marketing, persuasion, psicologia, power-mba]
 
 llm_confidence: 0.50
 

@@ -9,7 +9,7 @@ statement: >
   mayor es la tasa de descuento o el horizonte temporal; excluye el valor nominal sin
   ajustar por el tiempo y el riesgo.
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion, time-value]
+domain: [finanzas, valoracion, time-value, power-mba]
 
 llm_confidence: 0.50
 

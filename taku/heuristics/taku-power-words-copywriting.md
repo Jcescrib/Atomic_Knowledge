@@ -4,7 +4,7 @@ taku_type: heuristic
 id: taku-power-words-copywriting
 title: "Uso de power words y frases que venden"
 origin: "The Power MBA — Módulo 20 «Copywriting» — Palabras y frases que ayudan a vender"
-domain: [marketing-digital, copywriting, conversion]
+domain: [marketing-digital, copywriting, conversion, power-mba]
 
 when_to_use: "Al pulir el copy de titulares, CTAs, descripciones y emails para reforzar la persuasión."
 when_not_to_use: "Cuando saturar el texto de power words resta credibilidad o suena a spam."

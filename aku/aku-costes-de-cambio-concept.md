@@ -10,7 +10,7 @@ statement: >
   cambio altos retienen clientes y actúan como barrera de entrada, mientras que
   unos costes bajos aumentan el poder del comprador y la intensidad competitiva.
 origin: "Michael Porter — Competitive Strategy"
-domain: [estrategia, competencia, retencion]
+domain: [estrategia, competencia, retencion, power-mba]
 
 llm_confidence: 0.50
 

@@ -12,7 +12,7 @@ statement: >
   en coste o en diferenciación (de ahí que algunos hablen de cuatro); implica que
   toda empresa debe elegir conscientemente una estrategia clara.
 origin: "Michael Porter — Competitive Strategy; The Power MBA — Módulo 4.2"
-domain: [estrategia, competencia, ventaja-competitiva]
+domain: [estrategia, competencia, ventaja-competitiva, power-mba]
 
 llm_confidence: 0.50
 

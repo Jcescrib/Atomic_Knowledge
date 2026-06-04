@@ -13,7 +13,7 @@ statement: >
   geográfica + demográfica) es lo que distingue una segmentación útil de una
   superficial.
 origin: "The Power MBA — Módulo 2.4 «Segmentación y targeting»"
-domain: [segmentation, customer, business-model, methodology]
+domain: [segmentation, customer, business-model, methodology, power-mba]
 
 llm_confidence: 0.50
 

@@ -9,7 +9,7 @@ statement: >
   las empresas atrapadas están obligadas a competir, lo que intensifica la
   rivalidad competitiva y reduce las rentabilidades del sector.
 origin: "Michael Porter — Competitive Strategy"
-domain: [estrategia, analisis-sectorial, competencia]
+domain: [estrategia, analisis-sectorial, competencia, power-mba]
 
 llm_confidence: 0.50
 

@@ -9,7 +9,7 @@ statement: >
   palabras en anuncio y landing y llevar al usuario a la página específica (no a la
   home) aumenta la relevancia que Google premia.
 origin: "The Power MBA — Módulo 11 «Google Ads» — Anuncios de texto"
-domain: [marketing-digital, sem, google-ads, conversion]
+domain: [marketing-digital, sem, google-ads, conversion, power-mba]
 
 llm_confidence: 0.50
 

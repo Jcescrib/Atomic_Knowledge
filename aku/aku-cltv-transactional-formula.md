@@ -8,7 +8,7 @@ statement: >
   multiplicado por la tasa de repetición de compra a lo largo de la relación
   con el cliente (CLTV = ticket × repetición).
 origin: "The Power MBA — Módulo 2.2 «Motores de crecimiento — principales métricas»"
-domain: [growth, unit-economics, transactional, metrics]
+domain: [growth, unit-economics, transactional, metrics, power-mba]
 
 llm_confidence: 0.50
 

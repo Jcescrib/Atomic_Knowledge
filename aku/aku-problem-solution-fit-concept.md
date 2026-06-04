@@ -15,7 +15,7 @@ statement: >
   cerrado el PSF es la causa más común de modelos que crecen sin lograr
   retención sostenida.
 origin: "The Power MBA — Módulo 3.0.2 «Probando modelos de negocio»"
-domain: [lean-startup, validation, problem-solution-fit, startup]
+domain: [lean-startup, validation, problem-solution-fit, startup, power-mba]
 
 llm_confidence: 0.50
 

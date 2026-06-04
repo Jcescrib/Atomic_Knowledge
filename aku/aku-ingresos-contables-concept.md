@@ -10,7 +10,7 @@ statement: >
   por prestaciones de servicios al exterior, ingresos financieros (de inversiones) e
   ingresos extraordinarios.
 origin: "The Power MBA — Módulo 9.1 «Estado de resultados»"
-domain: [finanzas, contabilidad, ingresos]
+domain: [finanzas, contabilidad, ingresos, power-mba]
 
 llm_confidence: 0.50
 

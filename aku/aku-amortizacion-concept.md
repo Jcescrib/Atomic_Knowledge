@@ -9,7 +9,7 @@ statement: >
   (no monetario) que reduce el resultado pero no la tesorería, y por ello se excluye
   del EBITDA; excluye la pérdida de valor puntual no sistemática (deterioro).
 origin: "The Power MBA — Módulo 9.1 «Estado de resultados»"
-domain: [finanzas, contabilidad, gastos]
+domain: [finanzas, contabilidad, gastos, power-mba]
 
 llm_confidence: 0.50
 

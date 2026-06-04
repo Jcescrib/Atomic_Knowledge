@@ -8,7 +8,7 @@ statement: >
   el trabajo y las motivaciones personales reduce el bienestar aunque se cumplan
   otros indicadores de éxito.
 origin: "Carlos Puig Sagi-Vela (CEO Nexus People) — The Power MBA Módulo 8.1"
-domain: [desarrollo-personal, carrera, motivacion]
+domain: [desarrollo-personal, carrera, motivacion, power-mba]
 
 llm_confidence: 0.50
 

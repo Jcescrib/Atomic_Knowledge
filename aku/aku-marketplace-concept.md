@@ -13,7 +13,7 @@ statement: >
   larga) y la facilidad de descubrimiento, y suele monetizar vía comisión
   por transacción o listing fees.
 origin: "The Power MBA — Módulo 2.3 «Conceptos clave de las plataformas»"
-domain: [business-model, platform, marketplace, two-sided-market]
+domain: [business-model, platform, marketplace, two-sided-market, power-mba]
 
 llm_confidence: 0.50
 

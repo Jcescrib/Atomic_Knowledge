@@ -11,7 +11,7 @@ statement: >
   decálogo de venta (identificación inmediata, dejar claro qué se va a recibir,
   ayudar a visualizarlo y apoyarse en social proof).
 origin: "The Power MBA — Módulos 5.1 «Power Selling» y 5.5.1 «Captación y nurturing de leads»"
-domain: [marketing, captacion, leads, funnel]
+domain: [marketing, captacion, leads, funnel, power-mba]
 
 llm_confidence: 0.60
 

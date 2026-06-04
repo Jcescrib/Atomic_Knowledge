@@ -10,7 +10,7 @@ statement: >
   operativas de fondos y un PMP mayor (pagar más tarde) lo reduce; excluye los flujos
   de inversión y financiación estructural.
 origin: "The Power MBA — Módulo 9.2 «Ratios de análisis financiero»"
-domain: [finanzas, contabilidad, working-capital]
+domain: [finanzas, contabilidad, working-capital, power-mba]
 
 llm_confidence: 0.50
 

@@ -16,7 +16,7 @@ statement: >
   implica que es la opción natural de casi todas las empresas al nacer y la mejor
   al lanzar un modelo innovador de riesgo alto.
 origin: "Michael Porter — Competitive Strategy; The Power MBA — Módulos 2.4 y 4.2"
-domain: [strategy, targeting, segmentation, niche, business-model]
+domain: [strategy, targeting, segmentation, niche, business-model, power-mba]
 
 llm_confidence: 0.60
 

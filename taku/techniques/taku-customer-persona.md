@@ -4,7 +4,7 @@ taku_type: technique
 id: taku-customer-persona
 title: "Customer Persona — cómo crear y usar"
 origin: "The Power MBA — Módulo 2.4 «Segmentación y targeting»"
-domain: [segmentation, customer, marketing, methodology]
+domain: [segmentation, customer, marketing, methodology, power-mba]
 
 when_to_use: >
   Cuando se necesita personificar un segmento de clientes para crear

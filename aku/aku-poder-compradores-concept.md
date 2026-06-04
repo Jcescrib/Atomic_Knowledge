@@ -10,7 +10,7 @@ statement: >
   de cambio o muy comoditizados; implica que a mayor poder del comprador, menor
   es la rentabilidad de la empresa.
 origin: "Michael Porter — Competitive Strategy"
-domain: [estrategia, analisis-sectorial, competencia]
+domain: [estrategia, analisis-sectorial, competencia, power-mba]
 
 llm_confidence: 0.50
 

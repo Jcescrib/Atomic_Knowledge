@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-okr
 title: "OKR — Objectives and Key Results"
 origin: "The Power MBA — Módulo 7.2; Andy Grove (Intel) / John Doerr (Google)"
-domain: [leadership, objetivos, gestion, organizacion]
+domain: [leadership, objetivos, gestion, organizacion, power-mba]
 
 when_to_use: "Para planificar y monitorizar objetivos estratégicos de forma ágil y transparente en toda la organización, en entornos de incertidumbre y ritmo rápido."
 when_not_to_use: "En contextos estables y muy predecibles donde la planificación anual tradicional basta; o si la organización no está dispuesta a la transparencia total que exige."

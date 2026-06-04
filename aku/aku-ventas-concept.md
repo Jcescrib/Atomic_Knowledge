@@ -10,7 +10,7 @@ statement: >
   tamaño y la rentabilidad relativa del negocio; excluye los ingresos ajenos a la
   actividad principal (financieros, extraordinarios, subvenciones).
 origin: "The Power MBA — Módulo 9.1 «Estado de resultados»"
-domain: [finanzas, contabilidad, ingresos]
+domain: [finanzas, contabilidad, ingresos, power-mba]
 
 llm_confidence: 0.50
 

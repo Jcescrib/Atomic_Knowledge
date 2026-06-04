@@ -8,7 +8,7 @@ statement: >
   internacional o mediante la entrada en nuevos segmentos de clientes; tiene un
   riesgo moderado.
 origin: "Igor Ansoff — Matriz de Ansoff; The Power MBA — Módulo 4.3"
-domain: [estrategia, crecimiento, ansoff]
+domain: [estrategia, crecimiento, ansoff, power-mba]
 
 llm_confidence: 0.50
 

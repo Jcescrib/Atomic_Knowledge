@@ -14,7 +14,7 @@ statement: >
   los que no están buscando ofrece mercado mucho mayor a cambio del reto de
   encontrarlos, generarles la necesidad y posicionarte como referencia.
 origin: "The Power MBA — Módulo 2.4 «Segmentación y targeting»"
-domain: [targeting, market-structure, demand, blue-ocean]
+domain: [targeting, market-structure, demand, blue-ocean, power-mba]
 
 llm_confidence: 0.50
 

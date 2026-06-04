@@ -12,7 +12,7 @@ statement: >
   negocio (no copiarlo), y que no tenerlo lleva a peores decisiones, pérdida de
   información, peor gestión del equipo, menor conversión y mayor CAC.
 origin: "The Power MBA — Módulo 5.3 «Visión estratégica» (Power Funnel)"
-domain: [marketing-digital, funnel, estrategia]
+domain: [marketing-digital, funnel, estrategia, power-mba]
 
 llm_confidence: 0.50
 

@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-eleccion-proyecto-fit
 title: "Elección de proyecto — fit emprendedor ↔ modelo de negocio"
 origin: "The Power MBA — Módulo 6.1 «Fit entre tu proyecto y tú»"
-domain: [emprendimiento, fundadores, estrategia]
+domain: [emprendimiento, fundadores, estrategia, power-mba]
 
 when_to_use: >
   Al decidir qué proyecto emprender: evaluar las implicaciones del modelo de

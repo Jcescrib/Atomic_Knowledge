@@ -9,7 +9,7 @@ statement: >
   que tensiona la liquidez hasta materializarse; en el PGC se registra
   principalmente en las cuentas 430 a 436.
 origin: "The Power MBA — Módulo 9.1 «Balance de situación»; PGC español"
-domain: [finanzas, contabilidad, circulante]
+domain: [finanzas, contabilidad, circulante, power-mba]
 
 llm_confidence: 0.50
 

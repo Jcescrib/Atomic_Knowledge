@@ -14,7 +14,7 @@ statement: >
   es la palanca crítica, porque cada vuelta acelera el descubrimiento del
   product-market fit.
 origin: "The Power MBA — Módulo 3.0.1 «El método Lean Startup» (Eric Ries)"
-domain: [lean-startup, methodology, validation, iteration]
+domain: [lean-startup, methodology, validation, iteration, power-mba]
 
 llm_confidence: 0.50
 

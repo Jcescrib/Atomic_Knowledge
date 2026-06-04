@@ -8,7 +8,7 @@ statement: >
   tasa de descuento y n el número de periodos; descontar consiste en «mover» un flujo
   al presente, y a mayor k o n menor es el valor presente resultante.
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion, time-value]
+domain: [finanzas, valoracion, time-value, power-mba]
 
 llm_confidence: 0.50
 

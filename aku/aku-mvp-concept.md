@@ -14,7 +14,7 @@ statement: >
   reducido sino un experimento diseñado, y que su valor está en el
   aprendizaje que genera (no en sus features).
 origin: "The Power MBA — Módulo 3.0.1 «El método Lean Startup» (Eric Ries)"
-domain: [lean-startup, mvp, validation, experimentation]
+domain: [lean-startup, mvp, validation, experimentation, power-mba]
 
 llm_confidence: 0.50
 

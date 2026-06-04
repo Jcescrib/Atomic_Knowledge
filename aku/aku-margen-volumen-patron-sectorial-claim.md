@@ -9,7 +9,7 @@ statement: >
   tienden a tener alto volumen, ventaja por economías de escala o liderazgo en coste,
   alta sensibilidad al precio y bajo valor añadido.
 origin: "The Power MBA — Módulo 9.2 «Ratios de análisis financiero»"
-domain: [finanzas, estrategia, rentabilidad]
+domain: [finanzas, estrategia, rentabilidad, power-mba]
 
 llm_confidence: 0.50
 

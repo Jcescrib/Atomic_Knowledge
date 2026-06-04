@@ -9,7 +9,7 @@ statement: >
   descuento (rentabilidad exigida) y n el horizonte; el resultado es un valor absoluto
   en unidades monetarias.
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion, inversion]
+domain: [finanzas, valoracion, inversion, power-mba]
 
 llm_confidence: 0.50
 

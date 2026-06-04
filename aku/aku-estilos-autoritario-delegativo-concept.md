@@ -12,7 +12,7 @@ statement: >
   búsqueda de innovación; implica elegir el punto del espectro según competencia y
   compromiso del equipo.
 origin: "The Power MBA — Módulo 7.2 «Liderar a otros»"
-domain: [leadership, liderazgo, estilos]
+domain: [leadership, liderazgo, estilos, power-mba]
 
 llm_confidence: 0.50
 

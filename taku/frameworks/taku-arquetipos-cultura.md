@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-arquetipos-cultura
 title: "4 arquetipos de cultura organizacional (Valores en Competencia)"
 origin: "The Power MBA — Módulo 7.2; Cameron & Quinn (Competing Values Framework)"
-domain: [leadership, cultura, organizacion]
+domain: [leadership, cultura, organizacion, power-mba]
 
 when_to_use: "Para diagnosticar la cultura actual o diseñar la cultura objetivo que apoye la estrategia, situándola en los ejes flexibilidad/control y foco interno/externo."
 when_not_to_use: "Como etiqueta estática: las culturas reales mezclan arquetipos; no sirve para encasillar permanentemente a la organización."

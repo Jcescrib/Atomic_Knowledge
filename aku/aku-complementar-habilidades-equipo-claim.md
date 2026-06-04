@@ -8,7 +8,7 @@ statement: >
   aprenderla, lo eficaz es complementarla incorporando al equipo a gente que la
   cubra: no hace falta hacerlo todo uno mismo.
 origin: "The Power MBA — Módulo 7.2 «Liderar a otros»"
-domain: [leadership, liderazgo, equipos, desarrollo-personal]
+domain: [leadership, liderazgo, equipos, desarrollo-personal, power-mba]
 
 llm_confidence: 0.50
 

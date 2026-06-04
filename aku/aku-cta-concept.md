@@ -12,7 +12,7 @@ statement: >
   abusar); implica que es un elemento clave de conversión que conviene testear con
   A/B testing.
 origin: "The Power MBA — Módulo 5.6.3 «Consejos para CTA»"
-domain: [marketing-digital, conversion, cta, copywriting]
+domain: [marketing-digital, conversion, cta, copywriting, power-mba]
 
 llm_confidence: 0.50
 

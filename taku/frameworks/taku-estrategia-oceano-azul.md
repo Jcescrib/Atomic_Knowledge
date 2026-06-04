@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-estrategia-oceano-azul
 title: "Estrategia del Océano Azul — crear espacios de mercado nuevos"
 origin: "Kim & Mauborgne (1990, INSEAD); resumido en The Power MBA — Módulo 2.6"
-domain: [strategy, blue-ocean, innovation, value-proposition]
+domain: [strategy, blue-ocean, innovation, value-proposition, power-mba]
 
 when_to_use: >
   Cuando se necesita escapar de la guerra de precios y micro-diferenciación

@@ -8,7 +8,7 @@ statement: >
   empleados exige más habilidades de gestión, mientras que liderar un equipo pequeño
   de ingenieros altamente cualificados exige más habilidades de liderazgo.
 origin: "The Power MBA — Módulo 7.2 «Liderar a otros»"
-domain: [leadership, liderazgo, management]
+domain: [leadership, liderazgo, management, power-mba]
 
 llm_confidence: 0.50
 

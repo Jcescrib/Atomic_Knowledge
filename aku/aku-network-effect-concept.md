@@ -14,7 +14,7 @@ statement: >
   superada cierta masa crítica, el crecimiento se auto-sostiene en círculo
   virtuoso.
 origin: "The Power MBA — Módulo 2.3 «Conceptos clave de las plataformas»"
-domain: [business-model, platform, network-effects]
+domain: [business-model, platform, network-effects, power-mba]
 
 llm_confidence: 0.50
 

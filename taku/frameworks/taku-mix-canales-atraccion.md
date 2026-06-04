@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-mix-canales-atraccion
 title: "Mix de canales de atracción (inbound/outbound/performance)"
 origin: "The Power MBA — Módulo 5.4.1 «Atracción y branding»"
-domain: [marketing-digital, atraccion, canales]
+domain: [marketing-digital, atraccion, canales, power-mba]
 
 when_to_use: >
   Al diseñar la estrategia de atracción de la parte alta del funnel: elegir y

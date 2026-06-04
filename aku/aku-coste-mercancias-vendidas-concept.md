@@ -10,7 +10,7 @@ statement: >
   mercancías vendidas determina el margen bruto; excluye los gastos de estructura no
   ligados a la mercancía.
 origin: "The Power MBA — Módulo 9.1 «Estado de resultados»"
-domain: [finanzas, contabilidad, gastos]
+domain: [finanzas, contabilidad, gastos, power-mba]
 
 llm_confidence: 0.50
 

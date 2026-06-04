@@ -10,7 +10,7 @@ statement: >
   en cada área; implica que el rendimiento y la energía del líder dependen de
   gestionar las tres dimensiones, no solo la profesional.
 origin: "The Power MBA — Módulo 7.1 «Liderarse a uno mismo»"
-domain: [leadership, liderazgo, bienestar, autoconocimiento]
+domain: [leadership, liderazgo, bienestar, autoconocimiento, power-mba]
 
 llm_confidence: 0.50
 

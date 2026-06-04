@@ -8,7 +8,7 @@ statement: >
   habitualmente a través de plataformas de afiliados que conectan a anunciantes
   con afiliados; implica un canal a coste variable ligado al rendimiento.
 origin: "The Power MBA — Módulo 5.4.1 «Atracción y branding»; 5.4.11 «Listado de plataformas de afiliados»"
-domain: [marketing-digital, canales, afiliados, performance]
+domain: [marketing-digital, canales, afiliados, performance, power-mba]
 
 llm_confidence: 0.50
 

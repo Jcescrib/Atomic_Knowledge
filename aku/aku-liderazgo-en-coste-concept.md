@@ -11,7 +11,7 @@ statement: >
   toda la cadena de valor; implica que el diferencial de coste puede usarse para
   bajar precios y ganar cuota o para invertir más en marketing.
 origin: "Michael Porter — Competitive Strategy; The Power MBA — Módulo 4.2"
-domain: [estrategia, competencia, liderazgo-en-coste]
+domain: [estrategia, competencia, liderazgo-en-coste, power-mba]
 
 llm_confidence: 0.50
 

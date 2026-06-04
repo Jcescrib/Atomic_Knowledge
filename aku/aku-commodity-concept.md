@@ -10,7 +10,7 @@ statement: >
   guerras de precios que erosionan la rentabilidad; se sitúa en el extremo
   opuesto al de los sectores diferenciados.
 origin: "Michael Porter — Competitive Strategy"
-domain: [estrategia, analisis-sectorial, competencia]
+domain: [estrategia, analisis-sectorial, competencia, power-mba]
 
 llm_confidence: 0.50
 

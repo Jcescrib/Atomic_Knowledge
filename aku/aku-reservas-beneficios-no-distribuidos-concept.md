@@ -8,7 +8,7 @@ statement: >
   patrimonio neto; implica autofinanciación y fortalecimiento de los fondos propios;
   en el PGC español se registran en las cuentas del grupo 11.
 origin: "The Power MBA — Módulo 9.1 «Balance de situación»; PGC español"
-domain: [finanzas, contabilidad, fondos-propios]
+domain: [finanzas, contabilidad, fondos-propios, power-mba]
 
 llm_confidence: 0.50
 

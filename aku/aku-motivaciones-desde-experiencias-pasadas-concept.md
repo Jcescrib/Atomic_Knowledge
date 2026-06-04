@@ -10,7 +10,7 @@ statement: >
   infieren de la conducta y la emoción pasadas, no solo de lo que uno declara
   querer; excluye deducir motivaciones únicamente de aspiraciones abstractas.
 origin: "The Power MBA — Módulo 8.1 «Herramientas de desarrollo personal»"
-domain: [desarrollo-personal, autoconocimiento, motivacion]
+domain: [desarrollo-personal, autoconocimiento, motivacion, power-mba]
 
 llm_confidence: 0.50
 

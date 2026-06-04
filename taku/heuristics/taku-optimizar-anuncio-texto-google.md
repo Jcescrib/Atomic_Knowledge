@@ -4,7 +4,7 @@ taku_type: heuristic
 id: taku-optimizar-anuncio-texto-google
 title: "Optimizar anuncios de texto en Google Ads"
 origin: "The Power MBA — Módulo 11 «Google Ads» — Anuncios de texto"
-domain: [marketing-digital, sem, google-ads, copywriting]
+domain: [marketing-digital, sem, google-ads, copywriting, power-mba]
 
 when_to_use: "Al redactar o revisar anuncios de texto de Google Ads para maximizar clics y conversiones."
 when_not_to_use: "En formatos no textuales (Shopping, display, vídeo) donde aplican otras reglas."

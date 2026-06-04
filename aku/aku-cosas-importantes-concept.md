@@ -14,7 +14,7 @@ statement: >
   beneficio último, porque sin ese enganche profundo los mensajes no
   movilizan.
 origin: "The Power MBA — Módulo 2.5 «Conceptos clave: propuesta de valor»"
-domain: [value-proposition, customer, motivation, marketing]
+domain: [value-proposition, customer, motivation, marketing, power-mba]
 
 llm_confidence: 0.50
 

@@ -10,7 +10,7 @@ statement: >
   física con los dispositivos y desactivar notificaciones; implica recuperar
   atención y foco reduciendo deliberadamente la fricción tecnológica.
 origin: "Cal Newport — «Digital Minimalism»; The Power MBA Módulo 7.1"
-domain: [leadership, productividad, foco, bienestar]
+domain: [leadership, productividad, foco, bienestar, power-mba]
 
 llm_confidence: 0.50
 

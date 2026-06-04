@@ -9,7 +9,7 @@ statement: >
   naturaleza; implica que, a diferencia del balance (foto en un instante), refleja el
   flujo económico generado durante un periodo de tiempo.
 origin: "The Power MBA — Módulo 9.1 «Estado de resultados»"
-domain: [finanzas, contabilidad, estados-financieros]
+domain: [finanzas, contabilidad, estados-financieros, power-mba]
 
 llm_confidence: 0.50
 

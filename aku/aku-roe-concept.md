@@ -10,7 +10,7 @@ statement: >
   supera el coste de la deuda); excluye la rentabilidad del conjunto de los activos
   (eso es el ROA).
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, rentabilidad, estructura-capital]
+domain: [finanzas, rentabilidad, estructura-capital, power-mba]
 
 llm_confidence: 0.50
 

@@ -11,7 +11,7 @@ statement: >
   p. ej. los buscadores) y el monopolio (un solo player); implica que a mayor
   concentración, menor competencia y mayor capacidad de fijar precios.
 origin: "The Power MBA — Análisis de un sector"
-domain: [estrategia, analisis-sectorial, competencia]
+domain: [estrategia, analisis-sectorial, competencia, power-mba]
 
 llm_confidence: 0.50
 

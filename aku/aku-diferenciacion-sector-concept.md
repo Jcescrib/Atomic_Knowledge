@@ -11,7 +11,7 @@ statement: >
   (coches económicos vs. de lujo); implica que a mayor diferenciación percibida,
   menor sensibilidad al precio y mayor margen potencial.
 origin: "The Power MBA — Análisis de un sector"
-domain: [estrategia, analisis-sectorial, diferenciacion]
+domain: [estrategia, analisis-sectorial, diferenciacion, power-mba]
 
 llm_confidence: 0.50
 

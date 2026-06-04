@@ -9,7 +9,7 @@ statement: >
   en tu negocio (consciente de que tu potencial de crecimiento es mayor que el
   suyo y no quiere «quedarse fuera»); es una fuente típica de la fase de expansión.
 origin: "The Power MBA — Módulo 6.3 «Fuentes de financiación: quién»"
-domain: [emprendimiento, financiacion, expansion, m-and-a]
+domain: [emprendimiento, financiacion, expansion, m-and-a, power-mba]
 
 llm_confidence: 0.50
 

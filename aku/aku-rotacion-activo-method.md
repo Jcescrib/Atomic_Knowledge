@@ -8,7 +8,7 @@ statement: >
   mide cuántas veces el activo genera su valor en ventas, es decir, la eficiencia con
   que la empresa usa sus activos para generar ingresos.
 origin: "The Power MBA — Módulo 9.2 «Ratios de análisis financiero»"
-domain: [finanzas, contabilidad, ratios]
+domain: [finanzas, contabilidad, ratios, power-mba]
 
 llm_confidence: 0.50
 

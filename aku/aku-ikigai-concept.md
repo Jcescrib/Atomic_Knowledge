@@ -10,7 +10,7 @@ statement: >
   cuando falta uno de los cuatro elementos; implica que no es un objetivo final sino
   un proceso continuo de descubrimiento y reflexión.
 origin: "The Power MBA — Módulo 7.1; concepto japonés Ikigai"
-domain: [leadership, proposito, desarrollo-personal, bienestar]
+domain: [leadership, proposito, desarrollo-personal, bienestar, power-mba]
 
 llm_confidence: 0.50
 

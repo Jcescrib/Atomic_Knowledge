@@ -8,7 +8,7 @@ statement: >
   mientras dure el contrato de arrendamiento; implica rentabilizar activos infrautilizados
   al margen de la actividad principal; excluye los ingresos por venta de esos activos.
 origin: "The Power MBA — Módulo 9.1 «Estado de resultados»"
-domain: [finanzas, contabilidad, ingresos]
+domain: [finanzas, contabilidad, ingresos, power-mba]
 
 llm_confidence: 0.50
 

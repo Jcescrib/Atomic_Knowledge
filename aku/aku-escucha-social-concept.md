@@ -10,7 +10,7 @@ statement: >
   implica obtener insights de reputación y oportunidades; excluye la mera publicación
   de contenido.
 origin: "The Power MBA — Módulo 12 «Social media» — Herramientas de gestión"
-domain: [marketing-digital, social-media, social-listening]
+domain: [marketing-digital, social-media, social-listening, power-mba]
 
 llm_confidence: 0.50
 

@@ -9,7 +9,7 @@ statement: >
   qué; implica una experimentación controlada y comparativa para decidir cambios
   con datos en lugar de intuición (herramientas como Google Optimize lo facilitan).
 origin: "The Power MBA — Módulo 5.6.1 «Conceptos clave: Conversión»"
-domain: [marketing-digital, conversion, cro, experimentacion]
+domain: [marketing-digital, conversion, cro, experimentacion, power-mba]
 
 llm_confidence: 0.50
 

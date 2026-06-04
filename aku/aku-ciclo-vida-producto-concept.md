@@ -13,7 +13,7 @@ statement: >
   mercado se satura y se convierte en océano rojo (crecer exige robar cuota); y
   en declive las ventas caen y obligan a reinventarse o morir.
 origin: "Theodore Levitt — Product Life Cycle (vía The Power MBA)"
-domain: [estrategia, analisis-sectorial, ciclo-de-vida]
+domain: [estrategia, analisis-sectorial, ciclo-de-vida, power-mba]
 
 llm_confidence: 0.50
 

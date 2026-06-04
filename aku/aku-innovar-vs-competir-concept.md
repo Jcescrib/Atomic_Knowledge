@@ -16,7 +16,7 @@ statement: >
   que va a pasar, o Lean Startup cuando ya sabes— es una causa estructural
   de fracaso.
 origin: "The Power MBA — Módulo 3.0.1 «El método Lean Startup»"
-domain: [lean-startup, strategy, decision-making, uncertainty]
+domain: [lean-startup, strategy, decision-making, uncertainty, power-mba]
 
 llm_confidence: 0.50
 

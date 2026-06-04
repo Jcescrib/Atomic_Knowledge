@@ -9,7 +9,7 @@ statement: >
   la cuenta de resultados, antes de gastos de estructura, amortizaciones, intereses e
   impuestos; excluye los costes indirectos y de estructura.
 origin: "The Power MBA — Módulo 9.2 «Ratios de análisis financiero»"
-domain: [finanzas, contabilidad, rentabilidad]
+domain: [finanzas, contabilidad, rentabilidad, power-mba]
 
 llm_confidence: 0.50
 

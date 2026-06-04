@@ -6,7 +6,7 @@ statement: >
   Optimizar CLTV y CAC simultáneamente produce mejores unit economics que
   optimizar cualquiera de las dos variables de forma aislada.
 origin: "The Power MBA — Módulo 2.2 «Motores de crecimiento — principales métricas»"
-domain: [growth, unit-economics, strategy, business-model]
+domain: [growth, unit-economics, strategy, business-model, power-mba]
 
 llm_confidence: 0.50
 

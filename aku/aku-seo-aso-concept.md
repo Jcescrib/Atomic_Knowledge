@@ -10,7 +10,7 @@ statement: >
   sostenible, pero lento y difícil en sectores con mucha competencia, y no tan
   simple como pagar por un anuncio.
 origin: "The Power MBA — Módulo 5.4.1 «Atracción y branding»"
-domain: [marketing-digital, canales, seo, inbound]
+domain: [marketing-digital, canales, seo, inbound, power-mba]
 
 llm_confidence: 0.50
 

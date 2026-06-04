@@ -8,7 +8,7 @@ statement: >
   interés; implica que el dinero presente crece con el tiempo según se aplique interés
   simple o compuesto; excluye el ajuste a presente (eso es el valor actual).
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion, time-value]
+domain: [finanzas, valoracion, time-value, power-mba]
 
 llm_confidence: 0.50
 

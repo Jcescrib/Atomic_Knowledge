@@ -10,7 +10,7 @@ statement: >
   optimizada se vuelve al paso 1, pero no desde cero sino acumulando aprendizaje en
   cada iteración.
 origin: "The Power MBA — Módulo 5.6.1 «Conceptos clave: Conversión»"
-domain: [marketing-digital, conversion, cro, proceso]
+domain: [marketing-digital, conversion, cro, proceso, power-mba]
 
 llm_confidence: 0.50
 

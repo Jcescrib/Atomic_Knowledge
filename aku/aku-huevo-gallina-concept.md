@@ -13,7 +13,7 @@ statement: >
   cebar uno de los lados (subsidios, oferta sintética, comunidad temprana,
   marketing unilateral) hasta que el network effect se active.
 origin: "The Power MBA — Módulo 2.3 «Conceptos clave de las plataformas»"
-domain: [business-model, platform, bootstrapping, launch-strategy]
+domain: [business-model, platform, bootstrapping, launch-strategy, power-mba]
 
 llm_confidence: 0.50
 

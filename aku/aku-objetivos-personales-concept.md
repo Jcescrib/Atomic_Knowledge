@@ -11,7 +11,7 @@ statement: >
   objetivos anuales, concretar el foco a 3 meses, y compartir y reflexionar
   periódicamente).
 origin: "The Power MBA — Módulo 7.1 «Liderarse a uno mismo»"
-domain: [leadership, objetivos, desarrollo-personal, productividad]
+domain: [leadership, objetivos, desarrollo-personal, productividad, power-mba]
 
 llm_confidence: 0.50
 

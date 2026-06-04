@@ -9,7 +9,7 @@ statement: >
   implica que descontado al coste de los fondos propios (ke) permite estimar el Equity
   Value; excluye los fondos destinados a remunerar a la deuda.
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion, cash-flow]
+domain: [finanzas, valoracion, cash-flow, power-mba]
 
 llm_confidence: 0.50
 

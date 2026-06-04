@@ -8,7 +8,7 @@ statement: >
   habitualmente con un objetivo y un plazo concretos; su compromiso formal es
   menor que el de una joint venture.
 origin: "The Power MBA — Módulo 4.3 «Estrategias de crecimiento»"
-domain: [estrategia, crecimiento, m-and-a, partnerships]
+domain: [estrategia, crecimiento, m-and-a, partnerships, power-mba]
 
 llm_confidence: 0.50
 

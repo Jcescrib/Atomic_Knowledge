@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-medicion-campana-influencers
 title: "Medición de campañas con influencers por etapa del funnel"
 origin: "The Power MBA — Módulo 14 «Marketing de influencers» — Medición de resultados"
-domain: [marketing-digital, influencer-marketing, analitica]
+domain: [marketing-digital, influencer-marketing, analitica, power-mba]
 
 when_to_use: "Para definir y medir los KPIs de una campaña con influencers a lo largo del funnel y calcular su retorno."
 when_not_to_use: "Cuando no es posible obtener datos del influencer ni instrumentar la web (sin analítica)."

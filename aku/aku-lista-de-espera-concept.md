@@ -8,7 +8,7 @@ statement: >
   apuntarse a una lista de espera y se mide cuánta gente lo hace; implica validar
   el interés real y, de paso, construir demanda anticipada para el lanzamiento.
 origin: "The Power MBA — Módulo 3.0.1 «El método Lean Startup» (Eric Ries)"
-domain: [lean-startup, mvp, validation, demand]
+domain: [lean-startup, mvp, validation, demand, power-mba]
 
 llm_confidence: 0.50
 

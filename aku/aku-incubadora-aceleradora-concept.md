@@ -11,7 +11,7 @@ statement: >
   red de inversores y expertos; implica que la diferencia clave es la fase del
   proyecto en la que entran.
 origin: "The Power MBA — Módulo 6.3 «Fuentes de financiación: quién» (cita de Javier Megías)"
-domain: [emprendimiento, financiacion, startup, aceleracion]
+domain: [emprendimiento, financiacion, startup, aceleracion, power-mba]
 
 llm_confidence: 0.50
 

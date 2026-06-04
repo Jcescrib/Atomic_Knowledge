@@ -10,7 +10,7 @@ statement: >
   activos neto de deudas); su inconveniente principal es que aporta una perspectiva
   limitada al no tener en cuenta el futuro.
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion]
+domain: [finanzas, valoracion, power-mba]
 
 llm_confidence: 0.50
 

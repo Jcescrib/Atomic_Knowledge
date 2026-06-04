@@ -10,7 +10,7 @@ statement: >
   eficiencia; excluye necesariamente la definición de la estrategia de marketing
   global.
 origin: "The Power MBA — Módulo 12 «Social media» — Herramientas de gestión"
-domain: [marketing-digital, social-media, community-management]
+domain: [marketing-digital, social-media, community-management, power-mba]
 
 llm_confidence: 0.50
 

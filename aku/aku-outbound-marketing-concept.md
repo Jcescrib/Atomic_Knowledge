@@ -8,7 +8,7 @@ statement: >
   permite ver casi de forma instantánea si funciona y medir el rendimiento con
   exactitud, por lo que es ideal para validar ideas de negocio y mensajes.
 origin: "The Power MBA — Módulo 5.4.1 «Atracción y branding»"
-domain: [marketing-digital, outbound, paid-media]
+domain: [marketing-digital, outbound, paid-media, power-mba]
 
 llm_confidence: 0.50
 

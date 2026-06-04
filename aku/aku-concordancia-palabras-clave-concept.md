@@ -9,7 +9,7 @@ statement: >
   singular/plural, errores ortográficos y género; implica elegir el equilibrio entre
   alcance y relevancia; excluye determinar la puja o el contenido del anuncio.
 origin: "The Power MBA — Módulo 11 «Google Ads» — Concordancia de palabras clave"
-domain: [marketing-digital, sem, google-ads, keywords]
+domain: [marketing-digital, sem, google-ads, keywords, power-mba]
 
 llm_confidence: 0.50
 

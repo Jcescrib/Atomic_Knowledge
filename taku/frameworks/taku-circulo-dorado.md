@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-circulo-dorado
 title: "Círculo dorado (Golden Circle) de Simon Sinek"
 origin: "Simon Sinek — «Start With Why» (2009); The Power MBA — Módulo 4.4"
-domain: [marketing, branding, proposito]
+domain: [marketing, branding, proposito, power-mba]
 
 when_to_use: >
   Al definir el porqué de una marca o empresa y construir mensajes que conecten

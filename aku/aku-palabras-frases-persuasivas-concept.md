@@ -12,7 +12,7 @@ statement: >
   «cancela cuando quieras») y facilidad (fácil, sencillo, «paso a paso»); implica que
   insertarlas de forma relevante mejora la conversión.
 origin: "The Power MBA — Módulo 20 «Copywriting» — Palabras y frases que ayudan a vender"
-domain: [marketing-digital, copywriting, conversion]
+domain: [marketing-digital, copywriting, conversion, power-mba]
 
 llm_confidence: 0.50
 

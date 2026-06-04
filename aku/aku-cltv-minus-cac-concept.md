@@ -13,7 +13,7 @@ statement: >
   cliente para el negocio, y que en motores de pago este margen se reinvierte
   en marketing.
 origin: "The Power MBA — Módulo 2.2 «Motores de crecimiento — principales métricas»"
-domain: [growth, unit-economics, metrics, profitability]
+domain: [growth, unit-economics, metrics, profitability, power-mba]
 
 llm_confidence: 0.50
 

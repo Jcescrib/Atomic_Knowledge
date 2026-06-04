@@ -10,7 +10,7 @@ statement: >
   mejor al cliente, crear una propuesta perfectamente encajada y enfrentar
   menor guerra competitiva.
 origin: "The Power MBA — Módulo 2.4 «Segmentación y targeting»"
-domain: [strategy, targeting, niche, launch, risk]
+domain: [strategy, targeting, niche, launch, risk, power-mba]
 
 llm_confidence: 0.50
 

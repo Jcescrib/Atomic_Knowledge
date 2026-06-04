@@ -14,7 +14,7 @@ statement: >
   valor —no a sub-segmentar más fino— y abre el mercado en lugar de
   partirlo.
 origin: "The Power MBA — Módulo 2.6 «Cómo crear propuestas de valor disruptivas y buscar tu océano azul»"
-domain: [strategy, blue-ocean, market-creation, targeting]
+domain: [strategy, blue-ocean, market-creation, targeting, power-mba]
 
 llm_confidence: 0.50
 

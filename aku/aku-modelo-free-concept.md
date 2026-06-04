@@ -12,7 +12,7 @@ statement: >
   y que el éxito depende del volumen agregado y la calidad del targeting que
   la plataforma puede ofrecer sobre su base.
 origin: "The Power MBA — Módulo 2.3 «Conceptos clave de las plataformas»"
-domain: [business-model, monetization, attention-economy, advertising]
+domain: [business-model, monetization, attention-economy, advertising, power-mba]
 
 llm_confidence: 0.50
 

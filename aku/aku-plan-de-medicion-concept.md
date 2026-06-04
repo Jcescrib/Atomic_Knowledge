@@ -10,7 +10,7 @@ statement: >
   numéricos asignados a los KPIs) y Segmentos (grupos de usuarios relevantes a
   monitorizar); implica alinear analítica y objetivos antes de medir.
 origin: "The Power MBA — Módulo 15 «Analítica» — Plantilla Plan de Medición"
-domain: [marketing-digital, analitica, medicion]
+domain: [marketing-digital, analitica, medicion, power-mba]
 
 llm_confidence: 0.50
 

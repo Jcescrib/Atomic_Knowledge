@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-modelos-negocio-plataforma
 title: "Modelos de negocio de plataforma — taxonomía y dinámicas"
 origin: "The Power MBA — Módulo 2.3 «Conceptos clave de las plataformas»"
-domain: [business-model, platform, network-effects, strategy]
+domain: [business-model, platform, network-effects, strategy, power-mba]
 
 when_to_use: >
   Cuando se necesita decidir si un nuevo negocio debería ser una plataforma

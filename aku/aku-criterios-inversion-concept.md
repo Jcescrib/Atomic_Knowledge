@@ -9,7 +9,7 @@ statement: >
   fase y horizonte, tamaño de mercado, equipo, tracción) antes de presentar su
   proyecto.
 origin: "The Power MBA — Módulo 6.3 «Vender tu proyecto / relación con inversores»"
-domain: [emprendimiento, financiacion, inversion]
+domain: [emprendimiento, financiacion, inversion, power-mba]
 
 llm_confidence: 0.50
 

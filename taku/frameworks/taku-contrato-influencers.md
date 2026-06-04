@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-contrato-influencers
 title: "Contrato con influencers — cláusulas clave"
 origin: "The Power MBA — Módulo 14 «Marketing de influencers» — Cláusulas de contrato"
-domain: [marketing-digital, influencer-marketing, legal]
+domain: [marketing-digital, influencer-marketing, legal, power-mba]
 
 when_to_use: "Al formalizar una colaboración pagada con un influencer para asegurar control, calidad y medibilidad."
 when_not_to_use: "En colaboraciones gratuitas informales sin contraprestación ni necesidad de control formal."

@@ -11,7 +11,7 @@ statement: >
   demasiados segmentos y no ser excelente en ninguno —diluir capacidades en
   lugar de profundizar—.
 origin: "The Power MBA — Módulo 2.4 «Segmentación y targeting»"
-domain: [strategy, targeting, segmentation, business-model]
+domain: [strategy, targeting, segmentation, business-model, power-mba]
 
 llm_confidence: 0.50
 

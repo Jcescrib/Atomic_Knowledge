@@ -8,7 +8,7 @@ statement: >
   alcanzar la masa crítica capture el mercado, y cuando se dispone de una
   estrategia go-to-market única que permite llegar muy rápido a esa masa crítica.
 origin: "Reid Hoffman & Chris Yeh — «Blitzscaling»; The Power MBA — Módulo 4.5"
-domain: [estrategia, crecimiento, blitzscaling]
+domain: [estrategia, crecimiento, blitzscaling, power-mba]
 
 llm_confidence: 0.50
 

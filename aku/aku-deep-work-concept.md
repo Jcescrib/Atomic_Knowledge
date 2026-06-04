@@ -11,7 +11,7 @@ statement: >
   permita); implica un compromiso deliberado de sentarse regularmente a trabajar en
   tareas de alto impacto.
 origin: "Cal Newport — «Deep Work»; The Power MBA Módulo 7.1"
-domain: [leadership, productividad, foco, desarrollo-personal]
+domain: [leadership, productividad, foco, desarrollo-personal, power-mba]
 
 llm_confidence: 0.50
 

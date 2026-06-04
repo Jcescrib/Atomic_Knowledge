@@ -9,7 +9,7 @@ statement: >
   hacer frente a las obligaciones inmediatas; se distingue de la solvencia, que se
   refiere al largo plazo.
 origin: "The Power MBA — Módulo 9.2 «Ratios de análisis financiero»"
-domain: [finanzas, contabilidad, ratios]
+domain: [finanzas, contabilidad, ratios, power-mba]
 
 llm_confidence: 0.50
 

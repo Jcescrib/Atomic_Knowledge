@@ -4,7 +4,7 @@ taku_type: technique
 id: taku-analisis-situacion-laboral
 title: "Análisis de situación laboral (alineación trabajo–motivaciones)"
 origin: "The Power MBA — Módulo 8.1 «Herramientas de desarrollo personal»"
-domain: [desarrollo-personal, carrera, motivacion]
+domain: [desarrollo-personal, carrera, motivacion, power-mba]
 
 when_to_use: "Para evaluar si tu trabajo actual está alineado con tus motivaciones y fortalezas, y decidir el siguiente paso profesional."
 when_not_to_use: "Antes de haber identificado tus motivaciones y fortalezas; necesita esos inputs previos."

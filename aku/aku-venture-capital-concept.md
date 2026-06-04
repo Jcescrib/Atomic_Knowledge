@@ -10,7 +10,7 @@ statement: >
   que, por estadística, solo un 10-20% logra la rentabilidad esperada, y aporta
   know-how y networking a sus participadas (p. ej. Kibo Ventures, Samaipata).
 origin: "The Power MBA — Módulo 6.3 «Fuentes de financiación: quién»"
-domain: [emprendimiento, financiacion, venture-capital, inversion]
+domain: [emprendimiento, financiacion, venture-capital, inversion, power-mba]
 
 llm_confidence: 0.50
 

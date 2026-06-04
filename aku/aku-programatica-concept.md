@@ -9,7 +9,7 @@ statement: >
   implica simplificar y optimizar la publicación de anuncios display, aunque es
   más compleja de entender que de utilizar.
 origin: "The Power MBA — Módulo 5.4.1 «Atracción y branding»"
-domain: [marketing-digital, canales, programatica, paid-media]
+domain: [marketing-digital, canales, programatica, paid-media, power-mba]
 
 llm_confidence: 0.50
 

@@ -12,7 +12,7 @@ statement: >
   CLTV, y que el CLTV requerido depende del motor de crecimiento (alto en
   motores de pago, bajo aceptable en motores virales).
 origin: "The Power MBA — Módulo 2.2 «Motores de crecimiento — principales métricas»"
-domain: [growth, unit-economics, business-model, metrics]
+domain: [growth, unit-economics, business-model, metrics, power-mba]
 
 llm_confidence: 0.50
 

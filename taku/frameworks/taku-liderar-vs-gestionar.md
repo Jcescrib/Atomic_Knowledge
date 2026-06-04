@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-liderar-vs-gestionar
 title: "Liderar vs. gestionar — los dos roles del responsable"
 origin: "The Power MBA — Módulo 7.2 «Liderar a otros»"
-domain: [leadership, liderazgo, management]
+domain: [leadership, liderazgo, management, power-mba]
 
 when_to_use: "Para diagnosticar qué mezcla de gestión y liderazgo exige tu rol y dónde debes desarrollarte o complementarte."
 when_not_to_use: "Como dicotomía rígida: en la práctica ambos roles se ejercen a la vez; no sirve para etiquetar a las personas de forma permanente."

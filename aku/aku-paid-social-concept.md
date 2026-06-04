@@ -8,7 +8,7 @@ statement: >
   permite alcanzar públicos enormes y, a la vez, segmentar mucho más que en otros
   canales gracias a los datos de las plataformas.
 origin: "The Power MBA — Módulo 5.4.1 «Atracción y branding»"
-domain: [marketing-digital, canales, paid-social, paid-media]
+domain: [marketing-digital, canales, paid-social, paid-media, power-mba]
 
 llm_confidence: 0.50
 

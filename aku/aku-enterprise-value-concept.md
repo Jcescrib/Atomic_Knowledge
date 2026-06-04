@@ -10,7 +10,7 @@ statement: >
   incrementa el EV; excluye atribuir el valor solo a los fondos propios (eso es el
   Equity Value).
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion]
+domain: [finanzas, valoracion, power-mba]
 
 llm_confidence: 0.50
 

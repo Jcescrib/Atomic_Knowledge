@@ -10,7 +10,7 @@ statement: >
   la rentabilidad del equity (ROE), al riesgo y a la valoración; excluye la financiación
   operativa espontánea (proveedores).
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion, estructura-capital]
+domain: [finanzas, valoracion, estructura-capital, power-mba]
 
 llm_confidence: 0.50
 

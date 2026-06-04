@@ -8,7 +8,7 @@ statement: >
   voluntariamente un mal producto por mucho incentivo que se ofrezca, y si un
   producto malo no se usa, tampoco genera la viralización que nace del uso.
 origin: "The Power MBA — Módulo 5.8.1 «Recomendación y viralización»"
-domain: [marketing-digital, recomendacion, viralidad, producto]
+domain: [marketing-digital, recomendacion, viralidad, producto, power-mba]
 
 llm_confidence: 0.50
 

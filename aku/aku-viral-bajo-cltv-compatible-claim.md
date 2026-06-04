@@ -10,7 +10,7 @@ statement: >
   a la heurística estándar de unit economics que asume que un CLTV más alto
   es siempre mejor.
 origin: "The Power MBA — Módulo 2.2.1 «Tipos de motores de crecimiento»"
-domain: [growth, virality, unit-economics, monetization]
+domain: [growth, virality, unit-economics, monetization, power-mba]
 
 llm_confidence: 0.50
 

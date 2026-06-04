@@ -9,6 +9,7 @@ domain:
   - blue-ocean
   - value-proposition
   - competitive-strategy
+  - power-mba
 llm_confidence: 0.2
 human_certainty:
   status: unvalidated

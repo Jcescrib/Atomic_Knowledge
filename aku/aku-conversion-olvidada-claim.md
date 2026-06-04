@@ -9,7 +9,7 @@ statement: >
   de 0,5% a 1% triplica el margen bruto con la misma inversión en tráfico; además,
   atraer tráfico es cada día más caro y tiende a subir el CAC.
 origin: "The Power MBA — Módulo 5.3 «Visión estratégica»"
-domain: [marketing-digital, conversion, metricas]
+domain: [marketing-digital, conversion, metricas, power-mba]
 
 llm_confidence: 0.50
 

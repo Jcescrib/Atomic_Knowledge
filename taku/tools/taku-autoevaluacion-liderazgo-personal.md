@@ -4,7 +4,7 @@ taku_type: tool
 id: taku-autoevaluacion-liderazgo-personal
 title: "Autoevaluación para liderarse a uno mismo (Cuerpo · Mente · Alma)"
 origin: "The Power MBA — Módulo 7.1 «Liderarse a uno mismo»"
-domain: [leadership, autoconocimiento, bienestar]
+domain: [leadership, autoconocimiento, bienestar, power-mba]
 
 when_to_use: "Antes de decidir en qué trabajar para liderarte mejor, para diagnosticar con sinceridad tu estado en las tres áreas que sostienen el rendimiento del líder."
 when_not_to_use: "Como instrumento clínico o diagnóstico psicológico; es una herramienta de autorreflexión, no sustituye ayuda profesional ante señales graves."

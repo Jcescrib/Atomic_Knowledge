@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-lean-startup-method
 title: "Método Lean Startup (Eric Ries)"
 origin: "Eric Ries 2011 «The Lean Startup»; resumido en The Power MBA — Módulo 3.0.1"
-domain: [lean-startup, methodology, startup, innovation]
+domain: [lean-startup, methodology, startup, innovation, power-mba]
 
 when_to_use: >
   Cuando se afronta cualquier proyecto con grado de innovación o

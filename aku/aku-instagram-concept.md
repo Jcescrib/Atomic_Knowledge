@@ -10,7 +10,7 @@ statement: >
   negocios con contenido muy visual; su limitación principal es no poder compartir
   links directamente.
 origin: "The Power MBA — Módulo 12 «Social media» — Tabla comparativa RRSS"
-domain: [marketing-digital, social-media, canales]
+domain: [marketing-digital, social-media, canales, power-mba]
 
 llm_confidence: 0.50
 

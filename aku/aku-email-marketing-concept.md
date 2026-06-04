@@ -9,7 +9,7 @@ statement: >
   implica que, bien hecho, sigue funcionando muy bien pese a quienes lo dan por
   muerto.
 origin: "The Power MBA — Módulo 5.4.1 «Atracción y branding»"
-domain: [marketing-digital, canales, email, nurturing]
+domain: [marketing-digital, canales, email, nurturing, power-mba]
 
 llm_confidence: 0.50
 

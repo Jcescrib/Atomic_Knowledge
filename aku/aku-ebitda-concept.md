@@ -10,7 +10,7 @@ statement: >
   de rentabilidad operativa comparable entre empresas; excluye el efecto de la deuda,
   los impuestos y las inversiones en activo fijo.
 origin: "The Power MBA — Módulo 9.2/9.3 «Finanzas»"
-domain: [finanzas, contabilidad, rentabilidad]
+domain: [finanzas, contabilidad, rentabilidad, power-mba]
 
 llm_confidence: 0.50
 

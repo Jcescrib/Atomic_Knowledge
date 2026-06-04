@@ -9,7 +9,7 @@ statement: >
   futuro), perder el control de las emociones (reactividad), drenar la energía
   física y mental, y reducir las capacidades cognitivas y la productividad.
 origin: "The Power MBA — Módulo 7.1 «Liderarse a uno mismo»; tradición budista"
-domain: [leadership, mindfulness, bienestar, psicologia]
+domain: [leadership, mindfulness, bienestar, psicologia, power-mba]
 
 llm_confidence: 0.50
 

@@ -10,7 +10,7 @@ statement: >
   riesgos que otros no están dispuestos a asumir y se justifica solo cuando la
   oportunidad es enorme.
 origin: "Reid Hoffman & Chris Yeh — «Blitzscaling»; The Power MBA — Módulo 4.5"
-domain: [estrategia, crecimiento, blitzscaling]
+domain: [estrategia, crecimiento, blitzscaling, power-mba]
 
 llm_confidence: 0.50
 

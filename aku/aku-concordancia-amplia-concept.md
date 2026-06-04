@@ -9,7 +9,7 @@ statement: >
   poca relevancia (aparece muchas veces, no siempre en búsquedas de interés); excluye
   la restricción por orden o presencia exacta de términos.
 origin: "The Power MBA — Módulo 11 «Google Ads» — Concordancia de palabras clave"
-domain: [marketing-digital, sem, google-ads, keywords]
+domain: [marketing-digital, sem, google-ads, keywords, power-mba]
 
 llm_confidence: 0.50
 

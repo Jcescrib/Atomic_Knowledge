@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-estilos-liderazgo-situacional
 title: "Estilos de liderazgo y liderazgo situacional (autoritario ↔ delegativo)"
 origin: "The Power MBA — Módulo 7.2 «Liderar a otros»"
-domain: [leadership, liderazgo, estilos]
+domain: [leadership, liderazgo, estilos, power-mba]
 
 when_to_use: "Para elegir el estilo de liderazgo adecuado adaptándote a la competencia y compromiso del equipo y a las necesidades de la situación."
 when_not_to_use: "Buscando un único estilo 'correcto' que aplicar siempre: el marco niega que exista."

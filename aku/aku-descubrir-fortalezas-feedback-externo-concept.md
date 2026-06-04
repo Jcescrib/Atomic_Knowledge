@@ -9,7 +9,7 @@ statement: >
   ciegos); implica que la autopercepción es incompleta y se enriquece con la mirada
   ajena; excluye basar el autoconocimiento solo en la introspección individual.
 origin: "The Power MBA — Módulo 8.1 «Herramientas de desarrollo personal»"
-domain: [desarrollo-personal, autoconocimiento, feedback]
+domain: [desarrollo-personal, autoconocimiento, feedback, power-mba]
 
 llm_confidence: 0.50
 

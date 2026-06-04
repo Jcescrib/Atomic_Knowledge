@@ -11,7 +11,7 @@ statement: >
   growth: + media 4 equity; expansion: + socio industrial) y que acudir a ciertos
   inversores antes de la fase adecuada (p. ej. a un VC en seed) no funciona.
 origin: "The Power MBA — Módulo 6.3 «Fuentes de financiación: quién»"
-domain: [emprendimiento, financiacion, startup, fases]
+domain: [emprendimiento, financiacion, startup, fases, power-mba]
 
 llm_confidence: 0.50
 

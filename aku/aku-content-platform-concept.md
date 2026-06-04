@@ -11,7 +11,7 @@ statement: >
   monetizar vía modelo free (anuncios sobre la atención) y/o premium
   complementario.
 origin: "The Power MBA — Módulo 2.3 «Conceptos clave de las plataformas»"
-domain: [business-model, platform, content, attention-economy]
+domain: [business-model, platform, content, attention-economy, power-mba]
 
 llm_confidence: 0.50
 

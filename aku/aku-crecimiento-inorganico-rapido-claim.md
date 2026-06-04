@@ -9,7 +9,7 @@ statement: >
   más complejas y arriesgadas, y su integración posterior puede fracasar por el
   choque de culturas distintas.
 origin: "The Power MBA — Módulo 4.3 «Estrategias de crecimiento»"
-domain: [estrategia, crecimiento, m-and-a]
+domain: [estrategia, crecimiento, m-and-a, power-mba]
 
 llm_confidence: 0.50
 

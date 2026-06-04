@@ -11,7 +11,7 @@ statement: >
   fortalezas reales de la empresa; implica elegir una posición que separe a la
   marca de sus competidores en lugar de intentar ser muchas cosas a la vez.
 origin: "The Power MBA — Módulo 4.4 «Branding»"
-domain: [marketing, branding, posicionamiento]
+domain: [marketing, branding, posicionamiento, power-mba]
 
 llm_confidence: 0.50
 

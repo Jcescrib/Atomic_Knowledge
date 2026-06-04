@@ -11,7 +11,7 @@ statement: >
   YouTube); implica que no hay una red «mejor», sino la más adecuada a cada negocio y
   objetivo.
 origin: "The Power MBA — Módulo 12 «Social media» — Tabla comparativa RRSS"
-domain: [marketing-digital, social-media, canales]
+domain: [marketing-digital, social-media, canales, power-mba]
 
 llm_confidence: 0.50
 

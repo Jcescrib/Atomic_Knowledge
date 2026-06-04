@@ -8,7 +8,7 @@ statement: >
   marketing se aplica con lead magnets, value marketing, nurturing con contenido
   de valor y samples o muestras gratuitas.
 origin: "Robert Cialdini — «Influence»; The Power MBA — Módulo 5.1 «Power Selling»"
-domain: [marketing, persuasion, psicologia]
+domain: [marketing, persuasion, psicologia, power-mba]
 
 llm_confidence: 0.50
 

@@ -9,7 +9,7 @@ statement: >
   Beneficios/Costes es mayor que 1; sin esa condición la propuesta no se
   contrata, contrata mal o se contrata pero genera insatisfacción.
 origin: "The Power MBA — Módulo 2.5 «Conceptos clave: propuesta de valor»"
-domain: [value-proposition, methodology, decision-making]
+domain: [value-proposition, methodology, decision-making, power-mba]
 
 llm_confidence: 0.50
 

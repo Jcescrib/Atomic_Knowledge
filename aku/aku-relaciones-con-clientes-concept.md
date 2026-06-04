@@ -13,7 +13,7 @@ statement: >
   impacta los costes operativos, la fidelización y la diferenciación
   competitiva del modelo.
 origin: "The Power MBA — Módulo 2.1 «Análisis de un modelo de negocio: Innovación BMC»"
-domain: [business-model, bmc, customer, relationship]
+domain: [business-model, bmc, customer, relationship, power-mba]
 
 llm_confidence: 0.50
 

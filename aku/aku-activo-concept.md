@@ -9,7 +9,7 @@ statement: >
   plazo) y activo no corriente (permanencia a largo plazo); implica que su importe
   total iguala la suma de pasivo y patrimonio neto.
 origin: "The Power MBA — Módulo 9.1 «Balance de situación»"
-domain: [finanzas, contabilidad, estados-financieros]
+domain: [finanzas, contabilidad, estados-financieros, power-mba]
 
 llm_confidence: 0.50
 

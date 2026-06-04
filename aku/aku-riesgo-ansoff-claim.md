@@ -8,7 +8,7 @@ statement: >
   (mercado y producto actuales) y máximo en la diversificación (mercado y
   producto nuevos).
 origin: "Igor Ansoff — Matriz de Ansoff; The Power MBA — Módulo 4.3"
-domain: [estrategia, crecimiento, ansoff, riesgo]
+domain: [estrategia, crecimiento, ansoff, riesgo, power-mba]
 
 llm_confidence: 0.50
 

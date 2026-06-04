@@ -7,7 +7,7 @@ statement: >
   a equipos y organizaciones; el autoliderazgo es prerequisito de las capas
   externas, no un complemento opcional.
 origin: "The Power MBA — Módulo 7.1 «Liderarse a uno mismo»"
-domain: [leadership, liderazgo, desarrollo-personal]
+domain: [leadership, liderazgo, desarrollo-personal, power-mba]
 
 llm_confidence: 0.50
 

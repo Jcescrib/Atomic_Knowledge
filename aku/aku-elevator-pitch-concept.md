@@ -12,7 +12,7 @@ statement: >
   gran oportunidad, equipo, visión, hitos/tracción); implica condensar la
   propuesta en pocas frases memorables.
 origin: "The Power MBA — Módulo 6.3 «Templates Elevator Pitch»"
-domain: [emprendimiento, pitch, comunicacion, ventas]
+domain: [emprendimiento, pitch, comunicacion, ventas, power-mba]
 
 llm_confidence: 0.50
 

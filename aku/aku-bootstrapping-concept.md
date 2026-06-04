@@ -10,7 +10,7 @@ statement: >
   limitado por los recursos disponibles, y está presente como opción en todas las
   fases de financiación.
 origin: "The Power MBA — Módulo 6.3 «Fuentes de financiación: quién»"
-domain: [emprendimiento, financiacion, bootstrap, startup]
+domain: [emprendimiento, financiacion, bootstrap, startup, power-mba]
 
 llm_confidence: 0.50
 

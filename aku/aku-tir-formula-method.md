@@ -9,7 +9,7 @@ statement: >
   obtenida, se interpreta comparándola con la rentabilidad exigida k (si TIR > k la
   inversión es atractiva).
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion, inversion]
+domain: [finanzas, valoracion, inversion, power-mba]
 
 llm_confidence: 0.50
 

@@ -13,7 +13,7 @@ statement: >
   dificultad de calcular el CLTV de forma fiable en negocios jóvenes sin
   histórico representativo. Ejemplos: Netflix, Tulotero.
 origin: "The Power MBA — Módulo 2.2.1 «Tipos de motores de crecimiento»"
-domain: [growth, business-model, retention, subscription, capital-intensive]
+domain: [growth, business-model, retention, subscription, capital-intensive, power-mba]
 
 llm_confidence: 0.50
 

@@ -14,7 +14,7 @@ statement: >
   causa-efecto entre acciones del equipo y movimiento de la métrica es
   rastreable.
 origin: "The Power MBA — Módulo 3.0.1 «El método Lean Startup» (Eric Ries)"
-domain: [lean-startup, metrics, methodology, unit-economics]
+domain: [lean-startup, metrics, methodology, unit-economics, power-mba]
 
 llm_confidence: 0.50
 

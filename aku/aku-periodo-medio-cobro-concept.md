@@ -8,7 +8,7 @@ statement: >
   componentes que alargan el ciclo de working capital; implica que un PMC mayor aumenta
   las necesidades operativas de fondos; excluye el tiempo de pago a proveedores (PMP).
 origin: "The Power MBA — Módulo 9.2 «Ratios de análisis financiero»"
-domain: [finanzas, contabilidad, working-capital]
+domain: [finanzas, contabilidad, working-capital, power-mba]
 
 llm_confidence: 0.50
 

@@ -7,7 +7,7 @@ statement: >
   ARPU multiplicado por el lifetime esperado del cliente, ambos expresados
   en la misma unidad temporal (CLTV = ARPU × lifetime).
 origin: "The Power MBA — Módulo 2.2 «Motores de crecimiento — principales métricas»"
-domain: [growth, unit-economics, subscription, metrics]
+domain: [growth, unit-economics, subscription, metrics, power-mba]
 
 llm_confidence: 0.50
 

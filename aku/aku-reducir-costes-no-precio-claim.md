@@ -10,7 +10,7 @@ statement: >
   preferible operar sobre la dimensión amplia del coste antes que sobre el
   precio.
 origin: "The Power MBA — Módulo 2.5 «Conceptos clave: propuesta de valor»"
-domain: [value-proposition, pricing, margin, strategy]
+domain: [value-proposition, pricing, margin, strategy, power-mba]
 
 llm_confidence: 0.50
 

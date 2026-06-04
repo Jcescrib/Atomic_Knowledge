@@ -12,7 +12,7 @@ statement: >
   y de los primeros empleados cambia en cada transición, pasando de ejecutar a
   diseñar la organización.
 origin: "Reid Hoffman & Chris Yeh — «Blitzscaling»; The Power MBA — Módulo 4.5"
-domain: [estrategia, crecimiento, organizacion]
+domain: [estrategia, crecimiento, organizacion, power-mba]
 
 llm_confidence: 0.50
 

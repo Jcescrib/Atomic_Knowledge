@@ -14,7 +14,7 @@ statement: >
   del comportamiento «borrego» —imitación recíproca entre competidores que
   va tiñendo el sector de rojo—.
 origin: "The Power MBA — Módulo 2.6 «Cómo crear propuestas de valor disruptivas y buscar tu océano azul»"
-domain: [strategy, blue-ocean, competition, market-structure]
+domain: [strategy, blue-ocean, competition, market-structure, power-mba]
 
 llm_confidence: 0.50
 

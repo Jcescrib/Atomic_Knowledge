@@ -14,7 +14,7 @@ statement: >
   océano azul, combinando reducción/eliminación de costes con
   incremento/creación de valor.
 origin: "The Power MBA — Módulo 2.6 «Cómo crear propuestas de valor disruptivas y buscar tu océano azul»"
-domain: [strategy, blue-ocean, value-proposition, innovation]
+domain: [strategy, blue-ocean, value-proposition, innovation, power-mba]
 
 llm_confidence: 0.50
 

@@ -9,7 +9,7 @@ statement: >
   corriente determina la liquidez de la empresa; excluye los activos de permanencia
   prolongada (inmovilizado).
 origin: "The Power MBA — Módulo 9.1 «Balance de situación»"
-domain: [finanzas, contabilidad, estados-financieros]
+domain: [finanzas, contabilidad, estados-financieros, power-mba]
 
 llm_confidence: 0.50
 

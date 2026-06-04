@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-estrategias-targeting
 title: "Estrategias de targeting — mass market, segmentado, nicho"
 origin: "The Power MBA — Módulo 2.4 «Segmentación y targeting»"
-domain: [strategy, targeting, segmentation, business-model]
+domain: [strategy, targeting, segmentation, business-model, power-mba]
 
 when_to_use: >
   Cuando se necesita decidir a quién dirigir el modelo de negocio

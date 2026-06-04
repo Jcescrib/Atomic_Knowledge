@@ -7,7 +7,7 @@ statement: >
   ofreciendo lo mismo, guerras de precios, sectores en fase de madurez), menores
   son las rentabilidades que obtienen sus empresas.
 origin: "Michael Porter — Competitive Strategy"
-domain: [estrategia, analisis-sectorial, rentabilidad]
+domain: [estrategia, analisis-sectorial, rentabilidad, power-mba]
 
 llm_confidence: 0.50
 

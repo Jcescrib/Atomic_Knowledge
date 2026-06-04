@@ -12,7 +12,7 @@ statement: >
   implica que anticipar y neutralizar la objeción y cuantificar el resultado aumenta el
   atractivo del titular.
 origin: "The Power MBA — Módulo 20 «Copywriting» — Fórmulas para títulos potentes"
-domain: [marketing-digital, copywriting, headlines]
+domain: [marketing-digital, copywriting, headlines, power-mba]
 
 llm_confidence: 0.50
 

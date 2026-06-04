@@ -10,7 +10,7 @@ statement: >
   que ayuda a la ejecución sirviendo de referencia para definir los objetivos
   estratégicos y como meta motivacional.
 origin: "The Power MBA — Módulo 7.2 «Liderar a otros»"
-domain: [leadership, estrategia, vision, organizacion]
+domain: [leadership, estrategia, vision, organizacion, power-mba]
 
 llm_confidence: 0.50
 

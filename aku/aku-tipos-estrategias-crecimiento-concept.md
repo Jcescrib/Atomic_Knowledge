@@ -12,7 +12,7 @@ statement: >
   velocidad); implica elegir la estrategia según el momento del negocio y su nivel
   de incertidumbre.
 origin: "Reid Hoffman & Chris Yeh — «Blitzscaling»; The Power MBA — Módulo 4.5"
-domain: [estrategia, crecimiento, blitzscaling]
+domain: [estrategia, crecimiento, blitzscaling, power-mba]
 
 llm_confidence: 0.50
 

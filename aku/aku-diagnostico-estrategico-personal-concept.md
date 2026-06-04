@@ -11,7 +11,7 @@ statement: >
   herramientas prácticas de coaching para guiar el autoconocimiento; excluye
   «dejarse llevar por la corriente» sin plan personal explícito.
 origin: "The Power MBA — Módulo 8.1 «Diagnóstico estratégico personal»"
-domain: [leadership, desarrollo-personal, estrategia, autoconocimiento]
+domain: [leadership, desarrollo-personal, estrategia, autoconocimiento, power-mba]
 
 llm_confidence: 0.50
 

@@ -10,7 +10,7 @@ statement: >
   directamente el Equity Value; excluye el valor de la deuda (que sí forma parte del
   Enterprise Value).
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion]
+domain: [finanzas, valoracion, power-mba]
 
 llm_confidence: 0.50
 

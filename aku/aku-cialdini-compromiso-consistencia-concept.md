@@ -8,7 +8,7 @@ statement: >
   de forma consistente con ese compromiso; en marketing se aplica con encuestas y
   con procesos de venta de plazos definidos que provocan micro-compromisos.
 origin: "Robert Cialdini — «Influence»; The Power MBA — Módulo 5.1 «Power Selling»"
-domain: [marketing, persuasion, psicologia]
+domain: [marketing, persuasion, psicologia, power-mba]
 
 llm_confidence: 0.50
 

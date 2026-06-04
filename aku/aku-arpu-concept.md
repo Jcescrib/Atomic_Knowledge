@@ -10,7 +10,7 @@ statement: >
   proxy de la calidad de monetización por unidad de cliente y un input
   directo de la fórmula de CLTV en modelos de suscripción.
 origin: "The Power MBA — Módulo 2.2 «Motores de crecimiento — principales métricas»"
-domain: [growth, unit-economics, metrics, monetization]
+domain: [growth, unit-economics, metrics, monetization, power-mba]
 
 llm_confidence: 0.50
 

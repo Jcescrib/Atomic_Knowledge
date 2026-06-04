@@ -11,7 +11,7 @@ statement: >
   subsidios, o estrategias de bootstrapping unilateral) es el reto operativo
   central de lanzamiento, conocido como el problema del huevo y la gallina.
 origin: "The Power MBA — Módulo 2.3 «Conceptos clave de las plataformas»"
-domain: [business-model, platform, network-effects, bootstrapping]
+domain: [business-model, platform, network-effects, bootstrapping, power-mba]
 
 llm_confidence: 0.50
 

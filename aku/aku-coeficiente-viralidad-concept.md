@@ -12,7 +12,7 @@ statement: >
   sin inversión adicional, mientras que un coeficiente menor que 1 obliga al
   motor a complementarse con canales pagados para mantener el ritmo.
 origin: "The Power MBA — Módulo 2.2.1 «Tipos de motores de crecimiento»"
-domain: [growth, virality, metrics, network-effects]
+domain: [growth, virality, metrics, network-effects, power-mba]
 
 llm_confidence: 0.50
 

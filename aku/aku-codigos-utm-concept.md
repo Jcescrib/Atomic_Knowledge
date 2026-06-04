@@ -11,7 +11,7 @@ statement: >
   bannerlink); implica poder atribuir con precisión las visitas y conversiones a cada
   acción de marketing.
 origin: "The Power MBA — Módulo 15 «Analítica» — Códigos UTM"
-domain: [marketing-digital, analitica, atribucion]
+domain: [marketing-digital, analitica, atribucion, power-mba]
 
 llm_confidence: 0.50
 

@@ -12,7 +12,7 @@ statement: >
   media de una página a los ingresos); implica distinguir visitantes, visitas y
   páginas para interpretar bien los datos.
 origin: "The Power MBA — Módulo 15 «Analítica» — Principales métricas de Google Analytics"
-domain: [marketing-digital, analitica, metricas]
+domain: [marketing-digital, analitica, metricas, power-mba]
 
 llm_confidence: 0.50
 

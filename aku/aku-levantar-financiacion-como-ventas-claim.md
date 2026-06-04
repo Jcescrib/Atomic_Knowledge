@@ -9,7 +9,7 @@ statement: >
   fracasan en captar fondos porque no saben cómo piensa un inversor y porque, aun
   teniendo buenos proyectos, no son capaces de «vender» su proyecto.
 origin: "The Power MBA — Módulo 6.3 «Vender tu proyecto / relación con inversores»"
-domain: [emprendimiento, financiacion, ventas, comunicacion]
+domain: [emprendimiento, financiacion, ventas, comunicacion, power-mba]
 
 llm_confidence: 0.50
 

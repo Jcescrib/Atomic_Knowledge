@@ -12,7 +12,7 @@ statement: >
   antes se puede reinvertir el margen en marketing y crecer sin financiación
   externa adicional). Ejemplos: Hawkers, e-commerce de productos.
 origin: "The Power MBA — Módulo 2.2.1 «Tipos de motores de crecimiento»"
-domain: [growth, business-model, paid-acquisition, unit-economics]
+domain: [growth, business-model, paid-acquisition, unit-economics, power-mba]
 
 llm_confidence: 0.50
 

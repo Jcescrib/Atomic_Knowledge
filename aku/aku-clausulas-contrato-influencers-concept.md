@@ -11,7 +11,7 @@ statement: >
   envío de resultados/estadísticas de la acción; implica que cuanto más específicas
   son las cláusulas, mejor se ejecuta y se mide la campaña.
 origin: "The Power MBA — Módulo 14 «Marketing de influencers» — Cláusulas de contrato (incl. modelo C21BeBrave)"
-domain: [marketing-digital, influencer-marketing, legal]
+domain: [marketing-digital, influencer-marketing, legal, power-mba]
 
 llm_confidence: 0.50
 

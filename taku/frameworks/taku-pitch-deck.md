@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-pitch-deck
 title: "Estructura del Pitch Deck para inversores"
 origin: "The Power MBA — Módulo 6.3 «Estructura del Pitch Deck»"
-domain: [emprendimiento, financiacion, pitch, comunicacion]
+domain: [emprendimiento, financiacion, pitch, comunicacion, power-mba]
 
 when_to_use: >
   Al preparar la presentación con la que se busca financiación: estructurar el

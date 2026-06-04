@@ -8,7 +8,7 @@ statement: >
   acción de marketing, de una forma u otra, debe orientarse a mejorar al menos
   uno de estos tres objetivos.
 origin: "The Power MBA — Módulo 5.3 «Visión estratégica»"
-domain: [marketing-digital, estrategia, objetivos, finanzas]
+domain: [marketing-digital, estrategia, objetivos, finanzas, power-mba]
 
 llm_confidence: 0.50
 

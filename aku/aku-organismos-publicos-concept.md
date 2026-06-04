@@ -8,7 +8,7 @@ statement: >
   recomienda que la viabilidad del cash-flow o del negocio no dependa de este tipo
   de financiación.
 origin: "The Power MBA — Módulo 6.3 «Fuentes de financiación: quién»"
-domain: [emprendimiento, financiacion, sector-publico]
+domain: [emprendimiento, financiacion, sector-publico, power-mba]
 
 llm_confidence: 0.50
 

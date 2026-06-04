@@ -11,7 +11,7 @@ statement: >
   inbound; implica construir activos de contenido que generan tráfico sostenible
   en el tiempo.
 origin: "The Power MBA — Módulo 5.4 «Atracción / marketing de contenidos»"
-domain: [marketing-digital, canales, contenidos, inbound]
+domain: [marketing-digital, canales, contenidos, inbound, power-mba]
 
 llm_confidence: 0.50
 

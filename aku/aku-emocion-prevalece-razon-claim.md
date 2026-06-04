@@ -10,7 +10,7 @@ statement: >
   beneficios emocionales (no solo funcionales), conectándolos a las
   «cosas importantes» que verdaderamente movilizan al cliente.
 origin: "The Power MBA — Módulo 2.5 «Conceptos clave: propuesta de valor»"
-domain: [value-proposition, marketing, decision-making, behavioral-economics]
+domain: [value-proposition, marketing, decision-making, behavioral-economics, power-mba]
 
 llm_confidence: 0.50
 

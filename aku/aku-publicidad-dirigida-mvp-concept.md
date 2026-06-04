@@ -10,7 +10,7 @@ statement: >
   decidir si construir el producto en función de la respuesta medida (clics, leads,
   conversiones).
 origin: "The Power MBA — Módulo 3.0.1 «El método Lean Startup» (Eric Ries)"
-domain: [lean-startup, mvp, validation, paid-media]
+domain: [lean-startup, mvp, validation, paid-media, power-mba]
 
 llm_confidence: 0.50
 

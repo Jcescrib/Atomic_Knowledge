@@ -8,7 +8,7 @@ statement: >
   liquidez = Activo Corriente / Pasivo Corriente; un valor superior a 1 indica que el
   activo corriente cubre las deudas a corto plazo (fondo de maniobra positivo).
 origin: "The Power MBA — Módulo 9.2 «Ratios de análisis financiero»"
-domain: [finanzas, contabilidad, ratios]
+domain: [finanzas, contabilidad, ratios, power-mba]
 
 llm_confidence: 0.50
 

@@ -8,7 +8,7 @@ statement: >
   donde Margen Bruto = Ventas − Coste de mercancías vendidas; expresa en porcentaje
   cuánto queda de cada euro vendido tras el coste directo del producto.
 origin: "The Power MBA — Módulo 9.2 «Ratios de análisis financiero»"
-domain: [finanzas, contabilidad, rentabilidad]
+domain: [finanzas, contabilidad, rentabilidad, power-mba]
 
 llm_confidence: 0.50
 

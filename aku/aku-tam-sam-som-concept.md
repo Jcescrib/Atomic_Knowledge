@@ -14,7 +14,7 @@ statement: >
   plan de captación, y que confundir niveles —usar TAM como si fuera SOM— es
   la base estructural de la falacia del 1%.
 origin: "The Power MBA — Módulo 2.4 «Segmentación y targeting»"
-domain: [market-sizing, targeting, strategy, financial-modeling]
+domain: [market-sizing, targeting, strategy, financial-modeling, power-mba]
 
 llm_confidence: 0.50
 

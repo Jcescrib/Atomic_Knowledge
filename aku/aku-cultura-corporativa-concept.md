@@ -11,7 +11,7 @@ statement: >
   misión/visión/valores y vinculada a la estrategia; implica que afecta a todo
   (marca, clientes, motivación, éxito o fracaso).
 origin: "The Power MBA — Módulo 7.2 «Liderar a otros»"
-domain: [leadership, cultura, organizacion]
+domain: [leadership, cultura, organizacion, power-mba]
 
 llm_confidence: 0.50
 

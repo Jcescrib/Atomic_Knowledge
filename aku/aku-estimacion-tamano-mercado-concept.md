@@ -10,7 +10,7 @@ statement: >
   extrapolar); implica que conviene incorporar siempre el enfoque bottom-up para
   evitar estimaciones desconectadas de la realidad observable.
 origin: "The Power MBA — Módulo 2.4 «Segmentación y targeting»"
-domain: [market-sizing, methodology, estimation, startup]
+domain: [market-sizing, methodology, estimation, startup, power-mba]
 
 llm_confidence: 0.50
 

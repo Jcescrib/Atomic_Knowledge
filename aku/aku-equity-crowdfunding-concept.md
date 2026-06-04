@@ -10,7 +10,7 @@ statement: >
   inversora sin «desgastarse» en la búsqueda y gestión individual de inversores
   (p. ej. Startupxplore).
 origin: "The Power MBA — Módulo 6.3 «Fuentes de financiación: quién»"
-domain: [emprendimiento, financiacion, crowdfunding, inversion]
+domain: [emprendimiento, financiacion, crowdfunding, inversion, power-mba]
 
 llm_confidence: 0.50
 

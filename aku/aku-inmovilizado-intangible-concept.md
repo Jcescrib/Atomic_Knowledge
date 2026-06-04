@@ -8,7 +8,7 @@ statement: >
   incluye que forma parte del activo no corriente; implica que se amortiza a lo
   largo de su vida útil; en el PGC se registra en las cuentas 201 a 206.
 origin: "The Power MBA — Módulo 9.1 «Balance de situación»; PGC español"
-domain: [finanzas, contabilidad, inmovilizado]
+domain: [finanzas, contabilidad, inmovilizado, power-mba]
 
 llm_confidence: 0.50
 

@@ -8,7 +8,7 @@ statement: >
   que el equity no; a mayor proporción de deuda, mayor riesgo financiero soportado por
   la empresa.
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, estructura-capital, riesgo]
+domain: [finanzas, estructura-capital, riesgo, power-mba]
 
 llm_confidence: 0.50
 

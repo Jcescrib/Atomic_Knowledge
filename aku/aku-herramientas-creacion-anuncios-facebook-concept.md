@@ -11,7 +11,7 @@ statement: >
   que la mayoría son freemium, con limitaciones (marca de agua, nº de descargas) en
   los planes gratuitos.
 origin: "The Power MBA — Módulo 18 «Facebook & Instagram Ads» — Herramientas para crear anuncios"
-domain: [marketing-digital, paid-social, facebook-ads, contenido]
+domain: [marketing-digital, paid-social, facebook-ads, contenido, power-mba]
 
 llm_confidence: 0.50
 

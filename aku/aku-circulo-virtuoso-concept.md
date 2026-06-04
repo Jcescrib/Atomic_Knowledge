@@ -12,7 +12,7 @@ statement: >
   estructura de incentivos que explica por qué plataformas dominantes se
   auto-refuerzan.
 origin: "The Power MBA — Módulo 2.3 «Conceptos clave de las plataformas»"
-domain: [business-model, platform, network-effects, competitive-advantage]
+domain: [business-model, platform, network-effects, competitive-advantage, power-mba]
 
 llm_confidence: 0.50
 

@@ -8,7 +8,7 @@ statement: >
   con interés simple los intereses se calculan siempre sobre el capital inicial y no se
   acumulan (solo el capital inicial genera intereses).
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion, time-value]
+domain: [finanzas, valoracion, time-value, power-mba]
 
 llm_confidence: 0.50
 

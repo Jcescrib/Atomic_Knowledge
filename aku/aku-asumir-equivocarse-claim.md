@@ -11,7 +11,7 @@ statement: >
   construir el producto completo basado en supuestos no validados y
   descubrir el error tarde (cuando ya se ha invertido tiempo y dinero).
 origin: "The Power MBA — Módulo 3.0.1 «El método Lean Startup» (Eric Ries)"
-domain: [lean-startup, methodology, decision-making, risk]
+domain: [lean-startup, methodology, decision-making, risk, power-mba]
 
 llm_confidence: 0.50
 

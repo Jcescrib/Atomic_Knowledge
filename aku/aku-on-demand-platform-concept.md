@@ -12,7 +12,7 @@ statement: >
   consistencia de experiencia del cliente, y un modelo de monetización
   centrado en comisiones porcentuales por uso.
 origin: "The Power MBA — Módulo 2.3 «Conceptos clave de las plataformas»"
-domain: [business-model, platform, on-demand, service-marketplace]
+domain: [business-model, platform, on-demand, service-marketplace, power-mba]
 
 llm_confidence: 0.50
 

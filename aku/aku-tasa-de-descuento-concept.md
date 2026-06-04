@@ -9,7 +9,7 @@ statement: >
   implica que a mayor riesgo se exige mayor rentabilidad, mayor tasa y por tanto menor
   valor actual de la inversión; excluye la rentabilidad esperada (esa es la TIR).
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion, time-value]
+domain: [finanzas, valoracion, time-value, power-mba]
 
 llm_confidence: 0.50
 

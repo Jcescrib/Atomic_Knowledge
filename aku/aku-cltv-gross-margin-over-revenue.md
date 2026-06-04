@@ -7,7 +7,7 @@ statement: >
   resultados más útiles para la toma de decisiones que usar el ingreso
   total.
 origin: "The Power MBA — Módulo 2.2 «Motores de crecimiento — principales métricas»"
-domain: [growth, unit-economics, measurement, business-model]
+domain: [growth, unit-economics, measurement, business-model, power-mba]
 
 llm_confidence: 0.50
 

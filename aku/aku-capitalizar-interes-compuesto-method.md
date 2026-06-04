@@ -8,7 +8,7 @@ statement: >
   interés compuesto los intereses se calculan sobre el capital más los intereses ya
   acumulados, por lo que el crecimiento es exponencial.
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion, time-value]
+domain: [finanzas, valoracion, time-value, power-mba]
 
 llm_confidence: 0.50
 

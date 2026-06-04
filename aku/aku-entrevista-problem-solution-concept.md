@@ -15,7 +15,7 @@ statement: >
   positivo (señales de compra que no se materializan) más que de cubrir
   muchos entrevistados.
 origin: "The Power MBA — Módulo 3.0.2 «Probando modelos de negocio»"
-domain: [lean-startup, customer-development, mvp, interviews]
+domain: [lean-startup, customer-development, mvp, interviews, power-mba]
 
 llm_confidence: 0.50
 

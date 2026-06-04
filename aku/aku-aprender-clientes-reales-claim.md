@@ -11,7 +11,7 @@ statement: >
   los no-clientes no tienen el problema y por tanto no pueden señalar
   qué solución funcionaría para resolverlo.
 origin: "The Power MBA — Módulo 3.0.1 «El método Lean Startup» (Eric Ries)"
-domain: [lean-startup, methodology, validation, customer-development]
+domain: [lean-startup, methodology, validation, customer-development, power-mba]
 
 llm_confidence: 0.50
 

@@ -11,7 +11,7 @@ statement: >
   hacia fuera; implica que «la gente no compra lo que haces, compra el porqué lo
   haces».
 origin: "Simon Sinek — «Start With Why»; The Power MBA — Módulo 4.4"
-domain: [marketing, branding, proposito]
+domain: [marketing, branding, proposito, power-mba]
 
 llm_confidence: 0.50
 

@@ -12,7 +12,7 @@ statement: >
   definir el objetivo de marca, analizar si los mensajes actuales contribuyen a
   él y activar iniciativas concretas (mensaje, objetivo, canales).
 origin: "The Power MBA — Módulo 4.4 «Branding»"
-domain: [marketing, branding, plan-de-marca]
+domain: [marketing, branding, plan-de-marca, power-mba]
 
 llm_confidence: 0.50
 

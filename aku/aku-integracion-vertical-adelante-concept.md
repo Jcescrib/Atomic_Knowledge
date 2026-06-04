@@ -12,7 +12,7 @@ statement: >
   de distribuidores poderosos, desarrollar ventajas competitivas y barreras de
   entrada, y reducir costes logísticos.
 origin: "The Power MBA — Módulo 4.3 «Estrategias de crecimiento»"
-domain: [estrategia, crecimiento, integracion-vertical]
+domain: [estrategia, crecimiento, integracion-vertical, power-mba]
 
 llm_confidence: 0.50
 

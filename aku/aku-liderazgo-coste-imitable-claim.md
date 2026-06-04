@@ -9,7 +9,7 @@ statement: >
   sostenible es la economía de escala, que una vez alcanzada actúa como barrera
   de entrada.
 origin: "The Power MBA — Módulo 4.2 «Estrategias competitivas»"
-domain: [estrategia, competencia, liderazgo-en-coste]
+domain: [estrategia, competencia, liderazgo-en-coste, power-mba]
 
 llm_confidence: 0.50
 

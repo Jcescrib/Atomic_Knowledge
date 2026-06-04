@@ -9,7 +9,7 @@ statement: >
   riesgo percibido, mayor prima exigida y menor valor actual de los flujos; excluye la
   parte de la rentabilidad atribuible al activo libre de riesgo.
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion, riesgo]
+domain: [finanzas, valoracion, riesgo, power-mba]
 
 llm_confidence: 0.50
 

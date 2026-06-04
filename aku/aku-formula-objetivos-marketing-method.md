@@ -12,7 +12,7 @@ statement: >
   de los objetivos se traduce en mover al menos una palanca (más tráfico, más
   conversión, más CLTV o menos CAC).
 origin: "The Power MBA — Módulo 5.3.2 «Objetivos: fórmula que lo relaciona todo»"
-domain: [marketing-digital, metricas, unit-economics, formulas]
+domain: [marketing-digital, metricas, unit-economics, formulas, power-mba]
 
 llm_confidence: 0.50
 

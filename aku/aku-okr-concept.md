@@ -11,7 +11,7 @@ statement: >
   entre sí; implica transparencia total (todos ven los OKR de todos) y revisión
   puntual con escalas de seguimiento.
 origin: "The Power MBA — Módulo 7.2; John Doerr / Andy Grove (Google, Intel)"
-domain: [leadership, objetivos, gestion, organizacion]
+domain: [leadership, objetivos, gestion, organizacion, power-mba]
 
 llm_confidence: 0.50
 

@@ -12,7 +12,7 @@ statement: >
   el margen), y que los mensajes de marketing potentes apelan a la
   reducción concreta de costes percibidos (no solo precio).
 origin: "The Power MBA — Módulo 2.5 «Conceptos clave: propuesta de valor»"
-domain: [value-proposition, customer, cost, marketing]
+domain: [value-proposition, customer, cost, marketing, power-mba]
 
 llm_confidence: 0.50
 

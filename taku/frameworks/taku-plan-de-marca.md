@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-plan-de-marca
 title: "Plan de marca (modelo The Power MBA)"
 origin: "The Power MBA — Módulo 4.4 «Branding»"
-domain: [marketing, branding, plan-de-marca]
+domain: [marketing, branding, plan-de-marca, power-mba]
 
 when_to_use: >
   Al construir o reordenar una marca de forma integral: definir sus cimientos,

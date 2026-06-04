@@ -8,7 +8,7 @@ statement: >
   productos actuales; es la estrategia de menor riesgo y la opción natural
   mientras se pueda seguir creciendo por esta vía.
 origin: "Igor Ansoff — Matriz de Ansoff; The Power MBA — Módulo 4.3"
-domain: [estrategia, crecimiento, ansoff]
+domain: [estrategia, crecimiento, ansoff, power-mba]
 
 llm_confidence: 0.50
 

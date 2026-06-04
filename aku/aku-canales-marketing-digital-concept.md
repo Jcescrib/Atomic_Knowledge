@@ -13,7 +13,7 @@ statement: >
   velocidad, medición y capacidad de segmentación, y que conviene combinarlos
   según el negocio.
 origin: "The Power MBA — Módulo 5.4.1 «Atracción y branding»"
-domain: [marketing-digital, canales, atraccion]
+domain: [marketing-digital, canales, atraccion, power-mba]
 
 llm_confidence: 0.50
 

@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-leyes-persuasion-cialdini
 title: "7 leyes de persuasión de Cialdini aplicadas a marketing"
 origin: "Robert Cialdini — «Influence»; The Power MBA — Módulo 5.1"
-domain: [marketing, persuasion, ventas, psicologia]
+domain: [marketing, persuasion, ventas, psicologia, power-mba]
 
 when_to_use: >
   Al diseñar campañas de captación, anuncios, páginas de venta o secuencias de

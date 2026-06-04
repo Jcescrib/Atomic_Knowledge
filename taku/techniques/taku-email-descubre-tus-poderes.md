@@ -4,7 +4,7 @@ taku_type: technique
 id: taku-email-descubre-tus-poderes
 title: "Email a tus amigos (descubre tus «superpoderes» con feedback externo)"
 origin: "The Power MBA — Módulo 8.1 «Herramientas de desarrollo personal»"
-domain: [desarrollo-personal, autoconocimiento, feedback]
+domain: [desarrollo-personal, autoconocimiento, feedback, power-mba]
 
 when_to_use: "Para identificar tus fortalezas diferenciales y puntos ciegos preguntando a personas que te conocen."
 when_not_to_use: "Cuando no tienes una red de personas de confianza que pueda darte feedback honesto."

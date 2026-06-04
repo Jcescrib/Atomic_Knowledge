@@ -4,7 +4,7 @@ taku_type: technique
 id: taku-ab-testing-anuncio-google
 title: "A/B testing del título de anuncios en Google Ads"
 origin: "The Power MBA — Módulo 11 «Google Ads» — Anuncios de texto"
-domain: [marketing-digital, sem, google-ads, experimentacion]
+domain: [marketing-digital, sem, google-ads, experimentacion, power-mba]
 
 when_to_use: "Para optimizar el título (u otro elemento) de un anuncio comparando dos versiones y quedándote con la que mejor cumple tus objetivos."
 when_not_to_use: "Sin volumen de impresiones/clics suficiente para que la diferencia sea significativa."

@@ -9,7 +9,7 @@ statement: >
   elevado es el precio o más compleja la decisión, más y mejor nurturing se
   necesita.
 origin: "The Power MBA — Módulo 5.5.1 «Captación y nurturing de leads»"
-domain: [marketing-digital, leads, nurturing]
+domain: [marketing-digital, leads, nurturing, power-mba]
 
 llm_confidence: 0.50
 

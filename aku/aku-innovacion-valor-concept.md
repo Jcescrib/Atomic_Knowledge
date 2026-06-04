@@ -12,7 +12,7 @@ statement: >
   como inevitable; implica que el éxito de un océano azul depende de
   romper la falsa dicotomía y operar en ambos ejes a la vez.
 origin: "The Power MBA — Módulo 2.6 «Cómo crear propuestas de valor disruptivas y buscar tu océano azul»"
-domain: [strategy, blue-ocean, value-proposition, innovation]
+domain: [strategy, blue-ocean, value-proposition, innovation, power-mba]
 
 llm_confidence: 0.50
 

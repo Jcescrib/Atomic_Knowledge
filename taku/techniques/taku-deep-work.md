@@ -4,7 +4,7 @@ taku_type: technique
 id: taku-deep-work
 title: "Deep work y minimalismo digital (trabajo profundo sin distracciones)"
 origin: "Cal Newport — «Deep Work», «Digital Minimalism»; The Power MBA Módulo 7.1"
-domain: [leadership, productividad, foco]
+domain: [leadership, productividad, foco, power-mba]
 
 when_to_use: "Para tareas de alta exigencia cognitiva donde la concentración sostenida multiplica el resultado; cuando quieres conseguir más en menos tiempo."
 when_not_to_use: "Para trabajo reactivo o de coordinación continua que exige disponibilidad constante; en roles donde la interrupción inmediata es parte esencial del puesto."

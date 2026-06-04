@@ -10,7 +10,7 @@ statement: >
   muchos proyectos fracasan porque sus fundadores, por falta de análisis, no
   evalúan este encaje.
 origin: "The Power MBA — Módulo 6.1 «Fit entre tu proyecto y tú»"
-domain: [emprendimiento, fundadores, estrategia]
+domain: [emprendimiento, fundadores, estrategia, power-mba]
 
 llm_confidence: 0.50
 

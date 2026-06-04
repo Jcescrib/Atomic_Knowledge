@@ -9,7 +9,7 @@ statement: >
   con Twitter Ads; implica que es ideal para cualquier negocio y especialmente para
   atención al cliente; su limitación principal es el límite de 280 caracteres.
 origin: "The Power MBA — Módulo 12 «Social media» — Tabla comparativa RRSS"
-domain: [marketing-digital, social-media, canales]
+domain: [marketing-digital, social-media, canales, power-mba]
 
 llm_confidence: 0.50
 

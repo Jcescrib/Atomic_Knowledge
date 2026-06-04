@@ -4,7 +4,7 @@ taku_type: technique
 id: taku-elevator-pitch
 title: "Elevator Pitch — plantillas rellenables"
 origin: "The Power MBA — Módulo 6.3 «Templates Elevator Pitch»"
-domain: [emprendimiento, pitch, comunicacion, ventas]
+domain: [emprendimiento, pitch, comunicacion, ventas, power-mba]
 
 when_to_use: >
   En cualquier ocasión informal en la que tengas que presentar tu proyecto en

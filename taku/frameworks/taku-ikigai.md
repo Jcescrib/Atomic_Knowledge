@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-ikigai
 title: "Ikigai — descubrir tu razón de ser"
 origin: "Concepto japonés Ikigai; The Power MBA Módulo 7.1"
-domain: [leadership, proposito, desarrollo-personal]
+domain: [leadership, proposito, desarrollo-personal, power-mba]
 
 when_to_use: "Para explorar y acercarte a tu propósito vital cruzando lo que amas, lo que se te da bien, lo que el mundo necesita y aquello por lo que te pagan."
 when_not_to_use: "Como test de respuesta única o decisión inmediata; es un proceso de reflexión continuo, no un resultado puntual."

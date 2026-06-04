@@ -9,7 +9,7 @@ statement: >
   la operativa necesita financiar; reducir clientes/existencias o aumentar proveedores
   disminuye las NOF.
 origin: "The Power MBA — Módulo 9.2 «Ratios de análisis financiero»"
-domain: [finanzas, contabilidad, working-capital]
+domain: [finanzas, contabilidad, working-capital, power-mba]
 
 llm_confidence: 0.50
 

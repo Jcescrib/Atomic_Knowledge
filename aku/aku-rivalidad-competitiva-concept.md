@@ -10,7 +10,7 @@ statement: >
   competir; implica que a mayor rivalidad, menores rentabilidades para todos los
   players del sector.
 origin: "Michael Porter — Competitive Strategy"
-domain: [estrategia, analisis-sectorial, competencia]
+domain: [estrategia, analisis-sectorial, competencia, power-mba]
 
 llm_confidence: 0.50
 

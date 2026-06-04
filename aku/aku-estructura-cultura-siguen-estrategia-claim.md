@@ -8,7 +8,7 @@ statement: >
   activa la cultura que la apoyará, no al revés; alinear cultura y estructura con los
   objetivos estratégicos es condición para una buena ejecución.
 origin: "The Power MBA — Módulo 7.2 «Liderar a otros»"
-domain: [leadership, estrategia, cultura, organizacion]
+domain: [leadership, estrategia, cultura, organizacion, power-mba]
 
 llm_confidence: 0.50
 

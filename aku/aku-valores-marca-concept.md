@@ -11,7 +11,7 @@ statement: >
   a conectar con clientes y stakeholders, a que entiendan por qué la empresa hace las
   cosas de cierta forma, y contribuyen a la ejecución.
 origin: "The Power MBA — Módulo 4.4 «Branding» y Módulo 7.2 «Liderar a otros»"
-domain: [marketing, branding, valores, leadership, cultura]
+domain: [marketing, branding, valores, leadership, cultura, power-mba]
 
 llm_confidence: 0.60
 

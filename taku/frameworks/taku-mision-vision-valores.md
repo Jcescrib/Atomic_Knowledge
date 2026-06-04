@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-mision-vision-valores
 title: "Misión, visión y valores — cimientos de la ejecución"
 origin: "The Power MBA — Módulo 7.2 «Liderar a otros»"
-domain: [leadership, estrategia, ejecucion, organizacion]
+domain: [leadership, estrategia, ejecucion, organizacion, power-mba]
 
 when_to_use: "Para definir los cimientos estratégicos de la organización y alinear toda la cascada de objetivos e iniciativas con ellos."
 when_not_to_use: "Como ejercicio de marketing aislado: si no se vincula a objetivos y ejecución, queda en declaración vacía."

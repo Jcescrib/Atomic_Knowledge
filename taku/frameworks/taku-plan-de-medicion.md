@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-plan-de-medicion
 title: "Plan de medición analítica (Objetivos · Estrategias · KPIs · Metas · Segmentos)"
 origin: "The Power MBA — Módulo 15 «Analítica» — Plantilla Plan de Medición"
-domain: [marketing-digital, analitica, medicion]
+domain: [marketing-digital, analitica, medicion, power-mba]
 
 when_to_use: "Antes de lanzar una campaña o iniciativa digital, para conectar objetivos de negocio con su medición."
 when_not_to_use: "Como sustituto del análisis cualitativo o cuando no hay objetivos de negocio definidos."

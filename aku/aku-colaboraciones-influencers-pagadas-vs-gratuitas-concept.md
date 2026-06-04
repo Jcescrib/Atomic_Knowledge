@@ -11,7 +11,7 @@ statement: >
   limitarse a microinfluencers; implica elegir el formato según presupuesto, control y
   necesidad de medición.
 origin: "The Power MBA — Módulo 14 «Marketing de influencers» — Colaboraciones pagadas"
-domain: [marketing-digital, influencer-marketing]
+domain: [marketing-digital, influencer-marketing, power-mba]
 
 llm_confidence: 0.50
 

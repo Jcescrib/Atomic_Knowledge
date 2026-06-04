@@ -9,7 +9,7 @@ statement: >
   filtrar tráfico irrelevante o no deseado para mejorar la relevancia y la eficiencia
   del gasto; excluye añadir cobertura (solo resta).
 origin: "The Power MBA — Módulo 11 «Google Ads» — Concordancia de palabras clave"
-domain: [marketing-digital, sem, google-ads, keywords]
+domain: [marketing-digital, sem, google-ads, keywords, power-mba]
 
 llm_confidence: 0.50
 

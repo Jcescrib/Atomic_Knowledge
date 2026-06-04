@@ -12,7 +12,7 @@ statement: >
   marca» exige mover a una parte considerable del público hacia los niveles
   superiores, lo que requiere mucho tiempo y dinero.
 origin: "The Power MBA — Módulo 4.4 «Branding»"
-domain: [marketing, branding, brand-awareness]
+domain: [marketing, branding, brand-awareness, power-mba]
 
 llm_confidence: 0.50
 

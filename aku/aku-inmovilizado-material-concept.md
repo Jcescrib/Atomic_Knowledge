@@ -9,7 +9,7 @@ statement: >
   amortización a lo largo de su vida útil; excluye los derechos sin sustancia física
   (intangible).
 origin: "The Power MBA — Módulo 9.1 «Balance de situación»"
-domain: [finanzas, contabilidad, inmovilizado]
+domain: [finanzas, contabilidad, inmovilizado, power-mba]
 
 llm_confidence: 0.50
 

@@ -4,7 +4,7 @@ taku_type: heuristic
 id: taku-hacks-copywriting
 title: "Hacks de copywriting para anuncios"
 origin: "The Power MBA — Módulo 18 «Facebook & Instagram Ads» — info.docx «Hacks copy»"
-domain: [marketing-digital, copywriting, conversion]
+domain: [marketing-digital, copywriting, conversion, power-mba]
 
 when_to_use: "Al redactar el copy de un anuncio, email o landing para hacerlo más persuasivo."
 when_not_to_use: "En textos puramente informativos o legales donde la persuasión no es el objetivo."

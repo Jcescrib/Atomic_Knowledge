@@ -9,7 +9,7 @@ statement: >
   anteponiendo «+» a las palabras obligatorias (p. ej. comprar +coche +usado); excluye
   las búsquedas que no contengan esos términos designados.
 origin: "The Power MBA — Módulo 11 «Google Ads» — Concordancia de palabras clave"
-domain: [marketing-digital, sem, google-ads, keywords]
+domain: [marketing-digital, sem, google-ads, keywords, power-mba]
 
 llm_confidence: 0.50
 

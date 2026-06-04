@@ -10,7 +10,7 @@ statement: >
   dividendos); implica que descontado al WACC permite estimar el Enterprise Value;
   excluye el efecto de la financiación (es un flujo «desapalancado»).
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion, cash-flow]
+domain: [finanzas, valoracion, cash-flow, power-mba]
 
 llm_confidence: 0.50
 

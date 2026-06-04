@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-cro
 title: "CRO — optimización de la tasa de conversión"
 origin: "The Power MBA — Módulo 5.6.1 «Conceptos clave: Conversión»"
-domain: [marketing-digital, conversion, cro]
+domain: [marketing-digital, conversion, cro, power-mba]
 
 when_to_use: >
   Para aumentar las ventas con el mismo tráfico, optimizando las

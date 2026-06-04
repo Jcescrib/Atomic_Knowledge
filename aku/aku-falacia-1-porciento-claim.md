@@ -12,7 +12,7 @@ statement: >
   estimar bottom-up partiendo de la observación de demanda real cercana, no
   top-down partiendo de una cifra macro y un % asumido.
 origin: "The Power MBA — Módulo 2.4 «Segmentación y targeting»"
-domain: [market-sizing, financial-modeling, methodology, fallacies]
+domain: [market-sizing, financial-modeling, methodology, fallacies, power-mba]
 
 llm_confidence: 0.50
 

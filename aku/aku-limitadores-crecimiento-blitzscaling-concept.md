@@ -11,7 +11,7 @@ statement: >
   no procesa la demanda generada); implica que conviene asegurar que el negocio
   no sea inescalable antes de acelerar.
 origin: "Reid Hoffman & Chris Yeh — «Blitzscaling»; The Power MBA — Módulo 4.5"
-domain: [estrategia, crecimiento, blitzscaling]
+domain: [estrategia, crecimiento, blitzscaling, power-mba]
 
 llm_confidence: 0.50
 

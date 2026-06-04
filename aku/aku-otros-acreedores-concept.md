@@ -9,7 +9,7 @@ statement: >
   obligaciones de pago de corto plazo distintas de proveedores y deuda financiera;
   en el PGC se registra en las cuentas 41, 46, 47, etc.
 origin: "The Power MBA — Módulo 9.1 «Balance de situación»; PGC español"
-domain: [finanzas, contabilidad, circulante]
+domain: [finanzas, contabilidad, circulante, power-mba]
 
 llm_confidence: 0.50
 

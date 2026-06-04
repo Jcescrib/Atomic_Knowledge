@@ -12,7 +12,7 @@ statement: >
   contactos; implica que la elección del proyecto debe cruzar estas implicaciones
   con los objetivos, capacidades y competencias del fundador.
 origin: "The Power MBA — Módulo 6.1 «Fit entre tu proyecto y tú»"
-domain: [emprendimiento, modelo-de-negocio, estrategia, riesgo]
+domain: [emprendimiento, modelo-de-negocio, estrategia, riesgo, power-mba]
 
 llm_confidence: 0.50
 

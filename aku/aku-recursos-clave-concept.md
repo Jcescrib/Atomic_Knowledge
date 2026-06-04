@@ -13,7 +13,7 @@ statement: >
   y que estos pueden ser propios, alquilados o aportados por terceros sin
   cambiar su rol estratégico en el modelo.
 origin: "The Power MBA — Módulo 2.1 «Análisis de un modelo de negocio: Innovación BMC»"
-domain: [business-model, bmc, resources, operations]
+domain: [business-model, bmc, resources, operations, power-mba]
 
 llm_confidence: 0.50
 

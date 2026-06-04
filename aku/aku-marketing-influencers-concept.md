@@ -10,7 +10,7 @@ statement: >
   influencers cuya audiencia coincida con el público del producto, y nació con el
   boom de Instagram extendiéndose a otras redes.
 origin: "The Power MBA — Módulo 5.4.1 «Atracción y branding»"
-domain: [marketing-digital, influencers, redes-sociales]
+domain: [marketing-digital, influencers, redes-sociales, power-mba]
 
 llm_confidence: 0.50
 

@@ -9,7 +9,7 @@ statement: >
   no orienta las operaciones diarias; por eso las empresas más innovadoras adoptan
   OKR como alternativa ágil.
 origin: "The Power MBA — Módulo 7.2 «Liderar a otros»"
-domain: [leadership, objetivos, gestion]
+domain: [leadership, objetivos, gestion, power-mba]
 
 llm_confidence: 0.50
 

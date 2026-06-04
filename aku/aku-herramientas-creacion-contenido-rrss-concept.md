@@ -10,7 +10,7 @@ statement: >
   (Unfold), optimización/previsualización del feed (UNUM) y búsqueda y creación de
   GIFs (Giphy); implica que facilitan una línea editorial coherente y de calidad.
 origin: "The Power MBA — Módulo 12 «Social media» — Herramientas de creación de contenido"
-domain: [marketing-digital, social-media, contenido]
+domain: [marketing-digital, social-media, contenido, power-mba]
 
 llm_confidence: 0.50
 

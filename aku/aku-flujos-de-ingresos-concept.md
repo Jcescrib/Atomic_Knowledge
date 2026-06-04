@@ -13,7 +13,7 @@ statement: >
   modelo, y debe analizarse por-segmento porque distintos segmentos suelen
   pagar de formas distintas.
 origin: "The Power MBA — Módulo 2.1 «Análisis de un modelo de negocio: Innovación BMC»"
-domain: [business-model, bmc, revenue, monetization]
+domain: [business-model, bmc, revenue, monetization, power-mba]
 
 llm_confidence: 0.50
 

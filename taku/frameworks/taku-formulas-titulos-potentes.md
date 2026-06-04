@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-formulas-titulos-potentes
 title: "Fórmulas para escribir títulos potentes"
 origin: "The Power MBA — Módulo 20 «Copywriting» — Fórmulas para títulos potentes"
-domain: [marketing-digital, copywriting, headlines]
+domain: [marketing-digital, copywriting, headlines, power-mba]
 
 when_to_use: "Al redactar el titular de un anuncio, artículo, email o landing para maximizar su atractivo."
 when_not_to_use: "En contextos donde el clickbait perjudica la credibilidad de la marca o no se puede cumplir la promesa."

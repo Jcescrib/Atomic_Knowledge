@@ -10,7 +10,7 @@ statement: >
   previamente el workflow (el esquema de las posibles acciones que se disparan
   según lo que hace cada lead).
 origin: "The Power MBA — Módulo 5.5.1 «Captación y nurturing de leads»"
-domain: [marketing-digital, automation, crm, nurturing]
+domain: [marketing-digital, automation, crm, nurturing, power-mba]
 
 llm_confidence: 0.50
 

@@ -8,7 +8,7 @@ statement: >
   la gente, no sobre las tareas; implica que no existe una única fórmula válida,
   sino que cada líder debe encontrar la suya alineada con su propia personalidad.
 origin: "The Power MBA — Módulo 7.1 «Liderarse a uno mismo»"
-domain: [leadership, liderazgo, soft-skills]
+domain: [leadership, liderazgo, soft-skills, power-mba]
 
 llm_confidence: 0.50
 

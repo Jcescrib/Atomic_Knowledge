@@ -14,7 +14,7 @@ statement: >
   oculta problemas estructurales, y que su uso correcto es solo en fase
   de escalado, cuando el PMF ya está demostrado por métricas accionables.
 origin: "The Power MBA — Módulo 3.0.1 «El método Lean Startup» (Eric Ries)"
-domain: [lean-startup, metrics, methodology, vanity-metrics]
+domain: [lean-startup, metrics, methodology, vanity-metrics, power-mba]
 
 llm_confidence: 0.50
 

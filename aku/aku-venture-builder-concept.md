@@ -12,7 +12,7 @@ statement: >
   de financiación ni de apoyo para una startup externa, sino que crea negocios en
   los que tiene participación mayoritaria.
 origin: "The Power MBA — Módulo 6.3 «Fuentes de financiación: quién»"
-domain: [emprendimiento, financiacion, venture-builder, startup]
+domain: [emprendimiento, financiacion, venture-builder, startup, power-mba]
 
 llm_confidence: 0.50
 

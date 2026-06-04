@@ -8,7 +8,7 @@ statement: >
   Endeudamiento CP = Deudas a CP / (Pasivo + Patrimonio Neto); mide el peso de la
   financiación exigible en menos de un año sobre el total de recursos.
 origin: "The Power MBA — Módulo 9.2 «Ratios de análisis financiero»"
-domain: [finanzas, contabilidad, ratios]
+domain: [finanzas, contabilidad, ratios, power-mba]
 
 llm_confidence: 0.50
 

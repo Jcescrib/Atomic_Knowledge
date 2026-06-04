@@ -9,7 +9,7 @@ statement: >
   financiación con deuda tiene una ventaja fiscal frente al equity; excluye los costes
   de insolvencia que aparecen con un endeudamiento excesivo.
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, fiscalidad, estructura-capital]
+domain: [finanzas, fiscalidad, estructura-capital, power-mba]
 
 llm_confidence: 0.50
 

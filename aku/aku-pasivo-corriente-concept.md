@@ -9,7 +9,7 @@ statement: >
   relación con el activo corriente determina la liquidez de la empresa; excluye las
   deudas con vencimiento superior al año.
 origin: "The Power MBA — Módulo 9.1 «Balance de situación»"
-domain: [finanzas, contabilidad, estados-financieros]
+domain: [finanzas, contabilidad, estados-financieros, power-mba]
 
 llm_confidence: 0.50
 

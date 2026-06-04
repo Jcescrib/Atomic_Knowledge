@@ -9,7 +9,7 @@ statement: >
   implica la capacidad de la empresa de financiar su operativa de corto plazo sin
   tensiones; excluye los activos y pasivos de largo plazo.
 origin: "The Power MBA — Módulo 9.2 «Ratios de análisis financiero»"
-domain: [finanzas, contabilidad, working-capital]
+domain: [finanzas, contabilidad, working-capital, power-mba]
 
 llm_confidence: 0.50
 

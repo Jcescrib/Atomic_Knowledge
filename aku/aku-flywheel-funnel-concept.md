@@ -12,7 +12,7 @@ statement: >
   estrategia inbound, y es una alternativa de moda al funnel lineal (no
   necesariamente mejor).
 origin: "The Power MBA — Módulo 5.8.2 «Flywheel Funnel» (HubSpot)"
-domain: [marketing-digital, funnel, fidelizacion, flywheel]
+domain: [marketing-digital, funnel, fidelizacion, flywheel, power-mba]
 
 llm_confidence: 0.50
 

@@ -11,7 +11,7 @@ statement: >
   identificación, intriga, beneficios claros, hablar el idioma del cliente,
   anticipar objeciones, reducir el riesgo y apoyarse en social proof.
 origin: "The Power MBA — Módulo 5.1 «Power Selling»"
-domain: [marketing, ventas, conversion, copywriting]
+domain: [marketing, ventas, conversion, copywriting, power-mba]
 
 llm_confidence: 0.50
 

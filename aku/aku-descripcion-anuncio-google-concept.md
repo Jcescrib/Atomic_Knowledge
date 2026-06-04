@@ -9,7 +9,7 @@ statement: >
   incorporar una llamada a la acción (CTA); implica que la descripción 2 puede no
   mostrarse siempre; excluye datos irrelevantes que no diferencien la oferta.
 origin: "The Power MBA — Módulo 11 «Google Ads» — Anuncios de texto"
-domain: [marketing-digital, sem, google-ads, copywriting]
+domain: [marketing-digital, sem, google-ads, copywriting, power-mba]
 
 llm_confidence: 0.50
 

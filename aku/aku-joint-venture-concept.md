@@ -8,7 +8,7 @@ statement: >
   objetivo específico (entrar en un mercado, desarrollar una tecnología) y un
   plazo determinado.
 origin: "The Power MBA — Módulo 4.3 «Estrategias de crecimiento»"
-domain: [estrategia, crecimiento, m-and-a]
+domain: [estrategia, crecimiento, m-and-a, power-mba]
 
 llm_confidence: 0.50
 

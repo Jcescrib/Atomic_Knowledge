@@ -15,7 +15,7 @@ statement: >
   liderazgo en costes (prioritaria) o diferenciación (subordinada al valor
   superior frente a competidores).
 origin: "The Power MBA — Módulo 2.1 «Análisis de un modelo de negocio: Innovación BMC»"
-domain: [business-model, bmc, cost, finance]
+domain: [business-model, bmc, cost, finance, power-mba]
 
 llm_confidence: 0.50
 

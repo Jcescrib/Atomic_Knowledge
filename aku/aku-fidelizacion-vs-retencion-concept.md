@@ -12,7 +12,7 @@ statement: >
   network effect como WhatsApp, prepago anual del gimnasio); implica diseñar
   estrategias distintas para cada caso y que ambas elevan el CLTV.
 origin: "The Power MBA — Módulo 5.7.1 «Fidelización y retención»"
-domain: [marketing-digital, fidelizacion, retencion, funnel]
+domain: [marketing-digital, fidelizacion, retencion, funnel, power-mba]
 
 llm_confidence: 0.50
 

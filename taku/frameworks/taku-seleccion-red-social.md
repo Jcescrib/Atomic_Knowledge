@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-seleccion-red-social
 title: "Selección de red social según negocio, audiencia y objetivo"
 origin: "The Power MBA — Módulo 12 «Social media» — Tabla comparativa RRSS"
-domain: [marketing-digital, social-media, estrategia]
+domain: [marketing-digital, social-media, estrategia, power-mba]
 
 when_to_use: "Al decidir en qué redes sociales debe estar presente una marca y dónde concentrar esfuerzos."
 when_not_to_use: "Cuando ya hay datos propios de rendimiento por red que deben primar sobre el patrón general."

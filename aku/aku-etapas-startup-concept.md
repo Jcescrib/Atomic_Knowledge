@@ -15,7 +15,7 @@ statement: >
   saltarse fases es una causa estructural de fracaso especialmente común
   al pasar prematuramente de PSF a optimización o escalado.
 origin: "The Power MBA — Módulo 3.0.2 «Probando modelos de negocio»"
-domain: [lean-startup, startup, lifecycle, methodology]
+domain: [lean-startup, startup, lifecycle, methodology, power-mba]
 
 llm_confidence: 0.50
 

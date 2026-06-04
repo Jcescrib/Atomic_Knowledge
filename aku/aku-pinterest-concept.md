@@ -10,7 +10,7 @@ statement: >
   visuales; su limitación principal es dirigirse a un público relativamente
   especializado.
 origin: "The Power MBA — Módulo 12 «Social media» — Tabla comparativa RRSS"
-domain: [marketing-digital, social-media, canales]
+domain: [marketing-digital, social-media, canales, power-mba]
 
 llm_confidence: 0.50
 

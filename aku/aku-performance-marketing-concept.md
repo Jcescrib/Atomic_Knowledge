@@ -10,7 +10,7 @@ statement: >
   objetivo es la respuesta medible, también genera branding (ver la marca aunque
   no se haga click).
 origin: "The Power MBA — Módulo 5.4.1 «Atracción y branding»"
-domain: [marketing-digital, performance, paid-media]
+domain: [marketing-digital, performance, paid-media, power-mba]
 
 llm_confidence: 0.50
 

@@ -8,7 +8,7 @@ statement: >
   segmentos; sub-segmentar más allá de esa diferencia operativa fragmenta el
   análisis sin valor añadido y es un error recurrente al aplicar el BMC.
 origin: "The Power MBA — Módulo 2.1 «Análisis de un modelo de negocio: Innovación BMC»"
-domain: [business-model, bmc, segmentation, methodology]
+domain: [business-model, bmc, segmentation, methodology, power-mba]
 
 llm_confidence: 0.50
 

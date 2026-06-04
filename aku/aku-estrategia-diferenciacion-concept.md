@@ -11,7 +11,7 @@ statement: >
   competitiva es menos encarnizada que en liderazgo en coste; es más difícil de
   imitar y genera clientes más fieles.
 origin: "Michael Porter — Competitive Strategy; The Power MBA — Módulo 4.2"
-domain: [estrategia, competencia, diferenciacion]
+domain: [estrategia, competencia, diferenciacion, power-mba]
 
 llm_confidence: 0.50
 

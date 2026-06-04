@@ -10,7 +10,7 @@ statement: >
   medio-largo plazo: tiene visión, comunica de forma cautivadora, alinea, inspira y
   empodera); implica que quien está a cargo necesita ambos conjuntos de habilidades.
 origin: "The Power MBA — Módulo 7.2 «Liderar a otros»"
-domain: [leadership, liderazgo, management, organizacion]
+domain: [leadership, liderazgo, management, organizacion, power-mba]
 
 llm_confidence: 0.50
 

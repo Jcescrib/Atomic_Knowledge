@@ -9,7 +9,7 @@ statement: >
   DCF); implica que recoge el valor de la continuidad del negocio tras el horizonte de
   proyección; excluye los flujos ya descontados periodo a periodo.
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion, cash-flow]
+domain: [finanzas, valoracion, cash-flow, power-mba]
 
 llm_confidence: 0.50
 

@@ -4,7 +4,7 @@ taku_type: technique
 id: taku-entrevista-problem-solution
 title: "Entrevista Problem-Solution (validación cualitativa con potenciales clientes)"
 origin: "The Power MBA — Módulo 3.0.2 «Probando modelos de negocio»"
-domain: [lean-startup, customer-development, interviews, validation]
+domain: [lean-startup, customer-development, interviews, validation, power-mba]
 
 when_to_use: >
   Cuando se necesita validar en fase Problem-Solution Fit que un grupo

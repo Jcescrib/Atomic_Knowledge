@@ -4,7 +4,7 @@ taku_type: heuristic
 id: taku-decalogo-power-selling
 title: "Decálogo Power Selling — vender cualquier acción"
 origin: "The Power MBA — Módulo 5.1 «Power Selling»"
-domain: [marketing, copywriting, conversion, ventas]
+domain: [marketing, copywriting, conversion, ventas, power-mba]
 
 when_to_use: >
   Al redactar cualquier anuncio, web, email o comunicación cuyo objetivo sea que

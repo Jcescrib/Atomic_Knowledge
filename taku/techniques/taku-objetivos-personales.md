@@ -4,7 +4,7 @@ taku_type: technique
 id: taku-objetivos-personales
 title: "Definición de objetivos personales (enfoque en 4 pasos · 9 dimensiones)"
 origin: "The Power MBA — Módulo 7.1 «Liderarse a uno mismo»"
-domain: [leadership, objetivos, desarrollo-personal]
+domain: [leadership, objetivos, desarrollo-personal, power-mba]
 
 when_to_use: "Para fijar una visión a largo plazo y motivación a corto sobre las áreas que aportan valor a tu vida, y revisarla periódicamente."
 when_not_to_use: "Como sustituto de objetivos operativos del día a día; es una brújula vital, no una lista de tareas."

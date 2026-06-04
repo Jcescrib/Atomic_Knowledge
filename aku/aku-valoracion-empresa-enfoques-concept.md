@@ -10,7 +10,7 @@ statement: >
   implica que la elección depende de la información disponible y del sector; excluye
   considerar un único método como universalmente correcto.
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion]
+domain: [finanzas, valoracion, power-mba]
 
 llm_confidence: 0.50
 

@@ -4,7 +4,7 @@ taku_type: technique
 id: taku-estrategia-concordancias-google
 title: "Estrategia de concordancias de palabras clave en Google Ads"
 origin: "The Power MBA — Módulo 11 «Google Ads» — Concordancia de palabras clave"
-domain: [marketing-digital, sem, google-ads, keywords]
+domain: [marketing-digital, sem, google-ads, keywords, power-mba]
 
 when_to_use: "Al configurar las palabras clave de una campaña de Google Ads para equilibrar alcance y relevancia según el objetivo."
 when_not_to_use: "Cuando no se dispone de datos para iterar ni presupuesto para explorar términos amplios."

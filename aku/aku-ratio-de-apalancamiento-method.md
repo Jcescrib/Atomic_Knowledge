@@ -8,7 +8,7 @@ statement: >
   la financiación ajena en la estructura de capital; a mayor ratio, mayor uso de deuda
   y mayor riesgo financiero.
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, estructura-capital]
+domain: [finanzas, estructura-capital, power-mba]
 
 llm_confidence: 0.50
 

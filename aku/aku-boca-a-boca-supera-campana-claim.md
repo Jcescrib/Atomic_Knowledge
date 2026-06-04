@@ -8,7 +8,7 @@ statement: >
   que mejora la conversión y las ventas; el boca a boca presencial es difícil de
   controlar y nace de tener un muy buen producto.
 origin: "The Power MBA — Módulo 5.8.1 «Recomendación y viralización»"
-domain: [marketing-digital, recomendacion, confianza]
+domain: [marketing-digital, recomendacion, confianza, power-mba]
 
 llm_confidence: 0.50
 

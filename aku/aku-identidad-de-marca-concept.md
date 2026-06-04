@@ -9,7 +9,7 @@ statement: >
   posicionamiento); implica que centrarse en la identidad (el logo) sin tener
   clara la esencia es el error habitual de la mayoría de empresas.
 origin: "The Power MBA — Módulo 4.4 «Branding»"
-domain: [marketing, branding, marca]
+domain: [marketing, branding, marca, power-mba]
 
 llm_confidence: 0.50
 

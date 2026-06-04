@@ -8,7 +8,7 @@ statement: >
   confianza y acción) y no tiene coste adicional; por ello se recomienda usar todas
   las extensiones posibles relevantes para el anuncio.
 origin: "The Power MBA — Módulo 11 «Google Ads» — Anuncios de texto"
-domain: [marketing-digital, sem, google-ads]
+domain: [marketing-digital, sem, google-ads, power-mba]
 
 llm_confidence: 0.50
 

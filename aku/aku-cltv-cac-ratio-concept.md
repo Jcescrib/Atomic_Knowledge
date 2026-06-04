@@ -12,7 +12,7 @@ statement: >
   ratio supera holgadamente 1 y se utiliza como umbral de calidad de unit
   economics.
 origin: "The Power MBA — Módulo 2.2 «Motores de crecimiento — principales métricas»"
-domain: [growth, unit-economics, metrics, roi]
+domain: [growth, unit-economics, metrics, roi, power-mba]
 
 llm_confidence: 0.50
 

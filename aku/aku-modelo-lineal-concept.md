@@ -11,7 +11,7 @@ statement: >
   por un cliente es independiente del número total de clientes del negocio
   (no hay network effect).
 origin: "The Power MBA — Módulo 2.3 «Conceptos clave de las plataformas»"
-domain: [business-model, platform, strategy]
+domain: [business-model, platform, strategy, power-mba]
 
 llm_confidence: 0.50
 

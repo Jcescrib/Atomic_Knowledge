@@ -9,7 +9,7 @@ statement: >
   considerar el desgaste de los activos pero antes de la estructura financiera y
   fiscal; excluye los gastos financieros y los impuestos.
 origin: "The Power MBA — Módulo 9.2/9.3 «Finanzas»"
-domain: [finanzas, contabilidad, rentabilidad]
+domain: [finanzas, contabilidad, rentabilidad, power-mba]
 
 llm_confidence: 0.50
 

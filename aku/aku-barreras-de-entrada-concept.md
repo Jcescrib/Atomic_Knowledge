@@ -11,7 +11,7 @@ statement: >
   es más rentable para quienes ya están dentro; corresponden a la fuerza de
   Porter «amenaza de nuevos competidores».
 origin: "Michael Porter — Competitive Strategy; Warren Buffett (concepto de «foso»)"
-domain: [estrategia, analisis-sectorial, competencia]
+domain: [estrategia, analisis-sectorial, competencia, power-mba]
 
 llm_confidence: 0.50
 

@@ -13,7 +13,7 @@ statement: >
   alianzas extienden los recursos y actividades efectivos del modelo más
   allá de los propios y son una palanca de escalabilidad y especialización.
 origin: "The Power MBA — Módulo 2.1 «Análisis de un modelo de negocio: Innovación BMC»"
-domain: [business-model, bmc, partnerships, ecosystem]
+domain: [business-model, bmc, partnerships, ecosystem, power-mba]
 
 llm_confidence: 0.50
 

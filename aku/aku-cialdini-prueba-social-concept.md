@@ -9,7 +9,7 @@ statement: >
   testimonios, y conviene mostrar la prueba social del segmento que es referencia
   para tu cliente (y ser creativo cuando aún no hay mucho track record).
 origin: "Robert Cialdini — «Influence»; The Power MBA — Módulo 5.1 «Power Selling»"
-domain: [marketing, persuasion, psicologia]
+domain: [marketing, persuasion, psicologia, power-mba]
 
 llm_confidence: 0.50
 

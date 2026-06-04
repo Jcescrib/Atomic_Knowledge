@@ -12,7 +12,7 @@ statement: >
   secciones opcionales (marketing/plan de crecimiento, roadmap, call-to-action);
   implica estructurar el relato para cubrir lo que el inversor necesita saber.
 origin: "The Power MBA — Módulo 6.3 «Estructura del Pitch Deck»"
-domain: [emprendimiento, financiacion, pitch, comunicacion]
+domain: [emprendimiento, financiacion, pitch, comunicacion, power-mba]
 
 llm_confidence: 0.50
 

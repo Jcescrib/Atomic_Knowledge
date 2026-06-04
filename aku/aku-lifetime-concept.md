@@ -9,7 +9,7 @@ statement: >
   del CLTV en modelos de suscripción (CLTV = ARPU × lifetime × margen bruto), de
   modo que reducir el churn alarga el lifetime y eleva el CLTV.
 origin: "The Power MBA — Módulo 2.2 «Motores de crecimiento — principales métricas»"
-domain: [growth, unit-economics, metrics, retention]
+domain: [growth, unit-economics, metrics, retention, power-mba]
 
 llm_confidence: 0.50
 

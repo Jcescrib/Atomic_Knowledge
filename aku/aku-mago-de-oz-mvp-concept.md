@@ -14,7 +14,7 @@ statement: >
   cambio de no-escalabilidad temporal —pero «do things that don't scale»
   es precisamente la fase correcta antes del product-market fit—.
 origin: "The Power MBA — Módulo 3.0.1 «El método Lean Startup» (Eric Ries)"
-domain: [lean-startup, mvp, validation, experimentation]
+domain: [lean-startup, mvp, validation, experimentation, power-mba]
 
 llm_confidence: 0.50
 

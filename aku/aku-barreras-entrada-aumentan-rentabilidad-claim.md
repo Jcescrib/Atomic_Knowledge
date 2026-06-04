@@ -7,7 +7,7 @@ statement: >
   rentable para las empresas que ya están dentro que un sector con barreras
   bajas, porque la amenaza de nuevos competidores es menor.
 origin: "Michael Porter — Competitive Strategy; Warren Buffett (concepto de «foso»)"
-domain: [estrategia, analisis-sectorial, rentabilidad]
+domain: [estrategia, analisis-sectorial, rentabilidad, power-mba]
 
 llm_confidence: 0.50
 

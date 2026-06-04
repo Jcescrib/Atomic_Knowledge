@@ -10,7 +10,7 @@ statement: >
   «mente de mono» erosiona, y se entrena con descansos breves y foco en una sola
   tarea.
 origin: "The Power MBA — Módulo 7.1 «Liderarse a uno mismo»"
-domain: [leadership, mindfulness, bienestar, productividad]
+domain: [leadership, mindfulness, bienestar, productividad, power-mba]
 
 llm_confidence: 0.50
 

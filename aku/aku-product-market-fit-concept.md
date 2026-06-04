@@ -13,7 +13,7 @@ statement: >
   central de la fase de innovación es alcanzar PMF antes de escalar —
   escalar sin PMF amplifica los problemas, no los resuelve—.
 origin: "The Power MBA — Módulo 3.0.1 «El método Lean Startup»"
-domain: [lean-startup, product-market-fit, startup, validation]
+domain: [lean-startup, product-market-fit, startup, validation, power-mba]
 
 llm_confidence: 0.60
 

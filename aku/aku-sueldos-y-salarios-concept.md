@@ -9,7 +9,7 @@ statement: >
   resultado de explotación; excluye los pagos a profesionales independientes externos
   (gastos de explotación).
 origin: "The Power MBA — Módulo 9.1 «Estado de resultados»"
-domain: [finanzas, contabilidad, gastos]
+domain: [finanzas, contabilidad, gastos, power-mba]
 
 llm_confidence: 0.50
 

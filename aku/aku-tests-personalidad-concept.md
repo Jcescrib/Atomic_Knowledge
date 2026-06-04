@@ -10,7 +10,7 @@ statement: >
   diaria, la formación de equipos, la gestión del estrés y el descubrimiento de
   puntos ciegos.
 origin: "The Power MBA — Módulo 7.1 «Liderarse a uno mismo»"
-domain: [leadership, autoconocimiento, psicologia, equipos]
+domain: [leadership, autoconocimiento, psicologia, equipos, power-mba]
 
 llm_confidence: 0.50
 

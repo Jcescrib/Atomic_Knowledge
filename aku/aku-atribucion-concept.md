@@ -11,7 +11,7 @@ statement: >
   un modelo de atribución claro permite saber qué canales funcionan mejor y peor a
   lo largo del tiempo.
 origin: "The Power MBA — Módulo 5.3 «Visión estratégica»"
-domain: [marketing-digital, atribucion, metricas, canales]
+domain: [marketing-digital, atribucion, metricas, canales, power-mba]
 
 llm_confidence: 0.50
 

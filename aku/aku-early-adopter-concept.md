@@ -12,7 +12,7 @@ statement: >
   pensando en early adopters (no en muchos segmentos a la vez) produce
   propuestas más potentes y un mejor product-market fit inicial.
 origin: "The Power MBA — Módulo 2.4 «Segmentación y targeting»"
-domain: [segmentation, targeting, product-market-fit, launch]
+domain: [segmentation, targeting, product-market-fit, launch, power-mba]
 
 llm_confidence: 0.50
 

@@ -8,7 +8,7 @@ statement: >
   Corriente; es la medida más estricta de liquidez, pues solo considera el efectivo
   disponible frente a las deudas a corto plazo.
 origin: "The Power MBA — Módulo 9.2 «Ratios de análisis financiero»"
-domain: [finanzas, contabilidad, ratios]
+domain: [finanzas, contabilidad, ratios, power-mba]
 
 llm_confidence: 0.50
 

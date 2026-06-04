@@ -8,7 +8,7 @@ statement: >
   precio) su sensibilidad al precio es menor y la lucha competitiva es menos
   intensa.
 origin: "The Power MBA — Módulo 4.2 «Estrategias competitivas»"
-domain: [estrategia, competencia, diferenciacion, margenes]
+domain: [estrategia, competencia, diferenciacion, margenes, power-mba]
 
 llm_confidence: 0.50
 

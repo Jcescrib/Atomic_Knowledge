@@ -9,7 +9,7 @@ statement: >
   operativas de fondos y a la rotación de inventario; excluye los activos
   destinados al uso permanente (inmovilizado).
 origin: "The Power MBA — Módulo 9.1 «Balance de situación»"
-domain: [finanzas, contabilidad, circulante]
+domain: [finanzas, contabilidad, circulante, power-mba]
 
 llm_confidence: 0.50
 

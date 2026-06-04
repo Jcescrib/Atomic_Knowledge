@@ -9,7 +9,7 @@ statement: >
   la nueva propuesta) pero se beneficia de sinergias comerciales como la marca,
   el mismo canal de distribución y el conocimiento de los clientes.
 origin: "Igor Ansoff — Matriz de Ansoff; The Power MBA — Módulo 4.3"
-domain: [estrategia, crecimiento, ansoff]
+domain: [estrategia, crecimiento, ansoff, power-mba]
 
 llm_confidence: 0.50
 

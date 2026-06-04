@@ -8,7 +8,7 @@ statement: >
   implica financiación estructural con coste financiero (intereses) deducible
   fiscalmente; en el PGC se registran en las cuentas 1605 y 170.
 origin: "The Power MBA — Módulo 9.1 «Balance de situación»; PGC español"
-domain: [finanzas, contabilidad, deuda]
+domain: [finanzas, contabilidad, deuda, power-mba]
 
 llm_confidence: 0.50
 

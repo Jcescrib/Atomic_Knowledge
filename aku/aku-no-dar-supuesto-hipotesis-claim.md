@@ -12,7 +12,7 @@ statement: >
   cuyo fracaso colapsaría el modelo entero) para testarlas primero con
   experimentos mínimos.
 origin: "The Power MBA — Módulo 3.0.1 «El método Lean Startup» (Eric Ries)"
-domain: [lean-startup, methodology, hypothesis, fallacies]
+domain: [lean-startup, methodology, hypothesis, fallacies, power-mba]
 
 llm_confidence: 0.50
 

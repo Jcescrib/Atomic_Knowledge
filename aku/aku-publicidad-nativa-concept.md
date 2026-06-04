@@ -9,7 +9,7 @@ statement: >
   implica mayor aceptación que los banners tradicionales, y está creciendo
   precisamente porque la publicidad display tradicional funciona cada vez peor.
 origin: "The Power MBA — Módulo 5.4.1 «Atracción y branding»"
-domain: [marketing-digital, publicidad, contenidos]
+domain: [marketing-digital, publicidad, contenidos, power-mba]
 
 llm_confidence: 0.50
 

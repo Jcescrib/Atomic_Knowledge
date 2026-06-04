@@ -11,7 +11,7 @@ statement: >
   SMS (mensaje al anunciante), de precios (productos con precio, carrusel en móvil),
   de promoción (ofertas y descuentos) y de aplicación (enlace a la app en móvil).
 origin: "The Power MBA — Módulo 11 «Google Ads» — Anuncios de texto"
-domain: [marketing-digital, sem, google-ads]
+domain: [marketing-digital, sem, google-ads, power-mba]
 
 llm_confidence: 0.50
 

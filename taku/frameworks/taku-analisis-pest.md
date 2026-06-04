@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-analisis-pest
 title: "Análisis PEST/PESTEL del macroentorno"
 origin: "The Power MBA — Análisis de un sector (análisis PEST/PESTEL)"
-domain: [estrategia, macroentorno, analisis-externo]
+domain: [estrategia, macroentorno, analisis-externo, power-mba]
 
 when_to_use: >
   Al complementar el análisis del sector con una mirada a los factores externos

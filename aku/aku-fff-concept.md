@@ -8,7 +8,7 @@ statement: >
   las primeras aportaciones externas tras el bootstrap y se basan en la confianza
   personal en el emprendedor más que en un análisis riguroso del proyecto.
 origin: "The Power MBA — Módulo 6.3 «Fuentes de financiación: quién»"
-domain: [emprendimiento, financiacion, seed, fff]
+domain: [emprendimiento, financiacion, seed, fff, power-mba]
 
 llm_confidence: 0.50
 

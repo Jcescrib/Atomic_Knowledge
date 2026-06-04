@@ -9,7 +9,7 @@ statement: >
   amortizaciones, y aproxima el porcentaje de cada venta que se convierte en caja
   operativa.
 origin: "The Power MBA — Módulo 9.2 «Ratios de análisis financiero»"
-domain: [finanzas, contabilidad, rentabilidad]
+domain: [finanzas, contabilidad, rentabilidad, power-mba]
 
 llm_confidence: 0.50
 

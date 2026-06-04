@@ -8,6 +8,7 @@ domain:
   - estrategia
   - crecimiento
   - ansoff
+  - power-mba
 llm_confidence: 0.5
 human_certainty:
   status: unvalidated

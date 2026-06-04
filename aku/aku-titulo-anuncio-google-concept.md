@@ -9,7 +9,7 @@ statement: >
   servicio de forma directa y contener al menos una palabra clave; implica que el
   Título 3 puede no mostrarse siempre; excluye texto de relleno sin keyword.
 origin: "The Power MBA — Módulo 11 «Google Ads» — Anuncios de texto"
-domain: [marketing-digital, sem, google-ads, copywriting]
+domain: [marketing-digital, sem, google-ads, copywriting, power-mba]
 
 llm_confidence: 0.50
 

@@ -13,7 +13,7 @@ statement: >
   captación de bajo coste y validador del producto, mientras que el premium
   monetiza al subconjunto que extrae más valor.
 origin: "The Power MBA — Módulo 2.3 «Conceptos clave de las plataformas»"
-domain: [business-model, monetization, subscription, conversion]
+domain: [business-model, monetization, subscription, conversion, power-mba]
 
 llm_confidence: 0.50
 

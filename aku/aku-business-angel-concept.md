@@ -8,7 +8,7 @@ statement: >
   contactos; es una de las fuentes de financiación disponibles desde las primeras
   rondas, antes de que entren inversores institucionales como el venture capital.
 origin: "The Power MBA — Módulo 6.3 «Fuentes de financiación: quién»"
-domain: [emprendimiento, financiacion, inversion, business-angel]
+domain: [emprendimiento, financiacion, inversion, business-angel, power-mba]
 
 llm_confidence: 0.50
 

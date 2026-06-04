@@ -10,7 +10,7 @@ statement: >
   resto del modelo (segmentación cosmética); implica que la definición de los
   segmentos precede y condiciona el resto del modelo de negocio.
 origin: "The Power MBA — Módulo 2.1 «Análisis de un modelo de negocio: Innovación BMC»"
-domain: [business-model, bmc, segmentation, customer]
+domain: [business-model, bmc, segmentation, customer, power-mba]
 
 llm_confidence: 0.60
 

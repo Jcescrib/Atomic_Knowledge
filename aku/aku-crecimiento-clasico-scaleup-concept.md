@@ -8,7 +8,7 @@ statement: >
   funciona y se escala optimizando (mirando ROI, EBITDA, etc.) con los beneficios
   existentes, sin sacrificar eficiencia por velocidad.
 origin: "Reid Hoffman & Chris Yeh — «Blitzscaling»; The Power MBA — Módulo 4.5"
-domain: [estrategia, crecimiento, scaling]
+domain: [estrategia, crecimiento, scaling, power-mba]
 
 llm_confidence: 0.50
 

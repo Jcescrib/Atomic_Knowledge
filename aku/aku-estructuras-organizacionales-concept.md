@@ -12,7 +12,7 @@ statement: >
   ágil e innovadora pero inestable); implica elegir la estructura que sigue a la
   estrategia.
 origin: "The Power MBA — Módulo 7.2 «Liderar a otros»"
-domain: [leadership, organizacion, estructura, estrategia]
+domain: [leadership, organizacion, estructura, estrategia, power-mba]
 
 llm_confidence: 0.50
 

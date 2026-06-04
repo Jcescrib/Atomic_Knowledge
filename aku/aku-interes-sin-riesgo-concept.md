@@ -9,7 +9,7 @@ statement: >
   riesgo; implica el suelo de rentabilidad que cualquier inversor exige; excluye la
   compensación por el riesgo específico de la inversión (prima de riesgo).
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion, riesgo]
+domain: [finanzas, valoracion, riesgo, power-mba]
 
 llm_confidence: 0.50
 

@@ -14,7 +14,7 @@ statement: >
   analizar, evolucionar o innovar propuestas de valor de forma sistemática
   en lugar de intuitiva.
 origin: "The Power MBA — Módulo 2.5 «Conceptos clave: propuesta de valor»"
-domain: [value-proposition, framework, business-model, marketing]
+domain: [value-proposition, framework, business-model, marketing, power-mba]
 
 llm_confidence: 0.50
 

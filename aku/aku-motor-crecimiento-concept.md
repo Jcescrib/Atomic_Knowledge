@@ -12,7 +12,7 @@ statement: >
   elección del motor determina qué métricas priorizar y cuánta financiación
   externa necesita el modelo para escalar.
 origin: "The Power MBA — Módulo 2.2.1 «Tipos de motores de crecimiento»"
-domain: [growth, business-model, strategy]
+domain: [growth, business-model, strategy, power-mba]
 
 llm_confidence: 0.50
 

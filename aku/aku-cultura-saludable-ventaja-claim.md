@@ -8,7 +8,7 @@ statement: >
   de mercado; una vez definida la estrategia, conviene activar deliberadamente la
   cultura que la apoyará.
 origin: "The Power MBA — Módulo 7.2 «Liderar a otros»"
-domain: [leadership, cultura, organizacion, estrategia]
+domain: [leadership, cultura, organizacion, estrategia, power-mba]
 
 llm_confidence: 0.50
 

@@ -12,7 +12,7 @@ statement: >
   alto si no se desagrega por cohorte, y que es la métrica clave del motor de
   crecimiento sticky.
 origin: "The Power MBA — Módulo 2.2 «Motores de crecimiento — principales métricas»"
-domain: [growth, unit-economics, retention, metrics]
+domain: [growth, unit-economics, retention, metrics, power-mba]
 
 llm_confidence: 0.50
 

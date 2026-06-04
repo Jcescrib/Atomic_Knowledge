@@ -10,7 +10,7 @@ statement: >
   potencial del equity; excluye el apalancamiento operativo (derivado de los costes
   fijos de explotación).
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, estructura-capital, rentabilidad]
+domain: [finanzas, estructura-capital, rentabilidad, power-mba]
 
 llm_confidence: 0.50
 

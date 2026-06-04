@@ -8,7 +8,7 @@ statement: >
   entienden y son predecibles); es un escenario poco común, porque al crecer muy
   rápido el nivel de incertidumbre tiende a aumentar.
 origin: "Reid Hoffman & Chris Yeh — «Blitzscaling»; The Power MBA — Módulo 4.5"
-domain: [estrategia, crecimiento, scaling]
+domain: [estrategia, crecimiento, scaling, power-mba]
 
 llm_confidence: 0.50
 

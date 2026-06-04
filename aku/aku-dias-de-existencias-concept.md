@@ -9,7 +9,7 @@ statement: >
   existencias aumentan las necesidades operativas de fondos; excluye los tiempos de
   cobro (PMC) y de pago (PMP).
 origin: "The Power MBA — Módulo 9.2 «Ratios de análisis financiero»"
-domain: [finanzas, contabilidad, working-capital]
+domain: [finanzas, contabilidad, working-capital, power-mba]
 
 llm_confidence: 0.50
 

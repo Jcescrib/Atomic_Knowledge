@@ -14,7 +14,7 @@ statement: >
   estrictamente necesario, y que es un motor empíricamente raro de
   conseguir.
 origin: "The Power MBA — Módulo 2.2.1 «Tipos de motores de crecimiento»"
-domain: [growth, business-model, virality, network-effects]
+domain: [growth, business-model, virality, network-effects, power-mba]
 
 llm_confidence: 0.50
 

@@ -9,7 +9,7 @@ statement: >
   y que, una vez alcanzada cierta dimensión, constituyen la barrera de entrada más
   sostenible —más difícil de imitar que otras fuentes de reducción de coste—.
 origin: "Michael Porter — Competitive Strategy; The Power MBA — Módulos 4.1 y 4.2"
-domain: [estrategia, competencia, costes, escala]
+domain: [estrategia, competencia, costes, escala, power-mba]
 
 llm_confidence: 0.50
 

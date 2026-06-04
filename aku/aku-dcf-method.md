@@ -9,7 +9,7 @@ statement: >
   donde VR es el valor residual; para estimar el Enterprise Value se descuentan los
   Free Cash Flow al WACC: EV = FCF₀ + FCF₁/(1+WACC)¹ + FCF₂/(1+WACC)² + … + VR.
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion, cash-flow]
+domain: [finanzas, valoracion, cash-flow, power-mba]
 
 llm_confidence: 0.50
 

@@ -12,7 +12,7 @@ statement: >
   de experiencia a cambio de alcance, escalabilidad de distribución o
   reducción del coste de captación.
 origin: "The Power MBA — Módulo 2.1 «Análisis de un modelo de negocio: Innovación BMC»"
-domain: [business-model, bmc, distribution, channel]
+domain: [business-model, bmc, distribution, channel, power-mba]
 
 llm_confidence: 0.50
 

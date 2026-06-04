@@ -9,7 +9,7 @@ statement: >
   los dos componentes del WACC (junto al coste de la deuda); excluye el coste de la
   financiación ajena (eso es kd).
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion, coste-capital]
+domain: [finanzas, valoracion, coste-capital, power-mba]
 
 llm_confidence: 0.50
 

@@ -4,7 +4,7 @@ taku_type: tool
 id: taku-plantilla-experimentos-mvp
 title: "Plantilla de experimentos Lean Startup (Hipótesis · MVP · Aprendizaje)"
 origin: "The Power MBA — Módulo 3.0.1 «El método Lean Startup»"
-domain: [lean-startup, mvp, validation, methodology]
+domain: [lean-startup, mvp, validation, methodology, power-mba]
 
 when_to_use: >
   Cuando se va a ejecutar cada vuelta del ciclo Build-Measure-Learn:

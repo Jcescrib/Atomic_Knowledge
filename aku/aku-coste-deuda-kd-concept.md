@@ -9,7 +9,7 @@ statement: >
   inferior al coste de los fondos propios; excluye la remuneración del capital de los
   accionistas (eso es ke).
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion, coste-capital]
+domain: [finanzas, valoracion, coste-capital, power-mba]
 
 llm_confidence: 0.50
 

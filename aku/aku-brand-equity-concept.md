@@ -10,7 +10,7 @@ statement: >
   el valor del producto y fideliza); implica que el objetivo último de la gestión
   de marca es incrementar el brand equity.
 origin: "The Power MBA — Módulo 4.4 «Branding»"
-domain: [marketing, branding, brand-equity]
+domain: [marketing, branding, brand-equity, power-mba]
 
 llm_confidence: 0.50
 

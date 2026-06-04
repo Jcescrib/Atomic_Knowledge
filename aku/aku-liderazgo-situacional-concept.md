@@ -10,7 +10,7 @@ statement: >
   autonomía encaja cuando innovar o ser ágil es una ventaja competitiva; implica
   que no hay estilos buenos o malos, solo más o menos adecuados al contexto.
 origin: "The Power MBA — Módulo 7.2 «Liderar a otros»"
-domain: [leadership, liderazgo, estilos]
+domain: [leadership, liderazgo, estilos, power-mba]
 
 llm_confidence: 0.50
 

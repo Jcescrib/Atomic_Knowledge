@@ -11,7 +11,7 @@ statement: >
   debería competir («If you don't have a competitive advantage, don't compete»,
   Jack Welch).
 origin: "Michael Porter — Competitive Advantage; The Power MBA — Módulo 4.2"
-domain: [estrategia, competencia, ventaja-competitiva]
+domain: [estrategia, competencia, ventaja-competitiva, power-mba]
 
 llm_confidence: 0.50
 

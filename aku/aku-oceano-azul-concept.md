@@ -13,7 +13,7 @@ statement: >
   rojo por entrada de imitadores —y por tanto la búsqueda de océanos
   azules es un proceso continuo, no un acto único—.
 origin: "The Power MBA — Módulo 2.6 «Cómo crear propuestas de valor disruptivas y buscar tu océano azul»"
-domain: [strategy, blue-ocean, innovation, market-creation]
+domain: [strategy, blue-ocean, innovation, market-creation, power-mba]
 
 llm_confidence: 0.50
 

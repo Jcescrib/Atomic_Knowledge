@@ -4,7 +4,7 @@ taku_type: technique
 id: taku-practica-mindfulness
 title: "Práctica de mindfulness (enfocar y crear distancia)"
 origin: "The Power MBA — Módulo 7.1 «Liderarse a uno mismo»"
-domain: [leadership, mindfulness, bienestar, productividad]
+domain: [leadership, mindfulness, bienestar, productividad, power-mba]
 
 when_to_use: "Para recuperar presencia, control emocional y energía cuando la «mente de mono» domina; entrenable en descansos breves a lo largo del día."
 when_not_to_use: "Como sustituto de tratamiento ante trastornos de salud mental que requieran ayuda profesional."

@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-tres-motores-crecimiento
 title: "Los tres motores de crecimiento (pago, viral, sticky)"
 origin: "The Power MBA — Módulo 2.2.1 «Tipos de motores de crecimiento»"
-domain: [growth, business-model, strategy]
+domain: [growth, business-model, strategy, power-mba]
 
 when_to_use: >
   Cuando se necesita diagnosticar qué motor de crecimiento opera (o debería

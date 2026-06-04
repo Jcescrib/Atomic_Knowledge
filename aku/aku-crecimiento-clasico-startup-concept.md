@@ -9,7 +9,7 @@ statement: >
   (experimentar, hacer bootstrapping) para encontrar el PMF y descubrir cómo
   escalar de la forma más eficiente.
 origin: "Reid Hoffman & Chris Yeh — «Blitzscaling»; The Power MBA — Módulo 4.5"
-domain: [estrategia, crecimiento, startup, scaling]
+domain: [estrategia, crecimiento, startup, scaling, power-mba]
 
 llm_confidence: 0.50
 

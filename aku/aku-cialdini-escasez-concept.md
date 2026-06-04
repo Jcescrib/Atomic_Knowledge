@@ -8,7 +8,7 @@ statement: >
   fear of missing out (FOMO, como hacen Booking o Amazon), plazas o unidades
   limitadas, tiempo limitado y preventas.
 origin: "Robert Cialdini — «Influence»; The Power MBA — Módulo 5.1 «Power Selling»"
-domain: [marketing, persuasion, psicologia]
+domain: [marketing, persuasion, psicologia, power-mba]
 
 llm_confidence: 0.50
 

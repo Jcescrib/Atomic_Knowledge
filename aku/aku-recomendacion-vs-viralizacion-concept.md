@@ -11,7 +11,7 @@ statement: >
   de agua de TikTok al compartir en Instagram, la firma de TweetDeck); implica que
   ambas atraen leads y reducen el CAC a un coste cercano a cero.
 origin: "The Power MBA — Módulo 5.8.1 «Recomendación y viralización»"
-domain: [marketing-digital, recomendacion, viralidad, captacion]
+domain: [marketing-digital, recomendacion, viralidad, captacion, power-mba]
 
 llm_confidence: 0.50
 

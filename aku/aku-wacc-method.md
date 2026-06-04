@@ -9,7 +9,7 @@ statement: >
   y T el tipo impositivo (que recoge el escudo fiscal); es la tasa con la que se
   descuentan los Free Cash Flow para estimar el Enterprise Value.
 origin: "The Power MBA — Módulo 9.3 «Conceptos clave: Finanzas»"
-domain: [finanzas, valoracion, coste-capital]
+domain: [finanzas, valoracion, coste-capital, power-mba]
 
 llm_confidence: 0.50
 

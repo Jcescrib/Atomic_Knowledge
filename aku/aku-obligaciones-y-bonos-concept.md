@@ -9,7 +9,7 @@ statement: >
   acceso a financiación en mercados de capitales sin diluir el capital; en el PGC se
   registran en las cuentas 177, 178 y 179.
 origin: "The Power MBA — Módulo 9.1 «Balance de situación»; PGC español"
-domain: [finanzas, contabilidad, deuda]
+domain: [finanzas, contabilidad, deuda, power-mba]
 
 llm_confidence: 0.50
 

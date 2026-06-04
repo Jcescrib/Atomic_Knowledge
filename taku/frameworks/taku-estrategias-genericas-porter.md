@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-estrategias-genericas-porter
 title: "Estrategias genéricas de Porter (coste / diferenciación / nicho)"
 origin: "Michael Porter — Competitive Strategy (1980)"
-domain: [estrategia, competencia, ventaja-competitiva]
+domain: [estrategia, competencia, ventaja-competitiva, power-mba]
 
 when_to_use: >
   Al decidir cómo competir: elegir conscientemente una fuente de ventaja

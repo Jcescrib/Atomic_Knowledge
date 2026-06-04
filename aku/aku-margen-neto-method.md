@@ -8,7 +8,7 @@ statement: >
   porcentaje cuánto de cada euro vendido se convierte en beneficio final tras todos
   los gastos, intereses e impuestos.
 origin: "The Power MBA — Módulo 9.2 «Ratios de análisis financiero»"
-domain: [finanzas, contabilidad, rentabilidad]
+domain: [finanzas, contabilidad, rentabilidad, power-mba]
 
 llm_confidence: 0.50
 

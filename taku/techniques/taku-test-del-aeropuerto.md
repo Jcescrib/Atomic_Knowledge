@@ -4,7 +4,7 @@ taku_type: technique
 id: taku-test-del-aeropuerto
 title: "Test del aeropuerto (visión personal a 5 años por áreas)"
 origin: "The Power MBA — Módulo 8.1 «Herramientas de desarrollo personal»"
-domain: [desarrollo-personal, vision, objetivos]
+domain: [desarrollo-personal, vision, objetivos, power-mba]
 
 when_to_use: "Para forzar una imagen concreta de dónde quieres estar en 5 años en las áreas que importan, como punto de partida del diagnóstico estratégico personal."
 when_not_to_use: "Como plan operativo detallado; es un ejercicio de visión, no una lista de tareas."

@@ -10,7 +10,7 @@ statement: >
   contenido imaginativo; su limitación principal es no estar muy adaptada a las
   empresas.
 origin: "The Power MBA — Módulo 12 «Social media» — Tabla comparativa RRSS"
-domain: [marketing-digital, social-media, canales]
+domain: [marketing-digital, social-media, canales, power-mba]
 
 llm_confidence: 0.50
 

@@ -9,7 +9,7 @@ statement: >
   la demanda y, a la vez, conseguir financiación inicial sin haber desarrollado el
   producto.
 origin: "The Power MBA — Módulo 3.0.1 «El método Lean Startup» (Eric Ries)"
-domain: [lean-startup, mvp, validation, crowdfunding]
+domain: [lean-startup, mvp, validation, crowdfunding, power-mba]
 
 llm_confidence: 0.50
 

@@ -10,7 +10,7 @@ statement: >
   Google Ads predice mejor rendimiento y el ranking del anuncio es suficientemente
   alto; excluye los elementos obligatorios del anuncio.
 origin: "The Power MBA — Módulo 11 «Google Ads» — Anuncios de texto"
-domain: [marketing-digital, sem, google-ads]
+domain: [marketing-digital, sem, google-ads, power-mba]
 
 llm_confidence: 0.50
 

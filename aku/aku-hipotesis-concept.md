@@ -13,7 +13,7 @@ statement: >
   que el primer paso al abordar una idea con incertidumbre es identificar
   todas las hipótesis implícitas para priorizar las críticas a testar.
 origin: "The Power MBA — Módulo 3.0.1 «El método Lean Startup»"
-domain: [lean-startup, hypothesis, validation, methodology]
+domain: [lean-startup, hypothesis, validation, methodology, power-mba]
 
 llm_confidence: 0.50
 

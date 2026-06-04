@@ -10,7 +10,7 @@ statement: >
   implica eficiencia y consistencia en la operación del community manager; excluye la
   creación del contenido en sí (eso son las herramientas de creación).
 origin: "The Power MBA — Módulo 12 «Social media» — Herramientas de gestión"
-domain: [marketing-digital, social-media, community-management]
+domain: [marketing-digital, social-media, community-management, power-mba]
 
 llm_confidence: 0.50
 

@@ -8,7 +8,7 @@ statement: >
   vender más caro (la marca hace el producto inmediatamente más valioso) y genera
   clientes más fieles, además de constituir en sí misma una ventaja competitiva.
 origin: "The Power MBA — Módulo 4.4 «Branding»"
-domain: [marketing, branding, ventaja-competitiva]
+domain: [marketing, branding, ventaja-competitiva, power-mba]
 
 llm_confidence: 0.50
 

@@ -11,7 +11,7 @@ statement: >
   acción (ventas generadas, ratio de conversión → Google Analytics); implica exigir por
   contrato las estadísticas para poder calcular el retorno.
 origin: "The Power MBA — Módulo 14 «Marketing de influencers» — Medición de resultados"
-domain: [marketing-digital, influencer-marketing, analitica]
+domain: [marketing-digital, influencer-marketing, analitica, power-mba]
 
 llm_confidence: 0.50
 

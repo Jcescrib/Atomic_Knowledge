@@ -8,7 +8,7 @@ statement: >
   muy concentrados, con poca competencia, donde los líderes fijan los precios y
   dirigen el cambio de la industria.
 origin: "The Power MBA — Módulo 4.1 «Análisis de un sector»"
-domain: [estrategia, analisis-sectorial, competencia, market-structure]
+domain: [estrategia, analisis-sectorial, competencia, market-structure, power-mba]
 
 llm_confidence: 0.50
 

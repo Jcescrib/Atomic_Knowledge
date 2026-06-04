@@ -11,7 +11,7 @@ statement: >
   las dos —tráfico de calidad pero escaso no sostiene el negocio, y tráfico
   abundante pero malo desperdicia recursos—.
 origin: "The Power MBA — Módulo 5.4.1 «Atracción y branding»"
-domain: [marketing-digital, atraccion, trafico, funnel]
+domain: [marketing-digital, atraccion, trafico, funnel, power-mba]
 
 llm_confidence: 0.50
 

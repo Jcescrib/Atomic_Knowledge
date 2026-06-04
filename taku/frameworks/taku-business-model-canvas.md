@@ -4,7 +4,7 @@ taku_type: framework
 id: taku-business-model-canvas
 title: "Business Model Canvas (BMC)"
 origin: "The Power MBA — Módulo 2.1 «Análisis de un modelo de negocio: Innovación BMC»"
-domain: [business-model, strategy, framework, bmc]
+domain: [business-model, strategy, framework, bmc, power-mba]
 
 when_to_use: >
   Cuando se necesita describir, analizar o diseñar un modelo de negocio
