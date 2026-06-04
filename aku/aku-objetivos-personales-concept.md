@@ -33,7 +33,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-ikigai-concept, aku-compartir-objetivos-compromiso-claim]
+  related: [aku-ikigai-concept, aku-compartir-objetivos-compromiso-claim, aku-diagnostico-estrategico-personal-concept, aku-claridad-objetivos-fortalezas-exito-claim]
 
 sources:
   - raw/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -46,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-ikigai-concept]] · [[aku-compartir-objetivos-compromiso-claim]]
+**related** ↔ [[aku-ikigai-concept]] · [[aku-compartir-objetivos-compromiso-claim]] · [[aku-diagnostico-estrategico-personal-concept]] · [[aku-claridad-objetivos-fortalezas-exito-claim]]

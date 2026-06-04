@@ -1017,3 +1017,21 @@ sources:
       cultura↔cascada, liderazgo↔tests-personalidad, autoevaluacion↔minimalismo-digital). Bridge
       tres-capas→liderar-vs-gestionar cerrado. Grafo final: 263 AKUs / 43 TAKUs, 1 componente, 0
       asimetrías, 0 body-drift.
+  - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\08-desarrollo personal\08.01.01-Diagnostico desarrollo personal.pdf"
+    name_slug: "08-01-01-diagnostico-desarrollo-personal"
+    raw_path: "raw/08-01-01-diagnostico-desarrollo-personal/"
+    converter: mineru
+    converted: 2026-06-04
+    image_processing: 2026-06-04
+    ingested: 2026-06-04
+    chapters_ingested: []
+    aku_count: 3
+    taku_count: 0
+    last_commit: ""
+    notes: >
+      Módulo 08 «Desarrollo personal» PDF 1 — Diagnóstico estratégico personal. 1 concept
+      (diagnostico-estrategico-personal) + 2 claim (claridad-objetivos-fortalezas-exito,
+      alineacion-laboral-motivaciones-felicidad de Carlos Puig). 2 imágenes decorativas (portada +
+      retrato Carlos Puig). related ↔ objetivos-personales, autoevaluacion-cuerpo-mente-alma.
+      Posible dedup leve anotado: claridad-objetivos-exito vs autoliderazgo-prerequisito (distintos,
+      conservado separado).

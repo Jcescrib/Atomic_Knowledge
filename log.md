@@ -409,3 +409,15 @@ Verificación post-7.1.x: sin asimetrías ni body-drift dentro del lote.
   + bridge tres-capas → liderar-vs-gestionar (capa equipos/organizaciones).
 Verificación final módulo 07: 263 AKUs / 43 TAKUs, 1 componente conectado, 0 nodos aislados,
 0 asimetrías bidireccionales, 0 body-drift, 0 wikilinks rotos (script format-aware AKU+TAKU).
+
+---
+
+## 2026-06-04 — pipeline módulo 08 «Desarrollo personal» PDF 1/2: 08.01.01 Diagnóstico estratégico personal
+
++3 AKUs (1 concept + 2 claim):
+- aku-diagnostico-estrategico-personal-concept — aplicar aparato estratégico de empresa (visión/objetivos/planes/KPIs) a la persona.
+- aku-claridad-objetivos-fortalezas-exito-claim — sin claridad de objetivos/fortalezas/motivaciones, el éxito es más difícil.
+- aku-alineacion-laboral-motivaciones-felicidad-claim — (Carlos Puig) trabajo alineado con motivaciones/fortalezas ↑ felicidad.
+Relations: related ↔ objetivos-personales-concept, autoevaluacion-cuerpo-mente-alma-concept (3 capas sync).
+Imágenes: 2 decorativas (portada Power MBA + retrato Carlos Puig). 0 TAKUs.
+Posible dedup leve anotado para revisión: claridad-objetivos-exito vs autoliderazgo-prerequisito (conservados separados — distinto objeto).
