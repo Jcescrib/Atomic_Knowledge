@@ -277,3 +277,5 @@ Borrados los 15 AKUs `*-kolenda-*` creados a granularidad de tesis nuclear (deci
 - **Manifest**: los 16 PDFs de `5.6-nickkolenda` marcados `ingested: null # pending-reingestion`, `aku_count: 0`, nota "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA". `converted`/`raw_path` intactos.
 - **Verificado**: 181 AKUs / 28 TAKUs, 0 referencias kolenda residuales, 0 wikilinks rotos, 0 asimetrías, 0 body-drift, 1 componente conectado, 0 huérfanos.
 - Nota: CLAUDE.md prohíbe borrar AKUs (usar deprecated); ejecutado bajo override explícito del propietario, reversible por git.
+
+## 2026-06-04 — lint  0 errors / 6 warnings / info

@@ -54,13 +54,14 @@ _(none — fresh post-reset graph; the 2.1-BMC ingest was vacuous against the em
 
 ## Lint flags (latest run)
 
-**2026-06-03 (post-módulo 02)**: 0 errors · 5 warnings · 3 informational. Graph healthy after autonomous repair of 15 bidirectional asymmetries detected during the lint pass (all `related` and 1 `supports` cross-module edge inverses).
-- 72 AKUs / 8 TAKUs / 212 directed edges all symmetric.
-- W1-5 — 5 TAKUs > 7 `justified_by` (BMC=14, growth-metrics=12, plataformas=12, Power Value=11, océano-azul=9). Expected for comprehensive frameworks.
-- I1 — No axiom candidates yet (top AKU has 3 incoming `supports`, threshold 10).
-- I2 — 2 AKUs at `llm_confidence: 0.60` after dedup (segmentos-de-clientes, propuesta-de-valor).
+**2026-06-04 (post-módulos 04+05 + cleanup Kolenda)**: **0 errors · 6 warnings · informational**. 181 AKUs / 28 TAKUs · 1 connected component · 0 isolated · 0 bidirectional asymmetries (AKU 181/181, TAKU 28/28) · 0 body-drift · 0 broken wikilinks · 0 `sources[]` violations.
+- W1-6 — 6 TAKUs > 7 `justified_by` (BMC=14, lean-startup=12, plataformas=12, growth-metrics=11, Power Value=11, océano-azul=9). Expected for comprehensive frameworks; ningún TAKU de los módulos 04/05 supera el umbral (máx. cinco-fuerzas=6).
+- Decay/freshness: **ninguna** (todo `created` 2026-06-03, ≤1 día). I2 (related-only, 80 AKUs) disparará >14d (~2026-06-17); contradicción Porter↔océano-azul disparará >30d (~2026-07-03).
+- I3 — Sin axiom candidates (hub máximo: cinco-fuerzas-porter con 5 incoming `supports`, umbral 10).
+- I4 — Clusters de vocabulario `domain` ES/EN propuestos para normalización (estrategia/strategy, crecimiento/growth, metricas/metrics…) — propuesta, sin auto-merge.
+- 16 PDFs `5.6-nickkolenda` en `pending-reingestion`.
 
-Full report: `outputs/lint/2026-06-03-modulo-02.md` (gitignored).
+Full report: `outputs/lint/2026-06-04.md` (gitignored).
 
 ## Domain map
 
