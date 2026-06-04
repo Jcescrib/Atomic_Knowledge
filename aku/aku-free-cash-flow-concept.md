@@ -26,7 +26,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-dcf-method]
+  supports: [aku-dcf-method, aku-precio-flujo-caja-method]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -45,5 +45,5 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-dcf-method]]
+**supports** → [[aku-dcf-method]] · [[aku-precio-flujo-caja-method]]
 **related** ↔ [[aku-cash-flow-accionistas-concept]] · [[aku-enterprise-value-concept]] · [[aku-valor-residual-concept]]

@@ -26,7 +26,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-margen-ebitda-method]
+  supports: [aku-margen-ebitda-method, aku-ev-ebitda-method]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -45,5 +45,5 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-margen-ebitda-method]]
+**supports** → [[aku-margen-ebitda-method]] · [[aku-ev-ebitda-method]]
 **related** ↔ [[aku-ebit-concept]] · [[aku-amortizacion-concept]] · [[aku-margen-bruto-concept]] · [[aku-multiplo-concept]]

@@ -26,7 +26,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports: [aku-ev-ebitda-method, aku-ev-ventas-method]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -45,4 +45,5 @@ status_note: ""
 
 ## Relaciones
 
+**supports** → [[aku-ev-ebitda-method]] · [[aku-ev-ventas-method]]
 **related** ↔ [[aku-equity-value-concept]] · [[aku-valoracion-empresa-enfoques-concept]] · [[aku-free-cash-flow-concept]]

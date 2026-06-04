@@ -26,7 +26,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-valoracion-por-multiplos-method, aku-per-method]
+  supports: [aku-valoracion-por-multiplos-method, aku-per-method, aku-ev-ebitda-method, aku-ev-ventas-method, aku-precio-valor-contable-method, aku-precio-flujo-caja-method]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -45,5 +45,5 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-valoracion-por-multiplos-method]] · [[aku-per-method]]
+**supports** → [[aku-valoracion-por-multiplos-method]] · [[aku-per-method]] · [[aku-ev-ebitda-method]] · [[aku-ev-ventas-method]] · [[aku-precio-valor-contable-method]] · [[aku-precio-flujo-caja-method]]
 **related** ↔ [[aku-ebitda-concept]] · [[aku-ventas-concept]] · [[aku-beneficio-neto-concept]]

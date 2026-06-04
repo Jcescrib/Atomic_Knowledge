@@ -26,7 +26,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports: [aku-precio-valor-contable-method]
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -45,4 +45,5 @@ status_note: ""
 
 ## Relaciones
 
+**supports** → [[aku-precio-valor-contable-method]]
 **related** ↔ [[aku-enterprise-value-concept]] · [[aku-coste-fondos-propios-ke-concept]] · [[aku-cash-flow-accionistas-concept]]

@@ -32,7 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related: [aku-precio-valor-contable-method]
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -46,3 +46,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-valoracion-empresa-enfoques-concept]]
+**related** ↔ [[aku-precio-valor-contable-method]]
