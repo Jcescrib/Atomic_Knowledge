@@ -27,7 +27,8 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-formatos-marketing-contenidos-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -52,5 +53,7 @@ status_note: ""
 ---
 
 ## Relaciones
+
+**supports** → [[aku-formatos-marketing-contenidos-concept]]
 
 **related** ↔ [[aku-inbound-marketing-concept]] · [[aku-canales-marketing-digital-concept]] · [[aku-herramientas-creacion-contenido-rrss-concept]] · [[aku-audiencia-activo-compuesto-claim]] · [[aku-content-nutre-toda-publicidad-claim]]
