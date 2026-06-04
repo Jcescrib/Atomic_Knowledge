@@ -33,7 +33,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-marketing-influencers-concept, aku-power-funnel-concept]
+  related: [aku-marketing-influencers-concept, aku-power-funnel-concept, aku-clausula-remuneracion-influencer-concept, aku-clausula-envio-resultados-influencer-concept]
 
 sources:
   - raw/cursos/power-mba/14-06-medici-on-resultados-influencers-pptx/14-06-medici-on-resultados-influencers-pptx.md
@@ -46,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-marketing-influencers-concept]] · [[aku-power-funnel-concept]]
+**related** ↔ [[aku-marketing-influencers-concept]] · [[aku-power-funnel-concept]] · [[aku-clausula-remuneracion-influencer-concept]] · [[aku-clausula-envio-resultados-influencer-concept]]
