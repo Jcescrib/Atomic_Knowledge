@@ -352,3 +352,9 @@ Puentes: business-angel ↔ venture-capital/fases; fff ↔ bootstrapping; socio-
 
 ## 2026-06-04 — reingesta diferencial 02–06 COMPLETA
 Total: +37 AKUs (02:+3, 03:+3, 04:+10, 05:+15, 06:+6). Grafo: 231 AKUs / 32 TAKUs, 1 componente conectado, 0 asimetrías, 0 body-drift, 0 wikilinks rotos, 0 sin aku_class. Kolenda excluido (preferencia usuario). 2 ambigüedades pendientes de consulta: `content-marketing` (¿AKU propio o faceta de inbound-marketing?) y `publicidad-dirigida` como MVP (¿propio o faceta de performance/test-de-humo?).
+
+## 2026-06-04 — reingesta diferencial: resolución de ambigüedades
+Las 2 ambigüedades pendientes resueltas como AKU propio (decisión del humano):
+- `aku-content-marketing-concept` (canal/táctica distinta de inbound) → related ↔ inbound-marketing, canales-marketing-digital.
+- `aku-publicidad-dirigida-mvp-concept` (instancia del paraguas test-de-humo: lanzar publicidad real, no el producto, para medir demanda) → related ↔ test-de-humo, performance-marketing, outbound-marketing.
+Grafo final reingesta diferencial: 233 AKUs / 32 TAKUs, 1 componente, 0 asimetrías, 0 body-drift, 0 wikilinks rotos.
