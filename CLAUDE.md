@@ -78,7 +78,21 @@ End-to-end ingestion of an external folder of PDFs and/or pre-converted markdown
 
 For batch processing of an external folder of PDFs/markdowns (including MinerU conversion and image vision-classification), use `/pipeline <folder>` above. The `/ingest` command below operates on one source already present in `raw/`.
 
-1. **Read the source completely.** Identify atomic propositions across all three AKU classes — claims, methods, and concepts (see § AKU classes) — and any executable structures (techniques, cases, tools, frameworks, heuristics, stories, protocols). Do not discard content-bearing definitions or formulas as "merely definitional."
+> ### ⚠ Salvaguarda 1 — Paso de COBERTURA obligatorio (antes de crear ningún AKU, por capítulo)
+>
+> Antes de crear AKUs en cada capítulo, **enumera primero TODOS los items con identidad propia del capítulo** (concepts, methods, claims) con su **nombre y su clase**, y **muestra el recuento** (p. ej. "Capítulo X: 18 items — 9 concept, 3 method, 6 claim"). **Solo entonces** crea AKUs — **uno por cada item enumerado**, deduplicando cada uno contra el grafo. Sin enumeración previa **no hay garantía de cobertura**: extraer "sobre la marcha" produce omisiones sistemáticas (sub-tipos plegados, claims normativos descartados, fórmulas saltadas). La enumeración es el *denominador* contra el que se mide la creación. Verificar el grafo (simetría, body-drift, componentes) comprueba *consistencia*, **nunca cobertura** — son chequeos distintos y ambos son obligatorios.
+
+> ### ⚠ Salvaguarda 2 — Granularidad MÁXIMA siempre (invariante, no negociable)
+>
+> La granularidad del vault es **máxima por defecto y en todo momento**. **Si existe identidad propia, existe AKU propio.**
+> - **Nunca plegar sub-tipos en un paraguas** si tienen nombre propio, mecanismo diferenciado o condiciones de aplicación distintas (cada componente de un framework, cada tipo de garantía/oferta/escasez, cada método individual → su propio AKU, enlazado al paraguas con `supported_by`/`related`).
+> - **Nunca omitir un claim normativo del autor** ("siempre haz X", "nunca hagas Y", "X produce mejor Y que Z") aunque parezca obvio → es un claim-AKU propio.
+> - **Nunca omitir una fórmula o cálculo** → es un method-AKU propio.
+> - **Mismo nombre, definición/matiz/condiciones distintas ≠ dedup** → AKU nuevo con `related` (no fusionar). Confundir adyacencia conceptual con equivalencia es un error de dedup.
+>
+> Esta regla **no se negocia ni se ajusta por eficiencia, longitud del informe ni volumen** — es invariante. Ante la duda, **crea**.
+
+1. **Read the source completely.** Identify atomic propositions across all three AKU classes — claims, methods, and concepts (see § AKU classes) — and any executable structures (techniques, cases, tools, frameworks, heuristics, stories, protocols). Do not discard content-bearing definitions or formulas as "merely definitional." **Then run the COVERAGE step (Salvaguarda 1): enumerate every identity-bearing item per chapter with name + class and show the count, before creating anything.**
 2. **For each candidate AKU, run semantic dedup against all active AKUs in `aku/`:**
    - **Equivalent claim exists** → add this source to that AKU's `sources[]`, recompute `llm_confidence` (+0.10 per new independent source, cap 0.95), update `updated:`. Do NOT create a new AKU.
    - **Similar but distinct** → flag the pair in `outputs/lint/` and ask the human before creating.
