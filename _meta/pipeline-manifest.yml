@@ -1443,3 +1443,20 @@ sources:
       (warm/cold outreach, content, paid ads), lead getters (referidos, empleados, agencias,
       afiliados), unit-economics (LTGP:CAC, client-financed-acquisition), more-better-new,
       open-to-goal. verify_graph 515 AKUs / 0 errores.
+
+  - original: "G:\\Mi unidad\\2-Areas\\03-Formación\\The power MBA\\Apuntes Power MBA\\05-Estrategies de marketing digital\\5.6-nickkolenda-Marketing full PDF\\Alex Hormozi\\100M Money Models.pdf"
+    name_slug: "100m-money-models"
+    raw_path: "raw/libros/hormozi/100m-money-models/"
+    converter: mineru
+    converted: 2026-06-03
+    image_processing: n/a
+    ingested: null   # book mode — en curso
+    chapters_ingested: [money-model-y-attraction-offers]
+    aku_count: 4
+    taku_count: 0
+    last_commit: ""
+    notes: >
+      Libro 3 de la trilogía Hormozi (Acquisition.com Vol. III, el más reciente). source-tag:
+      hormozi. Estructura: money model + 4 tipos de oferta (attraction/upsell/downsell/continuity)
+      + make your money model. Cap.1: money-model, cuatro-tipos-oferta, attraction-offer,
+      win-your-money-back. INTEGRATE (a): money-model↔client-financed-acquisition/cac-payback.

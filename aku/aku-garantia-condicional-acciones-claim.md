@@ -33,6 +33,7 @@ relations:
   related:
     - aku-garantia-reversion-riesgo-concept
     - aku-clientes-por-garantia-toxicos-claim
+    - aku-win-your-money-back-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-garantia-reversion-riesgo-concept]] · [[aku-clientes-por-garantia-toxicos-claim]]
+**related** ↔ [[aku-garantia-reversion-riesgo-concept]] · [[aku-clientes-por-garantia-toxicos-claim]] · [[aku-win-your-money-back-concept]]

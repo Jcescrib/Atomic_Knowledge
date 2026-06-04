@@ -43,6 +43,7 @@ relations:
     - aku-motor-crecimiento-pago-concept
     - aku-motor-crecimiento-sticky-concept
     - aku-client-financed-acquisition-concept
+    - aku-money-model-concept
 
 sources:
   - "raw/cursos/power-mba/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md"
@@ -57,4 +58,4 @@ status_note: ""
 
 **supported_by** ← [[aku-cltv-concept]] · [[aku-cac-concept]]
 
-**related** ↔ [[aku-cltv-cac-ratio-concept]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-motor-crecimiento-sticky-concept]] · [[aku-client-financed-acquisition-concept]]
+**related** ↔ [[aku-cltv-cac-ratio-concept]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-motor-crecimiento-sticky-concept]] · [[aku-client-financed-acquisition-concept]] · [[aku-money-model-concept]]
