@@ -702,3 +702,9 @@ Ingesta hiper-exhaustiva, granularidad máxima. **COBERTURA**: 11 items (4 conce
 - **Candidatos TAKU flagged (NO creados, decisión AKU-céntrica de la instrucción Jocko)**: `taku-laws-of-combat` (framework, justified_by las 4 leyes), `taku-prioritize-and-execute` (protocol, los 7 pasos), `taku-planning-checklist` (tool, leaders-checklist-planning), `taku-post-operational-debrief` (protocol, 3 preguntas), `taku-dichotomy-of-leadership` (framework, las dicotomías). Crear si Joan lo aprueba.
 
 Próximo libro: **dichotomy-of-leadership** (PDF, 345 págs) — enriquecerá los AKUs de dicotomías ya creados (dedup + 2ª fuente).
+
+## 2026-06-05 — FASE 2 Jocko · Libro 2 The Dichotomy of Leadership (Willink & Babin 2018)
+
+### Introducción + Cap 1 «The Ultimate Dichotomy» (+7 AKUs, +1 enrich)
+
+**COBERTURA**: intro (1 claim + enrich umbrella) + cap1 (2 concept, 4 claim). 1177→1184. **Puente cross-libro**: `dichotomy-of-leadership` enriquecido con 2ª fuente (dichotomy-of-leadership.md) → confianza 0.50→0.60; ahora cubre EO cap12 + este libro. Intro: `liderazgo-requiere-balance-no-extremos` (tesis del libro: EO es el fundamento pero el liderazgo exige equilibrio, no extremos). Cap1: `ultimate-dichotomy-cuidar-vs-mision` (la dicotomía más difícil; related cercano-pero-no-demasiado/lealtad-mision), `burden-of-command`, cuidar-demasiado-impide-decisiones-duras, demasiado-desapegado-dana-al-equipo (↔ battlefield-aloofness), a-veces-hay-que-herir-para-ayudar, proteger-a-pocos-arriesga-a-todos (↔ lealtad-mision/equipo-gana-o-falla). verify_graph: 1184 AKUs, 0 errores.

@@ -33,6 +33,7 @@ relations:
   related:
     - aku-decentralized-command-concept
     - aku-micromanagement-disuelve-en-caos-claim
+    - aku-demasiado-desapegado-dana-al-equipo-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-decentralized-command-concept]] · [[aku-micromanagement-disuelve-en-caos-claim]]
+**related** ↔ [[aku-decentralized-command-concept]] · [[aku-micromanagement-disuelve-en-caos-claim]] · [[aku-demasiado-desapegado-dana-al-equipo-claim]]

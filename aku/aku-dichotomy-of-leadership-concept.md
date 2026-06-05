@@ -12,7 +12,7 @@ statement: >
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
 domain: [liderazgo, jocko, dicotomia]
 
-llm_confidence: 0.50
+llm_confidence: 0.60
 
 human_certainty:
   status: unvalidated
@@ -41,6 +41,8 @@ relations:
     - aku-nada-que-probar-pero-todo-que-probar-concept
     - aku-lider-se-desvia-por-inclinarse-demasiado-claim
     - aku-confident-but-not-cocky-concept
+    - aku-liderazgo-requiere-balance-no-extremos-claim
+    - aku-ultimate-dichotomy-cuidar-vs-mision-concept
   supports: []
   constrained_by: []
   constrains: []
@@ -51,6 +53,7 @@ relations:
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
+  - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
 
 created: 2026-06-05
 updated: 2026-06-05
@@ -60,4 +63,4 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-discipline-equals-freedom-concept]] · [[aku-lider-y-seguidor-concept]] · [[aku-agresivo-no-prepotente-concept]] · [[aku-calmado-no-robotico-concept]] · [[aku-valiente-no-temerario-concept]] · [[aku-competitivo-buen-perdedor-concept]] · [[aku-atento-detalle-no-obsesionado-concept]] · [[aku-fuerte-con-resistencia-concept]] · [[aku-humilde-no-pasivo-concept]] · [[aku-callado-no-silencioso-concept]] · [[aku-cercano-pero-no-demasiado-concept]] · [[aku-balance-ownership-decentralized-command-concept]] · [[aku-nada-que-probar-pero-todo-que-probar-concept]] · [[aku-lider-se-desvia-por-inclinarse-demasiado-claim]] · [[aku-confident-but-not-cocky-concept]]
+**supported_by** ← [[aku-discipline-equals-freedom-concept]] · [[aku-lider-y-seguidor-concept]] · [[aku-agresivo-no-prepotente-concept]] · [[aku-calmado-no-robotico-concept]] · [[aku-valiente-no-temerario-concept]] · [[aku-competitivo-buen-perdedor-concept]] · [[aku-atento-detalle-no-obsesionado-concept]] · [[aku-fuerte-con-resistencia-concept]] · [[aku-humilde-no-pasivo-concept]] · [[aku-callado-no-silencioso-concept]] · [[aku-cercano-pero-no-demasiado-concept]] · [[aku-balance-ownership-decentralized-command-concept]] · [[aku-nada-que-probar-pero-todo-que-probar-concept]] · [[aku-lider-se-desvia-por-inclinarse-demasiado-claim]] · [[aku-confident-but-not-cocky-concept]] · [[aku-liderazgo-requiere-balance-no-extremos-claim]] · [[aku-ultimate-dichotomy-cuidar-vs-mision-concept]]

@@ -33,6 +33,7 @@ relations:
   related:
     - aku-lealtad-mision-sobre-individuo-claim
     - aku-entrenar-mentorizar-underperformer-claim
+    - aku-cuidar-demasiado-impide-decisiones-duras-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-entrenar-mentorizar-underperformer-claim]]
+**related** ↔ [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-entrenar-mentorizar-underperformer-claim]] · [[aku-cuidar-demasiado-impide-decisiones-duras-claim]]

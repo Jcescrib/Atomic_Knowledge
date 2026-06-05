@@ -1488,10 +1488,10 @@ sources:
     raw_path: "raw/libros/jocko/dichotomy-of-leadership/"
     converter: mineru
     converted: 2026-06-05
-    image_processing: null
-    ingested: null
-    chapters_ingested: []
-    aku_count: 0
+    image_processing: n/a
+    ingested: null   # FASE 2 en curso — book mode
+    chapters_ingested: [introduccion, cap01-ultimate-dichotomy]
+    aku_count: 7
     taku_count: 0
     last_commit: ""
     notes: >

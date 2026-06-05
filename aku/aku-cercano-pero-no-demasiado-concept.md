@@ -31,7 +31,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-ultimate-dichotomy-cuidar-vs-mision-concept
+    - aku-cuidar-demasiado-impide-decisiones-duras-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
+
+**related** ↔ [[aku-ultimate-dichotomy-cuidar-vs-mision-concept]] · [[aku-cuidar-demasiado-impide-decisiones-duras-claim]]
