@@ -36,6 +36,7 @@ relations:
     - aku-armate-con-specific-knowledge-accountability-y-leverage-claim
     - aku-fallar-en-publico-bajo-tu-nombre-da-poder-claim
     - aku-el-riesgo-a-la-baja-de-fracasar-es-pequeno-asume-mas-accountability-claim
+    - aku-habit-contract-y-accountability-partner-method
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-productize-yourself-concept]] · [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-fallar-en-publico-bajo-tu-nombre-da-poder-claim]] · [[aku-el-riesgo-a-la-baja-de-fracasar-es-pequeno-asume-mas-accountability-claim]]
+**related** ↔ [[aku-productize-yourself-concept]] · [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-fallar-en-publico-bajo-tu-nombre-da-poder-claim]] · [[aku-el-riesgo-a-la-baja-de-fracasar-es-pequeno-asume-mas-accountability-claim]] · [[aku-habit-contract-y-accountability-partner-method]]
