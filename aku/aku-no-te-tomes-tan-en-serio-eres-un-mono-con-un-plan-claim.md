@@ -1,15 +1,12 @@
 ---
 type: aku
-aku_class: concept
-id: aku-el-ego-se-construye-en-las-primeras-dos-decadas-concept
+aku_class: claim
+id: aku-no-te-tomes-tan-en-serio-eres-un-mono-con-un-plan-claim
 statement: >
-  El ego se construye en las primeras dos décadas de vida a partir del entorno,
-  los padres y la sociedad, y luego pasamos el resto de la vida intentando
-  hacerlo feliz, interpretando todo lo nuevo a través de él («¿cómo cambio el
-  mundo externo para que sea más como yo quiero?»); implica que el ego es una
-  construcción revisable, no tu esencia.
+  No te tomes tan en serio: no eres más que un mono con un plan; rebajar la
+  autoimportancia y el peso del propio ego facilita aprender la felicidad.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, ego, identidad]
+domain: [naval, felicidad, ego]
 
 llm_confidence: 0.50
 
@@ -31,8 +28,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,5 +42,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim]]

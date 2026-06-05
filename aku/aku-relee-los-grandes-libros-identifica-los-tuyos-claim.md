@@ -1,14 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-domina-lo-basico-los-conceptos-avanzados-solo-senalan-pertenencia-claim
+id: aku-relee-los-grandes-libros-identifica-los-tuyos-claim
 statement: >
-  Conviene clavar lo básico antes que profundizar: los conceptos avanzados de un
-  campo están menos probados y los usamos para señalar conocimiento de iniciado,
-  cuando estaríamos mejor dominando los fundamentos; quien usa muchas palabras y
-  conceptos rimbombantes probablemente no sabe de qué habla.
+  Más que leerlo todo, conviene releer una y otra vez los grandes libros e
+  identificar cuáles son los grandes para ti (distintos libros hablan a
+  distintas personas); leer no es una carrera: cuanto mejor es el libro, más
+  despacio hay que absorberlo.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, pensamiento, fundamentos]
+domain: [naval, lectura, aprendizaje]
 
 llm_confidence: 0.50
 
@@ -31,7 +31,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-lee-los-originales-y-clasicos-para-una-base-solida-claim
+    - aku-lee-lo-que-amas-hasta-que-ames-leer-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,6 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-lee-los-originales-y-clasicos-para-una-base-solida-claim]]
+**related** ↔ [[aku-lee-lo-que-amas-hasta-que-ames-leer-claim]]

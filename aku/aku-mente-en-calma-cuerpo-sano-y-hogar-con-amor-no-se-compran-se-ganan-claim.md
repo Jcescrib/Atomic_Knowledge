@@ -1,15 +1,13 @@
 ---
 type: aku
-aku_class: concept
-id: aku-el-ego-se-construye-en-las-primeras-dos-decadas-concept
+aku_class: claim
+id: aku-mente-en-calma-cuerpo-sano-y-hogar-con-amor-no-se-compran-se-ganan-claim
 statement: >
-  El ego se construye en las primeras dos décadas de vida a partir del entorno,
-  los padres y la sociedad, y luego pasamos el resto de la vida intentando
-  hacerlo feliz, interpretando todo lo nuevo a través de él («¿cómo cambio el
-  mundo externo para que sea más como yo quiero?»); implica que el ego es una
-  construcción revisable, no tu esencia.
+  Una mente en calma, un cuerpo en forma y un hogar lleno de amor no pueden
+  comprarse: deben ganarse; son los bienes centrales de una buena vida y ninguno
+  se obtiene con dinero.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, ego, identidad]
+domain: [naval, felicidad, salud]
 
 llm_confidence: 0.50
 
@@ -31,8 +29,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,5 +43,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim]]

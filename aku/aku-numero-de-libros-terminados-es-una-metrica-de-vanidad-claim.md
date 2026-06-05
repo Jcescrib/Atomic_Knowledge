@@ -1,15 +1,15 @@
 ---
 type: aku
-aku_class: concept
-id: aku-el-ego-se-construye-en-las-primeras-dos-decadas-concept
+aku_class: claim
+id: aku-numero-de-libros-terminados-es-una-metrica-de-vanidad-claim
 statement: >
-  El ego se construye en las primeras dos décadas de vida a partir del entorno,
-  los padres y la sociedad, y luego pasamos el resto de la vida intentando
-  hacerlo feliz, interpretando todo lo nuevo a través de él («¿cómo cambio el
-  mundo externo para que sea más como yo quiero?»); implica que el ego es una
-  construcción revisable, no tu esencia.
+  El número de libros terminados es una métrica de vanidad: a medida que sabes
+  más, dejas más libros sin terminar; conviene no sentir obligación de
+  acabarlos, tratarlos como posts desechables (leyendo entre diez y veinte a la
+  vez, saltando y empezando por el medio) y centrarse en conceptos nuevos con
+  poder predictivo.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, ego, identidad]
+domain: [naval, lectura, habitos]
 
 llm_confidence: 0.50
 
@@ -31,8 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,5 +45,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim]]

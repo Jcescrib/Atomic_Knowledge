@@ -1,14 +1,15 @@
 ---
 type: aku
 aku_class: claim
-id: aku-domina-lo-basico-los-conceptos-avanzados-solo-senalan-pertenencia-claim
+id: aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim
 statement: >
-  Conviene clavar lo básico antes que profundizar: los conceptos avanzados de un
-  campo están menos probados y los usamos para señalar conocimiento de iniciado,
-  cuando estaríamos mejor dominando los fundamentos; quien usa muchas palabras y
-  conceptos rimbombantes probablemente no sabe de qué habla.
+  Para Naval la felicidad no es pensamiento positivo ni negativo, sino la
+  ausencia de deseo —sobre todo de deseo por cosas externas— y la presencia en
+  el momento: cuantos menos deseos tienes y más aceptas el estado actual, menos
+  se mueve la mente y más feliz eres; aferrarse a «estoy feliz» y querer
+  perpetuarlo te saca de la felicidad.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, pensamiento, fundamentos]
+domain: [naval, felicidad, presente]
 
 llm_confidence: 0.50
 
@@ -31,7 +32,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-lee-los-originales-y-clasicos-para-una-base-solida-claim
+    - aku-el-deseo-y-el-ego-nublan-la-realidad-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,6 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-lee-los-originales-y-clasicos-para-una-base-solida-claim]]
+**related** ↔ [[aku-el-deseo-y-el-ego-nublan-la-realidad-claim]]

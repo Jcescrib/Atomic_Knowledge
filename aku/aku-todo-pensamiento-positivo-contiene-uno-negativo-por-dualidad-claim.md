@@ -1,15 +1,15 @@
 ---
 type: aku
-aku_class: concept
-id: aku-el-ego-se-construye-en-las-primeras-dos-decadas-concept
+aku_class: claim
+id: aku-todo-pensamiento-positivo-contiene-uno-negativo-por-dualidad-claim
 statement: >
-  El ego se construye en las primeras dos décadas de vida a partir del entorno,
-  los padres y la sociedad, y luego pasamos el resto de la vida intentando
-  hacerlo feliz, interpretando todo lo nuevo a través de él («¿cómo cambio el
-  mundo externo para que sea más como yo quiero?»); implica que el ego es una
-  construcción revisable, no tu esencia.
+  Todo pensamiento positivo contiene en su interior la semilla de uno negativo,
+  y viceversa, por dualidad y polaridad (Tao Te Ching): decir «soy feliz»
+  implica haber estado triste; por eso gran parte de la grandeza de la vida sale
+  del sufrimiento, pues hay que ver lo negativo para aspirar a lo positivo y
+  apreciarlo.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, ego, identidad]
+domain: [naval, felicidad, dualidad]
 
 llm_confidence: 0.50
 
@@ -31,8 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,5 +45,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim]]

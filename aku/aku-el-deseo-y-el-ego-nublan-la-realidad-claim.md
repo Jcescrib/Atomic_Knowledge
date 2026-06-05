@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-el-ego-mas-dificil-es-el-propio-claim
+    - aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-ego-mas-dificil-es-el-propio-claim]]
+**related** ↔ [[aku-el-ego-mas-dificil-es-el-propio-claim]] · [[aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim]]

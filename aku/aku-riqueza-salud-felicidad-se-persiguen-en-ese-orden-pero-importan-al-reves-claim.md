@@ -1,15 +1,13 @@
 ---
 type: aku
-aku_class: concept
-id: aku-el-ego-se-construye-en-las-primeras-dos-decadas-concept
+aku_class: claim
+id: aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim
 statement: >
-  El ego se construye en las primeras dos décadas de vida a partir del entorno,
-  los padres y la sociedad, y luego pasamos el resto de la vida intentando
-  hacerlo feliz, interpretando todo lo nuevo a través de él («¿cómo cambio el
-  mundo externo para que sea más como yo quiero?»); implica que el ego es una
-  construcción revisable, no tu esencia.
+  Las tres grandes metas de la vida son riqueza, salud y felicidad: solemos
+  perseguirlas en ese orden, pero su importancia real es la inversa (la
+  felicidad primero, luego la salud, y la riqueza al final).
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, ego, identidad]
+domain: [naval, felicidad, prioridades]
 
 llm_confidence: 0.50
 
@@ -31,8 +29,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,5 +43,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim]]

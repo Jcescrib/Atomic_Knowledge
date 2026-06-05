@@ -1,14 +1,13 @@
 ---
 type: aku
 aku_class: claim
-id: aku-domina-lo-basico-los-conceptos-avanzados-solo-senalan-pertenencia-claim
+id: aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim
 statement: >
-  Conviene clavar lo básico antes que profundizar: los conceptos avanzados de un
-  campo están menos probados y los usamos para señalar conocimiento de iniciado,
-  cuando estaríamos mejor dominando los fundamentos; quien usa muchas palabras y
-  conceptos rimbombantes probablemente no sabe de qué habla.
+  Enseñar obliga a aprender: explicar a otra persona lo que has aprendido es una
+  de las mejores prácticas para internalizar y organizar el conocimiento de lo
+  que lees.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, pensamiento, fundamentos]
+domain: [naval, aprendizaje, ensenanza]
 
 llm_confidence: 0.50
 
@@ -31,7 +30,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-lee-los-originales-y-clasicos-para-una-base-solida-claim
+    - aku-pensador-claro-mejor-que-listo-explica-a-un-nino-desde-los-fundamentos-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,6 +43,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-lee-los-originales-y-clasicos-para-una-base-solida-claim]]
+**related** ↔ [[aku-pensador-claro-mejor-que-listo-explica-a-un-nino-desde-los-fundamentos-claim]]

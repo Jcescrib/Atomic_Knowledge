@@ -1,14 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-domina-lo-basico-los-conceptos-avanzados-solo-senalan-pertenencia-claim
+id: aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim
 statement: >
-  Conviene clavar lo básico antes que profundizar: los conceptos avanzados de un
-  campo están menos probados y los usamos para señalar conocimiento de iniciado,
-  cuando estaríamos mejor dominando los fundamentos; quien usa muchas palabras y
-  conceptos rimbombantes probablemente no sabe de qué habla.
+  Creer en la completa insignificancia del yo ayuda mucho a la felicidad: si te
+  creyeras lo más importante del universo, tendrías que doblegarlo entero a tu
+  voluntad y cualquier cosa que no se conformara a tus deseos te parecería un
+  error.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, pensamiento, fundamentos]
+domain: [naval, felicidad, ego]
 
 llm_confidence: 0.50
 
@@ -31,7 +31,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-lee-los-originales-y-clasicos-para-una-base-solida-claim
+    - aku-el-ego-se-construye-en-las-primeras-dos-decadas-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,6 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-lee-los-originales-y-clasicos-para-una-base-solida-claim]]
+**related** ↔ [[aku-el-ego-se-construye-en-las-primeras-dos-decadas-concept]]

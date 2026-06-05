@@ -1,15 +1,16 @@
 ---
 type: aku
-aku_class: concept
-id: aku-el-ego-se-construye-en-las-primeras-dos-decadas-concept
+aku_class: claim
+id: aku-cuanto-mas-viejo-el-problema-mas-vieja-la-solucion-claim
 statement: >
-  El ego se construye en las primeras dos décadas de vida a partir del entorno,
-  los padres y la sociedad, y luego pasamos el resto de la vida intentando
-  hacerlo feliz, interpretando todo lo nuevo a través de él («¿cómo cambio el
-  mundo externo para que sea más como yo quiero?»); implica que el ego es una
-  construcción revisable, no tu esencia.
+  Cuanto más viejo es el problema, más vieja debe ser la solución que busques:
+  para problemas modernos (conducir, volar) lee lo moderno, pero para problemas
+  antiguos (salud, calma, valores, criar una familia) las soluciones antiguas
+  suelen ser mejores, porque un libro que ha sobrevivido dos mil años ha sido
+  filtrado por mucha gente y sus principios tienen más probabilidad de ser
+  correctos.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, ego, identidad]
+domain: [naval, lectura, sabiduria]
 
 llm_confidence: 0.50
 
@@ -31,8 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,5 +46,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim]]
