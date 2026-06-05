@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-los-que-no-arriesgan-no-ganan-claim
+    - aku-aggressive-not-reckless-concept
+    - aku-sopesar-riesgo-recompensa-coste-inaccion-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-planning-process-estandarizado-concept]]
 
-**related** ↔ [[aku-los-que-no-arriesgan-no-ganan-claim]]
+**related** ↔ [[aku-los-que-no-arriesgan-no-ganan-claim]] · [[aku-aggressive-not-reckless-concept]] · [[aku-sopesar-riesgo-recompensa-coste-inaccion-claim]]

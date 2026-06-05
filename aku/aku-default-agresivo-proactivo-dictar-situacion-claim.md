@@ -10,7 +10,7 @@ statement: >
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
 domain: [liderazgo, jocko, decision, proactividad]
 
-llm_confidence: 0.50
+llm_confidence: 0.60
 
 human_certainty:
   status: unvalidated
@@ -33,9 +33,11 @@ relations:
   contradicts: []
   related:
     - aku-lideres-junior-proactivos-no-reactivos-claim
+    - aku-aggressive-not-reckless-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
+  - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
 
 created: 2026-06-05
 updated: 2026-06-05
@@ -47,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-decisiveness-amid-uncertainty-concept]]
 
-**related** ↔ [[aku-lideres-junior-proactivos-no-reactivos-claim]]
+**related** ↔ [[aku-lideres-junior-proactivos-no-reactivos-claim]] · [[aku-aggressive-not-reckless-concept]]

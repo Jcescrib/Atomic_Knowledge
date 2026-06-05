@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-check-the-ego-concept
+    - aku-disease-of-victory-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,6 +49,6 @@ status_note: ""
 
 **supported_by** ← [[aku-nunca-complacencia-subestimar-enemigo-claim]]
 
-**related** ↔ [[aku-check-the-ego-concept]]
+**related** ↔ [[aku-check-the-ego-concept]] · [[aku-disease-of-victory-concept]]
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]

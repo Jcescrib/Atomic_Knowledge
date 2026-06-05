@@ -32,7 +32,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-sopesar-riesgo-recompensa-coste-inaccion-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-decisiveness-amid-uncertainty-concept]]
+
+**related** ↔ [[aku-sopesar-riesgo-recompensa-coste-inaccion-claim]]

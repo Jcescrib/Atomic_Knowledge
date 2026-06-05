@@ -724,3 +724,7 @@ Próximo libro: **dichotomy-of-leadership** (PDF, 345 págs) — enriquecerá lo
 ### Cap 5 «Train Hard, but Train Smart» (+4 AKUs) — abre PARTE II (Balancing the Mission)
 
 **COBERTURA**: 4 items (1 concept, 1 method, 2 claim). 1198→1202. `train-hard-but-train-smart`, train-how-you-fight (no hay crecimiento en la zona de confort), entrenamiento-realismo-fundamentos-repeticion (3 pilares; ↔ repetir-hasta-estandar), entrenamiento-desde-abajo-no-desde-arriba (EO del entrenamiento; ↔ extreme-ownership/analisis-constante). verify_graph: 1202 AKUs, 0 errores.
+
+### Cap 6 «Aggressive, Not Reckless» (+5 AKUs, +1 enrich)
+
+**COBERTURA**: 5 nuevos (2 concept, 3 claim) + enrich `default-agresivo-proactivo-dictar-situacion` (2ª fuente, 0.50→0.60: «Default: Aggressive» = mismo principio que EO cap11 → dedup/enrich). 1202→1207. `aggressive-not-reckless` (related valiente-no-temerario/calcular-mitigar-riesgo/default-agresivo), `disease-of-victory` (exceso de confianza tras éxitos; ↔ nunca-complacencia/confident-not-cocky), agresivo-significa-proactivo-no-iracundo (↔ calmado-no-robotico), hesitar-a-veces-es-prudente, sopesar-riesgo-recompensa-coste-inaccion (↔ calcular-mitigar-riesgo/esperar-certeza). verify_graph: 1207 AKUs, 0 errores.
