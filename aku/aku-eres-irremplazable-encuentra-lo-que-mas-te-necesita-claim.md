@@ -1,15 +1,15 @@
 ---
 type: aku
 aku_class: claim
-id: aku-la-felicidad-requiere-presencia-claim
+id: aku-eres-irremplazable-encuentra-lo-que-mas-te-necesita-claim
 statement: >
-  La felicidad requiere presencia: en cualquier momento solo un pequeño
-  porcentaje de tu cerebro está en el presente y el resto planifica el futuro o
-  lamenta el pasado, lo que te impide ver la belleza y sentir gratitud; vivir en
-  delirios del futuro o comparar el pasado con el presente destruye tu
-  felicidad.
+  Nadie te gana siendo tú: por la combinatoria asombrosa del ADN y la
+  experiencia humana, no hay dos personas substituibles, así que tu meta vital
+  es encontrar a las personas, el negocio, el proyecto o el arte que más te
+  necesitan; no construyas checklists ni marcos de decisión basados en lo que
+  hacen otros, porque nunca serás bueno siendo otro.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [felicidad, naval, presente]
+domain: [naval, autenticidad, proposito]
 
 llm_confidence: 0.50
 
@@ -32,7 +32,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept
+    - aku-escapa-la-competencia-mediante-autenticidad-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,6 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept]]
+**related** ↔ [[aku-escapa-la-competencia-mediante-autenticidad-claim]]

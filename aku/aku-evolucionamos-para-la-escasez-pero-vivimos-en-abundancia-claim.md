@@ -1,15 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-la-felicidad-requiere-presencia-claim
+id: aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim
 statement: >
-  La felicidad requiere presencia: en cualquier momento solo un pequeño
-  porcentaje de tu cerebro está en el presente y el resto planifica el futuro o
-  lamenta el pasado, lo que te impide ver la belleza y sentir gratitud; vivir en
-  delirios del futuro o comparar el pasado con el presente destruye tu
-  felicidad.
+  Evolucionamos para la escasez pero vivimos en la abundancia: nuestros genes
+  siempre quieren decir que sí (al azúcar, al alcohol, a las drogas, a quedarse
+  en la relación), así que hay una lucha constante por aprender a decir no que
+  nuestro cuerpo no sabe ejecutar.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [felicidad, naval, presente]
+domain: [salud, naval, evolucion, autocontrol]
 
 llm_confidence: 0.50
 
@@ -32,7 +31,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept
+    - aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,6 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept]]
+**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]]

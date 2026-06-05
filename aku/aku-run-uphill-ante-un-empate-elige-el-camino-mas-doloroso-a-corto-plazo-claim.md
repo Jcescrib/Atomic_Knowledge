@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-la-direccion-importa-mas-que-la-velocidad-sobre-todo-con-leverage-claim
+    - aku-elecciones-faciles-vida-dificil-elecciones-dificiles-vida-facil-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-direccion-importa-mas-que-la-velocidad-sobre-todo-con-leverage-claim]]
+**related** ↔ [[aku-la-direccion-importa-mas-que-la-velocidad-sobre-todo-con-leverage-claim]] · [[aku-elecciones-faciles-vida-dificil-elecciones-dificiles-vida-facil-claim]]

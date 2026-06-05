@@ -1,15 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-la-felicidad-requiere-presencia-claim
+id: aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim
 statement: >
-  La felicidad requiere presencia: en cualquier momento solo un pequeño
-  porcentaje de tu cerebro está en el presente y el resto planifica el futuro o
-  lamenta el pasado, lo que te impide ver la belleza y sentir gratitud; vivir en
-  delirios del futuro o comparar el pasado con el presente destruye tu
-  felicidad.
+  «No tengo tiempo» es solo otra forma de decir «no es una prioridad»: si algo
+  es tu prioridad número uno, lo harás; con una cesta difusa de diez o quince
+  prioridades no lograrás ninguna, así que hay que decidir explícitamente qué es
+  prioritario.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [felicidad, naval, presente]
+domain: [naval, prioridades, tiempo]
 
 llm_confidence: 0.50
 
@@ -32,7 +31,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept
+    - aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,6 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept]]
+**related** ↔ [[aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim]]

@@ -1,15 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-la-felicidad-requiere-presencia-claim
+id: aku-salvate-a-ti-mismo-nadie-mas-te-hara-sano-ni-sabio-claim
 statement: >
-  La felicidad requiere presencia: en cualquier momento solo un pequeño
-  porcentaje de tu cerebro está en el presente y el resto planifica el futuro o
-  lamenta el pasado, lo que te impide ver la belleza y sentir gratitud; vivir en
-  delirios del futuro o comparar el pasado con el presente destruye tu
-  felicidad.
+  Sálvate a ti mismo: los médicos no te harán sano, los nutricionistas no te
+  harán delgado, los profesores no te harán listo, los gurús no te darán calma,
+  los mentores no te harán rico ni los entrenadores te pondrán en forma; en
+  última instancia la responsabilidad es tuya.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [felicidad, naval, presente]
+domain: [salud, naval, responsabilidad]
 
 llm_confidence: 0.50
 
@@ -31,8 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,5 +44,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept]]

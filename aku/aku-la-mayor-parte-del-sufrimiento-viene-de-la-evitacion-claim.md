@@ -1,15 +1,15 @@
 ---
 type: aku
 aku_class: claim
-id: aku-la-felicidad-requiere-presencia-claim
+id: aku-la-mayor-parte-del-sufrimiento-viene-de-la-evitacion-claim
 statement: >
-  La felicidad requiere presencia: en cualquier momento solo un pequeño
-  porcentaje de tu cerebro está en el presente y el resto planifica el futuro o
-  lamenta el pasado, lo que te impide ver la belleza y sentir gratitud; vivir en
-  delirios del futuro o comparar el pasado con el presente destruye tu
-  felicidad.
+  La mayor parte de nuestro sufrimiento viene de la evitación: como en la ducha
+  fría, el sufrimiento está en entrar de puntillas, no en estar dentro; el
+  cuerpo diciendo «tengo frío» es distinto de la mente diciéndolo, así que
+  conviene reconocer la sensación del cuerpo, aceptarla y no sufrir mentalmente
+  por ella, entrando de golpe antes de escuchar la voz que avisa.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [felicidad, naval, presente]
+domain: [naval, sufrimiento, aceptacion]
 
 llm_confidence: 0.50
 
@@ -31,8 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,5 +45,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept]]
