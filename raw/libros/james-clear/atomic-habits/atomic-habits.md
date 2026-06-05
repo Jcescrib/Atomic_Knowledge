@@ -681,6 +681,7 @@ If a behavior is insufficient in any of the four stages, it will not become a ha
 ## THE HABIT LOOP
 
 ![](images/1fbe891f6470428fa9d28d40d6cec574a92d7f3c0f7c5c2d69116027b334928d.jpg)  
+> **Figura**: El «habit loop» como ciclo de retroalimentación de cuatro cuadrantes que giran en orden: 1 = CUE (señal, arriba-izquierda) → 2 = CRAVING (anhelo, arriba-derecha) → 3 = RESPONSE (respuesta, abajo-derecha) → 4 = REWARD (recompensa, abajo-izquierda) → y la flecha vuelve al CUE, cerrando el bucle infinito que corre en cada momento: la recompensa satisface el anhelo y queda asociada a la señal.
 FIGURE 6: The four stages of habit are best described as a feedback loop. They form an endless cycle that is running every moment you are alive. This “habit loop” is continually scanning the environment, predicting what will happen next, trying out different responses, and learning from the results.\*
 
 In summary, the cue triggers a craving, which motivates a response, which provides a reward, which satisfies the craving and, ultimately, becomes associated with the cue. Together, these four steps form a neurological feedback loop—cue, craving, response, reward; cue, craving, response, reward—that ultimately allows you to create automatic habits. This cycle is known as the habit loop.
