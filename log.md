@@ -744,3 +744,7 @@ Próximo libro: **dichotomy-of-leadership** (PDF, 345 págs) — enriquecerá lo
 ### Cap 10 «Plan, but Remain Flexible» (+2 AKUs)
 
 **COBERTURA**: 2 items (1 concept, 1 method); complacencia/riesgo-recompensa dedup a disease-of-victory/sopesar-riesgo. 1214→1216. `plan-but-remain-flexible` (no se puede planificar cada contingencia; related planning-process/el-enemigo-tiene-voto/simplicidad-ajuste), priorizar-3-4-contingencias-mas-probables (+ peor caso por fase; ↔ contingency-planning/leaders-checklist). verify_graph: 1216 AKUs, 0 errores.
+
+### Cap 11 «Humble, Not Passive» (+1 AKU, +1 enrich)
+
+**COBERTURA**: dedup a humilde-no-pasivo (EO cap12 → enrich 2ª fuente 0.50→0.60); «no pasivo/push back» ya cubierto por callado-no-silencioso. 1 NUEVO: `humildad-es-la-cualidad-mas-importante` (a los líderes SEAL se les destituía casi siempre por falta de humildad, no por incompetencia; `supports` check-the-ego; related humilde-no-pasivo/el-ego-mas-dificil). 1216→1217. verify_graph: 1217 AKUs, 0 errores.

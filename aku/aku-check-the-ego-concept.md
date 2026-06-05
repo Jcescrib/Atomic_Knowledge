@@ -31,6 +31,7 @@ relations:
     - aku-ego-impide-evaluacion-honesta-claim
     - aku-check-ego-asumiendo-culpa-primero-method
     - aku-culpar-subordinado-natural-pero-contraproducente-claim
+    - aku-humildad-es-la-cualidad-mas-importante-claim
   supports:
     - aku-extreme-ownership-concept
   constrained_by: []
@@ -54,7 +55,7 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-ego-nubla-todo-claim]] · [[aku-ego-bueno-vs-destructivo-claim]] · [[aku-el-ego-mas-dificil-es-el-propio-claim]] · [[aku-ego-impide-evaluacion-honesta-claim]] · [[aku-check-ego-asumiendo-culpa-primero-method]] · [[aku-culpar-subordinado-natural-pero-contraproducente-claim]]
+**supported_by** ← [[aku-ego-nubla-todo-claim]] · [[aku-ego-bueno-vs-destructivo-claim]] · [[aku-el-ego-mas-dificil-es-el-propio-claim]] · [[aku-ego-impide-evaluacion-honesta-claim]] · [[aku-check-ego-asumiendo-culpa-primero-method]] · [[aku-culpar-subordinado-natural-pero-contraproducente-claim]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]]
 
 **supports** → [[aku-extreme-ownership-concept]]
 

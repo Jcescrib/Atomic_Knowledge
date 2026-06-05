@@ -28,7 +28,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-humildad-es-la-cualidad-mas-importante-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -42,3 +43,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-check-the-ego-concept]]
+
+**related** ↔ [[aku-humildad-es-la-cualidad-mas-importante-claim]]
