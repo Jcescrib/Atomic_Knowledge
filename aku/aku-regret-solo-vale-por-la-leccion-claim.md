@@ -33,6 +33,7 @@ relations:
   related:
     - aku-humildad-asumir-errores-claim
     - aku-post-operational-debrief-method
+    - aku-cuando-no-te-eligen-pedir-feedback-method
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-humildad-asumir-errores-claim]] · [[aku-post-operational-debrief-method]]
+**related** ↔ [[aku-humildad-asumir-errores-claim]] · [[aku-post-operational-debrief-method]] · [[aku-cuando-no-te-eligen-pedir-feedback-method]]

@@ -36,6 +36,8 @@ relations:
     - aku-check-the-ego-concept
     - aku-disease-of-victory-concept
     - aku-pride-fuerza-de-doble-filo-concept
+    - aku-imposter-syndrome-es-bueno-claim
+    - aku-senales-de-confianza-desequilibrada-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -50,6 +52,6 @@ status_note: ""
 
 **supported_by** ← [[aku-nunca-complacencia-subestimar-enemigo-claim]]
 
-**related** ↔ [[aku-check-the-ego-concept]] · [[aku-disease-of-victory-concept]] · [[aku-pride-fuerza-de-doble-filo-concept]]
+**related** ↔ [[aku-check-the-ego-concept]] · [[aku-disease-of-victory-concept]] · [[aku-pride-fuerza-de-doble-filo-concept]] · [[aku-imposter-syndrome-es-bueno-claim]] · [[aku-senales-de-confianza-desequilibrada-claim]]
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]

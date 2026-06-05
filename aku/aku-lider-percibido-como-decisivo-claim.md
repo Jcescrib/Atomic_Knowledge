@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-draw-fire-concept
+    - aku-liderazgo-indirecto-supera-al-directo-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-decisiveness-amid-uncertainty-concept]]
 
-**related** ↔ [[aku-draw-fire-concept]]
+**related** ↔ [[aku-draw-fire-concept]] · [[aku-liderazgo-indirecto-supera-al-directo-claim]]

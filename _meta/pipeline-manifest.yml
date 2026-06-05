@@ -1536,9 +1536,9 @@ sources:
     converted: 2026-06-05
     image_processing: n/a
     ingested: null   # FASE 2 en curso — book mode (secciones)
-    chapters_ingested: [seccion1-foundations, seccion2-core-tenets, seccion3-principles]
-    aku_count: 35
-    taku_count: 4
+    chapters_ingested: [seccion1-foundations, seccion2-core-tenets, seccion3-principles, p2-seccion1-becoming-a-leader]
+    aku_count: 45
+    taku_count: 7
     last_commit: ""
     notes: >
       Libro 4 corpus Jocko. PARTE 1 (Strategies: Foundations + Core Tenets + Principles)

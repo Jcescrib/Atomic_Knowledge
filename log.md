@@ -812,3 +812,7 @@ Creados los 6 TAKUs ejecutables flaggeados (86→92 TAKUs draft, todos `content_
 ### Sección 3 «Principles» (+8 AKUs, +1 enrich) — cierra PARTE 1 de Libro 4
 
 **COBERTURA**: 8 nuevos (2 concept, 6 claim) + enrich `span-of-control` (2ª fuente LST, 0.50→0.60). 1307→1315. Concepts: imposed-vs-self-discipline-en-equipo, pride-fuerza-de-doble-filo (dicotomía). Claims: cada-miembro-es-el-mas-importante, taking-care-of-people-con-disciplina (no mimar), pride-se-construye-con-sufrimiento-compartido, dar-ordenes-solo-commanders-intent (regla 90/80, deja que planifiquen), no-yes-men-fomentar-pushback, exception-good-team-bad-leader (matiz a no-bad-teams). **PARTE 1 de Libro 4 (Strategies) completa: 35 AKUs + 4 TAKUs.** verify_graph: 1315 AKUs, 0 errores. PENDIENTE: PARTE 2 (Tactics).
+
+### Parte 2 Sección 1 «Becoming a Leader» (+10 AKUs, +3 TAKUs)
+
+**COBERTURA**: 10 nuevos (4 method, 6 claim) + 3 TAKUs. 1315→1325. Methods: 12-reglas-del-nuevo-lider, cuando-no-te-eligen-pedir-feedback, overcoming-grudge-ex-pares, new-sheriff-cambio-segun-estado-equipo. Claims: como-ser-elegido-lider, imposter-syndrome-es-bueno, senales-de-confianza-desequilibrada, inseguridad-admitir-no-ocultar, transicion-de-par-a-lider, liderazgo-indirecto-supera-al-directo («don't be Rambo»). TAKUs (draft): `nuevo-lider` (tool, 12 reglas), `tomar-el-mando-nuevo-equipo` (protocol, New Sheriff), `liderazgo-indirecto` (heuristic). verify_graph: 1325 AKUs, 0 errores.

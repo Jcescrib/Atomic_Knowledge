@@ -36,6 +36,8 @@ relations:
     - aku-check-the-ego-concept
     - aku-humildad-es-la-cualidad-mas-importante-claim
     - aku-power-of-relationships-liderazgo-concept
+    - aku-12-reglas-del-nuevo-lider-method
+    - aku-inseguridad-admitir-no-ocultar-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-check-the-ego-concept]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-power-of-relationships-liderazgo-concept]]
+**related** ↔ [[aku-check-the-ego-concept]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-power-of-relationships-liderazgo-concept]] · [[aku-12-reglas-del-nuevo-lider-method]] · [[aku-inseguridad-admitir-no-ocultar-claim]]
