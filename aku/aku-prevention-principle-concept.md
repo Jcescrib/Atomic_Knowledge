@@ -35,6 +35,7 @@ relations:
     - aku-reconnaissance-principle-concept
     - aku-acceptance-principle-concept
     - aku-tension-principle-concept
+    - aku-depletion-principle-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-reconnaissance-principle-concept]] · [[aku-acceptance-principle-concept]] · [[aku-tension-principle-concept]]
+**related** ↔ [[aku-reconnaissance-principle-concept]] · [[aku-acceptance-principle-concept]] · [[aku-tension-principle-concept]] · [[aku-depletion-principle-concept]]
