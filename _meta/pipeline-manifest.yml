@@ -1584,13 +1584,30 @@ sources:
     raw_path: "raw/libros/jocko/the-code/"
     converter: ebooklib
     converted: 2026-06-05
-    image_processing: null
-    ingested: null
+    image_processing: 2026-06-05
+    ingested: null   # FASE 2 ingesta AKU/TAKU NO INICIADA (parada ordenada por el usuario)
     chapters_ingested: []
     aku_count: 0
     taku_count: 0
-    last_commit: ""
+    last_commit: "52c233e"
     notes: >
       Libro 6 corpus Jocko (Willink, Berke & Armstrong, 2020). source-tag: jocko.
-      EPUB → epub_to_md.py (34 secciones, 8 imgs). The Code / The Evaluation / The
-      Protocols para ser un "Eminently Qualified Human". Pendiente FASE 2 ingesta.
+      EPUB → epub_to_md.py. The Code / The Evaluation / The Protocols para ser un
+      "Eminently Qualified Human". **ESTADO (2026-06-05): IMAGE PROCESSING COMPLETADO,
+      INGESTA NO INICIADA.** Imágenes: 8 archivos, 7 referenciados. 00001+calibre_cover
+      = cover decorativo. 00002-00007 = **6 rúbricas informacionales de The Evaluation**
+      (escala 0/1/2-4/5 por atributo) → 6 blockquotes `> **Figura**:` de alta fidelidad
+      insertados (commit 52c233e). PENDIENTE FASE 2 (otra sesión): crear AKUs/TAKUs.
+      Estructura del libro: Sección 1 The Code (código de 10 puntos + The Path + Eminently
+      Qualified Human), Sección 2 The Evaluation (taxonomía 6 categorías: Health, Personal
+      Development, Professional Development, Character/Leadership, Relationship,
+      Preparedness/Safety + filosofía de scoring capacity-vs-performance), Sección 3 The
+      Protocols (10 protocolos de recuperación: Breakup, Death, Money problems, Betrayal,
+      Problems at work, Apology, Accident/Illness, Addiction, Trauma, The Unknown + manejo
+      del éxito). Dedup pendiente: muchos conceptos destilan el corpus Jocko ya ingestado
+      (discipline-equals-freedom, humildad-es-la-cualidad-mas-importante, empezar-aqui-y-
+      ahora, dictar-la-situacion, prioritize-and-execute, detach) → enlazar/2ª fuente, no
+      recrear. Items NUEVOS distintivos a crear: The Code (concept+TAKU), Eminently
+      Qualified Human (concept), The Evaluation (concept scoring + framework TAKU),
+      ganancias-decaen-no-hay-fin, mejorar-se-vuelve-mas-dificil-con-capacidad,
+      Unmitigated-Daily-Discipline-in-all-things, + 10-11 protocol TAKUs.
