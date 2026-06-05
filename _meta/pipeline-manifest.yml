@@ -1536,10 +1536,15 @@ sources:
     converted: 2026-06-05
     image_processing: n/a
     ingested: null   # FASE 2 en curso — book mode (secciones)
-    chapters_ingested: [seccion1-foundations, seccion2-core-tenets]
-    aku_count: 27
+    chapters_ingested: [seccion1-foundations, seccion2-core-tenets, seccion3-principles]
+    aku_count: 35
     taku_count: 4
     last_commit: ""
+    notes: >
+      Libro 4 corpus Jocko. PARTE 1 (Strategies: Foundations + Core Tenets + Principles)
+      completa = 35 AKUs + 4 TAKUs. PENDIENTE: PARTE 2 (Tactics) — Secciones Becoming a
+      Leader, Leadership Skills, Maneuvers, Communication (catálogo grande de tácticas).
+      Mucho dedup/enriquecimiento cross-libro con EO/DoL/DEF.
     notes: >
       Libro 4 corpus Jocko (Willink, 2020). source-tag: jocko. EPUB → epub_to_md.py
       (22 secciones, 6 imgs). Manual de estrategia y tácticas concretas de liderazgo.

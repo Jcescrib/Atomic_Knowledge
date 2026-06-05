@@ -44,6 +44,7 @@ relations:
     - aku-the-warpath-concept
     - aku-no-mas-excusas-claim
     - aku-derrota-por-mil-rendiciones-pequenas-claim
+    - aku-taking-care-of-people-con-disciplina-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -60,4 +61,4 @@ status_note: ""
 
 **supports** → [[aku-discipline-equals-freedom-concept]]
 
-**related** ↔ [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-the-warpath-concept]] · [[aku-no-mas-excusas-claim]] · [[aku-derrota-por-mil-rendiciones-pequenas-claim]]
+**related** ↔ [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-the-warpath-concept]] · [[aku-no-mas-excusas-claim]] · [[aku-derrota-por-mil-rendiciones-pequenas-claim]] · [[aku-taking-care-of-people-con-disciplina-claim]]

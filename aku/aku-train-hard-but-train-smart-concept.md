@@ -38,6 +38,8 @@ relations:
   contradicts: []
   related:
     - aku-progresion-artes-marciales-concept
+    - aku-taking-care-of-people-con-disciplina-claim
+    - aku-pride-se-construye-con-sufrimiento-compartido-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -54,4 +56,4 @@ status_note: ""
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
 
-**related** ↔ [[aku-progresion-artes-marciales-concept]]
+**related** ↔ [[aku-progresion-artes-marciales-concept]] · [[aku-taking-care-of-people-con-disciplina-claim]] · [[aku-pride-se-construye-con-sufrimiento-compartido-claim]]

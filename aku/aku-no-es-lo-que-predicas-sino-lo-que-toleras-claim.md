@@ -36,6 +36,8 @@ relations:
   related:
     - aku-resolute-but-not-overbearing-concept
     - aku-accountability-temporal-luego-soltar-claim
+    - aku-imposed-vs-self-discipline-en-equipo-concept
+    - aku-no-yes-men-fomentar-pushback-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -52,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-no-bad-teams-only-bad-leaders-concept]]
 
-**related** ↔ [[aku-resolute-but-not-overbearing-concept]] · [[aku-accountability-temporal-luego-soltar-claim]]
+**related** ↔ [[aku-resolute-but-not-overbearing-concept]] · [[aku-accountability-temporal-luego-soltar-claim]] · [[aku-imposed-vs-self-discipline-en-equipo-concept]] · [[aku-no-yes-men-fomentar-pushback-claim]]

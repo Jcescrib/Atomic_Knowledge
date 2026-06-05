@@ -43,6 +43,7 @@ relations:
     - aku-liderazgo-factor-mas-importante-claim
     - aku-when-to-mentor-when-to-fire-concept
     - aku-invertir-en-uno-puede-perjudicar-al-equipo-claim
+    - aku-exception-good-team-bad-leader-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -57,4 +58,4 @@ status_note: ""
 
 **supported_by** ← [[aku-extreme-ownership-concept]] · [[aku-actitud-lider-marca-el-tono-claim]] · [[aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim]] · [[aku-gente-quiere-ganar-necesita-forcing-function-claim]] · [[aku-lideres-nunca-satisfechos-mejora-continua-claim]] · [[aku-liderar-desde-posicion-mas-dificil-claim]] · [[aku-metas-intermedias-visibles-method]]
 
-**related** ↔ [[aku-liderazgo-factor-mas-importante-claim]] · [[aku-when-to-mentor-when-to-fire-concept]] · [[aku-invertir-en-uno-puede-perjudicar-al-equipo-claim]]
+**related** ↔ [[aku-liderazgo-factor-mas-importante-claim]] · [[aku-when-to-mentor-when-to-fire-concept]] · [[aku-invertir-en-uno-puede-perjudicar-al-equipo-claim]] · [[aku-exception-good-team-bad-leader-claim]]

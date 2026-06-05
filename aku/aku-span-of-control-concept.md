@@ -11,7 +11,7 @@ statement: >
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
 domain: [liderazgo, jocko, descentralizacion, mando, equipos]
 
-llm_confidence: 0.50
+llm_confidence: 0.60
 
 human_certainty:
   status: unvalidated
@@ -38,6 +38,7 @@ relations:
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
+  - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
 
 created: 2026-06-05
 updated: 2026-06-05

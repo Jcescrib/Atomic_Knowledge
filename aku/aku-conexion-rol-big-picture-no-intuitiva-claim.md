@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-senior-debe-explicar-el-porque-claim
+    - aku-cada-miembro-es-el-mas-importante-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-leading-down-the-chain-concept]]
 
-**related** ↔ [[aku-senior-debe-explicar-el-porque-claim]]
+**related** ↔ [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-cada-miembro-es-el-mas-importante-claim]]

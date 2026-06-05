@@ -36,6 +36,7 @@ relations:
     - aku-confianza-se-construye-no-se-da-claim
     - aku-decentralized-command-concept
     - aku-corregir-micromanagement-method
+    - aku-imposed-vs-self-discipline-en-equipo-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-confianza-se-construye-no-se-da-claim]] · [[aku-decentralized-command-concept]] · [[aku-corregir-micromanagement-method]]
+**related** ↔ [[aku-confianza-se-construye-no-se-da-claim]] · [[aku-decentralized-command-concept]] · [[aku-corregir-micromanagement-method]] · [[aku-imposed-vs-self-discipline-en-equipo-concept]]
