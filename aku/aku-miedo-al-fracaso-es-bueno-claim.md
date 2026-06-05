@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-contingency-planning-anticipar-method
+    - aku-miedo-al-fracaso-paraliza-y-neutraliza-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-contingency-planning-anticipar-method]]
+**related** ↔ [[aku-contingency-planning-anticipar-method]] · [[aku-miedo-al-fracaso-paraliza-y-neutraliza-claim]]
