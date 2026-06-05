@@ -37,6 +37,7 @@ relations:
   contradicts: []
   related:
     - aku-32-principios-jiu-jitsu-concept
+    - aku-detachment-principle-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -51,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-conexion-prevenir-promover-predecir-concept]] · [[aku-conexiones-fiables-vs-no-fiables-concept]]
 
-**related** ↔ [[aku-32-principios-jiu-jitsu-concept]]
+**related** ↔ [[aku-32-principios-jiu-jitsu-concept]] · [[aku-detachment-principle-concept]]
