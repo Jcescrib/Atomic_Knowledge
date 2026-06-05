@@ -37,6 +37,7 @@ relations:
     - aku-extreme-ownership-concept
     - aku-actitud-lider-marca-el-tono-claim
     - aku-incluso-en-la-muerte-hay-good-claim
+    - aku-la-risa-gana-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-extreme-ownership-concept]] · [[aku-actitud-lider-marca-el-tono-claim]] · [[aku-incluso-en-la-muerte-hay-good-claim]]
+**related** ↔ [[aku-extreme-ownership-concept]] · [[aku-actitud-lider-marca-el-tono-claim]] · [[aku-incluso-en-la-muerte-hay-good-claim]] · [[aku-la-risa-gana-claim]]

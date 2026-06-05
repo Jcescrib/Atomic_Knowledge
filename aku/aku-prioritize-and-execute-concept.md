@@ -43,6 +43,7 @@ relations:
     - aku-main-effort-supporting-efforts-concept
     - aku-target-fixation-concept
     - aku-decisiveness-amid-uncertainty-concept
+    - aku-abrumado-pelear-mas-duro-priorizar-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -59,4 +60,4 @@ status_note: ""
 
 **supports** → [[aku-laws-of-combat-concept]]
 
-**related** ↔ [[aku-main-effort-supporting-efforts-concept]] · [[aku-target-fixation-concept]] · [[aku-decisiveness-amid-uncertainty-concept]]
+**related** ↔ [[aku-main-effort-supporting-efforts-concept]] · [[aku-target-fixation-concept]] · [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-abrumado-pelear-mas-duro-priorizar-claim]]

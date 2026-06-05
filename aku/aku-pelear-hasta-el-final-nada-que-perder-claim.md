@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-no-relajarse-hasta-completar-la-mision-claim
+    - aku-la-oscuridad-solo-gana-si-la-dejas-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]]
 
-**related** ↔ [[aku-no-relajarse-hasta-completar-la-mision-claim]]
+**related** ↔ [[aku-no-relajarse-hasta-completar-la-mision-claim]] · [[aku-la-oscuridad-solo-gana-si-la-dejas-claim]]

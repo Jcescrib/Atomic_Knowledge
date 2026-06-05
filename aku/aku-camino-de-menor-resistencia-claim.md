@@ -32,6 +32,7 @@ relations:
   related:
     - aku-conexion-accion-consecuencia-conducta-claim
     - aku-not-feeling-it-go-anyway-claim
+    - aku-derrota-por-mil-rendiciones-pequenas-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-conexion-accion-consecuencia-conducta-claim]] · [[aku-not-feeling-it-go-anyway-claim]]
+**related** ↔ [[aku-conexion-accion-consecuencia-conducta-claim]] · [[aku-not-feeling-it-go-anyway-claim]] · [[aku-derrota-por-mil-rendiciones-pequenas-claim]]

@@ -778,3 +778,7 @@ Creados los 6 TAKUs ejecutables flaggeados (86→92 TAKUs draft, todos `content_
 ### Batch 4 «Hesitation → Staying Motivated» (+7 AKUs, +1 TAKU)
 
 **COBERTURA**: 7 nuevos (2 concept, 5 claim) + TAKU `good-mindset` (heuristic). 1241→1248. Concepts: `draw-fire` (el líder absorbe el impacto), `good-mindset` («GOOD» icónico). Claims: hesitacion-es-el-enemigo (tensión/related con hesitar-a-veces-es-prudente — dicotomía contextual), incluso-en-la-muerte-hay-good, es-un-trabajo-de-cada-dia, no-mas-excusas, no-cuentes-con-motivacion-cuenta-disciplina (motivación vs disciplina; ↔ no-hay-atajo). verify_graph: 1248 AKUs, 0 errores.
+
+### Batch 5 «Me Versus Me → Laughter Wins» (+8 AKUs) — cierra PARTE 1 (Thoughts)
+
+**COBERTURA**: 8 claims. 1248→1256. me-versus-me-superarte-a-ti-mismo, derrota-por-mil-rendiciones-pequenas (vigilancia), paso-agresivo-hacia-el-miedo (↔ default-agresivo/hesitacion-es-el-enemigo), la-oscuridad-solo-gana-si-la-dejas, abrumado-pelear-mas-duro-priorizar (↔ prioritize-and-execute), ignorar-y-superar-a-los-negativos, no-razonar-con-la-debilidad-solo-actuar (↔ mind-control), la-risa-gana (↔ good-mindset). **PARTE 1 (Thoughts) completa**. verify_graph: 1256 AKUs, 0 errores.

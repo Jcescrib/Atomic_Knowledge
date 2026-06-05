@@ -36,6 +36,7 @@ relations:
     - aku-disciplina-raiz-de-toda-buena-cualidad-concept
     - aku-extreme-ownership-concept
     - aku-es-un-trabajo-de-cada-dia-claim
+    - aku-abrumado-pelear-mas-duro-priorizar-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-discipline-equals-freedom-concept]] · [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-extreme-ownership-concept]] · [[aku-es-un-trabajo-de-cada-dia-claim]]
+**related** ↔ [[aku-discipline-equals-freedom-concept]] · [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-extreme-ownership-concept]] · [[aku-es-un-trabajo-de-cada-dia-claim]] · [[aku-abrumado-pelear-mas-duro-priorizar-claim]]

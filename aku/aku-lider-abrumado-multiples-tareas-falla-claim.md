@@ -31,7 +31,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-abrumado-pelear-mas-duro-priorizar-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,3 +46,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-prioritize-and-execute-concept]]
+
+**related** ↔ [[aku-abrumado-pelear-mas-duro-priorizar-claim]]

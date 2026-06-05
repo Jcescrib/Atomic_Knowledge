@@ -33,6 +33,7 @@ relations:
   related:
     - aku-hesitar-a-veces-es-prudente-claim
     - aku-default-agresivo-proactivo-dictar-situacion-claim
+    - aku-paso-agresivo-hacia-el-miedo-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-hesitar-a-veces-es-prudente-claim]] · [[aku-default-agresivo-proactivo-dictar-situacion-claim]]
+**related** ↔ [[aku-hesitar-a-veces-es-prudente-claim]] · [[aku-default-agresivo-proactivo-dictar-situacion-claim]] · [[aku-paso-agresivo-hacia-el-miedo-claim]]

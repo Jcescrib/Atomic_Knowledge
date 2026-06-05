@@ -1513,8 +1513,8 @@ sources:
     converted: 2026-06-05
     image_processing: n/a
     ingested: null   # FASE 2 en curso — field manual (batches temáticos)
-    chapters_ingested: [batch01-way-of-discipline-mind-control, batch02-weakness-to-default-aggressive, batch03-nature-to-focus, batch04-hesitation-to-motivation]
-    aku_count: 30
+    chapters_ingested: [batch01-way-of-discipline-mind-control, batch02-weakness-to-default-aggressive, batch03-nature-to-focus, batch04-hesitation-to-motivation, batch05-me-vs-me-to-laughter]
+    aku_count: 38
     taku_count: 3
     last_commit: ""
     notes: >
