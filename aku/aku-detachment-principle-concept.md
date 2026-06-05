@@ -35,6 +35,7 @@ relations:
   related:
     - aku-connection-principle-concept
     - aku-detach-tactico-estrategico-concept
+    - aku-distance-principle-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-detachment-bidireccional-concept]]
 
-**related** ↔ [[aku-connection-principle-concept]] · [[aku-detach-tactico-estrategico-concept]]
+**related** ↔ [[aku-connection-principle-concept]] · [[aku-detach-tactico-estrategico-concept]] · [[aku-distance-principle-concept]]
