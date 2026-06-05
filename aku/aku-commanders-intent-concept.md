@@ -37,6 +37,7 @@ relations:
     - aku-believe-in-the-mission-concept
     - aku-senior-debe-explicar-el-porque-claim
     - aku-planning-process-estandarizado-concept
+    - aku-leading-down-the-chain-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -51,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-decentralized-command-concept]]
 
-**related** ↔ [[aku-believe-in-the-mission-concept]] · [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-planning-process-estandarizado-concept]]
+**related** ↔ [[aku-believe-in-the-mission-concept]] · [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-planning-process-estandarizado-concept]] · [[aku-leading-down-the-chain-concept]]

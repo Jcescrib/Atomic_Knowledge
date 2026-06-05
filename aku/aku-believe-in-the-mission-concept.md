@@ -41,6 +41,7 @@ relations:
   related:
     - aku-decentralized-command-concept
     - aku-commanders-intent-concept
+    - aku-ejecutar-decision-como-propia-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -55,4 +56,4 @@ status_note: ""
 
 **supported_by** ← [[aku-extreme-ownership-concept]] · [[aku-creer-para-asumir-riesgos-y-convencer-claim]] · [[aku-parte-de-algo-mas-grande-claim]] · [[aku-creencia-del-lider-se-transmite-claim]] · [[aku-preguntar-por-que-method]] · [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-objetivos-alineados-organizacion-claim]]
 
-**related** ↔ [[aku-decentralized-command-concept]] · [[aku-commanders-intent-concept]]
+**related** ↔ [[aku-decentralized-command-concept]] · [[aku-commanders-intent-concept]] · [[aku-ejecutar-decision-como-propia-claim]]

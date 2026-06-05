@@ -45,6 +45,7 @@ relations:
     - aku-laws-of-combat-concept
     - aku-no-bad-teams-only-bad-leaders-concept
     - aku-believe-in-the-mission-concept
+    - aku-leading-up-the-chain-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -66,6 +67,6 @@ status_note: ""
 
 **supported_by** ← [[aku-humildad-asumir-errores-claim]] · [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-lider-mirar-al-espejo-claim]] · [[aku-lider-responsable-mision-tactica-recursos-claim]] · [[aku-entrenar-mentorizar-underperformer-claim]] · [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-atribucion-sesgada-exito-fracaso-claim]] · [[aku-owner-no-toma-credito-da-honor-claim]] · [[aku-extreme-ownership-cultura-equipo-claim]] · [[aku-ver-problemas-lente-objetiva-claim]] · [[aku-actitud-lider-determina-exito-claim]] · [[aku-no-obligar-sino-liderar-claim]] · [[aku-culpar-se-contagia-claim]] · [[aku-subordinado-responsable-de-entender-porque-claim]] · [[aku-check-the-ego-concept]]
 
-**supports** → [[aku-laws-of-combat-concept]] · [[aku-no-bad-teams-only-bad-leaders-concept]] · [[aku-believe-in-the-mission-concept]]
+**supports** → [[aku-laws-of-combat-concept]] · [[aku-no-bad-teams-only-bad-leaders-concept]] · [[aku-believe-in-the-mission-concept]] · [[aku-leading-up-the-chain-concept]]
 
 **contradicts** ↔ [[aku-tortured-genius-concept]]
