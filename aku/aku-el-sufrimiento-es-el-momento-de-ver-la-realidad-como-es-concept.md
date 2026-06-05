@@ -1,14 +1,15 @@
 ---
 type: aku
-aku_class: claim
-id: aku-la-libertad-es-el-valor-supremo-claim
+aku_class: concept
+id: aku-el-sufrimiento-es-el-momento-de-ver-la-realidad-como-es-concept
 statement: >
-  La libertad —para hacer lo que quieres, frente a lo que no quieres hacer, y
-  frente a tus propias emociones que perturban tu paz— es el valor número uno:
-  el dinero es bueno en la medida en que compra libertad, y malo en la medida en
-  que te resta libertad.
+  Un momento de sufrimiento es el momento en que ves las cosas exactamente como
+  son, tras haber estado negando la realidad; incluye ser un momento de verdad
+  que te fuerza a abrazar la realidad; excluye ser solo dolor inútil; implica
+  que solo puedes progresar partiendo de la verdad, por lo que el sufrimiento
+  habilita el cambio significativo.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, libertad, valores]
+domain: [naval, sufrimiento, realidad]
 
 llm_confidence: 0.50
 
@@ -30,8 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-el-dinero-resuelve-problemas-de-dinero-no-te-hace-feliz-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,5 +45,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-el-dinero-resuelve-problemas-de-dinero-no-te-hace-feliz-claim]]

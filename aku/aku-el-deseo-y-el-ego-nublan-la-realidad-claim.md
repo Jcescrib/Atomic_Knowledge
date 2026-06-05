@@ -1,14 +1,15 @@
 ---
 type: aku
 aku_class: claim
-id: aku-la-libertad-es-el-valor-supremo-claim
+id: aku-el-deseo-y-el-ego-nublan-la-realidad-claim
 statement: >
-  La libertad —para hacer lo que quieres, frente a lo que no quieres hacer, y
-  frente a tus propias emociones que perturban tu paz— es el valor número uno:
-  el dinero es bueno en la medida en que compra libertad, y malo en la medida en
-  que te resta libertad.
+  Lo que deseamos que sea verdad nubla nuestra percepción de lo que es verdad:
+  la «monkey mind» y las nociones preconcebidas de cómo deberían ser las cosas
+  impiden ver la realidad; lo que sientes no te dice nada sobre los hechos, solo
+  sobre tu estimación de ellos, así que cuanto más pequeño hagas tu ego y tus
+  deseos sobre el resultado, más fácil será ver la realidad.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, libertad, valores]
+domain: [naval, realidad, ego]
 
 llm_confidence: 0.50
 
@@ -31,7 +32,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-el-dinero-resuelve-problemas-de-dinero-no-te-hace-feliz-claim
+    - aku-el-ego-mas-dificil-es-el-propio-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,6 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-el-dinero-resuelve-problemas-de-dinero-no-te-hace-feliz-claim]]
+**related** ↔ [[aku-el-ego-mas-dificil-es-el-propio-claim]]

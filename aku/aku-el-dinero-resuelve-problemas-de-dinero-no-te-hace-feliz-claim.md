@@ -1,14 +1,13 @@
 ---
 type: aku
 aku_class: claim
-id: aku-la-libertad-es-el-valor-supremo-claim
+id: aku-el-dinero-resuelve-problemas-de-dinero-no-te-hace-feliz-claim
 statement: >
-  La libertad —para hacer lo que quieres, frente a lo que no quieres hacer, y
-  frente a tus propias emociones que perturban tu paz— es el valor número uno:
-  el dinero es bueno en la medida en que compra libertad, y malo en la medida en
-  que te resta libertad.
+  El dinero compra libertad en el mundo material y elimina un conjunto de cosas
+  que estorban a la felicidad, pero no te hará feliz ni sano ni en forma ni en
+  calma: solo resuelve tus problemas de dinero; hay muchos ricos infelices.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, libertad, valores]
+domain: [naval, dinero, felicidad]
 
 llm_confidence: 0.50
 
@@ -31,7 +30,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-el-dinero-resuelve-problemas-de-dinero-no-te-hace-feliz-claim
+    - aku-la-libertad-es-el-valor-supremo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,6 +43,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-el-dinero-resuelve-problemas-de-dinero-no-te-hace-feliz-claim]]
+**related** ↔ [[aku-la-libertad-es-el-valor-supremo-claim]]

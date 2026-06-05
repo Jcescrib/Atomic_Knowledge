@@ -1,14 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-la-libertad-es-el-valor-supremo-claim
+id: aku-tu-curriculum-real-es-tu-catalogo-de-sufrimiento-claim
 statement: >
-  La libertad —para hacer lo que quieres, frente a lo que no quieres hacer, y
-  frente a tus propias emociones que perturban tu paz— es el valor número uno:
-  el dinero es bueno en la medida en que compra libertad, y malo en la medida en
-  que te resta libertad.
+  Tu currículum real es el catálogo de todo tu sufrimiento: lo interesante que
+  recordarás desde tu lecho de muerte serán los sacrificios y las cosas
+  difíciles que hiciste; como lo que te viene dado no aporta sentido, tienes que
+  hacer cosas difíciles para crear tu propio significado en la vida.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, libertad, valores]
+domain: [naval, sentido, esfuerzo]
 
 llm_confidence: 0.50
 
@@ -30,8 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-el-dinero-resuelve-problemas-de-dinero-no-te-hace-feliz-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,5 +44,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-el-dinero-resuelve-problemas-de-dinero-no-te-hace-feliz-claim]]

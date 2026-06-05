@@ -1,14 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-la-libertad-es-el-valor-supremo-claim
+id: aku-domina-lo-basico-los-conceptos-avanzados-solo-senalan-pertenencia-claim
 statement: >
-  La libertad —para hacer lo que quieres, frente a lo que no quieres hacer, y
-  frente a tus propias emociones que perturban tu paz— es el valor número uno:
-  el dinero es bueno en la medida en que compra libertad, y malo en la medida en
-  que te resta libertad.
+  Conviene clavar lo básico antes que profundizar: los conceptos avanzados de un
+  campo están menos probados y los usamos para señalar conocimiento de iniciado,
+  cuando estaríamos mejor dominando los fundamentos; quien usa muchas palabras y
+  conceptos rimbombantes probablemente no sabe de qué habla.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, libertad, valores]
+domain: [naval, pensamiento, fundamentos]
 
 llm_confidence: 0.50
 
@@ -30,8 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-el-dinero-resuelve-problemas-de-dinero-no-te-hace-feliz-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,5 +44,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-el-dinero-resuelve-problemas-de-dinero-no-te-hace-feliz-claim]]

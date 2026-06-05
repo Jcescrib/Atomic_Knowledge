@@ -1,14 +1,13 @@
 ---
 type: aku
 aku_class: claim
-id: aku-la-libertad-es-el-valor-supremo-claim
+id: aku-el-juicio-esta-infravalorado-claim
 statement: >
-  La libertad —para hacer lo que quieres, frente a lo que no quieres hacer, y
-  frente a tus propias emociones que perturban tu paz— es el valor número uno:
-  el dinero es bueno en la medida en que compra libertad, y malo en la medida en
-  que te resta libertad.
+  El juicio está infravalorado y el trabajo duro sobrevalorado: en una era de
+  leverage, una sola decisión correcta puede ganarlo todo, así que desarrollar
+  buen juicio rinde más que aplicar más fuerza.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, libertad, valores]
+domain: [naval, juicio, leverage]
 
 llm_confidence: 0.50
 
@@ -31,7 +30,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-el-dinero-resuelve-problemas-de-dinero-no-te-hace-feliz-claim
+    - aku-judgment-naval-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,6 +43,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-el-dinero-resuelve-problemas-de-dinero-no-te-hace-feliz-claim]]
+**related** ↔ [[aku-judgment-naval-concept]]
