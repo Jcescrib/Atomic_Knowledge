@@ -1,15 +1,15 @@
 ---
 type: aku
 aku_class: concept
-id: aku-simple-but-not-easy-concept
+id: aku-el-enemigo-tiene-voto-concept
 statement: >
-  Los principios de liderazgo eficaz son «simples pero no fáciles» (simple, but
-  not easy): conceptualmente sencillos y basados en el sentido común, pero a
-  menudo contraintuitivos y que exigen habilidad, esfuerzo enfocado,
-  entrenamiento y disciplina sostenida en el tiempo para implementarlos y
-  dominarlos.
+  «The enemy gets a vote» (el enemigo tiene voto): por mucho que pienses cómo se
+  desarrollará una operación, el enemigo —o la realidad— hará algo para
+  perturbarla; incluye que casi ninguna misión transcurre según el plan por la
+  cantidad de variables; implica diseñar planes simples que permitan reaccionar
+  a lo imprevisto.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, implementacion]
+domain: [liderazgo, jocko, combate, incertidumbre]
 
 llm_confidence: 0.50
 
@@ -25,15 +25,14 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-simple-law-of-combat-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-laws-of-combat-concept
-    - aku-simple-law-of-combat-concept
+  related: []
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-laws-of-combat-concept]] · [[aku-simple-law-of-combat-concept]]
+**supports** → [[aku-simple-law-of-combat-concept]]

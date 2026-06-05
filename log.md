@@ -651,3 +651,7 @@ Ingesta hiper-exhaustiva, granularidad máxima. **COBERTURA**: 11 items (4 conce
 ### Cap 5 «Cover and Move» — Law of Combat #1 (+8 AKUs)
 
 **COBERTURA**: 8 items (2 concept, 1 method, 5 claim). 1100→1108. `cover-and-move` (1ª ley = trabajo en equipo) `supports` laws-of-combat (paraguas, ahora con su 1er hijo). `main-effort-supporting-efforts` (concept, se relacionará con prioritize-execute cap 7). Method: cover-and-move-construir-relacion. Claims: romper-silos-interdependencia, subteams-compiten-pierden-perspectiva, lider-mantiene-perspectiva-estrategica (↔ detach/parte-de-algo-mas-grande), equipo-gana-o-falla-en-conjunto, competidor-es-externo-no-interno (reframe «el enemigo está fuera»). verify_graph: 1108 AKUs, 0 errores.
+
+### Cap 6 «Simple» — Law of Combat #2 (+9 AKUs)
+
+**COBERTURA**: 9 items (2 concept, 1 method, 6 claim). 1108→1117. `simple-law-of-combat` `supports` laws-of-combat (related simple-but-not-easy, distinto: éste = mantén los planes simples). `el-enemigo-tiene-voto` (concept: la realidad perturba el plan → exige simplicidad). Method: incentivos-simples-pocas-metricas (2-4 áreas, visibles). Claims: complejidad-se-agrava-cuando-falla, briefear-al-minimo-comun-denominador (accountability del líder sobre la comprensión), facilitar-preguntas-clarificacion (↔ preguntar-por-que), simplicidad-permite-ajuste-rapido, conexion-accion-consecuencia-conducta (operant conditioning → fundamenta incentivos), camino-de-menor-resistencia. verify_graph: 1117 AKUs, 0 errores.

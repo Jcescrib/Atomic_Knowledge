@@ -28,6 +28,7 @@ relations:
   supported_by:
     - aku-extreme-ownership-concept
     - aku-cover-and-move-concept
+    - aku-simple-law-of-combat-concept
   supports: []
   constrained_by: []
   constrains: []
@@ -50,6 +51,6 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-extreme-ownership-concept]] · [[aku-cover-and-move-concept]]
+**supported_by** ← [[aku-extreme-ownership-concept]] · [[aku-cover-and-move-concept]] · [[aku-simple-law-of-combat-concept]]
 
 **related** ↔ [[aku-principios-combate-aplican-a-negocio-claim]] · [[aku-simple-but-not-easy-concept]] · [[aku-relax-look-around-make-a-call-method]]

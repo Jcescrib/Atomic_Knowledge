@@ -1,15 +1,13 @@
 ---
 type: aku
-aku_class: concept
-id: aku-simple-but-not-easy-concept
+aku_class: claim
+id: aku-camino-de-menor-resistencia-claim
 statement: >
-  Los principios de liderazgo eficaz son «simples pero no fáciles» (simple, but
-  not easy): conceptualmente sencillos y basados en el sentido común, pero a
-  menudo contraintuitivos y que exigen habilidad, esfuerzo enfocado,
-  entrenamiento y disciplina sostenida en el tiempo para implementarlos y
-  dominarlos.
+  Las personas tienden por naturaleza a tomar el camino de menor resistencia;
+  por eso no se puede contar con que «se tomen el tiempo de descifrar» un
+  sistema complejo: si entenderlo requiere esfuerzo, no lo harán.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, implementacion]
+domain: [liderazgo, jocko, conducta, simplicidad]
 
 llm_confidence: 0.50
 
@@ -32,8 +30,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-laws-of-combat-concept
-    - aku-simple-law-of-combat-concept
+    - aku-conexion-accion-consecuencia-conducta-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +43,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-laws-of-combat-concept]] · [[aku-simple-law-of-combat-concept]]
+**related** ↔ [[aku-conexion-accion-consecuencia-conducta-claim]]
