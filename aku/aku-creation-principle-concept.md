@@ -35,6 +35,7 @@ relations:
   contradicts: []
   related:
     - aku-pyramid-principle-concept
+    - aku-acceptance-principle-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-be-first-and-third-concept]]
 
-**related** ↔ [[aku-pyramid-principle-concept]]
+**related** ↔ [[aku-pyramid-principle-concept]] · [[aku-acceptance-principle-concept]]
