@@ -162,6 +162,7 @@ Ejemplo del módulo 2.3:
   |---|---|
   | `raw/cursos/power-mba/…` | `power-mba` |
   | `raw/libros/hormozi/…` | `hormozi` |
+  | `raw/libros/jocko/…` | `jocko` |
   | `raw/libros/kolenda/…` | `kolenda` |
   | `raw/<slug>/…` (root fallback, unknown origin) | *(no source-tag — leave it off rather than guess)* |
 

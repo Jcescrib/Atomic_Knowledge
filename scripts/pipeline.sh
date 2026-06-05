@@ -93,13 +93,15 @@ cmd_discover() {
 }
 
 # Decide the raw/ subpath for a source file based on its origin path.
-# Nick Kolenda books → raw/libros/kolenda ; Power MBA modules → raw/cursos/power-mba ;
+# Nick Kolenda books → raw/libros/kolenda ; Hormozi → raw/libros/hormozi ;
+# Jocko Willink → raw/libros/jocko ; Power MBA modules → raw/cursos/power-mba ;
 # anything else → raw (root, generic fallback).
 raw_subdir_for() {
   local src="$1"
   case "$src" in
     *nickkolenda*|*Kolenda*|*kolenda*) echo "raw/libros/kolenda" ;;
     *HORMOZI*|*Hormozi*|*hormozi*) echo "raw/libros/hormozi" ;;
+    *JOCKO*|*Jocko*|*jocko*) echo "raw/libros/jocko" ;;
     *"Apuntes Power MBA"*|*"Power MBA"*) echo "raw/cursos/power-mba" ;;
     *) echo "raw" ;;
   esac

@@ -1463,3 +1463,103 @@ sources:
       cac-payback (puente clave libro2↔libro3); continuity↔fidelizacion/churn/cltv-subscription;
       attraction↔modelo-free/lead-magnet; win-your-money-back↔garantia-condicional.
       LIBRO COMPLETO (2026-06-04). verify_graph 532 AKUs / 0 errores.
+
+  # ─── Corpus Jocko Willink (liderazgo / disciplina / jiu-jitsu) ───────────────
+  - original: "G:\\Mi unidad\\JOCKO\\Extreme Ownership_ How U_S_ Navy SEALs Lead and Win -- Jocko Willink & Leif Babin -- 2015 -- St_ Martin's Press -- 7fa8db6d75dc82800b9e56bc743a4733 -- Anna’s Archive.pdf"
+    name_slug: "extreme-ownership"
+    raw_path: "raw/libros/jocko/extreme-ownership/"
+    converter: mineru
+    converted: 2026-06-05
+    image_processing: null
+    ingested: null
+    chapters_ingested: []
+    aku_count: 0
+    taku_count: 0
+    last_commit: ""
+    notes: >
+      Libro 1 corpus Jocko (Willink & Babin, 2015). source-tag: jocko. PDF 289 págs
+      → MinerU (-b pipeline -l latin). Estructura: 12 capítulos en 3 partes (Winning
+      the War Within / Laws of Combat / Sustaining Victory), cada uno con vignette de
+      combate SEAL + principio de liderazgo + aplicación a negocio. Pendiente FASE 2
+      ingesta hiper-exhaustiva.
+
+  - original: "G:\\Mi unidad\\JOCKO\\The Dichotomy of Leadership -- Jocko Willink -- St_ Martin's Press -- a26752002ad9fa98a4b78c6bd3a55145 -- Anna’s Archive.pdf"
+    name_slug: "dichotomy-of-leadership"
+    raw_path: "raw/libros/jocko/dichotomy-of-leadership/"
+    converter: mineru
+    converted: 2026-06-05
+    image_processing: null
+    ingested: null
+    chapters_ingested: []
+    aku_count: 0
+    taku_count: 0
+    last_commit: ""
+    notes: >
+      Libro 2 corpus Jocko (Willink & Babin, 2018). source-tag: jocko. PDF 345 págs
+      → MinerU. Cada capítulo desarrolla una dicotomía del liderazgo (equilibrar dos
+      extremos opuestos). Pendiente FASE 2 ingesta hiper-exhaustiva.
+
+  - original: "G:\\Mi unidad\\JOCKO\\Discipline equals freedom _ field manual -- Jocko Willink -- First edition, New York, 2017 -- St_ Martin's Press, -- isbn13 9781250156952 -- 12e026df2aff6d732f0e6486d90930bf -- Anna’s Archive.epub"
+    name_slug: "discipline-equals-freedom"
+    raw_path: "raw/libros/jocko/discipline-equals-freedom/"
+    converter: ebooklib   # EPUB → scripts/epub_to_md.py
+    converted: 2026-06-05
+    image_processing: null
+    ingested: null
+    chapters_ingested: []
+    aku_count: 0
+    taku_count: 0
+    last_commit: ""
+    notes: >
+      Libro 3 corpus Jocko (Willink, 2017). source-tag: jocko. EPUB → epub_to_md.py
+      (96 secciones, 12 imgs). Field manual: secciones Thoughts / Actions / Physical
+      sobre disciplina, mentalidad y rutina. Pendiente FASE 2 ingesta hiper-exhaustiva.
+
+  - original: "G:\\Mi unidad\\JOCKO\\Leadership strategy and tactics _ field manual -- Jocko Willink -- ebook, 2020 -- St_ Martin’s Press -- isbn13 9781250226853 -- 2c4b89f9780fcc74c824be5367a69eea -- Anna’s Archive.epub"
+    name_slug: "leadership-strategy-and-tactics"
+    raw_path: "raw/libros/jocko/leadership-strategy-and-tactics/"
+    converter: ebooklib
+    converted: 2026-06-05
+    image_processing: null
+    ingested: null
+    chapters_ingested: []
+    aku_count: 0
+    taku_count: 0
+    last_commit: ""
+    notes: >
+      Libro 4 corpus Jocko (Willink, 2020). source-tag: jocko. EPUB → epub_to_md.py
+      (22 secciones, 6 imgs). Manual de estrategia y tácticas concretas de liderazgo.
+      Pendiente FASE 2 ingesta hiper-exhaustiva.
+
+  - original: "G:\\Mi unidad\\JOCKO\\The 32 Principles _ Harnessing the Power of Jiu-Jitsu to -- Rener Gracie; Paul Volponi; Jocko Willink -- Penguin Random House LLC (Publisher -- isbn13 9781637743669 -- 5169366a78a816c380f0a99c2d2d635f -- Anna’s Ar.epub"
+    name_slug: "32-principles"
+    raw_path: "raw/libros/jocko/32-principles/"
+    converter: ebooklib
+    converted: 2026-06-05
+    image_processing: null
+    ingested: null
+    chapters_ingested: []
+    aku_count: 0
+    taku_count: 0
+    last_commit: ""
+    notes: >
+      Libro 5 corpus Jocko (Rener Gracie; Paul Volponi; pról. Jocko Willink, 2023).
+      source-tag: jocko. EPUB → epub_to_md.py (78 secciones, 41 imgs — muchas figuras
+      informacionales de técnica jiu-jitsu). 32 principios transferibles del jiu-jitsu
+      a la vida. Pendiente FASE 2 ingesta hiper-exhaustiva (atención a figuras).
+
+  - original: "G:\\Mi unidad\\JOCKO\\The Code_ the Evaluation_ the Protocols_ Striving to Become -- Jocko Willink & Dave Berke & Sarah Armstrong -- 2020 -- Jocko Publishing -- 69f5b97a0718c0fe357b8a3abd0dd49b -- Anna’s Archive.epub"
+    name_slug: "the-code"
+    raw_path: "raw/libros/jocko/the-code/"
+    converter: ebooklib
+    converted: 2026-06-05
+    image_processing: null
+    ingested: null
+    chapters_ingested: []
+    aku_count: 0
+    taku_count: 0
+    last_commit: ""
+    notes: >
+      Libro 6 corpus Jocko (Willink, Berke & Armstrong, 2020). source-tag: jocko.
+      EPUB → epub_to_md.py (34 secciones, 8 imgs). The Code / The Evaluation / The
+      Protocols para ser un "Eminently Qualified Human". Pendiente FASE 2 ingesta.
