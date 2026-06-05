@@ -748,3 +748,11 @@ Próximo libro: **dichotomy-of-leadership** (PDF, 345 págs) — enriquecerá lo
 ### Cap 11 «Humble, Not Passive» (+1 AKU, +1 enrich)
 
 **COBERTURA**: dedup a humilde-no-pasivo (EO cap12 → enrich 2ª fuente 0.50→0.60); «no pasivo/push back» ya cubierto por callado-no-silencioso. 1 NUEVO: `humildad-es-la-cualidad-mas-importante` (a los líderes SEAL se les destituía casi siempre por falta de humildad, no por incompetencia; `supports` check-the-ego; related humilde-no-pasivo/el-ego-mas-dificil). 1216→1217. verify_graph: 1217 AKUs, 0 errores.
+
+### Cap 12 «Focused, but Detached» (+1 AKU, +2 enrich) — CIERRA LIBRO 2
+
+**COBERTURA**: dedup a atento-detalle-no-obsesionado (EO cap12) y detach-tactico-estrategico (EO cap3) → ambos enrich 2ª fuente 0.50→0.60. 1 NUEVO: `detachment-default-high-port` (el desapego como posición por defecto, metáfora «high port»; `supports` detach-tactico-estrategico; related atento-detalle/pull-off-firing-line). 1217→1218.
+
+**★ LIBRO 2 «THE DICHOTOMY OF LEADERSHIP» COMPLETO**: intro + 12 caps = **41 AKUs nuevos** (1177→1218) + **8 enriquecimientos cross-libro** de AKUs de EO (dichotomy-of-leadership, balance-ownership-decentralized-command, discipline-equals-freedom, default-agresivo-proactivo, lider-y-seguidor, humilde-no-pasivo, atento-detalle-no-obsesionado, detach-tactico-estrategico → 0.60 c/u). Manifest `ingested: 2026-06-05`.
+
+**2º pase verificación Libro 2**: verify_graph 1218 AKUs / 0 errores (simetría, body-sync, targets). El catálogo de dicotomías de EO cap12 se ha desarrollado aquí (varias dicotomías ahora con 2 fuentes y sub-contenido propio: micromanagement/hands-off con diagnósticos+correcciones, leadership-capital, disease-of-victory, accountability-no-principal, etc.). Cluster Jocko sigue siendo 2º componente global (sin puentes (b) al grafo de negocio). Pendiente Joan: validar; aprobar puentes (b). Candidatos TAKU adicionales: taku-dichotomy-of-leadership (framework con las dicotomías), taku-diagnostico-micromanagement-hands-off (protocol).

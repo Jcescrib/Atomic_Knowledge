@@ -1489,11 +1489,18 @@ sources:
     converter: mineru
     converted: 2026-06-05
     image_processing: n/a
-    ingested: null   # FASE 2 en curso — book mode
-    chapters_ingested: [introduccion, cap01-ultimate-dichotomy, cap02-own-it-all-empower-others, cap03-resolute-not-overbearing, cap04-when-to-mentor-when-to-fire, cap05-train-hard-train-smart, cap06-aggressive-not-reckless, cap07-disciplined-not-rigid, cap08-accountability-not-hand-holding, cap09-leader-and-follower, cap10-plan-but-remain-flexible, cap11-humble-not-passive]
-    aku_count: 40
+    ingested: 2026-06-05   # LIBRO COMPLETO (intro + 12 caps), book mode
+    chapters_ingested: [introduccion, cap01-ultimate-dichotomy, cap02-own-it-all-empower-others, cap03-resolute-not-overbearing, cap04-when-to-mentor-when-to-fire, cap05-train-hard-train-smart, cap06-aggressive-not-reckless, cap07-disciplined-not-rigid, cap08-accountability-not-hand-holding, cap09-leader-and-follower, cap10-plan-but-remain-flexible, cap11-humble-not-passive, cap12-focused-but-detached]
+    aku_count: 41
     taku_count: 0
     last_commit: ""
+    notes: >
+      Libro 2 corpus Jocko. 41 AKUs nuevos + 8 enriquecimientos cross-libro de AKUs de
+      EO (dichotomy-of-leadership, balance-ownership-decentralized-command, discipline-
+      equals-freedom, default-agresivo-proactivo, lider-y-seguidor, humilde-no-pasivo,
+      atento-detalle-no-obsesionado, detach-tactico-estrategico → +0.10 confianza c/u,
+      2ª fuente). El catálogo de dicotomías creado en EO cap12 se desarrolla aquí.
+      verify_graph 1218 AKUs / 0 errores.
     notes: >
       Libro 2 corpus Jocko (Willink & Babin, 2018). source-tag: jocko. PDF 345 págs
       → MinerU. Cada capítulo desarrolla una dicotomía del liderazgo (equilibrar dos

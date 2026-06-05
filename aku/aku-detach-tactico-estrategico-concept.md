@@ -10,7 +10,7 @@ statement: >
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
 domain: [liderazgo, jocko, estrategia, perspectiva]
 
-llm_confidence: 0.50
+llm_confidence: 0.60
 
 human_certainty:
   status: unvalidated
@@ -23,7 +23,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-detachment-default-high-port-claim
   supports:
     - aku-preguntar-por-que-method
   constrained_by: []
@@ -38,6 +39,7 @@ relations:
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
+  - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
 
 created: 2026-06-05
 updated: 2026-06-05
@@ -50,3 +52,5 @@ status_note: ""
 **supports** → [[aku-preguntar-por-que-method]]
 
 **related** ↔ [[aku-lider-mantiene-perspectiva-estrategica-claim]] · [[aku-pull-off-the-firing-line-claim]] · [[aku-stand-back-be-the-tactical-genius-claim]]
+
+**supported_by** ← [[aku-detachment-default-high-port-claim]]

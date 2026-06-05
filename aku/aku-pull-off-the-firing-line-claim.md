@@ -34,6 +34,7 @@ relations:
   related:
     - aku-detach-tactico-estrategico-concept
     - aku-stand-back-be-the-tactical-genius-claim
+    - aku-detachment-default-high-port-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-prioritize-and-execute-concept]]
 
-**related** ↔ [[aku-detach-tactico-estrategico-concept]] · [[aku-stand-back-be-the-tactical-genius-claim]]
+**related** ↔ [[aku-detach-tactico-estrategico-concept]] · [[aku-stand-back-be-the-tactical-genius-claim]] · [[aku-detachment-default-high-port-claim]]
