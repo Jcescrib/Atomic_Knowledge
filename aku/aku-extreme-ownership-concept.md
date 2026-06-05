@@ -63,6 +63,7 @@ relations:
     - aku-preemptive-ownership-concept
     - aku-tomar-ownership-cuando-te-culpan-claim
     - aku-castigo-raro-y-con-lineas-claras-claim
+    - aku-apologizing-no-es-debilidad-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -81,4 +82,4 @@ status_note: ""
 
 **contradicts** ↔ [[aku-tortured-genius-concept]]
 
-**related** ↔ [[aku-balance-ownership-decentralized-command-concept]] · [[aku-entrenamiento-desde-abajo-no-desde-arriba-claim]] · [[aku-solo-te-puedes-controlar-a-ti-mismo-claim]] · [[aku-gestionar-stress-detach-y-perspectiva-method]] · [[aku-eleccion-vence-naturaleza-y-crianza-claim]] · [[aku-the-warpath-concept]] · [[aku-good-mindset-concept]] · [[aku-preemptive-ownership-concept]] · [[aku-tomar-ownership-cuando-te-culpan-claim]] · [[aku-castigo-raro-y-con-lineas-claras-claim]]
+**related** ↔ [[aku-balance-ownership-decentralized-command-concept]] · [[aku-entrenamiento-desde-abajo-no-desde-arriba-claim]] · [[aku-solo-te-puedes-controlar-a-ti-mismo-claim]] · [[aku-gestionar-stress-detach-y-perspectiva-method]] · [[aku-eleccion-vence-naturaleza-y-crianza-claim]] · [[aku-the-warpath-concept]] · [[aku-good-mindset-concept]] · [[aku-preemptive-ownership-concept]] · [[aku-tomar-ownership-cuando-te-culpan-claim]] · [[aku-castigo-raro-y-con-lineas-claras-claim]] · [[aku-apologizing-no-es-debilidad-claim]]

@@ -35,6 +35,7 @@ relations:
   related:
     - aku-burden-of-command-concept
     - aku-confianza-se-construye-no-se-da-claim
+    - aku-be-approachable-pero-cuidado-con-las-palabras-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-burden-of-command-concept]] · [[aku-confianza-se-construye-no-se-da-claim]]
+**related** ↔ [[aku-burden-of-command-concept]] · [[aku-confianza-se-construye-no-se-da-claim]] · [[aku-be-approachable-pero-cuidado-con-las-palabras-claim]]

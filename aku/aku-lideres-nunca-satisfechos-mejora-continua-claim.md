@@ -37,6 +37,7 @@ relations:
     - aku-post-operational-debrief-method
     - aku-analisis-constante-medir-efectividad-claim
     - aku-estudiar-liderazgo-lente-de-liderazgo-claim
+    - aku-balancing-praise-elogio-con-cautela-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -51,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-no-bad-teams-only-bad-leaders-concept]]
 
-**related** ↔ [[aku-ver-problemas-lente-objetiva-claim]] · [[aku-ego-impide-evaluacion-honesta-claim]] · [[aku-post-operational-debrief-method]] · [[aku-analisis-constante-medir-efectividad-claim]] · [[aku-estudiar-liderazgo-lente-de-liderazgo-claim]]
+**related** ↔ [[aku-ver-problemas-lente-objetiva-claim]] · [[aku-ego-impide-evaluacion-honesta-claim]] · [[aku-post-operational-debrief-method]] · [[aku-analisis-constante-medir-efectividad-claim]] · [[aku-estudiar-liderazgo-lente-de-liderazgo-claim]] · [[aku-balancing-praise-elogio-con-cautela-claim]]

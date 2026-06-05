@@ -39,6 +39,7 @@ relations:
     - aku-presentar-frente-unido-claim
     - aku-cuando-desobedecer-ultimo-recurso-method
     - aku-defender-al-jefe-casi-indefendible-claim
+    - aku-ultimatums-ultimo-recurso-method
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-lider-y-seguidor-concept]] · [[aku-ejecutar-decision-como-propia-claim]] · [[aku-presentar-frente-unido-claim]] · [[aku-cuando-desobedecer-ultimo-recurso-method]] · [[aku-defender-al-jefe-casi-indefendible-claim]]
+**related** ↔ [[aku-lider-y-seguidor-concept]] · [[aku-ejecutar-decision-como-propia-claim]] · [[aku-presentar-frente-unido-claim]] · [[aku-cuando-desobedecer-ultimo-recurso-method]] · [[aku-defender-al-jefe-casi-indefendible-claim]] · [[aku-ultimatums-ultimo-recurso-method]]

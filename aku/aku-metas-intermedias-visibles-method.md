@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-mantener-objetivo-largo-plazo-a-la-vista-claim
+    - aku-hope-no-es-curso-de-accion-pero-debe-existir-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-no-bad-teams-only-bad-leaders-concept]]
 
-**related** ↔ [[aku-mantener-objetivo-largo-plazo-a-la-vista-claim]]
+**related** ↔ [[aku-mantener-objetivo-largo-plazo-a-la-vista-claim]] · [[aku-hope-no-es-curso-de-accion-pero-debe-existir-claim]]

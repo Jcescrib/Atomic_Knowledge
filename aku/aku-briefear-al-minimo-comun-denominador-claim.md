@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-brief-orientado-a-frontline-claim
+    - aku-cuando-gritar-casi-nunca-y-calculado-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-simple-law-of-combat-concept]]
 
-**related** ↔ [[aku-brief-orientado-a-frontline-claim]]
+**related** ↔ [[aku-brief-orientado-a-frontline-claim]] · [[aku-cuando-gritar-casi-nunca-y-calculado-claim]]

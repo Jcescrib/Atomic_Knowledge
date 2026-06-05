@@ -35,6 +35,7 @@ relations:
   related:
     - aku-extreme-ownership-concept
     - aku-atribucion-sesgada-exito-fracaso-claim
+    - aku-apologizing-no-es-debilidad-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-extreme-ownership-concept]] · [[aku-atribucion-sesgada-exito-fracaso-claim]]
+**related** ↔ [[aku-extreme-ownership-concept]] · [[aku-atribucion-sesgada-exito-fracaso-claim]] · [[aku-apologizing-no-es-debilidad-claim]]

@@ -34,6 +34,8 @@ relations:
   related:
     - aku-senior-debe-explicar-el-porque-claim
     - aku-cada-miembro-es-el-mas-importante-claim
+    - aku-keep-troops-informed-asumir-que-no-saben-claim
+    - aku-thread-of-why-conectar-al-individuo-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-leading-down-the-chain-concept]]
 
-**related** ↔ [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-cada-miembro-es-el-mas-importante-claim]]
+**related** ↔ [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-cada-miembro-es-el-mas-importante-claim]] · [[aku-keep-troops-informed-asumir-que-no-saben-claim]] · [[aku-thread-of-why-conectar-al-individuo-claim]]

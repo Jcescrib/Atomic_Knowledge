@@ -39,6 +39,7 @@ relations:
     - aku-no-usar-sandwich-de-critica-claim
     - aku-confianza-arriba-no-decir-lo-que-quieren-oir-claim
     - aku-positivo-pero-realista-no-pollyanna-claim
+    - aku-rumor-control-llenar-vacio-de-informacion-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-believe-in-the-mission-concept]] · [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-humildad-asumir-errores-claim]] · [[aku-no-usar-sandwich-de-critica-claim]] · [[aku-confianza-arriba-no-decir-lo-que-quieren-oir-claim]] · [[aku-positivo-pero-realista-no-pollyanna-claim]]
+**related** ↔ [[aku-believe-in-the-mission-concept]] · [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-humildad-asumir-errores-claim]] · [[aku-no-usar-sandwich-de-critica-claim]] · [[aku-confianza-arriba-no-decir-lo-que-quieren-oir-claim]] · [[aku-positivo-pero-realista-no-pollyanna-claim]] · [[aku-rumor-control-llenar-vacio-de-informacion-claim]]

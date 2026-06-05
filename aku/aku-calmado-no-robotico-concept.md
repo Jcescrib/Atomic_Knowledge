@@ -34,6 +34,8 @@ relations:
   related:
     - aku-agresivo-significa-proactivo-no-iracundo-claim
     - aku-no-sobrerreaccionar-mantener-la-calma-claim
+    - aku-reflect-and-diminish-method
+    - aku-cuando-gritar-casi-nunca-y-calculado-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
 
-**related** ↔ [[aku-agresivo-significa-proactivo-no-iracundo-claim]] · [[aku-no-sobrerreaccionar-mantener-la-calma-claim]]
+**related** ↔ [[aku-agresivo-significa-proactivo-no-iracundo-claim]] · [[aku-no-sobrerreaccionar-mantener-la-calma-claim]] · [[aku-reflect-and-diminish-method]] · [[aku-cuando-gritar-casi-nunca-y-calculado-claim]]
