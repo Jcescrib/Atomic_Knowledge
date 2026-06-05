@@ -37,6 +37,7 @@ relations:
     - aku-velocity-principle-concept
     - aku-momentum-vital-psicologico-requiere-preparacion-claim
     - aku-pivot-principle-concept
+    - aku-redirection-principle-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-sacrifice-principle-concept]] · [[aku-velocity-principle-concept]] · [[aku-momentum-vital-psicologico-requiere-preparacion-claim]] · [[aku-pivot-principle-concept]]
+**related** ↔ [[aku-sacrifice-principle-concept]] · [[aku-velocity-principle-concept]] · [[aku-momentum-vital-psicologico-requiere-preparacion-claim]] · [[aku-pivot-principle-concept]] · [[aku-redirection-principle-concept]]
