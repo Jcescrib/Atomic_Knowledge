@@ -1656,24 +1656,27 @@ sources:
     raw_path: "raw/libros/james-clear/atomic-habits/"
     converter: mineru
     converted: 2026-06-05
-    image_processing: null
-    ingested: null
-    chapters_ingested: []
-    aku_count: 0
-    taku_count: 0
-    last_commit: ""
+    image_processing: in-progress   # blockquotes insertados para figuras de ch1-3 (6 figuras)
+    ingested: in-progress   # book-mode: THE FUNDAMENTALS (ch1-3) COMPLETO
+    chapters_ingested: [ch1-fundamentals-power, ch2-identity, ch3-habit-loop-four-laws]
+    aku_count: 20
+    taku_count: 1
+    last_commit: "95f91e8"
     notes: >
       TAREA 2, libro 2. Atomic Habits (James Clear, 2018). source-tag: james-clear.
-      PDF → MinerU (285 págs, 43 imgs, OCR latin CPU). Slug saneado a `atomic-habits`.
-      CONVERSIÓN COMPLETA, IMAGE PROCESSING + INGESTA PENDIENTES. Estructura: Introduction +
-      THE FUNDAMENTALS + las 4 Leyes del cambio de conducta (1st Law Make It Obvious, 2nd Law
-      Make It Attractive, 3rd Law Make It Easy, 4th Law Make It Satisfying) + Advanced Tactics,
-      con "Chapter Summary" al final de cada capítulo (buenas fronteras de commit). IMÁGENES (43):
-      muchas son diagramas INFORMACIONALES famosos (habit loop, curva del 1% mejor/peor, meseta
-      del potencial latente, 3 capas de cambio, two-minute rule, etc.) → requerirán blockquotes
-      `> **Figura**:` en la fase de image-processing antes de ingestar cada capítulo. Pendiente
-      de la siguiente sesión (contexto): image-processing + ingesta hiper-exhaustiva capítulo a
-      capítulo con dedup cross-corpus (hábitos/disciplina ↔ Jocko; identidad ↔ Naval-descondiciónate).
+      PDF → MinerU (285 págs, 43 imgs). EN CURSO. **THE FUNDAMENTALS (ch1-3) COMPLETO**:
+      20 AKUs + 1 framework TAKU (cuatro-leyes-del-cambio-de-conducta). ch1 (habito-atomico,
+      agregacion-ganancias-marginales, habitos=interes-compuesto, plateau-of-latent-potential,
+      resultados=medida-rezagada, sistemas-vs-metas), ch2 (3-capas-del-cambio, identity-based-
+      habits, identidad-emerge-de-habitos, cada-accion-es-un-voto, proceso-2-pasos, editar-
+      identidad), ch3 (habito, habit-loop, 4-leyes, craving=cambio-de-estado). Figuras ch1-3
+      con blockquotes (curva 1%, meseta, 3-capas onion, outcome/identity-based, habit-loop).
+      **PRÓXIMO (resume): línea ~754 — THE 1ST LAW (Make It Obvious)**: ch4 The Man Who Didn't
+      Look Right (habits scorecard), ch5 best way to start (habit stacking/implementation
+      intentions), ch6 motivation/environment, ch7 secret of self-control. Luego 2ND LAW (ch8-11),
+      3RD LAW (ch12-15), 4TH LAW (ch16-20), Advanced Tactics, Little Lessons. Quedan ~37 figuras
+      por procesar en sus capítulos. Dedup cross-corpus aplicado: identidad/hábitos↔Naval,
+      sistemas-no-metas↔Naval (mismo Scott Adams), interes-compuesto. Pendientes por contexto.
 
   - original: "G:\Mi unidad\Robert Greene\The 48 Laws of Power -- Greene, Robert -- 2000 -- Penguin Publishing Group -- df1924a1c79bd326dc2886b61daa6f9f -- Anna’s Archive.pdf"
     name_slug: "48-laws-of-power"
