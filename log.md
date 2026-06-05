@@ -682,4 +682,23 @@ Ingesta hiper-exhaustiva, granularidad máxima. **COBERTURA**: 11 items (4 conce
 
 **COBERTURA**: 15 items (14 concept, 1 claim). 1162→1177. Catálogo de dicotomías (puente al Libro 2). Umbrella `dichotomy-of-leadership` `supported_by` cada dicotomía específica (axioma con 14 supports, incluido `confident-but-not-cocky` del cap 4 wirado como instancia). `discipline-equals-freedom` (título; enriquecerá con Libro 3). 11 dicotomías concept: lider-y-seguidor, agresivo-no-prepotente, calmado-no-robotico, valiente-no-temerario, competitivo-buen-perdedor, atento-detalle-no-obsesionado, fuerte-con-resistencia, humilde-no-pasivo, callado-no-silencioso, cercano-pero-no-demasiado, balance-ownership-decentralized-command (related EO+DC). Claim meta: lider-se-desvia-por-inclinarse-demasiado. Granularidad máxima: cada dicotomía con nombre propio = AKU (se enriquecerán cuando se ingiera el Libro 2, que dedica capítulos a varias). verify_graph: 1177 AKUs, 0 errores.
 
-**★ LIBRO 1 «EXTREME OWNERSHIP» COMPLETO**: intro + 12 caps = **133 AKUs nuevos** (1044→1177). Manifest `ingested: 2026-06-05`. Pendiente: 2º pase de verificación + informe consolidado.
+**★ LIBRO 1 «EXTREME OWNERSHIP» COMPLETO**: intro + 12 caps = **133 AKUs nuevos** (1044→1177). Manifest `ingested: 2026-06-05`.
+
+### ✅ 2º PASE DE VERIFICACIÓN + INFORME CONSOLIDADO — Libro 1 Extreme Ownership
+
+**Verificación de integridad (133 AKUs del libro)**:
+- `verify_graph`: 1177 AKUs, **0 errores** (simetría bidireccional, body-sync, targets válidos) — verificado tras cada uno de los 13 commits.
+- 133/133 con source-tag `jocko` en `domain`; 133/133 con `aku_class`; 133/133 con `sources: [extreme-ownership.md]` (único). 0 desviaciones.
+- **0 huérfanos** (degree 0). **1 solo componente conexo interno**: el cluster Extreme Ownership está completamente integrado consigo mismo (no hay sub-islas por capítulo).
+- Clases: **80 claim, 41 concept, 12 method**. Nodos axioma (incoming supports): extreme-ownership (15), dichotomy-of-leadership (15), decentralized-command (8), no-bad-teams (7), planning-process-estandarizado (7), believe-in-the-mission, laws-of-combat (4 leyes).
+
+**Cobertura por capítulo** (todos con paso COBERTURA previo): intro 11 · cap1 11 · cap2 12 · cap3 13 · cap4 9 · cap5 8 · cap6 9 · cap7 9 · cap8 11 · cap9 9 · cap10 8 · cap11 8 · cap12 15 = 133. Foco de extracción: secciones PRINCIPLE + APPLICATION TO BUSINESS (donde Willink/Babin destilan el conocimiento transferible). Conceptos célebres atomizados: the enemy gets a vote, commander's intent, span of control, tortured genius, battlefield aloofness, decisively engaged, battlefield promotion, stand back and be the tactical genius. Los 4 Laws of Combat y las ~12 dicotomías cada uno como AKU propio bajo su paraguas.
+
+**Estructura del grafo**: arquitectura paraguas→hijos consistente (extreme-ownership ← {humildad, ego, no-bad-teams, believe, check-the-ego, leading-up...}; laws-of-combat ← {cover-and-move, simple, prioritize-and-execute, decentralized-command}; dichotomy-of-leadership ← 14 dicotomías; planning-process ← checklist/debrief/risk).
+
+**Pendiente humano (Joan)**:
+- Los 133 AKUs son `unvalidated` (validar `human_certainty`).
+- **Cluster Jocko = componente separado del grafo de negocio** (2 componentes globales). Puentes nivel (b) flagged, NO escritos (esperan tu aprobación): extreme-ownership↔autoliderazgo-prerequisito; mejores-lideres-mision-no-ego/check-the-ego↔autoconciencia-lider/autoevaluacion-cuerpo-mente-alma; liderazgo-en-todos-los-niveles/decentralized-command↔estilos-autoritario-delegativo; relax-look-around/decisiveness↔asumir-equivocarse; metas-intermedias-visibles/objetivos-alineados↔OKR; conexion-accion-consecuencia-conducta↔incentivos (ya hay relación dominio marketing).
+- **Candidatos TAKU flagged (NO creados, decisión AKU-céntrica de la instrucción Jocko)**: `taku-laws-of-combat` (framework, justified_by las 4 leyes), `taku-prioritize-and-execute` (protocol, los 7 pasos), `taku-planning-checklist` (tool, leaders-checklist-planning), `taku-post-operational-debrief` (protocol, 3 preguntas), `taku-dichotomy-of-leadership` (framework, las dicotomías). Crear si Joan lo aprueba.
+
+Próximo libro: **dichotomy-of-leadership** (PDF, 345 págs) — enriquecerá los AKUs de dicotomías ya creados (dedup + 2ª fuente).
