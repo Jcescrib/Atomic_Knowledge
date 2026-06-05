@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-atribucion-sesgada-exito-fracaso-claim
+    - aku-check-the-ego-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-atribucion-sesgada-exito-fracaso-claim]]
+**related** ↔ [[aku-atribucion-sesgada-exito-fracaso-claim]] · [[aku-check-the-ego-concept]]

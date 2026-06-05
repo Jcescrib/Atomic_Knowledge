@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-extreme-ownership-cultura-equipo-claim
+    - aku-culpar-subordinado-natural-pero-contraproducente-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-extreme-ownership-cultura-equipo-claim]]
+**related** ↔ [[aku-extreme-ownership-cultura-equipo-claim]] · [[aku-culpar-subordinado-natural-pero-contraproducente-claim]]

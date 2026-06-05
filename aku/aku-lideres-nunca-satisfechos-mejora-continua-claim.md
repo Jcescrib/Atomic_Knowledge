@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-ver-problemas-lente-objetiva-claim
+    - aku-ego-impide-evaluacion-honesta-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-no-bad-teams-only-bad-leaders-concept]]
 
-**related** ↔ [[aku-ver-problemas-lente-objetiva-claim]]
+**related** ↔ [[aku-ver-problemas-lente-objetiva-claim]] · [[aku-ego-impide-evaluacion-honesta-claim]]

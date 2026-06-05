@@ -34,6 +34,7 @@ relations:
   related:
     - aku-mejores-lideres-mision-no-ego-claim
     - aku-lideres-nunca-satisfechos-mejora-continua-claim
+    - aku-ego-impide-evaluacion-honesta-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-lideres-nunca-satisfechos-mejora-continua-claim]]
+**related** ↔ [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-lideres-nunca-satisfechos-mejora-continua-claim]] · [[aku-ego-impide-evaluacion-honesta-claim]]

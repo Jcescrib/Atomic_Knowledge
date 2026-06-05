@@ -1,12 +1,12 @@
 ---
 type: aku
 aku_class: claim
-id: aku-mejores-lideres-mision-no-ego-claim
+id: aku-ego-impide-evaluacion-honesta-claim
 statement: >
-  Los mejores líderes no se mueven por el ego ni por agendas personales, sino
-  que se enfocan exclusivamente en la misión y en cómo cumplirla mejor.
+  El ego puede impedir que un líder realice una evaluación honesta y realista de
+  su propio desempeño y del de su equipo.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, ego, mision]
+domain: [liderazgo, jocko, ego, autoevaluacion]
 
 llm_confidence: 0.50
 
@@ -23,16 +23,15 @@ epistemic_type: sourced
 relations:
   supported_by: []
   supports:
-    - aku-extreme-ownership-concept
+    - aku-check-the-ego-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-owner-no-toma-credito-da-honor-claim
     - aku-ver-problemas-lente-objetiva-claim
-    - aku-check-the-ego-concept
+    - aku-lideres-nunca-satisfechos-mejora-continua-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,6 +44,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-extreme-ownership-concept]]
+**supports** → [[aku-check-the-ego-concept]]
 
-**related** ↔ [[aku-owner-no-toma-credito-da-honor-claim]] · [[aku-ver-problemas-lente-objetiva-claim]] · [[aku-check-the-ego-concept]]
+**related** ↔ [[aku-ver-problemas-lente-objetiva-claim]] · [[aku-lideres-nunca-satisfechos-mejora-continua-claim]]
