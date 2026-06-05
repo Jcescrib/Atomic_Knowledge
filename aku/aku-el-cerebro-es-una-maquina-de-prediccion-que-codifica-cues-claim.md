@@ -32,7 +32,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-la-causa-de-tus-habitos-es-la-prediccion-que-los-precede-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -46,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
+
+**related** ↔ [[aku-la-causa-de-tus-habitos-es-la-prediccion-que-los-precede-claim]]

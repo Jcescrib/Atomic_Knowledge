@@ -34,6 +34,7 @@ relations:
   related:
     - aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept
     - aku-la-dopamina-se-libera-al-anticipar-la-recompensa-no-solo-al-recibirla-claim
+    - aku-el-deseo-es-la-diferencia-entre-donde-estas-y-donde-quieres-estar-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]] · [[aku-la-dopamina-se-libera-al-anticipar-la-recompensa-no-solo-al-recibirla-claim]]
+**related** ↔ [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]] · [[aku-la-dopamina-se-libera-al-anticipar-la-recompensa-no-solo-al-recibirla-claim]] · [[aku-el-deseo-es-la-diferencia-entre-donde-estas-y-donde-quieres-estar-claim]]

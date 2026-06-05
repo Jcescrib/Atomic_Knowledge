@@ -1513,6 +1513,7 @@ The group would be shown one card with a line on it and then a second card with 
 ## CONFORMING TO SOCIAL NORMS
 
 ![](images/b6f19c9e099b491342b972be456d94c14444f96db416bd8f1050de4e5ea46c57.jpg)  
+> **Figura**: Las dos tarjetas del experimento de conformidad social de Solomon Asch. La tarjeta izquierda muestra una línea de referencia; la derecha, tres líneas candidatas (A, B, C) de longitudes distintas. La respuesta correcta es obvia (la línea de referencia mide igual que la C), pero cuando un grupo de actores afirmaba en voz alta que era otra (p. ej. la A), cerca del 75% de los sujetos acababa cediendo y dando la respuesta incorrecta del grupo antes que fiarse de sus propios ojos.
 FIGURE 10: This is a representation of two cards used by Solomon Asch in his famous social conformity experiments. The length of the line on the first card (left) is obviously the same as line C, but when a group of actors claimed it was a different length the research subjects would often change their minds and go with the crowd rather than believe their own eyes.
 
 The experiment always began the same. First, there would be some easy trials where everyone agreed on the correct line. After a few rounds, the participants were shown a test that was just as obvious as the previous ones, except the actors in the room would select an intentionally incorrect answer. For example, they would respond “A” to the comparison shown in Figure 10. Everyone would agree that the lines were the same even though they were clearly different.
