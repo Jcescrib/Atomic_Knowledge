@@ -38,6 +38,8 @@ relations:
     - aku-redefinir-agotamiento-eleva-baseline-claim
     - aku-load-management-pacing-recursos-finitos-concept
     - aku-isolation-principle-concept
+    - aku-tagalong-principle-concept
+    - aku-overload-neutralizado-por-produccion-atricion-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -52,4 +54,4 @@ status_note: ""
 
 **supported_by** ← [[aku-asimetria-burn-rate-energia-claim]]
 
-**related** ↔ [[aku-false-surrender-principle-concept]] · [[aku-prevention-principle-concept]] · [[aku-redefinir-agotamiento-eleva-baseline-claim]] · [[aku-load-management-pacing-recursos-finitos-concept]] · [[aku-isolation-principle-concept]]
+**related** ↔ [[aku-false-surrender-principle-concept]] · [[aku-prevention-principle-concept]] · [[aku-redefinir-agotamiento-eleva-baseline-claim]] · [[aku-load-management-pacing-recursos-finitos-concept]] · [[aku-isolation-principle-concept]] · [[aku-tagalong-principle-concept]] · [[aku-overload-neutralizado-por-produccion-atricion-claim]]
