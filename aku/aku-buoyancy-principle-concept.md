@@ -36,6 +36,7 @@ relations:
   related:
     - aku-ratchet-principle-concept
     - aku-conducta-sigue-patrones-y-se-revela-claim
+    - aku-head-control-principle-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-ratchet-principle-concept]] · [[aku-conducta-sigue-patrones-y-se-revela-claim]]
+**related** ↔ [[aku-ratchet-principle-concept]] · [[aku-conducta-sigue-patrones-y-se-revela-claim]] · [[aku-head-control-principle-concept]]
