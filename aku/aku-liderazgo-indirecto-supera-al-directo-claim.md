@@ -38,6 +38,7 @@ relations:
     - aku-dar-ordenes-solo-commanders-intent-claim
     - aku-lider-percibido-como-decisivo-claim
     - aku-decentralizar-proceso-planificacion-claim
+    - aku-conform-to-influence-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -50,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-dar-ordenes-solo-commanders-intent-claim]] · [[aku-lider-percibido-como-decisivo-claim]] · [[aku-decentralizar-proceso-planificacion-claim]]
+**related** ↔ [[aku-dar-ordenes-solo-commanders-intent-claim]] · [[aku-lider-percibido-como-decisivo-claim]] · [[aku-decentralizar-proceso-planificacion-claim]] · [[aku-conform-to-influence-claim]]

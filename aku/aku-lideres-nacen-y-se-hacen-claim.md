@@ -35,6 +35,7 @@ relations:
     - aku-eleccion-vence-naturaleza-y-crianza-claim
     - aku-humildad-es-la-cualidad-mas-importante-claim
     - aku-lider-compensa-debilidades-con-el-equipo-claim
+    - aku-juzgar-reputaciones-dar-empezar-de-cero-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-eleccion-vence-naturaleza-y-crianza-claim]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-lider-compensa-debilidades-con-el-equipo-claim]]
+**related** ↔ [[aku-eleccion-vence-naturaleza-y-crianza-claim]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-lider-compensa-debilidades-con-el-equipo-claim]] · [[aku-juzgar-reputaciones-dar-empezar-de-cero-claim]]

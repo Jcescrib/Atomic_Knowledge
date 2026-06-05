@@ -816,3 +816,7 @@ Creados los 6 TAKUs ejecutables flaggeados (86→92 TAKUs draft, todos `content_
 ### Parte 2 Sección 1 «Becoming a Leader» (+10 AKUs, +3 TAKUs)
 
 **COBERTURA**: 10 nuevos (4 method, 6 claim) + 3 TAKUs. 1315→1325. Methods: 12-reglas-del-nuevo-lider, cuando-no-te-eligen-pedir-feedback, overcoming-grudge-ex-pares, new-sheriff-cambio-segun-estado-equipo. Claims: como-ser-elegido-lider, imposter-syndrome-es-bueno, senales-de-confianza-desequilibrada, inseguridad-admitir-no-ocultar, transicion-de-par-a-lider, liderazgo-indirecto-supera-al-directo («don't be Rambo»). TAKUs (draft): `nuevo-lider` (tool, 12 reglas), `tomar-el-mando-nuevo-equipo` (protocol, New Sheriff), `liderazgo-indirecto` (heuristic). verify_graph: 1325 AKUs, 0 errores.
+
+### Parte 2 Sección 2 «Leadership Skills» (+10 AKUs, +2 TAKUs)
+
+**COBERTURA**: 10 nuevos (2 method, 8 claim) + 2 TAKUs. 1325→1335. Methods: pausa-tactica-ante-vacio-de-liderazgo, iterative-decision-making (decisión por pasos con checkpoints). Claims: no-amontonarse-en-el-lider («don't bunch up»), no-tomarse-las-cosas-personalmente, dont-dig-in-no-sobrecomprometerse (Patton), delegar-todo-para-liderar-no-pareciendo-vago, no-seas-el-easy-button, juzgar-reputaciones-dar-empezar-de-cero, conform-to-influence (cambiar al grupo desde dentro), positivo-pero-realista-no-pollyanna. TAKUs (draft): `iterative-decision-making` (protocol), `conform-to-influence` (heuristic). verify_graph: 1335 AKUs, 0 errores.

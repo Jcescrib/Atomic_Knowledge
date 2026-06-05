@@ -37,6 +37,7 @@ relations:
     - aku-decisiveness-amid-uncertainty-concept
     - aku-immediate-action-drills-amenaza-method
     - aku-no-sobrerreaccionar-mantener-la-calma-claim
+    - aku-pausa-tactica-ante-vacio-de-liderazgo-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -49,6 +50,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-laws-of-combat-concept]] · [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-immediate-action-drills-amenaza-method]] · [[aku-no-sobrerreaccionar-mantener-la-calma-claim]]
+**related** ↔ [[aku-laws-of-combat-concept]] · [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-immediate-action-drills-amenaza-method]] · [[aku-no-sobrerreaccionar-mantener-la-calma-claim]] · [[aku-pausa-tactica-ante-vacio-de-liderazgo-method]]
 
 **supports** → [[aku-prioritize-and-execute-concept]]

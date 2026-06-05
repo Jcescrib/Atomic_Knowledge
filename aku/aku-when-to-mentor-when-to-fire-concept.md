@@ -40,6 +40,7 @@ relations:
     - aku-lealtad-mision-sobre-individuo-claim
     - aku-no-bad-teams-only-bad-leaders-concept
     - aku-everyone-same-everyone-different-concept
+    - aku-juzgar-reputaciones-dar-empezar-de-cero-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -56,4 +57,4 @@ status_note: ""
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
 
-**related** ↔ [[aku-entrenar-mentorizar-underperformer-claim]] · [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-no-bad-teams-only-bad-leaders-concept]] · [[aku-everyone-same-everyone-different-concept]]
+**related** ↔ [[aku-entrenar-mentorizar-underperformer-claim]] · [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-no-bad-teams-only-bad-leaders-concept]] · [[aku-everyone-same-everyone-different-concept]] · [[aku-juzgar-reputaciones-dar-empezar-de-cero-claim]]

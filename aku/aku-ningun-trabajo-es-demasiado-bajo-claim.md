@@ -34,6 +34,7 @@ relations:
   related:
     - aku-liderar-desde-posicion-mas-dificil-claim
     - aku-draw-fire-concept
+    - aku-delegar-todo-para-liderar-no-pareciendo-vago-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-liderar-desde-posicion-mas-dificil-claim]] · [[aku-draw-fire-concept]]
+**related** ↔ [[aku-liderar-desde-posicion-mas-dificil-claim]] · [[aku-draw-fire-concept]] · [[aku-delegar-todo-para-liderar-no-pareciendo-vago-claim]]

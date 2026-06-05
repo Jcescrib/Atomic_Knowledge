@@ -36,6 +36,7 @@ relations:
     - aku-subordinate-your-ego-desactiva-choque-method
     - aku-detach-tactico-estrategico-concept
     - aku-play-the-long-game-concept
+    - aku-no-amontonarse-en-el-lider-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-subordinate-your-ego-desactiva-choque-method]] · [[aku-detach-tactico-estrategico-concept]] · [[aku-play-the-long-game-concept]]
+**related** ↔ [[aku-subordinate-your-ego-desactiva-choque-method]] · [[aku-detach-tactico-estrategico-concept]] · [[aku-play-the-long-game-concept]] · [[aku-no-amontonarse-en-el-lider-claim]]

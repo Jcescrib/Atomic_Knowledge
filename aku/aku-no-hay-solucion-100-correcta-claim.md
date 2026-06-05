@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-el-enemigo-tiene-voto-concept
+    - aku-iterative-decision-making-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-decisiveness-amid-uncertainty-concept]]
 
-**related** ↔ [[aku-el-enemigo-tiene-voto-concept]]
+**related** ↔ [[aku-el-enemigo-tiene-voto-concept]] · [[aku-iterative-decision-making-method]]

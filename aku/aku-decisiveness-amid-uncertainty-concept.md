@@ -40,6 +40,8 @@ relations:
     - aku-relax-look-around-make-a-call-method
     - aku-prioritize-and-execute-concept
     - aku-contingency-planning-anticipar-method
+    - aku-pausa-tactica-ante-vacio-de-liderazgo-method
+    - aku-iterative-decision-making-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -54,4 +56,4 @@ status_note: ""
 
 **supported_by** ← [[aku-no-hay-solucion-100-correcta-claim]] · [[aku-esperar-certeza-causa-paralisis-claim]] · [[aku-conjetura-educada-method]] · [[aku-default-agresivo-proactivo-dictar-situacion-claim]] · [[aku-lider-percibido-como-decisivo-claim]]
 
-**related** ↔ [[aku-relax-look-around-make-a-call-method]] · [[aku-prioritize-and-execute-concept]] · [[aku-contingency-planning-anticipar-method]]
+**related** ↔ [[aku-relax-look-around-make-a-call-method]] · [[aku-prioritize-and-execute-concept]] · [[aku-contingency-planning-anticipar-method]] · [[aku-pausa-tactica-ante-vacio-de-liderazgo-method]] · [[aku-iterative-decision-making-method]]

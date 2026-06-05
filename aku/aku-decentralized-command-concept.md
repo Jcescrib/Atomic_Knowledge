@@ -53,6 +53,8 @@ relations:
     - aku-accountability-no-como-herramienta-principal-concept
     - aku-dar-confianza-incrementalmente-method
     - aku-decentralized-descansa-en-confianza-tiempo-critico-claim
+    - aku-delegar-todo-para-liderar-no-pareciendo-vago-claim
+    - aku-no-seas-el-easy-button-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -69,4 +71,4 @@ status_note: ""
 
 **supports** → [[aku-laws-of-combat-concept]]
 
-**related** ↔ [[aku-believe-in-the-mission-concept]] · [[aku-contingency-planning-anticipar-method]] · [[aku-simple-law-of-combat-concept]] · [[aku-battlefield-aloofness-concept]] · [[aku-micromanagement-disuelve-en-caos-claim]] · [[aku-decentralizar-proceso-planificacion-claim]] · [[aku-leading-down-the-chain-concept]] · [[aku-balance-ownership-decentralized-command-concept]] · [[aku-accountability-no-como-herramienta-principal-concept]] · [[aku-dar-confianza-incrementalmente-method]] · [[aku-decentralized-descansa-en-confianza-tiempo-critico-claim]]
+**related** ↔ [[aku-believe-in-the-mission-concept]] · [[aku-contingency-planning-anticipar-method]] · [[aku-simple-law-of-combat-concept]] · [[aku-battlefield-aloofness-concept]] · [[aku-micromanagement-disuelve-en-caos-claim]] · [[aku-decentralizar-proceso-planificacion-claim]] · [[aku-leading-down-the-chain-concept]] · [[aku-balance-ownership-decentralized-command-concept]] · [[aku-accountability-no-como-herramienta-principal-concept]] · [[aku-dar-confianza-incrementalmente-method]] · [[aku-decentralized-descansa-en-confianza-tiempo-critico-claim]] · [[aku-delegar-todo-para-liderar-no-pareciendo-vago-claim]] · [[aku-no-seas-el-easy-button-claim]]

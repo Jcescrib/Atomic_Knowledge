@@ -40,6 +40,7 @@ relations:
     - aku-liderar-desde-frente-y-desde-atras-concept
     - aku-no-care-detachment-via-ego-method
     - aku-saber-que-es-importante-y-que-no-method
+    - aku-pausa-tactica-ante-vacio-de-liderazgo-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -55,6 +56,6 @@ status_note: ""
 
 **supports** → [[aku-preguntar-por-que-method]]
 
-**related** ↔ [[aku-lider-mantiene-perspectiva-estrategica-claim]] · [[aku-pull-off-the-firing-line-claim]] · [[aku-stand-back-be-the-tactical-genius-claim]] · [[aku-gestionar-stress-detach-y-perspectiva-method]] · [[aku-liderar-desde-frente-y-desde-atras-concept]] · [[aku-no-care-detachment-via-ego-method]] · [[aku-saber-que-es-importante-y-que-no-method]]
+**related** ↔ [[aku-lider-mantiene-perspectiva-estrategica-claim]] · [[aku-pull-off-the-firing-line-claim]] · [[aku-stand-back-be-the-tactical-genius-claim]] · [[aku-gestionar-stress-detach-y-perspectiva-method]] · [[aku-liderar-desde-frente-y-desde-atras-concept]] · [[aku-no-care-detachment-via-ego-method]] · [[aku-saber-que-es-importante-y-que-no-method]] · [[aku-pausa-tactica-ante-vacio-de-liderazgo-method]]
 
 **supported_by** ← [[aku-detachment-default-high-port-claim]]
