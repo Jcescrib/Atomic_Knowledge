@@ -37,6 +37,7 @@ relations:
     - aku-implementation-intention-method
     - aku-habit-loop-cue-craving-response-reward-concept
     - aku-temptation-bundling-method
+    - aku-habit-tracker-no-rompas-la-cadena-method
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-implementation-intention-method]] · [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-temptation-bundling-method]]
+**related** ↔ [[aku-implementation-intention-method]] · [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-temptation-bundling-method]] · [[aku-habit-tracker-no-rompas-la-cadena-method]]

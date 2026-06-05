@@ -37,6 +37,7 @@ relations:
     - aku-eqh-no-es-estado-sino-camino-sin-fin-claim
     - aku-good-mindset-concept
     - aku-extreme-ownership-concept
+    - aku-never-miss-twice-claim
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-the-path-concept]] · [[aku-eqh-no-es-estado-sino-camino-sin-fin-claim]] · [[aku-good-mindset-concept]] · [[aku-extreme-ownership-concept]]
+**related** ↔ [[aku-the-path-concept]] · [[aku-eqh-no-es-estado-sino-camino-sin-fin-claim]] · [[aku-good-mindset-concept]] · [[aku-extreme-ownership-concept]] · [[aku-never-miss-twice-claim]]

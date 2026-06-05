@@ -34,6 +34,7 @@ relations:
   related:
     - aku-capitalizar-interes-compuesto-method
     - aku-habito-atomico-concept
+    - aku-never-miss-twice-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-capitalizar-interes-compuesto-method]] · [[aku-habito-atomico-concept]]
+**related** ↔ [[aku-capitalizar-interes-compuesto-method]] · [[aku-habito-atomico-concept]] · [[aku-never-miss-twice-claim]]
