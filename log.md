@@ -913,3 +913,25 @@ Creados los 6 TAKUs ejecutables flaggeados (86→92 TAKUs draft, todos `content_
 **2º pase de verificación**: 84/84 con source-tag `james-clear` + `aku_class`; verify_graph 1792 AKUs / 0 errores; INTEGRATE 5.5 pass → 0 nodos huérfanos en el cluster AH (21 aislados enrutados a conceptos-hub). Manifest `ingested: 2026-06-05`, last_commit 5f82f46.
 
 **Pendiente TAREA 2**: Robert Greene «48 Laws of Power» (convertido, 8790 líneas, 48 leyes; ingesta pendiente).
+
+---
+
+## 2026-06-05 — ★ TAREA 2, LIBRO 3: «THE 48 LAWS OF POWER» (Robert Greene, 1998) COMPLETO — **TAREA 2 COMPLETA (3/3)**
+
+**Tercer y último libro de la TAREA 2. PDF → MinerU (700 págs). +48 concept-AKUs (1792→1840) + 1 framework TAKU. Ingestado en 4 lotes (leyes 1-12, 13-24, 25-36, 37-48), commit+push por lote, verify_graph 0 errores.**
+
+**Decisión de granularidad (por escala del libro)**: 1 concept-AKU por ley (`aku-48laws-NN-<slug>-concept`, NN=01..48) que captura el principio de la ley + su mecanismo, con el REVERSAL foldeado como cláusula-frontera dentro del statement cuando es notable. Los Keys to Power y las stories (transgression/observance) quedan resumidos en el principio, no atomizados como AKUs separados — ampliable en el futuro si se desea más detalle por ley. Esto da identidad propia a cada una de las 48 leyes (la granularidad esencial) manteniendo la ingesta factible.
+
+**⚠ FRAMING EPISTÉMICO (contenido amoral)**: las 48 leyes son tácticas de poder a menudo manipuladoras. Se ingestaron como **claims DESCRIPTIVOS de lo que Greene afirma** («La Ley N de Greene sostiene que...»), NO como recomendaciones del vault. El framework TAKU `taku-las-48-leyes-del-poder` lo explicita en when_not_to_use: úsese sobre todo para **reconocer y defenderse** de estas dinámicas, no para practicarlas; choca deliberadamente con los principios de integridad (Jocko) y de juegos de suma positiva (Naval).
+
+**IMÁGENES**: solo 4 en el PDF, decorativas (sin diagramas informacionales) → 0 blockquotes.
+
+**Las 48 leyes (concept-AKUs)**: 1 never-outshine-the-master, 2 never-trust-friends-use-enemies, 3 conceal-intentions, 4 say-less, 5 guard-reputation, 6 court-attention, 7 get-others-to-work-take-credit, 8 make-others-come-to-you, 9 win-through-actions, 10 avoid-unhappy, 11 keep-people-dependent, 12 selective-honesty, 13 appeal-to-self-interest, 14 pose-as-friend-work-as-spy, 15 crush-enemy-totally, 16 use-absence, 17 cultivate-unpredictability, 18 isolation-is-dangerous, 19 know-who-you-deal-with, 20 do-not-commit, 21 play-a-sucker, 22 surrender-tactic, 23 concentrate-forces, 24 play-the-perfect-courtier, 25 re-create-yourself, 26 keep-hands-clean, 27 play-on-need-to-believe, 28 enter-action-boldness, 29 plan-to-the-end, 30 effortless, 31 control-the-options, 32 play-to-fantasies, 33 thumbscrew, 34 be-royal, 35 art-of-timing, 36 disdain-what-you-cannot-have, 37 spectacles, 38 behave-like-others, 39 stir-up-waters, 40 despise-free-lunch, 41 avoid-great-mans-shoes, 42 strike-the-shepherd, 43 hearts-and-minds, 44 mirror-effect, 45 reform-slowly, 46 never-appear-too-perfect, 47 learn-when-to-stop, 48 assume-formlessness.
+
+**2º pase de verificación**: 48/48 con source-tag `robert-greene` + `aku_class`; verify_graph 1840 AKUs / 0 errores; INTEGRATE 5.5 pass → 0 huérfanos. Las 48 leyes encadenadas (related N↔N+1) en un cluster conectado + 16 puentes cross-corpus, la mayoría **TENSIONES** conceptuales valiosas: L1↔humildad-cualidad-mas-importante (Jocko), L5↔juicio-demostrado-atrae-leverage (Naval), L9↔intenciones-no-importan-acciones-si (Naval), L10↔cinco-chimpances, L23↔maestría-1-o-2-cosas/foco (Naval), L25↔editar-identidad, L28↔empezar-aquí-y-ahora (Jocko), L29↔decide-despacio-actúa-rápido (Naval), L34↔actualiza-autoimagen (Naval), L35↔paciencia-grandes-personas (Naval), L39↔no-sobrerreaccionar (Jocko), L43↔power-of-relationships (Jocko, coerción-vs-seducción), L46↔celos-inútiles (Naval), L47↔ego-más-difícil-es-el-propio (Jocko), L48↔no-soluciones-permanentes/formlessness. Manifest `ingested: 2026-06-05`, last_commit c5d3fed.
+
+### ✅✅ TAREA 2 COMPLETA (3/3 libros)
+- **Naval — The Almanack of Naval Ravikant**: 235 AKUs + 4 TAKUs.
+- **James Clear — Atomic Habits**: 84 AKUs + 1 framework TAKU.
+- **Robert Greene — The 48 Laws of Power**: 48 AKUs + 1 framework TAKU.
+- Total TAREA 2: **+367 AKUs + 6 TAKUs**. Más TAREA 1 (corpus Jocko completo, libros 1-6). Grafo global: 1840 AKUs, 0 errores, todo en `origin/main`.

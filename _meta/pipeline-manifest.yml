@@ -1706,21 +1706,28 @@ sources:
     raw_path: "raw/libros/robert-greene/48-laws-of-power/"
     converter: mineru
     converted: 2026-06-05
-    image_processing: null
-    ingested: null
-    chapters_ingested: []
-    aku_count: 0
-    taku_count: 0
-    last_commit: ""
+    image_processing: 2026-06-05   # n/a: solo 4 imgs decorativas (sin diagramas informacionales)
+    ingested: 2026-06-05
+    chapters_ingested: [leyes-01-12, leyes-13-24, leyes-25-36, leyes-37-48]
+    aku_count: 48
+    taku_count: 1
+    last_commit: "c5d3fed"
     notes: >
-      TAREA 2, libro 3. The 48 Laws of Power (Robert Greene, 2000). source-tag: robert-greene.
-      PDF → MinerU (700 págs, 8790 líneas md, solo 4 imgs — probablemente decorativas/retratos).
-      Slug saneado a `48-laws-of-power`. CONVERSIÓN COMPLETA, IMAGE PROCESSING + INGESTA
-      PENDIENTES (próxima sesión). Estructura ideal para book-mode: PREFACE + 48 leyes, cada
-      Ley = capítulo con secciones JUDGMENT / TRANSGRESSION OF THE LAW / Interpretation /
-      OBSERVANCE OF THE LAW / Interpretation / KEYS TO POWER / REVERSAL. Plan de ingesta:
-      1 commit por Ley → concept-AKU de la ley (el principio) + claims de KEYS TO POWER +
-      1 claim de REVERSAL (condiciones donde NO aplica / se invierte → candidato a
-      context_breaks_at). 48 leyes = 48 capítulos. Granularidad máxima: cada táctica/keys
-      con identidad propia = su AKU. ⚠ Contenido amoral/manipulación: ingestar como claims
-      descriptivos del autor (qué afirma Greene), no como recomendaciones del vault.
+      TAREA 2, libro 3 COMPLETO. The 48 Laws of Power (Robert Greene, 1998/2000). source-tag:
+      robert-greene. PDF → MinerU (700 págs). **48 concept-AKUs (1 por ley) + 1 framework TAKU
+      (las-48-leyes-del-poder)**, ingestados en 4 lotes (1-12, 13-24, 25-36, 37-48), commit+push
+      por lote. Cada ley = 1 concept-AKU `aku-48laws-NN-<slug>-concept` que describe la táctica
+      de poder que Greene AFIRMA (framing descriptivo «La Ley N de Greene sostiene...», NO
+      recomendación del vault), con el principio + mecanismo y, cuando es notable, el REVERSAL
+      foldeado como cláusula-frontera dentro del statement (decisión de granularidad por escala:
+      48 leyes; los Keys to Power y stories quedan resumidos en el principio, no como AKUs
+      separados — ampliable en el futuro). ⚠ CONTENIDO AMORAL/MANIPULACIÓN: ingestado como
+      descripción de lo que Greene asserta. IMÁGENES: solo 4, decorativas (sin diagramas) → 0
+      blockquotes. 2º pase: 48/48 con source-tag + aku_class; verify_graph 0 errores; INTEGRATE
+      5.5 pass → 0 huérfanos (48 leyes encadenadas related N<->N+1 en cluster + 16 puentes
+      cross-corpus, muchos TENSIONES valiosas: L1↔humildad-cualidad-mas-importante (Jocko), L5↔
+      reputacion/juicio-demostrado (Naval), L9↔intenciones-no-importan (Naval), L23↔maestria-1-o-2-
+      cosas (Naval), L25↔editar-identidad, L34↔autoimagen, L35↔paciencia, L39↔no-sobrerreaccionar
+      (Jocko), L43↔power-of-relationships (Jocko, tension coercion-vs-seduccion), L46↔celos-inutiles
+      (Naval), L47↔ego-mas-dificil-es-el-propio (Jocko), L48↔no-soluciones-permanentes). El cluster
+      48-laws contrasta deliberadamente con los corpus de integridad (Jocko) y suma-positiva (Naval).
