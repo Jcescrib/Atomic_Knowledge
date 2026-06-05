@@ -126,7 +126,8 @@ def _taku_body(r):
     for f in ["complementary", "alternative_to", "precedes", "follows"]:
         items = trel.get(f) or []
         if items:
-            ln = " · ".join(f"[[{i}]]" for i in items)
+            ids = [(i["id"] if isinstance(i, dict) else i) for i in items]
+            ln = " · ".join(f"[[{i}]]" for i in ids)
             out.append(f"**{f}** {TAKU_REL_ARROW[f]} {ln}")
             out.append("")
     return "\n".join(out).rstrip() + "\n"
