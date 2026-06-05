@@ -33,6 +33,7 @@ relations:
   related:
     - aku-vivir-muy-por-debajo-de-tus-medios-da-una-libertad-inimaginable-claim
     - aku-la-libertad-es-el-valor-supremo-claim
+    - aku-efecto-diderot-y-encadenamiento-de-conductas-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-vivir-muy-por-debajo-de-tus-medios-da-una-libertad-inimaginable-claim]] · [[aku-la-libertad-es-el-valor-supremo-claim]]
+**related** ↔ [[aku-vivir-muy-por-debajo-de-tus-medios-da-una-libertad-inimaginable-claim]] · [[aku-la-libertad-es-el-valor-supremo-claim]] · [[aku-efecto-diderot-y-encadenamiento-de-conductas-concept]]

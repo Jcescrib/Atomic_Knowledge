@@ -995,6 +995,7 @@ The key is to tie your desired behavior into something you already do each day. 
 ## HABIT STACKING
 
 ![](images/d45d372152a72b90b9bfed1c050bce952f7f73c8cd45b858d61c769aa230e58f.jpg)  
+> **Figura**: Diagrama del habit stacking (apilamiento de hábitos). Cuatro hábitos apilados verticalmente (HABIT 1, 2, 3, 4), cada uno representado como una línea con sus cuatro etapas CUE → CRAVING → RESPONSE → REWARD. Una flecha punteada conecta el REWARD de cada hábito con el CUE del siguiente: la recompensa/final de un hábito se convierte en la señal que dispara el siguiente, encadenándolos en una rutina fluida (versión positiva del efecto Diderot).
 FIGURE 7: Habit stacking increases the likelihood that you’ll stick with a habit by stacking your new behavior on top of an old one. This process can be repeated to chain numerous habits together, each one acting as the cue for the next.
 
 Your morning routine habit stack might look like this:
