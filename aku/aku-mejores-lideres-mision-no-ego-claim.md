@@ -29,7 +29,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-owner-no-toma-credito-da-honor-claim
+    - aku-ver-problemas-lente-objetiva-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -43,3 +45,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-extreme-ownership-concept]]
+
+**related** ↔ [[aku-owner-no-toma-credito-da-honor-claim]] · [[aku-ver-problemas-lente-objetiva-claim]]

@@ -1,13 +1,13 @@
 ---
 type: aku
 aku_class: claim
-id: aku-humildad-asumir-errores-claim
+id: aku-owner-no-toma-credito-da-honor-claim
 statement: >
-  Para un líder, la humildad de admitir y asumir los propios errores y de
-  diseñar un plan para superarlos es esencial para el éxito; los mejores líderes
-  no son infalibles, sino que convierten sus errores en sus mayores lecciones.
+  El líder que ejerce Extreme Ownership no se atribuye el mérito de los éxitos
+  del equipo, sino que otorga ese honor a sus líderes subordinados y a los
+  miembros del equipo: asume los fallos y comparte el crédito.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, humildad, errores]
+domain: [liderazgo, jocko, ego, equipos]
 
 llm_confidence: 0.50
 
@@ -31,7 +31,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-atribucion-sesgada-exito-fracaso-claim
+    - aku-mejores-lideres-mision-no-ego-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-atribucion-sesgada-exito-fracaso-claim]]
+**related** ↔ [[aku-mejores-lideres-mision-no-ego-claim]]

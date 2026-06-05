@@ -28,6 +28,17 @@ relations:
   supported_by:
     - aku-humildad-asumir-errores-claim
     - aku-mejores-lideres-mision-no-ego-claim
+    - aku-lider-mirar-al-espejo-claim
+    - aku-lider-responsable-mision-tactica-recursos-claim
+    - aku-entrenar-mentorizar-underperformer-claim
+    - aku-lealtad-mision-sobre-individuo-claim
+    - aku-atribucion-sesgada-exito-fracaso-claim
+    - aku-owner-no-toma-credito-da-honor-claim
+    - aku-extreme-ownership-cultura-equipo-claim
+    - aku-ver-problemas-lente-objetiva-claim
+    - aku-actitud-lider-determina-exito-claim
+    - aku-no-obligar-sino-liderar-claim
+    - aku-culpar-se-contagia-claim
   supports:
     - aku-laws-of-combat-concept
   constrained_by: []
@@ -48,6 +59,6 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-humildad-asumir-errores-claim]] · [[aku-mejores-lideres-mision-no-ego-claim]]
+**supported_by** ← [[aku-humildad-asumir-errores-claim]] · [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-lider-mirar-al-espejo-claim]] · [[aku-lider-responsable-mision-tactica-recursos-claim]] · [[aku-entrenar-mentorizar-underperformer-claim]] · [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-atribucion-sesgada-exito-fracaso-claim]] · [[aku-owner-no-toma-credito-da-honor-claim]] · [[aku-extreme-ownership-cultura-equipo-claim]] · [[aku-ver-problemas-lente-objetiva-claim]] · [[aku-actitud-lider-determina-exito-claim]] · [[aku-no-obligar-sino-liderar-claim]] · [[aku-culpar-se-contagia-claim]]
 
 **supports** → [[aku-laws-of-combat-concept]]

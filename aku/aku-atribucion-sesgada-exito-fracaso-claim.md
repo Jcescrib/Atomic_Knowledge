@@ -1,13 +1,16 @@
 ---
 type: aku
 aku_class: claim
-id: aku-humildad-asumir-errores-claim
+id: aku-atribucion-sesgada-exito-fracaso-claim
 statement: >
-  Para un líder, la humildad de admitir y asumir los propios errores y de
-  diseñar un plan para superarlos es esencial para el éxito; los mejores líderes
-  no son infalibles, sino que convierten sus errores en sus mayores lecciones.
+  Por defecto las personas atribuyen el éxito ajeno a la suerte o las
+  circunstancias y excusan sus propios fallos y los del equipo culpando a la
+  mala suerte, a circunstancias fuera de su control o a los subordinados —a
+  cualquiera menos a sí mismas; superar este sesgo para aceptar la
+  responsabilidad total del fracaso exige una humildad y un coraje
+  extraordinarios.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, humildad, errores]
+domain: [liderazgo, jocko, sesgos, humildad]
 
 llm_confidence: 0.50
 
@@ -31,7 +34,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-atribucion-sesgada-exito-fracaso-claim
+    - aku-humildad-asumir-errores-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-atribucion-sesgada-exito-fracaso-claim]]
+**related** ↔ [[aku-humildad-asumir-errores-claim]]

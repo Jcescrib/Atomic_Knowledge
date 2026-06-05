@@ -1,13 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-humildad-asumir-errores-claim
+id: aku-culpar-se-contagia-claim
 statement: >
-  Para un líder, la humildad de admitir y asumir los propios errores y de
-  diseñar un plan para superarlos es esencial para el éxito; los mejores líderes
-  no son infalibles, sino que convierten sus errores en sus mayores lecciones.
+  La actitud de culpar a los demás se contagia hacia abajo: cuando un líder
+  culpa a otros, los subordinados la imitan y el equipo se vuelve incapaz de
+  ejecutar el plan; es el espejo negativo de la propagación de la cultura de
+  ownership.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, humildad, errores]
+domain: [liderazgo, jocko, cultura, equipos]
 
 llm_confidence: 0.50
 
@@ -31,7 +32,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-atribucion-sesgada-exito-fracaso-claim
+    - aku-extreme-ownership-cultura-equipo-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-atribucion-sesgada-exito-fracaso-claim]]
+**related** ↔ [[aku-extreme-ownership-cultura-equipo-claim]]

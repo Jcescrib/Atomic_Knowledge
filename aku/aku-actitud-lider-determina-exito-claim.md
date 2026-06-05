@@ -1,13 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-humildad-asumir-errores-claim
+id: aku-actitud-lider-determina-exito-claim
 statement: >
-  Para un líder, la humildad de admitir y asumir los propios errores y de
-  diseñar un plan para superarlos es esencial para el éxito; los mejores líderes
-  no son infalibles, sino que convierten sus errores en sus mayores lecciones.
+  Sometidas a escenarios de entrenamiento idénticos, es casi siempre la actitud
+  del líder —asumir la responsabilidad frente a culpar a los demás— lo que
+  determina si la unidad triunfa o fracasa, por encima de las circunstancias, el
+  equipamiento o la experiencia de la tropa.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, humildad, errores]
+domain: [liderazgo, jocko, equipos, desempeno]
 
 llm_confidence: 0.50
 
@@ -30,8 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-atribucion-sesgada-exito-fracaso-claim
+  related: []
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,5 +45,3 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-extreme-ownership-concept]]
-
-**related** ↔ [[aku-atribucion-sesgada-exito-fracaso-claim]]
