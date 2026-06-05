@@ -756,3 +756,9 @@ Próximo libro: **dichotomy-of-leadership** (PDF, 345 págs) — enriquecerá lo
 **★ LIBRO 2 «THE DICHOTOMY OF LEADERSHIP» COMPLETO**: intro + 12 caps = **41 AKUs nuevos** (1177→1218) + **8 enriquecimientos cross-libro** de AKUs de EO (dichotomy-of-leadership, balance-ownership-decentralized-command, discipline-equals-freedom, default-agresivo-proactivo, lider-y-seguidor, humilde-no-pasivo, atento-detalle-no-obsesionado, detach-tactico-estrategico → 0.60 c/u). Manifest `ingested: 2026-06-05`.
 
 **2º pase verificación Libro 2**: verify_graph 1218 AKUs / 0 errores (simetría, body-sync, targets). El catálogo de dicotomías de EO cap12 se ha desarrollado aquí (varias dicotomías ahora con 2 fuentes y sub-contenido propio: micromanagement/hands-off con diagnósticos+correcciones, leadership-capital, disease-of-victory, accountability-no-principal, etc.). Cluster Jocko sigue siendo 2º componente global (sin puentes (b) al grafo de negocio). Pendiente Joan: validar; aprobar puentes (b). Candidatos TAKU adicionales: taku-dichotomy-of-leadership (framework con las dicotomías), taku-diagnostico-micromanagement-hands-off (protocol).
+
+## 2026-06-05 — FASE 2 Jocko · Libro 3 Discipline Equals Freedom (Willink 2017, field manual)
+
+### Batch 1 «The Way of Discipline → Mind Control» (+6 AKUs, +1 enrich)
+
+**COBERTURA**: 6 nuevos (3 concept, 1 method, 2 claim) + enrich `discipline-equals-freedom` (3ª fuente, libro título → 0.60→0.70). 1218→1224. `disciplina-raiz-de-toda-buena-cualidad`, `self-discipline-viene-de-dentro` (la disciplina viene de dentro), `mind-control-controla-tu-propia-mente` («no tienen voto» la debilidad/pereza/etc.), method `empezar-aqui-y-ahora` (↔ default-agresivo), claims no-hay-atajo-ni-hack, solo-te-puedes-controlar-a-ti-mismo (↔ extreme-ownership). verify_graph: 1224 AKUs, 0 errores.

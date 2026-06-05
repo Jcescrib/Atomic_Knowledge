@@ -1511,10 +1511,10 @@ sources:
     raw_path: "raw/libros/jocko/discipline-equals-freedom/"
     converter: ebooklib   # EPUB → scripts/epub_to_md.py
     converted: 2026-06-05
-    image_processing: null
-    ingested: null
-    chapters_ingested: []
-    aku_count: 0
+    image_processing: n/a
+    ingested: null   # FASE 2 en curso — field manual (batches temáticos)
+    chapters_ingested: [batch01-way-of-discipline-mind-control]
+    aku_count: 6
     taku_count: 0
     last_commit: ""
     notes: >

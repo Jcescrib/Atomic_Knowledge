@@ -34,6 +34,7 @@ relations:
   related:
     - aku-lideres-junior-proactivos-no-reactivos-claim
     - aku-aggressive-not-reckless-concept
+    - aku-empezar-aqui-y-ahora-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-decisiveness-amid-uncertainty-concept]]
 
-**related** ↔ [[aku-lideres-junior-proactivos-no-reactivos-claim]] · [[aku-aggressive-not-reckless-concept]]
+**related** ↔ [[aku-lideres-junior-proactivos-no-reactivos-claim]] · [[aku-aggressive-not-reckless-concept]] · [[aku-empezar-aqui-y-ahora-method]]

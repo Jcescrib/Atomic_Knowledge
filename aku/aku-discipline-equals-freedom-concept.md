@@ -10,7 +10,7 @@ statement: >
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
 domain: [liderazgo, jocko, dicotomia, disciplina]
 
-llm_confidence: 0.60
+llm_confidence: 0.70
 
 human_certainty:
   status: unvalidated
@@ -23,7 +23,9 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-disciplina-raiz-de-toda-buena-cualidad-concept
+    - aku-self-discipline-viene-de-dentro-concept
   supports:
     - aku-dichotomy-of-leadership-concept
   constrained_by: []
@@ -38,6 +40,7 @@ relations:
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
+  - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
 
 created: 2026-06-05
 updated: 2026-06-05
@@ -50,3 +53,5 @@ status_note: ""
 **supports** → [[aku-dichotomy-of-leadership-concept]]
 
 **related** ↔ [[aku-disciplined-not-rigid-concept]] · [[aku-disciplina-da-libertad-de-maniobra-claim]]
+
+**supported_by** ← [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-self-discipline-viene-de-dentro-concept]]
