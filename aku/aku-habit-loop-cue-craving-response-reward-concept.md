@@ -38,6 +38,7 @@ relations:
     - aku-cuatro-leyes-del-cambio-de-conducta-concept
     - aku-no-necesitas-ser-consciente-del-cue-para-que-un-habito-empiece-claim
     - aku-habit-stacking-method
+    - aku-los-habitos-son-un-bucle-de-retroalimentacion-de-dopamina-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -50,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habito-concept]] · [[aku-cuatro-leyes-del-cambio-de-conducta-concept]] · [[aku-no-necesitas-ser-consciente-del-cue-para-que-un-habito-empiece-claim]] · [[aku-habit-stacking-method]]
+**related** ↔ [[aku-habito-concept]] · [[aku-cuatro-leyes-del-cambio-de-conducta-concept]] · [[aku-no-necesitas-ser-consciente-del-cue-para-que-un-habito-empiece-claim]] · [[aku-habit-stacking-method]] · [[aku-los-habitos-son-un-bucle-de-retroalimentacion-de-dopamina-claim]]
