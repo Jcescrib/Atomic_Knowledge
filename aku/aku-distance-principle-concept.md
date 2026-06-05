@@ -36,6 +36,7 @@ relations:
   related:
     - aku-detachment-principle-concept
     - aku-pyramid-principle-concept
+    - aku-velocity-principle-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-zonas-distancia-green-red-concept]]
 
-**related** ↔ [[aku-detachment-principle-concept]] · [[aku-pyramid-principle-concept]]
+**related** ↔ [[aku-detachment-principle-concept]] · [[aku-pyramid-principle-concept]] · [[aku-velocity-principle-concept]]
