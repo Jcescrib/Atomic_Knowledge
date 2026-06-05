@@ -1939,6 +1939,7 @@ Every day, there are a handful of moments that deliver an outsized impact. I ref
 ## DECISIVE MOMENTS
 
 ![](images/08573961e4c8dba1302653d273d715a988f9ae030283d0510e59e551f78ac28b.jpg)  
+> **Figura**: Diagrama de «momentos decisivos» como bifurcaciones (forks) en un camino. A lo largo del día, unas pocas elecciones habituales —cada una una bifurcación— encarrilan el siguiente tramo de tiempo: una serie de elecciones productivas y sanas lleva a un buen día, y las contrarias a uno malo. Las pequeñas elecciones se acumulan y, sumadas, conducen a desenlaces muy distintos.
 FIGURE 14: The difference between a good day and a bad day is often a few productive and healthy choices made at decisive moments. Each one is like a fork in the road, and these choices stack up throughout the day and can ultimately lead to very different outcomes.
 
 Decisive moments set the options available to your future self. For instance, walking into a restaurant is a decisive moment because it determines what you’ll be eating for lunch. Technically, you are in control of what you order, but in a larger sense, you can only order an item if it is on the menu. If you walk into a steakhouse, you can get a sirloin or a rib eye, but not sushi. Your options are constrained by what’s available. They are shaped by the first choice.
