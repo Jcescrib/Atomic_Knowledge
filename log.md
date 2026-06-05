@@ -736,3 +736,7 @@ Próximo libro: **dichotomy-of-leadership** (PDF, 345 págs) — enriquecerá lo
 ### Cap 8 «Hold People Accountable, but Don't Hold Their Hands» (+3 AKUs) — cierra PARTE II
 
 **COBERTURA**: 3 items (1 concept, 2 claim). 1210→1213. `accountability-no-como-herramienta-principal` (related believe/decentralized-command), accountability-no-escala-y-ciega-al-lider (atrapa al líder mirando abajo/dentro; ↔ leading-up/micromanagement), accountability-temporal-luego-soltar (↔ no-es-lo-que-toleras/corregir-micromanagement). **PARTE II completa** (caps 5-8, Balancing the Mission). verify_graph: 1213 AKUs, 0 errores.
+
+### Cap 9 «A Leader and a Follower» (+1 AKU, +1 enrich) — abre PARTE III (Balancing Yourself)
+
+**COBERTURA**: gran parte dedup (seguir al jefe = ejecutar-decision-como-propia/presentar-frente-unido EO cap10; la dicotomía = lider-y-seguidor EO cap12 → enrich 2ª fuente 0.50→0.60). 1 NUEVO: `excepcion-resistir-ordenes-ilegales-inmorales` (único caso para plantarse: órdenes ilegales/inmorales/no éticas/de riesgo grave; related lider-y-seguidor/ejecutar-decision/frente-unido). 1213→1214. verify_graph: 1214 AKUs, 0 errores.

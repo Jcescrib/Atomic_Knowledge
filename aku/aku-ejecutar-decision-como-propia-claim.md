@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-believe-in-the-mission-concept
+    - aku-excepcion-resistir-ordenes-ilegales-inmorales-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-leading-up-the-chain-concept]]
 
-**related** ↔ [[aku-believe-in-the-mission-concept]]
+**related** ↔ [[aku-believe-in-the-mission-concept]] · [[aku-excepcion-resistir-ordenes-ilegales-inmorales-claim]]
