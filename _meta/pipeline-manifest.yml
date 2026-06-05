@@ -1617,3 +1617,26 @@ sources:
       execute, the-warpath, extreme-ownership, good-mindset, incluso-en-la-muerte-hay-good,
       humildad-asumir-errores). INTEGRATE 5.5 aplicado por sección. Segundo pase:
       verify_graph.py 0 errores; todos los justified_by de TAKU resuelven a AKUs reales.
+
+  # ─── Corpus TAREA 2 (Naval / James Clear / Robert Greene) ────────────────────
+  - original: "G:\Mi unidad\NAVAL\The Almanack of Naval Ravikant_ A Guide to Wealth and -- Eric Jorgenson -- 2020 -- Magrathea Publishing -- 0c99c674a25eaff28c990116fc5adda9 -- Anna’s Archive.epub"
+    name_slug: "almanack-of-naval-ravikant"
+    raw_path: "raw/libros/naval/almanack-of-naval-ravikant/"
+    converter: ebooklib
+    converted: 2026-06-05
+    image_processing: 2026-06-05
+    ingested: null
+    chapters_ingested: []
+    aku_count: 0
+    taku_count: 0
+    last_commit: ""
+    notes: >
+      TAREA 2, libro 1. The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020).
+      source-tag: naval. EPUB → epub_to_md.py (23 secciones, 31 imgs). Estructura:
+      Part I Wealth (Building Wealth, Building Judgment), Part II Happiness (Learning
+      Happiness, Saving Yourself, Philosophy) + front/back matter. IMÁGENES (31):
+      ~13 QR codes (libros recomendados = referencia), ~16 doodles conceptuales estilo
+      Visualize Value (ilustran aforismos que el texto explica completo → decorativo-
+      ilustrativo, idea capturada como AKU desde texto), cover/divisor. Clasificación:
+      0 blockquotes informativos (consistente con precedente del vault: conocimiento
+      cubierto en texto/AKUs). Pendiente FASE 2 ingesta hiper-exhaustiva.
