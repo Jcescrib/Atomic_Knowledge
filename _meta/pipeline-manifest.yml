@@ -1656,17 +1656,18 @@ sources:
     raw_path: "raw/libros/james-clear/atomic-habits/"
     converter: mineru
     converted: 2026-06-05
-    image_processing: in-progress   # blockquotes ch1-14 (16 figuras); resto sin diagramas hasta Goldilocks
-    ingested: in-progress   # FUNDAMENTALS + LAS 4 LEYES COMPLETAS (ch1-17)
+    image_processing: 2026-06-05   # 15 blockquotes (todas las figuras informacionales)
+    ingested: 2026-06-05
     chapters_ingested: [ch1-fundamentals-power, ch2-identity, ch3-habit-loop-four-laws,
       ch4-make-it-obvious-awareness, ch5-implementation-intentions-habit-stacking,
       ch6-environment, ch7-self-control, ch8-attractive-dopamine, ch9-social-norms,
       ch10-reframe-cravings, ch11-motion-vs-action, ch12-least-effort, ch13-two-minute-rule,
       ch14-commitment-automation, ch15-cardinal-rule, ch16-habit-tracking-never-miss-twice,
-      ch17-accountability-habit-contract]
-    aku_count: 66
+      ch17-accountability-habit-contract, ch18-talent, ch19-goldilocks, ch20-mastery-review,
+      conclusion-little-lessons]
+    aku_count: 84
     taku_count: 1
-    last_commit: "b0c69ef"
+    last_commit: "5f82f46"
     notes: >
       TAREA 2, libro 2. Atomic Habits (James Clear, 2018). source-tag: james-clear.
       PDF → MinerU (285 págs, 43 imgs). EN CURSO. **THE FUNDAMENTALS (ch1-3) COMPLETO**:
@@ -1681,17 +1682,24 @@ sources:
       intention, efecto-Diderot, habit-stacking), ch6 (entorno=mano-invisible B=f(P,E), vision=
       mayor-catalizador, disena-tu-entorno, contexto-es-el-cue), ch7 (adicciones-se-disuelven-
       al-cambiar-entorno [Vietnam], disciplinados-estructuran-entorno, autocontrol-corto-plazo).
-      **LAS 4 LEYES DEL CAMBIO DE CONDUCTA COMPLETAS** (1ª Make It Obvious, 2ª Make It Attractive,
-      3ª Make It Easy, 4ª Make It Satisfying + sus inversiones). 4ª Ley: ch15 (entorno-recompensa-
-      inmediata-vs-diferida, anade-placer-inmediato), ch16 (incentivos-inician/identidad-sostiene,
-      habit-tracker/no-rompas-la-cadena, never-miss-twice, ley-de-goodhart), ch17 (castigo-inmediato,
-      habit-contract/accountability-partner). **PRÓXIMO (resume): línea ~2465 — ADVANCED TACTICS**:
-      ch18 The Truth About Talent (genes/personalidad, elige el juego correcto), ch19 The Goldilocks
-      Rule (dificultad optima/flow, aburrimiento es el enemigo), ch20 Downside of Creating Good
-      Habits (revisar, reflexion/review) + Conclusion + apendice 'Little Lessons from the Four Laws'
-      (~l.2896-3804, aforismos). ~6 figuras restantes (ch18-19 talento/Goldilocks). Dedup cross-corpus
-      aplicado: deseo/cinco-chimpances/comprometete-externamente/run-uphill↔Naval, empezar-aqui-ahora/
-      disciplina/good-mindset/caer-del-path-inevitable↔Jocko.
+      **LIBRO COMPLETO**: 84 AKUs + 1 framework TAKU (cuatro-leyes-del-cambio-de-conducta).
+      THE FUNDAMENTALS (habito-atomico, agregacion-marginal, interes-compuesto, plateau-of-latent-
+      potential, sistemas-vs-metas, 3-capas-identidad, habit-loop, 4-leyes) + LAS 4 LEYES (1ª
+      Make It Obvious: scorecard, implementation-intentions, habit-stacking, entorno; 2ª Make It
+      Attractive: dopamina/supernormales, temptation-bundling, normas-sociales, reencuadre; 3ª Make
+      It Easy: motion-vs-action, minimo-esfuerzo, two-minute-rule, commitment-device, automatizacion;
+      4ª Make It Satisfying: recompensa-inmediata, habit-tracker, never-miss-twice, accountability) +
+      ADVANCED TACTICS (talento/genes/big-five, explore-exploit, goldilocks-rule, aburrimiento,
+      maestria=habitos+practica-deliberada, reflexion-y-revision) + Conclusion + Little Lessons
+      (system-1/2, satisfaccion=liking-wanting, identidad-pequena-y-flexible). 15 figuras
+      informacionales con blockquotes `> **Figura**:` (curva 1%, meseta, 3-capas, habit-loop,
+      habit-stacking, cafeteria, dopamine-spike, Asch, habit-line, continent-axes, decisive-moments,
+      goldilocks, mastery). 2º pase: 84/84 con source-tag james-clear + aku_class; verify_graph 0
+      errores; INTEGRATE 5.5 pass (0 huerfanos, 21 aislados enrutados). Dedup cross-corpus MUY rico
+      (related, NO recreacion): identidad/habitos/entorno/deseo/cinco-chimpances/specific-knowledge/
+      sistemas-disena-entorno/run-uphill/comprometete-externamente/felicidad-ausencia-de-deseo↔Naval;
+      empezar-aqui-ahora/disciplina/good-mindset/caer-del-path-inevitable/accountability↔Jocko;
+      categoria-de-uno↔Hormozi; camino-de-menor-resistencia↔32-principles.
 
   - original: "G:\Mi unidad\Robert Greene\The 48 Laws of Power -- Greene, Robert -- 2000 -- Penguin Publishing Group -- df1924a1c79bd326dc2886b61daa6f9f -- Anna’s Archive.pdf"
     name_slug: "48-laws-of-power"
