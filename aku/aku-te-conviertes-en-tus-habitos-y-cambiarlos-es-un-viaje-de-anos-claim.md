@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim
+    - aku-tu-identidad-emerge-de-tus-habitos-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]]
+**related** ↔ [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-tu-identidad-emerge-de-tus-habitos-claim]]

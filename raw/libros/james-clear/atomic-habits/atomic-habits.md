@@ -441,6 +441,7 @@ Our first mistake is that we try to change the wrong thing. To understand what I
 ## THREE LAYERS OF BEHAVIOR CHANGE
 
 ![](images/3badea53808fd089aba36208ab2db08220161bfbdf09109820eefee51fdc18b0.jpg)  
+> **Figura**: Diagrama de diana/cebolla con tres anillos concéntricos que representan las tres capas del cambio de conducta: el anillo exterior es OUTCOMES (resultados — lo que obtienes), el intermedio PROCESSES (procesos/hábitos — lo que haces) y el núcleo central IDENTITY (identidad/creencias — lo que crees). La identidad es la capa más profunda.
 FIGURE 3: There are three layers of behavior change: a change in your outcomes, a change in your processes, or a change in your identity.
 
 The first layer is changing your outcomes. This level is concerned with changing your results: losing weight, publishing a book, winning a championship. Most of the goals you set are associated with this level of change.
@@ -460,6 +461,7 @@ OUTCOME-BASED HABITS
 IDENTITY-BASED HABITS
 
 ![](images/5b7dcdbf06ad638dca8cd3b631e1960065dd07aa3dd0484fa38519d3e24d5767.jpg)  
+> **Figura**: Dos dianas concéntricas (outcomes/processes/identity) que contrastan la dirección del cambio. **Outcome-based habits**: la flecha va de fuera hacia dentro —1 = outcomes (exterior) → 2 = processes → 3 = identity (centro)—, empezando por lo que quieres lograr. **Identity-based habits**: la flecha va de dentro hacia fuera —1 = identity (centro) → 2 = processes → 3 = outcomes—, empezando por quién deseas llegar a ser. Clear recomienda la dirección identity-based.
 FIGURE 4: With outcome-based habits, the focus is on what you want to achieve. With identity-based habits, the focus is on who you wish to become.
 
 Imagine two people resisting a cigarette. When offered a smoke, the first person says, “No thanks. I’m trying to quit.” It sounds like a reasonable response, but this person still believes they are a smoker who is trying to be something else. They are hoping their behavior will change while carrying around the same beliefs.
