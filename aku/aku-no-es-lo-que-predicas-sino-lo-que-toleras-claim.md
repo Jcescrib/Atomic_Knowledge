@@ -33,7 +33,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-resolute-but-not-overbearing-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -49,3 +50,5 @@ status_note: ""
 **supported_by** ← [[aku-repetir-tarea-hasta-estandar-method]]
 
 **supports** → [[aku-no-bad-teams-only-bad-leaders-concept]]
+
+**related** ↔ [[aku-resolute-but-not-overbearing-concept]]

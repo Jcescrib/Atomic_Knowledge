@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-decentralized-requiere-confianza-bidireccional-claim
+    - aku-leadership-capital-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-decentralized-command-concept]]
 
-**related** ↔ [[aku-decentralized-requiere-confianza-bidireccional-claim]]
+**related** ↔ [[aku-decentralized-requiere-confianza-bidireccional-claim]] · [[aku-leadership-capital-concept]]

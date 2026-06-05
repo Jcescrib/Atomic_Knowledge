@@ -712,3 +712,7 @@ Próximo libro: **dichotomy-of-leadership** (PDF, 345 págs) — enriquecerá lo
 ### Cap 2 «Own It All, but Empower Others» (+7 AKUs, +1 enrich)
 
 **COBERTURA**: 7 items (4 method, 3 claim) + enrich `balance-ownership-decentralized-command` (2ª fuente, 0.50→0.60, ahora 5 supports). 1184→1191. Claims: micromanagement-mata-iniciativa (↔ micromanagement-disuelve-en-caos), hands-off-laissez-faire-descoordina (↔ decentralized-limites-de-autoridad), asignar-lead-claro-evita-planes-divergentes (↔ main-effort/decentralizar-planificacion). Methods diagnósticos/correctivos: sintomas-de-micromanagement (7 señales), sintomas-de-hands-off (6 señales), corregir-micromanagement, corregir-hands-off. verify_graph: 1191 AKUs, 0 errores.
+
+### Cap 3 «Resolute, but Not Overbearing» (+3 AKUs)
+
+**COBERTURA**: 3 items (2 concept, 1 claim). 1191→1194. `resolute-but-not-overbearing` (`supports` dichotomy-of-leadership; related agresivo-no-prepotente —polo distinto, no dedup— y no-es-lo-que-toleras), `leadership-capital` (poder finito del líder; related confianza-se-construye), enforzar-estandares-siempre-con-el-porque (nunca «porque lo digo yo»; ↔ senior-debe-explicar-el-porque). verify_graph: 1194 AKUs, 0 errores.
