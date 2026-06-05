@@ -1,0 +1,48 @@
+---
+type: aku
+aku_class: concept
+id: aku-tres-caminos-al-retiro-concept
+statement: >
+  Hay tres caminos al retiro (en el sentido de Naval): (1) ahorrar tanto que tu
+  ingreso pasivo cubra tu burn rate; (2) reducir tu burn rate a cero volviéndote
+  monje; (3) hacer algo que ames tanto que el dinero deje de importar; implica
+  que la independencia es alcanzable bajando el gasto, subiendo los activos
+  pasivos o amando el trabajo.
+origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
+domain: [naval, retiro, libertad-financiera]
+
+llm_confidence: 0.50
+
+human_certainty:
+  status: unvalidated
+  iterations: 0
+  context_boundary: ""
+  validated_by: ""
+  validation_date: ""
+  method: ""
+
+epistemic_type: sourced
+
+relations:
+  supported_by: []
+  supports: []
+  constrained_by: []
+  constrains: []
+  context_breaks_at: []
+  breaks_context_of: []
+  contradicts: []
+  related:
+    - aku-retiro-es-dejar-de-sacrificar-hoy-por-un-manana-imaginario-concept
+
+sources:
+  - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
+
+created: 2026-06-05
+updated: 2026-06-05
+status: active
+status_note: ""
+---
+
+## Relaciones
+
+**related** ↔ [[aku-retiro-es-dejar-de-sacrificar-hoy-por-un-manana-imaginario-concept]]

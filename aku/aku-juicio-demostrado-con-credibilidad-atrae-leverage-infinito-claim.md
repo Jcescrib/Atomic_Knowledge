@@ -33,6 +33,7 @@ relations:
   related:
     - aku-judgment-naval-concept
     - aku-fallar-en-publico-bajo-tu-nombre-da-poder-claim
+    - aku-construye-un-caracter-que-atrae-la-suerte-el-caracter-es-destino-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-judgment-naval-concept]] · [[aku-fallar-en-publico-bajo-tu-nombre-da-poder-claim]]
+**related** ↔ [[aku-judgment-naval-concept]] · [[aku-fallar-en-publico-bajo-tu-nombre-da-poder-claim]] · [[aku-construye-un-caracter-que-atrae-la-suerte-el-caracter-es-destino-claim]]

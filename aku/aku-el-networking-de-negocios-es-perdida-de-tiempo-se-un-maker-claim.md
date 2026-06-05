@@ -1,15 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim
+id: aku-el-networking-de-negocios-es-perdida-de-tiempo-se-un-maker-claim
 statement: >
-  Hacer las cosas por su propio bien (como el arte) produce tu mejor trabajo y,
-  paradójicamente, también el mayor éxito y riqueza: cuanto menos deseas,
-  obsesionas o fuerzas algo, más natural es y mejor sale, porque lo haces a tu
-  manera y con calidad; el año en que Naval generó más riqueza fue el que menos
-  duro trabajó haciendo cosas por diversión.
+  El networking de negocios es una pérdida de tiempo: construir relaciones de
+  negocio muy por adelantado de hacer negocios no sirve; en su lugar, sé un
+  maker que crea algo interesante que la gente quiere, muestra y practica tu
+  oficio, y las personas adecuadas acabarán encontrándote.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, motivacion, maestria]
+domain: [naval, relaciones, reputacion]
 
 llm_confidence: 0.50
 
@@ -31,8 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-encuentra-trabajo-que-se-sienta-como-juego-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,5 +44,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-encuentra-trabajo-que-se-sienta-como-juego-claim]]

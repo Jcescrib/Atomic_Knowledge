@@ -34,6 +34,7 @@ relations:
     - aku-wealth-activos-que-ganan-mientras-duermes-concept
     - aku-money-transfiere-tiempo-y-riqueza-concept
     - aku-juegos-de-suma-positiva-vs-suma-cero-concept
+    - aku-evita-los-juegos-de-estatus-te-vuelven-combativo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-wealth-activos-que-ganan-mientras-duermes-concept]] · [[aku-money-transfiere-tiempo-y-riqueza-concept]] · [[aku-juegos-de-suma-positiva-vs-suma-cero-concept]]
+**related** ↔ [[aku-wealth-activos-que-ganan-mientras-duermes-concept]] · [[aku-money-transfiere-tiempo-y-riqueza-concept]] · [[aku-juegos-de-suma-positiva-vs-suma-cero-concept]] · [[aku-evita-los-juegos-de-estatus-te-vuelven-combativo-claim]]

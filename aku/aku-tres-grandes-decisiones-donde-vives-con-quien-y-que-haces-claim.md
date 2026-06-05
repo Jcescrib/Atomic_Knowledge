@@ -1,15 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim
+id: aku-tres-grandes-decisiones-donde-vives-con-quien-y-que-haces-claim
 statement: >
-  Hacer las cosas por su propio bien (como el arte) produce tu mejor trabajo y,
-  paradójicamente, también el mayor éxito y riqueza: cuanto menos deseas,
-  obsesionas o fuerzas algo, más natural es y mejor sale, porque lo haces a tu
-  manera y con calidad; el año en que Naval generó más riqueza fue el que menos
-  duro trabajó haciendo cosas por diversión.
+  Las tres decisiones dominantes de la vida temprana son dónde vives, con quién
+  estás y qué haces; como determinan la trayectoria de tu vida durante años,
+  deberías dedicar uno o dos años a decidir cada una y decir que no a casi todo
+  lo demás para liberar tiempo para los problemas importantes.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, motivacion, maestria]
+domain: [naval, decisiones, vida]
 
 llm_confidence: 0.50
 
@@ -31,8 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-encuentra-trabajo-que-se-sienta-como-juego-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,5 +44,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-encuentra-trabajo-que-se-sienta-como-juego-claim]]

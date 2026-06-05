@@ -1,15 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim
+id: aku-encuentra-trabajo-que-se-sienta-como-juego-claim
 statement: >
-  Hacer las cosas por su propio bien (como el arte) produce tu mejor trabajo y,
-  paradójicamente, también el mayor éxito y riqueza: cuanto menos deseas,
-  obsesionas o fuerzas algo, más natural es y mejor sale, porque lo haces a tu
-  manera y con calidad; el año en que Naval generó más riqueza fue el que menos
-  duro trabajó haciendo cosas por diversión.
+  Busca el trabajo que para ti se sienta como juego aunque para otros parezca
+  trabajo: como lo disfrutas, lo harás dieciséis horas al día sin agotarte, y
+  por eso nadie podrá competir contigo —tendrían que trabajar para igualarte y
+  perderán—.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, motivacion, maestria]
+domain: [naval, vocacion, specific-knowledge]
 
 llm_confidence: 0.50
 
@@ -32,7 +31,8 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-encuentra-trabajo-que-se-sienta-como-juego-claim
+    - aku-escapa-la-competencia-mediante-autenticidad-claim
+    - aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,6 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-encuentra-trabajo-que-se-sienta-como-juego-claim]]
+**related** ↔ [[aku-escapa-la-competencia-mediante-autenticidad-claim]] · [[aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim]]

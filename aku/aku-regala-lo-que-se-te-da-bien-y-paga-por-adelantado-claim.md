@@ -1,15 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim
+id: aku-regala-lo-que-se-te-da-bien-y-paga-por-adelantado-claim
 statement: >
-  Hacer las cosas por su propio bien (como el arte) produce tu mejor trabajo y,
-  paradójicamente, también el mayor éxito y riqueza: cuanto menos deseas,
-  obsesionas o fuerzas algo, más natural es y mejor sale, porque lo haces a tu
-  manera y con calidad; el año en que Naval generó más riqueza fue el que menos
-  duro trabajó haciendo cosas por diversión.
+  Para rodearte de gente exitosa, averigua en qué eres bueno y empieza a ayudar
+  a otros con ello regalándolo y pagando por adelantado: el karma funciona
+  porque las personas son consistentes y, en un horizonte largo, atraes lo que
+  proyectas; pero no lo midas, o tu paciencia se agotará.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, motivacion, maestria]
+domain: [naval, generosidad, relaciones]
 
 llm_confidence: 0.50
 
@@ -31,8 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-encuentra-trabajo-que-se-sienta-como-juego-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,5 +44,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-encuentra-trabajo-que-se-sienta-como-juego-claim]]

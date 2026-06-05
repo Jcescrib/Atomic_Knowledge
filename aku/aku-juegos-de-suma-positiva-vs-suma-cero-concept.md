@@ -35,6 +35,8 @@ relations:
   related:
     - aku-status-posicion-en-jerarquia-social-concept
     - aku-busca-wealth-no-money-ni-status-claim
+    - aku-evita-los-juegos-de-estatus-te-vuelven-combativo-claim
+    - aku-juego-largo-plazo-suma-positiva-corto-plazo-suma-cero-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-status-posicion-en-jerarquia-social-concept]] · [[aku-busca-wealth-no-money-ni-status-claim]]
+**related** ↔ [[aku-status-posicion-en-jerarquia-social-concept]] · [[aku-busca-wealth-no-money-ni-status-claim]] · [[aku-evita-los-juegos-de-estatus-te-vuelven-combativo-claim]] · [[aku-juego-largo-plazo-suma-positiva-corto-plazo-suma-cero-claim]]

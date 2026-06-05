@@ -1,15 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim
+id: aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim
 statement: >
-  Hacer las cosas por su propio bien (como el arte) produce tu mejor trabajo y,
-  paradójicamente, también el mayor éxito y riqueza: cuanto menos deseas,
-  obsesionas o fuerzas algo, más natural es y mejor sale, porque lo haces a tu
-  manera y con calidad; el año en que Naval generó más riqueza fue el que menos
-  duro trabajó haciendo cosas por diversión.
+  Los ganadores de cualquier juego son las personas tan adictas que siguen
+  jugando incluso cuando la utilidad marginal de ganar decae: la victoria
+  sostenida nace de una adicción al propio juego, no de un cálculo racional de
+  beneficios.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, motivacion, maestria]
+domain: [naval, psicologia, motivacion]
 
 llm_confidence: 0.50
 
@@ -31,8 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-encuentra-trabajo-que-se-sienta-como-juego-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,5 +44,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-encuentra-trabajo-que-se-sienta-como-juego-claim]]

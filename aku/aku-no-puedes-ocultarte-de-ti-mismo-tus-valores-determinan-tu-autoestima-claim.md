@@ -1,15 +1,15 @@
 ---
 type: aku
 aku_class: claim
-id: aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim
+id: aku-no-puedes-ocultarte-de-ti-mismo-tus-valores-determinan-tu-autoestima-claim
 statement: >
-  Hacer las cosas por su propio bien (como el arte) produce tu mejor trabajo y,
-  paradójicamente, también el mayor éxito y riqueza: cuanto menos deseas,
-  obsesionas o fuerzas algo, más natural es y mejor sale, porque lo haces a tu
-  manera y con calidad; el año en que Naval generó más riqueza fue el que menos
-  duro trabajó haciendo cosas por diversión.
+  No puedes ocultar nada de ti mismo: tus fallos morales quedan escritos en tu
+  psique y te son obvios, y demasiados de ellos te impiden respetarte; como el
+  peor resultado es no tener autoestima, conviene evitar hacer cosas de las que
+  no estarás orgulloso —«cuanto más cerca quieras estar de mí, mejores han de
+  ser tus valores»—.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, motivacion, maestria]
+domain: [naval, integridad, autoestima]
 
 llm_confidence: 0.50
 
@@ -31,8 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-encuentra-trabajo-que-se-sienta-como-juego-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,5 +45,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-encuentra-trabajo-que-se-sienta-como-juego-claim]]

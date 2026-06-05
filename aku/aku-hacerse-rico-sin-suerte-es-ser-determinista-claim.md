@@ -1,15 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim
+id: aku-hacerse-rico-sin-suerte-es-ser-determinista-claim
 statement: >
-  Hacer las cosas por su propio bien (como el arte) produce tu mejor trabajo y,
-  paradójicamente, también el mayor éxito y riqueza: cuanto menos deseas,
-  obsesionas o fuerzas algo, más natural es y mejor sale, porque lo haces a tu
-  manera y con calidad; el año en que Naval generó más riqueza fue el que menos
-  duro trabajó haciendo cosas por diversión.
+  «Hacerse rico sin suerte» significa volver la riqueza determinista: en 1.000
+  universos paralelos quieres ser rico en 999, no solo en los pocos donde
+  tuviste suerte ciega; por eso se factoriza la suerte fuera, cultivando
+  habilidad, reputación y carácter que capitalizan o atraen las oportunidades.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, motivacion, maestria]
+domain: [naval, suerte, riqueza]
 
 llm_confidence: 0.50
 
@@ -32,7 +31,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-encuentra-trabajo-que-se-sienta-como-juego-claim
+    - aku-cuatro-tipos-de-suerte-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,6 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-encuentra-trabajo-que-se-sienta-como-juego-claim]]
+**related** ↔ [[aku-cuatro-tipos-de-suerte-concept]]
