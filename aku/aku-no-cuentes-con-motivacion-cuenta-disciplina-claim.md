@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-no-hay-atajo-ni-hack-claim
+    - aku-las-personas-disciplinadas-estructuran-su-entorno-para-no-necesitar-fuerza-de-voluntad-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]]
 
-**related** ↔ [[aku-no-hay-atajo-ni-hack-claim]]
+**related** ↔ [[aku-no-hay-atajo-ni-hack-claim]] · [[aku-las-personas-disciplinadas-estructuran-su-entorno-para-no-necesitar-fuerza-de-voluntad-claim]]
