@@ -32,7 +32,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-habitos-mas-practica-deliberada-igual-maestria-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
+**related** ↔ [[aku-habitos-mas-practica-deliberada-igual-maestria-concept]]

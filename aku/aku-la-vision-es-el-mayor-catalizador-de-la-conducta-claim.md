@@ -32,7 +32,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
+**related** ↔ [[aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method]]

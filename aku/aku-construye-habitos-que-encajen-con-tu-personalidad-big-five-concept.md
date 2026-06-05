@@ -33,7 +33,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
+**related** ↔ [[aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim]]

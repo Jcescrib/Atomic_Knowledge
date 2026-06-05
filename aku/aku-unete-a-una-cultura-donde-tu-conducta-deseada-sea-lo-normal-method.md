@@ -32,7 +32,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-imitamos-los-habitos-de-tres-grupos-cercanos-muchos-poderosos-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
+**related** ↔ [[aku-imitamos-los-habitos-de-tres-grupos-cercanos-muchos-poderosos-concept]]

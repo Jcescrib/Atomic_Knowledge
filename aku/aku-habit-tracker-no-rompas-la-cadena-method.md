@@ -36,6 +36,7 @@ relations:
   related:
     - aku-habit-stacking-method
     - aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim
+    - aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habit-stacking-method]] · [[aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim]]
+**related** ↔ [[aku-habit-stacking-method]] · [[aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim]] · [[aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim]]

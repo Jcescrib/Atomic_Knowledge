@@ -33,7 +33,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-el-cambio-de-conducta-siempre-empieza-con-la-consciencia-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
+**related** ↔ [[aku-el-cambio-de-conducta-siempre-empieza-con-la-consciencia-claim]]

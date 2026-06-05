@@ -35,6 +35,7 @@ relations:
     - aku-capitalizar-interes-compuesto-method
     - aku-habito-atomico-concept
     - aku-never-miss-twice-claim
+    - aku-plateau-of-latent-potential-valley-of-disappointment-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-capitalizar-interes-compuesto-method]] · [[aku-habito-atomico-concept]] · [[aku-never-miss-twice-claim]]
+**related** ↔ [[aku-capitalizar-interes-compuesto-method]] · [[aku-habito-atomico-concept]] · [[aku-never-miss-twice-claim]] · [[aku-plateau-of-latent-potential-valley-of-disappointment-concept]]

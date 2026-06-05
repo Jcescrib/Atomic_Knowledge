@@ -36,6 +36,7 @@ relations:
     - aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept
     - aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method
     - aku-automatiza-tus-habitos-con-tecnologia-y-decisiones-unicas-method
+    - aku-la-vision-es-el-mayor-catalizador-de-la-conducta-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept]] · [[aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method]] · [[aku-automatiza-tus-habitos-con-tecnologia-y-decisiones-unicas-method]]
+**related** ↔ [[aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept]] · [[aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method]] · [[aku-automatiza-tus-habitos-con-tecnologia-y-decisiones-unicas-method]] · [[aku-la-vision-es-el-mayor-catalizador-de-la-conducta-claim]]

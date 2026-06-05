@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-sistemas-vs-metas-en-atomic-habits-concept
+    - aku-tus-resultados-son-una-medida-rezagada-de-tus-habitos-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-sistemas-vs-metas-en-atomic-habits-concept]]
+**related** ↔ [[aku-sistemas-vs-metas-en-atomic-habits-concept]] · [[aku-tus-resultados-son-una-medida-rezagada-de-tus-habitos-claim]]

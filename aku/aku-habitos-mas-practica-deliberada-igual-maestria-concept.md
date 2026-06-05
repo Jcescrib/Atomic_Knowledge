@@ -36,6 +36,7 @@ relations:
   related:
     - aku-solo-se-logra-maestria-en-una-o-dos-cosas-claim
     - aku-agregacion-de-ganancias-marginales-concept
+    - aku-goldilocks-rule-dificultad-justo-manejable-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-solo-se-logra-maestria-en-una-o-dos-cosas-claim]] · [[aku-agregacion-de-ganancias-marginales-concept]]
+**related** ↔ [[aku-solo-se-logra-maestria-en-una-o-dos-cosas-claim]] · [[aku-agregacion-de-ganancias-marginales-concept]] · [[aku-goldilocks-rule-dificultad-justo-manejable-concept]]

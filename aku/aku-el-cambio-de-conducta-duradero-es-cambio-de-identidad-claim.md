@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-los-incentivos-inician-un-habito-la-identidad-lo-sostiene-claim
+    - aku-habitos-basados-en-la-identidad-vs-en-resultados-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -44,6 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-los-incentivos-inician-un-habito-la-identidad-lo-sostiene-claim]]
+**related** ↔ [[aku-los-incentivos-inician-un-habito-la-identidad-lo-sostiene-claim]] · [[aku-habitos-basados-en-la-identidad-vs-en-resultados-concept]]

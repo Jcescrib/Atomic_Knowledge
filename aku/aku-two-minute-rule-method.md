@@ -35,6 +35,7 @@ relations:
   related:
     - aku-empezar-aqui-y-ahora-method
     - aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim
+    - aku-momentos-decisivos-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-empezar-aqui-y-ahora-method]] · [[aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim]]
+**related** ↔ [[aku-empezar-aqui-y-ahora-method]] · [[aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim]] · [[aku-momentos-decisivos-concept]]

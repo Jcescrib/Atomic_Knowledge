@@ -35,6 +35,7 @@ relations:
   related:
     - aku-cuatro-leyes-del-cambio-de-conducta-concept
     - aku-habit-stacking-method
+    - aku-mucha-gente-cree-que-le-falta-motivacion-cuando-le-falta-claridad-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cuatro-leyes-del-cambio-de-conducta-concept]] · [[aku-habit-stacking-method]]
+**related** ↔ [[aku-cuatro-leyes-del-cambio-de-conducta-concept]] · [[aku-habit-stacking-method]] · [[aku-mucha-gente-cree-que-le-falta-motivacion-cuando-le-falta-claridad-claim]]

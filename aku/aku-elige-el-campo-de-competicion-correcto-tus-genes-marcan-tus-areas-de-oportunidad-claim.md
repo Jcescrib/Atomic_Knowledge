@@ -36,6 +36,7 @@ relations:
   related:
     - aku-specific-knowledge-concept
     - aku-encuentra-trabajo-que-se-sienta-como-juego-claim
+    - aku-construye-habitos-que-encajen-con-tu-personalidad-big-five-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-specific-knowledge-concept]] · [[aku-encuentra-trabajo-que-se-sienta-como-juego-claim]]
+**related** ↔ [[aku-specific-knowledge-concept]] · [[aku-encuentra-trabajo-que-se-sienta-como-juego-claim]] · [[aku-construye-habitos-que-encajen-con-tu-personalidad-big-five-concept]]

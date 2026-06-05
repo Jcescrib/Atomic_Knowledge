@@ -35,6 +35,7 @@ relations:
     - aku-habits-scorecard-method
     - aku-two-minute-rule-method
     - aku-habit-tracker-no-rompas-la-cadena-method
+    - aku-habitos-basados-en-la-identidad-vs-en-resultados-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,6 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-habits-scorecard-method]] · [[aku-two-minute-rule-method]] · [[aku-habit-tracker-no-rompas-la-cadena-method]]
+**related** ↔ [[aku-habits-scorecard-method]] · [[aku-two-minute-rule-method]] · [[aku-habit-tracker-no-rompas-la-cadena-method]] · [[aku-habitos-basados-en-la-identidad-vs-en-resultados-concept]]

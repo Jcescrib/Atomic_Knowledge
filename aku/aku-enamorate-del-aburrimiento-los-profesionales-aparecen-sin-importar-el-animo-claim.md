@@ -35,6 +35,7 @@ relations:
   related:
     - aku-no-cuentes-con-motivacion-cuenta-disciplina-claim
     - aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim
+    - aku-el-mayor-enemigo-del-exito-no-es-el-fracaso-sino-el-aburrimiento-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-cuentes-con-motivacion-cuenta-disciplina-claim]] · [[aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim]]
+**related** ↔ [[aku-no-cuentes-con-motivacion-cuenta-disciplina-claim]] · [[aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim]] · [[aku-el-mayor-enemigo-del-exito-no-es-el-fracaso-sino-el-aburrimiento-claim]]
