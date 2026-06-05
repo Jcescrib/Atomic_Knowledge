@@ -645,3 +645,9 @@ Ingesta hiper-exhaustiva, granularidad máxima. **COBERTURA**: 11 items (4 conce
 ### Cap 4 «Check the Ego» (+9 AKUs) — cierra PARTE I (Winning the War Within)
 
 **COBERTURA**: 9 items (2 concept, 1 method, 6 claim). 1091→1100. Concepts: `check-the-ego` (`supports` extreme-ownership; related humildad/mejores-lideres-mision-no-ego) y `confident-but-not-cocky` (ref cap 12). Method: `check-ego-asumiendo-culpa-primero` (desactivar choque de egos asumiendo la culpa; related lider-mirar-al-espejo). Claims: ego-nubla-todo, ego-bueno-vs-destructivo (doble naturaleza del ego), el-ego-mas-dificil-es-el-propio, ego-impide-evaluacion-honesta (↔ lente-objetiva/mejora-continua), nunca-complacencia-subestimar-enemigo (`supports` confident-but-not-cocky), culpar-subordinado-natural-pero-contraproducente (↔ culpar-se-contagia). «It's about the mission not you» → dedup a mejores-lideres-mision-no-ego. **PARTE I completa** (intro + caps 1-4): 56 AKUs. verify_graph: 1100 AKUs, 0 errores.
+
+## 2026-06-05 — FASE 2 Jocko · Libro 1 Extreme Ownership — PARTE II (Laws of Combat)
+
+### Cap 5 «Cover and Move» — Law of Combat #1 (+8 AKUs)
+
+**COBERTURA**: 8 items (2 concept, 1 method, 5 claim). 1100→1108. `cover-and-move` (1ª ley = trabajo en equipo) `supports` laws-of-combat (paraguas, ahora con su 1er hijo). `main-effort-supporting-efforts` (concept, se relacionará con prioritize-execute cap 7). Method: cover-and-move-construir-relacion. Claims: romper-silos-interdependencia, subteams-compiten-pierden-perspectiva, lider-mantiene-perspectiva-estrategica (↔ detach/parte-de-algo-mas-grande), equipo-gana-o-falla-en-conjunto, competidor-es-externo-no-interno (reframe «el enemigo está fuera»). verify_graph: 1108 AKUs, 0 errores.

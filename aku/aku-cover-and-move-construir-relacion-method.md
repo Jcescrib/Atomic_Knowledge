@@ -1,13 +1,14 @@
 ---
 type: aku
-aku_class: claim
-id: aku-parte-de-algo-mas-grande-claim
+aku_class: method
+id: aku-cover-and-move-construir-relacion-method
 statement: >
-  Los líderes deben operar siempre con la conciencia de que forman parte de algo
-  más grande que ellos mismos y sus intereses personales, e impartir esa
-  conciencia a sus equipos hasta los operadores de nivel táctico.
+  Para aplicar Cover and Move con otro equipo que no controlas: comprométete y
+  construye una relación personal con ellos, explícales qué necesitas de ellos y
+  por qué, pregúntales qué puedes hacer para ayudarles a darte lo que necesitas,
+  y hazlos parte de tu equipo, no la excusa de tu equipo.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, proposito, mision]
+domain: [liderazgo, jocko, equipos, colaboracion, comunicacion]
 
 llm_confidence: 0.50
 
@@ -24,14 +25,13 @@ epistemic_type: sourced
 relations:
   supported_by: []
   supports:
-    - aku-believe-in-the-mission-concept
+    - aku-cover-and-move-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-lider-mantiene-perspectiva-estrategica-claim
+  related: []
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -44,6 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-believe-in-the-mission-concept]]
-
-**related** ↔ [[aku-lider-mantiene-perspectiva-estrategica-claim]]
+**supports** → [[aku-cover-and-move-concept]]

@@ -1,13 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-parte-de-algo-mas-grande-claim
+id: aku-equipo-gana-o-falla-en-conjunto-claim
 statement: >
-  Los líderes deben operar siempre con la conciencia de que forman parte de algo
-  más grande que ellos mismos y sus intereses personales, e impartir esa
-  conciencia a sus equipos hasta los operadores de nivel táctico.
+  Si el equipo global fracasa, todos fracasan, aunque un miembro o elemento
+  concreto haya hecho bien su trabajo; y cuando el equipo triunfa, todos los que
+  lo integran y lo apoyan comparten el éxito: cumplir la misión estratégica es
+  la prioridad más alta.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, proposito, mision]
+domain: [liderazgo, jocko, equipos, exito-colectivo]
 
 llm_confidence: 0.50
 
@@ -24,14 +25,13 @@ epistemic_type: sourced
 relations:
   supported_by: []
   supports:
-    - aku-believe-in-the-mission-concept
+    - aku-cover-and-move-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-lider-mantiene-perspectiva-estrategica-claim
+  related: []
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -44,6 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-believe-in-the-mission-concept]]
-
-**related** ↔ [[aku-lider-mantiene-perspectiva-estrategica-claim]]
+**supports** → [[aku-cover-and-move-concept]]

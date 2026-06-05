@@ -1,13 +1,15 @@
 ---
 type: aku
-aku_class: claim
-id: aku-parte-de-algo-mas-grande-claim
+aku_class: concept
+id: aku-main-effort-supporting-efforts-concept
 statement: >
-  Los líderes deben operar siempre con la conciencia de que forman parte de algo
-  más grande que ellos mismos y sus intereses personales, e impartir esa
-  conciencia a sus equipos hasta los operadores de nivel táctico.
+  «Main effort y supporting efforts» (esfuerzo principal y esfuerzos de apoyo):
+  aunque cada miembro del equipo es crítico para el éxito, hay que identificar
+  con claridad cuál es el esfuerzo principal y cuáles los esfuerzos de apoyo en
+  cada momento; incluye que todos los esfuerzos de apoyo se subordinan al
+  principal.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, proposito, mision]
+domain: [liderazgo, jocko, equipos, priorizacion, combate]
 
 llm_confidence: 0.50
 
@@ -24,14 +26,13 @@ epistemic_type: sourced
 relations:
   supported_by: []
   supports:
-    - aku-believe-in-the-mission-concept
+    - aku-cover-and-move-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-lider-mantiene-perspectiva-estrategica-claim
+  related: []
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -44,6 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-believe-in-the-mission-concept]]
-
-**related** ↔ [[aku-lider-mantiene-perspectiva-estrategica-claim]]
+**supports** → [[aku-cover-and-move-concept]]

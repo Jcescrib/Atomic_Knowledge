@@ -1472,8 +1472,8 @@ sources:
     converted: 2026-06-05
     image_processing: null
     ingested: null   # FASE 2 en curso — book mode
-    chapters_ingested: [introduccion, cap01-extreme-ownership, cap02-no-bad-teams, cap03-believe, cap04-check-the-ego]
-    aku_count: 56
+    chapters_ingested: [introduccion, cap01-extreme-ownership, cap02-no-bad-teams, cap03-believe, cap04-check-the-ego, cap05-cover-and-move]
+    aku_count: 64
     taku_count: 0
     last_commit: ""
     notes: >
