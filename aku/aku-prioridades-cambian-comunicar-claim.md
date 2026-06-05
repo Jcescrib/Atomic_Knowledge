@@ -1,15 +1,13 @@
 ---
 type: aku
-aku_class: method
-id: aku-relax-look-around-make-a-call-method
+aku_class: claim
+id: aku-prioridades-cambian-comunicar-claim
 statement: >
-  Ante una situación de presión extrema o caos, el protocolo de decisión es
-  «Relax, look around, make a call» (relájate, mira alrededor, toma una
-  decisión): recuperar la calma para no dejarse abrumar, evaluar la situación
-  global priorizando la amenaza mayor, y decidir y ejecutar sin paralizarse;
-  condición: aplicable cuando el pánico o la inacción agravan el riesgo.
+  Las prioridades pueden cambiar rápida y constantemente; cuando lo hacen,
+  comunicar ese cambio al resto del equipo —hacia arriba y hacia abajo en la
+  cadena de mando— es crítico para mantener la coordinación.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, decision, presion]
+domain: [liderazgo, jocko, comunicacion, adaptabilidad]
 
 llm_confidence: 0.50
 
@@ -32,8 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-laws-of-combat-concept
+  related: []
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,7 +42,5 @@ status_note: ""
 ---
 
 ## Relaciones
-
-**related** ↔ [[aku-laws-of-combat-concept]]
 
 **supports** → [[aku-prioritize-and-execute-concept]]

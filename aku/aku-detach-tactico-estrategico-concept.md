@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-lider-mantiene-perspectiva-estrategica-claim
+    - aku-pull-off-the-firing-line-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-preguntar-por-que-method]]
 
-**related** ↔ [[aku-lider-mantiene-perspectiva-estrategica-claim]]
+**related** ↔ [[aku-lider-mantiene-perspectiva-estrategica-claim]] · [[aku-pull-off-the-firing-line-claim]]

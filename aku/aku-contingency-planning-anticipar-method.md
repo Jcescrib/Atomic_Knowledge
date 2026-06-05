@@ -1,15 +1,16 @@
 ---
 type: aku
 aku_class: method
-id: aku-relax-look-around-make-a-call-method
+id: aku-contingency-planning-anticipar-method
 statement: >
-  Ante una situación de presión extrema o caos, el protocolo de decisión es
-  «Relax, look around, make a call» (relájate, mira alrededor, toma una
-  decisión): recuperar la calma para no dejarse abrumar, evaluar la situación
-  global priorizando la amenaza mayor, y decidir y ejecutar sin paralizarse;
-  condición: aplicable cuando el pánico o la inacción agravan el riesgo.
+  Para priorizar y ejecutar bajo presión, mantente uno o dos pasos por delante
+  de los problemas en tiempo real mediante planificación de contingencias:
+  anticipa los desafíos probables durante la ejecución y traza la respuesta
+  antes de que ocurran; así el equipo no se ve desbordado, gana decisión y, si
+  está briefado, ejecuta ante la contingencia sin dirección específica (habilita
+  el mando descentralizado).
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, decision, presion]
+domain: [liderazgo, jocko, planificacion, contingencias]
 
 llm_confidence: 0.50
 
@@ -32,8 +33,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-laws-of-combat-concept
+  related: []
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,7 +45,5 @@ status_note: ""
 ---
 
 ## Relaciones
-
-**related** ↔ [[aku-laws-of-combat-concept]]
 
 **supports** → [[aku-prioritize-and-execute-concept]]

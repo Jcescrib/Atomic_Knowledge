@@ -1,15 +1,15 @@
 ---
 type: aku
 aku_class: concept
-id: aku-main-effort-supporting-efforts-concept
+id: aku-target-fixation-concept
 statement: >
-  «Main effort y supporting efforts» (esfuerzo principal y esfuerzos de apoyo):
-  aunque cada miembro del equipo es crítico para el éxito, hay que identificar
-  con claridad cuál es el esfuerzo principal y cuáles los esfuerzos de apoyo en
-  cada momento; incluye que todos los esfuerzos de apoyo se subordinan al
-  principal.
+  «Target fixation» (fijación en un objetivo) es el anti-patrón por el que un
+  equipo se obsesiona con un único problema y no reconoce cuándo la máxima
+  prioridad se ha desplazado a otra cosa; incluye perder la capacidad de re-
+  priorizar; excluye mantener la conciencia situacional de otros problemas
+  emergentes.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, equipos, priorizacion, combate]
+domain: [liderazgo, jocko, anti-patron, foco]
 
 llm_confidence: 0.50
 
@@ -25,8 +25,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports:
-    - aku-cover-and-move-concept
+  supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -34,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-prioritize-and-execute-concept
+    - aku-prioritize-and-execute-pasos-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,6 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-cover-and-move-concept]]
-
-**related** ↔ [[aku-prioritize-and-execute-concept]]
+**related** ↔ [[aku-prioritize-and-execute-concept]] · [[aku-prioritize-and-execute-pasos-method]]
