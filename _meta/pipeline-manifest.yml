@@ -1674,3 +1674,27 @@ sources:
       `> **Figura**:` en la fase de image-processing antes de ingestar cada capítulo. Pendiente
       de la siguiente sesión (contexto): image-processing + ingesta hiper-exhaustiva capítulo a
       capítulo con dedup cross-corpus (hábitos/disciplina ↔ Jocko; identidad ↔ Naval-descondiciónate).
+
+  - original: "G:\Mi unidad\Robert Greene\The 48 Laws of Power -- Greene, Robert -- 2000 -- Penguin Publishing Group -- df1924a1c79bd326dc2886b61daa6f9f -- Anna’s Archive.pdf"
+    name_slug: "48-laws-of-power"
+    raw_path: "raw/libros/robert-greene/48-laws-of-power/"
+    converter: mineru
+    converted: 2026-06-05
+    image_processing: null
+    ingested: null
+    chapters_ingested: []
+    aku_count: 0
+    taku_count: 0
+    last_commit: ""
+    notes: >
+      TAREA 2, libro 3. The 48 Laws of Power (Robert Greene, 2000). source-tag: robert-greene.
+      PDF → MinerU (700 págs, 8790 líneas md, solo 4 imgs — probablemente decorativas/retratos).
+      Slug saneado a `48-laws-of-power`. CONVERSIÓN COMPLETA, IMAGE PROCESSING + INGESTA
+      PENDIENTES (próxima sesión). Estructura ideal para book-mode: PREFACE + 48 leyes, cada
+      Ley = capítulo con secciones JUDGMENT / TRANSGRESSION OF THE LAW / Interpretation /
+      OBSERVANCE OF THE LAW / Interpretation / KEYS TO POWER / REVERSAL. Plan de ingesta:
+      1 commit por Ley → concept-AKU de la ley (el principio) + claims de KEYS TO POWER +
+      1 claim de REVERSAL (condiciones donde NO aplica / se invierte → candidato a
+      context_breaks_at). 48 leyes = 48 capítulos. Granularidad máxima: cada táctica/keys
+      con identidad propia = su AKU. ⚠ Contenido amoral/manipulación: ingestar como claims
+      descriptivos del autor (qué afirma Greene), no como recomendaciones del vault.
