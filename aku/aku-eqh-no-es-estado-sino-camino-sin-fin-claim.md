@@ -35,6 +35,7 @@ relations:
     - aku-eminently-qualified-human-concept
     - aku-the-path-concept
     - aku-the-evaluation-concept
+    - aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-eminently-qualified-human-concept]] · [[aku-the-path-concept]] · [[aku-the-evaluation-concept]]
+**related** ↔ [[aku-eminently-qualified-human-concept]] · [[aku-the-path-concept]] · [[aku-the-evaluation-concept]] · [[aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim]]

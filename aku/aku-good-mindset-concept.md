@@ -40,9 +40,11 @@ relations:
     - aku-la-risa-gana-claim
     - aku-lesiones-enfermedad-do-what-you-can-claim
     - aku-positivo-pero-realista-no-pollyanna-claim
+    - aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
+  - raw/libros/jocko/the-code/the-code.md
 
 created: 2026-06-05
 updated: 2026-06-05
@@ -52,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-extreme-ownership-concept]] · [[aku-actitud-lider-marca-el-tono-claim]] · [[aku-incluso-en-la-muerte-hay-good-claim]] · [[aku-la-risa-gana-claim]] · [[aku-lesiones-enfermedad-do-what-you-can-claim]] · [[aku-positivo-pero-realista-no-pollyanna-claim]]
+**related** ↔ [[aku-extreme-ownership-concept]] · [[aku-actitud-lider-marca-el-tono-claim]] · [[aku-incluso-en-la-muerte-hay-good-claim]] · [[aku-la-risa-gana-claim]] · [[aku-lesiones-enfermedad-do-what-you-can-claim]] · [[aku-positivo-pero-realista-no-pollyanna-claim]] · [[aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim]]

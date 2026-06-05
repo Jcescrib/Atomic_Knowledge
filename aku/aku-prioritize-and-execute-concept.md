@@ -47,6 +47,7 @@ relations:
     - aku-saber-que-es-importante-y-que-no-method
     - aku-manejar-jefe-micromanager-indeciso-debil-method
     - aku-cuando-rendirse-tactico-no-estrategico-claim
+    - aku-paso-pequeno-reevaluar-ante-incertidumbre-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -63,4 +64,4 @@ status_note: ""
 
 **supports** → [[aku-laws-of-combat-concept]]
 
-**related** ↔ [[aku-main-effort-supporting-efforts-concept]] · [[aku-target-fixation-concept]] · [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-abrumado-pelear-mas-duro-priorizar-claim]] · [[aku-saber-que-es-importante-y-que-no-method]] · [[aku-manejar-jefe-micromanager-indeciso-debil-method]] · [[aku-cuando-rendirse-tactico-no-estrategico-claim]]
+**related** ↔ [[aku-main-effort-supporting-efforts-concept]] · [[aku-target-fixation-concept]] · [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-abrumado-pelear-mas-duro-priorizar-claim]] · [[aku-saber-que-es-importante-y-que-no-method]] · [[aku-manejar-jefe-micromanager-indeciso-debil-method]] · [[aku-cuando-rendirse-tactico-no-estrategico-claim]] · [[aku-paso-pequeno-reevaluar-ante-incertidumbre-method]]
