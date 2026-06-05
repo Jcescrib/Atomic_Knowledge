@@ -36,6 +36,7 @@ relations:
     - aku-posture-principle-concept
     - aku-clock-principle-concept
     - aku-depletion-principle-concept
+    - aku-sacrifice-principle-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-posture-principle-concept]] · [[aku-clock-principle-concept]] · [[aku-depletion-principle-concept]]
+**related** ↔ [[aku-posture-principle-concept]] · [[aku-clock-principle-concept]] · [[aku-depletion-principle-concept]] · [[aku-sacrifice-principle-concept]]
