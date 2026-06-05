@@ -1625,13 +1625,21 @@ sources:
     converter: ebooklib
     converted: 2026-06-05
     image_processing: 2026-06-05
-    ingested: null
-    chapters_ingested: []
-    aku_count: 0
-    taku_count: 0
-    last_commit: ""
+    ingested: in-progress   # book-mode: ingesta capítulo a capítulo en curso
+    chapters_ingested: [ch01-understand-how-wealth-is-created]
+    aku_count: 29
+    taku_count: 1
+    last_commit: "539e753"
     notes: >
       TAREA 2, libro 1. The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020).
+      EN CURSO (parada por contexto tras ch01). PRÓXIMO: ch02 'Find and Build Specific
+      Knowledge' (línea 527 del md). Capítulos pendientes Part I Building Wealth:
+      find-and-build-specific-knowledge, play-long-term-games, take-on-accountability,
+      build-or-buy-equity, find-a-position-of-leverage, get-paid-for-your-judgment,
+      prioritize-and-focus, find-work-that-feels-like-play, how-to-get-lucky, be-patient;
+      Building Judgment (judgment, how-to-think-clearly, shed-your-identity, decision-
+      making, mental-models, learn-to-love-to-read); Part II Happiness (learning-happiness,
+      saving-yourself, philosophy) + Bonus (recommended-reading → reference TAKU).
       source-tag: naval. EPUB → epub_to_md.py (23 secciones, 31 imgs). Estructura:
       Part I Wealth (Building Wealth, Building Judgment), Part II Happiness (Learning
       Happiness, Saving Yourself, Philosophy) + front/back matter. IMÁGENES (31):
