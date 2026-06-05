@@ -37,6 +37,7 @@ relations:
   related:
     - aku-comida-basura-es-veneno-claim
     - aku-entrenamiento-fisico-cuerpo-y-mente-claim
+    - aku-progresion-artes-marciales-concept
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -51,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-discipline-equals-freedom-concept]]
 
-**related** ↔ [[aku-comida-basura-es-veneno-claim]] · [[aku-entrenamiento-fisico-cuerpo-y-mente-claim]]
+**related** ↔ [[aku-comida-basura-es-veneno-claim]] · [[aku-entrenamiento-fisico-cuerpo-y-mente-claim]] · [[aku-progresion-artes-marciales-concept]]

@@ -35,6 +35,7 @@ relations:
   related:
     - aku-laws-of-combat-concept
     - aku-decisiveness-amid-uncertainty-concept
+    - aku-immediate-action-drills-amenaza-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,6 +48,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-laws-of-combat-concept]] · [[aku-decisiveness-amid-uncertainty-concept]]
+**related** ↔ [[aku-laws-of-combat-concept]] · [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-immediate-action-drills-amenaza-method]]
 
 **supports** → [[aku-prioritize-and-execute-concept]]

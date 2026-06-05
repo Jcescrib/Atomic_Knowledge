@@ -36,7 +36,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-progresion-artes-marciales-concept
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -52,3 +53,5 @@ status_note: ""
 **supported_by** ← [[aku-train-how-you-fight-claim]] · [[aku-entrenamiento-realismo-fundamentos-repeticion-method]] · [[aku-entrenamiento-desde-abajo-no-desde-arriba-claim]]
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
+
+**related** ↔ [[aku-progresion-artes-marciales-concept]]

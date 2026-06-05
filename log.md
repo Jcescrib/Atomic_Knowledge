@@ -786,3 +786,7 @@ Creados los 6 TAKUs ejecutables flaggeados (86→92 TAKUs draft, todos `content_
 ### Batch 6A «Parte 2 Actions: Physical Training → Home Gym» (+9 AKUs, +3 TAKUs)
 
 **COBERTURA**: 9 nuevos (1 concept, 2 method, 6 claim) + 3 TAKUs. 1256→1265. Claims: entrenamiento-fisico-cuerpo-y-mente, stress-bueno-y-malo-cortisol, madrugar-predawn-stand-to, willpower-no-es-finita-disciplina-engendra-disciplina (la voluntad se fortalece con el uso, no se agota), sueno-es-necesidad-7-9h, en-el-workout-lo-importante-es-hacer-algo-y-trackear. Methods: conciliar-sueno-temprano-pasos, power-nap-pies-elevados. Concept: home-gym-equipo-basico. TAKUs (draft): `conciliar-el-sueno` (protocol), `power-nap` (technique), `home-gym-basico` (tool). Fix: B6-8 related apuntaba por error a taku-ir-igualmente (TAKU) → corregido a aku-not-feeling-it-go-anyway (las relaciones AKU solo apuntan a AKUs). verify_graph: 1265 AKUs, 0 errores.
+
+### Batch 6B «Martial Arts → Immediate Action Drills» (+6 AKUs, +3 TAKUs)
+
+**COBERTURA**: 6 nuevos (1 concept, 3 method, 2 claim) + 3 TAKUs. 1265→1271. `progresion-artes-marciales` (BJJ→boxeo→Muay Thai/wrestling→…), defensa-propia-jerarquia-mente-correr-arma, jiu-jitsu-meta-escapar-no-ir-al-suelo, cuatro-reglas-seguridad-armas (method/fórmula), immediate-action-drills-amenaza (↔ relax-look-around), elegir-academia-jiu-jitsu. TAKUs (draft): `progresion-artes-marciales` (framework), `immediate-action-drills` (protocol), `seguridad-armas-cuatro-reglas` (protocol). verify_graph: 1271 AKUs, 0 errores.
