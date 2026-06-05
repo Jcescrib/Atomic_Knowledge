@@ -276,6 +276,7 @@ Meanwhile, improving by 1 percent isn’t particularly notable— sometimes it i
 1% better every day for one year. $1 . 0 1 ^ { 3 6 5 } = 3 7 . 7 8$
 
 ![](images/fd99890a3c2555e5089bba8832bab5a2dd84c1e7106fdeda6d4f803e1c178135.jpg)  
+> **Figura**: Gráfico «1% better every day» — ejes RESULTS (vertical) vs TIME (horizontal). Desde un mismo punto de partida (línea de puntos horizontal) divergen dos curvas: la de «1% IMPROVEMENT» se curva hacia arriba de forma exponencial (acelerándose con el tiempo), y la de «1% DECLINE» decae suavemente hacia cero. Visualiza que mejoras/empeoramientos diminutos del 1% diario, repetidos, componen en resultados drásticamente divergentes a largo plazo (1.01^365 = 37,78 vs 0.99^365 = 0,03).
 FIGURE 1: The effects of small habits compound over time. For example, if you can get just 1 percent better each day, you’ll end up with results that are nearly 37 times better after one year.
 
 Habits are the compound interest of self-improvement. The same way that money multiplies through compound interest, the effects of your habits multiply as you repeat them. They seem to make little difference on any given day and yet the impact they deliver over the months and years can be enormous. It is only when looking back two, five, or perhaps ten years later that the value of good habits and the cost of bad ones becomes strikingly apparent.
@@ -346,6 +347,7 @@ Mastery requires patience. The San Antonio Spurs, one of the most successful tea
 ## THE PLATEAU OF LATENT POTENTIAL
 
 ![](images/b48306bd683b06f8e3452a0f4d34f40423cc5947ebc9f4b7a668582a9c337a4d.jpg)  
+> **Figura**: Gráfico «Plateau of Latent Potential» — ejes RESULTS vs TIME. Una recta diagonal ascendente etiquetada «WHAT YOU THINK SHOULD HAPPEN» (progreso lineal esperado) contrasta con una curva «WHAT ACTUALLY HAPPENS» que al principio queda por debajo de la recta —la zona etiquetada «VALLEY OF DISAPPOINTMENT»— y luego se dispara exponencialmente, cruzando y superando a la recta. Visualiza que los resultados reales se retrasan: el esfuerzo inicial parece no rendir (valle de la decepción) hasta que se cruza el umbral y el progreso almacenado se libera de golpe.
 FIGURE 2: We often expect progress to be linear. At the very least, we hope it will come quickly. In reality, the results of our efforts are often delayed. It is not until months or years later that we realize the true value of the previous work we have done. This can result in a “valley of disappointment” where people feel discouraged after putting in weeks or months of hard work without experiencing any results. However, this work was not wasted. It was simply being stored. It is not until much later that the full value of previous efforts is revealed.
 
 All big things come from small beginnings. The seed of every habit is a single, tiny decision. But as that decision is repeated, a habit sprouts and grows stronger. Roots entrench themselves and branches grow. The task of breaking a bad habit is like uprooting a powerful oak within us. And the task of building a good habit is like cultivating a delicate flower one day at a time.

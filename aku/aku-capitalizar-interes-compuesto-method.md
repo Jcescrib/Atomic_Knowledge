@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim
+    - aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supported_by** ← [[aku-valor-futuro-concept]]
 
-**related** ↔ [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]]
+**related** ↔ [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]] · [[aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim]]
