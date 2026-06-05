@@ -1,14 +1,13 @@
 ---
 type: aku
 aku_class: claim
-id: aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim
+id: aku-leer-es-la-meta-habilidad-definitiva-canjeable-por-cualquier-otra-claim
 statement: >
-  La salud debe ser la prioridad número uno, por encima de la felicidad, la
-  familia y el trabajo: primero la salud física, luego la mental, luego la
-  espiritual, después la salud y el bienestar de la familia, y solo entonces el
-  resto del mundo.
+  Leer (aprender) es la meta-habilidad definitiva y puede cambiarse por
+  cualquier otra cosa: dominar el aprendizaje te da acceso a adquirir cualquier
+  otra habilidad que necesites, por lo que es la inversión de mayor retorno.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [salud, naval, prioridades]
+domain: [naval, lectura, aprendizaje]
 
 llm_confidence: 0.50
 
@@ -31,8 +30,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim
-    - aku-salud-amor-y-mision-en-ese-orden-nada-mas-importa-claim
+    - aku-amar-leer-es-un-superpoder-vivimos-en-la-era-de-alejandria-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +43,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim]] · [[aku-salud-amor-y-mision-en-ese-orden-nada-mas-importa-claim]]
+**related** ↔ [[aku-amar-leer-es-un-superpoder-vivimos-en-la-era-de-alejandria-claim]]

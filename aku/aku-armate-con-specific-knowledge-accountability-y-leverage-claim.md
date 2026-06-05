@@ -35,6 +35,7 @@ relations:
     - aku-leverage-multiplicador-de-juicio-concept
     - aku-subir-la-escalera-de-leverage-accountability-specific-knowledge-crea-riqueza-claim
     - aku-aplica-y-se-paciente-pero-no-lleves-la-cuenta-claim
+    - aku-formula-de-la-riqueza-e-ingreso-de-naval-method
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-specific-knowledge-concept]] · [[aku-accountability-bajo-tu-nombre-concept]] · [[aku-leverage-multiplicador-de-juicio-concept]] · [[aku-subir-la-escalera-de-leverage-accountability-specific-knowledge-crea-riqueza-claim]] · [[aku-aplica-y-se-paciente-pero-no-lleves-la-cuenta-claim]]
+**related** ↔ [[aku-specific-knowledge-concept]] · [[aku-accountability-bajo-tu-nombre-concept]] · [[aku-leverage-multiplicador-de-juicio-concept]] · [[aku-subir-la-escalera-de-leverage-accountability-specific-knowledge-crea-riqueza-claim]] · [[aku-aplica-y-se-paciente-pero-no-lleves-la-cuenta-claim]] · [[aku-formula-de-la-riqueza-e-ingreso-de-naval-method]]

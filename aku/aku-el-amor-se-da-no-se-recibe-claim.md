@@ -1,14 +1,12 @@
 ---
 type: aku
 aku_class: claim
-id: aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim
+id: aku-el-amor-se-da-no-se-recibe-claim
 statement: >
-  La salud debe ser la prioridad número uno, por encima de la felicidad, la
-  familia y el trabajo: primero la salud física, luego la mental, luego la
-  espiritual, después la salud y el bienestar de la familia, y solo entonces el
-  resto del mundo.
+  El amor se da, no se recibe: es una decisión y una acción que parte de ti, no
+  algo que esperas obtener o exigir de los demás.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [salud, naval, prioridades]
+domain: [naval, amor, valores]
 
 llm_confidence: 0.50
 
@@ -30,9 +28,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim
-    - aku-salud-amor-y-mision-en-ese-orden-nada-mas-importa-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +41,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim]] · [[aku-salud-amor-y-mision-en-ese-orden-nada-mas-importa-claim]]
+<!-- sin relaciones -->

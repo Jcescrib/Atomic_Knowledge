@@ -39,6 +39,7 @@ relations:
     - aku-productize-yourself-concept
     - aku-armate-con-specific-knowledge-accountability-y-leverage-claim
     - aku-ahora-es-apalancado-vs-no-apalancado-claim
+    - aku-formula-de-la-riqueza-e-ingreso-de-naval-method
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-apalancamiento-financiero-concept]] · [[aku-permissioned-vs-permissionless-leverage-concept]] · [[aku-judgment-naval-concept]] · [[aku-productize-yourself-concept]] · [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-ahora-es-apalancado-vs-no-apalancado-claim]]
+**related** ↔ [[aku-apalancamiento-financiero-concept]] · [[aku-permissioned-vs-permissionless-leverage-concept]] · [[aku-judgment-naval-concept]] · [[aku-productize-yourself-concept]] · [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-ahora-es-apalancado-vs-no-apalancado-claim]] · [[aku-formula-de-la-riqueza-e-ingreso-de-naval-method]]
