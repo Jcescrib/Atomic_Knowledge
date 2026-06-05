@@ -1,15 +1,16 @@
 ---
 type: aku
 aku_class: claim
-id: aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim
+id: aku-el-cerebro-es-una-maquina-de-prediccion-que-codifica-cues-claim
 statement: >
-  Cada acción que tomas es un voto por el tipo de persona que quieres llegar a
-  ser: ningún acto aislado transforma tus creencias, pero al acumularse los
-  votos crece la evidencia de tu nueva identidad; no necesitas unanimidad, solo
-  la mayoría, así que algún voto por un mal hábito no arruina la elección si
-  ganas la mayoría de las veces.
+  El cerebro es una máquina de predicción que, al experimentar algo
+  repetidamente, aprende a notar qué es importante, resalta las señales (cues)
+  relevantes y las cataloga para el futuro; con suficiente práctica detectas las
+  señales que predicen un resultado sin pensarlo conscientemente (la intuición
+  experta del paramédico, el analista de radar o el curador de arte), y esa
+  capacidad de notar cues es la base de todo hábito.
 origin: "James Clear — Atomic Habits (2018)"
-domain: [james-clear, habitos, identidad]
+domain: [james-clear, habitos, cue, prediccion]
 
 llm_confidence: 0.50
 
@@ -31,8 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-habits-scorecard-method
+  related: []
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -46,5 +46,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-habits-scorecard-method]]
