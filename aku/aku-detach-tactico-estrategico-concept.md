@@ -36,6 +36,7 @@ relations:
     - aku-lider-mantiene-perspectiva-estrategica-claim
     - aku-pull-off-the-firing-line-claim
     - aku-stand-back-be-the-tactical-genius-claim
+    - aku-gestionar-stress-detach-y-perspectiva-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -51,6 +52,6 @@ status_note: ""
 
 **supports** → [[aku-preguntar-por-que-method]]
 
-**related** ↔ [[aku-lider-mantiene-perspectiva-estrategica-claim]] · [[aku-pull-off-the-firing-line-claim]] · [[aku-stand-back-be-the-tactical-genius-claim]]
+**related** ↔ [[aku-lider-mantiene-perspectiva-estrategica-claim]] · [[aku-pull-off-the-firing-line-claim]] · [[aku-stand-back-be-the-tactical-genius-claim]] · [[aku-gestionar-stress-detach-y-perspectiva-method]]
 
 **supported_by** ← [[aku-detachment-default-high-port-claim]]

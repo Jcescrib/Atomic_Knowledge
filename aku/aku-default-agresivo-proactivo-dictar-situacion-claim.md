@@ -10,7 +10,7 @@ statement: >
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
 domain: [liderazgo, jocko, decision, proactividad]
 
-llm_confidence: 0.60
+llm_confidence: 0.70
 
 human_certainty:
   status: unvalidated
@@ -39,6 +39,7 @@ relations:
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
+  - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
 
 created: 2026-06-05
 updated: 2026-06-05

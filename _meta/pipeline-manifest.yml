@@ -1513,9 +1513,9 @@ sources:
     converted: 2026-06-05
     image_processing: n/a
     ingested: null   # FASE 2 en curso — field manual (batches temáticos)
-    chapters_ingested: [batch01-way-of-discipline-mind-control]
-    aku_count: 6
-    taku_count: 0
+    chapters_ingested: [batch01-way-of-discipline-mind-control, batch02-weakness-to-default-aggressive]
+    aku_count: 15
+    taku_count: 1
     last_commit: ""
     notes: >
       Libro 3 corpus Jocko (Willink, 2017). source-tag: jocko. EPUB → epub_to_md.py

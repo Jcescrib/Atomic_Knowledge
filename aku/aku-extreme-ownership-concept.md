@@ -56,6 +56,7 @@ relations:
     - aku-balance-ownership-decentralized-command-concept
     - aku-entrenamiento-desde-abajo-no-desde-arriba-claim
     - aku-solo-te-puedes-controlar-a-ti-mismo-claim
+    - aku-gestionar-stress-detach-y-perspectiva-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -74,4 +75,4 @@ status_note: ""
 
 **contradicts** ↔ [[aku-tortured-genius-concept]]
 
-**related** ↔ [[aku-balance-ownership-decentralized-command-concept]] · [[aku-entrenamiento-desde-abajo-no-desde-arriba-claim]] · [[aku-solo-te-puedes-controlar-a-ti-mismo-claim]]
+**related** ↔ [[aku-balance-ownership-decentralized-command-concept]] · [[aku-entrenamiento-desde-abajo-no-desde-arriba-claim]] · [[aku-solo-te-puedes-controlar-a-ti-mismo-claim]] · [[aku-gestionar-stress-detach-y-perspectiva-method]]

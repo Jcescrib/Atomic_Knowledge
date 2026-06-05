@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-disease-of-victory-concept
+    - aku-no-relajarse-hasta-completar-la-mision-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-confident-but-not-cocky-concept]]
 
-**related** ↔ [[aku-disease-of-victory-concept]]
+**related** ↔ [[aku-disease-of-victory-concept]] · [[aku-no-relajarse-hasta-completar-la-mision-claim]]

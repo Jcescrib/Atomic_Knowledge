@@ -26,6 +26,9 @@ relations:
   supported_by:
     - aku-no-hay-atajo-ni-hack-claim
     - aku-empezar-aqui-y-ahora-method
+    - aku-no-relajarse-hasta-completar-la-mision-claim
+    - aku-disciplina-se-extiende-a-todo-claim
+    - aku-pelear-hasta-el-final-nada-que-perder-claim
   supports:
     - aku-discipline-equals-freedom-concept
   constrained_by: []
@@ -47,7 +50,7 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-no-hay-atajo-ni-hack-claim]] · [[aku-empezar-aqui-y-ahora-method]]
+**supported_by** ← [[aku-no-hay-atajo-ni-hack-claim]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-no-relajarse-hasta-completar-la-mision-claim]] · [[aku-disciplina-se-extiende-a-todo-claim]] · [[aku-pelear-hasta-el-final-nada-que-perder-claim]]
 
 **supports** → [[aku-discipline-equals-freedom-concept]]
 

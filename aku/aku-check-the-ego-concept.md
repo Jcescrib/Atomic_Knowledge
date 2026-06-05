@@ -43,6 +43,7 @@ relations:
     - aku-humildad-asumir-errores-claim
     - aku-mejores-lideres-mision-no-ego-claim
     - aku-confident-but-not-cocky-concept
+    - aku-fortaleza-puede-ser-debilidad-y-viceversa-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -59,4 +60,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-humildad-asumir-errores-claim]] · [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-confident-but-not-cocky-concept]]
+**related** ↔ [[aku-humildad-asumir-errores-claim]] · [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-confident-but-not-cocky-concept]] · [[aku-fortaleza-puede-ser-debilidad-y-viceversa-claim]]

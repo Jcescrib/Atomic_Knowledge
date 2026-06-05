@@ -26,6 +26,7 @@ relations:
   supported_by:
     - aku-disciplina-raiz-de-toda-buena-cualidad-concept
     - aku-self-discipline-viene-de-dentro-concept
+    - aku-disciplina-se-extiende-a-todo-claim
   supports:
     - aku-dichotomy-of-leadership-concept
   constrained_by: []
@@ -54,4 +55,4 @@ status_note: ""
 
 **related** ↔ [[aku-disciplined-not-rigid-concept]] · [[aku-disciplina-da-libertad-de-maniobra-claim]]
 
-**supported_by** ← [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-self-discipline-viene-de-dentro-concept]]
+**supported_by** ← [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-disciplina-se-extiende-a-todo-claim]]

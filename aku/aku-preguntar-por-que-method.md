@@ -39,6 +39,7 @@ relations:
     - aku-feedback-hacia-arriba-cadena-claim
     - aku-subordinado-responsable-de-entender-porque-claim
     - aku-facilitar-preguntas-clarificacion-claim
+    - aku-cuestionarlo-todo-y-a-uno-mismo-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -55,4 +56,4 @@ status_note: ""
 
 **supports** → [[aku-believe-in-the-mission-concept]]
 
-**related** ↔ [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-feedback-hacia-arriba-cadena-claim]] · [[aku-subordinado-responsable-de-entender-porque-claim]] · [[aku-facilitar-preguntas-clarificacion-claim]]
+**related** ↔ [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-feedback-hacia-arriba-cadena-claim]] · [[aku-subordinado-responsable-de-entender-porque-claim]] · [[aku-facilitar-preguntas-clarificacion-claim]] · [[aku-cuestionarlo-todo-y-a-uno-mismo-method]]
