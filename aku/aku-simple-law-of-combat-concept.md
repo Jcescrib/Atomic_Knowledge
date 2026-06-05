@@ -42,6 +42,7 @@ relations:
     - aku-simple-but-not-easy-concept
     - aku-decentralized-command-concept
     - aku-planning-process-estandarizado-concept
+    - aku-disciplined-not-rigid-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -58,4 +59,4 @@ status_note: ""
 
 **supports** → [[aku-laws-of-combat-concept]]
 
-**related** ↔ [[aku-simple-but-not-easy-concept]] · [[aku-decentralized-command-concept]] · [[aku-planning-process-estandarizado-concept]]
+**related** ↔ [[aku-simple-but-not-easy-concept]] · [[aku-decentralized-command-concept]] · [[aku-planning-process-estandarizado-concept]] · [[aku-disciplined-not-rigid-concept]]

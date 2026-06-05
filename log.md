@@ -728,3 +728,7 @@ Próximo libro: **dichotomy-of-leadership** (PDF, 345 págs) — enriquecerá lo
 ### Cap 6 «Aggressive, Not Reckless» (+5 AKUs, +1 enrich)
 
 **COBERTURA**: 5 nuevos (2 concept, 3 claim) + enrich `default-agresivo-proactivo-dictar-situacion` (2ª fuente, 0.50→0.60: «Default: Aggressive» = mismo principio que EO cap11 → dedup/enrich). 1202→1207. `aggressive-not-reckless` (related valiente-no-temerario/calcular-mitigar-riesgo/default-agresivo), `disease-of-victory` (exceso de confianza tras éxitos; ↔ nunca-complacencia/confident-not-cocky), agresivo-significa-proactivo-no-iracundo (↔ calmado-no-robotico), hesitar-a-veces-es-prudente, sopesar-riesgo-recompensa-coste-inaccion (↔ calcular-mitigar-riesgo/esperar-certeza). verify_graph: 1207 AKUs, 0 errores.
+
+### Cap 7 «Disciplined, Not Rigid» (+3 AKUs, +1 enrich)
+
+**COBERTURA**: 3 nuevos (1 concept, 2 claim) + enrich `discipline-equals-freedom` (2ª fuente, 0.50→0.60). 1207→1210. `disciplined-not-rigid` (related discipline-equals-freedom/simple), disciplina-da-libertad-de-maniobra (los SOPs son una línea de la que desviarse; ↔ planning-process), exceso-de-sops-ahoga-iniciativa (↔ micromanagement-mata-iniciativa). verify_graph: 1210 AKUs, 0 errores.

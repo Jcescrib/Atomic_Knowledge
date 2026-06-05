@@ -36,6 +36,7 @@ relations:
   related:
     - aku-micromanagement-disuelve-en-caos-claim
     - aku-sintomas-de-micromanagement-method
+    - aku-exceso-de-sops-ahoga-iniciativa-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-balance-ownership-decentralized-command-concept]]
 
-**related** ↔ [[aku-micromanagement-disuelve-en-caos-claim]] · [[aku-sintomas-de-micromanagement-method]]
+**related** ↔ [[aku-micromanagement-disuelve-en-caos-claim]] · [[aku-sintomas-de-micromanagement-method]] · [[aku-exceso-de-sops-ahoga-iniciativa-claim]]
