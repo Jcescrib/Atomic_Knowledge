@@ -846,3 +846,23 @@ Creados los 6 TAKUs ejecutables flaggeados (86→92 TAKUs draft, todos `content_
 **⚠ Flagged para Joan (decisión de grafo)**: `aku-miedo-al-fracaso-paraliza-y-neutraliza-claim` (Gracie: el miedo al fracaso/atychiphobia paraliza) vs `aku-miedo-al-fracaso-es-bueno-claim` (Jocko: el miedo al fracaso es bueno, no superarlo) — tensión real. Modelado conservador como `related` (reconciliable por intensidad: moderada motiva, extrema paraliza — síntesis no textual). Candidato a `contradicts`; pendiente aprobación humana.
 
 **Fix post-ingest**: verify_graph detectó 24 asimetrías `related` (sub-AKU→principio sin el inverso principio→sub-AKU); corregidas por script en frontmatter+body de 18 ficheros. 2º pase: 1453 AKUs, 0 errores. Manifest `ingested: 2026-06-05`, last_commit 8fb09a5.
+
+---
+
+## 2026-06-05 — ★ LIBRO 6 «THE CODE. THE EVALUATION. THE PROTOCOLS» (Jocko Willink, Dave Berke & Sarah Armstrong, 2020) COMPLETO
+
+**Corpus Jocko, Libro 6 — CIERRA EL CORPUS JOCKO (libros 1-6). EPUB → epub_to_md.py. +20 AKUs (1453→1473) + 12 TAKUs. Granularidad máxima, paso de cobertura por sección, commit+push por sección, verify_graph 0 errores.**
+
+**IMÁGENES**: 8 archivos, 7 referenciados. 00001/calibre_cover decorativos. **00002-00007 = 6 rúbricas informacionales de The Evaluation** (escala 0/1/2-4/5 por atributo, una por pilar: Health, Personal Development, Professional Development, Character/Leadership, Relationship, Preparedness/Safety) → 6 blockquotes `> **Figura**:` de alta fidelidad (commit 52c233e, sesión previa).
+
+**S1 — THE CODE** (commit d4404b5): 3 concept (the-code = código de 10 compromisos; the-path = camino disciplina→libertad; eminently-qualified-human = la meta) + 1 claim (pequenas-elecciones-diarias-construyen-todo) + TAKU heuristic el-codigo-10-compromisos. Dedup mismo-autor (+source, sin bump): empezar-aqui-y-ahora-method, disciplina-se-extiende-a-todo.
+
+**S2 — THE EVALUATION** (commit 2344f4d): the-evaluation-concept (framework) + 6 pilares-concept (todos `supports`→the-evaluation) + evaluation-scoring-0-5-method (`supported_by`←the-evaluation) + 4 claims (eqh-no-es-estado-sino-camino-sin-fin, autoevaluacion-honesta-you-vs-you, mejorar-mas-dificil-al-crecer-capacidad, tiempo-recurso-mas-valioso-y-limitado) + TAKU framework la-evaluacion-eqh. Dedup mismo-autor (+source): humildad-cualidad-mas-importante, ego-nubla-todo, no-sobrerreaccionar, power-of-relationships, ego-impide-evaluacion-honesta. Related a autoevaluacion-cuerpo-mente-alma (Power MBA, framework distinto, no merge).
+
+**S3 — THE PROTOCOLS** (commit d4bb6af): 4 AKUs (caer-del-path-es-inevitable-lo-decisivo-es-volver, paso-pequeno-reevaluar-ante-incertidumbre [method], buscar-ayuda-profesional-sin-que-el-ego-lo-impida, tras-el-exito-agradecer-tomar-stock-ir-mas-duro) + **10 TAKUs protocol** (ruptura, duelo-muerte, problemas-de-dinero, traicion-confianza, problemas-en-el-trabajo, disculpa, accidente-enfermedad, adiccion, trauma, lo-desconocido). justified_by mezcla nuevos + corpus Jocko existente (detach-tactico, prioritize-and-execute, the-warpath, extreme-ownership, good-mindset, incluso-en-la-muerte-hay-good, humildad-asumir-errores, no-sobrerreaccionar). Dedup (+source): good-mindset-concept.
+
+**Regla de independencia aplicada**: The Code destila/sintetiza el sistema Jocko ya ingestado (libros 1-5). Al ser **mismo autor**, los restatements NO suben llm_confidence; se documentan como fuente adicional + se enlazan (related), nunca se recrean. Items NUEVOS y propios del libro (The Code, The Path, EQH, The Evaluation + 6 pilares + scoring method, claims de camino-sin-fin/honestidad/capacidad/tiempo, los 10 protocolos) creados con granularidad máxima.
+
+**2º pase de verificación**: verify_graph.py 1473 AKUs / 0 errores (simetría, body-drift, targets OK); todos los justified_by de los 12 TAKUs resuelven a AKUs reales; 8 headers por protocol TAKU presentes. Manifest `ingested: 2026-06-05`, chapters_ingested [s1-the-code, s2-the-evaluation, s3-the-protocols], last_commit d4bb6af.
+
+**Nota de concurrencia**: una sesión previa hizo una parada ordenada tras completar Libro 5 + image-processing de Libro 6 (commits 52c233e/7af4cdd); esta sesión retomó desde ahí la FASE 2 (ingesta de AKUs/TAKUs) sin colisión.

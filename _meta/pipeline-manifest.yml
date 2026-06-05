@@ -1585,29 +1585,35 @@ sources:
     converter: ebooklib
     converted: 2026-06-05
     image_processing: 2026-06-05
-    ingested: null   # FASE 2 ingesta AKU/TAKU NO INICIADA (parada ordenada por el usuario)
-    chapters_ingested: []
-    aku_count: 0
-    taku_count: 0
-    last_commit: "52c233e"
+    ingested: 2026-06-05
+    chapters_ingested: [s1-the-code, s2-the-evaluation, s3-the-protocols]
+    aku_count: 20
+    taku_count: 12
+    last_commit: "d4bb6af"
     notes: >
-      Libro 6 corpus Jocko (Willink, Berke & Armstrong, 2020). source-tag: jocko.
+      Libro 6 corpus Jocko (Willink, Berke & Armstrong, 2020) COMPLETO. source-tag: jocko.
       EPUB → epub_to_md.py. The Code / The Evaluation / The Protocols para ser un
-      "Eminently Qualified Human". **ESTADO (2026-06-05): IMAGE PROCESSING COMPLETADO,
-      INGESTA NO INICIADA.** Imágenes: 8 archivos, 7 referenciados. 00001+calibre_cover
-      = cover decorativo. 00002-00007 = **6 rúbricas informacionales de The Evaluation**
-      (escala 0/1/2-4/5 por atributo) → 6 blockquotes `> **Figura**:` de alta fidelidad
-      insertados (commit 52c233e). PENDIENTE FASE 2 (otra sesión): crear AKUs/TAKUs.
-      Estructura del libro: Sección 1 The Code (código de 10 puntos + The Path + Eminently
-      Qualified Human), Sección 2 The Evaluation (taxonomía 6 categorías: Health, Personal
-      Development, Professional Development, Character/Leadership, Relationship,
-      Preparedness/Safety + filosofía de scoring capacity-vs-performance), Sección 3 The
-      Protocols (10 protocolos de recuperación: Breakup, Death, Money problems, Betrayal,
-      Problems at work, Apology, Accident/Illness, Addiction, Trauma, The Unknown + manejo
-      del éxito). Dedup pendiente: muchos conceptos destilan el corpus Jocko ya ingestado
-      (discipline-equals-freedom, humildad-es-la-cualidad-mas-importante, empezar-aqui-y-
-      ahora, dictar-la-situacion, prioritize-and-execute, detach) → enlazar/2ª fuente, no
-      recrear. Items NUEVOS distintivos a crear: The Code (concept+TAKU), Eminently
-      Qualified Human (concept), The Evaluation (concept scoring + framework TAKU),
-      ganancias-decaen-no-hay-fin, mejorar-se-vuelve-mas-dificil-con-capacidad,
-      Unmitigated-Daily-Discipline-in-all-things, + 10-11 protocol TAKUs.
+      "Eminently Qualified Human". 20 AKUs nuevos + 12 TAKUs, commit por sección.
+      IMÁGENES: 00002-00007 = 6 rúbricas informacionales de The Evaluation (escala
+      0/1/2-4/5 por atributo) → 6 blockquotes `> **Figura**:` (commit 52c233e); resto
+      decorativo. **S1 THE CODE** (commit d4404b5): the-code-concept, the-path-concept,
+      eminently-qualified-human-concept, pequenas-elecciones-diarias-construyen-todo +
+      taku heuristic el-codigo-10-compromisos; dedup enrich (mismo autor, sin bump):
+      empezar-aqui-y-ahora, disciplina-se-extiende-a-todo. **S2 THE EVALUATION**
+      (commit 2344f4d): the-evaluation-concept + 6 pilares-concept (health, personal/
+      professional-development, character-leadership, relationship, preparedness-safety,
+      todos supports→the-evaluation) + evaluation-scoring-0-5-method + 4 claims
+      (eqh-no-es-estado-sino-camino-sin-fin, autoevaluacion-honesta-you-vs-you,
+      mejorar-mas-dificil-al-crecer-capacidad, tiempo-recurso-mas-valioso-y-limitado) +
+      taku framework la-evaluacion-eqh; dedup enrich: humildad-cualidad-mas-importante,
+      ego-nubla-todo, no-sobrerreaccionar, power-of-relationships, ego-impide-evaluacion-
+      honesta; related a autoevaluacion-cuerpo-mente-alma (Power MBA, distinto). **S3 THE
+      PROTOCOLS** (commit d4bb6af): caer-del-path-es-inevitable-lo-decisivo-es-volver,
+      paso-pequeno-reevaluar-ante-incertidumbre (method), buscar-ayuda-profesional-sin-
+      que-el-ego-lo-impida, tras-el-exito-agradecer-tomar-stock-ir-mas-duro + 10 TAKUs
+      protocol (ruptura, duelo-muerte, problemas-de-dinero, traicion-confianza, problemas-
+      en-el-trabajo, disculpa, accidente-enfermedad, adiccion, trauma, lo-desconocido)
+      justified_by mezcla nuevos + corpus Jocko existente (detach-tactico, prioritize-and-
+      execute, the-warpath, extreme-ownership, good-mindset, incluso-en-la-muerte-hay-good,
+      humildad-asumir-errores). INTEGRATE 5.5 aplicado por sección. Segundo pase:
+      verify_graph.py 0 errores; todos los justified_by de TAKU resuelven a AKUs reales.
