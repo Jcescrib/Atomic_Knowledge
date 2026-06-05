@@ -39,6 +39,7 @@ relations:
     - aku-palanca-vence-fuerza-claim
     - aku-todo-problema-es-tecnica-por-descubrir-claim
     - aku-connection-principle-concept
+    - aku-sinergia-principios-se-combinan-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -55,4 +56,4 @@ status_note: ""
 
 **supported_by** ← [[aku-principios-jiu-jitsu-forma-de-pensar-transferible-claim]]
 
-**related** ↔ [[aku-eficiencia-apex-timing-control-macro-concept]] · [[aku-palanca-vence-fuerza-claim]] · [[aku-todo-problema-es-tecnica-por-descubrir-claim]] · [[aku-connection-principle-concept]]
+**related** ↔ [[aku-eficiencia-apex-timing-control-macro-concept]] · [[aku-palanca-vence-fuerza-claim]] · [[aku-todo-problema-es-tecnica-por-descubrir-claim]] · [[aku-connection-principle-concept]] · [[aku-sinergia-principios-se-combinan-concept]]

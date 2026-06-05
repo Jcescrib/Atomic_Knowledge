@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-todo-problema-es-tecnica-por-descubrir-claim
+    - aku-sinergia-principios-se-combinan-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supported_by** ← [[aku-32-principios-jiu-jitsu-concept]]
 
-**related** ↔ [[aku-todo-problema-es-tecnica-por-descubrir-claim]]
+**related** ↔ [[aku-todo-problema-es-tecnica-por-descubrir-claim]] · [[aku-sinergia-principios-se-combinan-concept]]
