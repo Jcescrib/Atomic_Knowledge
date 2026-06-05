@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim
+    - aku-memoria-e-identidad-son-cargas-del-pasado-que-impiden-vivir-el-presente-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +48,4 @@ status_note: ""
 
 <!-- sin relaciones -->
 
-**related** ↔ [[aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim]]
+**related** ↔ [[aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim]] · [[aku-memoria-e-identidad-son-cargas-del-pasado-que-impiden-vivir-el-presente-claim]]

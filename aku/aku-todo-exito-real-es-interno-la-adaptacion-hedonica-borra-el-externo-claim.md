@@ -1,14 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim
+id: aku-todo-exito-real-es-interno-la-adaptacion-hedonica-borra-el-externo-claim
 statement: >
-  Los ganadores de cualquier juego son las personas tan adictas que siguen
-  jugando incluso cuando la utilidad marginal de ganar decae: la victoria
-  sostenida nace de una adicción al propio juego, no de un cálculo racional de
-  beneficios.
+  Todo éxito real es interno y tiene poco que ver con las circunstancias
+  externas: por la adaptación hedónica te acostumbras rápidamente a cualquier
+  logro, y quienes alcanzan los éxitos materiales y sociales que perseguías no
+  parecen más felices, lo que revela que la felicidad es interna.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, psicologia, motivacion]
+domain: [felicidad, naval, exito, adaptacion-hedonica]
 
 llm_confidence: 0.50
 
@@ -30,8 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,5 +44,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim]]

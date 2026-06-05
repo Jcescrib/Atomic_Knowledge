@@ -1,14 +1,15 @@
 ---
 type: aku
-aku_class: claim
-id: aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim
+aku_class: concept
+id: aku-trifecta-tiempo-salud-dinero-segun-la-edad-concept
 statement: >
-  Los ganadores de cualquier juego son las personas tan adictas que siguen
-  jugando incluso cuando la utilidad marginal de ganar decae: la victoria
-  sostenida nace de una adicción al propio juego, no de un cálculo racional de
-  beneficios.
+  Existe una trifecta de tiempo, salud y dinero que la edad reparte de forma
+  incompleta: de joven tienes tiempo y salud pero no dinero; de mediana edad,
+  dinero y salud pero no tiempo; de viejo, dinero y tiempo pero no salud;
+  implica que el reto vital es tener los tres a la vez antes de que, al darte
+  cuenta de que tienes suficiente dinero, hayas perdido tiempo y salud.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, psicologia, motivacion]
+domain: [felicidad, naval, tiempo, salud]
 
 llm_confidence: 0.50
 
@@ -30,8 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,5 +45,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim]]

@@ -1,14 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim
+id: aku-memoria-e-identidad-son-cargas-del-pasado-que-impiden-vivir-el-presente-claim
 statement: >
-  Los ganadores de cualquier juego son las personas tan adictas que siguen
-  jugando incluso cuando la utilidad marginal de ganar decae: la victoria
-  sostenida nace de una adicción al propio juego, no de un cálculo racional de
-  beneficios.
+  La memoria y la identidad son cargas del pasado que te impiden vivir
+  libremente en el presente: aceptamos la voz de nuestra cabeza como fuente de
+  toda verdad y nos aceptamos tal como fuimos programados de jóvenes, cuando
+  todo es maleable y cada día es nuevo.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, psicologia, motivacion]
+domain: [felicidad, naval, identidad, presente]
 
 llm_confidence: 0.50
 
@@ -31,7 +31,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim
+    - aku-el-ego-se-construye-en-las-primeras-dos-decadas-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,6 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim]]
+**related** ↔ [[aku-el-ego-se-construye-en-las-primeras-dos-decadas-concept]]

@@ -1,14 +1,14 @@
 ---
 type: aku
-aku_class: claim
-id: aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim
+aku_class: concept
+id: aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept
 statement: >
-  Los ganadores de cualquier juego son las personas tan adictas que siguen
-  jugando incluso cuando la utilidad marginal de ganar decae: la victoria
-  sostenida nace de una adicción al propio juego, no de un cálculo racional de
-  beneficios.
+  El deseo es un contrato que haces contigo mismo para ser infeliz hasta que
+  consigues lo que quieres; incluye ser el eje de tu sufrimiento (el área donde
+  has elegido ser infeliz); excluye la acción sana de autorrealizarte; implica
+  elegir los deseos con mucho cuidado y no tener más de un gran deseo a la vez.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, psicologia, motivacion]
+domain: [felicidad, naval, deseo, sufrimiento]
 
 llm_confidence: 0.50
 
@@ -31,7 +31,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim
+    - aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,6 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim]]
+**related** ↔ [[aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim]]

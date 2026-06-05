@@ -1,14 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim
+id: aku-ten-un-solo-gran-deseo-a-la-vez-y-perfecciona-tus-deseos-claim
 statement: >
-  Los ganadores de cualquier juego son las personas tan adictas que siguen
-  jugando incluso cuando la utilidad marginal de ganar decae: la victoria
-  sostenida nace de una adicción al propio juego, no de un cálculo racional de
-  beneficios.
+  Es más importante perfeccionar tus deseos que esforzarte en algo que no deseas
+  al 100%: conviene tener un solo gran deseo a la vez, porque al hacer más
+  (sobre todo de joven y sano) asumes más y más deseos que, sin darte cuenta,
+  van destruyendo tu felicidad.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, psicologia, motivacion]
+domain: [felicidad, naval, deseo, foco]
 
 llm_confidence: 0.50
 
@@ -30,8 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,5 +44,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim]]

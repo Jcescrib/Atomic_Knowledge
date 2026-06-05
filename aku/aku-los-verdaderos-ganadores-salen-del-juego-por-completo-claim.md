@@ -1,14 +1,15 @@
 ---
 type: aku
 aku_class: claim
-id: aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim
+id: aku-los-verdaderos-ganadores-salen-del-juego-por-completo-claim
 statement: >
-  Los ganadores de cualquier juego son las personas tan adictas que siguen
-  jugando incluso cuando la utilidad marginal de ganar decae: la victoria
-  sostenida nace de una adicción al propio juego, no de un cálculo racional de
-  beneficios.
+  Los verdaderos ganadores son los que se salen del juego por completo, los que
+  no necesitan nada de nadie y están en paz, sanos e indiferentes a ganar más o
+  menos que el vecino (Jerzy Gregorek, Buda, Krishnamurti); como dijo Pascal,
+  todos los males del hombre vienen de no poder sentarse solo y en silencio en
+  una habitación: si puedes sentarte treinta minutos y ser feliz, tienes éxito.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, psicologia, motivacion]
+domain: [felicidad, naval, exito, paz]
 
 llm_confidence: 0.50
 
@@ -30,8 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,5 +45,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim]]

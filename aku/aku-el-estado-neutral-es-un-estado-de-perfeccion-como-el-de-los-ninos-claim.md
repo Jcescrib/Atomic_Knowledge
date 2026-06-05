@@ -1,14 +1,15 @@
 ---
 type: aku
 aku_class: claim
-id: aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim
+id: aku-el-estado-neutral-es-un-estado-de-perfeccion-como-el-de-los-ninos-claim
 statement: >
-  Los ganadores de cualquier juego son las personas tan adictas que siguen
-  jugando incluso cuando la utilidad marginal de ganar decae: la victoria
-  sostenida nace de una adicción al propio juego, no de un cálculo racional de
-  beneficios.
+  El estado neutral que queda al eliminar la sensación de que falta algo no es
+  soso sino un estado de perfección: es el que viven los niños pequeños,
+  inmersos en el entorno y el momento sin pensar en cómo deberían ser las cosas
+  según sus preferencias; se puede ser muy feliz mientras no te enredes
+  demasiado en tu propia cabeza.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, psicologia, motivacion]
+domain: [felicidad, naval, presente]
 
 llm_confidence: 0.50
 
@@ -31,7 +32,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim
+    - aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,6 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim]]
+**related** ↔ [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]]

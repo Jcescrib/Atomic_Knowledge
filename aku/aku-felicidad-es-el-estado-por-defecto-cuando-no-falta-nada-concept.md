@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-la-felicidad-es-una-habilidad-que-se-aprende-concept
+    - aku-el-estado-neutral-es-un-estado-de-perfeccion-como-el-de-los-ninos-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]]
+**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-el-estado-neutral-es-un-estado-de-perfeccion-como-el-de-los-ninos-claim]]
