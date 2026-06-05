@@ -1,13 +1,13 @@
 ---
 type: aku
 aku_class: claim
-id: aku-elige-socios-con-integridad-sobre-todo-claim
+id: aku-tener-un-hijo-responde-a-la-pregunta-del-sentido-de-la-vida-claim
 statement: >
-  Elige socios de negocio con alta inteligencia, energía y, por encima de todo,
-  integridad: sin integridad, la inteligencia y la energía se vuelven en tu
-  contra.
+  Tener un hijo responde, de golpe, a la pregunta del sentido de la vida: lo más
+  importante del universo se traslada de tu cuerpo al del hijo, lo que te cambia
+  y vuelve tus valores mucho menos egoístas.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, socios, integridad]
+domain: [naval, sentido-de-la-vida, familia]
 
 llm_confidence: 0.50
 
@@ -29,8 +29,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,5 +43,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]]

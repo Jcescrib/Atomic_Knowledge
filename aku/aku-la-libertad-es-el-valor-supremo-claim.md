@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-el-dinero-resuelve-problemas-de-dinero-no-te-hace-feliz-claim
+    - aku-freedom-from-vs-freedom-to-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +47,4 @@ status_note: ""
 
 <!-- sin relaciones -->
 
-**related** ↔ [[aku-el-dinero-resuelve-problemas-de-dinero-no-te-hace-feliz-claim]]
+**related** ↔ [[aku-el-dinero-resuelve-problemas-de-dinero-no-te-hace-feliz-claim]] · [[aku-freedom-from-vs-freedom-to-concept]]

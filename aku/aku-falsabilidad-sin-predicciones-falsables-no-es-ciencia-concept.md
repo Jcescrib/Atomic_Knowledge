@@ -34,6 +34,7 @@ relations:
   related:
     - aku-modelos-mentales-concept
     - aku-ciencia-es-el-estudio-de-la-verdad-y-las-matematicas-su-lenguaje-concept
+    - aku-rational-buddhism-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelos-mentales-concept]] · [[aku-ciencia-es-el-estudio-de-la-verdad-y-las-matematicas-su-lenguaje-concept]]
+**related** ↔ [[aku-modelos-mentales-concept]] · [[aku-ciencia-es-el-estudio-de-la-verdad-y-las-matematicas-su-lenguaje-concept]] · [[aku-rational-buddhism-concept]]

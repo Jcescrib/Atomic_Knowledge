@@ -30,7 +30,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-vivir-muy-por-debajo-de-tus-medios-da-una-libertad-inimaginable-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,3 +45,5 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
+
+**related** ↔ [[aku-vivir-muy-por-debajo-de-tus-medios-da-una-libertad-inimaginable-claim]]

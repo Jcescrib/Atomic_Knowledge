@@ -1,13 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-elige-socios-con-integridad-sobre-todo-claim
+id: aku-no-eres-responsable-de-la-felicidad-de-otros-valora-tu-tiempo-claim
 statement: >
-  Elige socios de negocio con alta inteligencia, energía y, por encima de todo,
-  integridad: sin integridad, la inteligencia y la energía se vuelven en tu
-  contra.
+  Tu tiempo es todo lo que tienes —más importante que el dinero o los amigos—
+  así que no lo malgastes haciendo felices a otros: la felicidad de los demás es
+  su problema; si tú eres feliz, eso ya hace felices a los demás y podrán
+  aprender de ti, pero no eres responsable de su felicidad.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, socios, integridad]
+domain: [naval, tiempo, responsabilidad]
 
 llm_confidence: 0.50
 
@@ -30,7 +31,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim
+    - aku-tiempo-recurso-mas-valioso-y-limitado-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,6 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]]
+**related** ↔ [[aku-tiempo-recurso-mas-valioso-y-limitado-claim]]

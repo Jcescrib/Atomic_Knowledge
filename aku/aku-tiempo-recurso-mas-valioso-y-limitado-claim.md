@@ -34,6 +34,7 @@ relations:
   related:
     - aku-the-path-concept
     - aku-evaluation-personal-development-concept
+    - aku-no-eres-responsable-de-la-felicidad-de-otros-valora-tu-tiempo-claim
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-the-path-concept]] · [[aku-evaluation-personal-development-concept]]
+**related** ↔ [[aku-the-path-concept]] · [[aku-evaluation-personal-development-concept]] · [[aku-no-eres-responsable-de-la-felicidad-de-otros-valora-tu-tiempo-claim]]

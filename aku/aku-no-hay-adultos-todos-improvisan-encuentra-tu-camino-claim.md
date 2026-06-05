@@ -1,13 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-elige-socios-con-integridad-sobre-todo-claim
+id: aku-no-hay-adultos-todos-improvisan-encuentra-tu-camino-claim
 statement: >
-  Elige socios de negocio con alta inteligencia, energía y, por encima de todo,
-  integridad: sin integridad, la inteligencia y la energía se vuelven en tu
-  contra.
+  Conviene ser consciente de que no hay «adultos»: todo el mundo improvisa sobre
+  la marcha, así que tienes que encontrar tu propio camino —eligiendo,
+  escogiendo y descartando como veas— en lugar de esperar que alguien con
+  autoridad te diga cómo se hace.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, socios, integridad]
+domain: [naval, autonomia, vida]
 
 llm_confidence: 0.50
 
@@ -29,8 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,5 +44,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]]

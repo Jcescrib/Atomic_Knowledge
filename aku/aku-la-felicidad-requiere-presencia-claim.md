@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept
+    - aku-el-presente-es-todo-lo-que-hay-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +48,4 @@ status_note: ""
 
 <!-- sin relaciones -->
 
-**related** ↔ [[aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept]]
+**related** ↔ [[aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept]] · [[aku-el-presente-es-todo-lo-que-hay-concept]]

@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-judgment-naval-concept
+    - aku-la-sabiduria-es-descartar-vicios-y-volver-a-la-virtud-via-conocimiento-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-judgment-naval-concept]]
+**related** ↔ [[aku-judgment-naval-concept]] · [[aku-la-sabiduria-es-descartar-vicios-y-volver-a-la-virtud-via-conocimiento-claim]]

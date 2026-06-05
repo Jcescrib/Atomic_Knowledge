@@ -35,6 +35,7 @@ relations:
   contradicts: []
   related:
     - aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim
+    - aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim]]
+**related** ↔ [[aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim]] · [[aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept]]

@@ -1,13 +1,13 @@
 ---
 type: aku
 aku_class: claim
-id: aku-elige-socios-con-integridad-sobre-todo-claim
+id: aku-las-expectativas-ajenas-sobre-ti-son-su-problema-no-el-tuyo-claim
 statement: >
-  Elige socios de negocio con alta inteligencia, energía y, por encima de todo,
-  integridad: sin integridad, la inteligencia y la energía se vuelven en tu
-  contra.
+  Si hieres a otros porque tenían expectativas sobre ti, ese es su problema, no
+  el tuyo (un acuerdo sí sería tu problema, pero una expectativa no): la gente
+  tendrá muchas expectativas en la vida, y cuanto antes las desmontes, mejor.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, socios, integridad]
+domain: [naval, expectativas, libertad]
 
 llm_confidence: 0.50
 
@@ -29,8 +29,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,5 +43,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]]

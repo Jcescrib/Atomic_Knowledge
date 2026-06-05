@@ -1,13 +1,15 @@
 ---
 type: aku
-aku_class: claim
-id: aku-elige-socios-con-integridad-sobre-todo-claim
+aku_class: concept
+id: aku-freedom-from-vs-freedom-to-concept
 statement: >
-  Elige socios de negocio con alta inteligencia, energía y, por encima de todo,
-  integridad: sin integridad, la inteligencia y la energía se vuelven en tu
-  contra.
+  La libertad tiene dos formas: «freedom to» (libertad para hacer cualquier
+  cosa, cuando quieras) y «freedom from» (libertad interna: de la reacción, de
+  la ira, de la tristeza, de verse forzado); incluye que la madurez desplaza el
+  valor de la primera a la segunda; implica que la libertad más profunda es
+  interna, no la mera ausencia de restricciones externas.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, socios, integridad]
+domain: [naval, libertad, madurez]
 
 llm_confidence: 0.50
 
@@ -30,7 +32,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim
+    - aku-la-libertad-es-el-valor-supremo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,6 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]]
+**related** ↔ [[aku-la-libertad-es-el-valor-supremo-claim]]

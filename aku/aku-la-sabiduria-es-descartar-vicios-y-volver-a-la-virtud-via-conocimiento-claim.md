@@ -1,13 +1,13 @@
 ---
 type: aku
 aku_class: claim
-id: aku-elige-socios-con-integridad-sobre-todo-claim
+id: aku-la-sabiduria-es-descartar-vicios-y-volver-a-la-virtud-via-conocimiento-claim
 statement: >
-  Elige socios de negocio con alta inteligencia, energía y, por encima de todo,
-  integridad: sin integridad, la inteligencia y la energía se vuelven en tu
-  contra.
+  Todos empiezan inocentes y todos se corrompen; la sabiduría es el descarte de
+  los vicios y el retorno a la virtud por la vía del conocimiento, entendiendo
+  las consecuencias a largo plazo de los propios actos.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, socios, integridad]
+domain: [naval, sabiduria, virtud]
 
 llm_confidence: 0.50
 
@@ -30,7 +30,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim
+    - aku-sabiduria-es-conocer-consecuencias-a-largo-plazo-juicio-es-aplicarla-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,6 +43,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]]
+**related** ↔ [[aku-sabiduria-es-conocer-consecuencias-a-largo-plazo-juicio-es-aplicarla-concept]]

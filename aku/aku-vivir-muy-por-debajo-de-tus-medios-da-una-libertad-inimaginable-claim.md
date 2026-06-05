@@ -1,13 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-elige-socios-con-integridad-sobre-todo-claim
+id: aku-vivir-muy-por-debajo-de-tus-medios-da-una-libertad-inimaginable-claim
 statement: >
-  Elige socios de negocio con alta inteligencia, energía y, por encima de todo,
-  integridad: sin integridad, la inteligencia y la energía se vuelven en tu
-  contra.
+  Quien vive muy por debajo de sus medios disfruta de una libertad que quienes
+  están ocupados mejorando su tren de vida no pueden ni concebir; una vez
+  controlas tu propio destino, ya no dejas que nadie te diga qué hacer, y un
+  poco de libertad puede volverte ininempleable.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, socios, integridad]
+domain: [naval, libertad, dinero]
 
 llm_confidence: 0.50
 
@@ -30,7 +31,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim
+    - aku-no-subas-tu-tren-de-vida-al-ganar-mas-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,6 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]]
+**related** ↔ [[aku-no-subas-tu-tren-de-vida-al-ganar-mas-claim]]

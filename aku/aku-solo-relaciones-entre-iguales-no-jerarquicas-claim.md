@@ -1,13 +1,13 @@
 ---
 type: aku
 aku_class: claim
-id: aku-elige-socios-con-integridad-sobre-todo-claim
+id: aku-solo-relaciones-entre-iguales-no-jerarquicas-claim
 statement: >
-  Elige socios de negocio con alta inteligencia, energía y, por encima de todo,
-  integridad: sin integridad, la inteligencia y la energía se vuelven en tu
-  contra.
+  Naval solo cree en relaciones entre iguales, no jerárquicas: no quiere estar
+  por encima ni por debajo de nadie, y si no puede tratar a alguien como par ni
+  ser tratado como tal, prefiere no interactuar.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, socios, integridad]
+domain: [naval, relaciones, valores]
 
 llm_confidence: 0.50
 
@@ -29,8 +29,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,5 +43,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]]

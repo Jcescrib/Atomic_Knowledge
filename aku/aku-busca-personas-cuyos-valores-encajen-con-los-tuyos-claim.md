@@ -1,13 +1,15 @@
 ---
 type: aku
 aku_class: claim
-id: aku-elige-socios-con-integridad-sobre-todo-claim
+id: aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim
 statement: >
-  Elige socios de negocio con alta inteligencia, energía y, por encima de todo,
-  integridad: sin integridad, la inteligencia y la energía se vuelven en tu
-  contra.
+  Gran parte de encontrar grandes relaciones, socios o pareja es hallar personas
+  cuyos valores encajen con los tuyos: si los valores coinciden, las pequeñas
+  cosas no importan, y casi todas las peleas vienen de valores que no se
+  alinean; como dice Munger, «para encontrar una pareja digna, sé digno de una
+  pareja digna».
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, socios, integridad]
+domain: [naval, valores, relaciones]
 
 llm_confidence: 0.50
 
@@ -30,7 +32,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim
+    - aku-elige-socios-con-integridad-sobre-todo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,6 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]]
+**related** ↔ [[aku-elige-socios-con-integridad-sobre-todo-claim]]

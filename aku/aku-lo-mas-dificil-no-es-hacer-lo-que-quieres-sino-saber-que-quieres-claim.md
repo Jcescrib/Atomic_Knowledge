@@ -1,13 +1,13 @@
 ---
 type: aku
 aku_class: claim
-id: aku-elige-socios-con-integridad-sobre-todo-claim
+id: aku-lo-mas-dificil-no-es-hacer-lo-que-quieres-sino-saber-que-quieres-claim
 statement: >
-  Elige socios de negocio con alta inteligencia, energía y, por encima de todo,
-  integridad: sin integridad, la inteligencia y la energía se vuelven en tu
-  contra.
+  Lo más difícil no es hacer lo que quieres, sino saber qué quieres: una vez
+  tienes claro el deseo, la ejecución es lo de menos; la verdadera dificultad es
+  la claridad sobre el objetivo.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, socios, integridad]
+domain: [naval, deseo, claridad]
 
 llm_confidence: 0.50
 
@@ -29,8 +29,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,5 +43,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]]
