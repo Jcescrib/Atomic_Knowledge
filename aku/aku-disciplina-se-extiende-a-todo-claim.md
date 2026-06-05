@@ -34,7 +34,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-comida-basura-es-veneno-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -48,3 +49,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-discipline-equals-freedom-concept]]
+
+**related** ↔ [[aku-comida-basura-es-veneno-claim]]

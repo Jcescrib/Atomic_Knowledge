@@ -31,7 +31,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-mantener-objetivo-largo-plazo-a-la-vista-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,3 +46,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-no-bad-teams-only-bad-leaders-concept]]
+
+**related** ↔ [[aku-mantener-objetivo-largo-plazo-a-la-vista-claim]]

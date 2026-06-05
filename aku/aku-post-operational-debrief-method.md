@@ -36,6 +36,7 @@ relations:
   related:
     - aku-lideres-nunca-satisfechos-mejora-continua-claim
     - aku-analisis-constante-medir-efectividad-claim
+    - aku-regret-solo-vale-por-la-leccion-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-planning-process-estandarizado-concept]]
 
-**related** ↔ [[aku-lideres-nunca-satisfechos-mejora-continua-claim]] · [[aku-analisis-constante-medir-efectividad-claim]]
+**related** ↔ [[aku-lideres-nunca-satisfechos-mejora-continua-claim]] · [[aku-analisis-constante-medir-efectividad-claim]] · [[aku-regret-solo-vale-por-la-leccion-claim]]

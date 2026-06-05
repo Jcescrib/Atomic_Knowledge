@@ -1,14 +1,15 @@
 ---
 type: aku
-aku_class: method
-id: aku-empezar-aqui-y-ahora-method
+aku_class: claim
+id: aku-not-feeling-it-go-anyway-claim
 statement: >
-  Para vencer la procrastinación y la pereza, el momento y el lugar de empezar
-  son AQUÍ y AHORA: la idea no se ejecuta sola, el libro no se escribe solo, los
-  pesos no se mueven solos; deja de pensar, soñar, investigar y debatir, y
-  empieza a hacerlo —da el primer paso y hazlo realidad—.
+  En los días en que «no lo sientes» (cansado, harto del grind), ve igualmente y
+  hazlo, aunque sea yendo por inercia (go through the motions); el deseo de
+  descansar suele ser debilidad y camino de menor resistencia; procrastina solo
+  una cosa —el descanso—: déjalo para mañana, y lo más probable es que mañana no
+  lo necesites.
 origin: "Jocko Willink, Discipline Equals Freedom: Field Manual (2017)"
-domain: [liderazgo, jocko, disciplina, procrastinacion, accion]
+domain: [liderazgo, jocko, disciplina, consistencia]
 
 llm_confidence: 0.50
 
@@ -32,8 +33,8 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-default-agresivo-proactivo-dictar-situacion-claim
-    - aku-not-feeling-it-go-anyway-claim
+    - aku-camino-de-menor-resistencia-claim
+    - aku-empezar-aqui-y-ahora-method
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]]
 
-**related** ↔ [[aku-default-agresivo-proactivo-dictar-situacion-claim]] · [[aku-not-feeling-it-go-anyway-claim]]
+**related** ↔ [[aku-camino-de-menor-resistencia-claim]] · [[aku-empezar-aqui-y-ahora-method]]

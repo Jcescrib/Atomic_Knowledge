@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-decisively-engaged-concept
+    - aku-mantener-objetivo-largo-plazo-a-la-vista-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-prioritize-and-execute-concept]]
 
-**related** ↔ [[aku-decisively-engaged-concept]]
+**related** ↔ [[aku-decisively-engaged-concept]] · [[aku-mantener-objetivo-largo-plazo-a-la-vista-claim]]

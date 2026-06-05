@@ -35,6 +35,7 @@ relations:
   related:
     - aku-disciplina-raiz-de-toda-buena-cualidad-concept
     - aku-compromiso-externo-si-interno-no-concept
+    - aku-eleccion-vence-naturaleza-y-crianza-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-discipline-equals-freedom-concept]]
 
-**related** ↔ [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-compromiso-externo-si-interno-no-concept]]
+**related** ↔ [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-compromiso-externo-si-interno-no-concept]] · [[aku-eleccion-vence-naturaleza-y-crianza-claim]]

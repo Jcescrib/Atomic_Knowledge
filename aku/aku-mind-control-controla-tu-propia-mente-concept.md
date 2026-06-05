@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-solo-te-puedes-controlar-a-ti-mismo-claim
+    - aku-comida-basura-es-veneno-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-solo-te-puedes-controlar-a-ti-mismo-claim]]
+**related** ↔ [[aku-solo-te-puedes-controlar-a-ti-mismo-claim]] · [[aku-comida-basura-es-veneno-claim]]
