@@ -774,3 +774,7 @@ Creados los 6 TAKUs ejecutables flaggeados (86→92 TAKUs draft, todos `content_
 ### Batch 3 «Nature vs Nurture → Focus» (+8 AKUs, +1 TAKU)
 
 **COBERTURA**: 8 nuevos (1 concept, 7 claim) + TAKU `ir-igualmente` (heuristic). 1233→1241. `the-warpath` (la senda de guerra contra las propias debilidades → libertad). Claims: eleccion-vence-naturaleza-y-crianza (↔ extreme-ownership), miedo-al-fracaso-es-bueno (↔ contingency-planning), comida-basura-es-veneno, instinto-de-rendirse-es-mentiroso (↔ destroyer-mode), not-feeling-it-go-anyway (↔ camino-menor-resistencia/empezar-aqui-ahora), regret-solo-vale-por-la-leccion (↔ humildad-asumir-errores/post-op-debrief), mantener-objetivo-largo-plazo-a-la-vista (↔ metas-intermedias/enfocar-una-iniciativa). verify_graph: 1241 AKUs, 0 errores.
+
+### Batch 4 «Hesitation → Staying Motivated» (+7 AKUs, +1 TAKU)
+
+**COBERTURA**: 7 nuevos (2 concept, 5 claim) + TAKU `good-mindset` (heuristic). 1241→1248. Concepts: `draw-fire` (el líder absorbe el impacto), `good-mindset` («GOOD» icónico). Claims: hesitacion-es-el-enemigo (tensión/related con hesitar-a-veces-es-prudente — dicotomía contextual), incluso-en-la-muerte-hay-good, es-un-trabajo-de-cada-dia, no-mas-excusas, no-cuentes-con-motivacion-cuenta-disciplina (motivación vs disciplina; ↔ no-hay-atajo). verify_graph: 1248 AKUs, 0 errores.

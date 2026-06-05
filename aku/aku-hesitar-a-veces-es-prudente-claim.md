@@ -32,7 +32,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-hesitacion-es-el-enemigo-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -46,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-aggressive-not-reckless-concept]]
+
+**related** ↔ [[aku-hesitacion-es-el-enemigo-claim]]

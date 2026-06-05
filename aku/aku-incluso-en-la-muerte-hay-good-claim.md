@@ -1,14 +1,15 @@
 ---
 type: aku
 aku_class: claim
-id: aku-no-hay-atajo-ni-hack-claim
+id: aku-incluso-en-la-muerte-hay-good-claim
 statement: >
-  No hay atajo ni «hack»: volverse más fuerte, listo, rápido, sano y libre no
-  ocurre por sí solo ni cortando esquinas; solo se logra con trabajo duro,
-  noches y madrugadas, práctica, repetición, sudor y disciplina —el atajo es una
-  mentira—.
+  Incluso en la muerte hay «good»: gratitud por haber tenido a la persona (los
+  momentos, los recuerdos), por lo que su vida y su muerte te enseñaron —lo
+  preciosa que es la vida—; la muerte es parte de la vida (sin muerte no hay
+  vida); la respuesta es vivir cada día con propósito y pasión para honrar a
+  quienes ya no viven.
 origin: "Jocko Willink, Discipline Equals Freedom: Field Manual (2017)"
-domain: [liderazgo, jocko, disciplina, esfuerzo]
+domain: [liderazgo, jocko, disciplina, duelo, proposito]
 
 llm_confidence: 0.50
 
@@ -24,15 +25,14 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports:
-    - aku-disciplina-raiz-de-toda-buena-cualidad-concept
+  supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-no-cuentes-con-motivacion-cuenta-disciplina-claim
+    - aku-good-mindset-concept
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -45,6 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]]
-
-**related** ↔ [[aku-no-cuentes-con-motivacion-cuenta-disciplina-claim]]
+**related** ↔ [[aku-good-mindset-concept]]

@@ -1,14 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-no-hay-atajo-ni-hack-claim
+id: aku-no-cuentes-con-motivacion-cuenta-disciplina-claim
 statement: >
-  No hay atajo ni «hack»: volverse más fuerte, listo, rápido, sano y libre no
-  ocurre por sí solo ni cortando esquinas; solo se logra con trabajo duro,
-  noches y madrugadas, práctica, repetición, sudor y disciplina —el atajo es una
-  mentira—.
+  No cuentes con la motivación —es voluble, va y viene, no es fiable, y contar
+  con ella hace que te quedes corto—: cuenta con la disciplina; no existe la
+  píldora mágica ni el life hack que elimine el trabajo: tienes que hacer el
+  trabajo y hacer que ocurra obligándote mediante la disciplina.
 origin: "Jocko Willink, Discipline Equals Freedom: Field Manual (2017)"
-domain: [liderazgo, jocko, disciplina, esfuerzo]
+domain: [liderazgo, jocko, disciplina, motivacion]
 
 llm_confidence: 0.50
 
@@ -32,7 +32,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-no-cuentes-con-motivacion-cuenta-disciplina-claim
+    - aku-no-hay-atajo-ni-hack-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -47,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]]
 
-**related** ↔ [[aku-no-cuentes-con-motivacion-cuenta-disciplina-claim]]
+**related** ↔ [[aku-no-hay-atajo-ni-hack-claim]]

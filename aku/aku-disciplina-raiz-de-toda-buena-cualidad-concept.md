@@ -30,6 +30,7 @@ relations:
     - aku-disciplina-se-extiende-a-todo-claim
     - aku-pelear-hasta-el-final-nada-que-perder-claim
     - aku-not-feeling-it-go-anyway-claim
+    - aku-no-cuentes-con-motivacion-cuenta-disciplina-claim
   supports:
     - aku-discipline-equals-freedom-concept
   constrained_by: []
@@ -40,6 +41,7 @@ relations:
   related:
     - aku-self-discipline-viene-de-dentro-concept
     - aku-the-warpath-concept
+    - aku-no-mas-excusas-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -52,8 +54,8 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-no-hay-atajo-ni-hack-claim]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-no-relajarse-hasta-completar-la-mision-claim]] · [[aku-disciplina-se-extiende-a-todo-claim]] · [[aku-pelear-hasta-el-final-nada-que-perder-claim]] · [[aku-not-feeling-it-go-anyway-claim]]
+**supported_by** ← [[aku-no-hay-atajo-ni-hack-claim]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-no-relajarse-hasta-completar-la-mision-claim]] · [[aku-disciplina-se-extiende-a-todo-claim]] · [[aku-pelear-hasta-el-final-nada-que-perder-claim]] · [[aku-not-feeling-it-go-anyway-claim]] · [[aku-no-cuentes-con-motivacion-cuenta-disciplina-claim]]
 
 **supports** → [[aku-discipline-equals-freedom-concept]]
 
-**related** ↔ [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-the-warpath-concept]]
+**related** ↔ [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-the-warpath-concept]] · [[aku-no-mas-excusas-claim]]

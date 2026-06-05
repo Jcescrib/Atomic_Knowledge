@@ -34,6 +34,7 @@ relations:
   related:
     - aku-default-agresivo-proactivo-dictar-situacion-claim
     - aku-not-feeling-it-go-anyway-claim
+    - aku-no-mas-excusas-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]]
 
-**related** ↔ [[aku-default-agresivo-proactivo-dictar-situacion-claim]] · [[aku-not-feeling-it-go-anyway-claim]]
+**related** ↔ [[aku-default-agresivo-proactivo-dictar-situacion-claim]] · [[aku-not-feeling-it-go-anyway-claim]] · [[aku-no-mas-excusas-claim]]

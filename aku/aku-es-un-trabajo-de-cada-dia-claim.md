@@ -1,14 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-no-hay-atajo-ni-hack-claim
+id: aku-es-un-trabajo-de-cada-dia-claim
 statement: >
-  No hay atajo ni «hack»: volverse más fuerte, listo, rápido, sano y libre no
-  ocurre por sí solo ni cortando esquinas; solo se logra con trabajo duro,
-  noches y madrugadas, práctica, repetición, sudor y disciplina —el atajo es una
-  mentira—.
+  Esto no es un trabajo a tiempo parcial ni de fichar y marcharse: no hay fines
+  de semana libres, cada día es lunes —un nuevo comienzo y una nueva oportunidad
+  de atacar el día—; uno se cansará, recibirá golpes y tendrá días malos, pero
+  no se detiene.
 origin: "Jocko Willink, Discipline Equals Freedom: Field Manual (2017)"
-domain: [liderazgo, jocko, disciplina, esfuerzo]
+domain: [liderazgo, jocko, disciplina, consistencia]
 
 llm_confidence: 0.50
 
@@ -24,15 +24,15 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports:
-    - aku-disciplina-raiz-de-toda-buena-cualidad-concept
+  supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-no-cuentes-con-motivacion-cuenta-disciplina-claim
+    - aku-no-relajarse-hasta-completar-la-mision-claim
+    - aku-the-warpath-concept
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -45,6 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]]
-
-**related** ↔ [[aku-no-cuentes-con-motivacion-cuenta-disciplina-claim]]
+**related** ↔ [[aku-no-relajarse-hasta-completar-la-mision-claim]] · [[aku-the-warpath-concept]]

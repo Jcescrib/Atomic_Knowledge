@@ -1,14 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-no-hay-atajo-ni-hack-claim
+id: aku-no-mas-excusas-claim
 statement: >
-  No hay atajo ni «hack»: volverse más fuerte, listo, rápido, sano y libre no
-  ocurre por sí solo ni cortando esquinas; solo se logra con trabajo duro,
-  noches y madrugadas, práctica, repetición, sudor y disciplina —el atajo es una
-  mentira—.
+  «No more»: no más excusas, no más «empiezo mañana», no más «solo esta vez», no
+  más camino fácil, no más esperar el momento perfecto, no más indecisión ni
+  debilidad; ahora es el momento de la fuerza, la voluntad y la disciplina
+  inquebrantable para convertirse en quien uno quiere ser.
 origin: "Jocko Willink, Discipline Equals Freedom: Field Manual (2017)"
-domain: [liderazgo, jocko, disciplina, esfuerzo]
+domain: [liderazgo, jocko, disciplina, excusas]
 
 llm_confidence: 0.50
 
@@ -24,15 +24,15 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports:
-    - aku-disciplina-raiz-de-toda-buena-cualidad-concept
+  supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-no-cuentes-con-motivacion-cuenta-disciplina-claim
+    - aku-disciplina-raiz-de-toda-buena-cualidad-concept
+    - aku-empezar-aqui-y-ahora-method
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -45,6 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]]
-
-**related** ↔ [[aku-no-cuentes-con-motivacion-cuenta-disciplina-claim]]
+**related** ↔ [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-empezar-aqui-y-ahora-method]]

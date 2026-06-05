@@ -37,6 +37,7 @@ relations:
     - aku-destroyer-mode-emocion-y-logica-concept
     - aku-pelear-hasta-el-final-nada-que-perder-claim
     - aku-instinto-de-rendirse-es-mentiroso-claim
+    - aku-es-un-trabajo-de-cada-dia-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -51,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]]
 
-**related** ↔ [[aku-nunca-complacencia-subestimar-enemigo-claim]] · [[aku-destroyer-mode-emocion-y-logica-concept]] · [[aku-pelear-hasta-el-final-nada-que-perder-claim]] · [[aku-instinto-de-rendirse-es-mentiroso-claim]]
+**related** ↔ [[aku-nunca-complacencia-subestimar-enemigo-claim]] · [[aku-destroyer-mode-emocion-y-logica-concept]] · [[aku-pelear-hasta-el-final-nada-que-perder-claim]] · [[aku-instinto-de-rendirse-es-mentiroso-claim]] · [[aku-es-un-trabajo-de-cada-dia-claim]]

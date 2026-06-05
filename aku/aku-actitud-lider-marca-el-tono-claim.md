@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-actitud-lider-determina-exito-claim
+    - aku-good-mindset-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-no-bad-teams-only-bad-leaders-concept]]
 
-**related** ↔ [[aku-actitud-lider-determina-exito-claim]]
+**related** ↔ [[aku-actitud-lider-determina-exito-claim]] · [[aku-good-mindset-concept]]

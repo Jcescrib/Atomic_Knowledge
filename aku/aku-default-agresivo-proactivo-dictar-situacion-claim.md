@@ -35,6 +35,7 @@ relations:
     - aku-lideres-junior-proactivos-no-reactivos-claim
     - aku-aggressive-not-reckless-concept
     - aku-empezar-aqui-y-ahora-method
+    - aku-hesitacion-es-el-enemigo-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -51,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-decisiveness-amid-uncertainty-concept]]
 
-**related** ↔ [[aku-lideres-junior-proactivos-no-reactivos-claim]] · [[aku-aggressive-not-reckless-concept]] · [[aku-empezar-aqui-y-ahora-method]]
+**related** ↔ [[aku-lideres-junior-proactivos-no-reactivos-claim]] · [[aku-aggressive-not-reckless-concept]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-hesitacion-es-el-enemigo-claim]]
