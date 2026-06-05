@@ -32,6 +32,7 @@ relations:
   related:
     - aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method
     - aku-habitos-basados-en-la-identidad-vs-en-resultados-concept
+    - aku-48laws-34-be-royal-in-your-own-fashion-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method]] · [[aku-habitos-basados-en-la-identidad-vs-en-resultados-concept]]
+**related** ↔ [[aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method]] · [[aku-habitos-basados-en-la-identidad-vs-en-resultados-concept]] · [[aku-48laws-34-be-royal-in-your-own-fashion-concept]]

@@ -32,6 +32,7 @@ relations:
   related:
     - aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept
     - aku-habitos-mas-practica-deliberada-igual-maestria-concept
+    - aku-48laws-23-concentrate-your-forces-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]] · [[aku-habitos-mas-practica-deliberada-igual-maestria-concept]]
+**related** ↔ [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]] · [[aku-habitos-mas-practica-deliberada-igual-maestria-concept]] · [[aku-48laws-23-concentrate-your-forces-concept]]

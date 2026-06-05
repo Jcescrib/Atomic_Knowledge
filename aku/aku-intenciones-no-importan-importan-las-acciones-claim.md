@@ -33,6 +33,7 @@ relations:
   related:
     - aku-judgment-naval-concept
     - aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim
+    - aku-48laws-09-win-through-actions-not-argument-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-judgment-naval-concept]] · [[aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim]]
+**related** ↔ [[aku-judgment-naval-concept]] · [[aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim]] · [[aku-48laws-09-win-through-actions-not-argument-concept]]

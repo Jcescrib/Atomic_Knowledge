@@ -33,6 +33,7 @@ relations:
   related:
     - aku-la-felicidad-es-una-habilidad-que-se-aprende-concept
     - aku-debes-editar-y-expandir-tu-identidad-continuamente-claim
+    - aku-48laws-48-assume-formlessness-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-debes-editar-y-expandir-tu-identidad-continuamente-claim]]
+**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-debes-editar-y-expandir-tu-identidad-continuamente-claim]] · [[aku-48laws-48-assume-formlessness-concept]]

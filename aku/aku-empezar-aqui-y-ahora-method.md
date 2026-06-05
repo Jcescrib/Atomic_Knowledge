@@ -43,6 +43,7 @@ relations:
     - aku-pequenas-elecciones-diarias-construyen-todo-claim
     - aku-si-hay-algo-que-quieres-hacer-luego-hazlo-ahora-no-hay-luego-claim
     - aku-two-minute-rule-method
+    - aku-48laws-28-enter-action-with-boldness-concept
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -58,4 +59,4 @@ status_note: ""
 
 **supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]]
 
-**related** ↔ [[aku-default-agresivo-proactivo-dictar-situacion-claim]] · [[aku-not-feeling-it-go-anyway-claim]] · [[aku-no-mas-excusas-claim]] · [[aku-paso-agresivo-hacia-el-miedo-claim]] · [[aku-no-razonar-con-la-debilidad-solo-actuar-claim]] · [[aku-madrugar-predawn-stand-to-claim]] · [[aku-the-code-concept]] · [[aku-the-path-concept]] · [[aku-pequenas-elecciones-diarias-construyen-todo-claim]] · [[aku-si-hay-algo-que-quieres-hacer-luego-hazlo-ahora-no-hay-luego-claim]] · [[aku-two-minute-rule-method]]
+**related** ↔ [[aku-default-agresivo-proactivo-dictar-situacion-claim]] · [[aku-not-feeling-it-go-anyway-claim]] · [[aku-no-mas-excusas-claim]] · [[aku-paso-agresivo-hacia-el-miedo-claim]] · [[aku-no-razonar-con-la-debilidad-solo-actuar-claim]] · [[aku-madrugar-predawn-stand-to-claim]] · [[aku-the-code-concept]] · [[aku-the-path-concept]] · [[aku-pequenas-elecciones-diarias-construyen-todo-claim]] · [[aku-si-hay-algo-que-quieres-hacer-luego-hazlo-ahora-no-hay-luego-claim]] · [[aku-two-minute-rule-method]] · [[aku-48laws-28-enter-action-with-boldness-concept]]

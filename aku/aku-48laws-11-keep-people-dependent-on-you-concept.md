@@ -31,7 +31,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-48laws-10-avoid-the-unhappy-and-unlucky-concept
+    - aku-48laws-12-selective-honesty-to-disarm-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -44,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
+**related** ↔ [[aku-48laws-10-avoid-the-unhappy-and-unlucky-concept]] · [[aku-48laws-12-selective-honesty-to-disarm-concept]]

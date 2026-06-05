@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-cambiar-aceptar-o-dejar-concept
+    - aku-48laws-46-never-appear-too-perfect-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cambiar-aceptar-o-dejar-concept]]
+**related** ↔ [[aku-cambiar-aceptar-o-dejar-concept]] · [[aku-48laws-46-never-appear-too-perfect-concept]]

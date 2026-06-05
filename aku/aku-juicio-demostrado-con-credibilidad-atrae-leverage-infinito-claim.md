@@ -34,6 +34,7 @@ relations:
     - aku-judgment-naval-concept
     - aku-fallar-en-publico-bajo-tu-nombre-da-poder-claim
     - aku-construye-un-caracter-que-atrae-la-suerte-el-caracter-es-destino-claim
+    - aku-48laws-05-guard-your-reputation-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-judgment-naval-concept]] · [[aku-fallar-en-publico-bajo-tu-nombre-da-poder-claim]] · [[aku-construye-un-caracter-que-atrae-la-suerte-el-caracter-es-destino-claim]]
+**related** ↔ [[aku-judgment-naval-concept]] · [[aku-fallar-en-publico-bajo-tu-nombre-da-poder-claim]] · [[aku-construye-un-caracter-que-atrae-la-suerte-el-caracter-es-destino-claim]] · [[aku-48laws-05-guard-your-reputation-concept]]
