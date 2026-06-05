@@ -33,6 +33,7 @@ relations:
   related:
     - aku-ultimate-dichotomy-cuidar-vs-mision-concept
     - aku-isolation-burden-of-command-claim
+    - aku-aliviar-stress-sacar-del-entorno-method
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-ultimate-dichotomy-cuidar-vs-mision-concept]] · [[aku-isolation-burden-of-command-claim]]
+**related** ↔ [[aku-ultimate-dichotomy-cuidar-vs-mision-concept]] · [[aku-isolation-burden-of-command-claim]] · [[aku-aliviar-stress-sacar-del-entorno-method]]

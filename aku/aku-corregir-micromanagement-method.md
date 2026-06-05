@@ -39,6 +39,7 @@ relations:
     - aku-accountability-temporal-luego-soltar-claim
     - aku-dar-confianza-incrementalmente-method
     - aku-new-sheriff-cambio-segun-estado-equipo-method
+    - aku-cuando-micromanage-es-necesario-method
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -53,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-balance-ownership-decentralized-command-concept]]
 
-**related** ↔ [[aku-sintomas-de-micromanagement-method]] · [[aku-accountability-temporal-luego-soltar-claim]] · [[aku-dar-confianza-incrementalmente-method]] · [[aku-new-sheriff-cambio-segun-estado-equipo-method]]
+**related** ↔ [[aku-sintomas-de-micromanagement-method]] · [[aku-accountability-temporal-luego-soltar-claim]] · [[aku-dar-confianza-incrementalmente-method]] · [[aku-new-sheriff-cambio-segun-estado-equipo-method]] · [[aku-cuando-micromanage-es-necesario-method]]

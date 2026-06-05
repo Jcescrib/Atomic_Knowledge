@@ -37,6 +37,7 @@ relations:
     - aku-confident-but-not-cocky-concept
     - aku-senales-de-confianza-desequilibrada-claim
     - aku-inseguridad-admitir-no-ocultar-claim
+    - aku-construir-confianza-con-mision-asequible-method
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-confident-but-not-cocky-concept]] · [[aku-senales-de-confianza-desequilibrada-claim]] · [[aku-inseguridad-admitir-no-ocultar-claim]]
+**related** ↔ [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-confident-but-not-cocky-concept]] · [[aku-senales-de-confianza-desequilibrada-claim]] · [[aku-inseguridad-admitir-no-ocultar-claim]] · [[aku-construir-confianza-con-mision-asequible-method]]

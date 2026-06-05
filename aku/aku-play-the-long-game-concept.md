@@ -39,6 +39,8 @@ relations:
     - aku-no-care-detachment-via-ego-method
     - aku-dont-dig-in-no-sobrecomprometerse-claim
     - aku-conform-to-influence-claim
+    - aku-liderar-pares-via-influencia-y-ego-en-jaque-claim
+    - aku-jefe-quiere-el-credito-daselo-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -51,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-leadership-capital-concept]] · [[aku-power-of-relationships-liderazgo-concept]] · [[aku-rendimiento-construye-confianza-del-jefe-claim]] · [[aku-no-care-detachment-via-ego-method]] · [[aku-dont-dig-in-no-sobrecomprometerse-claim]] · [[aku-conform-to-influence-claim]]
+**related** ↔ [[aku-leadership-capital-concept]] · [[aku-power-of-relationships-liderazgo-concept]] · [[aku-rendimiento-construye-confianza-del-jefe-claim]] · [[aku-no-care-detachment-via-ego-method]] · [[aku-dont-dig-in-no-sobrecomprometerse-claim]] · [[aku-conform-to-influence-claim]] · [[aku-liderar-pares-via-influencia-y-ego-en-jaque-claim]] · [[aku-jefe-quiere-el-credito-daselo-claim]]

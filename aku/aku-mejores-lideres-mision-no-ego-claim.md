@@ -36,6 +36,7 @@ relations:
     - aku-ignorar-y-superar-a-los-negativos-claim
     - aku-liderazgo-vs-manipulacion-concept
     - aku-como-ser-elegido-lider-claim
+    - aku-jefe-quiere-el-credito-daselo-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-owner-no-toma-credito-da-honor-claim]] · [[aku-ver-problemas-lente-objetiva-claim]] · [[aku-check-the-ego-concept]] · [[aku-ignorar-y-superar-a-los-negativos-claim]] · [[aku-liderazgo-vs-manipulacion-concept]] · [[aku-como-ser-elegido-lider-claim]]
+**related** ↔ [[aku-owner-no-toma-credito-da-honor-claim]] · [[aku-ver-problemas-lente-objetiva-claim]] · [[aku-check-the-ego-concept]] · [[aku-ignorar-y-superar-a-los-negativos-claim]] · [[aku-liderazgo-vs-manipulacion-concept]] · [[aku-como-ser-elegido-lider-claim]] · [[aku-jefe-quiere-el-credito-daselo-claim]]

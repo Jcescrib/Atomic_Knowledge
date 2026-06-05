@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-mejores-lideres-mision-no-ego-claim
+    - aku-jefe-quiere-el-credito-daselo-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-mejores-lideres-mision-no-ego-claim]]
+**related** ↔ [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-jefe-quiere-el-credito-daselo-claim]]

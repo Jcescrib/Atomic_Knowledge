@@ -43,6 +43,7 @@ relations:
     - aku-12-reglas-del-nuevo-lider-method
     - aku-imposter-syndrome-es-bueno-claim
     - aku-overcoming-grudge-ex-pares-method
+    - aku-ensenar-humildad-con-mision-dificil-method
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -57,4 +58,4 @@ status_note: ""
 
 **supports** → [[aku-check-the-ego-concept]]
 
-**related** ↔ [[aku-humilde-no-pasivo-concept]] · [[aku-el-ego-mas-dificil-es-el-propio-claim]] · [[aku-lideres-nacen-y-se-hacen-claim]] · [[aku-estudiar-liderazgo-lente-de-liderazgo-claim]] · [[aku-lider-conoce-trabajos-y-pide-ayuda-claim]] · [[aku-exception-good-team-bad-leader-claim]] · [[aku-12-reglas-del-nuevo-lider-method]] · [[aku-imposter-syndrome-es-bueno-claim]] · [[aku-overcoming-grudge-ex-pares-method]]
+**related** ↔ [[aku-humilde-no-pasivo-concept]] · [[aku-el-ego-mas-dificil-es-el-propio-claim]] · [[aku-lideres-nacen-y-se-hacen-claim]] · [[aku-estudiar-liderazgo-lente-de-liderazgo-claim]] · [[aku-lider-conoce-trabajos-y-pide-ayuda-claim]] · [[aku-exception-good-team-bad-leader-claim]] · [[aku-12-reglas-del-nuevo-lider-method]] · [[aku-imposter-syndrome-es-bueno-claim]] · [[aku-overcoming-grudge-ex-pares-method]] · [[aku-ensenar-humildad-con-mision-dificil-method]]

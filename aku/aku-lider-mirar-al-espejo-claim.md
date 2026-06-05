@@ -36,6 +36,7 @@ relations:
     - aku-check-ego-asumiendo-culpa-primero-method
     - aku-boss-no-da-soporte-culpate-primero-claim
     - aku-preemptive-ownership-concept
+    - aku-castigo-raro-y-con-lineas-claras-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-lider-responsable-mision-tactica-recursos-claim]] · [[aku-check-ego-asumiendo-culpa-primero-method]] · [[aku-boss-no-da-soporte-culpate-primero-claim]] · [[aku-preemptive-ownership-concept]]
+**related** ↔ [[aku-lider-responsable-mision-tactica-recursos-claim]] · [[aku-check-ego-asumiendo-culpa-primero-method]] · [[aku-boss-no-da-soporte-culpate-primero-claim]] · [[aku-preemptive-ownership-concept]] · [[aku-castigo-raro-y-con-lineas-claras-claim]]

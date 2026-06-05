@@ -37,6 +37,7 @@ relations:
     - aku-leadership-capital-concept
     - aku-play-the-long-game-concept
     - aku-como-ser-elegido-lider-claim
+    - aku-manejar-jefe-micromanager-indeciso-debil-method
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-presentar-frente-unido-claim]] · [[aku-ejecutar-decision-como-propia-claim]] · [[aku-leadership-capital-concept]] · [[aku-play-the-long-game-concept]] · [[aku-como-ser-elegido-lider-claim]]
+**related** ↔ [[aku-presentar-frente-unido-claim]] · [[aku-ejecutar-decision-como-propia-claim]] · [[aku-leadership-capital-concept]] · [[aku-play-the-long-game-concept]] · [[aku-como-ser-elegido-lider-claim]] · [[aku-manejar-jefe-micromanager-indeciso-debil-method]]

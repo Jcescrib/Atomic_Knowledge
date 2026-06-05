@@ -37,6 +37,7 @@ relations:
     - aku-play-the-long-game-concept
     - aku-dar-ordenes-solo-commanders-intent-claim
     - aku-ejecutar-decision-como-propia-claim
+    - aku-cuando-rendirse-tactico-no-estrategico-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-play-the-long-game-concept]] · [[aku-dar-ordenes-solo-commanders-intent-claim]] · [[aku-ejecutar-decision-como-propia-claim]]
+**related** ↔ [[aku-play-the-long-game-concept]] · [[aku-dar-ordenes-solo-commanders-intent-claim]] · [[aku-ejecutar-decision-como-propia-claim]] · [[aku-cuando-rendirse-tactico-no-estrategico-claim]]

@@ -35,6 +35,7 @@ relations:
   contradicts: []
   related:
     - aku-encajar-atributos-con-el-rol-claim
+    - aku-arreglar-mala-actitud-con-responsabilidad-que-importa-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-when-to-mentor-when-to-fire-concept]]
 
-**related** ↔ [[aku-encajar-atributos-con-el-rol-claim]]
+**related** ↔ [[aku-encajar-atributos-con-el-rol-claim]] · [[aku-arreglar-mala-actitud-con-responsabilidad-que-importa-claim]]

@@ -35,6 +35,7 @@ relations:
   related:
     - aku-mejores-lideres-mision-no-ego-claim
     - aku-check-the-ego-concept
+    - aku-liderar-pares-via-influencia-y-ego-en-jaque-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-check-the-ego-concept]]
+**related** ↔ [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-check-the-ego-concept]] · [[aku-liderar-pares-via-influencia-y-ego-en-jaque-claim]]
