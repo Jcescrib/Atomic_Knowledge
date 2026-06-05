@@ -33,6 +33,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
+    - aku-eustress-estres-positivo-concept
     - aku-gestionar-stress-detach-y-perspectiva-method
     - aku-homeostasis-glucosa-insulina-concept
 
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-gestionar-stress-detach-y-perspectiva-method]] · [[aku-homeostasis-glucosa-insulina-concept]]
+**related** ↔ [[aku-eustress-estres-positivo-concept]] · [[aku-gestionar-stress-detach-y-perspectiva-method]] · [[aku-homeostasis-glucosa-insulina-concept]]
