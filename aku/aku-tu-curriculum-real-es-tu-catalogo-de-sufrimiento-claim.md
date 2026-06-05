@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-los-tres-significados-de-la-vida-concept
+    - aku-con-un-porque-suficientemente-grande-superas-cualquier-como-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-los-tres-significados-de-la-vida-concept]]
+**related** ↔ [[aku-los-tres-significados-de-la-vida-concept]] · [[aku-con-un-porque-suficientemente-grande-superas-cualquier-como-claim]]

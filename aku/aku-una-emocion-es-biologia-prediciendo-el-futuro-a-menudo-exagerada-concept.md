@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept
+    - aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept]]
+**related** ↔ [[aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept]] · [[aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept]]

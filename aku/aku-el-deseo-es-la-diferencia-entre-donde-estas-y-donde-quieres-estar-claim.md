@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim
+    - aku-el-sufrimiento-impulsa-el-progreso-el-deseo-de-cambiar-de-estado-mueve-a-actuar-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]]
+**related** ↔ [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]] · [[aku-el-sufrimiento-impulsa-el-progreso-el-deseo-de-cambiar-de-estado-mueve-a-actuar-claim]]

@@ -35,6 +35,7 @@ relations:
     - aku-el-deseo-y-el-ego-nublan-la-realidad-claim
     - aku-felicidad-es-paz-no-alegria-paz-en-reposo-y-felicidad-en-movimiento-concept
     - aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept
+    - aku-satisfaccion-igual-liking-menos-wanting-las-expectativas-determinan-la-satisfaccion-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-deseo-y-el-ego-nublan-la-realidad-claim]] · [[aku-felicidad-es-paz-no-alegria-paz-en-reposo-y-felicidad-en-movimiento-concept]] · [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]]
+**related** ↔ [[aku-el-deseo-y-el-ego-nublan-la-realidad-claim]] · [[aku-felicidad-es-paz-no-alegria-paz-en-reposo-y-felicidad-en-movimiento-concept]] · [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]] · [[aku-satisfaccion-igual-liking-menos-wanting-las-expectativas-determinan-la-satisfaccion-claim]]

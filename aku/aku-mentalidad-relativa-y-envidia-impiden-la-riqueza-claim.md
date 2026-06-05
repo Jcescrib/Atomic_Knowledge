@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-creacion-de-riqueza-etica-es-posible-claim
+    - aku-satisfaccion-igual-liking-menos-wanting-las-expectativas-determinan-la-satisfaccion-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-creacion-de-riqueza-etica-es-posible-claim]]
+**related** ↔ [[aku-creacion-de-riqueza-etica-es-posible-claim]] · [[aku-satisfaccion-igual-liking-menos-wanting-las-expectativas-determinan-la-satisfaccion-claim]]

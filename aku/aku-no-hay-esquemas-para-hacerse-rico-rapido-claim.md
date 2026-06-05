@@ -31,6 +31,7 @@ relations:
   contradicts: []
   related:
     - aku-armate-con-specific-knowledge-accountability-y-leverage-claim
+    - aku-la-esperanza-declina-con-la-experiencia-y-se-convierte-en-aceptacion-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]]
+**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-la-esperanza-declina-con-la-experiencia-y-se-convierte-en-aceptacion-claim]]
