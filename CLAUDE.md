@@ -164,6 +164,9 @@ Ejemplo del módulo 2.3:
   | `raw/libros/hormozi/…` | `hormozi` |
   | `raw/libros/jocko/…` | `jocko` |
   | `raw/libros/kolenda/…` | `kolenda` |
+  | `raw/libros/naval/…` | `naval` |
+  | `raw/libros/james-clear/…` | `james-clear` |
+  | `raw/libros/robert-greene/…` | `robert-greene` |
   | `raw/<slug>/…` (root fallback, unknown origin) | *(no source-tag — leave it off rather than guess)* |
 
   The source-tag is the only `domain` entry with a fixed vocabulary; all other domain tags remain free taxonomy. A `tacit` AKU (no `sources[]`) has no source-tag. When a new corpus is first ingested, fix its tag here **before** writing the first AKU, then add the matching `raw_subdir_for` case if missing.
