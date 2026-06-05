@@ -1625,31 +1625,28 @@ sources:
     converter: ebooklib
     converted: 2026-06-05
     image_processing: 2026-06-05
-    ingested: in-progress   # book-mode: PART I COMPLETO + Part II iniciado
+    ingested: 2026-06-05
     chapters_ingested: [ch01-understand-how-wealth-is-created, ch02-05-building-wealth,
       ch06-08-leverage-judgment-focus, ch09-10-play-luck, ch11-be-patient,
       building-judgment-judgment-thinkclearly-shedidentity, building-judgment-decisions-models-reading,
-      reading-close, partII-learning-happiness-intro]
-    aku_count: 136
-    taku_count: 2
-    last_commit: "03bfe7b"
+      reading-close, partII-learning-happiness-intro, partII-happiness-core,
+      happiness-habits-acceptance, saving-yourself, meditation-build-grow, free-yourself-philosophy,
+      bonus-formulas-rules-reading]
+    aku_count: 235
+    taku_count: 4
+    last_commit: "7859d71"
     notes: >
-      TAREA 2, libro 1. The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020).
-      EN CURSO. **PART I WEALTH COMPLETO** (Building Wealth + Building Judgment) +
-      **Part II Happiness INICIADO** (Learning Happiness intro). 136 AKUs + 2 TAKUs
-      (framework como-hacerse-rico-sin-suerte, heuristic encontrar-tu-specific-knowledge).
-      **PRÓXIMO (resume): línea ~1527 del md — continuación de 'Happiness Is Learned'**
-      (the present, monkey mind, peace). Capítulos PENDIENTES: resto de Learning Happiness,
-      'Saving Yourself' (subsecciones de salud/mente/meditación/hábitos), 'Philosophy'
-      (the meanings of life, live by your values, rational buddhism, etc.), y la sección
-      Bonus 'Naval's Recommended Reading' (→ candidata a reference TAKU). Dedup: muchos
-      conceptos enlazan cross-corpus con Jocko (ego, detach) y Power-MBA/Hormozi (leverage
-      financiero, equity, interes-compuesto, categoria-de-uno) vía related — NO recrear.
-      source-tag: naval. EPUB → epub_to_md.py (23 secciones, 31 imgs). Estructura:
-      Part I Wealth (Building Wealth, Building Judgment), Part II Happiness (Learning
-      Happiness, Saving Yourself, Philosophy) + front/back matter. IMÁGENES (31):
-      ~13 QR codes (libros recomendados = referencia), ~16 doodles conceptuales estilo
-      Visualize Value (ilustran aforismos que el texto explica completo → decorativo-
-      ilustrativo, idea capturada como AKU desde texto), cover/divisor. Clasificación:
-      0 blockquotes informativos (consistente con precedente del vault: conocimiento
-      cubierto en texto/AKUs). Pendiente FASE 2 ingesta hiper-exhaustiva.
+      TAREA 2, libro 1. The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020) COMPLETO.
+      source-tag: naval. EPUB → epub_to_md.py (23 secciones, 31 imgs). **235 AKUs + 4 TAKUs**
+      (framework como-hacerse-rico-sin-suerte, heuristic encontrar-tu-specific-knowledge,
+      heuristic habitos-de-felicidad-naval, reference naval-recommended-reading), commit por
+      sección. Part I Wealth (Building Wealth + Building Judgment) + Part II Happiness
+      (Learning Happiness, Saving Yourself, Philosophy) + Bonus (Life Formulas, Naval's Rules,
+      Recommended Reading). 2º pase de verificación: 235/235 con source-tag naval + aku_class;
+      verify_graph 0 errores; INTEGRATE 5.5 pass aplicado (0 nodos huérfanos en el cluster,
+      134 aislados enrutados a 14 conceptos-ancla temáticos). Dedup cross-corpus (related, NO
+      recrear): Naval-leverage↔apalancamiento-financiero (Power MBA), equity-value, interes-
+      compuesto, categoria-de-uno (Hormozi); ego↔el-ego-mas-dificil-es-el-propio,
+      hazlo-ahora↔empezar-aqui-y-ahora (Jocko). IMÁGENES (31): ~13 QR codes (libros
+      recomendados = referencia), ~16 doodles Visualize Value (ilustran aforismos que el texto
+      explica completo → decorativo-ilustrativo) → 0 blockquotes (idea capturada como AKU).

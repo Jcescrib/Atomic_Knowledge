@@ -866,3 +866,28 @@ Creados los 6 TAKUs ejecutables flaggeados (86→92 TAKUs draft, todos `content_
 **2º pase de verificación**: verify_graph.py 1473 AKUs / 0 errores (simetría, body-drift, targets OK); todos los justified_by de los 12 TAKUs resuelven a AKUs reales; 8 headers por protocol TAKU presentes. Manifest `ingested: 2026-06-05`, chapters_ingested [s1-the-code, s2-the-evaluation, s3-the-protocols], last_commit d4bb6af.
 
 **Nota de concurrencia**: una sesión previa hizo una parada ordenada tras completar Libro 5 + image-processing de Libro 6 (commits 52c233e/7af4cdd); esta sesión retomó desde ahí la FASE 2 (ingesta de AKUs/TAKUs) sin colisión.
+
+---
+
+## 2026-06-05 — ★ TAREA 2, LIBRO 1: «THE ALMANACK OF NAVAL RAVIKANT» (ed. Eric Jorgenson, 2020) COMPLETO
+
+**Primer libro de la TAREA 2 (nuevos corpus Naval/James Clear/Robert Greene). EPUB → epub_to_md.py. +235 AKUs (1473→1708) + 4 TAKUs. Granularidad máxima, paso de cobertura por sección, commit+push por sección, verify_graph 0 errores.**
+
+**Infraestructura**: routing en `pipeline.sh` (NAVAL/Ravikant→raw/libros/naval, JAMES CLEAR/Atomic Habits→raw/libros/james-clear, Robert Greene→raw/libros/robert-greene) + tabla de source-tags en CLAUDE.md (naval, james-clear, robert-greene). Slug saneado a `almanack-of-naval-ravikant`.
+
+**IMÁGENES (31)**: ~13 QR codes (libros recomendados = referencia) + ~16 doodles conceptuales estilo Visualize Value (Jack Butcher) que ilustran aforismos ya explicados en el texto → decorativo-ilustrativo; cover/divisores. **0 blockquotes informativos** (la idea de cada doodle se captura como AKU desde el texto; consistente con el precedente del vault). image_processing registrado como clasificación.
+
+**Cobertura por sección (235 AKUs)**:
+- **Part I Wealth** (Building Wealth + Building Judgment): wealth/money/status, specific knowledge, leverage (permissioned/permissionless), accountability, judgment/wisdom, productize-yourself, technology, hourly-rate; iterated games, long-term, equity, position-of-leverage, get-paid-for-judgment, prioritize/focus, work-feels-like-play, 4 tipos de suerte, juegos suma-positiva/cero, be-patient; modelos mentales (inversión, principal-agent, falsabilidad), decisiones (if-can't-decide-no, run-uphill), learn-to-love-to-read.
+- **Part II Happiness**: felicidad=habilidad/estado-por-defecto/paz/ausencia-de-deseo, deseo=contrato-para-ser-infeliz, cambiar-aceptar-o-dejar, trifecta tiempo-salud-dinero, success-does-not-earn-happiness, juego-de-un-jugador, hábitos de felicidad (+TAKU heuristic), abrazar-la-muerte.
+- **Saving Yourself**: sálvate-a-ti-mismo, salud=prioridad-1, desajuste-evolutivo, dieta (grasa-sacia/azúcar-da-hambre/combo-letal), ejercicio, meditación (60min/60d→inbox-cero, awareness-vs-ego, choiceless-awareness), build/grow yourself (sistemas-no-metas, ciencia=estudio-de-la-verdad).
+- **Choosing to Free Yourself + Philosophy**: freedom-from-vs-freedom-to, ira=contrato/su-propio-castigo, los-tres-significados-de-la-vida, rational-buddhism, el-presente-es-todo-lo-que-hay, live-by-your-values.
+- **Bonus**: Life Formulas (2 method-AKUs), Naval's Rules (3 claims nuevos), Recommended Reading (reference TAKU).
+
+**TAKUs (4, draft)**: framework `como-hacerse-rico-sin-suerte`, heuristic `encontrar-tu-specific-knowledge`, heuristic `habitos-de-felicidad-naval`, reference `naval-recommended-reading`.
+
+**Dedup cross-corpus (related, NO recreación — mismo término ≠ misma definición)**: Naval-leverage ↔ apalancamiento-financiero (Power MBA, sentido financiero distinto); equity-value; interés-compuesto (capitalizar-interes-compuesto); categoría-de-uno (Hormozi); ego ↔ el-ego-mas-dificil-es-el-propio (Jocko); hazlo-ahora ↔ empezar-aqui-y-ahora (Jocko); ciencia ↔ falsabilidad.
+
+**2º pase de verificación**: 235/235 con source-tag `naval` + `aku_class`; verify_graph 0 errores (simetría, body-drift, targets). **INTEGRATE 5.5 pass**: tras detectar 134 AKUs aislados, se enrutó cada uno a uno de 14 conceptos-ancla temáticos (riqueza, leverage, juicio, felicidad, paz, deseo, hábitos, meditación, mente, modelos-mentales, salud, relaciones, libertad, sentido-de-la-vida) vía `related` bidireccional → **0 nodos huérfanos** en el cluster Naval. Se limpió el placeholder `<!-- sin relaciones -->` obsoleto en 136 ficheros. El cluster Naval es de momento un 3er componente global; más puentes cross-corpus quedan como candidatos para `/audit-graph`.
+
+**Pendientes TAREA 2**: JAMES CLEAR «Atomic Habits» (PDF→MinerU), Robert Greene «48 Laws of Power» (PDF→MinerU).
