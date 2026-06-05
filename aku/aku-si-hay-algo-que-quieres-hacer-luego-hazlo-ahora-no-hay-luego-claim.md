@@ -1,14 +1,13 @@
 ---
 type: aku
 aku_class: claim
-id: aku-hacerse-rico-sin-suerte-es-ser-determinista-claim
+id: aku-si-hay-algo-que-quieres-hacer-luego-hazlo-ahora-no-hay-luego-claim
 statement: >
-  «Hacerse rico sin suerte» significa volver la riqueza determinista: en 1.000
-  universos paralelos quieres ser rico en 999, no solo en los pocos donde
-  tuviste suerte ciega; por eso se factoriza la suerte fuera, cultivando
-  habilidad, reputación y carácter que capitalizan o atraen las oportunidades.
+  Si hay algo que quieres hacer «más tarde», hazlo ahora: no hay «más tarde», tu
+  vida se escapa y no quieres gastarla esperando ni haciendo cosas que no son
+  parte de tu misión.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, suerte, riqueza]
+domain: [naval, accion, presente]
 
 llm_confidence: 0.50
 
@@ -31,8 +30,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-cuatro-tipos-de-suerte-concept
-    - aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept
+    - aku-empezar-aqui-y-ahora-method
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +43,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cuatro-tipos-de-suerte-concept]] · [[aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept]]
+**related** ↔ [[aku-empezar-aqui-y-ahora-method]]

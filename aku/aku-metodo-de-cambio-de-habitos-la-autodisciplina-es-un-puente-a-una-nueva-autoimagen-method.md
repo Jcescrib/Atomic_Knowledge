@@ -31,7 +31,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,3 +46,5 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
+
+**related** ↔ [[aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim]]

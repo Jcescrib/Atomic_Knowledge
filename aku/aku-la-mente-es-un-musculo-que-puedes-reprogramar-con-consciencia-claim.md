@@ -1,14 +1,15 @@
 ---
 type: aku
 aku_class: claim
-id: aku-hacerse-rico-sin-suerte-es-ser-determinista-claim
+id: aku-la-mente-es-un-musculo-que-puedes-reprogramar-con-consciencia-claim
 statement: >
-  «Hacerse rico sin suerte» significa volver la riqueza determinista: en 1.000
-  universos paralelos quieres ser rico en 999, no solo en los pocos donde
-  tuviste suerte ciega; por eso se factoriza la suerte fuera, cultivando
-  habilidad, reputación y carácter que capitalizan o atraen las oportunidades.
+  La mente es un músculo que puede entrenarse y condicionarse: la sociedad la ha
+  condicionado de forma azarosa para estar fuera de tu control, pero si la
+  observas con consciencia e intención (un trabajo de cada momento) puedes
+  desempaquetar tus emociones, pensamientos y reacciones y reescribir el
+  programa hacia lo que quieres, incluido elegir tus estados de ánimo.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, suerte, riqueza]
+domain: [naval, mente, reprogramacion]
 
 llm_confidence: 0.50
 
@@ -31,8 +32,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-cuatro-tipos-de-suerte-concept
-    - aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept
+    - aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cuatro-tipos-de-suerte-concept]] · [[aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept]]
+**related** ↔ [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]]

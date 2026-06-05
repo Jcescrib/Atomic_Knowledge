@@ -1,14 +1,13 @@
 ---
 type: aku
 aku_class: claim
-id: aku-hacerse-rico-sin-suerte-es-ser-determinista-claim
+id: aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim
 statement: >
-  «Hacerse rico sin suerte» significa volver la riqueza determinista: en 1.000
-  universos paralelos quieres ser rico en 999, no solo en los pocos donde
-  tuviste suerte ciega; por eso se factoriza la suerte fuera, cultivando
-  habilidad, reputación y carácter que capitalizan o atraen las oportunidades.
+  Para la automejora sin depender de la autodisciplina, actualiza tu autoimagen:
+  cuando cambias quién crees que eres, la conducta nueva deja de requerir fuerza
+  de voluntad porque pasa a ser simplemente «quien eres ahora».
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, suerte, riqueza]
+domain: [naval, autoimagen, cambio]
 
 llm_confidence: 0.50
 
@@ -31,8 +30,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-cuatro-tipos-de-suerte-concept
-    - aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept
+    - aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +43,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cuatro-tipos-de-suerte-concept]] · [[aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept]]
+**related** ↔ [[aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method]]

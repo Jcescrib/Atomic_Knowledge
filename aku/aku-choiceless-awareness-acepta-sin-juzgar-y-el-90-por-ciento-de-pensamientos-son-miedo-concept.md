@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-la-felicidad-requiere-presencia-claim
+    - aku-meditar-60-min-60-dias-para-llegar-a-un-inbox-cero-mental-method
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-felicidad-requiere-presencia-claim]]
+**related** ↔ [[aku-la-felicidad-requiere-presencia-claim]] · [[aku-meditar-60-min-60-dias-para-llegar-a-un-inbox-cero-mental-method]]
