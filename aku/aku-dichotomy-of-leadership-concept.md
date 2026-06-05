@@ -45,6 +45,7 @@ relations:
     - aku-ultimate-dichotomy-cuidar-vs-mision-concept
     - aku-resolute-but-not-overbearing-concept
     - aku-when-to-mentor-when-to-fire-concept
+    - aku-train-hard-but-train-smart-concept
   supports: []
   constrained_by: []
   constrains: []
@@ -65,4 +66,4 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-discipline-equals-freedom-concept]] · [[aku-lider-y-seguidor-concept]] · [[aku-agresivo-no-prepotente-concept]] · [[aku-calmado-no-robotico-concept]] · [[aku-valiente-no-temerario-concept]] · [[aku-competitivo-buen-perdedor-concept]] · [[aku-atento-detalle-no-obsesionado-concept]] · [[aku-fuerte-con-resistencia-concept]] · [[aku-humilde-no-pasivo-concept]] · [[aku-callado-no-silencioso-concept]] · [[aku-cercano-pero-no-demasiado-concept]] · [[aku-balance-ownership-decentralized-command-concept]] · [[aku-nada-que-probar-pero-todo-que-probar-concept]] · [[aku-lider-se-desvia-por-inclinarse-demasiado-claim]] · [[aku-confident-but-not-cocky-concept]] · [[aku-liderazgo-requiere-balance-no-extremos-claim]] · [[aku-ultimate-dichotomy-cuidar-vs-mision-concept]] · [[aku-resolute-but-not-overbearing-concept]] · [[aku-when-to-mentor-when-to-fire-concept]]
+**supported_by** ← [[aku-discipline-equals-freedom-concept]] · [[aku-lider-y-seguidor-concept]] · [[aku-agresivo-no-prepotente-concept]] · [[aku-calmado-no-robotico-concept]] · [[aku-valiente-no-temerario-concept]] · [[aku-competitivo-buen-perdedor-concept]] · [[aku-atento-detalle-no-obsesionado-concept]] · [[aku-fuerte-con-resistencia-concept]] · [[aku-humilde-no-pasivo-concept]] · [[aku-callado-no-silencioso-concept]] · [[aku-cercano-pero-no-demasiado-concept]] · [[aku-balance-ownership-decentralized-command-concept]] · [[aku-nada-que-probar-pero-todo-que-probar-concept]] · [[aku-lider-se-desvia-por-inclinarse-demasiado-claim]] · [[aku-confident-but-not-cocky-concept]] · [[aku-liderazgo-requiere-balance-no-extremos-claim]] · [[aku-ultimate-dichotomy-cuidar-vs-mision-concept]] · [[aku-resolute-but-not-overbearing-concept]] · [[aku-when-to-mentor-when-to-fire-concept]] · [[aku-train-hard-but-train-smart-concept]]

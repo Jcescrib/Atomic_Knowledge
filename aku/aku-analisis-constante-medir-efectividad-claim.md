@@ -34,6 +34,7 @@ relations:
   related:
     - aku-post-operational-debrief-method
     - aku-lideres-nunca-satisfechos-mejora-continua-claim
+    - aku-entrenamiento-desde-abajo-no-desde-arriba-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-planning-process-estandarizado-concept]]
 
-**related** ↔ [[aku-post-operational-debrief-method]] · [[aku-lideres-nunca-satisfechos-mejora-continua-claim]]
+**related** ↔ [[aku-post-operational-debrief-method]] · [[aku-lideres-nunca-satisfechos-mejora-continua-claim]] · [[aku-entrenamiento-desde-abajo-no-desde-arriba-claim]]

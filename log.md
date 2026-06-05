@@ -720,3 +720,7 @@ Próximo libro: **dichotomy-of-leadership** (PDF, 345 págs) — enriquecerá lo
 ### Cap 4 «When to Mentor, When to Fire» (+4 AKUs)
 
 **COBERTURA**: 4 items (1 concept, 3 claim). 1194→1198. `when-to-mentor-when-to-fire` (related entrenar-mentorizar/lealtad-mision/no-bad-teams), lider-responsable-del-output-maximizar-potencial (ubicar a cada uno donde sus fortalezas rinden), invertir-en-uno-puede-perjudicar-al-equipo (la mantra no-bad-teams puede volverse en contra; ↔ lealtad-mal-entendida), ni-muy-rapido-ni-muy-lento-para-despedir (timing; ↔ cortar-cancers). verify_graph: 1198 AKUs, 0 errores.
+
+### Cap 5 «Train Hard, but Train Smart» (+4 AKUs) — abre PARTE II (Balancing the Mission)
+
+**COBERTURA**: 4 items (1 concept, 1 method, 2 claim). 1198→1202. `train-hard-but-train-smart`, train-how-you-fight (no hay crecimiento en la zona de confort), entrenamiento-realismo-fundamentos-repeticion (3 pilares; ↔ repetir-hasta-estandar), entrenamiento-desde-abajo-no-desde-arriba (EO del entrenamiento; ↔ extreme-ownership/analisis-constante). verify_graph: 1202 AKUs, 0 errores.
