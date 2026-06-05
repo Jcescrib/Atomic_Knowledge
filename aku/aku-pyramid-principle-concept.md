@@ -36,6 +36,8 @@ relations:
   related:
     - aku-distance-principle-concept
     - aku-creation-principle-concept
+    - aku-frame-principle-concept
+    - aku-kuzushi-principle-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -50,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-tres-rasgos-fundacionales-dan-control-concept]]
 
-**related** ↔ [[aku-distance-principle-concept]] · [[aku-creation-principle-concept]]
+**related** ↔ [[aku-distance-principle-concept]] · [[aku-creation-principle-concept]] · [[aku-frame-principle-concept]] · [[aku-kuzushi-principle-concept]]
