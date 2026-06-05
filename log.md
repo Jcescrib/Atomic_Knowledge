@@ -790,3 +790,11 @@ Creados los 6 TAKUs ejecutables flaggeados (86→92 TAKUs draft, todos `content_
 ### Batch 6B «Martial Arts → Immediate Action Drills» (+6 AKUs, +3 TAKUs)
 
 **COBERTURA**: 6 nuevos (1 concept, 3 method, 2 claim) + 3 TAKUs. 1265→1271. `progresion-artes-marciales` (BJJ→boxeo→Muay Thai/wrestling→…), defensa-propia-jerarquia-mente-correr-arma, jiu-jitsu-meta-escapar-no-ir-al-suelo, cuatro-reglas-seguridad-armas (method/fórmula), immediate-action-drills-amenaza (↔ relax-look-around), elegir-academia-jiu-jitsu. TAKUs (draft): `progresion-artes-marciales` (framework), `immediate-action-drills` (protocol), `seguridad-armas-cuatro-reglas` (protocol). verify_graph: 1271 AKUs, 0 errores.
+
+### Batch 6C «Fuel/Fasting/Stretching/Injuries/Workouts» (+9 AKUs, +3 TAKUs) — CIERRA LIBRO 3
+
+**COBERTURA**: 9 nuevos (2 concept, 4 method, 3 claim) + 3 TAKUs. 1271→1280. Concepts: homeostasis-glucosa-insulina, dieta-paleo-fuel. Methods: ayuno-beneficios, estiramiento-rutina, calentamiento-progresivo, estructura-workout-pull-push-lift-squat (las series → 1 method, no AKU por ejercicio). Claims: azucar-es-adictivo-como-droga, regla-100-no-80-20, lesiones-enfermedad-do-what-you-can. TAKUs: `dieta-paleo` (tool), `ayuno-intermitente` (protocol), `rutina-entrenamiento-jocko` (tool).
+
+**★ LIBRO 3 «DISCIPLINE EQUALS FREEDOM» COMPLETO**: **62 AKUs nuevos** (1218→1280) + **12 TAKUs** + 2 enriquecimientos cross-libro (discipline-equals-freedom y default-agresivo → 0.70, 3ª fuente). Field manual: Parte 1 (Thoughts: mindset disciplina/voluntad) + Parte 2 (Actions: entrenamiento/sueño/artes marciales/nutrición/ayuno). Manifest `ingested: 2026-06-05`.
+
+**2º pase verificación Libro 3**: verify_graph 1280 AKUs / 0 errores. Cluster Jocko sigue 1 componente interno (ver chequeo). Pendiente Joan: validar; puentes (b) — destaca conexión potencial disciplina↔hábitos/productividad y nutrición↔(ningún corpus de negocio lo cubre). Cluster Jocko = 2º componente global.

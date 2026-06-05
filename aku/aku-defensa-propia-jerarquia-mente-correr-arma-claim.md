@@ -35,6 +35,7 @@ relations:
     - aku-mind-control-controla-tu-propia-mente-concept
     - aku-jiu-jitsu-meta-escapar-no-ir-al-suelo-claim
     - aku-immediate-action-drills-amenaza-method
+    - aku-cuatro-reglas-seguridad-armas-method
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-mind-control-controla-tu-propia-mente-concept]] · [[aku-jiu-jitsu-meta-escapar-no-ir-al-suelo-claim]] · [[aku-immediate-action-drills-amenaza-method]]
+**related** ↔ [[aku-mind-control-controla-tu-propia-mente-concept]] · [[aku-jiu-jitsu-meta-escapar-no-ir-al-suelo-claim]] · [[aku-immediate-action-drills-amenaza-method]] · [[aku-cuatro-reglas-seguridad-armas-method]]

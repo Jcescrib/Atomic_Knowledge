@@ -1512,11 +1512,18 @@ sources:
     converter: ebooklib   # EPUB → scripts/epub_to_md.py
     converted: 2026-06-05
     image_processing: n/a
-    ingested: null   # FASE 2 en curso — field manual (batches temáticos)
-    chapters_ingested: [batch01-way-of-discipline-mind-control, batch02-weakness-to-default-aggressive, batch03-nature-to-focus, batch04-hesitation-to-motivation, batch05-me-vs-me-to-laughter, batch06a-training-sleep-gym, batch06b-martial-arts-self-defense]
-    aku_count: 53
-    taku_count: 9
+    ingested: 2026-06-05   # LIBRO COMPLETO (field manual, Parte 1 Thoughts + Parte 2 Actions + appendix)
+    chapters_ingested: [batch01-way-of-discipline-mind-control, batch02-weakness-to-default-aggressive, batch03-nature-to-focus, batch04-hesitation-to-motivation, batch05-me-vs-me-to-laughter, batch06a-training-sleep-gym, batch06b-martial-arts-self-defense, batch06c-fuel-fasting-stretch-injuries-workouts]
+    aku_count: 62
+    taku_count: 12
     last_commit: ""
+    notes: >
+      Libro 3 corpus Jocko (field manual). 62 AKUs nuevos + 12 TAKUs + 2 enriquecimientos
+      cross-libro (discipline-equals-freedom 0.60→0.70 con 3ª fuente; default-agresivo
+      0.60→0.70 con 3ª fuente). Parte 1 (Thoughts): mindset de disciplina/voluntad.
+      Parte 2 (Actions): entrenamiento, sueño, artes marciales, defensa personal,
+      nutrición/ayuno. Las series de ejercicios → method-AKU + TAKU (no AKU por ejercicio).
+      verify_graph 1280 AKUs / 0 errores.
     notes: >
       Libro 3 corpus Jocko (Willink, 2017). source-tag: jocko. EPUB → epub_to_md.py
       (96 secciones, 12 imgs). Field manual: secciones Thoughts / Actions / Physical

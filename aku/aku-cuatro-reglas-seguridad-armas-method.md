@@ -31,7 +31,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-defensa-propia-jerarquia-mente-correr-arma-claim
+    - aku-immediate-action-drills-amenaza-method
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -45,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
+
+**related** ↔ [[aku-defensa-propia-jerarquia-mente-correr-arma-claim]] · [[aku-immediate-action-drills-amenaza-method]]

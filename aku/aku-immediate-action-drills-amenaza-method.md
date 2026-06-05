@@ -38,6 +38,7 @@ relations:
   related:
     - aku-relax-look-around-make-a-call-method
     - aku-defensa-propia-jerarquia-mente-correr-arma-claim
+    - aku-cuatro-reglas-seguridad-armas-method
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -50,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-relax-look-around-make-a-call-method]] · [[aku-defensa-propia-jerarquia-mente-correr-arma-claim]]
+**related** ↔ [[aku-relax-look-around-make-a-call-method]] · [[aku-defensa-propia-jerarquia-mente-correr-arma-claim]] · [[aku-cuatro-reglas-seguridad-armas-method]]

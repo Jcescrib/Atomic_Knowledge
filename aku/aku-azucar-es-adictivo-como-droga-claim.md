@@ -1,16 +1,13 @@
 ---
 type: aku
 aku_class: claim
-id: aku-stress-bueno-y-malo-cortisol-claim
+id: aku-azucar-es-adictivo-como-droga-claim
 statement: >
-  El estrés es bueno y malo: hace falta algo de estrés para mejorar (hay que
-  empujar cuerpo y mente), y el cortisol que libera da energía y foco; pero el
-  cortisol crónicamente alto reprime la inmunidad, sube la tensión, deposita
-  grasa y causa sobreentrenamiento; el ejercicio condiciona al cuerpo a
-  equilibrar el cortisol, así que hay que estresar el cuerpo algo, pero no en
-  exceso.
+  El azúcar es adictivo: estimula las mismas zonas del cerebro que la heroína y
+  la cocaína, así que cuando lo tomas quieres más y al dejarlo sientes síndrome
+  de abstinencia; por eso cuesta tanto dejarlo.
 origin: "Jocko Willink, Discipline Equals Freedom: Field Manual (2017)"
-domain: [jocko, fisico, salud, estres, fisiologia]
+domain: [jocko, nutricion, salud, adiccion]
 
 llm_confidence: 0.50
 
@@ -33,8 +30,9 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-gestionar-stress-detach-y-perspectiva-method
     - aku-homeostasis-glucosa-insulina-concept
+    - aku-comida-basura-es-veneno-claim
+    - aku-regla-100-no-80-20-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -47,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-gestionar-stress-detach-y-perspectiva-method]] · [[aku-homeostasis-glucosa-insulina-concept]]
+**related** ↔ [[aku-homeostasis-glucosa-insulina-concept]] · [[aku-comida-basura-es-veneno-claim]] · [[aku-regla-100-no-80-20-claim]]

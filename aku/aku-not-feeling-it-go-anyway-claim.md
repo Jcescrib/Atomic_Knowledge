@@ -36,6 +36,7 @@ relations:
     - aku-camino-de-menor-resistencia-claim
     - aku-empezar-aqui-y-ahora-method
     - aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim
+    - aku-lesiones-enfermedad-do-what-you-can-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]]
 
-**related** ↔ [[aku-camino-de-menor-resistencia-claim]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim]]
+**related** ↔ [[aku-camino-de-menor-resistencia-claim]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim]] · [[aku-lesiones-enfermedad-do-what-you-can-claim]]
