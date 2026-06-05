@@ -38,6 +38,7 @@ relations:
     - aku-decisiveness-amid-uncertainty-concept
     - aku-priorizar-3-4-contingencias-mas-probables-method
     - aku-miedo-al-fracaso-es-bueno-claim
+    - aku-preemptive-ownership-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -52,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-prioritize-and-execute-concept]]
 
-**related** ↔ [[aku-decentralized-command-concept]] · [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-priorizar-3-4-contingencias-mas-probables-method]] · [[aku-miedo-al-fracaso-es-bueno-claim]]
+**related** ↔ [[aku-decentralized-command-concept]] · [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-priorizar-3-4-contingencias-mas-probables-method]] · [[aku-miedo-al-fracaso-es-bueno-claim]] · [[aku-preemptive-ownership-concept]]

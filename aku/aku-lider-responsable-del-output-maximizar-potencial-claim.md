@@ -33,7 +33,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-encajar-atributos-con-el-rol-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -47,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-when-to-mentor-when-to-fire-concept]]
+
+**related** ↔ [[aku-encajar-atributos-con-el-rol-claim]]

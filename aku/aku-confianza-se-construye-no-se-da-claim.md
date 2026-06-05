@@ -36,6 +36,8 @@ relations:
     - aku-decentralized-requiere-confianza-bidireccional-claim
     - aku-leadership-capital-concept
     - aku-power-of-relationships-liderazgo-concept
+    - aku-dar-confianza-incrementalmente-method
+    - aku-isolation-burden-of-command-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -50,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-decentralized-command-concept]]
 
-**related** ↔ [[aku-decentralized-requiere-confianza-bidireccional-claim]] · [[aku-leadership-capital-concept]] · [[aku-power-of-relationships-liderazgo-concept]]
+**related** ↔ [[aku-decentralized-requiere-confianza-bidireccional-claim]] · [[aku-leadership-capital-concept]] · [[aku-power-of-relationships-liderazgo-concept]] · [[aku-dar-confianza-incrementalmente-method]] · [[aku-isolation-burden-of-command-claim]]

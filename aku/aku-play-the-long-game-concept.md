@@ -36,6 +36,7 @@ relations:
     - aku-leadership-capital-concept
     - aku-power-of-relationships-liderazgo-concept
     - aku-rendimiento-construye-confianza-del-jefe-claim
+    - aku-no-care-detachment-via-ego-method
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-leadership-capital-concept]] · [[aku-power-of-relationships-liderazgo-concept]] · [[aku-rendimiento-construye-confianza-del-jefe-claim]]
+**related** ↔ [[aku-leadership-capital-concept]] · [[aku-power-of-relationships-liderazgo-concept]] · [[aku-rendimiento-construye-confianza-del-jefe-claim]] · [[aku-no-care-detachment-via-ego-method]]

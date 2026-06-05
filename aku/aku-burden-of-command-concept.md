@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-ultimate-dichotomy-cuidar-vs-mision-concept
+    - aku-isolation-burden-of-command-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-ultimate-dichotomy-cuidar-vs-mision-concept]]
+**related** ↔ [[aku-ultimate-dichotomy-cuidar-vs-mision-concept]] · [[aku-isolation-burden-of-command-claim]]

@@ -33,6 +33,7 @@ relations:
   related:
     - aku-span-of-control-concept
     - aku-lideres-nacen-y-se-hacen-claim
+    - aku-encajar-atributos-con-el-rol-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-span-of-control-concept]] · [[aku-lideres-nacen-y-se-hacen-claim]]
+**related** ↔ [[aku-span-of-control-concept]] · [[aku-lideres-nacen-y-se-hacen-claim]] · [[aku-encajar-atributos-con-el-rol-claim]]

@@ -59,6 +59,7 @@ relations:
   contradicts: []
   related:
     - aku-destroyer-mode-emocion-y-logica-concept
+    - aku-everyone-same-everyone-different-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -74,4 +75,4 @@ status_note: ""
 
 **supported_by** ← [[aku-discipline-equals-freedom-concept]] · [[aku-lider-y-seguidor-concept]] · [[aku-agresivo-no-prepotente-concept]] · [[aku-calmado-no-robotico-concept]] · [[aku-valiente-no-temerario-concept]] · [[aku-competitivo-buen-perdedor-concept]] · [[aku-atento-detalle-no-obsesionado-concept]] · [[aku-fuerte-con-resistencia-concept]] · [[aku-humilde-no-pasivo-concept]] · [[aku-callado-no-silencioso-concept]] · [[aku-cercano-pero-no-demasiado-concept]] · [[aku-balance-ownership-decentralized-command-concept]] · [[aku-nada-que-probar-pero-todo-que-probar-concept]] · [[aku-lider-se-desvia-por-inclinarse-demasiado-claim]] · [[aku-confident-but-not-cocky-concept]] · [[aku-liderazgo-requiere-balance-no-extremos-claim]] · [[aku-ultimate-dichotomy-cuidar-vs-mision-concept]] · [[aku-resolute-but-not-overbearing-concept]] · [[aku-when-to-mentor-when-to-fire-concept]] · [[aku-train-hard-but-train-smart-concept]] · [[aku-aggressive-not-reckless-concept]] · [[aku-disciplined-not-rigid-concept]] · [[aku-accountability-no-como-herramienta-principal-concept]] · [[aku-plan-but-remain-flexible-concept]] · [[aku-compromiso-externo-si-interno-no-concept]]
 
-**related** ↔ [[aku-destroyer-mode-emocion-y-logica-concept]]
+**related** ↔ [[aku-destroyer-mode-emocion-y-logica-concept]] · [[aku-everyone-same-everyone-different-concept]]

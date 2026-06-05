@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-draw-fire-concept
+    - aku-ningun-trabajo-es-demasiado-bajo-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-no-bad-teams-only-bad-leaders-concept]]
 
-**related** ↔ [[aku-draw-fire-concept]]
+**related** ↔ [[aku-draw-fire-concept]] · [[aku-ningun-trabajo-es-demasiado-bajo-claim]]

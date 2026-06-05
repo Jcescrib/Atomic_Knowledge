@@ -32,7 +32,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-liderar-desde-frente-y-desde-atras-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-decentralized-command-concept]]
+
+**related** ↔ [[aku-liderar-desde-frente-y-desde-atras-concept]]

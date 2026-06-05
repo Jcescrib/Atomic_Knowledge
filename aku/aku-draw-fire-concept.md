@@ -34,6 +34,7 @@ relations:
   related:
     - aku-liderar-desde-posicion-mas-dificil-claim
     - aku-lider-percibido-como-decisivo-claim
+    - aku-ningun-trabajo-es-demasiado-bajo-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-liderar-desde-posicion-mas-dificil-claim]] · [[aku-lider-percibido-como-decisivo-claim]]
+**related** ↔ [[aku-liderar-desde-posicion-mas-dificil-claim]] · [[aku-lider-percibido-como-decisivo-claim]] · [[aku-ningun-trabajo-es-demasiado-bajo-claim]]

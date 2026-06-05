@@ -33,6 +33,7 @@ relations:
   related:
     - aku-decentralized-command-concept
     - aku-asignar-lead-claro-evita-planes-divergentes-claim
+    - aku-liderar-desde-frente-y-desde-atras-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-planning-process-estandarizado-concept]]
 
-**related** ↔ [[aku-decentralized-command-concept]] · [[aku-asignar-lead-claro-evita-planes-divergentes-claim]]
+**related** ↔ [[aku-decentralized-command-concept]] · [[aku-asignar-lead-claro-evita-planes-divergentes-claim]] · [[aku-liderar-desde-frente-y-desde-atras-concept]]

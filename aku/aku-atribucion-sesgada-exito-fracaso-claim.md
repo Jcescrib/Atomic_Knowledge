@@ -36,6 +36,7 @@ relations:
   related:
     - aku-humildad-asumir-errores-claim
     - aku-tortured-genius-concept
+    - aku-tomar-ownership-cuando-te-culpan-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-humildad-asumir-errores-claim]] · [[aku-tortured-genius-concept]]
+**related** ↔ [[aku-humildad-asumir-errores-claim]] · [[aku-tortured-genius-concept]] · [[aku-tomar-ownership-cuando-te-culpan-claim]]

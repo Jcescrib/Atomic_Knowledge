@@ -33,6 +33,7 @@ relations:
   related:
     - aku-preguntar-por-que-method
     - aku-decentralized-requiere-confianza-bidireccional-claim
+    - aku-confianza-arriba-no-decir-lo-que-quieren-oir-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-preguntar-por-que-method]] · [[aku-decentralized-requiere-confianza-bidireccional-claim]]
+**related** ↔ [[aku-preguntar-por-que-method]] · [[aku-decentralized-requiere-confianza-bidireccional-claim]] · [[aku-confianza-arriba-no-decir-lo-que-quieren-oir-claim]]

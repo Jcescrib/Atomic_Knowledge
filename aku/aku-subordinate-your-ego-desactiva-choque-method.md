@@ -35,6 +35,7 @@ relations:
     - aku-check-ego-asumiendo-culpa-primero-method
     - aku-check-the-ego-concept
     - aku-el-ego-mas-dificil-es-el-propio-claim
+    - aku-no-care-detachment-via-ego-method
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-check-ego-asumiendo-culpa-primero-method]] · [[aku-check-the-ego-concept]] · [[aku-el-ego-mas-dificil-es-el-propio-claim]]
+**related** ↔ [[aku-check-ego-asumiendo-culpa-primero-method]] · [[aku-check-the-ego-concept]] · [[aku-el-ego-mas-dificil-es-el-propio-claim]] · [[aku-no-care-detachment-via-ego-method]]

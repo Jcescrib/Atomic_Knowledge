@@ -34,6 +34,7 @@ relations:
   related:
     - aku-prioritize-and-execute-concept
     - aku-prioritize-and-execute-pasos-method
+    - aku-saber-que-es-importante-y-que-no-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-prioritize-and-execute-concept]] · [[aku-prioritize-and-execute-pasos-method]]
+**related** ↔ [[aku-prioritize-and-execute-concept]] · [[aku-prioritize-and-execute-pasos-method]] · [[aku-saber-que-es-importante-y-que-no-method]]

@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-agresivo-significa-proactivo-no-iracundo-claim
+    - aku-no-sobrerreaccionar-mantener-la-calma-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
 
-**related** ↔ [[aku-agresivo-significa-proactivo-no-iracundo-claim]]
+**related** ↔ [[aku-agresivo-significa-proactivo-no-iracundo-claim]] · [[aku-no-sobrerreaccionar-mantener-la-calma-claim]]
