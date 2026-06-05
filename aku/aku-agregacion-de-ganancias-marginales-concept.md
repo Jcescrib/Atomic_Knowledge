@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-habito-atomico-concept
+    - aku-habitos-mas-practica-deliberada-igual-maestria-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habito-atomico-concept]]
+**related** ↔ [[aku-habito-atomico-concept]] · [[aku-habitos-mas-practica-deliberada-igual-maestria-concept]]

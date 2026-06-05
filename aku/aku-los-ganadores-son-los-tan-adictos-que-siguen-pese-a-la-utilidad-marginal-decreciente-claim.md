@@ -33,6 +33,7 @@ relations:
   related:
     - aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim
     - aku-la-felicidad-es-una-habilidad-que-se-aprende-concept
+    - aku-enamorate-del-aburrimiento-los-profesionales-aparecen-sin-importar-el-animo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim]] · [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]]
+**related** ↔ [[aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim]] · [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-enamorate-del-aburrimiento-los-profesionales-aparecen-sin-importar-el-animo-claim]]

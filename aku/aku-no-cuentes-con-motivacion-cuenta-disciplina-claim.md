@@ -34,6 +34,7 @@ relations:
   related:
     - aku-no-hay-atajo-ni-hack-claim
     - aku-las-personas-disciplinadas-estructuran-su-entorno-para-no-necesitar-fuerza-de-voluntad-claim
+    - aku-enamorate-del-aburrimiento-los-profesionales-aparecen-sin-importar-el-animo-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]]
 
-**related** ↔ [[aku-no-hay-atajo-ni-hack-claim]] · [[aku-las-personas-disciplinadas-estructuran-su-entorno-para-no-necesitar-fuerza-de-voluntad-claim]]
+**related** ↔ [[aku-no-hay-atajo-ni-hack-claim]] · [[aku-las-personas-disciplinadas-estructuran-su-entorno-para-no-necesitar-fuerza-de-voluntad-claim]] · [[aku-enamorate-del-aburrimiento-los-profesionales-aparecen-sin-importar-el-animo-claim]]

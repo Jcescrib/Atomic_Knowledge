@@ -34,6 +34,7 @@ relations:
   related:
     - aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim
     - aku-no-hay-soluciones-permanentes-en-un-sistema-dinamico-claim
+    - aku-establece-un-sistema-de-reflexion-y-revision-de-tus-habitos-method
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-no-hay-soluciones-permanentes-en-un-sistema-dinamico-claim]]
+**related** ↔ [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-no-hay-soluciones-permanentes-en-un-sistema-dinamico-claim]] · [[aku-establece-un-sistema-de-reflexion-y-revision-de-tus-habitos-method]]

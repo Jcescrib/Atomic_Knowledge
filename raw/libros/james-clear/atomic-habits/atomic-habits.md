@@ -2627,6 +2627,7 @@ The Goldilocks Rule states that humans experience peak motivation when working o
 
 THE GOLDILOCKS RULE  
 ![](images/539f00c96fad516687e2f5d6beb6f89a2de5d6fa7b2d62e85122c54550fd4579.jpg)  
+> **Figura**: La Goldilocks Rule como curva en forma de U invertida: motivación (eje vertical) frente a dificultad de la tarea (eje horizontal). La motivacion es minima cuando la tarea es demasiado facil (aburrimiento, izquierda) o demasiado dificil (ansiedad, derecha), y maxima en el punto medio —un reto de dificultad justo manejable, al borde de tu capacidad actual—. En psicologia se conoce como la ley de Yerkes-Dodson (nivel optimo de activacion entre aburrimiento y ansiedad).
 FIGURE 15: Maximum motivation occurs when facing a challenge of just manageable difficulty. In psychology research this is known as the Yerkes– Dodson law, which describes the optimal level of arousal as the midpoint between boredom and anxiety.
 
 Martin’s comedy career is an excellent example of the Goldilocks Rule in practice. Each year, he expanded his comedy routine—but only by a minute or two. He was always adding new material, but he also kept a few jokes that were guaranteed to get laughs. There were just enough victories to keep him motivated and just enough mistakes to keep him working hard.
@@ -2716,6 +2717,7 @@ Mastery is the process of narrowing your focus to a tiny element of success, rep
 ![](images/a769d0645baa485528d53bb2b279715701fbbcdaf80204efc7b0860d6e57a17e.jpg)
 
 ![](images/30d31ba78724ab8b1aabf931d40b2d10c221b1aa39bcfc8088355bb75eeb7081.jpg)  
+> **Figura**: El proceso de maestria como curvas de aprendizaje apiladas (skill/desempeno frente al tiempo). Cada habito dominado es una curva en S que se aplana al automatizarse; al alcanzar la meseta se inicia una nueva curva por encima de la anterior, apilando mejora sobre mejora. Asi cada habito internalizado se vuelve el cimiento del siguiente nivel de desempeno, en un ciclo sin fin de dominar un elemento y avanzar a la siguiente frontera.
 FIGURE 16: The process of mastery requires that you progressively layer improvements on top of one another, each habit building upon the last until a new level of performance has been reached and a higher range of skills has been internalized.
 
 Although habits are powerful, what you need is a way to remain conscious of your performance over time, so you can continue to refine and improve. It is precisely at the moment when you begin to feel like you have mastered a skill—right when things are starting to feel
