@@ -32,7 +32,11 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-roe-concept, aku-estructura-de-capital-concept, aku-apalancamiento-aumenta-roe-claim]
+  related:
+    - aku-roe-concept
+    - aku-estructura-de-capital-concept
+    - aku-apalancamiento-aumenta-roe-claim
+    - aku-leverage-multiplicador-de-juicio-concept
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -45,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-roe-concept]] · [[aku-estructura-de-capital-concept]] · [[aku-apalancamiento-aumenta-roe-claim]]
+**related** ↔ [[aku-roe-concept]] · [[aku-estructura-de-capital-concept]] · [[aku-apalancamiento-aumenta-roe-claim]] · [[aku-leverage-multiplicador-de-juicio-concept]]

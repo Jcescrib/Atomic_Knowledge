@@ -26,13 +26,19 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-precio-valor-contable-method]
+  supports:
+    - aku-precio-valor-contable-method
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-enterprise-value-concept, aku-coste-fondos-propios-ke-concept, aku-cash-flow-accionistas-concept]
+  related:
+    - aku-enterprise-value-concept
+    - aku-coste-fondos-propios-ke-concept
+    - aku-cash-flow-accionistas-concept
+    - aku-wealth-activos-que-ganan-mientras-duermes-concept
+    - aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -46,4 +52,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-precio-valor-contable-method]]
-**related** ↔ [[aku-enterprise-value-concept]] · [[aku-coste-fondos-propios-ke-concept]] · [[aku-cash-flow-accionistas-concept]]
+**related** ↔ [[aku-enterprise-value-concept]] · [[aku-coste-fondos-propios-ke-concept]] · [[aku-cash-flow-accionistas-concept]] · [[aku-wealth-activos-que-ganan-mientras-duermes-concept]] · [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]]

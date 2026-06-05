@@ -1,0 +1,47 @@
+---
+type: aku
+aku_class: claim
+id: aku-riqueza-es-entender-que-quien-cuando-no-solo-trabajo-duro-claim
+statement: >
+  Hacerse rico va de saber qué hacer, con quién y cuándo —es más comprensión que
+  puro trabajo duro—: puedes trabajar 80 horas semanales en un restaurante y no
+  enriquecerte; el trabajo duro importa y no se puede escatimar, pero debe
+  dirigirse en la dirección correcta, y antes hay que averiguar en qué deberías
+  trabajar.
+origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
+domain: [riqueza, naval, estrategia, trabajo]
+
+llm_confidence: 0.50
+
+human_certainty:
+  status: unvalidated
+  iterations: 0
+  context_boundary: ""
+  validated_by: ""
+  validation_date: ""
+  method: ""
+
+epistemic_type: sourced
+
+relations:
+  supported_by: []
+  supports: []
+  constrained_by: []
+  constrains: []
+  context_breaks_at: []
+  breaks_context_of: []
+  contradicts: []
+  related: []
+
+sources:
+  - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
+
+created: 2026-06-05
+updated: 2026-06-05
+status: active
+status_note: ""
+---
+
+## Relaciones
+
+<!-- sin relaciones -->
