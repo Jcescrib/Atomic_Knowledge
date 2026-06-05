@@ -1,14 +1,15 @@
 ---
 type: aku
 aku_class: claim
-id: aku-la-direccion-importa-mas-que-la-velocidad-sobre-todo-con-leverage-claim
+id: aku-si-no-puedes-decidir-la-respuesta-es-no-claim
 statement: >
-  La dirección en la que te mueves importa mucho más que la velocidad a la que
-  lo haces, sobre todo con leverage: elegir bien la dirección de cada decisión
-  pesa muchísimo más que la fuerza que aplicas; basta con elegir la dirección
-  correcta y empezar a caminar.
+  Ante una decisión difícil y muy duradera (casarse, un trabajo, una casa, una
+  ciudad, un socio), si no puedes decidir, la respuesta es no: la sociedad
+  moderna está llena de opciones que no estamos biológicamente preparados para
+  percibir, así que solo conviene decir que sí cuando estás muy seguro; si
+  necesitas una hoja de pros y contras, es un no.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, juicio, estrategia]
+domain: [naval, decisiones, heuristica]
 
 llm_confidence: 0.50
 
@@ -30,8 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,5 +45,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim]]

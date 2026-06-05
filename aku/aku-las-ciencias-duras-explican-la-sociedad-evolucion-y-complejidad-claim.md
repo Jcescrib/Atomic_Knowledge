@@ -1,14 +1,16 @@
 ---
 type: aku
 aku_class: claim
-id: aku-la-direccion-importa-mas-que-la-velocidad-sobre-todo-con-leverage-claim
+id: aku-las-ciencias-duras-explican-la-sociedad-evolucion-y-complejidad-claim
 statement: >
-  La dirección en la que te mueves importa mucho más que la velocidad a la que
-  lo haces, sobre todo con leverage: elegir bien la dirección de cada decisión
-  pesa muchísimo más que la fuerza que aplicas; basta con elegir la dirección
-  correcta y empezar a caminar.
+  La evolución, la termodinámica, la teoría de la información y la complejidad
+  tienen gran poder explicativo y predictivo sobre muchos aspectos de la vida
+  (gran parte de la sociedad moderna se explica por la evolución y la selección
+  sexual); además, la complejidad enseña los límites de nuestro conocimiento y
+  de nuestra capacidad de predecir, recomendando operar asumiendo la propia
+  ignorancia.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, juicio, estrategia]
+domain: [naval, modelos-mentales, ciencia]
 
 llm_confidence: 0.50
 
@@ -30,8 +32,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,5 +46,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim]]

@@ -1,14 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-la-direccion-importa-mas-que-la-velocidad-sobre-todo-con-leverage-claim
+id: aku-los-sesgos-son-heuristicas-de-ahorro-de-tiempo-descartalos-en-decisiones-importantes-claim
 statement: >
-  La dirección en la que te mueves importa mucho más que la velocidad a la que
-  lo haces, sobre todo con leverage: elegir bien la dirección de cada decisión
-  pesa muchísimo más que la fuerza que aplicas; basta con elegir la dirección
-  correcta y empezar a caminar.
+  Casi todos los sesgos son heurísticas de ahorro de tiempo útiles en lo
+  rutinario, pero para las decisiones importantes conviene descartar la memoria
+  y la identidad y centrarse limpiamente en el problema, decidiendo en el
+  momento sin recurrir a juicios preempaquetados.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, juicio, estrategia]
+domain: [naval, sesgos, decisiones]
 
 llm_confidence: 0.50
 
@@ -30,8 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,5 +44,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim]]

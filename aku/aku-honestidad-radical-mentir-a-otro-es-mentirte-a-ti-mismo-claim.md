@@ -1,14 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-la-direccion-importa-mas-que-la-velocidad-sobre-todo-con-leverage-claim
+id: aku-honestidad-radical-mentir-a-otro-es-mentirte-a-ti-mismo-claim
 statement: >
-  La dirección en la que te mueves importa mucho más que la velocidad a la que
-  lo haces, sobre todo con leverage: elegir bien la dirección de cada decisión
-  pesa muchísimo más que la fuerza que aplicas; basta con elegir la dirección
-  correcta y empezar a caminar.
+  La honestidad radical es una vía a la libertad: en el momento en que dices a
+  alguien algo deshonesto, te has mentido a ti mismo, empiezas a creer tu propia
+  mentira y te desconectas de la realidad; como dijo Feynman, la persona más
+  fácil de engañar eres tú mismo.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, juicio, estrategia]
+domain: [naval, honestidad, realidad]
 
 llm_confidence: 0.50
 
@@ -31,7 +31,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim
+    - aku-no-puedes-ocultarte-de-ti-mismo-tus-valores-determinan-tu-autoestima-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,6 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim]]
+**related** ↔ [[aku-no-puedes-ocultarte-de-ti-mismo-tus-valores-determinan-tu-autoestima-claim]]

@@ -1,14 +1,14 @@
 ---
 type: aku
-aku_class: claim
-id: aku-la-direccion-importa-mas-que-la-velocidad-sobre-todo-con-leverage-claim
+aku_class: method
+id: aku-elogia-en-concreto-critica-en-general-method
 statement: >
-  La dirección en la que te mueves importa mucho más que la velocidad a la que
-  lo haces, sobre todo con leverage: elegir bien la dirección de cada decisión
-  pesa muchísimo más que la fuerza que aplicas; basta con elegir la dirección
-  correcta y empezar a caminar.
+  Para que los egos jueguen a tu favor y no en tu contra, aplica la regla de
+  Buffett: si criticas, no critiques a la persona sino el enfoque general o la
+  clase de actividad; si elogias, busca a la persona que mejor ejemplifica lo
+  que elogias y elógiala en concreto y por su nombre.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, juicio, estrategia]
+domain: [naval, comunicacion, liderazgo]
 
 llm_confidence: 0.50
 
@@ -30,8 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,5 +44,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim]]

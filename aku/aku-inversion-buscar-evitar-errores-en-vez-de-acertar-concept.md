@@ -1,14 +1,14 @@
 ---
 type: aku
-aku_class: claim
-id: aku-la-direccion-importa-mas-que-la-velocidad-sobre-todo-con-leverage-claim
+aku_class: concept
+id: aku-inversion-buscar-evitar-errores-en-vez-de-acertar-concept
 statement: >
-  La dirección en la que te mueves importa mucho más que la velocidad a la que
-  lo haces, sobre todo con leverage: elegir bien la dirección de cada decisión
-  pesa muchísimo más que la fuerza que aplicas; basta con elegir la dirección
-  correcta y empezar a caminar.
+  La inversión (inversion) como modelo mental consiste en, en lugar de intentar
+  decir qué funcionará, eliminar lo que no funcionará: el éxito va más de evitar
+  juicios incorrectos y no cometer errores que de tener el juicio correcto;
+  implica abordar los problemas desde su negación.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [naval, juicio, estrategia]
+domain: [naval, modelos-mentales, inversion]
 
 llm_confidence: 0.50
 
@@ -31,7 +31,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim
+    - aku-modelos-mentales-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,6 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim]]
+**related** ↔ [[aku-modelos-mentales-concept]]
