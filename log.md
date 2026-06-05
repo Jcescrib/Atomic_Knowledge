@@ -619,3 +619,13 @@ Tras el refactor PASO 3, conexión de la capa ejecutable y aplicación de las co
 - **Normalización**: 14 AKUs `llm_confidence: 0.5` → `0.50`.
 
 verify_graph: 1044 AKUs, 0 errores.
+
+## 2026-06-05 — FASE 1 corpus Jocko: conversión 6 libros + routing/source-tag
+
+Convertidos los 6 libros de `G:\Mi unidad\JOCKO` a markdown en `raw/libros/jocko/`: **extreme-ownership** y **dichotomy-of-leadership** (PDF → MinerU `-b pipeline -l latin`, 289 y 345 págs), **discipline-equals-freedom**, **leadership-strategy-and-tactics**, **32-principles**, **the-code** (EPUB → `epub_to_md.py`). Routing `*JOCKO*` → `raw/libros/jocko` en `raw_subdir_for`; source-tag `jocko` añadido a la tabla de CLAUDE.md; 6 entradas nuevas en `pipeline-manifest.yml` (`ingested: null`). Nota técnica: los nombres de Anna's Archive llevan apóstrofo tipográfico (U+2019) que git-bash corrompe al pasar argv a Python → conversiones lanzadas desde PowerShell con `PYTHONUTF8=1` (argv Unicode nativo), pasando slug limpio como destino. Commit `52a2b26`.
+
+## 2026-06-05 — FASE 2 Jocko · Libro 1 Extreme Ownership — Introducción (cap 0)
+
+Ingesta hiper-exhaustiva, granularidad máxima. **COBERTURA**: 11 items (4 concept, 1 method, 6 claim) → **11 AKUs nuevos** (1044→1055), 0 dedups (corpus nuevo). Núcleo: `extreme-ownership` (concept fundacional) `supported_by` humildad-asumir-errores + mejores-lideres-mision-no-ego; `laws-of-combat` (paraguas 4 leyes) `supported_by` extreme-ownership; `medida-significativa-liderazgo` `constrains` lider-efectivo-vs-inefectivo; + liderazgo-factor-mas-importante, liderazgo-en-todos-los-niveles, principios-combate-aplican-a-negocio, simple-but-not-easy, relax-look-around-make-a-call (method decisión bajo presión). Todos `sourced`/`jocko`/`unvalidated`/0.50.
+
+**INTEGRATE 5.5**: sin puentes (a) text-anchored al grafo existente (corpus de liderazgo, no de negocio) → el cluster Jocko es de momento componente separado (2 componentes). **Flags (b) pendientes de Joan**: extreme-ownership ↔ aku-autoliderazgo-prerequisito-claim; mejores-lideres-mision-no-ego ↔ aku-autoconciencia-lider-carencias-claim / aku-autoevaluacion-cuerpo-mente-alma-concept; liderazgo-en-todos-los-niveles ↔ aku-estilos-autoritario-delegativo-concept; relax-look-around-make-a-call ↔ aku-asumir-equivocarse-claim. verify_graph: 1055 AKUs, 0 errores.

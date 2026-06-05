@@ -1471,9 +1471,9 @@ sources:
     converter: mineru
     converted: 2026-06-05
     image_processing: null
-    ingested: null
-    chapters_ingested: []
-    aku_count: 0
+    ingested: null   # FASE 2 en curso — book mode
+    chapters_ingested: [introduccion]
+    aku_count: 11
     taku_count: 0
     last_commit: ""
     notes: >
