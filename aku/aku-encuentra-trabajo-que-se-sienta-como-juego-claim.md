@@ -33,6 +33,7 @@ relations:
   related:
     - aku-escapa-la-competencia-mediante-autenticidad-claim
     - aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim
+    - aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-escapa-la-competencia-mediante-autenticidad-claim]] · [[aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim]]
+**related** ↔ [[aku-escapa-la-competencia-mediante-autenticidad-claim]] · [[aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim]] · [[aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim]]

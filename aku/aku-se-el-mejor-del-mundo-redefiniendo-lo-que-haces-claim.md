@@ -32,6 +32,7 @@ relations:
   related:
     - aku-escapa-la-competencia-mediante-autenticidad-claim
     - aku-armate-con-specific-knowledge-accountability-y-leverage-claim
+    - aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-escapa-la-competencia-mediante-autenticidad-claim]] · [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]]
+**related** ↔ [[aku-escapa-la-competencia-mediante-autenticidad-claim]] · [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim]]
