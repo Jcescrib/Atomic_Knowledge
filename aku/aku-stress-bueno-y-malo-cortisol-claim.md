@@ -1,13 +1,16 @@
 ---
 type: aku
 aku_class: claim
-id: aku-no-razonar-con-la-debilidad-solo-actuar-claim
+id: aku-stress-bueno-y-malo-cortisol-claim
 statement: >
-  Todo empieza en la oscuridad cuando suena la alarma: hay que levantarse pese a
-  la fatiga y el dolor, hacerlo rápido y sin pensar, porque no se puede razonar
-  con la debilidad —solo se puede tomar acción—; levántate y ve.
+  El estrés es bueno y malo: hace falta algo de estrés para mejorar (hay que
+  empujar cuerpo y mente), y el cortisol que libera da energía y foco; pero el
+  cortisol crónicamente alto reprime la inmunidad, sube la tensión, deposita
+  grasa y causa sobreentrenamiento; el ejercicio condiciona al cuerpo a
+  equilibrar el cortisol, así que hay que estresar el cuerpo algo, pero no en
+  exceso.
 origin: "Jocko Willink, Discipline Equals Freedom: Field Manual (2017)"
-domain: [liderazgo, jocko, disciplina, accion, autocontrol]
+domain: [jocko, fisico, salud, estres, fisiologia]
 
 llm_confidence: 0.50
 
@@ -30,9 +33,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-mind-control-controla-tu-propia-mente-concept
-    - aku-empezar-aqui-y-ahora-method
-    - aku-madrugar-predawn-stand-to-claim
+    - aku-gestionar-stress-detach-y-perspectiva-method
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-mind-control-controla-tu-propia-mente-concept]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-madrugar-predawn-stand-to-claim]]
+**related** ↔ [[aku-gestionar-stress-detach-y-perspectiva-method]]

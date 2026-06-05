@@ -1,13 +1,16 @@
 ---
 type: aku
 aku_class: claim
-id: aku-no-razonar-con-la-debilidad-solo-actuar-claim
+id: aku-entrenamiento-fisico-cuerpo-y-mente-claim
 statement: >
-  Todo empieza en la oscuridad cuando suena la alarma: hay que levantarse pese a
-  la fatiga y el dolor, hacerlo rápido y sin pensar, porque no se puede razonar
-  con la debilidad —solo se puede tomar acción—; levántate y ve.
+  El entrenamiento físico mejora cuerpo y mente: te hace más sano (sube
+  endorfinas, testosterona, hormona de crecimiento, volumen cardíaco,
+  sensibilidad a la insulina; previene hipertensión, obesidad, cardiopatía,
+  diabetes tipo 2, insomnio y depresión) y más listo (mejora el flujo sanguíneo
+  al cerebro, genera nuevas neuronas, la plasticidad sináptica y libera
+  dopamina, serotonina y BDNF).
 origin: "Jocko Willink, Discipline Equals Freedom: Field Manual (2017)"
-domain: [liderazgo, jocko, disciplina, accion, autocontrol]
+domain: [jocko, fisico, salud]
 
 llm_confidence: 0.50
 
@@ -30,9 +33,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-mind-control-controla-tu-propia-mente-concept
-    - aku-empezar-aqui-y-ahora-method
-    - aku-madrugar-predawn-stand-to-claim
+    - aku-disciplina-se-extiende-a-todo-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-mind-control-controla-tu-propia-mente-concept]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-madrugar-predawn-stand-to-claim]]
+**related** ↔ [[aku-disciplina-se-extiende-a-todo-claim]]

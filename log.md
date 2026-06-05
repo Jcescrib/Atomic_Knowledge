@@ -782,3 +782,7 @@ Creados los 6 TAKUs ejecutables flaggeados (86→92 TAKUs draft, todos `content_
 ### Batch 5 «Me Versus Me → Laughter Wins» (+8 AKUs) — cierra PARTE 1 (Thoughts)
 
 **COBERTURA**: 8 claims. 1248→1256. me-versus-me-superarte-a-ti-mismo, derrota-por-mil-rendiciones-pequenas (vigilancia), paso-agresivo-hacia-el-miedo (↔ default-agresivo/hesitacion-es-el-enemigo), la-oscuridad-solo-gana-si-la-dejas, abrumado-pelear-mas-duro-priorizar (↔ prioritize-and-execute), ignorar-y-superar-a-los-negativos, no-razonar-con-la-debilidad-solo-actuar (↔ mind-control), la-risa-gana (↔ good-mindset). **PARTE 1 (Thoughts) completa**. verify_graph: 1256 AKUs, 0 errores.
+
+### Batch 6A «Parte 2 Actions: Physical Training → Home Gym» (+9 AKUs, +3 TAKUs)
+
+**COBERTURA**: 9 nuevos (1 concept, 2 method, 6 claim) + 3 TAKUs. 1256→1265. Claims: entrenamiento-fisico-cuerpo-y-mente, stress-bueno-y-malo-cortisol, madrugar-predawn-stand-to, willpower-no-es-finita-disciplina-engendra-disciplina (la voluntad se fortalece con el uso, no se agota), sueno-es-necesidad-7-9h, en-el-workout-lo-importante-es-hacer-algo-y-trackear. Methods: conciliar-sueno-temprano-pasos, power-nap-pies-elevados. Concept: home-gym-equipo-basico. TAKUs (draft): `conciliar-el-sueno` (protocol), `power-nap` (technique), `home-gym-basico` (tool). Fix: B6-8 related apuntaba por error a taku-ir-igualmente (TAKU) → corregido a aku-not-feeling-it-go-anyway (las relaciones AKU solo apuntan a AKUs). verify_graph: 1265 AKUs, 0 errores.

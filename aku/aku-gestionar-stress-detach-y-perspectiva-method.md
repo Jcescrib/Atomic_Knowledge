@@ -35,6 +35,7 @@ relations:
   related:
     - aku-detach-tactico-estrategico-concept
     - aku-extreme-ownership-concept
+    - aku-stress-bueno-y-malo-cortisol-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-detach-tactico-estrategico-concept]] · [[aku-extreme-ownership-concept]]
+**related** ↔ [[aku-detach-tactico-estrategico-concept]] · [[aku-extreme-ownership-concept]] · [[aku-stress-bueno-y-malo-cortisol-claim]]
