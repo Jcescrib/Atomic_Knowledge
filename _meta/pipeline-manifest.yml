@@ -1470,10 +1470,10 @@ sources:
     raw_path: "raw/libros/jocko/extreme-ownership/"
     converter: mineru
     converted: 2026-06-05
-    image_processing: null
-    ingested: null   # FASE 2 en curso — book mode
-    chapters_ingested: [introduccion, cap01-extreme-ownership, cap02-no-bad-teams, cap03-believe, cap04-check-the-ego, cap05-cover-and-move, cap06-simple, cap07-prioritize-and-execute, cap08-decentralized-command, cap09-plan, cap10-leading-up-and-down, cap11-decisiveness-amid-uncertainty]
-    aku_count: 118
+    image_processing: n/a   # figuras = fotos de combate decorativas; contenido en texto
+    ingested: 2026-06-05   # LIBRO COMPLETO (intro + 12 caps), book mode
+    chapters_ingested: [introduccion, cap01-extreme-ownership, cap02-no-bad-teams, cap03-believe, cap04-check-the-ego, cap05-cover-and-move, cap06-simple, cap07-prioritize-and-execute, cap08-decentralized-command, cap09-plan, cap10-leading-up-and-down, cap11-decisiveness-amid-uncertainty, cap12-dichotomy-discipline-equals-freedom]
+    aku_count: 133
     taku_count: 0
     last_commit: ""
     notes: >

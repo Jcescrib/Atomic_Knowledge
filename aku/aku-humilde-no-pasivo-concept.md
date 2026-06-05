@@ -1,14 +1,14 @@
 ---
 type: aku
 aku_class: concept
-id: aku-confident-but-not-cocky-concept
+id: aku-humilde-no-pasivo-concept
 statement: >
-  «Confident but not cocky» (seguro pero no chulesco) es el principio de ser
-  confiado en las propias habilidades y estar ansioso por misiones difíciles,
-  pero sin caer en la arrogancia; incluye tomarse en serio al adversario y no
-  creerse demasiado bueno para fallar; excluye la complacencia.
+  Dicotomía humilde-no pasivo: el líder debe tener humildad —controlar el ego,
+  escuchar, admitir errores y asumirlos—, pero no ser pasivo: debe saber alzar
+  la voz cuando importa y plantarse respetuosamente ante una decisión u orden
+  que perjudique el éxito de la misión.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, ego, confianza]
+domain: [liderazgo, jocko, dicotomia]
 
 llm_confidence: 0.50
 
@@ -23,8 +23,7 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by:
-    - aku-nunca-complacencia-subestimar-enemigo-claim
+  supported_by: []
   supports:
     - aku-dichotomy-of-leadership-concept
   constrained_by: []
@@ -32,8 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-check-the-ego-concept
+  related: []
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,9 +43,5 @@ status_note: ""
 ---
 
 ## Relaciones
-
-**supported_by** ← [[aku-nunca-complacencia-subestimar-enemigo-claim]]
-
-**related** ↔ [[aku-check-the-ego-concept]]
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]

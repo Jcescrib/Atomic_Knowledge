@@ -52,7 +52,8 @@ relations:
   breaks_context_of: []
   contradicts:
     - aku-tortured-genius-concept
-  related: []
+  related:
+    - aku-balance-ownership-decentralized-command-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -70,3 +71,5 @@ status_note: ""
 **supports** → [[aku-laws-of-combat-concept]] · [[aku-no-bad-teams-only-bad-leaders-concept]] · [[aku-believe-in-the-mission-concept]] · [[aku-leading-up-the-chain-concept]]
 
 **contradicts** ↔ [[aku-tortured-genius-concept]]
+
+**related** ↔ [[aku-balance-ownership-decentralized-command-concept]]

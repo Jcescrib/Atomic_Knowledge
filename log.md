@@ -677,3 +677,9 @@ Ingesta hiper-exhaustiva, granularidad máxima. **COBERTURA**: 11 items (4 conce
 ### Cap 11 «Decisiveness amid Uncertainty» (+8 AKUs)
 
 **COBERTURA**: 8 items (2 concept, 1 method, 5 claim). 1154→1162. `decisiveness-amid-uncertainty` (related relax-look-around/prioritize-execute/contingency-planning) y `battlefield-promotion` (ascender talento de primera línea). Method: conjetura-educada. Claims: no-hay-solucion-100-correcta (↔ el-enemigo-tiene-voto), esperar-certeza-causa-paralisis (analysis paralysis), default-agresivo-proactivo-dictar-situacion (↔ proactivos-no-reactivos), lider-percibido-como-decisivo, cortar-cancers-del-equipo-rapido (↔ tortured-genius/lealtad-mision). verify_graph: 1162 AKUs, 0 errores.
+
+### Cap 12 «Discipline Equals Freedom — The Dichotomy of Leadership» (+15 AKUs) — CIERRA LIBRO 1
+
+**COBERTURA**: 15 items (14 concept, 1 claim). 1162→1177. Catálogo de dicotomías (puente al Libro 2). Umbrella `dichotomy-of-leadership` `supported_by` cada dicotomía específica (axioma con 14 supports, incluido `confident-but-not-cocky` del cap 4 wirado como instancia). `discipline-equals-freedom` (título; enriquecerá con Libro 3). 11 dicotomías concept: lider-y-seguidor, agresivo-no-prepotente, calmado-no-robotico, valiente-no-temerario, competitivo-buen-perdedor, atento-detalle-no-obsesionado, fuerte-con-resistencia, humilde-no-pasivo, callado-no-silencioso, cercano-pero-no-demasiado, balance-ownership-decentralized-command (related EO+DC). Claim meta: lider-se-desvia-por-inclinarse-demasiado. Granularidad máxima: cada dicotomía con nombre propio = AKU (se enriquecerán cuando se ingiera el Libro 2, que dedica capítulos a varias). verify_graph: 1177 AKUs, 0 errores.
+
+**★ LIBRO 1 «EXTREME OWNERSHIP» COMPLETO**: intro + 12 caps = **133 AKUs nuevos** (1044→1177). Manifest `ingested: 2026-06-05`. Pendiente: 2º pase de verificación + informe consolidado.

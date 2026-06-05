@@ -1,14 +1,13 @@
 ---
 type: aku
 aku_class: concept
-id: aku-confident-but-not-cocky-concept
+id: aku-callado-no-silencioso-concept
 statement: >
-  «Confident but not cocky» (seguro pero no chulesco) es el principio de ser
-  confiado en las propias habilidades y estar ansioso por misiones difíciles,
-  pero sin caer en la arrogancia; incluye tomarse en serio al adversario y no
-  creerse demasiado bueno para fallar; excluye la complacencia.
+  Dicotomía callado-no silencioso: el líder no necesita acaparar la palabra,
+  pero tampoco debe permanecer en silencio cuando algo importa; debe hablar para
+  defender al equipo y discrepar respetuosamente cuando es necesario.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, ego, confianza]
+domain: [liderazgo, jocko, dicotomia]
 
 llm_confidence: 0.50
 
@@ -23,8 +22,7 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by:
-    - aku-nunca-complacencia-subestimar-enemigo-claim
+  supported_by: []
   supports:
     - aku-dichotomy-of-leadership-concept
   constrained_by: []
@@ -32,8 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-check-the-ego-concept
+  related: []
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,9 +42,5 @@ status_note: ""
 ---
 
 ## Relaciones
-
-**supported_by** ← [[aku-nunca-complacencia-subestimar-enemigo-claim]]
-
-**related** ↔ [[aku-check-the-ego-concept]]
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
