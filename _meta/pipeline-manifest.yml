@@ -1656,16 +1656,17 @@ sources:
     raw_path: "raw/libros/james-clear/atomic-habits/"
     converter: mineru
     converted: 2026-06-05
-    image_processing: in-progress   # blockquotes ch1-14 (16 figuras procesadas)
-    ingested: in-progress   # FUNDAMENTALS + 1ST/2ND/3RD LAW COMPLETOS + 4TH LAW iniciada
+    image_processing: in-progress   # blockquotes ch1-14 (16 figuras); resto sin diagramas hasta Goldilocks
+    ingested: in-progress   # FUNDAMENTALS + LAS 4 LEYES COMPLETAS (ch1-17)
     chapters_ingested: [ch1-fundamentals-power, ch2-identity, ch3-habit-loop-four-laws,
       ch4-make-it-obvious-awareness, ch5-implementation-intentions-habit-stacking,
       ch6-environment, ch7-self-control, ch8-attractive-dopamine, ch9-social-norms,
       ch10-reframe-cravings, ch11-motion-vs-action, ch12-least-effort, ch13-two-minute-rule,
-      ch14-commitment-automation, ch15-cardinal-rule-intro]
-    aku_count: 58
+      ch14-commitment-automation, ch15-cardinal-rule, ch16-habit-tracking-never-miss-twice,
+      ch17-accountability-habit-contract]
+    aku_count: 66
     taku_count: 1
-    last_commit: "401eee5"
+    last_commit: "b0c69ef"
     notes: >
       TAREA 2, libro 2. Atomic Habits (James Clear, 2018). source-tag: james-clear.
       PDF → MinerU (285 págs, 43 imgs). EN CURSO. **THE FUNDAMENTALS (ch1-3) COMPLETO**:
@@ -1680,17 +1681,17 @@ sources:
       intention, efecto-Diderot, habit-stacking), ch6 (entorno=mano-invisible B=f(P,E), vision=
       mayor-catalizador, disena-tu-entorno, contexto-es-el-cue), ch7 (adicciones-se-disuelven-
       al-cambiar-entorno [Vietnam], disciplinados-estructuran-entorno, autocontrol-corto-plazo).
-      3RD LAW (Make It Easy) COMPLETA: ch11 (motion-vs-action, habitos-por-frecuencia-no-tiempo
-      [Hebb]), ch12 (ley-del-minimo-esfuerzo, reduce-friccion, prime-el-entorno), ch13 (momentos-
-      decisivos, two-minute-rule), ch14 (commitment-device, automatiza-con-tecnologia/decisiones-
-      unicas). 4TH LAW iniciada: ch15 cardinal-rule (lo-recompensado-se-repite). **PRÓXIMO
-      (resume): línea ~2172 — resto de THE 4TH LAW (Make It Satisfying)**: ch16 How to Stick
-      with Good Habits Every Day (immediate reward, habit tracking, never-miss-twice), ch17 How
-      an Accountability Partner Can Change Everything (habit contract). Luego ADVANCED TACTICS:
-      ch18 Truth About Talent (genes/Goldilocks), ch19 Goldilocks Rule, ch20 Downside of Good
-      Habits + Conclusion + 'Little Lessons from the Four Laws' (apendice aforismos, ~l.2896-3804).
-      ~28 figuras restantes (la mayoria en Goldilocks/talento). Dedup cross-corpus: deseo/cinco-
-      chimpances/comprometete-externamente↔Naval, empezar-aqui-ahora/disciplina/good-mindset↔Jocko.
+      **LAS 4 LEYES DEL CAMBIO DE CONDUCTA COMPLETAS** (1ª Make It Obvious, 2ª Make It Attractive,
+      3ª Make It Easy, 4ª Make It Satisfying + sus inversiones). 4ª Ley: ch15 (entorno-recompensa-
+      inmediata-vs-diferida, anade-placer-inmediato), ch16 (incentivos-inician/identidad-sostiene,
+      habit-tracker/no-rompas-la-cadena, never-miss-twice, ley-de-goodhart), ch17 (castigo-inmediato,
+      habit-contract/accountability-partner). **PRÓXIMO (resume): línea ~2465 — ADVANCED TACTICS**:
+      ch18 The Truth About Talent (genes/personalidad, elige el juego correcto), ch19 The Goldilocks
+      Rule (dificultad optima/flow, aburrimiento es el enemigo), ch20 Downside of Creating Good
+      Habits (revisar, reflexion/review) + Conclusion + apendice 'Little Lessons from the Four Laws'
+      (~l.2896-3804, aforismos). ~6 figuras restantes (ch18-19 talento/Goldilocks). Dedup cross-corpus
+      aplicado: deseo/cinco-chimpances/comprometete-externamente/run-uphill↔Naval, empezar-aqui-ahora/
+      disciplina/good-mindset/caer-del-path-inevitable↔Jocko.
 
   - original: "G:\Mi unidad\Robert Greene\The 48 Laws of Power -- Greene, Robert -- 2000 -- Penguin Publishing Group -- df1924a1c79bd326dc2886b61daa6f9f -- Anna’s Archive.pdf"
     name_slug: "48-laws-of-power"
