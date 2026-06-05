@@ -36,6 +36,7 @@ relations:
     - aku-anchor-principle-concept
     - aku-river-principle-concept
     - aku-buoyancy-principle-concept
+    - aku-soltar-control-egoista-permite-crecer-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-anchor-principle-concept]] · [[aku-river-principle-concept]] · [[aku-buoyancy-principle-concept]]
+**related** ↔ [[aku-anchor-principle-concept]] · [[aku-river-principle-concept]] · [[aku-buoyancy-principle-concept]] · [[aku-soltar-control-egoista-permite-crecer-claim]]

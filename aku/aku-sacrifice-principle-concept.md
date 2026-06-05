@@ -36,6 +36,7 @@ relations:
     - aku-isolation-principle-concept
     - aku-false-surrender-principle-concept
     - aku-momentum-principle-concept
+    - aku-sacrificar-el-ego-coste-percibido-mayor-que-real-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-sacrificio-real-vs-decoy-concept]]
 
-**related** ↔ [[aku-isolation-principle-concept]] · [[aku-false-surrender-principle-concept]] · [[aku-momentum-principle-concept]]
+**related** ↔ [[aku-isolation-principle-concept]] · [[aku-false-surrender-principle-concept]] · [[aku-momentum-principle-concept]] · [[aku-sacrificar-el-ego-coste-percibido-mayor-que-real-claim]]

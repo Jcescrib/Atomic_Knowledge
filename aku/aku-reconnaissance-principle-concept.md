@@ -39,6 +39,8 @@ relations:
     - aku-prevention-principle-concept
     - aku-tension-principle-concept
     - aku-conducta-sigue-patrones-y-se-revela-claim
+    - aku-ensenar-con-no-a-incorporar-feedback-claim
+    - aku-presion-revela-debilidades-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -51,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-kuzushi-principle-concept]] · [[aku-creation-principle-concept]] · [[aku-river-principle-concept]] · [[aku-prevention-principle-concept]] · [[aku-tension-principle-concept]] · [[aku-conducta-sigue-patrones-y-se-revela-claim]]
+**related** ↔ [[aku-kuzushi-principle-concept]] · [[aku-creation-principle-concept]] · [[aku-river-principle-concept]] · [[aku-prevention-principle-concept]] · [[aku-tension-principle-concept]] · [[aku-conducta-sigue-patrones-y-se-revela-claim]] · [[aku-ensenar-con-no-a-incorporar-feedback-claim]] · [[aku-presion-revela-debilidades-claim]]

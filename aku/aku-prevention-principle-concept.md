@@ -36,6 +36,8 @@ relations:
     - aku-acceptance-principle-concept
     - aku-tension-principle-concept
     - aku-depletion-principle-concept
+    - aku-detener-progreso-agota-al-rival-claim
+    - aku-usar-nombres-reduce-conflicto-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-reconnaissance-principle-concept]] · [[aku-acceptance-principle-concept]] · [[aku-tension-principle-concept]] · [[aku-depletion-principle-concept]]
+**related** ↔ [[aku-reconnaissance-principle-concept]] · [[aku-acceptance-principle-concept]] · [[aku-tension-principle-concept]] · [[aku-depletion-principle-concept]] · [[aku-detener-progreso-agota-al-rival-claim]] · [[aku-usar-nombres-reduce-conflicto-claim]]

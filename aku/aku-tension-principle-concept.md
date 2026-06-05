@@ -36,6 +36,9 @@ relations:
     - aku-prevention-principle-concept
     - aku-reconnaissance-principle-concept
     - aku-fork-principle-concept
+    - aku-agarres-tensos-rompen-relaciones-claim
+    - aku-eustress-estres-positivo-concept
+    - aku-tension-revela-la-verdad-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -50,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-tres-tecnicas-de-tension-concept]]
 
-**related** ↔ [[aku-prevention-principle-concept]] · [[aku-reconnaissance-principle-concept]] · [[aku-fork-principle-concept]]
+**related** ↔ [[aku-prevention-principle-concept]] · [[aku-reconnaissance-principle-concept]] · [[aku-fork-principle-concept]] · [[aku-agarres-tensos-rompen-relaciones-claim]] · [[aku-eustress-estres-positivo-concept]] · [[aku-tension-revela-la-verdad-claim]]

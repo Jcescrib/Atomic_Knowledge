@@ -37,6 +37,7 @@ relations:
     - aku-detach-tactico-estrategico-concept
     - aku-distance-principle-concept
     - aku-acceptance-principle-concept
+    - aku-soltar-es-la-forma-mas-poderosa-de-ayudar-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -51,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-detachment-bidireccional-concept]]
 
-**related** ↔ [[aku-connection-principle-concept]] · [[aku-detach-tactico-estrategico-concept]] · [[aku-distance-principle-concept]] · [[aku-acceptance-principle-concept]]
+**related** ↔ [[aku-connection-principle-concept]] · [[aku-detach-tactico-estrategico-concept]] · [[aku-distance-principle-concept]] · [[aku-acceptance-principle-concept]] · [[aku-soltar-es-la-forma-mas-poderosa-de-ayudar-claim]]

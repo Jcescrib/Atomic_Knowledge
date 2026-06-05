@@ -36,6 +36,8 @@ relations:
     - aku-distance-principle-concept
     - aku-clock-principle-concept
     - aku-momentum-principle-concept
+    - aku-controlar-timing-vence-rival-mas-rapido-claim
+    - aku-velocity-negocio-tiempo-a-hitos-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-acceptance-principle-concept]] · [[aku-distance-principle-concept]] · [[aku-clock-principle-concept]] · [[aku-momentum-principle-concept]]
+**related** ↔ [[aku-acceptance-principle-concept]] · [[aku-distance-principle-concept]] · [[aku-clock-principle-concept]] · [[aku-momentum-principle-concept]] · [[aku-controlar-timing-vence-rival-mas-rapido-claim]] · [[aku-velocity-negocio-tiempo-a-hitos-concept]]

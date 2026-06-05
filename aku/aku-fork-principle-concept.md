@@ -36,6 +36,7 @@ relations:
     - aku-river-principle-concept
     - aku-creation-principle-concept
     - aku-posture-principle-concept
+    - aku-perseguir-win-win-exito-sostenible-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-tension-principle-concept]] · [[aku-river-principle-concept]] · [[aku-creation-principle-concept]] · [[aku-posture-principle-concept]]
+**related** ↔ [[aku-tension-principle-concept]] · [[aku-river-principle-concept]] · [[aku-creation-principle-concept]] · [[aku-posture-principle-concept]] · [[aku-perseguir-win-win-exito-sostenible-claim]]
