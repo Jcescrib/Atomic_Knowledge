@@ -32,9 +32,11 @@ relations:
   related:
     - aku-ver-problemas-lente-objetiva-claim
     - aku-lideres-nunca-satisfechos-mejora-continua-claim
+    - aku-autoevaluacion-honesta-you-vs-you-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
+  - raw/libros/jocko/the-code/the-code.md
 
 created: 2026-06-05
 updated: 2026-06-05
@@ -46,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-check-the-ego-concept]]
 
-**related** ↔ [[aku-ver-problemas-lente-objetiva-claim]] · [[aku-lideres-nunca-satisfechos-mejora-continua-claim]]
+**related** ↔ [[aku-ver-problemas-lente-objetiva-claim]] · [[aku-lideres-nunca-satisfechos-mejora-continua-claim]] · [[aku-autoevaluacion-honesta-you-vs-you-claim]]

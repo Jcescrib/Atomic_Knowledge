@@ -35,9 +35,11 @@ relations:
     - aku-calmado-no-robotico-concept
     - aku-relax-look-around-make-a-call-method
     - aku-reflect-and-diminish-method
+    - aku-evaluation-character-leadership-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
+  - raw/libros/jocko/the-code/the-code.md
 
 created: 2026-06-05
 updated: 2026-06-05
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-calmado-no-robotico-concept]] · [[aku-relax-look-around-make-a-call-method]] · [[aku-reflect-and-diminish-method]]
+**related** ↔ [[aku-calmado-no-robotico-concept]] · [[aku-relax-look-around-make-a-call-method]] · [[aku-reflect-and-diminish-method]] · [[aku-evaluation-character-leadership-concept]]

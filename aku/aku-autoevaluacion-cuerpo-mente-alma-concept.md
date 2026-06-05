@@ -25,14 +25,20 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-tres-capas-liderazgo-concept]
+  supported_by:
+    - aku-tres-capas-liderazgo-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-mindfulness-concept, aku-ikigai-concept, aku-minimalismo-digital-concept, aku-diagnostico-estrategico-personal-concept]
+  related:
+    - aku-mindfulness-concept
+    - aku-ikigai-concept
+    - aku-minimalismo-digital-concept
+    - aku-diagnostico-estrategico-personal-concept
+    - aku-the-evaluation-concept
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -47,4 +53,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-tres-capas-liderazgo-concept]]
-**related** ↔ [[aku-mindfulness-concept]] · [[aku-ikigai-concept]] · [[aku-minimalismo-digital-concept]] · [[aku-diagnostico-estrategico-personal-concept]]
+**related** ↔ [[aku-mindfulness-concept]] · [[aku-ikigai-concept]] · [[aku-minimalismo-digital-concept]] · [[aku-diagnostico-estrategico-personal-concept]] · [[aku-the-evaluation-concept]]

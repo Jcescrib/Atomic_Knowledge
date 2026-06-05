@@ -41,6 +41,7 @@ relations:
     - aku-disciplina-se-extiende-a-todo-claim
     - aku-empezar-aqui-y-ahora-method
     - aku-pequenas-elecciones-diarias-construyen-todo-claim
+    - aku-the-evaluation-concept
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -53,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-the-path-concept]] · [[aku-eminently-qualified-human-concept]] · [[aku-disciplina-se-extiende-a-todo-claim]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-pequenas-elecciones-diarias-construyen-todo-claim]]
+**related** ↔ [[aku-the-path-concept]] · [[aku-eminently-qualified-human-concept]] · [[aku-disciplina-se-extiende-a-todo-claim]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-pequenas-elecciones-diarias-construyen-todo-claim]] · [[aku-the-evaluation-concept]]

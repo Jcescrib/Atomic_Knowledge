@@ -41,9 +41,11 @@ relations:
     - aku-ganar-respeto-e-influencia-dandolos-claim
     - aku-12-reglas-del-nuevo-lider-method
     - aku-conform-to-influence-claim
+    - aku-evaluation-relationship-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
+  - raw/libros/jocko/the-code/the-code.md
 
 created: 2026-06-05
 updated: 2026-06-05
@@ -53,4 +55,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-confianza-se-construye-no-se-da-claim]] · [[aku-leading-up-the-chain-concept]] · [[aku-leading-down-the-chain-concept]] · [[aku-redirigir-al-jefe-onus-en-ti-method]] · [[aku-play-the-long-game-concept]] · [[aku-no-usar-sandwich-de-critica-claim]] · [[aku-lider-conoce-trabajos-y-pide-ayuda-claim]] · [[aku-ganar-respeto-e-influencia-dandolos-claim]] · [[aku-12-reglas-del-nuevo-lider-method]] · [[aku-conform-to-influence-claim]]
+**related** ↔ [[aku-confianza-se-construye-no-se-da-claim]] · [[aku-leading-up-the-chain-concept]] · [[aku-leading-down-the-chain-concept]] · [[aku-redirigir-al-jefe-onus-en-ti-method]] · [[aku-play-the-long-game-concept]] · [[aku-no-usar-sandwich-de-critica-claim]] · [[aku-lider-conoce-trabajos-y-pide-ayuda-claim]] · [[aku-ganar-respeto-e-influencia-dandolos-claim]] · [[aku-12-reglas-del-nuevo-lider-method]] · [[aku-conform-to-influence-claim]] · [[aku-evaluation-relationship-concept]]

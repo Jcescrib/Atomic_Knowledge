@@ -30,10 +30,12 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-evaluation-character-leadership-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
+  - raw/libros/jocko/the-code/the-code.md
 
 created: 2026-06-05
 updated: 2026-06-05
@@ -44,3 +46,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-check-the-ego-concept]]
+
+**related** ↔ [[aku-evaluation-character-leadership-concept]]
