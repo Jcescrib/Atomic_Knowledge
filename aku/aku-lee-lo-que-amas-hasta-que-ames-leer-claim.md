@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-relee-los-grandes-libros-identifica-los-tuyos-claim
+    - aku-modelos-mentales-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,6 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-relee-los-grandes-libros-identifica-los-tuyos-claim]]
+**related** ↔ [[aku-relee-los-grandes-libros-identifica-los-tuyos-claim]] · [[aku-modelos-mentales-concept]]

@@ -46,6 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
 **related** ↔ [[aku-defensa-propia-jerarquia-mente-correr-arma-claim]] · [[aku-immediate-action-drills-amenaza-method]]

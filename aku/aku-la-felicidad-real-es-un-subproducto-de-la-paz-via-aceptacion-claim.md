@@ -43,6 +43,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
 **related** ↔ [[aku-cambiar-aceptar-o-dejar-concept]]

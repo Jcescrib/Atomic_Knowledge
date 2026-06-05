@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-los-tres-significados-de-la-vida-concept
+    - aku-cambiar-aceptar-o-dejar-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,6 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-los-tres-significados-de-la-vida-concept]]
+**related** ↔ [[aku-los-tres-significados-de-la-vida-concept]] · [[aku-cambiar-aceptar-o-dejar-concept]]

@@ -31,6 +31,7 @@ relations:
   contradicts: []
   related:
     - aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method
+    - aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,6 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method]]
+**related** ↔ [[aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method]] · [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]]

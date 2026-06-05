@@ -34,6 +34,18 @@ relations:
   related:
     - aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept
     - aku-la-realidad-es-neutral-y-la-felicidad-es-una-eleccion-concept
+    - aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method
+    - aku-cuando-de-verdad-quieres-cambiar-cambias-intentar-es-aplazar-claim
+    - aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim
+    - aku-di-a-tus-amigos-que-eres-feliz-para-conformarte-a-ello-claim
+    - aku-el-mayor-superpoder-es-la-capacidad-de-cambiarte-a-ti-mismo-claim
+    - aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim
+    - aku-la-motivacion-es-relativa-encuentra-la-cosa-en-la-que-te-metes-claim
+    - aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim
+    - aku-mejora-metodica-de-tu-baseline-de-felicidad-method
+    - aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method
+    - aku-no-hay-soluciones-permanentes-en-un-sistema-dinamico-claim
+    - aku-toda-actividad-de-pantalla-resta-felicidad-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +58,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-la-realidad-es-neutral-y-la-felicidad-es-una-eleccion-concept]]
+**related** ↔ [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-la-realidad-es-neutral-y-la-felicidad-es-una-eleccion-concept]] · [[aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method]] · [[aku-cuando-de-verdad-quieres-cambiar-cambias-intentar-es-aplazar-claim]] · [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-di-a-tus-amigos-que-eres-feliz-para-conformarte-a-ello-claim]] · [[aku-el-mayor-superpoder-es-la-capacidad-de-cambiarte-a-ti-mismo-claim]] · [[aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim]] · [[aku-la-motivacion-es-relativa-encuentra-la-cosa-en-la-que-te-metes-claim]] · [[aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim]] · [[aku-mejora-metodica-de-tu-baseline-de-felicidad-method]] · [[aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method]] · [[aku-no-hay-soluciones-permanentes-en-un-sistema-dinamico-claim]] · [[aku-toda-actividad-de-pantalla-resta-felicidad-claim]]

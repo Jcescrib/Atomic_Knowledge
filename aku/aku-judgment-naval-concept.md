@@ -41,6 +41,19 @@ relations:
     - aku-juicio-demostrado-con-credibilidad-atrae-leverage-infinito-claim
     - aku-el-juicio-esta-infravalorado-claim
     - aku-sabiduria-es-conocer-consecuencias-a-largo-plazo-juicio-es-aplicarla-concept
+    - aku-con-quien-y-en-que-trabajas-importa-mas-que-cuanto-claim
+    - aku-creacion-de-riqueza-etica-es-posible-claim
+    - aku-cuanto-mas-sabes-menos-diversificas-claim
+    - aku-decide-despacio-actua-rapido-y-deja-que-el-acto-dure-decadas-claim
+    - aku-intenciones-no-importan-importan-las-acciones-claim
+    - aku-la-direccion-importa-mas-que-la-velocidad-sobre-todo-con-leverage-claim
+    - aku-las-conclusiones-interesadas-exigen-un-liston-mas-alto-claim
+    - aku-las-virtudes-clasicas-son-heuristicas-para-optimizar-el-largo-plazo-concept
+    - aku-los-sesgos-son-heuristicas-de-ahorro-de-tiempo-descartalos-en-decisiones-importantes-claim
+    - aku-riqueza-es-entender-que-quien-cuando-no-solo-trabajo-duro-claim
+    - aku-si-no-puedes-decidir-la-respuesta-es-no-claim
+    - aku-te-haces-rico-ahorrando-tiempo-para-ganar-dinero-no-gastando-tiempo-para-ahorrar-claim
+    - aku-tres-grandes-decisiones-donde-vives-con-quien-y-que-haces-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -53,4 +66,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-leverage-multiplicador-de-juicio-concept]] · [[aku-no-existe-la-habilidad-de-los-negocios-claim]] · [[aku-trabajador-apalancado-rinde-1000x-y-el-juicio-supera-las-horas-claim]] · [[aku-earn-with-your-mind-not-your-time-claim]] · [[aku-pequenas-diferencias-de-juicio-se-amplifican-con-leverage-claim]] · [[aku-juicio-demostrado-con-credibilidad-atrae-leverage-infinito-claim]] · [[aku-el-juicio-esta-infravalorado-claim]] · [[aku-sabiduria-es-conocer-consecuencias-a-largo-plazo-juicio-es-aplicarla-concept]]
+**related** ↔ [[aku-leverage-multiplicador-de-juicio-concept]] · [[aku-no-existe-la-habilidad-de-los-negocios-claim]] · [[aku-trabajador-apalancado-rinde-1000x-y-el-juicio-supera-las-horas-claim]] · [[aku-earn-with-your-mind-not-your-time-claim]] · [[aku-pequenas-diferencias-de-juicio-se-amplifican-con-leverage-claim]] · [[aku-juicio-demostrado-con-credibilidad-atrae-leverage-infinito-claim]] · [[aku-el-juicio-esta-infravalorado-claim]] · [[aku-sabiduria-es-conocer-consecuencias-a-largo-plazo-juicio-es-aplicarla-concept]] · [[aku-con-quien-y-en-que-trabajas-importa-mas-que-cuanto-claim]] · [[aku-creacion-de-riqueza-etica-es-posible-claim]] · [[aku-cuanto-mas-sabes-menos-diversificas-claim]] · [[aku-decide-despacio-actua-rapido-y-deja-que-el-acto-dure-decadas-claim]] · [[aku-intenciones-no-importan-importan-las-acciones-claim]] · [[aku-la-direccion-importa-mas-que-la-velocidad-sobre-todo-con-leverage-claim]] · [[aku-las-conclusiones-interesadas-exigen-un-liston-mas-alto-claim]] · [[aku-las-virtudes-clasicas-son-heuristicas-para-optimizar-el-largo-plazo-concept]] · [[aku-los-sesgos-son-heuristicas-de-ahorro-de-tiempo-descartalos-en-decisiones-importantes-claim]] · [[aku-riqueza-es-entender-que-quien-cuando-no-solo-trabajo-duro-claim]] · [[aku-si-no-puedes-decidir-la-respuesta-es-no-claim]] · [[aku-te-haces-rico-ahorrando-tiempo-para-ganar-dinero-no-gastando-tiempo-para-ahorrar-claim]] · [[aku-tres-grandes-decisiones-donde-vives-con-quien-y-que-haces-claim]]

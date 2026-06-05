@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-ciencia-aguas-arriba-de-tecnologia-y-negocio-concept
+    - aku-armate-con-specific-knowledge-accountability-y-leverage-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,6 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-ciencia-aguas-arriba-de-tecnologia-y-negocio-concept]]
+**related** ↔ [[aku-ciencia-aguas-arriba-de-tecnologia-y-negocio-concept]] · [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]]

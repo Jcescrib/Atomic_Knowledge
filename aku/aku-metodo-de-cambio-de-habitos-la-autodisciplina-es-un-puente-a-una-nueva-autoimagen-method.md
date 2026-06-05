@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim
+    - aku-la-felicidad-es-una-habilidad-que-se-aprende-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,6 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim]]
+**related** ↔ [[aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim]] · [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]]

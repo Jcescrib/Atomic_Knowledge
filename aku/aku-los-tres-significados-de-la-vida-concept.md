@@ -35,6 +35,8 @@ relations:
   contradicts: []
   related:
     - aku-abrazar-la-muerte-da-sentido-y-no-hay-legado-concept
+    - aku-no-hay-adultos-todos-improvisan-encuentra-tu-camino-claim
+    - aku-tu-curriculum-real-es-tu-catalogo-de-sufrimiento-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-abrazar-la-muerte-da-sentido-y-no-hay-legado-concept]]
+**related** ↔ [[aku-abrazar-la-muerte-da-sentido-y-no-hay-legado-concept]] · [[aku-no-hay-adultos-todos-improvisan-encuentra-tu-camino-claim]] · [[aku-tu-curriculum-real-es-tu-catalogo-de-sufrimiento-claim]]

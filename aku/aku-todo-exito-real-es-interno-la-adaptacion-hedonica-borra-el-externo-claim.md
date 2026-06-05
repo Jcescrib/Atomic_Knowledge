@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-todos-los-marcadores-reales-son-internos-claim
+    - aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,6 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-todos-los-marcadores-reales-son-internos-claim]]
+**related** ↔ [[aku-todos-los-marcadores-reales-son-internos-claim]] · [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]]

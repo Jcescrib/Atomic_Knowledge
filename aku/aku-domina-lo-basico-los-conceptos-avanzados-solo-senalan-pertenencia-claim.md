@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-lee-los-originales-y-clasicos-para-una-base-solida-claim
+    - aku-modelos-mentales-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,6 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-lee-los-originales-y-clasicos-para-una-base-solida-claim]]
+**related** ↔ [[aku-lee-los-originales-y-clasicos-para-una-base-solida-claim]] · [[aku-modelos-mentales-concept]]

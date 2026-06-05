@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-encuentra-trabajo-que-se-sienta-como-juego-claim
+    - aku-la-felicidad-es-una-habilidad-que-se-aprende-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,6 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-encuentra-trabajo-que-se-sienta-como-juego-claim]]
+**related** ↔ [[aku-encuentra-trabajo-que-se-sienta-como-juego-claim]] · [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]]

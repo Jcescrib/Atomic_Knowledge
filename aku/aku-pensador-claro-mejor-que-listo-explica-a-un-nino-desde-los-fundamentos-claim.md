@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim
+    - aku-modelos-mentales-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,6 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim]]
+**related** ↔ [[aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim]] · [[aku-modelos-mentales-concept]]

@@ -43,6 +43,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
 **related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]]

@@ -34,6 +34,7 @@ relations:
   related:
     - aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim
     - aku-memoria-e-identidad-son-cargas-del-pasado-que-impiden-vivir-el-presente-claim
+    - aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,6 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim]] · [[aku-memoria-e-identidad-son-cargas-del-pasado-que-impiden-vivir-el-presente-claim]]
+**related** ↔ [[aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim]] · [[aku-memoria-e-identidad-son-cargas-del-pasado-que-impiden-vivir-el-presente-claim]] · [[aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept]]

@@ -36,6 +36,14 @@ relations:
   related:
     - aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim
     - aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept
+    - aku-cuanto-mas-procesado-el-alimento-menos-comer-y-resta-antes-de-anadir-claim
+    - aku-haz-algo-fisico-cada-dia-el-mejor-ejercicio-es-el-que-haras-cada-dia-claim
+    - aku-la-grasa-sacia-el-azucar-da-hambre-y-su-combinacion-es-letal-claim
+    - aku-los-sanos-cuidan-mas-que-comen-que-cuanto-comen-claim
+    - aku-mente-en-calma-cuerpo-sano-y-hogar-con-amor-no-se-compran-se-ganan-claim
+    - aku-para-tener-paz-mental-primero-hay-que-tener-paz-del-cuerpo-claim
+    - aku-salvate-a-ti-mismo-nadie-mas-te-hara-sano-ni-sabio-claim
+    - aku-trifecta-tiempo-salud-dinero-segun-la-edad-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -48,4 +56,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim]] · [[aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept]]
+**related** ↔ [[aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim]] · [[aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept]] · [[aku-cuanto-mas-procesado-el-alimento-menos-comer-y-resta-antes-de-anadir-claim]] · [[aku-haz-algo-fisico-cada-dia-el-mejor-ejercicio-es-el-que-haras-cada-dia-claim]] · [[aku-la-grasa-sacia-el-azucar-da-hambre-y-su-combinacion-es-letal-claim]] · [[aku-los-sanos-cuidan-mas-que-comen-que-cuanto-comen-claim]] · [[aku-mente-en-calma-cuerpo-sano-y-hogar-con-amor-no-se-compran-se-ganan-claim]] · [[aku-para-tener-paz-mental-primero-hay-que-tener-paz-del-cuerpo-claim]] · [[aku-salvate-a-ti-mismo-nadie-mas-te-hara-sano-ni-sabio-claim]] · [[aku-trifecta-tiempo-salud-dinero-segun-la-edad-concept]]

@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-nadie-te-valora-mas-de-lo-que-tu-te-valoras-claim
+    - aku-armate-con-specific-knowledge-accountability-y-leverage-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,6 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-nadie-te-valora-mas-de-lo-que-tu-te-valoras-claim]]
+**related** ↔ [[aku-nadie-te-valora-mas-de-lo-que-tu-te-valoras-claim]] · [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]]

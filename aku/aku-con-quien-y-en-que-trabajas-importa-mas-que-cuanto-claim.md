@@ -31,6 +31,7 @@ relations:
   contradicts: []
   related:
     - aku-99-por-ciento-del-esfuerzo-se-desperdicia-encuentra-el-1-claim
+    - aku-judgment-naval-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,6 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-99-por-ciento-del-esfuerzo-se-desperdicia-encuentra-el-1-claim]]
+**related** ↔ [[aku-99-por-ciento-del-esfuerzo-se-desperdicia-encuentra-el-1-claim]] · [[aku-judgment-naval-concept]]

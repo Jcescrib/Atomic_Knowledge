@@ -33,6 +33,13 @@ relations:
   related:
     - aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim
     - aku-cambiar-aceptar-o-dejar-concept
+    - aku-buscar-fuera-de-ti-la-felicidad-es-la-delusion-fundamental-claim
+    - aku-la-adaptacion-hedonica-es-mas-fuerte-en-lo-artificial-que-en-lo-natural-claim
+    - aku-la-vida-son-juegos-de-horizonte-creciente-baja-del-hedonic-treadmill-concept
+    - aku-lo-mas-dificil-no-es-hacer-lo-que-quieres-sino-saber-que-quieres-claim
+    - aku-puedes-lograr-casi-cualquier-cosa-si-es-una-sola-y-la-quieres-mas-que-nada-claim
+    - aku-solo-se-logra-maestria-en-una-o-dos-cosas-claim
+    - aku-ten-un-solo-gran-deseo-a-la-vez-y-perfecciona-tus-deseos-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim]] · [[aku-cambiar-aceptar-o-dejar-concept]]
+**related** ↔ [[aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim]] · [[aku-cambiar-aceptar-o-dejar-concept]] · [[aku-buscar-fuera-de-ti-la-felicidad-es-la-delusion-fundamental-claim]] · [[aku-la-adaptacion-hedonica-es-mas-fuerte-en-lo-artificial-que-en-lo-natural-claim]] · [[aku-la-vida-son-juegos-de-horizonte-creciente-baja-del-hedonic-treadmill-concept]] · [[aku-lo-mas-dificil-no-es-hacer-lo-que-quieres-sino-saber-que-quieres-claim]] · [[aku-puedes-lograr-casi-cualquier-cosa-si-es-una-sola-y-la-quieres-mas-que-nada-claim]] · [[aku-solo-se-logra-maestria-en-una-o-dos-cosas-claim]] · [[aku-ten-un-solo-gran-deseo-a-la-vez-y-perfecciona-tus-deseos-claim]]

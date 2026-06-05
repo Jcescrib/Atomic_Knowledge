@@ -46,6 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
 **related** ↔ [[aku-problemas-a-soluciones-concept]]

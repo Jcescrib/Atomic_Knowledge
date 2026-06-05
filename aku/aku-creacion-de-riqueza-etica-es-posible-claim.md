@@ -31,6 +31,7 @@ relations:
   contradicts: []
   related:
     - aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim
+    - aku-judgment-naval-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,6 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim]]
+**related** ↔ [[aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim]] · [[aku-judgment-naval-concept]]

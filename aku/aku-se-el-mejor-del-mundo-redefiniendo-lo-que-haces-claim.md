@@ -31,6 +31,7 @@ relations:
   contradicts: []
   related:
     - aku-escapa-la-competencia-mediante-autenticidad-claim
+    - aku-armate-con-specific-knowledge-accountability-y-leverage-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,6 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-escapa-la-competencia-mediante-autenticidad-claim]]
+**related** ↔ [[aku-escapa-la-competencia-mediante-autenticidad-claim]] · [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]]
