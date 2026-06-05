@@ -35,6 +35,7 @@ relations:
     - aku-redirection-principle-concept
     - aku-acceptance-principle-concept
     - aku-cambiar-el-sistema-desde-dentro-claim
+    - aku-centerline-principle-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-redirection-principle-concept]] · [[aku-acceptance-principle-concept]] · [[aku-cambiar-el-sistema-desde-dentro-claim]]
+**related** ↔ [[aku-redirection-principle-concept]] · [[aku-acceptance-principle-concept]] · [[aku-cambiar-el-sistema-desde-dentro-claim]] · [[aku-centerline-principle-concept]]

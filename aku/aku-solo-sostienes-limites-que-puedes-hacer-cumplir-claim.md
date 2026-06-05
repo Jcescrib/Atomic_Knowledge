@@ -1,15 +1,15 @@
 ---
 type: aku
 aku_class: claim
-id: aku-aislar-el-problema-divide-y-venceras-claim
+id: aku-solo-sostienes-limites-que-puedes-hacer-cumplir-claim
 statement: >
-  Aislar un problema suele ser la mejor forma de atacarlo: un enfoque sistemático
-  de «divide y vencerás» —aislar un componente tras otro (software/hardware de un
-  ordenador, variables de un test A/B, causas de una mala nota)— reduce el cuadro
-  grande a una vista enfocada y revela soluciones simples que de otro modo pasan
-  inadvertidas.
+  Solo se sostienen los límites que uno es capaz de hacer cumplir: la mayoría no
+  pone los límites que no puede enforcing, y por eso establecer y defender una
+  frontera (verbal, psicológica o emocional) exige confianza en el propio juicio y
+  disposición a aceptar las consecuencias; además, los límites deben ser justos para
+  que se respeten y tengan peso.
 origin: "Rener Gracie & Paul Volponi — The 32 Principles (2023)"
-domain: [jiu-jitsu, principios, jocko, isolation-principle, resolucion-de-problemas]
+domain: [jiu-jitsu, principios, jocko, centerline-principle, limites]
 
 llm_confidence: 0.50
 
@@ -32,7 +32,6 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-isolation-principle-concept
     - aku-centerline-principle-concept
 
 sources:
@@ -46,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-isolation-principle-concept]] · [[aku-centerline-principle-concept]]
+**related** ↔ [[aku-centerline-principle-concept]]
