@@ -34,6 +34,7 @@ relations:
     - aku-tortured-genius-concept
     - aku-lealtad-mision-sobre-individuo-claim
     - aku-battlefield-promotion-concept
+    - aku-ni-muy-rapido-ni-muy-lento-para-despedir-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-tortured-genius-concept]] · [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-battlefield-promotion-concept]]
+**related** ↔ [[aku-tortured-genius-concept]] · [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-battlefield-promotion-concept]] · [[aku-ni-muy-rapido-ni-muy-lento-para-despedir-claim]]

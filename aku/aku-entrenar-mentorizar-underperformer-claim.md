@@ -33,6 +33,7 @@ relations:
   related:
     - aku-lealtad-mision-sobre-individuo-claim
     - aku-lealtad-mal-entendida-proteger-underperformers-claim
+    - aku-when-to-mentor-when-to-fire-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-lealtad-mal-entendida-proteger-underperformers-claim]]
+**related** ↔ [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-lealtad-mal-entendida-proteger-underperformers-claim]] · [[aku-when-to-mentor-when-to-fire-concept]]

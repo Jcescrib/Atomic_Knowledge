@@ -716,3 +716,7 @@ Próximo libro: **dichotomy-of-leadership** (PDF, 345 págs) — enriquecerá lo
 ### Cap 3 «Resolute, but Not Overbearing» (+3 AKUs)
 
 **COBERTURA**: 3 items (2 concept, 1 claim). 1191→1194. `resolute-but-not-overbearing` (`supports` dichotomy-of-leadership; related agresivo-no-prepotente —polo distinto, no dedup— y no-es-lo-que-toleras), `leadership-capital` (poder finito del líder; related confianza-se-construye), enforzar-estandares-siempre-con-el-porque (nunca «porque lo digo yo»; ↔ senior-debe-explicar-el-porque). verify_graph: 1194 AKUs, 0 errores.
+
+### Cap 4 «When to Mentor, When to Fire» (+4 AKUs)
+
+**COBERTURA**: 4 items (1 concept, 3 claim). 1194→1198. `when-to-mentor-when-to-fire` (related entrenar-mentorizar/lealtad-mision/no-bad-teams), lider-responsable-del-output-maximizar-potencial (ubicar a cada uno donde sus fortalezas rinden), invertir-en-uno-puede-perjudicar-al-equipo (la mantra no-bad-teams puede volverse en contra; ↔ lealtad-mal-entendida), ni-muy-rapido-ni-muy-lento-para-despedir (timing; ↔ cortar-cancers). verify_graph: 1198 AKUs, 0 errores.
