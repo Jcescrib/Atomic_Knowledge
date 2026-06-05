@@ -38,9 +38,13 @@ relations:
     - aku-paso-agresivo-hacia-el-miedo-claim
     - aku-no-razonar-con-la-debilidad-solo-actuar-claim
     - aku-madrugar-predawn-stand-to-claim
+    - aku-the-code-concept
+    - aku-the-path-concept
+    - aku-pequenas-elecciones-diarias-construyen-todo-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
+  - raw/libros/jocko/the-code/the-code.md
 
 created: 2026-06-05
 updated: 2026-06-05
@@ -52,4 +56,4 @@ status_note: ""
 
 **supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]]
 
-**related** ↔ [[aku-default-agresivo-proactivo-dictar-situacion-claim]] · [[aku-not-feeling-it-go-anyway-claim]] · [[aku-no-mas-excusas-claim]] · [[aku-paso-agresivo-hacia-el-miedo-claim]] · [[aku-no-razonar-con-la-debilidad-solo-actuar-claim]] · [[aku-madrugar-predawn-stand-to-claim]]
+**related** ↔ [[aku-default-agresivo-proactivo-dictar-situacion-claim]] · [[aku-not-feeling-it-go-anyway-claim]] · [[aku-no-mas-excusas-claim]] · [[aku-paso-agresivo-hacia-el-miedo-claim]] · [[aku-no-razonar-con-la-debilidad-solo-actuar-claim]] · [[aku-madrugar-predawn-stand-to-claim]] · [[aku-the-code-concept]] · [[aku-the-path-concept]] · [[aku-pequenas-elecciones-diarias-construyen-todo-claim]]

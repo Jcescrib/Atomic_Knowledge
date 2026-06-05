@@ -38,9 +38,12 @@ relations:
     - aku-comida-basura-es-veneno-claim
     - aku-entrenamiento-fisico-cuerpo-y-mente-claim
     - aku-progresion-artes-marciales-concept
+    - aku-the-code-concept
+    - aku-pequenas-elecciones-diarias-construyen-todo-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
+  - raw/libros/jocko/the-code/the-code.md
 
 created: 2026-06-05
 updated: 2026-06-05
@@ -52,4 +55,4 @@ status_note: ""
 
 **supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-discipline-equals-freedom-concept]]
 
-**related** ↔ [[aku-comida-basura-es-veneno-claim]] · [[aku-entrenamiento-fisico-cuerpo-y-mente-claim]] · [[aku-progresion-artes-marciales-concept]]
+**related** ↔ [[aku-comida-basura-es-veneno-claim]] · [[aku-entrenamiento-fisico-cuerpo-y-mente-claim]] · [[aku-progresion-artes-marciales-concept]] · [[aku-the-code-concept]] · [[aku-pequenas-elecciones-diarias-construyen-todo-claim]]
