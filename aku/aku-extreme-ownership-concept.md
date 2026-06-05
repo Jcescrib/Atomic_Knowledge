@@ -41,11 +41,13 @@ relations:
     - aku-culpar-se-contagia-claim
   supports:
     - aku-laws-of-combat-concept
+    - aku-no-bad-teams-only-bad-leaders-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
-  contradicts: []
+  contradicts:
+    - aku-tortured-genius-concept
   related: []
 
 sources:
@@ -61,4 +63,6 @@ status_note: ""
 
 **supported_by** ← [[aku-humildad-asumir-errores-claim]] · [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-lider-mirar-al-espejo-claim]] · [[aku-lider-responsable-mision-tactica-recursos-claim]] · [[aku-entrenar-mentorizar-underperformer-claim]] · [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-atribucion-sesgada-exito-fracaso-claim]] · [[aku-owner-no-toma-credito-da-honor-claim]] · [[aku-extreme-ownership-cultura-equipo-claim]] · [[aku-ver-problemas-lente-objetiva-claim]] · [[aku-actitud-lider-determina-exito-claim]] · [[aku-no-obligar-sino-liderar-claim]] · [[aku-culpar-se-contagia-claim]]
 
-**supports** → [[aku-laws-of-combat-concept]]
+**supports** → [[aku-laws-of-combat-concept]] · [[aku-no-bad-teams-only-bad-leaders-concept]]
+
+**contradicts** ↔ [[aku-tortured-genius-concept]]

@@ -1,14 +1,15 @@
 ---
 type: aku
 aku_class: claim
-id: aku-liderazgo-factor-mas-importante-claim
+id: aku-cultura-ownership-resiste-perdida-lider-claim
 statement: >
-  El liderazgo es el factor más importante en el campo de batalla y la mayor
-  razón individual detrás del éxito o el fracaso de cualquier equipo; ningún
-  otro factor influye tanto en el desempeño del equipo como la calidad de su
-  liderazgo.
+  Una vez construida una cultura de Extreme Ownership en todos los niveles, el
+  equipo sigue rindiendo bien incluso cuando se retira temporalmente a un líder
+  fuerte, porque los líderes junior dan un paso al frente y asumen el mando;
+  toda organización necesita líderes junior listos para sustituir a sus jefes
+  inmediatos.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, equipos]
+domain: [liderazgo, jocko, cultura, resiliencia, descentralizacion]
 
 llm_confidence: 0.50
 
@@ -31,9 +32,8 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-medida-significativa-liderazgo-claim
+    - aku-extreme-ownership-cultura-equipo-claim
     - aku-liderazgo-en-todos-los-niveles-claim
-    - aku-no-bad-teams-only-bad-leaders-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-medida-significativa-liderazgo-claim]] · [[aku-liderazgo-en-todos-los-niveles-claim]] · [[aku-no-bad-teams-only-bad-leaders-concept]]
+**related** ↔ [[aku-extreme-ownership-cultura-equipo-claim]] · [[aku-liderazgo-en-todos-los-niveles-claim]]

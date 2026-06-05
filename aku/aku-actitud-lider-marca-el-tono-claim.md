@@ -1,14 +1,13 @@
 ---
 type: aku
 aku_class: claim
-id: aku-actitud-lider-determina-exito-claim
+id: aku-actitud-lider-marca-el-tono-claim
 statement: >
-  Sometidas a escenarios de entrenamiento idénticos, es casi siempre la actitud
-  del líder —asumir la responsabilidad frente a culpar a los demás— lo que
-  determina si la unidad triunfa o fracasa, por encima de las circunstancias, el
-  equipamiento o la experiencia de la tropa.
+  La actitud del líder marca el tono de todo el equipo y se transmite a sus
+  miembros: una actitud negativa o de victimismo infecta al equipo y justifica
+  el bajo rendimiento, mientras que una actitud ganadora lo eleva.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, equipos, desempeno]
+domain: [liderazgo, jocko, actitud, equipos]
 
 llm_confidence: 0.50
 
@@ -25,14 +24,14 @@ epistemic_type: sourced
 relations:
   supported_by: []
   supports:
-    - aku-extreme-ownership-concept
+    - aku-no-bad-teams-only-bad-leaders-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-actitud-lider-marca-el-tono-claim
+    - aku-actitud-lider-determina-exito-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,6 +44,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-extreme-ownership-concept]]
+**supports** → [[aku-no-bad-teams-only-bad-leaders-concept]]
 
-**related** ↔ [[aku-actitud-lider-marca-el-tono-claim]]
+**related** ↔ [[aku-actitud-lider-determina-exito-claim]]

@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-culpar-se-contagia-claim
+    - aku-cultura-ownership-resiste-perdida-lider-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-culpar-se-contagia-claim]]
+**related** ↔ [[aku-culpar-se-contagia-claim]] · [[aku-cultura-ownership-resiste-perdida-lider-claim]]

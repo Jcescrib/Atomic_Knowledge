@@ -1,14 +1,13 @@
 ---
 type: aku
 aku_class: claim
-id: aku-actitud-lider-determina-exito-claim
+id: aku-si-no-ganas-no-tomas-buenas-decisiones-claim
 statement: >
-  Sometidas a escenarios de entrenamiento idénticos, es casi siempre la actitud
-  del líder —asumir la responsabilidad frente a culpar a los demás— lo que
-  determina si la unidad triunfa o fracasa, por encima de las circunstancias, el
-  equipamiento o la experiencia de la tropa.
+  Si no estás ganando, entonces no estás tomando las decisiones correctas: el
+  resultado del equipo es la medida de la calidad de las decisiones del líder, y
+  no se puede afirmar que se decide bien mientras se pierde.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, equipos, desempeno]
+domain: [liderazgo, jocko, decisiones, desempeno]
 
 llm_confidence: 0.50
 
@@ -24,15 +23,14 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports:
-    - aku-extreme-ownership-concept
+  supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-actitud-lider-marca-el-tono-claim
+    - aku-medida-significativa-liderazgo-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,6 +43,4 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-extreme-ownership-concept]]
-
-**related** ↔ [[aku-actitud-lider-marca-el-tono-claim]]
+**related** ↔ [[aku-medida-significativa-liderazgo-claim]]

@@ -1,13 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-entrenar-mentorizar-underperformer-claim
+id: aku-lealtad-mal-entendida-proteger-underperformers-claim
 statement: >
-  Ante un miembro del equipo que no rinde al nivel requerido para que el equipo
-  tenga éxito, el líder debe primero entrenarlo y mentorizarlo para elevar su
-  desempeño antes de cualquier otra medida.
+  La lealtad mal entendida de proteger o «cobijar» a los underperformers
+  crónicos de la rendición de cuentas (mentalidad «nosotros contra ellos» frente
+  a los estándares) arrastra al resto del equipo y es un flaco favor: no se
+  tiene derecho a obligar a otros a cargar con los miembros más débiles.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, equipos, desempeno]
+domain: [liderazgo, jocko, lealtad, estandares]
 
 llm_confidence: 0.50
 
@@ -23,8 +24,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports:
-    - aku-extreme-ownership-concept
+  supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -32,7 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-lealtad-mision-sobre-individuo-claim
-    - aku-lealtad-mal-entendida-proteger-underperformers-claim
+    - aku-entrenar-mentorizar-underperformer-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,6 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-extreme-ownership-concept]]
-
-**related** ↔ [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-lealtad-mal-entendida-proteger-underperformers-claim]]
+**related** ↔ [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-entrenar-mentorizar-underperformer-claim]]

@@ -35,6 +35,7 @@ relations:
   contradicts: []
   related:
     - aku-humildad-asumir-errores-claim
+    - aku-tortured-genius-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-humildad-asumir-errores-claim]]
+**related** ↔ [[aku-humildad-asumir-errores-claim]] · [[aku-tortured-genius-concept]]

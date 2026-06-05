@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-liderazgo-factor-mas-importante-claim
+    - aku-cultura-ownership-resiste-perdida-lider-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-liderazgo-factor-mas-importante-claim]]
+**related** ↔ [[aku-liderazgo-factor-mas-importante-claim]] · [[aku-cultura-ownership-resiste-perdida-lider-claim]]

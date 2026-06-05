@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-entrenar-mentorizar-underperformer-claim
+    - aku-lealtad-mal-entendida-proteger-underperformers-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-entrenar-mentorizar-underperformer-claim]]
+**related** ↔ [[aku-entrenar-mentorizar-underperformer-claim]] · [[aku-lealtad-mal-entendida-proteger-underperformers-claim]]
