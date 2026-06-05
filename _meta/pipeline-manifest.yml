@@ -1656,14 +1656,15 @@ sources:
     raw_path: "raw/libros/james-clear/atomic-habits/"
     converter: mineru
     converted: 2026-06-05
-    image_processing: in-progress   # blockquotes ch1-7 (9 figuras procesadas)
-    ingested: in-progress   # book-mode: FUNDAMENTALS (ch1-3) + 1ST LAW (ch4-7) COMPLETOS
+    image_processing: in-progress   # blockquotes ch1-10 (12 figuras procesadas)
+    ingested: in-progress   # FUNDAMENTALS (ch1-3) + 1ST LAW (ch4-7) + 2ND LAW (ch8-10) COMPLETOS
     chapters_ingested: [ch1-fundamentals-power, ch2-identity, ch3-habit-loop-four-laws,
       ch4-make-it-obvious-awareness, ch5-implementation-intentions-habit-stacking,
-      ch6-environment, ch7-self-control]
-    aku_count: 37
+      ch6-environment, ch7-self-control, ch8-attractive-dopamine, ch9-social-norms,
+      ch10-reframe-cravings]
+    aku_count: 48
     taku_count: 1
-    last_commit: "e7ce543"
+    last_commit: "17d43a1"
     notes: >
       TAREA 2, libro 2. Atomic Habits (James Clear, 2018). source-tag: james-clear.
       PDF → MinerU (285 págs, 43 imgs). EN CURSO. **THE FUNDAMENTALS (ch1-3) COMPLETO**:
@@ -1678,12 +1679,16 @@ sources:
       intention, efecto-Diderot, habit-stacking), ch6 (entorno=mano-invisible B=f(P,E), vision=
       mayor-catalizador, disena-tu-entorno, contexto-es-el-cue), ch7 (adicciones-se-disuelven-
       al-cambiar-entorno [Vietnam], disciplinados-estructuran-entorno, autocontrol-corto-plazo).
-      **PRÓXIMO (resume): línea ~1262 — THE 2ND LAW (Make It Attractive)**: ch8 How to Make a
-      Habit Irresistible (dopamine/temptation bundling), ch9 family/friends shaping habits,
-      ch10 find/fix causes of bad habits, ch11 walk slowly never backward. Luego 3RD LAW
-      (Make It Easy, ch12-15), 4TH LAW (Make It Satisfying, ch16-20), Advanced Tactics, Little
-      Lessons. ~34 figuras por procesar en sus capítulos. Dedup cross-corpus: identidad/hábitos/
-      entorno↔Naval (cinco-chimpances, sistemas-disena-entorno), disciplina↔Jocko, deseo↔Naval.
+      2ND LAW (Make It Attractive) COMPLETA: ch8 (estimulos-supernormales, habitos=bucle-de-
+      dopamina, dopamina-anticipa-recompensa, temptation-bundling), ch9 (imitamos-3-grupos,
+      unete-a-cultura-normal, conducta-de-la-tribu-vence [Asch]), ch10 (craving-de-superficie-
+      vs-motivo-profundo, causa=prediccion-que-precede, deseo=gap-estado-actual/deseado,
+      reencuadra-have-to->get-to). **PRÓXIMO (resume): línea ~1735 — THE 3RD LAW (Make It Easy)**:
+      ch11 Walk Slowly but Never Backward (law of least effort/motion-vs-action), ch12 The Law
+      of Least Effort, ch13 Two-Minute Rule, ch14 make-good-habits-inevitable/commitment-devices,
+      + accountability partner. Luego 4TH LAW (Make It Satisfying), Advanced Tactics, Little
+      Lessons. ~31 figuras por procesar. Dedup cross-corpus aplicado: deseo/cinco-chimpances/
+      aprobacion-social/lucha-moderna↔Naval, good-mindset/disciplina↔Jocko.
 
   - original: "G:\Mi unidad\Robert Greene\The 48 Laws of Power -- Greene, Robert -- 2000 -- Penguin Publishing Group -- df1924a1c79bd326dc2886b61daa6f9f -- Anna’s Archive.pdf"
     name_slug: "48-laws-of-power"
