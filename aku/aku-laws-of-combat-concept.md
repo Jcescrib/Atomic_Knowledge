@@ -41,6 +41,7 @@ relations:
     - aku-principios-combate-aplican-a-negocio-claim
     - aku-simple-but-not-easy-concept
     - aku-relax-look-around-make-a-call-method
+    - aku-estudiar-liderazgo-lente-de-liderazgo-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -55,4 +56,4 @@ status_note: ""
 
 **supported_by** ← [[aku-extreme-ownership-concept]] · [[aku-cover-and-move-concept]] · [[aku-simple-law-of-combat-concept]] · [[aku-prioritize-and-execute-concept]] · [[aku-decentralized-command-concept]]
 
-**related** ↔ [[aku-principios-combate-aplican-a-negocio-claim]] · [[aku-simple-but-not-easy-concept]] · [[aku-relax-look-around-make-a-call-method]]
+**related** ↔ [[aku-principios-combate-aplican-a-negocio-claim]] · [[aku-simple-but-not-easy-concept]] · [[aku-relax-look-around-make-a-call-method]] · [[aku-estudiar-liderazgo-lente-de-liderazgo-claim]]

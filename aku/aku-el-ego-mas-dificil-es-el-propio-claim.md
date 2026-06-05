@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-humildad-es-la-cualidad-mas-importante-claim
+    - aku-subordinate-your-ego-desactiva-choque-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-check-the-ego-concept]]
 
-**related** ↔ [[aku-humildad-es-la-cualidad-mas-importante-claim]]
+**related** ↔ [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-subordinate-your-ego-desactiva-choque-method]]

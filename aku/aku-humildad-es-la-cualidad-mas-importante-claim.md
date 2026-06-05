@@ -36,6 +36,8 @@ relations:
   related:
     - aku-humilde-no-pasivo-concept
     - aku-el-ego-mas-dificil-es-el-propio-claim
+    - aku-lideres-nacen-y-se-hacen-claim
+    - aku-estudiar-liderazgo-lente-de-liderazgo-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -50,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-check-the-ego-concept]]
 
-**related** ↔ [[aku-humilde-no-pasivo-concept]] · [[aku-el-ego-mas-dificil-es-el-propio-claim]]
+**related** ↔ [[aku-humilde-no-pasivo-concept]] · [[aku-el-ego-mas-dificil-es-el-propio-claim]] · [[aku-lideres-nacen-y-se-hacen-claim]] · [[aku-estudiar-liderazgo-lente-de-liderazgo-claim]]

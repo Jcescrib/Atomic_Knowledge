@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-lider-mirar-al-espejo-claim
+    - aku-subordinate-your-ego-desactiva-choque-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-check-the-ego-concept]]
 
-**related** ↔ [[aku-lider-mirar-al-espejo-claim]]
+**related** ↔ [[aku-lider-mirar-al-espejo-claim]] · [[aku-subordinate-your-ego-desactiva-choque-method]]

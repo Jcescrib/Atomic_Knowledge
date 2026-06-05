@@ -40,6 +40,8 @@ relations:
     - aku-subordinado-responsable-de-entender-porque-claim
     - aku-facilitar-preguntas-clarificacion-claim
     - aku-cuestionarlo-todo-y-a-uno-mismo-method
+    - aku-redirigir-al-jefe-onus-en-ti-method
+    - aku-cuando-desobedecer-ultimo-recurso-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -56,4 +58,4 @@ status_note: ""
 
 **supports** → [[aku-believe-in-the-mission-concept]]
 
-**related** ↔ [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-feedback-hacia-arriba-cadena-claim]] · [[aku-subordinado-responsable-de-entender-porque-claim]] · [[aku-facilitar-preguntas-clarificacion-claim]] · [[aku-cuestionarlo-todo-y-a-uno-mismo-method]]
+**related** ↔ [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-feedback-hacia-arriba-cadena-claim]] · [[aku-subordinado-responsable-de-entender-porque-claim]] · [[aku-facilitar-preguntas-clarificacion-claim]] · [[aku-cuestionarlo-todo-y-a-uno-mismo-method]] · [[aku-redirigir-al-jefe-onus-en-ti-method]] · [[aku-cuando-desobedecer-ultimo-recurso-method]]

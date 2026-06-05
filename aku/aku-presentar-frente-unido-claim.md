@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-excepcion-resistir-ordenes-ilegales-inmorales-claim
+    - aku-rendimiento-construye-confianza-del-jefe-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-leading-up-the-chain-concept]]
 
-**related** ↔ [[aku-excepcion-resistir-ordenes-ilegales-inmorales-claim]]
+**related** ↔ [[aku-excepcion-resistir-ordenes-ilegales-inmorales-claim]] · [[aku-rendimiento-construye-confianza-del-jefe-claim]]

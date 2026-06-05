@@ -34,6 +34,7 @@ relations:
     - aku-atribucion-sesgada-exito-fracaso-claim
     - aku-check-the-ego-concept
     - aku-regret-solo-vale-por-la-leccion-claim
+    - aku-lideres-dicen-la-verdad-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-atribucion-sesgada-exito-fracaso-claim]] · [[aku-check-the-ego-concept]] · [[aku-regret-solo-vale-por-la-leccion-claim]]
+**related** ↔ [[aku-atribucion-sesgada-exito-fracaso-claim]] · [[aku-check-the-ego-concept]] · [[aku-regret-solo-vale-por-la-leccion-claim]] · [[aku-lideres-dicen-la-verdad-claim]]

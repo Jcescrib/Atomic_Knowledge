@@ -1534,11 +1534,11 @@ sources:
     raw_path: "raw/libros/jocko/leadership-strategy-and-tactics/"
     converter: ebooklib
     converted: 2026-06-05
-    image_processing: null
-    ingested: null
-    chapters_ingested: []
-    aku_count: 0
-    taku_count: 0
+    image_processing: n/a
+    ingested: null   # FASE 2 en curso — book mode (secciones)
+    chapters_ingested: [seccion1-foundations]
+    aku_count: 12
+    taku_count: 2
     last_commit: ""
     notes: >
       Libro 4 corpus Jocko (Willink, 2020). source-tag: jocko. EPUB → epub_to_md.py

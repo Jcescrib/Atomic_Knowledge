@@ -44,6 +44,8 @@ relations:
     - aku-mejores-lideres-mision-no-ego-claim
     - aku-confident-but-not-cocky-concept
     - aku-fortaleza-puede-ser-debilidad-y-viceversa-claim
+    - aku-liderazgo-vs-manipulacion-concept
+    - aku-subordinate-your-ego-desactiva-choque-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -60,4 +62,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-humildad-asumir-errores-claim]] · [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-confident-but-not-cocky-concept]] · [[aku-fortaleza-puede-ser-debilidad-y-viceversa-claim]]
+**related** ↔ [[aku-humildad-asumir-errores-claim]] · [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-confident-but-not-cocky-concept]] · [[aku-fortaleza-puede-ser-debilidad-y-viceversa-claim]] · [[aku-liderazgo-vs-manipulacion-concept]] · [[aku-subordinate-your-ego-desactiva-choque-method]]

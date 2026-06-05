@@ -798,3 +798,9 @@ Creados los 6 TAKUs ejecutables flaggeados (86→92 TAKUs draft, todos `content_
 **★ LIBRO 3 «DISCIPLINE EQUALS FREEDOM» COMPLETO**: **62 AKUs nuevos** (1218→1280) + **12 TAKUs** + 2 enriquecimientos cross-libro (discipline-equals-freedom y default-agresivo → 0.70, 3ª fuente). Field manual: Parte 1 (Thoughts: mindset disciplina/voluntad) + Parte 2 (Actions: entrenamiento/sueño/artes marciales/nutrición/ayuno). Manifest `ingested: 2026-06-05`.
 
 **2º pase verificación Libro 3**: verify_graph 1280 AKUs / 0 errores. Cluster Jocko sigue 1 componente interno (ver chequeo). Pendiente Joan: validar; puentes (b) — destaca conexión potencial disciplina↔hábitos/productividad y nutrición↔(ningún corpus de negocio lo cubre). Cluster Jocko = 2º componente global.
+
+## 2026-06-05 — FASE 2 Jocko · Libro 4 Leadership Strategy and Tactics (Willink 2020)
+
+### Sección 1 «Foundations» (+12 AKUs, +2 TAKUs)
+
+**COBERTURA**: 12 nuevos (3 concept, 3 method, 6 claim) + 2 TAKUs. 1280→1292. Las 3 historias de pelotón (detach/arrogance-humility/overstepping) y el recap «Laws of Combat» dedup a AKUs existentes. Concepts: power-of-relationships-liderazgo, play-the-long-game, liderazgo-vs-manipulacion. Methods: redirigir-al-jefe-onus-en-ti, cuando-desobedecer-ultimo-recurso, subordinate-your-ego-desactiva-choque (↔ check-ego-asumiendo-culpa). Claims: rendimiento-construye-confianza-del-jefe, lideres-nacen-y-se-hacen (↔ eleccion/humildad), lider-compensa-debilidades-con-el-equipo, lideres-dicen-la-verdad, no-usar-sandwich-de-critica, estudiar-liderazgo-lente-de-liderazgo. TAKUs (draft): `cuando-desobedecer-al-jefe` (protocol), `influir-hacia-arriba` (technique). Fuerte integración cross-libro (leadership-capital +3 related, ejecutar-decision +2, etc.). verify_graph: 1292 AKUs, 0 errores.

@@ -33,7 +33,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-lider-compensa-debilidades-con-el-equipo-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -49,3 +50,5 @@ status_note: ""
 **supported_by** ← [[aku-limite-cognitivo-6-10-personas-claim]]
 
 **supports** → [[aku-decentralized-command-concept]]
+
+**related** ↔ [[aku-lider-compensa-debilidades-con-el-equipo-claim]]

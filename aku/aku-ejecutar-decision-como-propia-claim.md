@@ -33,6 +33,8 @@ relations:
   related:
     - aku-believe-in-the-mission-concept
     - aku-excepcion-resistir-ordenes-ilegales-inmorales-claim
+    - aku-rendimiento-construye-confianza-del-jefe-claim
+    - aku-cuando-desobedecer-ultimo-recurso-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-leading-up-the-chain-concept]]
 
-**related** ↔ [[aku-believe-in-the-mission-concept]] · [[aku-excepcion-resistir-ordenes-ilegales-inmorales-claim]]
+**related** ↔ [[aku-believe-in-the-mission-concept]] · [[aku-excepcion-resistir-ordenes-ilegales-inmorales-claim]] · [[aku-rendimiento-construye-confianza-del-jefe-claim]] · [[aku-cuando-desobedecer-ultimo-recurso-method]]
