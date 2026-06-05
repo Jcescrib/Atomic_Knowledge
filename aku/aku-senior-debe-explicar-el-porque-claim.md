@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-preguntar-por-que-method
+    - aku-commanders-intent-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-believe-in-the-mission-concept]]
 
-**related** ↔ [[aku-preguntar-por-que-method]]
+**related** ↔ [[aku-preguntar-por-que-method]] · [[aku-commanders-intent-concept]]

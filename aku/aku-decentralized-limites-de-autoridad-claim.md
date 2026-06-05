@@ -1,14 +1,15 @@
 ---
 type: aku
 aku_class: claim
-id: aku-feedback-hacia-arriba-cadena-claim
+id: aku-decentralized-limites-de-autoridad-claim
 statement: >
-  Los líderes junior deben no solo preguntar, sino también dar feedback hacia
-  arriba en la cadena de mando, para que los líderes senior comprendan las
-  ramificaciones de cómo sus planes estratégicos afectan a la ejecución sobre el
-  terreno.
+  Decentralized Command no significa que los líderes junior operen a su aire
+  (eso es caos): deben comprender con claridad los «left and right limits» de su
+  autoridad de decisión, recomendar hacia arriba las decisiones fuera de su
+  alcance y pasar información crítica por la cadena para que el mando superior
+  decida informado.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, comunicacion, feedback]
+domain: [liderazgo, jocko, descentralizacion, mando, limites]
 
 llm_confidence: 0.50
 
@@ -24,15 +25,14 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-decentralized-command-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-preguntar-por-que-method
-    - aku-decentralized-requiere-confianza-bidireccional-claim
+  related: []
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-preguntar-por-que-method]] · [[aku-decentralized-requiere-confianza-bidireccional-claim]]
+**supports** → [[aku-decentralized-command-concept]]

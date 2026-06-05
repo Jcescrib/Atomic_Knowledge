@@ -40,6 +40,7 @@ relations:
   contradicts: []
   related:
     - aku-simple-but-not-easy-concept
+    - aku-decentralized-command-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -56,4 +57,4 @@ status_note: ""
 
 **supports** → [[aku-laws-of-combat-concept]]
 
-**related** ↔ [[aku-simple-but-not-easy-concept]]
+**related** ↔ [[aku-simple-but-not-easy-concept]] · [[aku-decentralized-command-concept]]

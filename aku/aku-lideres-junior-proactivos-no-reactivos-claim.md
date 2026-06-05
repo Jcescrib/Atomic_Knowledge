@@ -1,14 +1,13 @@
 ---
 type: aku
 aku_class: claim
-id: aku-feedback-hacia-arriba-cadena-claim
+id: aku-lideres-junior-proactivos-no-reactivos-claim
 statement: >
-  Los líderes junior deben no solo preguntar, sino también dar feedback hacia
-  arriba en la cadena de mando, para que los líderes senior comprendan las
-  ramificaciones de cómo sus planes estratégicos afectan a la ejecución sobre el
-  terreno.
+  Los líderes junior deben ser proactivos, no reactivos: averiguar qué hay que
+  hacer y hacerlo, comunicando a la autoridad superior qué planean hacer en
+  lugar de preguntar «¿qué quieres que haga?».
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, comunicacion, feedback]
+domain: [liderazgo, jocko, descentralizacion, iniciativa, mando]
 
 llm_confidence: 0.50
 
@@ -24,15 +23,14 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-decentralized-command-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-preguntar-por-que-method
-    - aku-decentralized-requiere-confianza-bidireccional-claim
+  related: []
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,4 +43,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-preguntar-por-que-method]] · [[aku-decentralized-requiere-confianza-bidireccional-claim]]
+**supports** → [[aku-decentralized-command-concept]]

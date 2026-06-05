@@ -1,14 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-feedback-hacia-arriba-cadena-claim
+id: aku-micromanagement-disuelve-en-caos-claim
 statement: >
-  Los líderes junior deben no solo preguntar, sino también dar feedback hacia
-  arriba en la cadena de mando, para que los líderes senior comprendan las
-  ramificaciones de cómo sus planes estratégicos afectan a la ejecución sobre el
-  terreno.
+  Los líderes que intentan asumir demasiado ellos mismos hacen que las
+  operaciones se disuelvan en caos; la solución es empoderar a los líderes de
+  primera línea mediante mando descentralizado, sin micromanagement desde arriba
+  (extremo opuesto al battlefield aloofness).
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, comunicacion, feedback]
+domain: [liderazgo, jocko, descentralizacion, anti-patron, mando]
 
 llm_confidence: 0.50
 
@@ -31,8 +31,8 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-preguntar-por-que-method
-    - aku-decentralized-requiere-confianza-bidireccional-claim
+    - aku-decentralized-command-concept
+    - aku-battlefield-aloofness-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-preguntar-por-que-method]] · [[aku-decentralized-requiere-confianza-bidireccional-claim]]
+**related** ↔ [[aku-decentralized-command-concept]] · [[aku-battlefield-aloofness-concept]]

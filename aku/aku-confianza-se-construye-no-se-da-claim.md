@@ -1,14 +1,15 @@
 ---
 type: aku
 aku_class: claim
-id: aku-feedback-hacia-arriba-cadena-claim
+id: aku-confianza-se-construye-no-se-da-claim
 statement: >
-  Los líderes junior deben no solo preguntar, sino también dar feedback hacia
-  arriba en la cadena de mando, para que los líderes senior comprendan las
-  ramificaciones de cómo sus planes estratégicos afectan a la ejecución sobre el
-  terreno.
+  La confianza no se da a ciegas: se construye con el tiempo mediante
+  conversaciones abiertas, la superación de estrés y el trabajo en emergencias;
+  a veces el jefe debe apartarse y dejar que los líderes junior resuelvan un
+  problema —y respaldarlos aunque no acierten— siempre que la decisión buscara
+  el objetivo estratégico.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, comunicacion, feedback]
+domain: [liderazgo, jocko, descentralizacion, confianza, mando]
 
 llm_confidence: 0.50
 
@@ -24,14 +25,14 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-decentralized-command-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-preguntar-por-que-method
     - aku-decentralized-requiere-confianza-bidireccional-claim
 
 sources:
@@ -45,4 +46,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-preguntar-por-que-method]] · [[aku-decentralized-requiere-confianza-bidireccional-claim]]
+**supports** → [[aku-decentralized-command-concept]]
+
+**related** ↔ [[aku-decentralized-requiere-confianza-bidireccional-claim]]

@@ -30,6 +30,7 @@ relations:
     - aku-cover-and-move-concept
     - aku-simple-law-of-combat-concept
     - aku-prioritize-and-execute-concept
+    - aku-decentralized-command-concept
   supports: []
   constrained_by: []
   constrains: []
@@ -52,6 +53,6 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-extreme-ownership-concept]] · [[aku-cover-and-move-concept]] · [[aku-simple-law-of-combat-concept]] · [[aku-prioritize-and-execute-concept]]
+**supported_by** ← [[aku-extreme-ownership-concept]] · [[aku-cover-and-move-concept]] · [[aku-simple-law-of-combat-concept]] · [[aku-prioritize-and-execute-concept]] · [[aku-decentralized-command-concept]]
 
 **related** ↔ [[aku-principios-combate-aplican-a-negocio-claim]] · [[aku-simple-but-not-easy-concept]] · [[aku-relax-look-around-make-a-call-method]]
