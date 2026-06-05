@@ -1,14 +1,15 @@
 ---
 type: aku
-aku_class: claim
-id: aku-todo-exito-real-es-interno-la-adaptacion-hedonica-borra-el-externo-claim
+aku_class: method
+id: aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method
 statement: >
-  Todo éxito real es interno y tiene poco que ver con las circunstancias
-  externas: por la adaptación hedónica te acostumbras rápidamente a cualquier
-  logro, y quienes alcanzan los éxitos materiales y sociales que perseguías no
-  parecen más felices, lo que revela que la felicidad es interna.
+  Para cambiar un hábito: elige una sola cosa, cultiva el deseo y visualízalo;
+  planifica un camino sostenible; identifica necesidades, disparadores y
+  sustitutos; díselo a tus amigos; trackea meticulosamente; entiende que la
+  autodisciplina es un puente hacia una nueva autoimagen y, finalmente, integra
+  esa nueva autoimagen como quien eres ahora.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [felicidad, naval, exito, adaptacion-hedonica]
+domain: [felicidad, naval, habitos, disciplina]
 
 llm_confidence: 0.50
 
@@ -30,8 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-todos-los-marcadores-reales-son-internos-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,5 +45,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-todos-los-marcadores-reales-son-internos-claim]]

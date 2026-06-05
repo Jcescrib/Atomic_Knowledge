@@ -1,14 +1,13 @@
 ---
 type: aku
 aku_class: claim
-id: aku-todo-exito-real-es-interno-la-adaptacion-hedonica-borra-el-externo-claim
+id: aku-toda-actividad-de-pantalla-resta-felicidad-claim
 statement: >
-  Todo éxito real es interno y tiene poco que ver con las circunstancias
-  externas: por la adaptación hedónica te acostumbras rápidamente a cualquier
-  logro, y quienes alcanzan los éxitos materiales y sociales que perseguías no
-  parecen más felices, lo que revela que la felicidad es interna.
+  Sin excepciones, todas las actividades de pantalla se asocian con menos
+  felicidad y todas las actividades sin pantalla con más felicidad: reducir
+  tiempo de pantalla es una palanca fiable del estado de ánimo.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [felicidad, naval, exito, adaptacion-hedonica]
+domain: [felicidad, naval, habitos, pantallas]
 
 llm_confidence: 0.50
 
@@ -30,8 +29,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-todos-los-marcadores-reales-son-internos-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,5 +43,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-todos-los-marcadores-reales-son-internos-claim]]

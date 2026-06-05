@@ -1,14 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-todo-exito-real-es-interno-la-adaptacion-hedonica-borra-el-externo-claim
+id: aku-evita-las-relaciones-conflictivas-e-insostenibles-claim
 statement: >
-  Todo éxito real es interno y tiene poco que ver con las circunstancias
-  externas: por la adaptación hedónica te acostumbras rápidamente a cualquier
-  logro, y quienes alcanzan los éxitos materiales y sociales que perseguías no
-  parecen más felices, lo que revela que la felicidad es interna.
+  La primera regla para manejar el conflicto es no rodearte de gente que vive en
+  conflicto constante: conviene evitar cualquier relación insostenible o difícil
+  de sostener, hasta el punto de que si no te ves trabajando con alguien de por
+  vida, no trabajes con esa persona ni un día.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [felicidad, naval, exito, adaptacion-hedonica]
+domain: [felicidad, naval, relaciones, conflicto]
 
 llm_confidence: 0.50
 
@@ -30,8 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-todos-los-marcadores-reales-son-internos-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,5 +44,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-todos-los-marcadores-reales-son-internos-claim]]

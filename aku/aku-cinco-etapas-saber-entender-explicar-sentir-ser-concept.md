@@ -1,14 +1,15 @@
 ---
 type: aku
-aku_class: claim
-id: aku-todo-exito-real-es-interno-la-adaptacion-hedonica-borra-el-externo-claim
+aku_class: concept
+id: aku-cinco-etapas-saber-entender-explicar-sentir-ser-concept
 statement: >
-  Todo éxito real es interno y tiene poco que ver con las circunstancias
-  externas: por la adaptación hedónica te acostumbras rápidamente a cualquier
-  logro, y quienes alcanzan los éxitos materiales y sociales que perseguías no
-  parecen más felices, lo que revela que la felicidad es interna.
+  El dominio profundo de algo atraviesa cinco etapas sucesivas: primero lo
+  sabes, luego lo entiendes, después puedes explicarlo, más tarde puedes
+  sentirlo y, finalmente, lo eres; implica que la integración plena de un
+  aprendizaje (como un nuevo hábito o autoimagen) es convertirse en ello, no
+  solo conocerlo.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [felicidad, naval, exito, adaptacion-hedonica]
+domain: [felicidad, naval, aprendizaje, maestria]
 
 llm_confidence: 0.50
 
@@ -30,8 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-todos-los-marcadores-reales-son-internos-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,5 +45,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-todos-los-marcadores-reales-son-internos-claim]]

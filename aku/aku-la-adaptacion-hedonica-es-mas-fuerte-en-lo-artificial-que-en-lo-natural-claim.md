@@ -1,14 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-todo-exito-real-es-interno-la-adaptacion-hedonica-borra-el-externo-claim
+id: aku-la-adaptacion-hedonica-es-mas-fuerte-en-lo-artificial-que-en-lo-natural-claim
 statement: >
-  Todo éxito real es interno y tiene poco que ver con las circunstancias
-  externas: por la adaptación hedónica te acostumbras rápidamente a cualquier
-  logro, y quienes alcanzan los éxitos materiales y sociales que perseguías no
-  parecen más felices, lo que revela que la felicidad es interna.
+  La adaptación hedónica es más poderosa para las cosas hechas por el hombre
+  (coches, casas, ropa, dinero) que para las naturales (comida, sexo,
+  ejercicio): por eso el placer de lo material se desvanece más rápido que el de
+  lo natural.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [felicidad, naval, exito, adaptacion-hedonica]
+domain: [felicidad, naval, adaptacion-hedonica, deseo]
 
 llm_confidence: 0.50
 
@@ -30,8 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-todos-los-marcadores-reales-son-internos-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,5 +44,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-todos-los-marcadores-reales-son-internos-claim]]

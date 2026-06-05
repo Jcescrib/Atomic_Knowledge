@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim
+    - aku-cambiar-aceptar-o-dejar-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim]]
+**related** ↔ [[aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim]] · [[aku-cambiar-aceptar-o-dejar-concept]]

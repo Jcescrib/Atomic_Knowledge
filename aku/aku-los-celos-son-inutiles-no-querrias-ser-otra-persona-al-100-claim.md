@@ -1,14 +1,15 @@
 ---
 type: aku
 aku_class: claim
-id: aku-todo-exito-real-es-interno-la-adaptacion-hedonica-borra-el-externo-claim
+id: aku-los-celos-son-inutiles-no-querrias-ser-otra-persona-al-100-claim
 statement: >
-  Todo éxito real es interno y tiene poco que ver con las circunstancias
-  externas: por la adaptación hedónica te acostumbras rápidamente a cualquier
-  logro, y quienes alcanzan los éxitos materiales y sociales que perseguías no
-  parecen más felices, lo que revela que la felicidad es interna.
+  Los celos son una emoción venenosa e inútil: no puedes elegir solo aspectos de
+  la vida de otro (su cuerpo, su dinero, su personalidad), tendrías que ser esa
+  persona al 100% con todas sus reacciones, deseos y problemas; al darte cuenta
+  de que no querrías ese intercambio total, los celos se desvanecen porque
+  prefieres ser tú.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [felicidad, naval, exito, adaptacion-hedonica]
+domain: [felicidad, naval, celos, aceptacion]
 
 llm_confidence: 0.50
 
@@ -30,8 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-todos-los-marcadores-reales-son-internos-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,5 +45,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-todos-los-marcadores-reales-son-internos-claim]]

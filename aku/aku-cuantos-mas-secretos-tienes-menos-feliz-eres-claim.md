@@ -1,14 +1,12 @@
 ---
 type: aku
 aku_class: claim
-id: aku-todo-exito-real-es-interno-la-adaptacion-hedonica-borra-el-externo-claim
+id: aku-cuantos-mas-secretos-tienes-menos-feliz-eres-claim
 statement: >
-  Todo éxito real es interno y tiene poco que ver con las circunstancias
-  externas: por la adaptación hedónica te acostumbras rápidamente a cualquier
-  logro, y quienes alcanzan los éxitos materiales y sociales que perseguías no
-  parecen más felices, lo que revela que la felicidad es interna.
+  Cuantos más secretos guardas, menos feliz eres: la carga de ocultar erosiona
+  la paz interior, en línea con que no puedes ocultarte nada a ti mismo.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [felicidad, naval, exito, adaptacion-hedonica]
+domain: [felicidad, naval, honestidad, secretos]
 
 llm_confidence: 0.50
 
@@ -31,7 +29,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-todos-los-marcadores-reales-son-internos-claim
+    - aku-no-puedes-ocultarte-de-ti-mismo-tus-valores-determinan-tu-autoestima-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,6 +42,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-todos-los-marcadores-reales-son-internos-claim]]
+**related** ↔ [[aku-no-puedes-ocultarte-de-ti-mismo-tus-valores-determinan-tu-autoestima-claim]]

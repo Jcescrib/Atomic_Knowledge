@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-la-vida-es-fundamentalmente-un-juego-de-un-solo-jugador-claim
+    - aku-todos-los-marcadores-reales-son-internos-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-vida-es-fundamentalmente-un-juego-de-un-solo-jugador-claim]]
+**related** ↔ [[aku-la-vida-es-fundamentalmente-un-juego-de-un-solo-jugador-claim]] · [[aku-todos-los-marcadores-reales-son-internos-claim]]

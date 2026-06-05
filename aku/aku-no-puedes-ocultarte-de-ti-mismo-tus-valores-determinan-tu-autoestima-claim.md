@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-honestidad-radical-mentir-a-otro-es-mentirte-a-ti-mismo-claim
+    - aku-cuantos-mas-secretos-tienes-menos-feliz-eres-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +48,4 @@ status_note: ""
 
 <!-- sin relaciones -->
 
-**related** ↔ [[aku-honestidad-radical-mentir-a-otro-es-mentirte-a-ti-mismo-claim]]
+**related** ↔ [[aku-honestidad-radical-mentir-a-otro-es-mentirte-a-ti-mismo-claim]] · [[aku-cuantos-mas-secretos-tienes-menos-feliz-eres-claim]]
