@@ -35,6 +35,7 @@ relations:
     - aku-32-principios-jiu-jitsu-concept
     - aku-32-principles-diagnostic-method
     - aku-clock-principle-concept
+    - aku-grandmaster-principle-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-32-principios-jiu-jitsu-concept]] · [[aku-32-principles-diagnostic-method]] · [[aku-clock-principle-concept]]
+**related** ↔ [[aku-32-principios-jiu-jitsu-concept]] · [[aku-32-principles-diagnostic-method]] · [[aku-clock-principle-concept]] · [[aku-grandmaster-principle-concept]]
