@@ -33,6 +33,7 @@ relations:
   related:
     - aku-32-principios-jiu-jitsu-concept
     - aku-32-principles-diagnostic-method
+    - aku-la-vida-pasa-para-ti-no-a-ti-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-32-principios-jiu-jitsu-concept]] · [[aku-32-principles-diagnostic-method]]
+**related** ↔ [[aku-32-principios-jiu-jitsu-concept]] · [[aku-32-principles-diagnostic-method]] · [[aku-la-vida-pasa-para-ti-no-a-ti-claim]]
