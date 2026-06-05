@@ -1,13 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-creacion-de-riqueza-etica-es-posible-claim
+id: aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim
 statement: >
-  La creación ética de riqueza es posible, y conviene creerlo: si secretamente
-  desprecias la riqueza, te eludirá; la actitud hacia la riqueza condiciona la
-  capacidad de crearla.
+  Una mentalidad relativa (compararse y envidiar a quienes lo hacen mejor)
+  impide crear riqueza: los demás perciben esos juicios y malos sentimientos al
+  hacer negocios contigo; ser anti-riqueza te quita el espíritu adecuado,
+  mientras que los optimistas, a largo plazo, lo hacen mejor.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, mentalidad, etica]
+domain: [riqueza, naval, mentalidad, optimismo]
 
 llm_confidence: 0.50
 
@@ -30,7 +31,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim
+    - aku-creacion-de-riqueza-etica-es-posible-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,6 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim]]
+**related** ↔ [[aku-creacion-de-riqueza-etica-es-posible-claim]]

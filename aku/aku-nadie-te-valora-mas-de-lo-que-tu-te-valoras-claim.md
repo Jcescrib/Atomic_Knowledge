@@ -1,13 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-creacion-de-riqueza-etica-es-posible-claim
+id: aku-nadie-te-valora-mas-de-lo-que-tu-te-valoras-claim
 statement: >
-  La creación ética de riqueza es posible, y conviene creerlo: si secretamente
-  desprecias la riqueza, te eludirá; la actitud hacia la riqueza condiciona la
-  capacidad de crearla.
+  Nadie te valorará más de lo que tú te valoras: por eso hay que fijar una
+  tarifa horaria personal muy alta —que se sienta absurdamente alta— y tratarte
+  conforme a ella desde joven, antes incluso de tener dinero, para que el
+  mercado acabe ajustándose a tu propia valoración.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, mentalidad, etica]
+domain: [riqueza, naval, autovaloracion, tiempo]
 
 llm_confidence: 0.50
 
@@ -30,7 +31,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim
+    - aku-aspirational-hourly-rate-method
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,6 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim]]
+**related** ↔ [[aku-aspirational-hourly-rate-method]]

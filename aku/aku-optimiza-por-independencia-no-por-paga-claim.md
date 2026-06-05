@@ -1,13 +1,13 @@
 ---
 type: aku
 aku_class: claim
-id: aku-creacion-de-riqueza-etica-es-posible-claim
+id: aku-optimiza-por-independencia-no-por-paga-claim
 statement: >
-  La creación ética de riqueza es posible, y conviene creerlo: si secretamente
-  desprecias la riqueza, te eludirá; la actitud hacia la riqueza condiciona la
-  capacidad de crearla.
+  Siempre que puedas, optimiza por independencia antes que por paga: tener
+  independencia y ser evaluado por tu output (no por tu input) es el ideal,
+  porque te devuelve el control de tu tiempo.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, mentalidad, etica]
+domain: [riqueza, naval, independencia, tiempo]
 
 llm_confidence: 0.50
 
@@ -29,8 +29,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,5 +43,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim]]

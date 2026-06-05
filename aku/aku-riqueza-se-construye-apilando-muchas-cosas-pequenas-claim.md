@@ -1,13 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-creacion-de-riqueza-etica-es-posible-claim
+id: aku-riqueza-se-construye-apilando-muchas-cosas-pequenas-claim
 statement: >
-  La creación ética de riqueza es posible, y conviene creerlo: si secretamente
-  desprecias la riqueza, te eludirá; la actitud hacia la riqueza condiciona la
-  capacidad de crearla.
+  La riqueza rara vez llega en un único gran pago: se construye apilando
+  consistentemente muchas cosas pequeñas —más negocios, más opciones, más
+  inversiones—, creando oportunidades de forma sostenida en lugar de esperar un
+  golpe único.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, mentalidad, etica]
+domain: [riqueza, naval, constancia, largo-plazo]
 
 llm_confidence: 0.50
 
@@ -29,8 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,5 +44,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim]]

@@ -1,13 +1,15 @@
 ---
 type: aku
 aku_class: claim
-id: aku-creacion-de-riqueza-etica-es-posible-claim
+id: aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim
 statement: >
-  La creación ética de riqueza es posible, y conviene creerlo: si secretamente
-  desprecias la riqueza, te eludirá; la actitud hacia la riqueza condiciona la
-  capacidad de crearla.
+  Hacer las cosas por su propio bien (como el arte) produce tu mejor trabajo y,
+  paradójicamente, también el mayor éxito y riqueza: cuanto menos deseas,
+  obsesionas o fuerzas algo, más natural es y mejor sale, porque lo haces a tu
+  manera y con calidad; el año en que Naval generó más riqueza fue el que menos
+  duro trabajó haciendo cosas por diversión.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, mentalidad, etica]
+domain: [riqueza, naval, motivacion, maestria]
 
 llm_confidence: 0.50
 
@@ -29,8 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,5 +45,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim]]

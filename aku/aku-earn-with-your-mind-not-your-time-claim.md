@@ -1,13 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-creacion-de-riqueza-etica-es-posible-claim
+id: aku-earn-with-your-mind-not-your-time-claim
 statement: >
-  La creación ética de riqueza es posible, y conviene creerlo: si secretamente
-  desprecias la riqueza, te eludirá; la actitud hacia la riqueza condiciona la
-  capacidad de crearla.
+  Hay que ganar con la mente, no con el tiempo: el objetivo es que un robot, el
+  capital o un ordenador hagan el trabajo y que a ti te paguen por tu juicio y
+  conocimiento único, midiéndote por outputs y no por inputs, para ser dueño de
+  tu propio tiempo.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, mentalidad, etica]
+domain: [riqueza, naval, juicio, tiempo]
 
 llm_confidence: 0.50
 
@@ -30,7 +31,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim
+    - aku-judgment-naval-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,6 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim]]
+**related** ↔ [[aku-judgment-naval-concept]]

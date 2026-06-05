@@ -1,13 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-creacion-de-riqueza-etica-es-posible-claim
+id: aku-knowledge-workers-funcionan-como-atletas-sprint-y-descanso-claim
 statement: >
-  La creación ética de riqueza es posible, y conviene creerlo: si secretamente
-  desprecias la riqueza, te eludirá; la actitud hacia la riqueza condiciona la
-  capacidad de crearla.
+  Los knowledge workers funcionan como atletas —entrenan y esprintan, luego
+  descansan y reevalúan—, no en jornadas uniformes: la semana de 40 horas es una
+  reliquia de la era industrial; conviene trabajar en ráfagas de alta energía y
+  no forzar en los momentos de baja energía.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, mentalidad, etica]
+domain: [riqueza, naval, productividad, energia]
 
 llm_confidence: 0.50
 
@@ -29,8 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,5 +44,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim]]

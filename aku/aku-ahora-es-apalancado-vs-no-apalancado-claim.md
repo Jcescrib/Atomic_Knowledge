@@ -1,13 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-creacion-de-riqueza-etica-es-posible-claim
+id: aku-ahora-es-apalancado-vs-no-apalancado-claim
 statement: >
-  La creación ética de riqueza es posible, y conviene creerlo: si secretamente
-  desprecias la riqueza, te eludirá; la actitud hacia la riqueza condiciona la
-  capacidad de crearla.
+  La división relevante hoy ya no es rico vs pobre ni cuello-blanco vs cuello-
+  azul, sino apalancado vs no apalancado: como trabajador quieres estar lo más
+  apalancado posible para tener gran impacto sin tanto tiempo ni esfuerzo
+  físico.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, mentalidad, etica]
+domain: [riqueza, naval, leverage, trabajo]
 
 llm_confidence: 0.50
 
@@ -30,7 +31,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim
+    - aku-leverage-multiplicador-de-juicio-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,6 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim]]
+**related** ↔ [[aku-leverage-multiplicador-de-juicio-concept]]

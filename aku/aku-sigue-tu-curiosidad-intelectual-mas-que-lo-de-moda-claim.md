@@ -1,13 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-creacion-de-riqueza-etica-es-posible-claim
+id: aku-sigue-tu-curiosidad-intelectual-mas-que-lo-de-moda-claim
 statement: >
-  La creación ética de riqueza es posible, y conviene creerlo: si secretamente
-  desprecias la riqueza, te eludirá; la actitud hacia la riqueza condiciona la
-  capacidad de crearla.
+  Seguir tu curiosidad intelectual genuina es mejor cimiento para una carrera
+  que perseguir lo que da dinero ahora: el conocimiento que solo tú o pocos
+  tienen sale de tus pasiones y hobbies, y si tu curiosidad te lleva a donde la
+  sociedad querrá ir, te pagarán extremadamente bien.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, mentalidad, etica]
+domain: [riqueza, naval, curiosidad, carrera]
 
 llm_confidence: 0.50
 
@@ -30,7 +31,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim
+    - aku-specific-knowledge-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,6 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim]]
+**related** ↔ [[aku-specific-knowledge-concept]]

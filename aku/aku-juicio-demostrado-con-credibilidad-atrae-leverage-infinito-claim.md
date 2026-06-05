@@ -1,13 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-creacion-de-riqueza-etica-es-posible-claim
+id: aku-juicio-demostrado-con-credibilidad-atrae-leverage-infinito-claim
 statement: >
-  La creación ética de riqueza es posible, y conviene creerlo: si secretamente
-  desprecias la riqueza, te eludirá; la actitud hacia la riqueza condiciona la
-  capacidad de crearla.
+  El juicio demostrado —con alta accountability, track record público e
+  integridad— es lo que atrae leverage infinito: como Warren Buffett, cuando has
+  acertado una y otra vez en público y eres de fiar, la gente respalda tu juicio
+  sin preguntar cuánto trabajas.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, mentalidad, etica]
+domain: [riqueza, naval, juicio, reputacion]
 
 llm_confidence: 0.50
 
@@ -30,7 +31,8 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim
+    - aku-judgment-naval-concept
+    - aku-fallar-en-publico-bajo-tu-nombre-da-poder-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,6 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim]]
+**related** ↔ [[aku-judgment-naval-concept]] · [[aku-fallar-en-publico-bajo-tu-nombre-da-poder-claim]]

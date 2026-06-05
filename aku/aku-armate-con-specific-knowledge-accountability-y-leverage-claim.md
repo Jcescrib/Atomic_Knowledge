@@ -33,6 +33,7 @@ relations:
     - aku-specific-knowledge-concept
     - aku-accountability-bajo-tu-nombre-concept
     - aku-leverage-multiplicador-de-juicio-concept
+    - aku-subir-la-escalera-de-leverage-accountability-specific-knowledge-crea-riqueza-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-specific-knowledge-concept]] · [[aku-accountability-bajo-tu-nombre-concept]] · [[aku-leverage-multiplicador-de-juicio-concept]]
+**related** ↔ [[aku-specific-knowledge-concept]] · [[aku-accountability-bajo-tu-nombre-concept]] · [[aku-leverage-multiplicador-de-juicio-concept]] · [[aku-subir-la-escalera-de-leverage-accountability-specific-knowledge-crea-riqueza-claim]]

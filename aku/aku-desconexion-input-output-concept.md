@@ -1,13 +1,17 @@
 ---
 type: aku
-aku_class: claim
-id: aku-creacion-de-riqueza-etica-es-posible-claim
+aku_class: concept
+id: aku-desconexion-input-output-concept
 statement: >
-  La creación ética de riqueza es posible, y conviene creerlo: si secretamente
-  desprecias la riqueza, te eludirá; la actitud hacia la riqueza condiciona la
-  capacidad de crearla.
+  La desconexión input-output es la propiedad de ciertas profesiones donde las
+  horas invertidas no se corresponden con el resultado producido; incluye que
+  cuanto mayor es el componente creativo y el uso de herramientas/leverage, más
+  desconectados están input y output (construir y vender productos, alta venta);
+  excluye los roles de soporte (p. ej. atención al cliente), donde input y
+  output van ligados; implica que en profesiones de input-output conectado es
+  muy difícil crear riqueza.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, mentalidad, etica]
+domain: [riqueza, naval, leverage, productividad]
 
 llm_confidence: 0.50
 
@@ -29,8 +33,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,5 +47,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim]]

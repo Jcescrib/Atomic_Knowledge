@@ -35,6 +35,10 @@ relations:
   related:
     - aku-leverage-multiplicador-de-juicio-concept
     - aku-no-existe-la-habilidad-de-los-negocios-claim
+    - aku-trabajador-apalancado-rinde-1000x-y-el-juicio-supera-las-horas-claim
+    - aku-earn-with-your-mind-not-your-time-claim
+    - aku-pequenas-diferencias-de-juicio-se-amplifican-con-leverage-claim
+    - aku-juicio-demostrado-con-credibilidad-atrae-leverage-infinito-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-leverage-multiplicador-de-juicio-concept]] · [[aku-no-existe-la-habilidad-de-los-negocios-claim]]
+**related** ↔ [[aku-leverage-multiplicador-de-juicio-concept]] · [[aku-no-existe-la-habilidad-de-los-negocios-claim]] · [[aku-trabajador-apalancado-rinde-1000x-y-el-juicio-supera-las-horas-claim]] · [[aku-earn-with-your-mind-not-your-time-claim]] · [[aku-pequenas-diferencias-de-juicio-se-amplifican-con-leverage-claim]] · [[aku-juicio-demostrado-con-credibilidad-atrae-leverage-infinito-claim]]
