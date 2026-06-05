@@ -33,6 +33,7 @@ relations:
   related:
     - aku-decentralized-command-concept
     - aku-battlefield-aloofness-concept
+    - aku-micromanagement-mata-iniciativa-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-decentralized-command-concept]] · [[aku-battlefield-aloofness-concept]]
+**related** ↔ [[aku-decentralized-command-concept]] · [[aku-battlefield-aloofness-concept]] · [[aku-micromanagement-mata-iniciativa-claim]]

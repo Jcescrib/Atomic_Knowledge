@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-prioritize-and-execute-concept
+    - aku-asignar-lead-claro-evita-planes-divergentes-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-cover-and-move-concept]]
 
-**related** ↔ [[aku-prioritize-and-execute-concept]]
+**related** ↔ [[aku-prioritize-and-execute-concept]] · [[aku-asignar-lead-claro-evita-planes-divergentes-claim]]
