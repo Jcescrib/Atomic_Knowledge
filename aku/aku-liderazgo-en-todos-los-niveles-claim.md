@@ -33,6 +33,7 @@ relations:
   related:
     - aku-liderazgo-factor-mas-importante-claim
     - aku-cultura-ownership-resiste-perdida-lider-claim
+    - aku-liderazgo-es-grupo-no-individuo-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-liderazgo-factor-mas-importante-claim]] · [[aku-cultura-ownership-resiste-perdida-lider-claim]]
+**related** ↔ [[aku-liderazgo-factor-mas-importante-claim]] · [[aku-cultura-ownership-resiste-perdida-lider-claim]] · [[aku-liderazgo-es-grupo-no-individuo-concept]]
