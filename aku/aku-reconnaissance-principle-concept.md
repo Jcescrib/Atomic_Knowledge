@@ -36,6 +36,8 @@ relations:
     - aku-kuzushi-principle-concept
     - aku-creation-principle-concept
     - aku-river-principle-concept
+    - aku-prevention-principle-concept
+    - aku-tension-principle-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-kuzushi-principle-concept]] · [[aku-creation-principle-concept]] · [[aku-river-principle-concept]]
+**related** ↔ [[aku-kuzushi-principle-concept]] · [[aku-creation-principle-concept]] · [[aku-river-principle-concept]] · [[aku-prevention-principle-concept]] · [[aku-tension-principle-concept]]

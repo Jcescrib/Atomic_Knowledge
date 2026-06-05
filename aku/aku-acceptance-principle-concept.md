@@ -36,6 +36,7 @@ relations:
     - aku-creation-principle-concept
     - aku-detachment-principle-concept
     - aku-velocity-principle-concept
+    - aku-prevention-principle-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-regla-60-por-ciento-aceptacion-method]]
 
-**related** ↔ [[aku-creation-principle-concept]] · [[aku-detachment-principle-concept]] · [[aku-velocity-principle-concept]]
+**related** ↔ [[aku-creation-principle-concept]] · [[aku-detachment-principle-concept]] · [[aku-velocity-principle-concept]] · [[aku-prevention-principle-concept]]
