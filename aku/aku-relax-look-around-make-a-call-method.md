@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-laws-of-combat-concept
+    - aku-decisiveness-amid-uncertainty-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,6 +47,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-laws-of-combat-concept]]
+**related** ↔ [[aku-laws-of-combat-concept]] · [[aku-decisiveness-amid-uncertainty-concept]]
 
 **supports** → [[aku-prioritize-and-execute-concept]]

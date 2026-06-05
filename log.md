@@ -673,3 +673,7 @@ Ingesta hiper-exhaustiva, granularidad máxima. **COBERTURA**: 11 items (4 conce
 ### Cap 10 «Leading Up and Down the Chain of Command» (+8 AKUs)
 
 **COBERTURA**: 8 items (2 concept, 6 claim). 1146→1154. `leading-down-the-chain` (related decentralized-command/commanders-intent/senior-explica-porque) y `leading-up-the-chain` (`supported_by` extreme-ownership — liderar hacia arriba es EO aplicado al jefe; related leading-down). Claims: conexion-rol-big-picture-no-intuitiva, boss-no-da-soporte-culpate-primero (↔ mirar-al-espejo), leading-up-requiere-influencia-no-autoridad, humildad-aceptar-prioridades-superiores, presentar-frente-unido (desacuerdo público socava la cadena), ejecutar-decision-como-propia (disagree & commit; ↔ believe). «Mirar al espejo» y «dile qué harás» dedup a cap 1/cap 8. verify_graph: 1154 AKUs, 0 errores.
+
+### Cap 11 «Decisiveness amid Uncertainty» (+8 AKUs)
+
+**COBERTURA**: 8 items (2 concept, 1 method, 5 claim). 1154→1162. `decisiveness-amid-uncertainty` (related relax-look-around/prioritize-execute/contingency-planning) y `battlefield-promotion` (ascender talento de primera línea). Method: conjetura-educada. Claims: no-hay-solucion-100-correcta (↔ el-enemigo-tiene-voto), esperar-certeza-causa-paralisis (analysis paralysis), default-agresivo-proactivo-dictar-situacion (↔ proactivos-no-reactivos), lider-percibido-como-decisivo, cortar-cancers-del-equipo-rapido (↔ tortured-genius/lealtad-mision). verify_graph: 1162 AKUs, 0 errores.

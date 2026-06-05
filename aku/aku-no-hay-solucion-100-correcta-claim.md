@@ -1,13 +1,13 @@
 ---
 type: aku
 aku_class: claim
-id: aku-lideres-junior-proactivos-no-reactivos-claim
+id: aku-no-hay-solucion-100-correcta-claim
 statement: >
-  Los líderes junior deben ser proactivos, no reactivos: averiguar qué hay que
-  hacer y hacerlo, comunicando a la autoridad superior qué planean hacer en
-  lugar de preguntar «¿qué quieres que haga?».
+  No existe una solución 100% correcta y el cuadro nunca está completo; el líder
+  debe estar cómodo con ello, decidir con prontitud y estar listo para ajustar
+  la decisión rápidamente ante nueva información.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, descentralizacion, iniciativa, mando]
+domain: [liderazgo, jocko, decision, incertidumbre]
 
 llm_confidence: 0.50
 
@@ -24,14 +24,14 @@ epistemic_type: sourced
 relations:
   supported_by: []
   supports:
-    - aku-decentralized-command-concept
+    - aku-decisiveness-amid-uncertainty-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-default-agresivo-proactivo-dictar-situacion-claim
+    - aku-el-enemigo-tiene-voto-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -44,6 +44,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-decentralized-command-concept]]
+**supports** → [[aku-decisiveness-amid-uncertainty-concept]]
 
-**related** ↔ [[aku-default-agresivo-proactivo-dictar-situacion-claim]]
+**related** ↔ [[aku-el-enemigo-tiene-voto-concept]]

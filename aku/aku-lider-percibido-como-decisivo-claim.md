@@ -1,13 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-lideres-junior-proactivos-no-reactivos-claim
+id: aku-lider-percibido-como-decisivo-claim
 statement: >
-  Los líderes junior deben ser proactivos, no reactivos: averiguar qué hay que
-  hacer y hacerlo, comunicando a la autoridad superior qué planean hacer en
-  lugar de preguntar «¿qué quieres que haga?».
+  El líder necesita ser percibido como decisivo y dispuesto a tomar decisiones
+  difíciles, no como indeciso ni como alguien al que se puede tener de rehén con
+  amenazas o ultimátums; la primera línea respeta la decisión firme y su lealtad
+  aumenta.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, descentralizacion, iniciativa, mando]
+domain: [liderazgo, jocko, decision, percepcion]
 
 llm_confidence: 0.50
 
@@ -24,14 +25,13 @@ epistemic_type: sourced
 relations:
   supported_by: []
   supports:
-    - aku-decentralized-command-concept
+    - aku-decisiveness-amid-uncertainty-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-default-agresivo-proactivo-dictar-situacion-claim
+  related: []
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -44,6 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-decentralized-command-concept]]
-
-**related** ↔ [[aku-default-agresivo-proactivo-dictar-situacion-claim]]
+**supports** → [[aku-decisiveness-amid-uncertainty-concept]]

@@ -34,6 +34,7 @@ relations:
   related:
     - aku-entrenar-mentorizar-underperformer-claim
     - aku-lealtad-mal-entendida-proteger-underperformers-claim
+    - aku-cortar-cancers-del-equipo-rapido-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-entrenar-mentorizar-underperformer-claim]] · [[aku-lealtad-mal-entendida-proteger-underperformers-claim]]
+**related** ↔ [[aku-entrenar-mentorizar-underperformer-claim]] · [[aku-lealtad-mal-entendida-proteger-underperformers-claim]] · [[aku-cortar-cancers-del-equipo-rapido-claim]]

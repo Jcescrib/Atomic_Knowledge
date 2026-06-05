@@ -35,6 +35,7 @@ relations:
     - aku-extreme-ownership-concept
   related:
     - aku-atribucion-sesgada-exito-fracaso-claim
+    - aku-cortar-cancers-del-equipo-rapido-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **contradicts** ↔ [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-atribucion-sesgada-exito-fracaso-claim]]
+**related** ↔ [[aku-atribucion-sesgada-exito-fracaso-claim]] · [[aku-cortar-cancers-del-equipo-rapido-claim]]

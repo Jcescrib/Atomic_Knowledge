@@ -35,6 +35,7 @@ relations:
   contradicts: []
   related:
     - aku-decentralized-command-concept
+    - aku-decisiveness-amid-uncertainty-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-prioritize-and-execute-concept]]
 
-**related** ↔ [[aku-decentralized-command-concept]]
+**related** ↔ [[aku-decentralized-command-concept]] · [[aku-decisiveness-amid-uncertainty-concept]]
