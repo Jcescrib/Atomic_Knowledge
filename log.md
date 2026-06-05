@@ -740,3 +740,7 @@ Próximo libro: **dichotomy-of-leadership** (PDF, 345 págs) — enriquecerá lo
 ### Cap 9 «A Leader and a Follower» (+1 AKU, +1 enrich) — abre PARTE III (Balancing Yourself)
 
 **COBERTURA**: gran parte dedup (seguir al jefe = ejecutar-decision-como-propia/presentar-frente-unido EO cap10; la dicotomía = lider-y-seguidor EO cap12 → enrich 2ª fuente 0.50→0.60). 1 NUEVO: `excepcion-resistir-ordenes-ilegales-inmorales` (único caso para plantarse: órdenes ilegales/inmorales/no éticas/de riesgo grave; related lider-y-seguidor/ejecutar-decision/frente-unido). 1213→1214. verify_graph: 1214 AKUs, 0 errores.
+
+### Cap 10 «Plan, but Remain Flexible» (+2 AKUs)
+
+**COBERTURA**: 2 items (1 concept, 1 method); complacencia/riesgo-recompensa dedup a disease-of-victory/sopesar-riesgo. 1214→1216. `plan-but-remain-flexible` (no se puede planificar cada contingencia; related planning-process/el-enemigo-tiene-voto/simplicidad-ajuste), priorizar-3-4-contingencias-mas-probables (+ peor caso por fase; ↔ contingency-planning/leaders-checklist). verify_graph: 1216 AKUs, 0 errores.

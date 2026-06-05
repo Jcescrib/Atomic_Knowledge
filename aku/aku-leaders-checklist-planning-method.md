@@ -39,7 +39,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-priorizar-3-4-contingencias-mas-probables-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -53,3 +54,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-planning-process-estandarizado-concept]]
+
+**related** ↔ [[aku-priorizar-3-4-contingencias-mas-probables-method]]

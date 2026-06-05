@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-no-hay-solucion-100-correcta-claim
+    - aku-plan-but-remain-flexible-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-simple-law-of-combat-concept]]
 
-**related** ↔ [[aku-no-hay-solucion-100-correcta-claim]]
+**related** ↔ [[aku-no-hay-solucion-100-correcta-claim]] · [[aku-plan-but-remain-flexible-concept]]

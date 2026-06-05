@@ -36,6 +36,7 @@ relations:
   related:
     - aku-decentralized-command-concept
     - aku-decisiveness-amid-uncertainty-concept
+    - aku-priorizar-3-4-contingencias-mas-probables-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-prioritize-and-execute-concept]]
 
-**related** ↔ [[aku-decentralized-command-concept]] · [[aku-decisiveness-amid-uncertainty-concept]]
+**related** ↔ [[aku-decentralized-command-concept]] · [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-priorizar-3-4-contingencias-mas-probables-method]]
