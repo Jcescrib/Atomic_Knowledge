@@ -1,14 +1,13 @@
 ---
 type: aku
 aku_class: claim
-id: aku-briefear-al-minimo-comun-denominador-claim
+id: aku-los-que-no-arriesgan-no-ganan-claim
 statement: >
-  Como líder no importa lo bien que creas haber comunicado una orden, plan o
-  estrategia: si tu equipo no lo capta, no lo has mantenido simple y has
-  fracasado; hay que briefar para asegurar que lo entienda el mínimo común
-  denominador del equipo.
+  «Those who will not risk cannot win» (John Paul Jones): los líderes deben
+  sentirse cómodos aceptando cierto nivel de riesgo, porque sin asumir riesgo no
+  se puede ganar.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, comunicacion, responsabilidad]
+domain: [liderazgo, jocko, planificacion, riesgo]
 
 llm_confidence: 0.50
 
@@ -24,15 +23,14 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports:
-    - aku-simple-law-of-combat-concept
+  supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-brief-orientado-a-frontline-claim
+    - aku-calcular-y-mitigar-riesgo-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,6 +43,4 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-simple-law-of-combat-concept]]
-
-**related** ↔ [[aku-brief-orientado-a-frontline-claim]]
+**related** ↔ [[aku-calcular-y-mitigar-riesgo-claim]]

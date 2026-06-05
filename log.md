@@ -663,3 +663,9 @@ Ingesta hiper-exhaustiva, granularidad máxima. **COBERTURA**: 11 items (4 conce
 ### Cap 8 «Decentralized Command» — Law of Combat #4 (+11 AKUs) — cierra PARTE II
 
 **COBERTURA**: 11 items (4 concept, 7 claim). 1126→1137. `decentralized-command` `supports` laws-of-combat (related believe + contingency-planning + simple — anclados en texto). **laws-of-combat ya tiene sus 4 hijos** (cover-and-move, simple, prioritize-and-execute, decentralized-command). Concepts: `commanders-intent` (related believe/senior-explica-porque), `battlefield-aloofness` (anti-patrón), `span-of-control`. Claims: limite-cognitivo-6-10-personas (`supports` DC y span-of-control), decentralized-limites-de-autoridad (left/right limits), lideres-junior-proactivos-no-reactivos, decentralized-requiere-confianza-bidireccional (↔ feedback-hacia-arriba), micromanagement-disuelve-en-caos (extremo opuesto a aloofness), posicionamiento-del-lider-flexible (kill house), confianza-se-construye-no-se-da. **PARTE II completa** (caps 5-8, Laws of Combat). Acumulado libro 1: 93 AKUs (8/12 caps + intro). verify_graph: 1137 AKUs, 0 errores.
+
+## 2026-06-05 — FASE 2 Jocko · Libro 1 Extreme Ownership — PARTE III (Sustaining Victory)
+
+### Cap 9 «Plan» (+9 AKUs)
+
+**COBERTURA**: 9 items (1 concept, 2 method, 6 claim). 1137→1146. `planning-process-estandarizado` (related simple/commanders-intent). Methods: leaders-checklist-planning (11 pasos explícitos), post-operational-debrief (3 preguntas: qué salió bien/mal/cómo adaptar). Claims: stand-back-be-the-tactical-genius (↔ detach/pull-off-firing-line), brief-orientado-a-frontline (↔ briefear-minimo-comun/facilitar-preguntas), calcular-y-mitigar-riesgo ↔ los-que-no-arriesgan-no-ganan (John Paul Jones), analisis-constante-medir-efectividad (↔ debrief/mejora-continua), decentralizar-proceso-planificacion (↔ decentralized-command). Buena densidad de cross-links intra-Jocko (no sub-isla). verify_graph: 1146 AKUs, 0 errores.

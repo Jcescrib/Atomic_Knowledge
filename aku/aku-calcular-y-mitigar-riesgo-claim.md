@@ -1,14 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-briefear-al-minimo-comun-denominador-claim
+id: aku-calcular-y-mitigar-riesgo-claim
 statement: >
-  Como líder no importa lo bien que creas haber comunicado una orden, plan o
-  estrategia: si tu equipo no lo capta, no lo has mantenido simple y has
-  fracasado; hay que briefar para asegurar que lo entienda el mínimo común
-  denominador del equipo.
+  Aunque a los SEALs se les conoce por asumir riesgos, en realidad los calculan
+  con cuidado: un buen plan maximiza la probabilidad de éxito mientras mitiga
+  todo el riesgo posible; hay riesgos que no se pueden mitigar, así que el líder
+  debe enfocarse en los que sí se pueden controlar.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, comunicacion, responsabilidad]
+domain: [liderazgo, jocko, planificacion, riesgo]
 
 llm_confidence: 0.50
 
@@ -25,14 +25,14 @@ epistemic_type: sourced
 relations:
   supported_by: []
   supports:
-    - aku-simple-law-of-combat-concept
+    - aku-planning-process-estandarizado-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-brief-orientado-a-frontline-claim
+    - aku-los-que-no-arriesgan-no-ganan-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,6 +45,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-simple-law-of-combat-concept]]
+**supports** → [[aku-planning-process-estandarizado-concept]]
 
-**related** ↔ [[aku-brief-orientado-a-frontline-claim]]
+**related** ↔ [[aku-los-que-no-arriesgan-no-ganan-claim]]

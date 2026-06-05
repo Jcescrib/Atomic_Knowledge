@@ -1,14 +1,13 @@
 ---
 type: aku
 aku_class: claim
-id: aku-briefear-al-minimo-comun-denominador-claim
+id: aku-decentralizar-proceso-planificacion-claim
 statement: >
-  Como líder no importa lo bien que creas haber comunicado una orden, plan o
-  estrategia: si tu equipo no lo capta, no lo has mantenido simple y has
-  fracasado; hay que briefar para asegurar que lo entienda el mínimo común
-  denominador del equipo.
+  Hay que descentralizar el proceso de planificación: empoderar a los líderes
+  clave del equipo para que analicen los posibles cursos de acción y desarrollen
+  el plan del curso elegido, en vez de que el líder senior planifique todo solo.
 origin: "Jocko Willink & Leif Babin, Extreme Ownership (2015)"
-domain: [liderazgo, jocko, comunicacion, responsabilidad]
+domain: [liderazgo, jocko, planificacion, descentralizacion]
 
 llm_confidence: 0.50
 
@@ -25,14 +24,14 @@ epistemic_type: sourced
 relations:
   supported_by: []
   supports:
-    - aku-simple-law-of-combat-concept
+    - aku-planning-process-estandarizado-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-brief-orientado-a-frontline-claim
+    - aku-decentralized-command-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,6 +44,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-simple-law-of-combat-concept]]
+**supports** → [[aku-planning-process-estandarizado-concept]]
 
-**related** ↔ [[aku-brief-orientado-a-frontline-claim]]
+**related** ↔ [[aku-decentralized-command-concept]]

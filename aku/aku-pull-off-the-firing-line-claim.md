@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-detach-tactico-estrategico-concept
+    - aku-stand-back-be-the-tactical-genius-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-prioritize-and-execute-concept]]
 
-**related** ↔ [[aku-detach-tactico-estrategico-concept]]
+**related** ↔ [[aku-detach-tactico-estrategico-concept]] · [[aku-stand-back-be-the-tactical-genius-claim]]
