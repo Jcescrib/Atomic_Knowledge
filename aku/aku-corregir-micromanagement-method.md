@@ -36,6 +36,7 @@ relations:
   contradicts: []
   related:
     - aku-sintomas-de-micromanagement-method
+    - aku-accountability-temporal-luego-soltar-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-balance-ownership-decentralized-command-concept]]
 
-**related** ↔ [[aku-sintomas-de-micromanagement-method]]
+**related** ↔ [[aku-sintomas-de-micromanagement-method]] · [[aku-accountability-temporal-luego-soltar-claim]]

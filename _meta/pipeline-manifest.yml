@@ -1490,8 +1490,8 @@ sources:
     converted: 2026-06-05
     image_processing: n/a
     ingested: null   # FASE 2 en curso — book mode
-    chapters_ingested: [introduccion, cap01-ultimate-dichotomy, cap02-own-it-all-empower-others, cap03-resolute-not-overbearing, cap04-when-to-mentor-when-to-fire, cap05-train-hard-train-smart, cap06-aggressive-not-reckless, cap07-disciplined-not-rigid]
-    aku_count: 33
+    chapters_ingested: [introduccion, cap01-ultimate-dichotomy, cap02-own-it-all-empower-others, cap03-resolute-not-overbearing, cap04-when-to-mentor-when-to-fire, cap05-train-hard-train-smart, cap06-aggressive-not-reckless, cap07-disciplined-not-rigid, cap08-accountability-not-hand-holding]
+    aku_count: 36
     taku_count: 0
     last_commit: ""
     notes: >

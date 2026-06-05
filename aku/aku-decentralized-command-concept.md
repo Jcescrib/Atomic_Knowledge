@@ -50,6 +50,7 @@ relations:
     - aku-decentralizar-proceso-planificacion-claim
     - aku-leading-down-the-chain-concept
     - aku-balance-ownership-decentralized-command-concept
+    - aku-accountability-no-como-herramienta-principal-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -66,4 +67,4 @@ status_note: ""
 
 **supports** → [[aku-laws-of-combat-concept]]
 
-**related** ↔ [[aku-believe-in-the-mission-concept]] · [[aku-contingency-planning-anticipar-method]] · [[aku-simple-law-of-combat-concept]] · [[aku-battlefield-aloofness-concept]] · [[aku-micromanagement-disuelve-en-caos-claim]] · [[aku-decentralizar-proceso-planificacion-claim]] · [[aku-leading-down-the-chain-concept]] · [[aku-balance-ownership-decentralized-command-concept]]
+**related** ↔ [[aku-believe-in-the-mission-concept]] · [[aku-contingency-planning-anticipar-method]] · [[aku-simple-law-of-combat-concept]] · [[aku-battlefield-aloofness-concept]] · [[aku-micromanagement-disuelve-en-caos-claim]] · [[aku-decentralizar-proceso-planificacion-claim]] · [[aku-leading-down-the-chain-concept]] · [[aku-balance-ownership-decentralized-command-concept]] · [[aku-accountability-no-como-herramienta-principal-concept]]

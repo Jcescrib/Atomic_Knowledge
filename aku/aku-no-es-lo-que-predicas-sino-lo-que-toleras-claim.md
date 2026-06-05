@@ -35,6 +35,7 @@ relations:
   contradicts: []
   related:
     - aku-resolute-but-not-overbearing-concept
+    - aku-accountability-temporal-luego-soltar-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -51,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-no-bad-teams-only-bad-leaders-concept]]
 
-**related** ↔ [[aku-resolute-but-not-overbearing-concept]]
+**related** ↔ [[aku-resolute-but-not-overbearing-concept]] · [[aku-accountability-temporal-luego-soltar-claim]]

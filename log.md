@@ -732,3 +732,7 @@ Próximo libro: **dichotomy-of-leadership** (PDF, 345 págs) — enriquecerá lo
 ### Cap 7 «Disciplined, Not Rigid» (+3 AKUs, +1 enrich)
 
 **COBERTURA**: 3 nuevos (1 concept, 2 claim) + enrich `discipline-equals-freedom` (2ª fuente, 0.50→0.60). 1207→1210. `disciplined-not-rigid` (related discipline-equals-freedom/simple), disciplina-da-libertad-de-maniobra (los SOPs son una línea de la que desviarse; ↔ planning-process), exceso-de-sops-ahoga-iniciativa (↔ micromanagement-mata-iniciativa). verify_graph: 1210 AKUs, 0 errores.
+
+### Cap 8 «Hold People Accountable, but Don't Hold Their Hands» (+3 AKUs) — cierra PARTE II
+
+**COBERTURA**: 3 items (1 concept, 2 claim). 1210→1213. `accountability-no-como-herramienta-principal` (related believe/decentralized-command), accountability-no-escala-y-ciega-al-lider (atrapa al líder mirando abajo/dentro; ↔ leading-up/micromanagement), accountability-temporal-luego-soltar (↔ no-es-lo-que-toleras/corregir-micromanagement). **PARTE II completa** (caps 5-8, Balancing the Mission). verify_graph: 1213 AKUs, 0 errores.

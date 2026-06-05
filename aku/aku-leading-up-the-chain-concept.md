@@ -40,6 +40,7 @@ relations:
   contradicts: []
   related:
     - aku-leading-down-the-chain-concept
+    - aku-accountability-no-escala-y-ciega-al-lider-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -54,4 +55,4 @@ status_note: ""
 
 **supported_by** ← [[aku-extreme-ownership-concept]] · [[aku-boss-no-da-soporte-culpate-primero-claim]] · [[aku-leading-up-requiere-influencia-no-autoridad-claim]] · [[aku-humildad-aceptar-prioridades-superiores-claim]] · [[aku-presentar-frente-unido-claim]] · [[aku-ejecutar-decision-como-propia-claim]]
 
-**related** ↔ [[aku-leading-down-the-chain-concept]]
+**related** ↔ [[aku-leading-down-the-chain-concept]] · [[aku-accountability-no-escala-y-ciega-al-lider-claim]]
