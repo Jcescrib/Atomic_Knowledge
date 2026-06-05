@@ -1556,17 +1556,28 @@ sources:
     raw_path: "raw/libros/jocko/32-principles/"
     converter: ebooklib
     converted: 2026-06-05
-    image_processing: null
-    ingested: null
-    chapters_ingested: []
-    aku_count: 0
-    taku_count: 0
-    last_commit: ""
+    image_processing: 2026-06-05
+    ingested: 2026-06-05
+    chapters_ingested: [intro-foreword, ch01-connection, ch02-detachment, ch03-distance, ch04-pyramid, ch05-creation, ch06-acceptance, ch07-velocity, ch08-clock, ch09-river, ch10-frame, ch11-kuzushi, ch12-reconnaissance, ch13-prevention, ch14-tension, ch15-fork, ch16-posture, ch17-false-surrender, ch18-depletion, ch19-isolation, ch20-sacrifice, ch21-momentum, ch22-pivot, ch23-tagalong, ch24-overload, ch25-anchor, ch26-ratchet, ch27-buoyancy, ch28-head-control, ch29-redirection, ch30-mobility, ch31-centerline, ch32-grandmaster]
+    aku_count: 94
+    taku_count: 1
+    last_commit: "8fb09a5"
     notes: >
-      Libro 5 corpus Jocko (Rener Gracie; Paul Volponi; pról. Jocko Willink, 2023).
-      source-tag: jocko. EPUB → epub_to_md.py (78 secciones, 41 imgs — muchas figuras
-      informacionales de técnica jiu-jitsu). 32 principios transferibles del jiu-jitsu
-      a la vida. Pendiente FASE 2 ingesta hiper-exhaustiva (atención a figuras).
+      Libro 5 corpus Jocko COMPLETO (Rener Gracie; Paul Volponi; pról. Jocko Willink,
+      2023). source-tag: jocko. EPUB → epub_to_md.py. 94 AKUs (32 principios-concept +
+      sub-conceptos/methods/claims por capítulo) + 6 AKUs fundacionales intro/foreword
+      + 1 framework TAKU (taku-32-principios-jiu-jitsu). Granularidad máxima, commit por
+      capítulo. **IMÁGENES: las 41 imgs NO son figuras de jiu-jitsu** — son 33 QR codes
+      (enlaces a vídeos de técnica), 4 de portada/títulos, 1 line.jpg divisor reutilizado
+      y 3 figuras de back-matter (2 retratos autores + 1 anuncio keynote). TODAS
+      decorativas/referencia; 0 blockquotes informativos (la técnica vive en los vídeos
+      QR, no en figuras impresas; el texto es autosuficiente). INTEGRATE cross-libro (8
+      puentes al corpus liderazgo): detachment↔detach-tactico, miedo-al-fracaso-paraliza
+      ↔miedo-al-fracaso-es-bueno (candidato contradicts, ver informe), river↔camino-de-
+      menor-resistencia, eustress↔stress-bueno-y-malo-cortisol, no-hay-malos-estudiantes
+      ↔no-bad-teams-only-bad-leaders, soltar-control-egoista↔delegar-todo, liderar-con-
+      ejemplo↔liderar-desde-frente, maestro-nunca-deja-aprender↔humildad-cualidad-mas-
+      importante. verify_graph.py: 0 errores (simetría OK).
 
   - original: "G:\\Mi unidad\\JOCKO\\The Code_ the Evaluation_ the Protocols_ Striving to Become -- Jocko Willink & Dave Berke & Sarah Armstrong -- 2020 -- Jocko Publishing -- 69f5b97a0718c0fe357b8a3abd0dd49b -- Anna’s Archive.epub"
     name_slug: "the-code"
