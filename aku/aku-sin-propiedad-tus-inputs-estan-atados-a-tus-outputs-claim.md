@@ -1,13 +1,15 @@
 ---
 type: aku
 aku_class: claim
-id: aku-con-quien-y-en-que-trabajas-importa-mas-que-cuanto-claim
+id: aku-sin-propiedad-tus-inputs-estan-atados-a-tus-outputs-claim
 statement: >
-  Trabaja tan duro como puedas, pero con quién trabajas y en qué trabajas
-  importan más que cuán duro trabajas: el esfuerzo mal dirigido rinde poco
-  frente al esfuerzo en la palanca correcta.
+  Sin propiedad (equity), tus inputs están estrechamente atados a tus outputs:
+  en cualquier empleo asalariado —incluso muy bien pagado, como médico o
+  abogado— cobras por hora, así que cuando duermes, te jubilas o estás de
+  vacaciones no ganas, y no puedes ganar de forma no lineal; el ingreso pasivo
+  exige poseer un negocio que gane por ti.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, trabajo, estrategia]
+domain: [riqueza, naval, equity, ingreso-pasivo]
 
 llm_confidence: 0.50
 
@@ -30,7 +32,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-99-por-ciento-del-esfuerzo-se-desperdicia-encuentra-el-1-claim
+    - aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,6 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-99-por-ciento-del-esfuerzo-se-desperdicia-encuentra-el-1-claim]]
+**related** ↔ [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]]

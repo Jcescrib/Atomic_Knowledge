@@ -1,13 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-con-quien-y-en-que-trabajas-importa-mas-que-cuanto-claim
+id: aku-fallar-en-publico-bajo-tu-nombre-da-poder-claim
 statement: >
-  Trabaja tan duro como puedas, pero con quién trabajas y en qué trabajas
-  importan más que cuán duro trabajas: el esfuerzo mal dirigido rinde poco
-  frente al esfuerzo en la palanca correcta.
+  Quienes tienen la capacidad de fallar en público bajo su propio nombre ganan
+  mucho poder: seguimos socialmente programados para temer el fracaso público
+  bajo nuestro nombre, así que asumir ese riesgo —exponerse, opinar, emprender
+  abiertamente— diferencia y otorga credibilidad, recompensa y leverage.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, trabajo, estrategia]
+domain: [riqueza, naval, accountability, riesgo]
 
 llm_confidence: 0.50
 
@@ -30,7 +31,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-99-por-ciento-del-esfuerzo-se-desperdicia-encuentra-el-1-claim
+    - aku-accountability-bajo-tu-nombre-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,6 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-99-por-ciento-del-esfuerzo-se-desperdicia-encuentra-el-1-claim]]
+**related** ↔ [[aku-accountability-bajo-tu-nombre-concept]]

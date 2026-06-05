@@ -1,13 +1,14 @@
 ---
 type: aku
 aku_class: claim
-id: aku-con-quien-y-en-que-trabajas-importa-mas-que-cuanto-claim
+id: aku-ser-aprendiz-perpetuo-es-la-habilidad-clave-para-hacerse-rico-claim
 statement: >
-  Trabaja tan duro como puedas, pero con quién trabajas y en qué trabajas
-  importan más que cuán duro trabajas: el esfuerzo mal dirigido rinde poco
-  frente al esfuerzo en la palanca correcta.
+  La habilidad más importante para hacerse rico hoy es convertirse en aprendiz
+  perpetuo: saber aprender cualquier cosa que quieras; el modelo viejo (estudiar
+  4 años y ejercer 30) ya no aplica porque las profesiones se vuelven obsoletas
+  rápido y hay que dominar un campo nuevo en 9-12 meses.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, trabajo, estrategia]
+domain: [riqueza, naval, aprendizaje, adaptabilidad]
 
 llm_confidence: 0.50
 
@@ -29,8 +30,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-99-por-ciento-del-esfuerzo-se-desperdicia-encuentra-el-1-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,5 +44,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-99-por-ciento-del-esfuerzo-se-desperdicia-encuentra-el-1-claim]]

@@ -1,13 +1,15 @@
 ---
 type: aku
 aku_class: claim
-id: aku-con-quien-y-en-que-trabajas-importa-mas-que-cuanto-claim
+id: aku-specific-knowledge-no-se-ensena-pero-se-aprende-claim
 statement: >
-  Trabaja tan duro como puedas, pero con quién trabajas y en qué trabajas
-  importan más que cuán duro trabajas: el esfuerzo mal dirigido rinde poco
-  frente al esfuerzo en la palanca correcta.
+  El specific knowledge no se puede enseñar (no se imparte en un aula) pero sí
+  se puede aprender: se adquiere por aprendizaje (apprenticeship), práctica
+  brutal directa y exposición real, no por instrucción formal; aun las
+  habilidades de venta, que son una forma de specific knowledge, se mejoran
+  practicando, no en clase.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, trabajo, estrategia]
+domain: [riqueza, naval, specific-knowledge, aprendizaje]
 
 llm_confidence: 0.50
 
@@ -30,7 +32,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-99-por-ciento-del-esfuerzo-se-desperdicia-encuentra-el-1-claim
+    - aku-specific-knowledge-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,6 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-99-por-ciento-del-esfuerzo-se-desperdicia-encuentra-el-1-claim]]
+**related** ↔ [[aku-specific-knowledge-concept]]

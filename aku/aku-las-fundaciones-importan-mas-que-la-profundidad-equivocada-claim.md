@@ -1,13 +1,15 @@
 ---
 type: aku
 aku_class: claim
-id: aku-con-quien-y-en-que-trabajas-importa-mas-que-cuanto-claim
+id: aku-las-fundaciones-importan-mas-que-la-profundidad-equivocada-claim
 statement: >
-  Trabaja tan duro como puedas, pero con quién trabajas y en qué trabajas
-  importan más que cuán duro trabajas: el esfuerzo mal dirigido rinde poco
-  frente al esfuerzo en la palanca correcta.
+  Las fundaciones (aritmética básica, expresarse con claridad en lenguaje
+  sencillo, persuasión al hablar) importan mucho más que la sofisticación mal
+  colocada (cálculo, vocabulario extenso, marketing digital experto): es mejor
+  ser 9/10 o 10/10 en fundamentos que profundizar prematuramente, porque con
+  buenas fundaciones ningún libro te asusta.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, trabajo, estrategia]
+domain: [riqueza, naval, aprendizaje, fundamentos]
 
 llm_confidence: 0.50
 
@@ -29,8 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related:
-    - aku-99-por-ciento-del-esfuerzo-se-desperdicia-encuentra-el-1-claim
+  related: []
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,5 +45,3 @@ status_note: ""
 ## Relaciones
 
 <!-- sin relaciones -->
-
-**related** ↔ [[aku-99-por-ciento-del-esfuerzo-se-desperdicia-encuentra-el-1-claim]]

@@ -1,13 +1,15 @@
 ---
 type: aku
-aku_class: claim
-id: aku-con-quien-y-en-que-trabajas-importa-mas-que-cuanto-claim
+aku_class: concept
+id: aku-ciencia-aguas-arriba-de-tecnologia-y-negocio-concept
 statement: >
-  Trabaja tan duro como puedas, pero con quién trabajas y en qué trabajas
-  importan más que cuán duro trabajas: el esfuerzo mal dirigido rinde poco
-  frente al esfuerzo en la palanca correcta.
+  La sociedad, los negocios y el dinero están aguas abajo de la tecnología, que
+  a su vez está aguas abajo de la ciencia: la ciencia aplicada es el motor de la
+  humanidad; incluye el corolario de que los científicos aplicados son las
+  personas más poderosas del mundo; implica que el valor fundamental se origina
+  en el descubrimiento científico.
 origin: "Naval Ravikant — The Almanack of Naval Ravikant (ed. Eric Jorgenson, 2020)"
-domain: [riqueza, naval, trabajo, estrategia]
+domain: [riqueza, naval, ciencia, tecnologia]
 
 llm_confidence: 0.50
 
@@ -30,7 +32,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-99-por-ciento-del-esfuerzo-se-desperdicia-encuentra-el-1-claim
+    - aku-technology-cosas-que-aun-no-funcionan-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,6 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-<!-- sin relaciones -->
-
-**related** ↔ [[aku-99-por-ciento-del-esfuerzo-se-desperdicia-encuentra-el-1-claim]]
+**related** ↔ [[aku-technology-cosas-que-aun-no-funcionan-concept]]
