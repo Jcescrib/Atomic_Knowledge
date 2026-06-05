@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept
+    - aku-motion-vs-action-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]]
+**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-motion-vs-action-concept]]

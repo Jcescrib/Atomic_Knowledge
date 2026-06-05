@@ -1780,6 +1780,7 @@ It looks something like this:
 
 THE HABIT LINE  
 ![](images/4e3ed3075b24c6a8a4a0afac9da544bae4e8ddebe92bd2dc4d8eb237f9412ad9.jpg)  
+> **Figura**: «The Habit Line» — curva de automaticidad (eje vertical) frente a repeticiones (eje horizontal). En el punto A el hábito exige mucho esfuerzo y concentración; tras unas repeticiones (B) cuesta menos pero aún requiere atención consciente; con suficiente práctica (C) cruza la «habit line» y la conducta se ejecuta sin pensar. Es una curva ascendente que se aplana: el hábito se vuelve automático al acumular repeticiones.
 FIGURE 11: In the beginning (point A), a habit requires a good deal of effort and concentration to perform. After a few repetitions (point B), it gets easier, but still requires some conscious attention. With enough practice (point C), the habit becomes more automatic than conscious. Beyond this threshold —the habit line—the behavior can be done more or less without thinking. A new habit has been formed.
 
 On the following page, you’ll see what it looks like when researchers track the level of automaticity for an actual habit like walking for ten minutes each day. The shape of these charts, which scientists call
@@ -1788,6 +1789,7 @@ learning curves, reveals an important truth about behavior change: habits form b
 
 WALKING 10 MINUTES PER DAY  
 ![](images/a35ea9f586936d6b9d1b1702188668ac121cb15e9b50760e12de12732681fa9b.jpg)  
+> **Figura**: Curva de aprendizaje real de alguien que adopta el hábito de caminar 10 minutos tras desayunar: la automaticidad (eje vertical) crece con cada repetición (eje horizontal) siguiendo una curva ascendente que se satura, hasta que la conducta es tan fácil y automática como puede ser. Ilustra que los hábitos se forman por frecuencia (nº de repeticiones), no por el mero paso del tiempo.
 FIGURE 12: This graph shows someone who built the habit of walking for ten minutes after breakfast each day. Notice that as the repetitions increase, so does automaticity, until the behavior is as easy and automatic as it can be.
 
 One of the most common questions I hear is, “How long does it take to build a new habit?” But what people really should be asking is, “How many does it take to form a new habit?” That is, how many repetitions are required to make a habit automatic?
@@ -1821,6 +1823,7 @@ When agriculture began to spread around the globe, farmers had an easier time ex
 ## THE SHAPE OF HUMAN BEHAVIOR
 
 ![](images/07e7c39b170c9102f360c3a1ab6b2e8352ba3100b1109e5c3d02a8d792360dc0.jpg)  
+> **Figura**: Mapamundi que marca el eje principal de cada masa continental: Europa-Asia tiene eje este-oeste (horizontal) y América-África eje norte-sur (vertical). Como las latitudes iguales comparten clima, la agricultura se expandió 2-3 veces más rápido a lo largo del eje este-oeste de Eurasia que por el norte-sur de América/África. Ilustra a escala histórica la 3ª Ley: la conducta (incluso de siglos) está limitada por la fricción del entorno.
 FIGURE 13: The primary axis of Europe and Asia is east-west. The primary axis of the Americas and Africa is north-south. This leads to a wider range of climates up-and-down the Americas than across Europe and Asia. As a result, agriculture spread nearly twice as fast across Europe and Asia than it did elsewhere. The behavior of farmers—even across hundreds or thousands of years—was constrained by the amount of friction in the environment.
 
 By comparison, the climate varies greatly when traveling from north to south. Just imagine how different the weather is in Florida compared to Canada. You can be the most talented farmer in the world, but it won’t help you grow Florida oranges in the Canadian winter. Snow is a poor substitute for soil. In order to spread crops along north-south routes, farmers would need to find and domesticate new plants whenever the climate changed.
