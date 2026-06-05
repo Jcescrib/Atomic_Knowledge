@@ -1650,3 +1650,27 @@ sources:
       hazlo-ahora↔empezar-aqui-y-ahora (Jocko). IMÁGENES (31): ~13 QR codes (libros
       recomendados = referencia), ~16 doodles Visualize Value (ilustran aforismos que el texto
       explica completo → decorativo-ilustrativo) → 0 blockquotes (idea capturada como AKU).
+
+  - original: "G:\Mi unidad\JAMES CLEAR\Atomic Habits_ The life-changing million copy bestseller -- James Clear -- 2018 -- Random House Business -- isbn13 9781473537804 -- 729a66f87a5a6ceb910e60038fca86f8 -- Anna’s Archive.pdf"
+    name_slug: "atomic-habits"
+    raw_path: "raw/libros/james-clear/atomic-habits/"
+    converter: mineru
+    converted: 2026-06-05
+    image_processing: null
+    ingested: null
+    chapters_ingested: []
+    aku_count: 0
+    taku_count: 0
+    last_commit: ""
+    notes: >
+      TAREA 2, libro 2. Atomic Habits (James Clear, 2018). source-tag: james-clear.
+      PDF → MinerU (285 págs, 43 imgs, OCR latin CPU). Slug saneado a `atomic-habits`.
+      CONVERSIÓN COMPLETA, IMAGE PROCESSING + INGESTA PENDIENTES. Estructura: Introduction +
+      THE FUNDAMENTALS + las 4 Leyes del cambio de conducta (1st Law Make It Obvious, 2nd Law
+      Make It Attractive, 3rd Law Make It Easy, 4th Law Make It Satisfying) + Advanced Tactics,
+      con "Chapter Summary" al final de cada capítulo (buenas fronteras de commit). IMÁGENES (43):
+      muchas son diagramas INFORMACIONALES famosos (habit loop, curva del 1% mejor/peor, meseta
+      del potencial latente, 3 capas de cambio, two-minute rule, etc.) → requerirán blockquotes
+      `> **Figura**:` en la fase de image-processing antes de ingestar cada capítulo. Pendiente
+      de la siguiente sesión (contexto): image-processing + ingesta hiper-exhaustiva capítulo a
+      capítulo con dedup cross-corpus (hábitos/disciplina ↔ Jocko; identidad ↔ Naval-descondiciónate).
