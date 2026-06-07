@@ -36,6 +36,7 @@ relations:
     - aku-effort-sacrifice-concept
     - aku-value-equation-concept
     - aku-free-stuff-too-expensive-hidden-costs-claim
+    - aku-coste-percibido-amplio-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-effort-sacrifice-concept]] · [[aku-value-equation-concept]] · [[aku-free-stuff-too-expensive-hidden-costs-claim]]
+**related** ↔ [[aku-effort-sacrifice-concept]] · [[aku-value-equation-concept]] · [[aku-free-stuff-too-expensive-hidden-costs-claim]] · [[aku-coste-percibido-amplio-concept]]

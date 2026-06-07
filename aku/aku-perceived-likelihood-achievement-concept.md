@@ -35,6 +35,7 @@ relations:
   related:
     - aku-cialdini-prueba-social-concept
     - aku-cialdini-autoridad-concept
+    - aku-copy-aportar-pruebas-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-value-equation-concept]]
 
-**related** ↔ [[aku-cialdini-prueba-social-concept]] · [[aku-cialdini-autoridad-concept]]
+**related** ↔ [[aku-cialdini-prueba-social-concept]] · [[aku-cialdini-autoridad-concept]] · [[aku-copy-aportar-pruebas-claim]]

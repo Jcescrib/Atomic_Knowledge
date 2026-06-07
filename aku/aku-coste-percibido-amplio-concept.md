@@ -40,6 +40,7 @@ relations:
     - aku-propuesta-de-valor-concept
     - aku-ecuacion-valor-claim
     - aku-effort-sacrifice-concept
+    - aku-costes-ocultos-oferta-gratis-claim
 
 sources:
   - "raw/cursos/power-mba/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a.md"
@@ -54,4 +55,4 @@ status_note: ""
 
 **supported_by** ← [[aku-reducir-costes-no-precio-claim]]
 
-**related** ↔ [[aku-power-value-modelo-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-ecuacion-valor-claim]] · [[aku-effort-sacrifice-concept]]
+**related** ↔ [[aku-power-value-modelo-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-ecuacion-valor-claim]] · [[aku-effort-sacrifice-concept]] · [[aku-costes-ocultos-oferta-gratis-claim]]

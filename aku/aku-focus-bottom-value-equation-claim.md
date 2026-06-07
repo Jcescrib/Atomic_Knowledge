@@ -26,7 +26,8 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-reducir-costes-no-precio-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -49,3 +50,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-value-equation-concept]] · [[aku-time-delay-value-concept]] · [[aku-effort-sacrifice-concept]]
+
+**supports** → [[aku-reducir-costes-no-precio-claim]]

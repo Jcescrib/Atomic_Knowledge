@@ -35,6 +35,7 @@ relations:
   related:
     - aku-anuncio-callout-value-cta-concept
     - aku-formulas-titulos-potentes-concept
+    - aku-copy-incluir-titular-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-anuncio-callout-value-cta-concept]] · [[aku-formulas-titulos-potentes-concept]]
+**related** ↔ [[aku-anuncio-callout-value-cta-concept]] · [[aku-formulas-titulos-potentes-concept]] · [[aku-copy-incluir-titular-claim]]

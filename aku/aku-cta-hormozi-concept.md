@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-cta-concept
+    - aku-copy-incluir-cta-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cta-concept]]
+**related** ↔ [[aku-cta-concept]] · [[aku-copy-incluir-cta-claim]]

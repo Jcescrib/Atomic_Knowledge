@@ -31,6 +31,7 @@ relations:
   contradicts: []
   related:
     - aku-core-four-concept
+    - aku-formulas-titulos-potentes-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -43,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-core-four-concept]]
+**related** ↔ [[aku-core-four-concept]] · [[aku-formulas-titulos-potentes-concept]]

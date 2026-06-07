@@ -22,14 +22,17 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-hacks-copywriting-concept]
+  supported_by:
+    - aku-hacks-copywriting-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-cta-concept]
+  related:
+    - aku-cta-concept
+    - aku-cta-hormozi-concept
 
 sources:
   - raw/cursos/power-mba/18-info-hacks-copy/18-info-hacks-copy.md
@@ -44,4 +47,4 @@ status_note: ""
 
 **supported_by** ← [[aku-hacks-copywriting-concept]]
 
-**related** ↔ [[aku-cta-concept]]
+**related** ↔ [[aku-cta-concept]] · [[aku-cta-hormozi-concept]]

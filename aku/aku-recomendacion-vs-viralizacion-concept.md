@@ -27,13 +27,19 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-boca-a-boca-supera-campana-claim, aku-recomendacion-depende-producto-claim]
-  constrained_by: [aku-viralizacion-coste-cercano-cero-claim]
+  supports:
+    - aku-boca-a-boca-supera-campana-claim
+    - aku-recomendacion-depende-producto-claim
+  constrained_by:
+    - aku-viralizacion-coste-cercano-cero-claim
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-coeficiente-viralidad-concept, aku-cac-concept]
+  related:
+    - aku-coeficiente-viralidad-concept
+    - aku-cac-concept
+    - aku-affiliate-hormozi-concept
 
 sources:
   - raw/cursos/power-mba/5-8-1-conceptos-clave-recomendacion-y-viralizacion/5-8-1-conceptos-clave-recomendacion-y-viralizacion.md
@@ -48,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-boca-a-boca-supera-campana-claim]] · [[aku-recomendacion-depende-producto-claim]]
 **constrained_by** ← [[aku-viralizacion-coste-cercano-cero-claim]]
-**related** ↔ [[aku-coeficiente-viralidad-concept]] · [[aku-cac-concept]]
+**related** ↔ [[aku-coeficiente-viralidad-concept]] · [[aku-cac-concept]] · [[aku-affiliate-hormozi-concept]]

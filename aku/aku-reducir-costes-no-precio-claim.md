@@ -25,7 +25,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-focus-bottom-value-equation-claim
   supports:
     - aku-coste-percibido-amplio-concept
   constrained_by: []
@@ -52,3 +53,5 @@ status_note: ""
 **supports** → [[aku-coste-percibido-amplio-concept]]
 
 **related** ↔ [[aku-innovacion-valor-concept]] · [[aku-ecuacion-valor-claim]] · [[aku-ampliar-gap-valor-precio-claim]]
+
+**supported_by** ← [[aku-focus-bottom-value-equation-claim]]

@@ -25,7 +25,8 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-palabras-frases-persuasivas-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -47,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-cta-concept]] · [[aku-enforzar-estandares-siempre-con-el-porque-claim]]
+
+**supports** → [[aku-palabras-frases-persuasivas-concept]]

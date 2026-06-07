@@ -40,6 +40,7 @@ relations:
     - aku-oceano-azul-concept
     - aku-reducir-costes-no-precio-claim
     - aku-innovacion-valor-via-eric-claim
+    - aku-grand-slam-offer-concept
 
 sources:
   - "raw/cursos/power-mba/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave.md"
@@ -54,4 +55,4 @@ status_note: ""
 
 **supported_by** ← [[aku-matriz-rice-concept]] · [[aku-mas-valor-menos-coste-no-tradeoff-claim]]
 
-**related** ↔ [[aku-oceano-azul-concept]] · [[aku-reducir-costes-no-precio-claim]] · [[aku-innovacion-valor-via-eric-claim]]
+**related** ↔ [[aku-oceano-azul-concept]] · [[aku-reducir-costes-no-precio-claim]] · [[aku-innovacion-valor-via-eric-claim]] · [[aku-grand-slam-offer-concept]]
