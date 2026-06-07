@@ -24,7 +24,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-capitalizar-interes-compuesto-method
   supports: []
   constrained_by: []
   constrains: []
@@ -47,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]] · [[aku-elige-juegos-largo-plazo-con-gente-largo-plazo-claim]]
+
+**supported_by** ← [[aku-capitalizar-interes-compuesto-method]]

@@ -25,7 +25,9 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-client-financed-acquisition-concept
+    - aku-money-model-rompe-cash-bottleneck
   supports: []
   constrained_by: []
   constrains: []
@@ -48,3 +50,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-motor-crecimiento-pago-concept]] · [[aku-cac-payback-concept]]
+
+**supported_by** ← [[aku-client-financed-acquisition-concept]] · [[aku-money-model-rompe-cash-bottleneck]]

@@ -26,7 +26,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-cltv-cac-ratio-concept
   supports: []
   constrained_by: []
   constrains: []
@@ -50,3 +51,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-oferta-al-afiliado-concept]] · [[aku-ltgp-cac-3-a-1-claim]] · [[aku-payout-medio-menor-que-cac-maximo-claim]]
+
+**supported_by** ← [[aku-cltv-cac-ratio-concept]]

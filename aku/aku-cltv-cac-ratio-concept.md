@@ -30,7 +30,8 @@ relations:
   supported_by:
     - aku-cltv-concept
     - aku-cac-concept
-  supports: []
+  supports:
+    - aku-payout-afiliados-tiers-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -58,3 +59,5 @@ status_note: ""
 **supported_by** ← [[aku-cltv-concept]] · [[aku-cac-concept]]
 
 **related** ↔ [[aku-cac-payback-concept]] · [[aku-cltv-minus-cac-concept]] · [[aku-ltgp-cac-3-a-1-claim]] · [[aku-validar-economia-clave-claim]]
+
+**supports** → [[aku-payout-afiliados-tiers-concept]]

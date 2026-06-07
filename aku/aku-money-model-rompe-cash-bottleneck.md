@@ -24,7 +24,8 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-cac-payback-financia-crecimiento-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -45,3 +46,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-money-model-concept]]
+
+**supports** → [[aku-cac-payback-financia-crecimiento-claim]]

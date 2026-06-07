@@ -25,7 +25,9 @@ epistemic_type: sourced
 relations:
   supported_by:
     - aku-valor-futuro-concept
-  supports: []
+  supports:
+    - aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim
+    - aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -49,3 +51,5 @@ status_note: ""
 **supported_by** ← [[aku-valor-futuro-concept]]
 
 **related** ↔ [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]] · [[aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim]]
+
+**supports** → [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]] · [[aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim]]

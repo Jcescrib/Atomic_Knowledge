@@ -34,6 +34,7 @@ relations:
   related:
     - aku-equity-value-concept
     - aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim
+    - aku-estructura-de-capital-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-equity-value-concept]] · [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]]
+**related** ↔ [[aku-equity-value-concept]] · [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]] · [[aku-estructura-de-capital-concept]]
