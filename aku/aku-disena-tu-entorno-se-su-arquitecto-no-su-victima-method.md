@@ -25,7 +25,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-el-contexto-es-el-cue-un-espacio-un-uso-concept
   supports: []
   constrained_by: []
   constrains: []
@@ -50,3 +51,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept]] · [[aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method]] · [[aku-automatiza-tus-habitos-con-tecnologia-y-decisiones-unicas-method]] · [[aku-la-vision-es-el-mayor-catalizador-de-la-conducta-claim]]
+
+**supported_by** ← [[aku-el-contexto-es-el-cue-un-espacio-un-uso-concept]]

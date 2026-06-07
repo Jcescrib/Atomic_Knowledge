@@ -24,7 +24,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim
   supports: []
   constrained_by: []
   constrains: []
@@ -46,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim]]
+
+**supported_by** ← [[aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim]]

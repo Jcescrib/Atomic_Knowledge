@@ -26,7 +26,8 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-cuatro-leyes-del-cambio-de-conducta-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -48,3 +49,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-el-contexto-es-el-cue-un-espacio-un-uso-concept]] · [[aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim]]
+
+**supports** → [[aku-cuatro-leyes-del-cambio-de-conducta-concept]]

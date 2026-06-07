@@ -27,7 +27,8 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -36,6 +37,7 @@ relations:
   related:
     - aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim
     - aku-las-adicciones-pueden-disolverse-al-cambiar-radicalmente-el-entorno-claim
+    - aku-habit-loop-cue-craving-response-reward-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -48,4 +50,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim]] · [[aku-las-adicciones-pueden-disolverse-al-cambiar-radicalmente-el-entorno-claim]]
+**related** ↔ [[aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim]] · [[aku-las-adicciones-pueden-disolverse-al-cambiar-radicalmente-el-entorno-claim]] · [[aku-habit-loop-cue-craving-response-reward-concept]]
+
+**supports** → [[aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method]]

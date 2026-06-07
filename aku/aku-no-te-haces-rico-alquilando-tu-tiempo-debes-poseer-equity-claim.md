@@ -23,7 +23,8 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-tres-caminos-al-retiro-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -47,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-equity-value-concept]] · [[aku-wealth-activos-que-ganan-mientras-duermes-concept]] · [[aku-sin-propiedad-tus-inputs-estan-atados-a-tus-outputs-claim]] · [[aku-equity-es-el-upside-deuda-es-downside-garantizado-concept]]
+
+**supports** → [[aku-tres-caminos-al-retiro-concept]]

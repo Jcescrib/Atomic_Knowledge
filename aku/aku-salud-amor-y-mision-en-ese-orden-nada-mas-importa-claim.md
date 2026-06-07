@@ -31,6 +31,7 @@ relations:
   contradicts: []
   related:
     - aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim
+    - aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim]]
+**related** ↔ [[aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim]] · [[aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim]]

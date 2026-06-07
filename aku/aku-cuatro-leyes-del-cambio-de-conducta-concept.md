@@ -26,7 +26,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim
   supports: []
   constrained_by: []
   constrains: []
@@ -51,3 +52,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-implementation-intention-method]] · [[aku-temptation-bundling-method]] · [[aku-cardinal-rule-lo-recompensado-se-repite-lo-castigado-se-evita-concept]]
+
+**supported_by** ← [[aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim]]

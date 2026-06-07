@@ -24,7 +24,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim
   supports: []
   constrained_by: []
   constrains: []
@@ -33,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-retiro-es-dejar-de-sacrificar-hoy-por-un-manana-imaginario-concept
+    - aku-wealth-activos-que-ganan-mientras-duermes-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +47,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-retiro-es-dejar-de-sacrificar-hoy-por-un-manana-imaginario-concept]]
+**related** ↔ [[aku-retiro-es-dejar-de-sacrificar-hoy-por-un-manana-imaginario-concept]] · [[aku-wealth-activos-que-ganan-mientras-duermes-concept]]
+
+**supported_by** ← [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]]

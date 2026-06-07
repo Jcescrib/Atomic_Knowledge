@@ -24,7 +24,8 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -33,6 +34,7 @@ relations:
   related:
     - aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim
     - aku-salud-amor-y-mision-en-ese-orden-nada-mas-importa-claim
+    - aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +47,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim]] · [[aku-salud-amor-y-mision-en-ese-orden-nada-mas-importa-claim]]
+**related** ↔ [[aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim]] · [[aku-salud-amor-y-mision-en-ese-orden-nada-mas-importa-claim]] · [[aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim]]
+
+**supports** → [[aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method]]

@@ -41,6 +41,7 @@ relations:
     - aku-los-habitos-son-un-bucle-de-retroalimentacion-de-dopamina-claim
     - aku-cardinal-rule-lo-recompensado-se-repite-lo-castigado-se-evita-concept
     - aku-el-cerebro-es-una-maquina-de-prediccion-que-codifica-cues-claim
+    - aku-el-contexto-es-el-cue-un-espacio-un-uso-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -53,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habito-concept]] · [[aku-cuatro-leyes-del-cambio-de-conducta-concept]] · [[aku-no-necesitas-ser-consciente-del-cue-para-que-un-habito-empiece-claim]] · [[aku-habit-stacking-method]] · [[aku-los-habitos-son-un-bucle-de-retroalimentacion-de-dopamina-claim]] · [[aku-cardinal-rule-lo-recompensado-se-repite-lo-castigado-se-evita-concept]] · [[aku-el-cerebro-es-una-maquina-de-prediccion-que-codifica-cues-claim]]
+**related** ↔ [[aku-habito-concept]] · [[aku-cuatro-leyes-del-cambio-de-conducta-concept]] · [[aku-no-necesitas-ser-consciente-del-cue-para-que-un-habito-empiece-claim]] · [[aku-habit-stacking-method]] · [[aku-los-habitos-son-un-bucle-de-retroalimentacion-de-dopamina-claim]] · [[aku-cardinal-rule-lo-recompensado-se-repite-lo-castigado-se-evita-concept]] · [[aku-el-cerebro-es-una-maquina-de-prediccion-que-codifica-cues-claim]] · [[aku-el-contexto-es-el-cue-un-espacio-un-uso-concept]]
