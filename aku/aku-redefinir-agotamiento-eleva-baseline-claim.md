@@ -34,6 +34,7 @@ relations:
   related:
     - aku-false-surrender-principle-concept
     - aku-depletion-principle-concept
+    - aku-mejora-metodica-de-tu-baseline-de-felicidad-method
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-false-surrender-principle-concept]] · [[aku-depletion-principle-concept]]
+**related** ↔ [[aku-false-surrender-principle-concept]] · [[aku-depletion-principle-concept]] · [[aku-mejora-metodica-de-tu-baseline-de-felicidad-method]]

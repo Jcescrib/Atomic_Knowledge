@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-habitos-basados-en-la-identidad-vs-en-resultados-concept
+    - aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habitos-basados-en-la-identidad-vs-en-resultados-concept]]
+**related** ↔ [[aku-habitos-basados-en-la-identidad-vs-en-resultados-concept]] · [[aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method]]

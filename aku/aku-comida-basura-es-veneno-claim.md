@@ -36,6 +36,7 @@ relations:
     - aku-mind-control-controla-tu-propia-mente-concept
     - aku-azucar-es-adictivo-como-droga-claim
     - aku-dieta-paleo-fuel-concept
+    - aku-estimulos-supernormales-concept
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-disciplina-se-extiende-a-todo-claim]] · [[aku-mind-control-controla-tu-propia-mente-concept]] · [[aku-azucar-es-adictivo-como-droga-claim]] · [[aku-dieta-paleo-fuel-concept]]
+**related** ↔ [[aku-disciplina-se-extiende-a-todo-claim]] · [[aku-mind-control-controla-tu-propia-mente-concept]] · [[aku-azucar-es-adictivo-como-droga-claim]] · [[aku-dieta-paleo-fuel-concept]] · [[aku-estimulos-supernormales-concept]]

@@ -33,6 +33,7 @@ relations:
   related:
     - aku-relee-los-grandes-libros-identifica-los-tuyos-claim
     - aku-modelos-mentales-concept
+    - aku-construye-habitos-que-encajen-con-tu-personalidad-big-five-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-relee-los-grandes-libros-identifica-los-tuyos-claim]] · [[aku-modelos-mentales-concept]]
+**related** ↔ [[aku-relee-los-grandes-libros-identifica-los-tuyos-claim]] · [[aku-modelos-mentales-concept]] · [[aku-construye-habitos-que-encajen-con-tu-personalidad-big-five-concept]]

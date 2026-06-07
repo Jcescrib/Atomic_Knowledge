@@ -33,6 +33,7 @@ relations:
   related:
     - aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept
     - aku-motion-vs-action-concept
+    - aku-los-habitos-se-forman-por-frecuencia-no-por-tiempo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-motion-vs-action-concept]]
+**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-motion-vs-action-concept]] · [[aku-los-habitos-se-forman-por-frecuencia-no-por-tiempo-claim]]

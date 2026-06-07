@@ -29,7 +29,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-objetivos-personales-concept]
+  related:
+    - aku-objetivos-personales-concept
+    - aku-habit-contract-y-accountability-partner-method
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -42,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-objetivos-personales-concept]]
+**related** ↔ [[aku-objetivos-personales-concept]] · [[aku-habit-contract-y-accountability-partner-method]]

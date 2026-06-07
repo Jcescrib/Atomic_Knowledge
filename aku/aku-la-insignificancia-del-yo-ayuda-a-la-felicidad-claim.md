@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-el-ego-se-construye-en-las-primeras-dos-decadas-concept
+    - aku-el-ego-mas-dificil-es-el-propio-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-ego-se-construye-en-las-primeras-dos-decadas-concept]]
+**related** ↔ [[aku-el-ego-se-construye-en-las-primeras-dos-decadas-concept]] · [[aku-el-ego-mas-dificil-es-el-propio-claim]]

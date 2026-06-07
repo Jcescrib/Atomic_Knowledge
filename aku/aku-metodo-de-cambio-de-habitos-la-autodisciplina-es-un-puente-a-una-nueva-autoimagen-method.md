@@ -34,6 +34,8 @@ relations:
   related:
     - aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim
     - aku-la-felicidad-es-una-habilidad-que-se-aprende-concept
+    - aku-proceso-de-dos-pasos-para-cambiar-tu-identidad-method
+    - aku-implementation-intention-method
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim]] · [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]]
+**related** ↔ [[aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim]] · [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-proceso-de-dos-pasos-para-cambiar-tu-identidad-method]] · [[aku-implementation-intention-method]]

@@ -36,6 +36,7 @@ relations:
   related:
     - aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method
     - aku-accountability-bajo-tu-nombre-concept
+    - aku-compartir-objetivos-compromiso-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method]] · [[aku-accountability-bajo-tu-nombre-concept]]
+**related** ↔ [[aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method]] · [[aku-accountability-bajo-tu-nombre-concept]] · [[aku-compartir-objetivos-compromiso-claim]]

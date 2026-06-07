@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-evaluation-character-leadership-concept
+    - aku-el-deseo-y-el-ego-nublan-la-realidad-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-check-the-ego-concept]]
 
-**related** ↔ [[aku-evaluation-character-leadership-concept]]
+**related** ↔ [[aku-evaluation-character-leadership-concept]] · [[aku-el-deseo-y-el-ego-nublan-la-realidad-claim]]

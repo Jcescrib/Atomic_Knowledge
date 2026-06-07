@@ -34,6 +34,7 @@ relations:
     - aku-buscar-ayuda-profesional-sin-que-el-ego-lo-impida-claim
     - aku-el-deseo-y-el-ego-nublan-la-realidad-claim
     - aku-48laws-47-learn-when-to-stop-concept
+    - aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-check-the-ego-concept]]
 
-**related** ↔ [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-subordinate-your-ego-desactiva-choque-method]] · [[aku-buscar-ayuda-profesional-sin-que-el-ego-lo-impida-claim]] · [[aku-el-deseo-y-el-ego-nublan-la-realidad-claim]] · [[aku-48laws-47-learn-when-to-stop-concept]]
+**related** ↔ [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-subordinate-your-ego-desactiva-choque-method]] · [[aku-buscar-ayuda-profesional-sin-que-el-ego-lo-impida-claim]] · [[aku-el-deseo-y-el-ego-nublan-la-realidad-claim]] · [[aku-48laws-47-learn-when-to-stop-concept]] · [[aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim]]
