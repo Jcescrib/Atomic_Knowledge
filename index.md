@@ -54,6 +54,8 @@ _(none — fresh post-reset graph; the 2.1-BMC ingest was vacuous against the em
 
 ## Lint flags (latest run)
 
+**2026-06-07 (audit-graph cross-corpus)**: **0 errors** (`verify_graph` 1840/1840 simétrico, 0 body-drift, 0 wikilinks rotos). **Componentes conectados 4 → 1** (3 islas puenteadas). **+95 aristas** (8 islas + 87 cross-corpus en 6 lotes temáticos: liderazgo, disciplina/hábitos/ego, poder/influencia, riqueza/unit-economics, oferta/valor/copy, felicidad/mente/salud). Caso testigo Jocko↔Power MBA (liderazgo) verificado y cableado. Sub-conectados 1126 → 1080. Lista de **pares dudosos para revisión humana** + evaluación crítica del CLAUDE.md (GAP 1: relleno retroactivo cross-corpus) en `_meta/auditoria-grafo-2026-06-07.md` y `_meta/auditoria-claude-md.md`. TAKUs: 137/137 siguen `draft`.
+
 **2026-06-04 (post-módulos 04+05 + cleanup Kolenda)**: **0 errors · 6 warnings · informational**. 181 AKUs / 28 TAKUs · 1 connected component · 0 isolated · 0 bidirectional asymmetries (AKU 181/181, TAKU 28/28) · 0 body-drift · 0 broken wikilinks · 0 `sources[]` violations.
 - W1-6 — 6 TAKUs > 7 `justified_by` (BMC=14, lean-startup=12, plataformas=12, growth-metrics=11, Power Value=11, océano-azul=9). Expected for comprehensive frameworks; ningún TAKU de los módulos 04/05 supera el umbral (máx. cinco-fuerzas=6).
 - Decay/freshness: **ninguna** (todo `created` 2026-06-03, ≤1 día). I2 (related-only, 80 AKUs) disparará >14d (~2026-06-17); contradicción Porter↔océano-azul disparará >30d (~2026-07-03).

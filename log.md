@@ -935,3 +935,19 @@ Creados los 6 TAKUs ejecutables flaggeados (86→92 TAKUs draft, todos `content_
 - **James Clear — Atomic Habits**: 84 AKUs + 1 framework TAKU.
 - **Robert Greene — The 48 Laws of Power**: 48 AKUs + 1 framework TAKU.
 - Total TAREA 2: **+367 AKUs + 6 TAKUs**. Más TAREA 1 (corpus Jocko completo, libros 1-6). Grafo global: 1840 AKUs, 0 errores, todo en `origin/main`.
+
+## 2026-06-07 — audit-graph (auditoría hiper-rigurosa + puentes cross-corpus)
+Trabajo autónomo. Tareas A (revisión CLAUDE.md), B (verificar TAKUs draft), C (auditoría grafo + puentes).
+- **Tarea A**: `_meta/auditoria-claude-md.md` — resumen del modelo de grafo, reglas de enlazado y evaluación crítica. 5 gaps; **GAP 1** = el manual no especifica el relleno RETROACTIVO de puentes cross-corpus al entrar libros nuevos (la integración es forward-only en INTEGRATE 5.5; `/audit-graph` es manual, topológico y solo aplica tier (a)).
+- **Tarea B**: 137/137 TAKUs en `status: draft`. Ninguno activado por error. Sin cambios.
+- **Tarea C**: **componentes conectados 4 → 1**; `verify_graph` 0 errores en todos los lotes. **+95 aristas**:
+  - Batch 0 (8): puentes de las 3 islas (Atomic Habits autocontrol/cues; Naval salud-prioridades; Naval retiro) al componente principal.
+  - Batch 1 LIDERAZGO (11): caso testigo Jocko↔Power MBA verificado (mind-control/self-discipline→autoliderazgo, situacional↔everyone-different, commander's-intent↔delegativo, no-obligar→liderazgo).
+  - Batch 2 DISCIPLINA/HÁBITOS/EGO (20): jocko↔james-clear↔naval.
+  - Batch 3 PODER/INFLUENCIA (14): robert-greene↔jocko↔power-mba↔hormozi, incl. 2 `contradicts` valiosos (honestidad-selectiva vs lideres-dicen-verdad; hearts-and-minds amoral vs liderazgo-vs-manipulacion).
+  - Batch 4 RIQUEZA (9): naval↔power-mba↔hormozi (CFA↔CAC-payback, LTGP:CAC↔CLTV/CAC, equity, interés compuesto).
+  - Batch 5 OFERTA/VALOR/COPY (17): hormozi↔power-mba (value-equation↔ecuación-valor, CTA/lead/lead-magnet/affiliate, dream-outcome↔beneficios-últimos).
+  - Batch 6 FELICIDAD/MENTE/SALUD (16): naval↔james-clear↔jocko↔power-mba (deseo/felicidad, meditación↔mindfulness, salud/dieta).
+- Sub-conectados (degree 1-2) 1126 → 1080. Hubs con muchos `related` (core-four, money-model…) son pre-existentes; no se introdujo link-inflation.
+- **Pares dudosos apartados para revisión humana** (no cableados): ver §4 de `_meta/auditoria-grafo-2026-06-07.md` (falso amigo leverage↔apalancamiento-financiero; varios `contradicts` que no son negación estricta; solapamientos tangenciales).
+- Tooling reutilizable: `scripts/_audit_analyze.py`, `_audit_wire.py`, `_batch00..06_*.py`. Commit+push por lote (resumible).
