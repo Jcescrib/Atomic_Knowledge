@@ -34,7 +34,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim
+    - aku-autoevaluacion-cuerpo-mente-alma-concept
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -48,3 +50,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-the-evaluation-concept]]
+
+**related** ↔ [[aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]]

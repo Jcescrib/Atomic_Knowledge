@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-disciplina-se-extiende-a-todo-claim
+    - aku-para-tener-paz-mental-primero-hay-que-tener-paz-del-cuerpo-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-disciplina-se-extiende-a-todo-claim]]
+**related** ↔ [[aku-disciplina-se-extiende-a-todo-claim]] · [[aku-para-tener-paz-mental-primero-hay-que-tener-paz-del-cuerpo-claim]]

@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-cambiar-aceptar-o-dejar-concept
+    - aku-mente-mono-no-estar-presente-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cambiar-aceptar-o-dejar-concept]]
+**related** ↔ [[aku-cambiar-aceptar-o-dejar-concept]] · [[aku-mente-mono-no-estar-presente-concept]]

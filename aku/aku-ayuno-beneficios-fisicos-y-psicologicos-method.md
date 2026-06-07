@@ -38,6 +38,7 @@ relations:
     - aku-homeostasis-glucosa-insulina-concept
     - aku-dieta-paleo-fuel-concept
     - aku-mind-control-controla-tu-propia-mente-concept
+    - aku-la-meditacion-es-ayuno-intermitente-para-la-mente-concept
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -50,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-homeostasis-glucosa-insulina-concept]] · [[aku-dieta-paleo-fuel-concept]] · [[aku-mind-control-controla-tu-propia-mente-concept]]
+**related** ↔ [[aku-homeostasis-glucosa-insulina-concept]] · [[aku-dieta-paleo-fuel-concept]] · [[aku-mind-control-controla-tu-propia-mente-concept]] · [[aku-la-meditacion-es-ayuno-intermitente-para-la-mente-concept]]

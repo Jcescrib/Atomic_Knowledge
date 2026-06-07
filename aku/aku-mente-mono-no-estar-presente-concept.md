@@ -24,14 +24,17 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-mente-de-mono-concept]
+  supported_by:
+    - aku-mente-de-mono-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-mindfulness-concept]
+  related:
+    - aku-mindfulness-concept
+    - aku-la-ansiedad-son-pensamientos-en-marcha-elige-la-paz-sobre-el-pensamiento-claim
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -45,4 +48,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-mente-de-mono-concept]]
-**related** ↔ [[aku-mindfulness-concept]]
+**related** ↔ [[aku-mindfulness-concept]] · [[aku-la-ansiedad-son-pensamientos-en-marcha-elige-la-paz-sobre-el-pensamiento-claim]]

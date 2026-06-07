@@ -25,13 +25,16 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-mente-mono-no-estar-presente-concept]
+  supports:
+    - aku-mente-mono-no-estar-presente-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-mindfulness-concept]
+  related:
+    - aku-mindfulness-concept
+    - aku-la-meditacion-revela-cuan-fuera-de-control-esta-tu-mente-y-en-la-separacion-hay-liberacion-claim
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -45,4 +48,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-mente-mono-no-estar-presente-concept]]
-**related** ↔ [[aku-mindfulness-concept]]
+**related** ↔ [[aku-mindfulness-concept]] · [[aku-la-meditacion-revela-cuan-fuera-de-control-esta-tu-mente-y-en-la-separacion-hay-liberacion-claim]]

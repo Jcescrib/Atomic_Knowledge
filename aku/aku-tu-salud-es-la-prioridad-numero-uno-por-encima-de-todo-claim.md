@@ -35,6 +35,7 @@ relations:
     - aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim
     - aku-salud-amor-y-mision-en-ese-orden-nada-mas-importa-claim
     - aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim
+    - aku-evaluation-health-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,6 +48,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim]] · [[aku-salud-amor-y-mision-en-ese-orden-nada-mas-importa-claim]] · [[aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim]]
+**related** ↔ [[aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim]] · [[aku-salud-amor-y-mision-en-ese-orden-nada-mas-importa-claim]] · [[aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim]] · [[aku-evaluation-health-concept]]
 
 **supports** → [[aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method]]

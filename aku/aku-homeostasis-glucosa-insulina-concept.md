@@ -38,6 +38,7 @@ relations:
     - aku-azucar-es-adictivo-como-droga-claim
     - aku-dieta-paleo-fuel-concept
     - aku-ayuno-beneficios-fisicos-y-psicologicos-method
+    - aku-la-grasa-sacia-el-azucar-da-hambre-y-su-combinacion-es-letal-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -50,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-stress-bueno-y-malo-cortisol-claim]] · [[aku-azucar-es-adictivo-como-droga-claim]] · [[aku-dieta-paleo-fuel-concept]] · [[aku-ayuno-beneficios-fisicos-y-psicologicos-method]]
+**related** ↔ [[aku-stress-bueno-y-malo-cortisol-claim]] · [[aku-azucar-es-adictivo-como-droga-claim]] · [[aku-dieta-paleo-fuel-concept]] · [[aku-ayuno-beneficios-fisicos-y-psicologicos-method]] · [[aku-la-grasa-sacia-el-azucar-da-hambre-y-su-combinacion-es-letal-claim]]

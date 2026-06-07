@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim
+    - aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim]]
+**related** ↔ [[aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim]] · [[aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim]]

@@ -33,6 +33,7 @@ relations:
   related:
     - aku-el-deseo-es-la-diferencia-entre-donde-estas-y-donde-quieres-estar-claim
     - aku-todo-pensamiento-positivo-contiene-uno-negativo-por-dualidad-claim
+    - aku-felicidad-es-satisfaccion-el-exito-viene-de-la-insatisfaccion-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-deseo-es-la-diferencia-entre-donde-estas-y-donde-quieres-estar-claim]] · [[aku-todo-pensamiento-positivo-contiene-uno-negativo-por-dualidad-claim]]
+**related** ↔ [[aku-el-deseo-es-la-diferencia-entre-donde-estas-y-donde-quieres-estar-claim]] · [[aku-todo-pensamiento-positivo-contiene-uno-negativo-por-dualidad-claim]] · [[aku-felicidad-es-satisfaccion-el-exito-viene-de-la-insatisfaccion-claim]]
