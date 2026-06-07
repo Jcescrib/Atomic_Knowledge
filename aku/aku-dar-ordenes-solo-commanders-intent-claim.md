@@ -39,6 +39,7 @@ relations:
     - aku-transicion-de-par-a-lider-claim
     - aku-liderazgo-indirecto-supera-al-directo-claim
     - aku-dont-dig-in-no-sobrecomprometerse-claim
+    - aku-estilos-autoritario-delegativo-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-commanders-intent-concept]] · [[aku-decentralizar-proceso-planificacion-claim]] · [[aku-check-the-ego-concept]] · [[aku-transicion-de-par-a-lider-claim]] · [[aku-liderazgo-indirecto-supera-al-directo-claim]] · [[aku-dont-dig-in-no-sobrecomprometerse-claim]]
+**related** ↔ [[aku-commanders-intent-concept]] · [[aku-decentralizar-proceso-planificacion-claim]] · [[aku-check-the-ego-concept]] · [[aku-transicion-de-par-a-lider-claim]] · [[aku-liderazgo-indirecto-supera-al-directo-claim]] · [[aku-dont-dig-in-no-sobrecomprometerse-claim]] · [[aku-estilos-autoritario-delegativo-concept]]

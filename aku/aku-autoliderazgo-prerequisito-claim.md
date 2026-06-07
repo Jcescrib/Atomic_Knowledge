@@ -22,10 +22,13 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-mind-control-controla-tu-propia-mente-concept
+    - aku-self-discipline-viene-de-dentro-concept
   supports: []
   constrained_by: []
-  constrains: [aku-tres-capas-liderazgo-concept]
+  constrains:
+    - aku-tres-capas-liderazgo-concept
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
@@ -43,3 +46,5 @@ status_note: ""
 ## Relaciones
 
 **constrains** → [[aku-tres-capas-liderazgo-concept]]
+
+**supported_by** ← [[aku-mind-control-controla-tu-propia-mente-concept]] · [[aku-self-discipline-viene-de-dentro-concept]]

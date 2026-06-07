@@ -27,6 +27,7 @@ epistemic_type: sourced
 relations:
   supported_by:
     - aku-tres-capas-liderazgo-concept
+    - aku-disciplina-se-extiende-a-todo-claim
   supports: []
   constrained_by: []
   constrains: []
@@ -52,5 +53,5 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-tres-capas-liderazgo-concept]]
+**supported_by** ← [[aku-tres-capas-liderazgo-concept]] · [[aku-disciplina-se-extiende-a-todo-claim]]
 **related** ↔ [[aku-mindfulness-concept]] · [[aku-ikigai-concept]] · [[aku-minimalismo-digital-concept]] · [[aku-diagnostico-estrategico-personal-concept]] · [[aku-the-evaluation-concept]]

@@ -25,7 +25,8 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-aprende-nuevas-habilidades-liderazgo-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -49,3 +50,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-eleccion-vence-naturaleza-y-crianza-claim]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-lider-compensa-debilidades-con-el-equipo-claim]] · [[aku-juzgar-reputaciones-dar-empezar-de-cero-claim]]
+
+**supports** → [[aku-aprende-nuevas-habilidades-liderazgo-claim]]

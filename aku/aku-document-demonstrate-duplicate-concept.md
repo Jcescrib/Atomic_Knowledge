@@ -36,6 +36,7 @@ relations:
   related:
     - aku-empleados-lead-getters-concept
     - aku-entrenar-seguir-instrucciones-claim
+    - aku-entrenamiento-realismo-fundamentos-repeticion-method
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-empleados-lead-getters-concept]] · [[aku-entrenar-seguir-instrucciones-claim]]
+**related** ↔ [[aku-empleados-lead-getters-concept]] · [[aku-entrenar-seguir-instrucciones-claim]] · [[aku-entrenamiento-realismo-fundamentos-repeticion-method]]

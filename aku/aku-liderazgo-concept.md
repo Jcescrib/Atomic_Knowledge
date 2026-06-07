@@ -23,14 +23,17 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
-  supports: [aku-tres-capas-liderazgo-concept]
+  supported_by:
+    - aku-no-obligar-sino-liderar-claim
+  supports:
+    - aku-tres-capas-liderazgo-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-tests-personalidad-concept]
+  related:
+    - aku-tests-personalidad-concept
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -45,3 +48,5 @@ status_note: ""
 
 **supports** → [[aku-tres-capas-liderazgo-concept]]
 **related** ↔ [[aku-tests-personalidad-concept]]
+
+**supported_by** ← [[aku-no-obligar-sino-liderar-claim]]

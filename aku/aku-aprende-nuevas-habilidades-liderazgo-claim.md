@@ -23,14 +23,17 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-lideres-nacen-y-se-hacen-claim
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-complementar-habilidades-equipo-claim, aku-autoconciencia-lider-carencias-claim]
+  related:
+    - aku-complementar-habilidades-equipo-claim
+    - aku-autoconciencia-lider-carencias-claim
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -44,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-complementar-habilidades-equipo-claim]] · [[aku-autoconciencia-lider-carencias-claim]]
+
+**supported_by** ← [[aku-lideres-nacen-y-se-hacen-claim]]

@@ -37,6 +37,7 @@ relations:
   related:
     - aku-dichotomy-of-leadership-concept
     - aku-when-to-mentor-when-to-fire-concept
+    - aku-liderazgo-situacional-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-dichotomy-of-leadership-concept]] · [[aku-when-to-mentor-when-to-fire-concept]]
+**related** ↔ [[aku-dichotomy-of-leadership-concept]] · [[aku-when-to-mentor-when-to-fire-concept]] · [[aku-liderazgo-situacional-concept]]

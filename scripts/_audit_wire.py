@@ -38,9 +38,16 @@ def wire(edges, dry=False):
         if not dry:
             print("Abortando por problemas."); sys.exit(2)
     if dry:
+        import importlib.util
+        spec=importlib.util.spec_from_file_location("aa",os.path.join(ROOT,"scripts","_audit_analyze.py"))
+        aa=importlib.util.module_from_spec(spec); spec.loader.exec_module(aa)
+        samecorp=0
         for i,(src,field,dst) in enumerate(edges):
-            print(f"  {i+1}. {src} --{field}--> {dst}")
-        print(f"Total: {len(edges)} aristas, {len(ops)} ficheros tocados.")
+            cs=aa.akus.get(src,{}).get("corpus","?"); cd=aa.akus.get(dst,{}).get("corpus","?")
+            flag=" <<< SAME-CORPUS" if cs==cd else ""
+            if cs==cd: samecorp+=1
+            print(f"  {i+1}. [{cs}->{cd}]{flag} {src} --{field}--> {dst}")
+        print(f"Total: {len(edges)} aristas, {len(ops)} ficheros tocados. Same-corpus: {samecorp}")
         return
     op_list = [{"id": k, "add_rel": v} for k, v in ops.items()]
     akupatch.apply(ROOT, op_list)

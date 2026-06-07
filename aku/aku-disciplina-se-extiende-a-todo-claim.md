@@ -29,6 +29,7 @@ relations:
   supports:
     - aku-disciplina-raiz-de-toda-buena-cualidad-concept
     - aku-discipline-equals-freedom-concept
+    - aku-autoevaluacion-cuerpo-mente-alma-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -53,6 +54,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-discipline-equals-freedom-concept]]
+**supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-discipline-equals-freedom-concept]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]]
 
 **related** ↔ [[aku-comida-basura-es-veneno-claim]] · [[aku-entrenamiento-fisico-cuerpo-y-mente-claim]] · [[aku-progresion-artes-marciales-concept]] · [[aku-the-code-concept]] · [[aku-pequenas-elecciones-diarias-construyen-todo-claim]]

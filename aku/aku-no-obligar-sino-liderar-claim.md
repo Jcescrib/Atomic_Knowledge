@@ -26,6 +26,7 @@ relations:
   supported_by: []
   supports:
     - aku-extreme-ownership-concept
+    - aku-liderazgo-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-extreme-ownership-concept]]
+**supports** → [[aku-extreme-ownership-concept]] · [[aku-liderazgo-concept]]

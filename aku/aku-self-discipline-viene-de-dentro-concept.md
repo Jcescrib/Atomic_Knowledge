@@ -27,6 +27,7 @@ relations:
   supported_by: []
   supports:
     - aku-discipline-equals-freedom-concept
+    - aku-autoliderazgo-prerequisito-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -50,6 +51,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-discipline-equals-freedom-concept]]
+**supports** → [[aku-discipline-equals-freedom-concept]] · [[aku-autoliderazgo-prerequisito-claim]]
 
 **related** ↔ [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-compromiso-externo-si-interno-no-concept]] · [[aku-eleccion-vence-naturaleza-y-crianza-claim]] · [[aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim]] · [[aku-imposed-vs-self-discipline-en-equipo-concept]]

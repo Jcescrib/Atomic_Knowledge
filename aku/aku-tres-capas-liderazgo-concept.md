@@ -24,14 +24,21 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-liderazgo-concept]
-  supports: [aku-autoevaluacion-cuerpo-mente-alma-concept, aku-liderar-vs-gestionar-concept, aku-liderazgo-situacional-concept]
-  constrained_by: [aku-autoliderazgo-prerequisito-claim]
+  supported_by:
+    - aku-liderazgo-concept
+    - aku-mind-control-controla-tu-propia-mente-concept
+  supports:
+    - aku-autoevaluacion-cuerpo-mente-alma-concept
+    - aku-liderar-vs-gestionar-concept
+    - aku-liderazgo-situacional-concept
+  constrained_by:
+    - aku-autoliderazgo-prerequisito-claim
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-autoconciencia-lider-carencias-claim]
+  related:
+    - aku-autoconciencia-lider-carencias-claim
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -44,7 +51,7 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-liderazgo-concept]]
+**supported_by** ← [[aku-liderazgo-concept]] · [[aku-mind-control-controla-tu-propia-mente-concept]]
 **supports** → [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-liderar-vs-gestionar-concept]] · [[aku-liderazgo-situacional-concept]]
 **constrained_by** ← [[aku-autoliderazgo-prerequisito-claim]]
 **related** ↔ [[aku-autoconciencia-lider-carencias-claim]]

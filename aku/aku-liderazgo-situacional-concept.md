@@ -25,14 +25,18 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-tres-capas-liderazgo-concept]
-  supports: [aku-estilos-autoritario-delegativo-concept]
+  supported_by:
+    - aku-tres-capas-liderazgo-concept
+  supports:
+    - aku-estilos-autoritario-delegativo-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-everyone-same-everyone-different-concept
+    - aku-liderazgo-indirecto-supera-al-directo-claim
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -47,3 +51,5 @@ status_note: ""
 
 **supported_by** ← [[aku-tres-capas-liderazgo-concept]]
 **supports** → [[aku-estilos-autoritario-delegativo-concept]]
+
+**related** ↔ [[aku-everyone-same-everyone-different-concept]] · [[aku-liderazgo-indirecto-supera-al-directo-claim]]

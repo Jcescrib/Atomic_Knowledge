@@ -26,7 +26,9 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-autoliderazgo-prerequisito-claim
+    - aku-tres-capas-liderazgo-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -51,3 +53,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-solo-te-puedes-controlar-a-ti-mismo-claim]] · [[aku-comida-basura-es-veneno-claim]] · [[aku-no-razonar-con-la-debilidad-solo-actuar-claim]] · [[aku-defensa-propia-jerarquia-mente-correr-arma-claim]] · [[aku-ayuno-beneficios-fisicos-y-psicologicos-method]]
+
+**supports** → [[aku-autoliderazgo-prerequisito-claim]] · [[aku-tres-capas-liderazgo-concept]]

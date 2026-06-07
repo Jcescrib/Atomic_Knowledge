@@ -27,14 +27,16 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-liderazgo-situacional-concept]
+  supported_by:
+    - aku-liderazgo-situacional-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-dar-ordenes-solo-commanders-intent-claim
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -48,3 +50,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-liderazgo-situacional-concept]]
+
+**related** ↔ [[aku-dar-ordenes-solo-commanders-intent-claim]]
