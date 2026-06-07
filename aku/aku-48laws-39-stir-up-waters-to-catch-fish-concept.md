@@ -35,6 +35,7 @@ relations:
     - aku-48laws-38-think-as-you-like-behave-like-others-concept
     - aku-48laws-40-despise-the-free-lunch-concept
     - aku-no-sobrerreaccionar-mantener-la-calma-claim
+    - aku-cuando-gritar-casi-nunca-y-calculado-claim
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-38-think-as-you-like-behave-like-others-concept]] · [[aku-48laws-40-despise-the-free-lunch-concept]] · [[aku-no-sobrerreaccionar-mantener-la-calma-claim]]
+**related** ↔ [[aku-48laws-38-think-as-you-like-behave-like-others-concept]] · [[aku-48laws-40-despise-the-free-lunch-concept]] · [[aku-no-sobrerreaccionar-mantener-la-calma-claim]] · [[aku-cuando-gritar-casi-nunca-y-calculado-claim]]

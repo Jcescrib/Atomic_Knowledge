@@ -24,13 +24,16 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-leyes-persuasion-cialdini-concept]
+  supports:
+    - aku-leyes-persuasion-cialdini-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-fidelizacion-vs-retencion-concept]
+  related:
+    - aku-fidelizacion-vs-retencion-concept
+    - aku-48laws-27-play-on-need-to-believe-concept
 
 sources:
   - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
@@ -44,4 +47,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-leyes-persuasion-cialdini-concept]]
-**related** ↔ [[aku-fidelizacion-vs-retencion-concept]]
+**related** ↔ [[aku-fidelizacion-vs-retencion-concept]] · [[aku-48laws-27-play-on-need-to-believe-concept]]

@@ -34,6 +34,7 @@ relations:
   related:
     - aku-48laws-26-keep-your-hands-clean-concept
     - aku-48laws-28-enter-action-with-boldness-concept
+    - aku-cialdini-pertenencia-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-26-keep-your-hands-clean-concept]] · [[aku-48laws-28-enter-action-with-boldness-concept]]
+**related** ↔ [[aku-48laws-26-keep-your-hands-clean-concept]] · [[aku-48laws-28-enter-action-with-boldness-concept]] · [[aku-cialdini-pertenencia-concept]]

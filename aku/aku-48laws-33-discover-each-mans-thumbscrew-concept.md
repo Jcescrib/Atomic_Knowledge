@@ -33,6 +33,7 @@ relations:
   related:
     - aku-48laws-32-play-to-peoples-fantasies-concept
     - aku-48laws-34-be-royal-in-your-own-fashion-concept
+    - aku-liderazgo-vs-manipulacion-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-32-play-to-peoples-fantasies-concept]] · [[aku-48laws-34-be-royal-in-your-own-fashion-concept]]
+**related** ↔ [[aku-48laws-32-play-to-peoples-fantasies-concept]] · [[aku-48laws-34-be-royal-in-your-own-fashion-concept]] · [[aku-liderazgo-vs-manipulacion-concept]]

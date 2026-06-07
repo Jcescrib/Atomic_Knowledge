@@ -34,6 +34,7 @@ relations:
   related:
     - aku-48laws-37-create-compelling-spectacles-concept
     - aku-48laws-39-stir-up-waters-to-catch-fish-concept
+    - aku-conform-to-influence-claim
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-37-create-compelling-spectacles-concept]] · [[aku-48laws-39-stir-up-waters-to-catch-fish-concept]]
+**related** ↔ [[aku-48laws-37-create-compelling-spectacles-concept]] · [[aku-48laws-39-stir-up-waters-to-catch-fish-concept]] · [[aku-conform-to-influence-claim]]

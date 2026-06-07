@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-senior-debe-explicar-el-porque-claim
+    - aku-reason-why-aumenta-accion-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-resolute-but-not-overbearing-concept]]
 
-**related** ↔ [[aku-senior-debe-explicar-el-porque-claim]]
+**related** ↔ [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-reason-why-aumenta-accion-claim]]

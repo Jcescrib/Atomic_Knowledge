@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-kuzushi-principle-concept
+    - aku-dolor-es-el-pitch-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-kuzushi-principle-concept]]
+**related** ↔ [[aku-kuzushi-principle-concept]] · [[aku-dolor-es-el-pitch-claim]]

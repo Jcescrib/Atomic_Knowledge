@@ -34,6 +34,7 @@ relations:
     - aku-48laws-22-use-the-surrender-tactic-concept
     - aku-48laws-24-play-the-perfect-courtier-concept
     - aku-solo-se-logra-maestria-en-una-o-dos-cosas-claim
+    - aku-leadership-capital-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-22-use-the-surrender-tactic-concept]] · [[aku-48laws-24-play-the-perfect-courtier-concept]] · [[aku-solo-se-logra-maestria-en-una-o-dos-cosas-claim]]
+**related** ↔ [[aku-48laws-22-use-the-surrender-tactic-concept]] · [[aku-48laws-24-play-the-perfect-courtier-concept]] · [[aku-solo-se-logra-maestria-en-una-o-dos-cosas-claim]] · [[aku-leadership-capital-concept]]

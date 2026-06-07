@@ -30,7 +30,8 @@ relations:
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
-  contradicts: []
+  contradicts:
+    - aku-lideres-dicen-la-verdad-claim
   related:
     - aku-48laws-11-keep-people-dependent-on-you-concept
     - aku-48laws-13-appeal-to-self-interest-concept
@@ -47,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-48laws-11-keep-people-dependent-on-you-concept]] · [[aku-48laws-13-appeal-to-self-interest-concept]]
+
+**contradicts** ↔ [[aku-lideres-dicen-la-verdad-claim]]

@@ -34,6 +34,7 @@ relations:
   related:
     - aku-marca-potente-beneficios-claim
     - aku-perceived-likelihood-achievement-concept
+    - aku-48laws-05-guard-your-reputation-concept
 
 sources:
   - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
@@ -47,4 +48,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-leyes-persuasion-cialdini-concept]]
-**related** ↔ [[aku-marca-potente-beneficios-claim]] · [[aku-perceived-likelihood-achievement-concept]]
+**related** ↔ [[aku-marca-potente-beneficios-claim]] · [[aku-perceived-likelihood-achievement-concept]] · [[aku-48laws-05-guard-your-reputation-concept]]

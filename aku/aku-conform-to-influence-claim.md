@@ -38,6 +38,7 @@ relations:
     - aku-power-of-relationships-liderazgo-concept
     - aku-ganar-respeto-e-influencia-dandolos-claim
     - aku-liderazgo-indirecto-supera-al-directo-claim
+    - aku-48laws-38-think-as-you-like-behave-like-others-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -50,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-play-the-long-game-concept]] · [[aku-power-of-relationships-liderazgo-concept]] · [[aku-ganar-respeto-e-influencia-dandolos-claim]] · [[aku-liderazgo-indirecto-supera-al-directo-claim]]
+**related** ↔ [[aku-play-the-long-game-concept]] · [[aku-power-of-relationships-liderazgo-concept]] · [[aku-ganar-respeto-e-influencia-dandolos-claim]] · [[aku-liderazgo-indirecto-supera-al-directo-claim]] · [[aku-48laws-38-think-as-you-like-behave-like-others-concept]]

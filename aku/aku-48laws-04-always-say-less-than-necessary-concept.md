@@ -34,6 +34,7 @@ relations:
   related:
     - aku-48laws-03-conceal-your-intentions-concept
     - aku-48laws-05-guard-your-reputation-concept
+    - aku-getting-people-to-listen-deja-que-hablen-claim
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-03-conceal-your-intentions-concept]] · [[aku-48laws-05-guard-your-reputation-concept]]
+**related** ↔ [[aku-48laws-03-conceal-your-intentions-concept]] · [[aku-48laws-05-guard-your-reputation-concept]] · [[aku-getting-people-to-listen-deja-que-hablen-claim]]

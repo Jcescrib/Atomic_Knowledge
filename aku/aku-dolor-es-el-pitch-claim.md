@@ -33,6 +33,7 @@ relations:
   related:
     - aku-conversacion-mente-cliente-concept
     - aku-cosas-importantes-concept
+    - aku-entender-primero-para-influir-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-conversacion-mente-cliente-concept]] · [[aku-cosas-importantes-concept]]
+**related** ↔ [[aku-conversacion-mente-cliente-concept]] · [[aku-cosas-importantes-concept]] · [[aku-entender-primero-para-influir-claim]]

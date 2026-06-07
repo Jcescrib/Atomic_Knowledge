@@ -30,7 +30,8 @@ relations:
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
-  contradicts: []
+  contradicts:
+    - aku-liderazgo-vs-manipulacion-concept
   related:
     - aku-48laws-42-strike-the-shepherd-concept
     - aku-48laws-44-mirror-effect-concept
@@ -48,3 +49,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-48laws-42-strike-the-shepherd-concept]] · [[aku-48laws-44-mirror-effect-concept]] · [[aku-power-of-relationships-liderazgo-concept]]
+
+**contradicts** ↔ [[aku-liderazgo-vs-manipulacion-concept]]

@@ -31,7 +31,8 @@ relations:
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
-  contradicts: []
+  contradicts:
+    - aku-48laws-12-selective-honesty-to-disarm-concept
   related:
     - aku-believe-in-the-mission-concept
     - aku-senior-debe-explicar-el-porque-claim
@@ -53,3 +54,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-believe-in-the-mission-concept]] · [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-humildad-asumir-errores-claim]] · [[aku-no-usar-sandwich-de-critica-claim]] · [[aku-confianza-arriba-no-decir-lo-que-quieren-oir-claim]] · [[aku-positivo-pero-realista-no-pollyanna-claim]] · [[aku-rumor-control-llenar-vacio-de-informacion-claim]]
+
+**contradicts** ↔ [[aku-48laws-12-selective-honesty-to-disarm-concept]]

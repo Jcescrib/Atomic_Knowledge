@@ -34,6 +34,7 @@ relations:
   related:
     - aku-48laws-12-selective-honesty-to-disarm-concept
     - aku-48laws-14-pose-as-friend-work-as-spy-concept
+    - aku-thread-of-why-conectar-al-individuo-claim
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-12-selective-honesty-to-disarm-concept]] · [[aku-48laws-14-pose-as-friend-work-as-spy-concept]]
+**related** ↔ [[aku-48laws-12-selective-honesty-to-disarm-concept]] · [[aku-48laws-14-pose-as-friend-work-as-spy-concept]] · [[aku-thread-of-why-conectar-al-individuo-claim]]

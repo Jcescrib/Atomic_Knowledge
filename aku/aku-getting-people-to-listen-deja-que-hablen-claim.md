@@ -34,6 +34,7 @@ relations:
   related:
     - aku-no-yes-men-fomentar-pushback-claim
     - aku-rendimiento-construye-confianza-del-jefe-claim
+    - aku-48laws-04-always-say-less-than-necessary-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-yes-men-fomentar-pushback-claim]] · [[aku-rendimiento-construye-confianza-del-jefe-claim]]
+**related** ↔ [[aku-no-yes-men-fomentar-pushback-claim]] · [[aku-rendimiento-construye-confianza-del-jefe-claim]] · [[aku-48laws-04-always-say-less-than-necessary-concept]]

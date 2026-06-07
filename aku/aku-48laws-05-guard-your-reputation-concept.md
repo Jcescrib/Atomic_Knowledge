@@ -35,6 +35,7 @@ relations:
     - aku-48laws-04-always-say-less-than-necessary-concept
     - aku-48laws-06-court-attention-at-all-cost-concept
     - aku-juicio-demostrado-con-credibilidad-atrae-leverage-infinito-claim
+    - aku-cialdini-autoridad-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-04-always-say-less-than-necessary-concept]] · [[aku-48laws-06-court-attention-at-all-cost-concept]] · [[aku-juicio-demostrado-con-credibilidad-atrae-leverage-infinito-claim]]
+**related** ↔ [[aku-48laws-04-always-say-less-than-necessary-concept]] · [[aku-48laws-06-court-attention-at-all-cost-concept]] · [[aku-juicio-demostrado-con-credibilidad-atrae-leverage-infinito-claim]] · [[aku-cialdini-autoridad-concept]]
