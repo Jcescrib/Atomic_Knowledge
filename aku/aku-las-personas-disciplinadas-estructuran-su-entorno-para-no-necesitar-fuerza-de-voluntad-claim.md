@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-no-cuentes-con-motivacion-cuenta-disciplina-claim
+    - aku-self-discipline-viene-de-dentro-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-cuentes-con-motivacion-cuenta-disciplina-claim]]
+**related** ↔ [[aku-no-cuentes-con-motivacion-cuenta-disciplina-claim]] · [[aku-self-discipline-viene-de-dentro-concept]]

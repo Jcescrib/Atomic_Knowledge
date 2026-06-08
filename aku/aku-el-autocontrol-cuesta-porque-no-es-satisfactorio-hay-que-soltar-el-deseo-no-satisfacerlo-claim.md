@@ -34,6 +34,7 @@ relations:
   related:
     - aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim
     - aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim
+    - aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim]] · [[aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim]]
+**related** ↔ [[aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim]] · [[aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim]] · [[aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim]]

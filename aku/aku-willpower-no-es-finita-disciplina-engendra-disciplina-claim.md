@@ -36,6 +36,7 @@ relations:
   related:
     - aku-self-discipline-viene-de-dentro-concept
     - aku-pequenas-elecciones-diarias-construyen-todo-claim
+    - aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]]
 
-**related** ↔ [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-pequenas-elecciones-diarias-construyen-todo-claim]]
+**related** ↔ [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-pequenas-elecciones-diarias-construyen-todo-claim]] · [[aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim]]

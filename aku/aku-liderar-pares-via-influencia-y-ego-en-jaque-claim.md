@@ -37,6 +37,7 @@ relations:
     - aku-play-the-long-game-concept
     - aku-subordinate-your-ego-desactiva-choque-method
     - aku-liderazgo-vs-manipulacion-concept
+    - aku-48laws-07-get-others-to-do-the-work-take-credit-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-play-the-long-game-concept]] · [[aku-subordinate-your-ego-desactiva-choque-method]] · [[aku-liderazgo-vs-manipulacion-concept]]
+**related** ↔ [[aku-play-the-long-game-concept]] · [[aku-subordinate-your-ego-desactiva-choque-method]] · [[aku-liderazgo-vs-manipulacion-concept]] · [[aku-48laws-07-get-others-to-do-the-work-take-credit-concept]]

@@ -39,6 +39,7 @@ relations:
     - aku-eleccion-vence-naturaleza-y-crianza-claim
     - aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim
     - aku-imposed-vs-self-discipline-en-equipo-concept
+    - aku-las-personas-disciplinadas-estructuran-su-entorno-para-no-necesitar-fuerza-de-voluntad-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -53,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-discipline-equals-freedom-concept]] · [[aku-autoliderazgo-prerequisito-claim]]
 
-**related** ↔ [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-compromiso-externo-si-interno-no-concept]] · [[aku-eleccion-vence-naturaleza-y-crianza-claim]] · [[aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim]] · [[aku-imposed-vs-self-discipline-en-equipo-concept]]
+**related** ↔ [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-compromiso-externo-si-interno-no-concept]] · [[aku-eleccion-vence-naturaleza-y-crianza-claim]] · [[aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim]] · [[aku-imposed-vs-self-discipline-en-equipo-concept]] · [[aku-las-personas-disciplinadas-estructuran-su-entorno-para-no-necesitar-fuerza-de-voluntad-claim]]

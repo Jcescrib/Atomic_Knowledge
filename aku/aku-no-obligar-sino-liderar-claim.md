@@ -32,7 +32,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-48laws-43-work-on-hearts-and-minds-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-extreme-ownership-concept]] · [[aku-liderazgo-concept]]
+
+**related** ↔ [[aku-48laws-43-work-on-hearts-and-minds-concept]]

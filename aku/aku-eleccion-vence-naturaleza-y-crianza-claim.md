@@ -36,6 +36,7 @@ relations:
     - aku-self-discipline-viene-de-dentro-concept
     - aku-me-versus-me-superarte-a-ti-mismo-claim
     - aku-lideres-nacen-y-se-hacen-claim
+    - aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-extreme-ownership-concept]] · [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-me-versus-me-superarte-a-ti-mismo-claim]] · [[aku-lideres-nacen-y-se-hacen-claim]]
+**related** ↔ [[aku-extreme-ownership-concept]] · [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-me-versus-me-superarte-a-ti-mismo-claim]] · [[aku-lideres-nacen-y-se-hacen-claim]] · [[aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim]]
