@@ -72,10 +72,16 @@ Estos son exactamente la señal cross-corpus más valiosa: misma técnica, étic
 
 Apartados por rigor: o son coincidencia empírica/genérica, o un `contradicts` no es negación estricta (es diferencia de marco), o el solapamiento es tangencial. **Decisión del humano.**
 
-### 4.1 Falso amigo (recomendación: SKIP)
-- `leverage-multiplicador-de-juicio` (Naval, palanca de productividad: capital/labor/código) ↔ `apalancamiento-financiero` (Power MBA, amplificación del ROE vía deuda). Misma palabra «apalancamiento», objeto distinto. Solo la sub-fuente «capital» de Naval solapa parcialmente.
+> **RESOLUCIÓN (2026-06-08, decisión del usuario aplicada):**
+> - **§4.1** → **SKIP** (no enlazar). Decisión firme «no enlazar».
+> - **§4.2** (6 pares propuestos como contradicts) → cableados como **`related`** (Batch 07, 7 aristas — el par §4.2.5 tiene 2 destinos).
+> - **§4.3** (17 entradas tangenciales) → cableadas como **`related`** (Batch 08, 19 aristas — §4.3.5 y §4.3.9 tienen 2 destinos cada una).
+> - Total resolución: **26 aristas nuevas** (`related`, bidireccionales, sync 3-capas). `verify_graph`: 0 errores. Ningún `contradicts` creado.
 
-### 4.2 `contradicts` propuestos pero NO negación estricta (¿related o contradicts?)
+### 4.1 Falso amigo (recomendación: SKIP) — **RESUELTO: SKIP (no enlazado)**
+- `leverage-multiplicador-de-juicio` (Naval, palanca de productividad: capital/labor/código) ↔ `apalancamiento-financiero` (Power MBA, amplificación del ROE vía deuda). Misma palabra «apalancamiento», objeto distinto. Solo la sub-fuente «capital» de Naval solapa parcialmente. → **Decisión: NO ENLAZAR.**
+
+### 4.2 `contradicts` propuestos pero NO negación estricta — **RESUELTO: cableados como `related`**
 - `willpower-no-es-finita-disciplina-engendra-disciplina` (Jocko) vs `el-autocontrol-cuesta-porque-no-es-satisfactorio` (Clear): Jocko dice que la disciplina se fortalece con el uso; Clear que la fuerza de voluntad es poco fiable a largo plazo. Debate clásico (¿finitud vs fiabilidad?), pero no son la negación literal el uno del otro.
 - `precio-alto-aumenta-valor-percibido` (Hormozi) vs `reducir-costes-no-precio` (Power MBA): subir precio vs no tocar precio y operar sobre costes no-monetarios. Compatibles, no estrictamente opuestos.
 - `48laws-43-work-on-hearts-and-minds` (Greene) vs `no-obligar-sino-liderar` (Jocko): ambos rechazan la coerción; la oposición es de intención (uso propio vs servicio), no de la proposición.
@@ -83,7 +89,7 @@ Apartados por rigor: o son coincidencia empírica/genérica, o un `contradicts` 
 - `las-personas-disciplinadas-estructuran-su-entorno` (Clear) vs `no-cuentes-con-motivacion-cuenta-disciplina` / `self-discipline-viene-de-dentro` (Jocko): disciplina por diseño-del-entorno vs disciplina como fuerza interna. Tensión interno/externo real; ¿related o contradicts matizado?
 - `elige-el-campo-de-competicion-genes` (Clear) vs `eleccion-vence-naturaleza-y-crianza` (Jocko): peso de la predisposición genética (Clear) vs primacía de la elección (Jocko).
 
-### 4.3 Solapamiento conceptual dudoso o tangencial (¿related o skip?)
+### 4.3 Solapamiento conceptual dudoso o tangencial — **RESUELTO: cableados como `related`**
 - `enfocar-una-iniciativa-a-la-vez` (Jocko, foco organizativo / Prioritize and Execute) ↔ `single-tasking-foco-una-tarea` (Power MBA, foco cognitivo individual).
 - `liderazgo-factor-mas-importante` (Jocko, postula importancia) ↔ `liderazgo` (Power MBA, define el objeto).
 - `medida-significativa-liderazgo` (Jocko) ↔ `liderar-vs-gestionar` (Power MBA).
@@ -108,4 +114,13 @@ Apartados por rigor: o son coincidencia empírica/genérica, o un `contradicts` 
 
 Esta pasada es precisamente el **«INTEGRATE retroactivo cross-corpus»** que `_meta/auditoria-claude-md.md` (Tarea A, GAP 1) identifica como ausente en el manual: agrupar por tema, comparar definiciones reales corpus-vs-corpus, aplicar puentes por lotes con autorización agregada, y registrar lo evaluado. El tooling (`_audit_analyze.py`, `_audit_wire.py`) y estos lotes quedan como plantilla reutilizable para futuras reingestas de libros nuevos.
 
-**Pendiente recomendado:** que el humano revise la lista §4 y decida los `contradicts`/`related` dudosos; y, si procede, normalizar el vocabulario bilingüe de `domain` (`liderazgo`/`leadership`, `estrategia`/`strategy`).
+**Pendiente recomendado:** ~~que el humano revise la lista §4~~ → **HECHO (2026-06-08)**: el usuario resolvió toda la §4 (4.1 skip; 4.2 y 4.3 como `related`, +26 aristas). Queda como único pendiente, si procede, normalizar el vocabulario bilingüe de `domain` (`liderazgo`/`leadership`, `estrategia`/`strategy`).
+
+---
+
+## 6. Estado final tras resolución §4 (2026-06-08)
+
+- Aristas de la resolución §4: **+26** (`related`): §4.2 → 7 (Batch 07), §4.3 → 19 (Batch 08); §4.1 → 0 (skip).
+- Total acumulado de la auditoría: **95 (pasada inicial) + 26 (resolución §4) = 121 aristas nuevas**.
+- Grafo: **1840 AKUs · 1 componente conectado · 0 huérfanos · 0 errores** `verify_graph`.
+- TAKUs: 137/137 `draft`.
