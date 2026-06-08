@@ -958,3 +958,10 @@ Pipeline corpus nuevo «Hustle Harder, Hustle Smarter» (Curtis «50 Cent» Jack
 - Introduction: **+6 AKUs** (2 concept, 4 claim): identidad-dual-calle-corporativa, calle-y-negocios-comparten-principios, sostener-el-exito-es-la-habilidad-decisiva, interiorizar-un-principio-requiere-multiples-ejemplos, un-principio-aplicado-con-constancia-genera-valor-desproporcionado, lectura-como-herramienta-de-mejora-personal.
 - Puente nivel (a) anclado-en-texto: 50 Cent cita literalmente «48 Laws of Power» / «never outshine the master» → related ↔ `aku-48laws-01-never-outshine-the-master-concept` (bidireccional). Los 9 principios núcleo se crearán como concept-AKU en su capítulo respectivo.
 - verify_graph: 1846/1846 simétrico, 0 errores.
+
+## 2026-06-08 — ingest
+Hustle Harder, Hustle Smarter — Cap. 1 «Finding Fearlessness».
+- **+14 AKUs** (1 concept núcleo `aku-fearlessness-no-es-ausencia-de-miedo-concept` + 12 claim + 1 method `para-superar-un-miedo-reconocelo-y-planifica`). Sub-claims `supports`→concept núcleo (comodidad-mata-ambicion, fearlessness-es-un-musculo, sobrevives-los-golpes, sacudete-y-sigue, miedo-que-interrumpe-rutina).
+- **Dedup-merge cross-corpus**: «correr hacia el miedo» (50 Cent) = `aku-paso-agresivo-hacia-el-miedo-claim` (Jocko) → +fuente 50-cent, llm_confidence 0.50→0.60, related↔concept fearlessness.
+- Puentes nivel (b) propuestos para Joan (NO cableados): `un-poco-de-miedo-y-paranoia-es-util`↔`miedo-al-fracaso-es-bueno` (Jocko); `al-otro-lado-del-miedo-esta-la-libertad`↔`la-libertad-es-el-valor-supremo` (Jocko).
+- verify_graph: 1860/1860 simétrico, 0 errores (tras corregir 5 asimetrías de inversos `related`).

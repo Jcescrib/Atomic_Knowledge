@@ -11,7 +11,7 @@ statement: >
 origin: "Jocko Willink, Discipline Equals Freedom: Field Manual (2017)"
 domain: [liderazgo, jocko, disciplina, miedo, accion]
 
-llm_confidence: 0.50
+llm_confidence: 0.60
 
 human_certainty:
   status: unvalidated
@@ -35,16 +35,18 @@ relations:
     - aku-default-agresivo-proactivo-dictar-situacion-claim
     - aku-hesitacion-es-el-enemigo-claim
     - aku-empezar-aqui-y-ahora-method
+    - aku-fearlessness-no-es-ausencia-de-miedo-concept
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
+  - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
 
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-08
 status: active
 status_note: ""
 ---
 
 ## Relaciones
 
-**related** ↔ [[aku-default-agresivo-proactivo-dictar-situacion-claim]] · [[aku-hesitacion-es-el-enemigo-claim]] · [[aku-empezar-aqui-y-ahora-method]]
+**related** ↔ [[aku-default-agresivo-proactivo-dictar-situacion-claim]] · [[aku-hesitacion-es-el-enemigo-claim]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-fearlessness-no-es-ausencia-de-miedo-concept]]
