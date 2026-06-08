@@ -974,3 +974,9 @@ Hustle Harder, Hustle Smarter — Cap. 2 «Heart of a Hustler».
 - «Endless tunnel / no happily-ever-after» = misma idea que `sostener-el-exito-es-la-habilidad-decisiva` (misma fuente) → sin AKU nuevo.
 - Puentes (b) propuestos para Joan: cambiar-habito-30-dias↔Atomic Habits (never-miss-twice/identidad); dormir↔salud-prioridad-1 (Naval); estilo-vida-limpio↔health (Naval); trabajo-duro↔enamorate-del-aburrimiento (Atomic); vision-boards↔compartir-objetivos-compromiso. TAKU candidato: tool «vision board» (no creado).
 - verify_graph: 1881/1881 simétrico, 0 errores.
+
+## 2026-06-08 — ingest
+Hustle Harder, Hustle Smarter — Cap. 3 «Constructing Your Crew».
+- **+21 AKUs** (3 concept: `ser-juez-astuto-de-caracter` [núcleo], `homeboy-complex`, `mentalidad-crab-in-the-barrel`; 18 claim). Clusters: juicio-de-carácter (error-rol-crítico/matrimonio/traición), balance-crew (lealtad≠procedencia/veteranos-vs-sangre-nueva/2-min-en-la-calle/renovar-crew-Jay-Z), homeboy→cortar-cordón→anclaje-numérico, crab-in-the-barrel→alejarse-del-entorno, disciplina (tolerancia-cero/aplicar-consecuencias/casa-en-orden/alimentar-lobos), liderazgo (adaptar-táctica/articular-oportunidad/exceso-confianza), reconstruir-confianza.
+- Puentes (b) propuestos para Joan: juez-de-carácter↔judgment (Naval/Hormozi)/no-bad-teams (Jocko)/48laws-02-never-trust-friends; disciplina-equipo↔Jocko (extreme-ownership/standards); adaptar-táctica↔dichotomy-of-leadership (Jocko); anclaje-numérico↔negociación (Power MBA); exceso-confianza↔confianza-sin-miedo-viene-de-preparacion (Ch1, boundary).
+- verify_graph: 1902/1902 simétrico, 0 errores (sin asimetrías).

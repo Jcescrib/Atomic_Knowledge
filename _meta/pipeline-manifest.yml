@@ -1739,10 +1739,10 @@ sources:
     converted: 2026-06-08
     image_processing: 2026-06-08   # n/a: solo 3 imgs decorativas (cover, titlepage, bookperk promo)
     ingested: null
-    chapters_ingested: [introduction, cap-01-finding-fearlessness, cap-02-heart-of-a-hustler]
-    aku_count: 41
+    chapters_ingested: [introduction, cap-01-finding-fearlessness, cap-02-heart-of-a-hustler, cap-03-constructing-your-crew]
+    aku_count: 62
     taku_count: 0
-    last_commit: "526f665"
+    last_commit: "b2d9f21"
     notes: >
       TAREA nueva — corpus libro «Hustle Harder, Hustle Smarter» (Curtis "50 Cent" Jackson, 2020,
       HarperCollins). source-tag: 50-cent. EPUB -> epub_to_md (28 secciones). Book-mode: Introduction
