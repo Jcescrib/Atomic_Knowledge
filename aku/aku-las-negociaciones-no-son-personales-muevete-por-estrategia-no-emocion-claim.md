@@ -1,14 +1,15 @@
 ---
 type: aku
 aku_class: claim
-id: aku-apuesta-solo-a-cosas-seguras-la-unica-100-segura-eres-tu-mismo-claim
+id: aku-las-negociaciones-no-son-personales-muevete-por-estrategia-no-emocion-claim
 statement: >
-  Conviene apostar solo a cosas seguras, y la única cosa 100 % segura en la que puedes
-  confiar siempre eres tú mismo: apostar a lo que no puedes investigar genera ansiedad y
-  depende del azar (como el gambling adrenalínico de Mayweather). 50 Cent renunció al juego
-  porque prefiere poner su dinero detrás de su propio trabajo y criterio.
+  Las negociaciones no son personales: el otro nunca empieza en el número que tú crees
+  justo —arranca más bajo y sube según cuánto le empujes—, así que ofenderse por tener que
+  pelear es moverse por emoción y deja hustlando hacia atrás. Hay que mantener la calma
+  interna aunque proyectes enfado; en el boardroom las palabras duras no pesan como en la
+  calle, son parte del proceso.
 origin: "Curtis «50 Cent» Jackson — Hustle Harder, Hustle Smarter (2020)"
-domain: [50-cent, mindset, self-reliance, risk]
+domain: [50-cent, value, negotiation, emotional-control]
 
 llm_confidence: 0.50
 
@@ -30,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-el-hustler-es-agresivo-pero-no-temerario-investiga-antes-de-apostar-claim, aku-pedir-equity-es-apostar-por-ti-mismo-claim]
+  related: [aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim]
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -43,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-hustler-es-agresivo-pero-no-temerario-investiga-antes-de-apostar-claim]] · [[aku-pedir-equity-es-apostar-por-ti-mismo-claim]]
+**related** ↔ [[aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim]]

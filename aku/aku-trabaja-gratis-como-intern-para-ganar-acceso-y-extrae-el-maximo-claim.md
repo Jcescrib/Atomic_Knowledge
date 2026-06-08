@@ -1,14 +1,15 @@
 ---
 type: aku
 aku_class: claim
-id: aku-apuesta-solo-a-cosas-seguras-la-unica-100-segura-eres-tu-mismo-claim
+id: aku-trabaja-gratis-como-intern-para-ganar-acceso-y-extrae-el-maximo-claim
 statement: >
-  Conviene apostar solo a cosas seguras, y la única cosa 100 % segura en la que puedes
-  confiar siempre eres tú mismo: apostar a lo que no puedes investigar genera ansiedad y
-  depende del azar (como el gambling adrenalínico de Mayweather). 50 Cent renunció al juego
-  porque prefiere poner su dinero detrás de su propio trabajo y criterio.
+  Si no tienes ventajas para entrar en un mundo, trabajar gratis como intern es una vía de
+  acceso: una pasantía es una puerta abierta y depende de ti recorrer cada habitación de la
+  casa. 50 Cent se autoinventó un internship en Columbia para entender cada departamento y
+  descubrió qué NO haría por él la discográfica, lo que le salvó la carrera. En un sector que
+  te apasiona, no es explotación.
 origin: "Curtis «50 Cent» Jackson — Hustle Harder, Hustle Smarter (2020)"
-domain: [50-cent, mindset, self-reliance, risk]
+domain: [50-cent, value, access, learning]
 
 llm_confidence: 0.50
 
@@ -30,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-el-hustler-es-agresivo-pero-no-temerario-investiga-antes-de-apostar-claim, aku-pedir-equity-es-apostar-por-ti-mismo-claim]
+  related: [aku-ofrece-valor-en-vez-de-pedir-un-puesto-claim]
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -43,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-hustler-es-agresivo-pero-no-temerario-investiga-antes-de-apostar-claim]] · [[aku-pedir-equity-es-apostar-por-ti-mismo-claim]]
+**related** ↔ [[aku-ofrece-valor-en-vez-de-pedir-un-puesto-claim]]

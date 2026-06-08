@@ -1,14 +1,15 @@
 ---
 type: aku
 aku_class: claim
-id: aku-apuesta-solo-a-cosas-seguras-la-unica-100-segura-eres-tu-mismo-claim
+id: aku-conecta-directamente-con-la-gente-no-a-traves-de-intermediarios-claim
 statement: >
-  Conviene apostar solo a cosas seguras, y la única cosa 100 % segura en la que puedes
-  confiar siempre eres tú mismo: apostar a lo que no puedes investigar genera ansiedad y
-  depende del azar (como el gambling adrenalínico de Mayweather). 50 Cent renunció al juego
-  porque prefiere poner su dinero detrás de su propio trabajo y criterio.
+  Conectar directamente con la gente vende más que cualquier intermediario o departamento
+  de marketing: 50 Cent hizo meet-and-greets de Effen Vodka en ciudades pequeñas (donde su
+  presencia era un evento) y reposteaba a fans con la botella, creando un movimiento sin
+  gastar un dólar en marketing. La gente se mueve por interacción directa, no por lo que le
+  diga un traje.
 origin: "Curtis «50 Cent» Jackson — Hustle Harder, Hustle Smarter (2020)"
-domain: [50-cent, mindset, self-reliance, risk]
+domain: [50-cent, value, marketing, direct-connection]
 
 llm_confidence: 0.50
 
@@ -30,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-el-hustler-es-agresivo-pero-no-temerario-investiga-antes-de-apostar-claim, aku-pedir-equity-es-apostar-por-ti-mismo-claim]
+  related: [aku-just-do-shit-no-esperes-permiso-de-los-gatekeepers-concept]
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -43,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-hustler-es-agresivo-pero-no-temerario-investiga-antes-de-apostar-claim]] · [[aku-pedir-equity-es-apostar-por-ti-mismo-claim]]
+**related** ↔ [[aku-just-do-shit-no-esperes-permiso-de-los-gatekeepers-concept]]

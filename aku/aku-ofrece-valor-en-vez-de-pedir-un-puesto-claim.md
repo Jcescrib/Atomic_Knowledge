@@ -1,14 +1,15 @@
 ---
 type: aku
 aku_class: claim
-id: aku-apuesta-solo-a-cosas-seguras-la-unica-100-segura-eres-tu-mismo-claim
+id: aku-ofrece-valor-en-vez-de-pedir-un-puesto-claim
 statement: >
-  Conviene apostar solo a cosas seguras, y la única cosa 100 % segura en la que puedes
-  confiar siempre eres tú mismo: apostar a lo que no puedes investigar genera ansiedad y
-  depende del azar (como el gambling adrenalínico de Mayweather). 50 Cent renunció al juego
-  porque prefiere poner su dinero detrás de su propio trabajo y criterio.
+  Para entrar en una organización, ofrece valor en vez de pedir un puesto: Corentin no
+  volvió a llamar a G-Unit pidiendo trabajo, sino estudiando la organización y proponiendo
+  una mejora concreta (migrar la web a HTML). Si demuestras de forma convincente que puedes
+  aportar valor, te harán un hueco; una vez dentro, construyes tu propio valor. La
+  persistencia (cold-call, presentarse en persona) convierte un nombre en una historia.
 origin: "Curtis «50 Cent» Jackson — Hustle Harder, Hustle Smarter (2020)"
-domain: [50-cent, mindset, self-reliance, risk]
+domain: [50-cent, value, initiative, networking]
 
 llm_confidence: 0.50
 
@@ -30,7 +31,7 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-el-hustler-es-agresivo-pero-no-temerario-investiga-antes-de-apostar-claim, aku-pedir-equity-es-apostar-por-ti-mismo-claim]
+  related: [aku-trabaja-gratis-como-intern-para-ganar-acceso-y-extrae-el-maximo-claim]
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -43,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-hustler-es-agresivo-pero-no-temerario-investiga-antes-de-apostar-claim]] · [[aku-pedir-equity-es-apostar-por-ti-mismo-claim]]
+**related** ↔ [[aku-trabaja-gratis-como-intern-para-ganar-acceso-y-extrae-el-maximo-claim]]
