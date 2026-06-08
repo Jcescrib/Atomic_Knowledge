@@ -1000,3 +1000,9 @@ Hustle Harder, Hustle Smarter — Cap. 6 «Power of Perception».
 - Cross-chapter (a): `percepción-separable-de-la-realidad` ↔ `identidad-dual-calle-corporativa` (intro).
 - Puentes (b) propuestos (fuerte solape 48laws/Cialdini): act-like-you-dont-need-it & crear-exclusividad ↔ cialdini-escasez/Hormozi-escasez/48laws (court-attention); bienes-como-señales ↔ identidad-de-marca/branding; subvertir-expectativas ↔ 48laws; toque-antebrazo ↔ cialdini-simpatia. Coautoría «The 50th Law» con Greene: cluster 6 muy afín a 48-laws.
 - verify_graph: 1954/1954 simétrico, 0 errores.
+
+## 2026-06-08 — ingest
+Hustle Harder, Hustle Smarter — Cap. 7 «If We Can't Be Friends».
+- **+15 AKUs** (1 concept núcleo `la-competencia-como-estrategia-if-we-cant-be-friends`; 2 method: `cataloga-momentos-de-referencia`, `lleva-un-book-scouting-report`; 12 claim). Temas: odio>neutralidad-genera-atención, iron-sharpens-iron (Ferrari/Lambo), apreciar-grandeza-ajena, comparar-con-los-mejores, competir-contigo-mismo, enfrentar-de-frente (Bearsville), responder-a-un-competidor (How to Rob), fabricar-competencia (Curtis vs Graduation), dictar-oponente (Power vs GOT), evita-competencia-amañada/no-encasillar, no-mantener-a-flote-parásitos, ser-firme-deterrente (Teairra).
+- Puentes (b) propuestos: competencia/correr-hacia-la-pelea ↔ 48laws (aplastar-enemigo/court-attention); keep-a-book ↔ cinco-fuerzas-Porter/análisis-competitivo (Power MBA), conoce-a-tu-enemigo (Jocko); iron-sharpens-iron ↔ Naval; enfrentar-de-frente-out-trabajar ↔ `el-diferenciador-decisivo-es-out-trabajar-a-todos` (Ch2); remover-emoción ↔ `negociaciones-no-son-personales` (Ch4).
+- verify_graph: 1969/1969 simétrico, 0 errores.
