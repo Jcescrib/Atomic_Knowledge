@@ -96,6 +96,7 @@ cmd_discover() {
 # Nick Kolenda books → raw/libros/kolenda ; Hormozi → raw/libros/hormozi ;
 # Jocko Willink → raw/libros/jocko ; Naval Ravikant → raw/libros/naval ;
 # James Clear → raw/libros/james-clear ; Robert Greene → raw/libros/robert-greene ;
+# Curtis "50 Cent" Jackson → raw/libros/50-cent ;
 # Power MBA modules → raw/cursos/power-mba ; anything else → raw (root, generic fallback).
 raw_subdir_for() {
   local src="$1"
@@ -106,6 +107,7 @@ raw_subdir_for() {
     *NAVAL*|*Naval*|*naval*|*Ravikant*|*ravikant*) echo "raw/libros/naval" ;;
     *"JAMES CLEAR"*|*"James Clear"*|*"Atomic Habits"*|*"Atomic+Habits"*) echo "raw/libros/james-clear" ;;
     *"Robert Greene"*|*"Robert+Greene"*|*Greene*) echo "raw/libros/robert-greene" ;;
+    *"50 Cent"*|*"50 cent"*|*"50+Cent"*|*Jackson*|*"Hustle Harder"*|*"Hustle+Harder"*) echo "raw/libros/50-cent" ;;
     *"Apuntes Power MBA"*|*"Power MBA"*) echo "raw/cursos/power-mba" ;;
     *) echo "raw" ;;
   esac

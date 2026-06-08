@@ -1731,3 +1731,23 @@ sources:
       (Jocko), L43↔power-of-relationships (Jocko, tension coercion-vs-seduccion), L46↔celos-inutiles
       (Naval), L47↔ego-mas-dificil-es-el-propio (Jocko), L48↔no-soluciones-permanentes). El cluster
       48-laws contrasta deliberadamente con los corpus de integridad (Jocko) y suma-positiva (Naval).
+
+  - original: "G:\Mi unidad\50 cent\Hustle Harder, Hustle Smarter -- Curtis _50 Cent_ Jackson -- 2020 -- HarperCollins -- 30ae304e30116010500aa632cb97e9da -- Anna’s Archive.epub"
+    name_slug: "hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive"
+    raw_path: "raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/"
+    converter: epub
+    converted: 2026-06-08
+    image_processing: 2026-06-08   # n/a: solo 3 imgs decorativas (cover, titlepage, bookperk promo)
+    ingested: null
+    chapters_ingested: []
+    aku_count: 0
+    taku_count: 0
+    last_commit: ""
+    notes: >
+      TAREA nueva — corpus libro «Hustle Harder, Hustle Smarter» (Curtis "50 Cent" Jackson, 2020,
+      HarperCollins). source-tag: 50-cent. EPUB -> epub_to_md (28 secciones). Book-mode: Introduction
+      + 9 capitulos (1 Finding Fearlessness, 2 Heart of a Hustler, 3 Constructing Your Crew, 4 Knowing
+      Your Value, 5 Evolve or Die, 6 Power of Perception, 7 If We Can't Be Friends, 8 Learning from
+      Your Ls, 9 The Entitlement Trap) + seccion REMEMBER (resumenes, no se ingesta como AKUs nuevos).
+      Memoir de negocio/auto-ayuda; AKUs mayoria claim normativo + concept por principio. Coautor de
+      «The 50th Law» con Robert Greene -> puentes cross-corpus esperados a 48-laws, Naval, Jocko, Hormozi.

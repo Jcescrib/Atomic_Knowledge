@@ -36,16 +36,17 @@ relations:
   related:
     - aku-48laws-02-never-trust-friends-use-enemies-concept
     - aku-humildad-es-la-cualidad-mas-importante-claim
+    - aku-un-principio-aplicado-con-constancia-genera-valor-desproporcionado-claim
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
 
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-08
 status: active
 status_note: ""
 ---
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-02-never-trust-friends-use-enemies-concept]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]]
+**related** ↔ [[aku-48laws-02-never-trust-friends-use-enemies-concept]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-un-principio-aplicado-con-constancia-genera-valor-desproporcionado-claim]]

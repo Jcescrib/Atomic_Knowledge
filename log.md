@@ -951,3 +951,10 @@ Trabajo autónomo. Tareas A (revisión CLAUDE.md), B (verificar TAKUs draft), C 
 - Sub-conectados (degree 1-2) 1126 → 1080. Hubs con muchos `related` (core-four, money-model…) son pre-existentes; no se introdujo link-inflation.
 - **Pares dudosos apartados para revisión humana** (no cableados): ver §4 de `_meta/auditoria-grafo-2026-06-07.md` (falso amigo leverage↔apalancamiento-financiero; varios `contradicts` que no son negación estricta; solapamientos tangenciales).
 - Tooling reutilizable: `scripts/_audit_analyze.py`, `_audit_wire.py`, `_batch00..06_*.py`. Commit+push por lote (resumible).
+
+## 2026-06-08 — ingest
+Pipeline corpus nuevo «Hustle Harder, Hustle Smarter» (Curtis «50 Cent» Jackson, 2020) — Introduction.
+- Corpus nuevo: source-tag `50-cent`, routing `raw/libros/50-cent/` añadido a `pipeline.sh` + tabla CLAUDE.md. EPUB→epub_to_md (28 secciones, 3 imgs decorativas → 0 blockquotes).
+- Introduction: **+6 AKUs** (2 concept, 4 claim): identidad-dual-calle-corporativa, calle-y-negocios-comparten-principios, sostener-el-exito-es-la-habilidad-decisiva, interiorizar-un-principio-requiere-multiples-ejemplos, un-principio-aplicado-con-constancia-genera-valor-desproporcionado, lectura-como-herramienta-de-mejora-personal.
+- Puente nivel (a) anclado-en-texto: 50 Cent cita literalmente «48 Laws of Power» / «never outshine the master» → related ↔ `aku-48laws-01-never-outshine-the-master-concept` (bidireccional). Los 9 principios núcleo se crearán como concept-AKU en su capítulo respectivo.
+- verify_graph: 1846/1846 simétrico, 0 errores.

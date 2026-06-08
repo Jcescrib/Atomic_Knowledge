@@ -20,9 +20,16 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "[\"domain\": power-mba",
+      "color": {
+        "a": 1,
+        "rgb": 2479171
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.11660891579457293,
+  "scale": 0.04231590268975889,
   "close": true
 }
