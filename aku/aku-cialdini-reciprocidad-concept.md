@@ -36,6 +36,7 @@ relations:
     - aku-bonuses-stack-concept
     - aku-pedir-de-nuevo-con-bono-reciprocidad-claim
     - aku-aportar-valor-es-clave-del-contenido-claim
+    - aku-48laws-13-appeal-to-self-interest-concept
 
 sources:
   - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
@@ -49,4 +50,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-leyes-persuasion-cialdini-concept]]
-**related** ↔ [[aku-lead-magnet-concept]] · [[aku-bonuses-stack-concept]] · [[aku-pedir-de-nuevo-con-bono-reciprocidad-claim]] · [[aku-aportar-valor-es-clave-del-contenido-claim]]
+**related** ↔ [[aku-lead-magnet-concept]] · [[aku-bonuses-stack-concept]] · [[aku-pedir-de-nuevo-con-bono-reciprocidad-claim]] · [[aku-aportar-valor-es-clave-del-contenido-claim]] · [[aku-48laws-13-appeal-to-self-interest-concept]]

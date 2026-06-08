@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-teoria-de-los-cinco-chimpances-concept
+    - aku-toda-actividad-de-pantalla-resta-felicidad-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-teoria-de-los-cinco-chimpances-concept]]
+**related** ↔ [[aku-teoria-de-los-cinco-chimpances-concept]] · [[aku-toda-actividad-de-pantalla-resta-felicidad-claim]]

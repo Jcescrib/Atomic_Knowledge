@@ -39,6 +39,7 @@ relations:
     - aku-cohort-based-rolling-urgency-concept
     - aku-rolling-seasonal-urgency-concept
     - aku-pricing-bonus-based-urgency-concept
+    - aku-palabras-frases-persuasivas-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-tipos-y-tacticas-escasez-concept]] · [[aku-cialdini-escasez-concept]] · [[aku-deadlines-drive-decisions-claim]] · [[aku-exploding-opportunity-concept]] · [[aku-cohort-based-rolling-urgency-concept]] · [[aku-rolling-seasonal-urgency-concept]] · [[aku-pricing-bonus-based-urgency-concept]]
+**related** ↔ [[aku-tipos-y-tacticas-escasez-concept]] · [[aku-cialdini-escasez-concept]] · [[aku-deadlines-drive-decisions-claim]] · [[aku-exploding-opportunity-concept]] · [[aku-cohort-based-rolling-urgency-concept]] · [[aku-rolling-seasonal-urgency-concept]] · [[aku-pricing-bonus-based-urgency-concept]] · [[aku-palabras-frases-persuasivas-concept]]

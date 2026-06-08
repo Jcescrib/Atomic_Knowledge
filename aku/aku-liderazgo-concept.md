@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-tests-personalidad-concept
+    - aku-liderazgo-factor-mas-importante-claim
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -47,6 +48,6 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-tres-capas-liderazgo-concept]]
-**related** ↔ [[aku-tests-personalidad-concept]]
+**related** ↔ [[aku-tests-personalidad-concept]] · [[aku-liderazgo-factor-mas-importante-claim]]
 
 **supported_by** ← [[aku-no-obligar-sino-liderar-claim]]

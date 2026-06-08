@@ -34,6 +34,7 @@ relations:
     - aku-medida-significativa-liderazgo-claim
     - aku-liderazgo-en-todos-los-niveles-claim
     - aku-no-bad-teams-only-bad-leaders-concept
+    - aku-liderazgo-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-medida-significativa-liderazgo-claim]] · [[aku-liderazgo-en-todos-los-niveles-claim]] · [[aku-no-bad-teams-only-bad-leaders-concept]]
+**related** ↔ [[aku-medida-significativa-liderazgo-claim]] · [[aku-liderazgo-en-todos-los-niveles-claim]] · [[aku-no-bad-teams-only-bad-leaders-concept]] · [[aku-liderazgo-concept]]

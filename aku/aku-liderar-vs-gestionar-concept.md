@@ -25,14 +25,18 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-tres-capas-liderazgo-concept]
+  supported_by:
+    - aku-tres-capas-liderazgo-concept
   supports: []
-  constrained_by: [aku-mix-liderazgo-gestion-segun-trabajo-claim]
+  constrained_by:
+    - aku-mix-liderazgo-gestion-segun-trabajo-claim
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-complementar-habilidades-equipo-claim]
+  related:
+    - aku-complementar-habilidades-equipo-claim
+    - aku-medida-significativa-liderazgo-claim
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -47,4 +51,4 @@ status_note: ""
 
 **supported_by** ← [[aku-tres-capas-liderazgo-concept]]
 **constrained_by** ← [[aku-mix-liderazgo-gestion-segun-trabajo-claim]]
-**related** ↔ [[aku-complementar-habilidades-equipo-claim]]
+**related** ↔ [[aku-complementar-habilidades-equipo-claim]] · [[aku-medida-significativa-liderazgo-claim]]

@@ -39,6 +39,7 @@ relations:
     - aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim
     - aku-comida-basura-es-veneno-claim
     - aku-la-adaptacion-hedonica-es-mas-fuerte-en-lo-artificial-que-en-lo-natural-claim
+    - aku-azucar-es-adictivo-como-droga-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept]] · [[aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim]] · [[aku-comida-basura-es-veneno-claim]] · [[aku-la-adaptacion-hedonica-es-mas-fuerte-en-lo-artificial-que-en-lo-natural-claim]]
+**related** ↔ [[aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept]] · [[aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim]] · [[aku-comida-basura-es-veneno-claim]] · [[aku-la-adaptacion-hedonica-es-mas-fuerte-en-lo-artificial-que-en-lo-natural-claim]] · [[aku-azucar-es-adictivo-como-droga-claim]]

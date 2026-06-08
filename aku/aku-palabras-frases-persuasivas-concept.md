@@ -39,6 +39,8 @@ relations:
     - aku-hacks-copywriting-concept
     - aku-cta-concept
     - aku-leyes-persuasion-cialdini-concept
+    - aku-reversion-riesgo-numero-uno-claim
+    - aku-urgencia-concept
 
 sources:
   - raw/cursos/power-mba/20-1-palabras-y-frases-que-te-ayudar-an-a-vender-m-as/20-1-palabras-y-frases-que-te-ayudar-an-a-vender-m-as.md
@@ -51,6 +53,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-hacks-copywriting-concept]] · [[aku-cta-concept]] · [[aku-leyes-persuasion-cialdini-concept]]
+**related** ↔ [[aku-hacks-copywriting-concept]] · [[aku-cta-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-reversion-riesgo-numero-uno-claim]] · [[aku-urgencia-concept]]
 
 **supported_by** ← [[aku-reason-why-aumenta-accion-claim]]

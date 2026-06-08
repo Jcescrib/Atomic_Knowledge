@@ -27,13 +27,21 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-circulo-dorado-concept, aku-plan-de-marca-concept, aku-cascada-estrategica-ejecucion-concept]
+  supports:
+    - aku-circulo-dorado-concept
+    - aku-plan-de-marca-concept
+    - aku-cascada-estrategica-ejecucion-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-valores-marca-concept, aku-marca-concept, aku-vision-empresa-concept, aku-ikigai-concept]
+  related:
+    - aku-valores-marca-concept
+    - aku-marca-concept
+    - aku-vision-empresa-concept
+    - aku-ikigai-concept
+    - aku-mejores-lideres-mision-no-ego-claim
 
 sources:
   - raw/cursos/power-mba/4-4-branding/4-4-branding.md
@@ -48,4 +56,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-circulo-dorado-concept]] · [[aku-plan-de-marca-concept]] · [[aku-cascada-estrategica-ejecucion-concept]]
-**related** ↔ [[aku-valores-marca-concept]] · [[aku-marca-concept]] · [[aku-vision-empresa-concept]] · [[aku-ikigai-concept]]
+**related** ↔ [[aku-valores-marca-concept]] · [[aku-marca-concept]] · [[aku-vision-empresa-concept]] · [[aku-ikigai-concept]] · [[aku-mejores-lideres-mision-no-ego-claim]]

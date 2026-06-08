@@ -37,6 +37,7 @@ relations:
     - aku-ningun-trabajo-es-demasiado-bajo-claim
     - aku-liderar-desde-frente-y-desde-atras-concept
     - aku-soltar-control-egoista-permite-crecer-claim
+    - aku-evolucion-rol-fundador-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-decentralized-command-concept]] · [[aku-ningun-trabajo-es-demasiado-bajo-claim]] · [[aku-liderar-desde-frente-y-desde-atras-concept]] · [[aku-soltar-control-egoista-permite-crecer-claim]]
+**related** ↔ [[aku-decentralized-command-concept]] · [[aku-ningun-trabajo-es-demasiado-bajo-claim]] · [[aku-liderar-desde-frente-y-desde-atras-concept]] · [[aku-soltar-control-egoista-permite-crecer-claim]] · [[aku-evolucion-rol-fundador-concept]]

@@ -33,6 +33,7 @@ relations:
     - aku-homeostasis-glucosa-insulina-concept
     - aku-comida-basura-es-veneno-claim
     - aku-regla-100-no-80-20-claim
+    - aku-estimulos-supernormales-concept
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-homeostasis-glucosa-insulina-concept]] · [[aku-comida-basura-es-veneno-claim]] · [[aku-regla-100-no-80-20-claim]]
+**related** ↔ [[aku-homeostasis-glucosa-insulina-concept]] · [[aku-comida-basura-es-veneno-claim]] · [[aku-regla-100-no-80-20-claim]] · [[aku-estimulos-supernormales-concept]]

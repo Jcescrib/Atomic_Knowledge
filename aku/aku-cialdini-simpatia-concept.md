@@ -25,13 +25,17 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-leyes-persuasion-cialdini-concept]
+  supports:
+    - aku-leyes-persuasion-cialdini-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-brandscript-storybrand-concept, aku-valores-marca-concept]
+  related:
+    - aku-brandscript-storybrand-concept
+    - aku-valores-marca-concept
+    - aku-48laws-32-play-to-peoples-fantasies-concept
 
 sources:
   - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
@@ -45,4 +49,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-leyes-persuasion-cialdini-concept]]
-**related** ↔ [[aku-brandscript-storybrand-concept]] · [[aku-valores-marca-concept]]
+**related** ↔ [[aku-brandscript-storybrand-concept]] · [[aku-valores-marca-concept]] · [[aku-48laws-32-play-to-peoples-fantasies-concept]]

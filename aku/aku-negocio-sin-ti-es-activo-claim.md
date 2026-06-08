@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-empleados-lead-getters-concept
+    - aku-evolucion-rol-fundador-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-empleados-lead-getters-concept]]
+**related** ↔ [[aku-empleados-lead-getters-concept]] · [[aku-evolucion-rol-fundador-concept]]

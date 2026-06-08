@@ -32,6 +32,7 @@ relations:
   related:
     - aku-la-felicidad-es-una-habilidad-que-se-aprende-concept
     - aku-minimalismo-digital-concept
+    - aku-el-entorno-es-la-mano-invisible-que-moldea-la-conducta-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-minimalismo-digital-concept]]
+**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-minimalismo-digital-concept]] · [[aku-el-entorno-es-la-mano-invisible-que-moldea-la-conducta-claim]]

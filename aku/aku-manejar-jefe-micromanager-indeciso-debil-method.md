@@ -36,6 +36,7 @@ relations:
     - aku-rendimiento-construye-confianza-del-jefe-claim
     - aku-prioritize-and-execute-concept
     - aku-leadership-capital-concept
+    - aku-48laws-31-control-the-options-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-rendimiento-construye-confianza-del-jefe-claim]] · [[aku-prioritize-and-execute-concept]] · [[aku-leadership-capital-concept]]
+**related** ↔ [[aku-rendimiento-construye-confianza-del-jefe-claim]] · [[aku-prioritize-and-execute-concept]] · [[aku-leadership-capital-concept]] · [[aku-48laws-31-control-the-options-concept]]

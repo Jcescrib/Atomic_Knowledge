@@ -33,6 +33,7 @@ relations:
   related:
     - aku-48laws-30-make-accomplishments-seem-effortless-concept
     - aku-48laws-32-play-to-peoples-fantasies-concept
+    - aku-manejar-jefe-micromanager-indeciso-debil-method
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-30-make-accomplishments-seem-effortless-concept]] · [[aku-48laws-32-play-to-peoples-fantasies-concept]]
+**related** ↔ [[aku-48laws-30-make-accomplishments-seem-effortless-concept]] · [[aku-48laws-32-play-to-peoples-fantasies-concept]] · [[aku-manejar-jefe-micromanager-indeciso-debil-method]]
