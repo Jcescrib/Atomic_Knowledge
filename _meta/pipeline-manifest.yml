@@ -27,7 +27,7 @@ sources:
     ingested: 2026-06-03
     chapters_ingested: []   # short mode: single H1, 106 lines
     aku_count: 14
-    taku_count: 1
+    taku_count: 3
     last_commit: ""   # to fill after commit
     notes: >
       First end-to-end pipeline run. 7 referenced images classified as
@@ -45,7 +45,7 @@ sources:
     ingested: 2026-06-03
     chapters_ingested: []
     aku_count: 6
-    taku_count: 1
+    taku_count: 3
     last_commit: ""
     notes: >
       Taxonomía de 3 motores de crecimiento (pago/viral/sticky). Sin imágenes
@@ -61,7 +61,7 @@ sources:
     ingested: 2026-06-03
     chapters_ingested: []
     aku_count: 11
-    taku_count: 1
+    taku_count: 3
     last_commit: ""
     notes: >
       Cluster métricas (CLTV, CAC, ARPU, churn rate, CAC payback, CLTV/CAC,
@@ -80,7 +80,7 @@ sources:
     ingested: 2026-06-03
     chapters_ingested: []
     aku_count: 12
-    taku_count: 1
+    taku_count: 3
     last_commit: ""
     notes: >
       Cluster plataformas (modelo lineal vs plataforma, network effect, masa
@@ -118,7 +118,7 @@ sources:
     ingested: 2026-06-03
     chapters_ingested: []
     aku_count: 10
-    taku_count: 1
+    taku_count: 3
     last_commit: ""
     notes: >
       Cluster propuesta de valor + modelo Power Value. 7 nuevos concept-AKUs
@@ -139,7 +139,7 @@ sources:
     ingested: 2026-06-03
     chapters_ingested: []
     aku_count: 9
-    taku_count: 1
+    taku_count: 3
     last_commit: ""
     notes: >
       Cluster océano azul (Kim & Mauborgne): 7 concept-AKUs (factores
@@ -185,7 +185,7 @@ sources:
     ingested: 2026-06-03
     chapters_ingested: []
     aku_count: 4
-    taku_count: 1
+    taku_count: 3
     last_commit: ""
     notes: >
       4 nuevos concept-AKUs (problem-solution-fit, etapas-startup,
@@ -264,7 +264,7 @@ sources:
     ingested: 2026-06-03
     chapters_ingested: []
     aku_count: 6
-    taku_count: 1
+    taku_count: 3
     last_commit: ""
     notes: >
       Estrategias genéricas de Porter. 3 concept + 3 claim AKUs. 1 framework
@@ -282,7 +282,7 @@ sources:
     ingested: 2026-06-03
     chapters_ingested: []
     aku_count: 9
-    taku_count: 1
+    taku_count: 3
     last_commit: ""
     notes: >
       Matriz de Ansoff + crecimiento orgánico/inorgánico + integración vertical.
@@ -363,7 +363,7 @@ sources:
     ingested: 2026-06-03
     chapters_ingested: []
     aku_count: 6
-    taku_count: 1
+    taku_count: 3
     last_commit: ""
     notes: >
       Visión estratégica / Power Funnel. 5 concept + 1 claim AKUs, 1 framework
@@ -407,7 +407,7 @@ sources:
     ingested: 2026-06-03
     chapters_ingested: []
     aku_count: 8
-    taku_count: 1
+    taku_count: 3
     last_commit: ""
     notes: >
       Atracción y branding: calidad/cantidad tráfico, performance/inbound/outbound,
@@ -553,7 +553,7 @@ sources:
     ingested: 2026-06-03
     chapters_ingested: []
     aku_count: 6
-    taku_count: 1
+    taku_count: 3
     last_commit: ""
     notes: "Captación y nurturing de leads. 5 concept + 1 claim AKUs + framework TAKU lead-nurturing. lead-magnet enriquecido (0.60)."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.5.2 Ejemplos+por+tipos+de+lead+magnets.pdf"
@@ -602,7 +602,7 @@ sources:
     ingested: 2026-06-03
     chapters_ingested: []
     aku_count: 6
-    taku_count: 1
+    taku_count: 3
     last_commit: ""
     notes: "Conversión/CRO. 5 concept + 1 method AKUs + framework TAKU cro."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6.2-Tabla+Herramientas+(2).pdf"
@@ -626,7 +626,7 @@ sources:
     ingested: 2026-06-03
     chapters_ingested: []
     aku_count: 1
-    taku_count: 1
+    taku_count: 3
     last_commit: ""
     notes: "Consejos para CTA. 1 concept AKU (cta) + heuristic TAKU optimizar-cta."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6.4 - Herramientas+para+CRO.pdf"
@@ -883,7 +883,7 @@ sources:
     ingested: 2026-06-03
     chapters_ingested: []
     aku_count: 1
-    taku_count: 1
+    taku_count: 3
     last_commit: ""
     notes: "Flywheel funnel (concept) + framework TAKU flywheel (alternative_to power-funnel)."
 
@@ -896,7 +896,7 @@ sources:
     ingested: 2026-06-04
     chapters_ingested: []
     aku_count: 2
-    taku_count: 1
+    taku_count: 3
     last_commit: ""
     notes: "Fit proyecto-emprendedor + implicaciones del modelo (7 dim). 1 imagen MATCH captionada. Tablas ya en HTML."
 
@@ -909,7 +909,7 @@ sources:
     ingested: 2026-06-04
     chapters_ingested: []
     aku_count: 7
-    taku_count: 1
+    taku_count: 3
     last_commit: ""
     notes: >
       Fuentes de financiación (quién/cuándo). 6 concept + 1 claim AKUs + framework
@@ -939,7 +939,7 @@ sources:
     ingested: 2026-06-04
     chapters_ingested: []
     aku_count: 1
-    taku_count: 1
+    taku_count: 3
     last_commit: ""
     notes: "Estructura del Pitch Deck. 1 concept + framework TAKU taku-pitch-deck. Tabla de secciones ya en HTML."
 
@@ -952,7 +952,7 @@ sources:
     ingested: 2026-06-04
     chapters_ingested: []
     aku_count: 1
-    taku_count: 1
+    taku_count: 3
     last_commit: ""
     notes: "Plantillas elevator pitch. 1 concept + technique TAKU taku-elevator-pitch. Sin imágenes."
 
@@ -1172,7 +1172,7 @@ sources:
     ingested: 2026-06-04
     chapters_ingested: []
     aku_count: 7
-    taku_count: 1
+    taku_count: 3
     last_commit: ""
     notes: >
       Módulo 11 PDF 2 — Concordancia de palabras clave. 6 concept (concordancia-palabras-clave +
@@ -1221,7 +1221,7 @@ sources:
     ingested: 2026-06-04
     chapters_ingested: []
     aku_count: 9
-    taku_count: 1
+    taku_count: 3
     last_commit: ""
     notes: >
       Módulo 12 PDF 3 — Tabla comparativa RRSS. 1 hub (comparativa-redes-sociales) + 7 platform concept
@@ -1277,7 +1277,7 @@ sources:
     image_processing: n/a
     ingested: 2026-06-04
     aku_count: 1
-    taku_count: 1
+    taku_count: 3
     notes: "M14 PDF3 — Cláusulas contrato (10). 1 concept (clausulas-contrato-influencers) + framework TAKU contrato-influencers. Fuente compartida con 14.05."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\14-Marketing de Influencers (Especialización)\14.05_Modelo+Contrato_Stories.pdf"
     name_slug: "14-05-modelo-contrato-stories"
@@ -1297,7 +1297,7 @@ sources:
     image_processing: 2026-06-04
     ingested: 2026-06-04
     aku_count: 1
-    taku_count: 1
+    taku_count: 3
     notes: "M14 PDF6 — Medición resultados. 1 concept (medicion-resultados-influencers, funnel→KPIs→cómo medir) + framework TAKU medicion-campana-influencers. INTEGRATE (a): ↔ power-funnel. MÓDULO 14 COMPLETO (5 PDFs, +4 AKUs, +2 TAKUs)."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\15-Analítica (Especialización)\15.1.[Plantilla]+Plan+de+Medición.xlsx.pdf"
     name_slug: "15-1-plantilla-plan-de-medici-on-xlsx"
@@ -1307,7 +1307,7 @@ sources:
     image_processing: 2026-06-04
     ingested: 2026-06-04
     aku_count: 1
-    taku_count: 1
+    taku_count: 3
     notes: "M15 PDF1 — Plan de Medición. 1 concept (objetivos/estrategias/KPIs/metas/segmentos) + framework TAKU plan-de-medicion. 2 imgs redundantes (tablas)."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\15-Analítica (Especialización)\15.2. Principales+métricas+-+Google+Analytics.pptx.pdf"
     name_slug: "15-2-principales-m-etricas-google-analytics-pptx"
@@ -1363,7 +1363,7 @@ sources:
     image_processing: n/a
     ingested: 2026-06-04
     aku_count: 1
-    taku_count: 1
+    taku_count: 3
     notes: >
       M18 DOCX — info.docx «Hacks copy» (convertido con python-docx). 1 concept (hacks-copywriting:
       7 principios — investiga, objetivo, titular, promesas concretas, pruebas, sin florituras, CTA) +
@@ -1377,7 +1377,7 @@ sources:
     image_processing: n/a
     ingested: 2026-06-04
     aku_count: 1
-    taku_count: 1
+    taku_count: 3
     notes: "M20 PDF1 — Power words. 1 concept (palabras-frases-persuasivas: urgencia/escasez, gratis, exclusividad, prueba, riesgo cero, facilidad) + heuristic TAKU power-words-copywriting. INTEGRATE (a): ↔ hacks-copywriting, cta, cialdini."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\20-Copywriting\20.2-Lista+de+fórmulas+para+escribir+títulos+potentes.pdf"
     name_slug: "20-2-lista-de-f-ormulas-para-escribir-t-itulos-potentes"
@@ -1387,7 +1387,7 @@ sources:
     image_processing: 2026-06-04
     ingested: 2026-06-04
     aku_count: 1
-    taku_count: 1
+    taku_count: 3
     notes: "M20 PDF2 — Fórmulas de titulares. 1 concept (formulas-titulos-potentes: 7 plantillas) + framework TAKU formulas-titulos-potentes. INTEGRATE (a): ↔ titulo-anuncio-google, hacks-copywriting. 5 imgs decorativas (badges numéricos)."
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\20-Copywriting\20.3-Libros+de+copywriting.pdf"
     name_slug: "20-3-libros-de-copywriting"
@@ -1560,7 +1560,7 @@ sources:
     ingested: 2026-06-05
     chapters_ingested: [intro-foreword, ch01-connection, ch02-detachment, ch03-distance, ch04-pyramid, ch05-creation, ch06-acceptance, ch07-velocity, ch08-clock, ch09-river, ch10-frame, ch11-kuzushi, ch12-reconnaissance, ch13-prevention, ch14-tension, ch15-fork, ch16-posture, ch17-false-surrender, ch18-depletion, ch19-isolation, ch20-sacrifice, ch21-momentum, ch22-pivot, ch23-tagalong, ch24-overload, ch25-anchor, ch26-ratchet, ch27-buoyancy, ch28-head-control, ch29-redirection, ch30-mobility, ch31-centerline, ch32-grandmaster]
     aku_count: 94
-    taku_count: 1
+    taku_count: 3
     last_commit: "8fb09a5"
     notes: >
       Libro 5 corpus Jocko COMPLETO (Rener Gracie; Paul Volponi; pról. Jocko Willink,
@@ -1666,7 +1666,7 @@ sources:
       ch17-accountability-habit-contract, ch18-talent, ch19-goldilocks, ch20-mastery-review,
       conclusion-little-lessons]
     aku_count: 84
-    taku_count: 1
+    taku_count: 3
     last_commit: "5f82f46"
     notes: >
       TAREA 2, libro 2. Atomic Habits (James Clear, 2018). source-tag: james-clear.
@@ -1710,7 +1710,7 @@ sources:
     ingested: 2026-06-05
     chapters_ingested: [leyes-01-12, leyes-13-24, leyes-25-36, leyes-37-48]
     aku_count: 48
-    taku_count: 1
+    taku_count: 3
     last_commit: "c5d3fed"
     notes: >
       TAREA 2, libro 3 COMPLETO. The 48 Laws of Power (Robert Greene, 1998/2000). source-tag:
@@ -1741,7 +1741,7 @@ sources:
     ingested: 2026-06-08
     chapters_ingested: [introduction, cap-01-finding-fearlessness, cap-02-heart-of-a-hustler, cap-03-constructing-your-crew, cap-04-knowing-your-value, cap-05-evolve-or-die, cap-06-power-of-perception, cap-07-if-we-cant-be-friends, cap-08-learning-from-your-ls, cap-09-the-entitlement-trap]
     aku_count: 159
-    taku_count: 1
+    taku_count: 3
     last_commit: "7b3c9a4"
     notes: >
       TAREA nueva — corpus libro «Hustle Harder, Hustle Smarter» (Curtis "50 Cent" Jackson, 2020,

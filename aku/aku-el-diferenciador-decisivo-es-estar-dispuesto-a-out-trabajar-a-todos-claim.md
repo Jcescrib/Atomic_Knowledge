@@ -24,13 +24,17 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-corazon-de-hustler-concept]
+  supports:
+    - aku-corazon-de-hustler-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-el-trabajo-duro-es-el-rasgo-comun-a-quienes-se-mantienen-arriba-claim, aku-el-foco-dirige-el-trabajo-duro-y-eliminar-distracciones-libera-potencial-claim]
+  related:
+    - aku-el-trabajo-duro-es-el-rasgo-comun-a-quienes-se-mantienen-arriba-claim
+    - aku-el-foco-dirige-el-trabajo-duro-y-eliminar-distracciones-libera-potencial-claim
+    - aku-enfrentar-a-tu-competencia-de-frente-y-out-trabajarla-da-confianza-duradera-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -44,4 +48,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-corazon-de-hustler-concept]]
-**related** ↔ [[aku-el-trabajo-duro-es-el-rasgo-comun-a-quienes-se-mantienen-arriba-claim]] · [[aku-el-foco-dirige-el-trabajo-duro-y-eliminar-distracciones-libera-potencial-claim]]
+**related** ↔ [[aku-el-trabajo-duro-es-el-rasgo-comun-a-quienes-se-mantienen-arriba-claim]] · [[aku-el-foco-dirige-el-trabajo-duro-y-eliminar-distracciones-libera-potencial-claim]] · [[aku-enfrentar-a-tu-competencia-de-frente-y-out-trabajarla-da-confianza-duradera-claim]]

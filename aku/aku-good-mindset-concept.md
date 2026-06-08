@@ -42,6 +42,7 @@ relations:
     - aku-positivo-pero-realista-no-pollyanna-claim
     - aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim
     - aku-reencuadra-tus-habitos-de-have-to-a-get-to-method
+    - aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -55,4 +56,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-extreme-ownership-concept]] · [[aku-actitud-lider-marca-el-tono-claim]] · [[aku-incluso-en-la-muerte-hay-good-claim]] · [[aku-la-risa-gana-claim]] · [[aku-lesiones-enfermedad-do-what-you-can-claim]] · [[aku-positivo-pero-realista-no-pollyanna-claim]] · [[aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim]] · [[aku-reencuadra-tus-habitos-de-have-to-a-get-to-method]]
+**related** ↔ [[aku-extreme-ownership-concept]] · [[aku-actitud-lider-marca-el-tono-claim]] · [[aku-incluso-en-la-muerte-hay-good-claim]] · [[aku-la-risa-gana-claim]] · [[aku-lesiones-enfermedad-do-what-you-can-claim]] · [[aku-positivo-pero-realista-no-pollyanna-claim]] · [[aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim]] · [[aku-reencuadra-tus-habitos-de-have-to-a-get-to-method]] · [[aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept]]

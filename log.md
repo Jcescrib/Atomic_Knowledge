@@ -1020,3 +1020,9 @@ Hustle Harder, Hustle Smarter — Cap. 9 «The Entitlement Trap» + framework TA
 - Puentes (b) propuestos para Joan (MUY fuertes): responsabilidad-total & aceptar-que-todo-depende-de-ti ↔ extreme-ownership (Jocko, casi idénticos) y accountability (Naval); trabajo=felicidad ↔ felicidad (Naval); depósitos-vs-retiros ↔ asociarse-con-quien-suma (Naval); want-como-motor ↔ deseo (Naval/Atomic Habits).
 - **LIBRO COMPLETO: Introduction + 9 capítulos = 159 AKUs nuevos + 1 framework TAKU + 1 dedup-merge cross-corpus (paso-agresivo-hacia-el-miedo, Jocko 0.50→0.60).** Manifest marcado `ingested: 2026-06-08`.
 - verify_graph: 1999/1999 simétrico, 0 errores.
+
+## 2026-06-08 — audit
+Integración del grafo 50-cent: cableado de puentes (b) aprobados + 2 TAKUs + auditoría completa.
+- **+54 aristas `related`** (sync 3 capas vía `akupatch`): 50 puentes (b)/(a) aprobados por Joan (`scripts/_50cent_bridges.py`) + 4 correctoras de islas. Cross-corpus a Jocko (extreme-ownership, good-mindset, dichotomy, miedo-al-fracaso, tiempo-recurso, humildad), Naval (equity, choiceless-awareness, judgment, felicidad, deseo, accountability, juegos-iterados), 48-laws (L15/L06/L46/L37/L02), Cialdini (escasez/simpatía), Power MBA (branding, cinco-fuerzas, equity-value, liderazgo-situacional, compartir-objetivos), Hormozi (escasez), Atomic Habits (never-miss-twice, aburrimiento, editar-identidad, reflexión-revisión).
+- **+2 TAKUs** (draft, llm-authored): `taku-vision-board` (tool), `taku-cuatro-cualidades-de-una-estrella` (framework). Total TAKUs 50-cent: 3.
+- **Auditoría**: el audit detectó **2 islas de 2 nodos** (crab-in-the-barrel; ofrece-valor/intern) que el INTEGRATE por capítulo no puenteó → corregidas. Resultado: **componentes 3→1, 0 huérfanos, 0 errores**. 101/159 AKUs solo-`related` (esperable en memoir; concept-núcleo sí tipados). Mapeo corpus `50-cent` añadido a `_audit_analyze.py`. Informe completo: `_meta/auditoria-50cent-2026-06-08.md`.

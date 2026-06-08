@@ -34,6 +34,7 @@ relations:
   related:
     - aku-48laws-36-disdain-what-you-cannot-have-concept
     - aku-48laws-38-think-as-you-like-behave-like-others-concept
+    - aku-fake-it-till-you-make-it-proyecta-exito-antes-de-tenerlo-claim
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-36-disdain-what-you-cannot-have-concept]] · [[aku-48laws-38-think-as-you-like-behave-like-others-concept]]
+**related** ↔ [[aku-48laws-36-disdain-what-you-cannot-have-concept]] · [[aku-48laws-38-think-as-you-like-behave-like-others-concept]] · [[aku-fake-it-till-you-make-it-proyecta-exito-antes-de-tenerlo-claim]]

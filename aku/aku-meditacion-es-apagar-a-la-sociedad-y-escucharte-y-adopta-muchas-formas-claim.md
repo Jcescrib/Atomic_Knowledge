@@ -34,6 +34,7 @@ relations:
   related:
     - aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept
     - aku-mindfulness-concept
+    - aku-la-meditacion-con-mantra-baja-el-volumen-de-los-pensamientos-method
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept]] · [[aku-mindfulness-concept]]
+**related** ↔ [[aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept]] · [[aku-mindfulness-concept]] · [[aku-la-meditacion-con-mantra-baja-el-volumen-de-los-pensamientos-method]]

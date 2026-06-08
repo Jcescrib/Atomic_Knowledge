@@ -36,6 +36,8 @@ relations:
     - aku-salud-amor-y-mision-en-ese-orden-nada-mas-importa-claim
     - aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim
     - aku-evaluation-health-concept
+    - aku-dormir-lo-suficiente-es-parte-del-hustle-no-su-enemigo-claim
+    - aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -48,6 +50,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim]] · [[aku-salud-amor-y-mision-en-ese-orden-nada-mas-importa-claim]] · [[aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim]] · [[aku-evaluation-health-concept]]
+**related** ↔ [[aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim]] · [[aku-salud-amor-y-mision-en-ese-orden-nada-mas-importa-claim]] · [[aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim]] · [[aku-evaluation-health-concept]] · [[aku-dormir-lo-suficiente-es-parte-del-hustle-no-su-enemigo-claim]] · [[aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim]]
 
 **supports** → [[aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method]]

@@ -24,14 +24,22 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-un-error-de-contratacion-en-un-rol-critico-es-catastrofico-e-irreversible-claim, aku-equilibra-tu-crew-entre-veteranos-del-dia-uno-y-sangre-nueva-claim, aku-instila-y-exige-disciplina-tolerancia-cero-al-conflicto-interno-claim, aku-el-liderazgo-eficaz-adapta-la-tactica-a-cada-persona-claim]
+  supported_by:
+    - aku-un-error-de-contratacion-en-un-rol-critico-es-catastrofico-e-irreversible-claim
+    - aku-equilibra-tu-crew-entre-veteranos-del-dia-uno-y-sangre-nueva-claim
+    - aku-instila-y-exige-disciplina-tolerancia-cero-al-conflicto-interno-claim
+    - aku-el-liderazgo-eficaz-adapta-la-tactica-a-cada-persona-claim
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-la-traicion-duele-mas-que-el-robo-claim]
+  related:
+    - aku-la-traicion-duele-mas-que-el-robo-claim
+    - aku-judgment-naval-concept
+    - aku-no-bad-teams-only-bad-leaders-concept
+    - aku-48laws-02-never-trust-friends-use-enemies-concept
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -45,4 +53,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-un-error-de-contratacion-en-un-rol-critico-es-catastrofico-e-irreversible-claim]] · [[aku-equilibra-tu-crew-entre-veteranos-del-dia-uno-y-sangre-nueva-claim]] · [[aku-instila-y-exige-disciplina-tolerancia-cero-al-conflicto-interno-claim]] · [[aku-el-liderazgo-eficaz-adapta-la-tactica-a-cada-persona-claim]]
-**related** ↔ [[aku-la-traicion-duele-mas-que-el-robo-claim]]
+**related** ↔ [[aku-la-traicion-duele-mas-que-el-robo-claim]] · [[aku-judgment-naval-concept]] · [[aku-no-bad-teams-only-bad-leaders-concept]] · [[aku-48laws-02-never-trust-friends-use-enemies-concept]]

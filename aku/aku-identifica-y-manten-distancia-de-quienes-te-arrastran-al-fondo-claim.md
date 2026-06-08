@@ -24,13 +24,16 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept]
+  supports:
+    - aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-ayudar-es-bueno-pero-no-es-tu-responsabilidad-seguir-alimentando-a-quien-falla-claim]
+  related:
+    - aku-ayudar-es-bueno-pero-no-es-tu-responsabilidad-seguir-alimentando-a-quien-falla-claim
+    - aku-no-hay-espacio-para-el-exito-y-los-suckers-alejate-del-entorno-toxico-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -44,4 +47,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept]]
-**related** ↔ [[aku-ayudar-es-bueno-pero-no-es-tu-responsabilidad-seguir-alimentando-a-quien-falla-claim]]
+**related** ↔ [[aku-ayudar-es-bueno-pero-no-es-tu-responsabilidad-seguir-alimentando-a-quien-falla-claim]] · [[aku-no-hay-espacio-para-el-exito-y-los-suckers-alejate-del-entorno-toxico-claim]]

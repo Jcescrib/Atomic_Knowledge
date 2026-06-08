@@ -7,7 +7,7 @@ Router and validation dashboard. Updated by `/ingest`, `/pipeline`, `/lint`, and
 | Layer | Active | Draft | Deprecated | Validated-false / failing |
 |---|---|---|---|---|
 | AKU | 1998 | — | 1 | 1 |
-| TAKU | 0 | 138 | 0 | 0 |
+| TAKU | 0 | 140 | 0 | 0 |
 
 By AKU class: **915 concept**, **172 method**, **912 claim** · all `unvalidated` · `sourced` mayoría at `llm_confidence: 0.50`, ~21 `sourced` at `0.60` (post-dedup/merge), 3 at `0.70` (lead-magnet, cltv-cac-ratio, churn-rate — 3 fuentes c/u), 1 `sourced` at `0.20` (mas-valor-menos-coste), 1 `tacit` at `null` (Joan's free-bootstrap-plataforma claim).
 

@@ -34,6 +34,7 @@ relations:
   related:
     - aku-contingency-planning-anticipar-method
     - aku-miedo-al-fracaso-paraliza-y-neutraliza-claim
+    - aku-un-poco-de-miedo-y-paranoia-es-util-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-contingency-planning-anticipar-method]] · [[aku-miedo-al-fracaso-paraliza-y-neutraliza-claim]]
+**related** ↔ [[aku-contingency-planning-anticipar-method]] · [[aku-miedo-al-fracaso-paraliza-y-neutraliza-claim]] · [[aku-un-poco-de-miedo-y-paranoia-es-util-claim]]

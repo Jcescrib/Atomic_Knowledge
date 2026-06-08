@@ -25,13 +25,17 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept]
+  supports:
+    - aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-rodearte-de-yes-men-impide-aprender-de-tus-errores-claim]
+  related:
+    - aku-rodearte-de-yes-men-impide-aprender-de-tus-errores-claim
+    - aku-humildad-asumir-errores-claim
+    - aku-admitir-que-no-lo-sabes-todo-es-el-requisito-para-crecer-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -45,4 +49,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept]]
-**related** ↔ [[aku-rodearte-de-yes-men-impide-aprender-de-tus-errores-claim]]
+**related** ↔ [[aku-rodearte-de-yes-men-impide-aprender-de-tus-errores-claim]] · [[aku-humildad-asumir-errores-claim]] · [[aku-admitir-que-no-lo-sabes-todo-es-el-requisito-para-crecer-claim]]

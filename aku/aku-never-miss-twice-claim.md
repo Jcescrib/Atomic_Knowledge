@@ -36,6 +36,7 @@ relations:
   related:
     - aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim
     - aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim
+    - aku-cambiar-un-habito-comprometiendote-30-dias-y-enfocando-semana-a-semana-method
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim]] · [[aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim]]
+**related** ↔ [[aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim]] · [[aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim]] · [[aku-cambiar-un-habito-comprometiendote-30-dias-y-enfocando-semana-a-semana-method]]

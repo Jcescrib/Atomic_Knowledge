@@ -24,14 +24,24 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-evolucionar-mas-alla-del-rol-asignado-crea-nuevos-modelos-de-exito-claim, aku-el-publico-nunca-se-equivoca-si-dejan-de-responder-han-seguido-adelante-claim, aku-tu-rol-cambiara-nunca-te-acomodes-en-tu-track-record-claim, aku-una-vez-consigues-lo-que-perseguias-rara-vez-te-satisface-perseguir-fuerza-a-evolucionar-claim, aku-cambia-con-tu-cultura-y-audiencia-construye-para-su-evolucion-claim, aku-the-writing-is-never-on-the-wall-lee-la-energia-no-esperes-senales-claim, aku-expande-tu-mente-a-traves-de-un-circulo-diverso-y-mas-sabio-claim]
+  supported_by:
+    - aku-evolucionar-mas-alla-del-rol-asignado-crea-nuevos-modelos-de-exito-claim
+    - aku-el-publico-nunca-se-equivoca-si-dejan-de-responder-han-seguido-adelante-claim
+    - aku-tu-rol-cambiara-nunca-te-acomodes-en-tu-track-record-claim
+    - aku-una-vez-consigues-lo-que-perseguias-rara-vez-te-satisface-perseguir-fuerza-a-evolucionar-claim
+    - aku-cambia-con-tu-cultura-y-audiencia-construye-para-su-evolucion-claim
+    - aku-the-writing-is-never-on-the-wall-lee-la-energia-no-esperes-senales-claim
+    - aku-expande-tu-mente-a-traves-de-un-circulo-diverso-y-mas-sabio-claim
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-las-cuatro-cualidades-de-una-estrella-concept, aku-quedarse-anclado-en-una-epoca-o-mentalidad-te-envejece-prematuramente-claim]
+  related:
+    - aku-las-cuatro-cualidades-de-una-estrella-concept
+    - aku-quedarse-anclado-en-una-epoca-o-mentalidad-te-envejece-prematuramente-claim
+    - aku-debes-editar-y-expandir-tu-identidad-continuamente-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -45,4 +55,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-evolucionar-mas-alla-del-rol-asignado-crea-nuevos-modelos-de-exito-claim]] · [[aku-el-publico-nunca-se-equivoca-si-dejan-de-responder-han-seguido-adelante-claim]] · [[aku-tu-rol-cambiara-nunca-te-acomodes-en-tu-track-record-claim]] · [[aku-una-vez-consigues-lo-que-perseguias-rara-vez-te-satisface-perseguir-fuerza-a-evolucionar-claim]] · [[aku-cambia-con-tu-cultura-y-audiencia-construye-para-su-evolucion-claim]] · [[aku-the-writing-is-never-on-the-wall-lee-la-energia-no-esperes-senales-claim]] · [[aku-expande-tu-mente-a-traves-de-un-circulo-diverso-y-mas-sabio-claim]]
-**related** ↔ [[aku-las-cuatro-cualidades-de-una-estrella-concept]] · [[aku-quedarse-anclado-en-una-epoca-o-mentalidad-te-envejece-prematuramente-claim]]
+**related** ↔ [[aku-las-cuatro-cualidades-de-una-estrella-concept]] · [[aku-quedarse-anclado-en-una-epoca-o-mentalidad-te-envejece-prematuramente-claim]] · [[aku-debes-editar-y-expandir-tu-identidad-continuamente-claim]]

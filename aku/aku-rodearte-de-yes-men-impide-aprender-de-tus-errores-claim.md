@@ -31,7 +31,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim, aku-un-jefe-que-grita-e-intimida-silencia-el-feedback-que-necesita-claim]
+  related:
+    - aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim
+    - aku-un-jefe-que-grita-e-intimida-silencia-el-feedback-que-necesita-claim
+    - aku-cambiar-de-opinion-ante-una-perspectiva-nueva-es-evolucion-no-debilidad-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -44,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim]] · [[aku-un-jefe-que-grita-e-intimida-silencia-el-feedback-que-necesita-claim]]
+**related** ↔ [[aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim]] · [[aku-un-jefe-que-grita-e-intimida-silencia-el-feedback-que-necesita-claim]] · [[aku-cambiar-de-opinion-ante-una-perspectiva-nueva-es-evolucion-no-debilidad-claim]]

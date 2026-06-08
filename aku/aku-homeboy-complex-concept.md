@@ -31,7 +31,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-llega-el-momento-de-cortar-el-cordon-con-el-pasado-para-no-estancarte-claim]
+  related:
+    - aku-llega-el-momento-de-cortar-el-cordon-con-el-pasado-para-no-estancarte-claim
+    - aku-mentalidad-crab-in-the-barrel-concept
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -44,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-llega-el-momento-de-cortar-el-cordon-con-el-pasado-para-no-estancarte-claim]]
+**related** ↔ [[aku-llega-el-momento-de-cortar-el-cordon-con-el-pasado-para-no-estancarte-claim]] · [[aku-mentalidad-crab-in-the-barrel-concept]]

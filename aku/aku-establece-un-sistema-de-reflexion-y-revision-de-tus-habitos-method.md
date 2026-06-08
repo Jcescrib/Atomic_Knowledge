@@ -35,6 +35,7 @@ relations:
   contradicts: []
   related:
     - aku-debes-editar-y-expandir-tu-identidad-continuamente-claim
+    - aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-debes-editar-y-expandir-tu-identidad-continuamente-claim]]
+**related** ↔ [[aku-debes-editar-y-expandir-tu-identidad-continuamente-claim]] · [[aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept]]

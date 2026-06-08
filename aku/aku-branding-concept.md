@@ -32,7 +32,13 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-performance-marketing-concept, aku-posicionamiento-concept, aku-brand-awareness-concept, aku-publicidad-offline-concept, aku-parte-alta-funnel-condiciona-resto-claim]
+  related:
+    - aku-performance-marketing-concept
+    - aku-posicionamiento-concept
+    - aku-brand-awareness-concept
+    - aku-publicidad-offline-concept
+    - aku-parte-alta-funnel-condiciona-resto-claim
+    - aku-ciertos-bienes-son-senales-que-dictan-si-te-toman-en-serio-claim
 
 sources:
   - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
@@ -45,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-performance-marketing-concept]] · [[aku-posicionamiento-concept]] · [[aku-brand-awareness-concept]] · [[aku-publicidad-offline-concept]] · [[aku-parte-alta-funnel-condiciona-resto-claim]]
+**related** ↔ [[aku-performance-marketing-concept]] · [[aku-posicionamiento-concept]] · [[aku-brand-awareness-concept]] · [[aku-publicidad-offline-concept]] · [[aku-parte-alta-funnel-condiciona-resto-claim]] · [[aku-ciertos-bienes-son-senales-que-dictan-si-te-toman-en-serio-claim]]

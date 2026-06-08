@@ -25,13 +25,17 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept]
+  supports:
+    - aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-hacer-respetar-las-reglas-exige-aplicar-las-consecuencias-aunque-rompa-una-relacion-claim, aku-pon-la-casa-en-orden-primero-los-problemas-internos-hunden-el-imperio-claim]
+  related:
+    - aku-hacer-respetar-las-reglas-exige-aplicar-las-consecuencias-aunque-rompa-una-relacion-claim
+    - aku-pon-la-casa-en-orden-primero-los-problemas-internos-hunden-el-imperio-claim
+    - aku-extreme-ownership-concept
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -45,4 +49,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept]]
-**related** ↔ [[aku-hacer-respetar-las-reglas-exige-aplicar-las-consecuencias-aunque-rompa-una-relacion-claim]] · [[aku-pon-la-casa-en-orden-primero-los-problemas-internos-hunden-el-imperio-claim]]
+**related** ↔ [[aku-hacer-respetar-las-reglas-exige-aplicar-las-consecuencias-aunque-rompa-una-relacion-claim]] · [[aku-pon-la-casa-en-orden-primero-los-problemas-internos-hunden-el-imperio-claim]] · [[aku-extreme-ownership-concept]]

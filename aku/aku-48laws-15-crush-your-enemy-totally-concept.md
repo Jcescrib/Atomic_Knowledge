@@ -34,6 +34,7 @@ relations:
   related:
     - aku-48laws-14-pose-as-friend-work-as-spy-concept
     - aku-48laws-16-use-absence-to-increase-respect-concept
+    - aku-la-competencia-como-estrategia-if-we-cant-be-friends-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-14-pose-as-friend-work-as-spy-concept]] · [[aku-48laws-16-use-absence-to-increase-respect-concept]]
+**related** ↔ [[aku-48laws-14-pose-as-friend-work-as-spy-concept]] · [[aku-48laws-16-use-absence-to-increase-respect-concept]] · [[aku-la-competencia-como-estrategia-if-we-cant-be-friends-concept]]

@@ -37,6 +37,7 @@ relations:
   related:
     - aku-everyone-same-everyone-different-concept
     - aku-liderazgo-indirecto-supera-al-directo-claim
+    - aku-el-liderazgo-eficaz-adapta-la-tactica-a-cada-persona-claim
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -52,4 +53,4 @@ status_note: ""
 **supported_by** ← [[aku-tres-capas-liderazgo-concept]]
 **supports** → [[aku-estilos-autoritario-delegativo-concept]]
 
-**related** ↔ [[aku-everyone-same-everyone-different-concept]] · [[aku-liderazgo-indirecto-supera-al-directo-claim]]
+**related** ↔ [[aku-everyone-same-everyone-different-concept]] · [[aku-liderazgo-indirecto-supera-al-directo-claim]] · [[aku-el-liderazgo-eficaz-adapta-la-tactica-a-cada-persona-claim]]

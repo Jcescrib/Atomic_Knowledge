@@ -25,13 +25,16 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-el-poder-de-la-percepcion-concept]
+  supports:
+    - aku-el-poder-de-la-percepcion-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-el-toque-ligero-en-el-antebrazo-aumenta-el-acuerdo-method]
+  related:
+    - aku-el-toque-ligero-en-el-antebrazo-aumenta-el-acuerdo-method
+    - aku-48laws-46-never-appear-too-perfect-concept
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -45,4 +48,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-el-poder-de-la-percepcion-concept]]
-**related** ↔ [[aku-el-toque-ligero-en-el-antebrazo-aumenta-el-acuerdo-method]]
+**related** ↔ [[aku-el-toque-ligero-en-el-antebrazo-aumenta-el-acuerdo-method]] · [[aku-48laws-46-never-appear-too-perfect-concept]]

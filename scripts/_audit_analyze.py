@@ -16,6 +16,7 @@ SOURCE_TAGS = {
     "raw/libros/naval/": "naval",
     "raw/libros/james-clear/": "james-clear",
     "raw/libros/robert-greene/": "robert-greene",
+    "raw/libros/50-cent/": "50-cent",
 }
 
 def corpus_of(sources):

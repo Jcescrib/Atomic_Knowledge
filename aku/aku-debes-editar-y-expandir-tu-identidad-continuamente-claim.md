@@ -37,6 +37,7 @@ relations:
     - aku-establece-un-sistema-de-reflexion-y-revision-de-tus-habitos-method
     - aku-manten-tu-identidad-pequena-y-flexible-para-poder-crecer-claim
     - aku-48laws-25-re-create-yourself-concept
+    - aku-evolucionar-o-morir-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-no-hay-soluciones-permanentes-en-un-sistema-dinamico-claim]] · [[aku-establece-un-sistema-de-reflexion-y-revision-de-tus-habitos-method]] · [[aku-manten-tu-identidad-pequena-y-flexible-para-poder-crecer-claim]] · [[aku-48laws-25-re-create-yourself-concept]]
+**related** ↔ [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-no-hay-soluciones-permanentes-en-un-sistema-dinamico-claim]] · [[aku-establece-un-sistema-de-reflexion-y-revision-de-tus-habitos-method]] · [[aku-manten-tu-identidad-pequena-y-flexible-para-poder-crecer-claim]] · [[aku-48laws-25-re-create-yourself-concept]] · [[aku-evolucionar-o-morir-concept]]

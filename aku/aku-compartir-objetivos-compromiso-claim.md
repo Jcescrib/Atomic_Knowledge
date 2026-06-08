@@ -32,6 +32,7 @@ relations:
   related:
     - aku-objetivos-personales-concept
     - aku-habit-contract-y-accountability-partner-method
+    - aku-los-vision-boards-materializan-las-metas-y-elevan-su-probabilidad-claim
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-objetivos-personales-concept]] · [[aku-habit-contract-y-accountability-partner-method]]
+**related** ↔ [[aku-objetivos-personales-concept]] · [[aku-habit-contract-y-accountability-partner-method]] · [[aku-los-vision-boards-materializan-las-metas-y-elevan-su-probabilidad-claim]]

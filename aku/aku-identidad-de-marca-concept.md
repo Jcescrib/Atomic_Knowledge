@@ -31,7 +31,11 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-marca-concept, aku-esencia-mas-que-logo-claim, aku-plan-de-marca-concept]
+  related:
+    - aku-marca-concept
+    - aku-esencia-mas-que-logo-claim
+    - aku-plan-de-marca-concept
+    - aku-el-poder-de-la-percepcion-concept
 
 sources:
   - raw/cursos/power-mba/4-4-branding/4-4-branding.md
@@ -44,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-marca-concept]] · [[aku-esencia-mas-que-logo-claim]] · [[aku-plan-de-marca-concept]]
+**related** ↔ [[aku-marca-concept]] · [[aku-esencia-mas-que-logo-claim]] · [[aku-plan-de-marca-concept]] · [[aku-el-poder-de-la-percepcion-concept]]

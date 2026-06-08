@@ -27,14 +27,21 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-amenaza-sustitutivos-concept, aku-barreras-de-entrada-concept, aku-poder-proveedores-concept, aku-poder-compradores-concept, aku-rivalidad-competitiva-concept]
+  supported_by:
+    - aku-amenaza-sustitutivos-concept
+    - aku-barreras-de-entrada-concept
+    - aku-poder-proveedores-concept
+    - aku-poder-compradores-concept
+    - aku-rivalidad-competitiva-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-analisis-pest-concept]
+  related:
+    - aku-analisis-pest-concept
+    - aku-lleva-un-book-scouting-report-de-tu-competencia-method
 
 sources:
   - raw/cursos/power-mba/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
@@ -48,4 +55,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-amenaza-sustitutivos-concept]] · [[aku-barreras-de-entrada-concept]] · [[aku-poder-proveedores-concept]] · [[aku-poder-compradores-concept]] · [[aku-rivalidad-competitiva-concept]]
-**related** ↔ [[aku-analisis-pest-concept]]
+**related** ↔ [[aku-analisis-pest-concept]] · [[aku-lleva-un-book-scouting-report-de-tu-competencia-method]]
