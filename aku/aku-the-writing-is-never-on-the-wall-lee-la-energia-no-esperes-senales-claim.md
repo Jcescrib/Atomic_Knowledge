@@ -1,0 +1,48 @@
+---
+type: aku
+aku_class: claim
+id: aku-the-writing-is-never-on-the-wall-lee-la-energia-no-esperes-senales-claim
+statement: >
+  En la vida real «the writing is never on the wall»: nadie te avisa explícitamente de que
+  tu negocio va a hundirse, tu empleo a desaparecer o tu pareja a engañarte (Blockbuster,
+  BlackBerry). Lo que sí puedes leer es la energía a tu alrededor —cómo cambia el trato
+  cuando dejas de importar al bottom line—, y ahí los mensajes están casi tan claros como el
+  aviso bíblico a Belsasar.
+origin: "Curtis «50 Cent» Jackson — Hustle Harder, Hustle Smarter (2020)"
+domain: [50-cent, evolution, perception, foresight]
+
+llm_confidence: 0.50
+
+human_certainty:
+  status: unvalidated
+  iterations: 0
+  context_boundary: ""
+  validated_by: ""
+  validation_date: ""
+  method: ""
+
+epistemic_type: sourced
+
+relations:
+  supported_by: []
+  supports: [aku-evolucionar-o-morir-concept]
+  constrained_by: []
+  constrains: []
+  context_breaks_at: []
+  breaks_context_of: []
+  contradicts: []
+  related: [aku-actua-antes-de-que-caiga-el-hacha-adelantate-a-lo-inevitable-claim]
+
+sources:
+  - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
+
+created: 2026-06-08
+updated: 2026-06-08
+status: active
+status_note: ""
+---
+
+## Relaciones
+
+**supports** → [[aku-evolucionar-o-morir-concept]]
+**related** ↔ [[aku-actua-antes-de-que-caiga-el-hacha-adelantate-a-lo-inevitable-claim]]

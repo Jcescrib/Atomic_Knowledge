@@ -987,3 +987,9 @@ Hustle Harder, Hustle Smarter — Cap. 4 «Knowing Your Value».
 - Cross-chapter (a): `pedir-equity-es-apostar-por-ti` ↔ `apuesta-solo-a-cosas-seguras-la-unica-100-segura-eres-tu` (Ch2).
 - Puentes (b) propuestos para Joan (solape fuerte): pedir-equity↔Naval (equity/own-a-piece)/Hormozi; due-diligence-equity↔equity-value/múltiplos-valoración (Power MBA); negociación↔Power-MBA/Kolenda; tiempo-más-caro↔tiempo-recurso-más-valioso (Jocko The Code)/Naval; just-do-shit↔accountability (Naval); quien-te-emplea-paga-menos↔rent-your-time (Naval).
 - verify_graph: 1922/1922 simétrico, 0 errores.
+
+## 2026-06-08 — ingest
+Hustle Harder, Hustle Smarter — Cap. 5 «Evolve or Die».
+- **+17 AKUs** (2 concept: `evolucionar-o-morir` [núcleo], `las-cuatro-cualidades-de-una-estrella`; 1 method: `meditacion-con-mantra`; 14 claim). Temas: evolucionar-más-allá-del-rol (Falk/Air Jordan), público-nunca-se-equivoca, rol-cambia/nunca-acomodarse, lo-conseguido-no-satisface (Dalio), cambiar-con-la-cultura (Power), éxito-fácil-afianza-viejos-hábitos (Yayo), anclado-en-época-envejece (Banks), writing-never-on-the-wall/actúa-antes-del-hacha (Interscope), expande-tu-círculo (Greene/Chopra), info>cheque, admitir-que-no-sabes, cambiar-de-opinión.
+- Puentes (b) propuestos para Joan: meditación-mantra↔meditación/choiceless-awareness (Naval); evolucionar-o-morir↔adaptación/identidad (Atomic Habits); expande-tu-círculo↔asociarse-con-quien-admiras (Naval)/48laws; cambiar-de-opinión↔strong-opinions-weakly-held (Naval). Nota: Robert Greene/«48 Laws»/«50th Law» citados literalmente (posible (a)/(b) a cluster 48-laws, no cableado). TAKU candidato: framework «4 cualidades de una estrella» (no creado).
+- verify_graph: 1939/1939 simétrico, 0 errores.
