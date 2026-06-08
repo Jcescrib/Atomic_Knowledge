@@ -965,3 +965,12 @@ Hustle Harder, Hustle Smarter — Cap. 1 «Finding Fearlessness».
 - **Dedup-merge cross-corpus**: «correr hacia el miedo» (50 Cent) = `aku-paso-agresivo-hacia-el-miedo-claim` (Jocko) → +fuente 50-cent, llm_confidence 0.50→0.60, related↔concept fearlessness.
 - Puentes nivel (b) propuestos para Joan (NO cableados): `un-poco-de-miedo-y-paranoia-es-util`↔`miedo-al-fracaso-es-bueno` (Jocko); `al-otro-lado-del-miedo-esta-la-libertad`↔`la-libertad-es-el-valor-supremo` (Jocko).
 - verify_graph: 1860/1860 simétrico, 0 errores (tras corregir 5 asimetrías de inversos `related`).
+
+## 2026-06-08 — ingest
+Hustle Harder, Hustle Smarter — Cap. 2 «Heart of a Hustler».
+- **+21 AKUs** (2 concept: `aku-corazon-de-hustler-concept` [núcleo] + `aku-passion-stance-concept`; 1 method `cambiar-un-habito-30-dias`; 18 claim). Cluster: trabajo-duro/out-trabajar/hustlar-duro-prereq/pasión `supports`→corazón-de-hustler.
+- Sub-temas: clean lifestyle (sobriedad-ventaja, confianza-de-dentro, dormir-es-parte-del-hustle), foco (Isaac Wright), passion stance (De Niro/Tupac), visión/metas (definir-claridad, evolucionar, vision-boards), never-break-stride (lo-recupero-en-la-siguiente + resiliencia), instinto + agresivo-no-temerario + apuesta-a-ti-mismo.
+- Cross-chapter (a): `lo-recupero-en-la-siguiente`↔`sacudete-y-sigue` (Ch1); `corazon-de-hustler`↔`calle-y-negocios-comparten-principios` (intro lo nombra literalmente).
+- «Endless tunnel / no happily-ever-after» = misma idea que `sostener-el-exito-es-la-habilidad-decisiva` (misma fuente) → sin AKU nuevo.
+- Puentes (b) propuestos para Joan: cambiar-habito-30-dias↔Atomic Habits (never-miss-twice/identidad); dormir↔salud-prioridad-1 (Naval); estilo-vida-limpio↔health (Naval); trabajo-duro↔enamorate-del-aburrimiento (Atomic); vision-boards↔compartir-objetivos-compromiso. TAKU candidato: tool «vision board» (no creado).
+- verify_graph: 1881/1881 simétrico, 0 errores.
