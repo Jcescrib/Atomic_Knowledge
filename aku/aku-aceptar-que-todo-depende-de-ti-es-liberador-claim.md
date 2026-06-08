@@ -1,0 +1,46 @@
+---
+type: aku
+aku_class: claim
+id: aku-aceptar-que-todo-depende-de-ti-es-liberador-claim
+statement: >
+  Aceptar que todo depende de ti es liberador, no cínico: solo puedes sentir traición cuando
+  crees que te deben algo, y solo resentimiento cuando esperabas ayuda. Al asumir que todo
+  recae sobre ti, te liberas de esas expectativas y puedes enfocar el 100 % de tu energía en
+  ser la mejor versión de ti mismo.
+origin: "Curtis «50 Cent» Jackson — Hustle Harder, Hustle Smarter (2020)"
+domain: [50-cent, entitlement, responsibility, freedom]
+
+llm_confidence: 0.50
+
+human_certainty:
+  status: unvalidated
+  iterations: 0
+  context_boundary: ""
+  validated_by: ""
+  validation_date: ""
+  method: ""
+
+epistemic_type: sourced
+
+relations:
+  supported_by: []
+  supports: [aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept]
+  constrained_by: []
+  constrains: []
+  context_breaks_at: []
+  breaks_context_of: []
+  contradicts: []
+  related: []
+
+sources:
+  - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
+
+created: 2026-06-08
+updated: 2026-06-08
+status: active
+status_note: ""
+---
+
+## Relaciones
+
+**supports** → [[aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept]]
