@@ -35,6 +35,7 @@ relations:
     - aku-derrota-por-mil-rendiciones-pequenas-claim
     - aku-river-principle-concept
     - aku-ley-del-minimo-esfuerzo-concept
+    - aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-conexion-accion-consecuencia-conducta-claim]] · [[aku-not-feeling-it-go-anyway-claim]] · [[aku-derrota-por-mil-rendiciones-pequenas-claim]] · [[aku-river-principle-concept]] · [[aku-ley-del-minimo-esfuerzo-concept]]
+**related** ↔ [[aku-conexion-accion-consecuencia-conducta-claim]] · [[aku-not-feeling-it-go-anyway-claim]] · [[aku-derrota-por-mil-rendiciones-pequenas-claim]] · [[aku-river-principle-concept]] · [[aku-ley-del-minimo-esfuerzo-concept]] · [[aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method]]

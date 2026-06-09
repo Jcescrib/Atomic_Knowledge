@@ -25,13 +25,18 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-canales-marketing-digital-concept]
+  supports:
+    - aku-canales-marketing-digital-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-lead-nurturing-concept, aku-marketing-automation-concept, aku-lead-magnet-descuento-cupon-concept]
+  related:
+    - aku-lead-nurturing-concept
+    - aku-marketing-automation-concept
+    - aku-lead-magnet-descuento-cupon-concept
+    - aku-comunicacion-1a1-vs-1amuchos-concept
 
 sources:
   - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
@@ -45,4 +50,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-canales-marketing-digital-concept]]
-**related** ↔ [[aku-lead-nurturing-concept]] · [[aku-marketing-automation-concept]] · [[aku-lead-magnet-descuento-cupon-concept]]
+**related** ↔ [[aku-lead-nurturing-concept]] · [[aku-marketing-automation-concept]] · [[aku-lead-magnet-descuento-cupon-concept]] · [[aku-comunicacion-1a1-vs-1amuchos-concept]]

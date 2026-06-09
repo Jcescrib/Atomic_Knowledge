@@ -44,6 +44,7 @@ relations:
     - aku-commanders-intent-concept
     - aku-disciplina-da-libertad-de-maniobra-claim
     - aku-plan-but-remain-flexible-concept
+    - aku-formato-contenido-checklist-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -58,4 +59,4 @@ status_note: ""
 
 **supported_by** ← [[aku-stand-back-be-the-tactical-genius-claim]] · [[aku-leaders-checklist-planning-method]] · [[aku-post-operational-debrief-method]] · [[aku-brief-orientado-a-frontline-claim]] · [[aku-calcular-y-mitigar-riesgo-claim]] · [[aku-analisis-constante-medir-efectividad-claim]] · [[aku-decentralizar-proceso-planificacion-claim]]
 
-**related** ↔ [[aku-simple-law-of-combat-concept]] · [[aku-commanders-intent-concept]] · [[aku-disciplina-da-libertad-de-maniobra-claim]] · [[aku-plan-but-remain-flexible-concept]]
+**related** ↔ [[aku-simple-law-of-combat-concept]] · [[aku-commanders-intent-concept]] · [[aku-disciplina-da-libertad-de-maniobra-claim]] · [[aku-plan-but-remain-flexible-concept]] · [[aku-formato-contenido-checklist-concept]]

@@ -34,6 +34,8 @@ relations:
   contradicts: []
   related:
     - aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method
+    - aku-camino-de-menor-resistencia-claim
+    - aku-not-feeling-it-go-anyway-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method]]
+**related** ↔ [[aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method]] · [[aku-camino-de-menor-resistencia-claim]] · [[aku-not-feeling-it-go-anyway-claim]]
