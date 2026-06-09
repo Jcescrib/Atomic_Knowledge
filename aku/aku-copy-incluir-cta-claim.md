@@ -33,6 +33,7 @@ relations:
   related:
     - aku-cta-concept
     - aku-cta-hormozi-concept
+    - aku-reason-why-aumenta-accion-claim
 
 sources:
   - raw/cursos/power-mba/18-info-hacks-copy/18-info-hacks-copy.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supported_by** ← [[aku-hacks-copywriting-concept]]
 
-**related** ↔ [[aku-cta-concept]] · [[aku-cta-hormozi-concept]]
+**related** ↔ [[aku-cta-concept]] · [[aku-cta-hormozi-concept]] · [[aku-reason-why-aumenta-accion-claim]]

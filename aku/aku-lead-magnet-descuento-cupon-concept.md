@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-email-marketing-concept
+    - aku-core-offer-concept
 
 sources:
   - raw/cursos/power-mba/5-5-2-ejemplos-por-tipos-de-lead-magnets/5-5-2-ejemplos-por-tipos-de-lead-magnets.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supported_by** ← [[aku-lead-magnet-concept]]
 
-**related** ↔ [[aku-email-marketing-concept]]
+**related** ↔ [[aku-email-marketing-concept]] · [[aku-core-offer-concept]]

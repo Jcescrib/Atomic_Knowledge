@@ -37,6 +37,8 @@ relations:
   related:
     - aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim
     - aku-autoevaluacion-cuerpo-mente-alma-concept
+    - aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method
+    - aku-dormir-lo-suficiente-es-parte-del-hustle-no-su-enemigo-claim
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -51,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-the-evaluation-concept]]
 
-**related** ↔ [[aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]]
+**related** ↔ [[aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method]] · [[aku-dormir-lo-suficiente-es-parte-del-hustle-no-su-enemigo-claim]]

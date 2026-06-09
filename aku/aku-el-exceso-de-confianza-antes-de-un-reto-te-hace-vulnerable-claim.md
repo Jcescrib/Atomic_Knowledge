@@ -33,6 +33,8 @@ relations:
   related:
     - aku-liderar-es-articular-la-oportunidad-que-ves-hasta-que-la-otra-persona-la-vea-claim
     - aku-la-confianza-sin-miedo-viene-de-la-preparacion-claim
+    - aku-balancing-praise-elogio-con-cautela-claim
+    - aku-disease-of-victory-concept
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-liderar-es-articular-la-oportunidad-que-ves-hasta-que-la-otra-persona-la-vea-claim]] · [[aku-la-confianza-sin-miedo-viene-de-la-preparacion-claim]]
+**related** ↔ [[aku-liderar-es-articular-la-oportunidad-que-ves-hasta-que-la-otra-persona-la-vea-claim]] · [[aku-la-confianza-sin-miedo-viene-de-la-preparacion-claim]] · [[aku-balancing-praise-elogio-con-cautela-claim]] · [[aku-disease-of-victory-concept]]

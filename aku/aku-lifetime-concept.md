@@ -31,7 +31,12 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-churn-rate-concept, aku-cltv-concept, aku-arpu-concept, aku-cltv-subscription-formula]
+  related:
+    - aku-churn-rate-concept
+    - aku-cltv-concept
+    - aku-arpu-concept
+    - aku-cltv-subscription-formula
+    - aku-lifetime-discount-en-churn-point
 
 sources:
   - raw/cursos/power-mba/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md
@@ -45,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-churn-rate-concept]] · [[aku-cltv-concept]] · [[aku-arpu-concept]] · [[aku-cltv-subscription-formula]]
+**related** ↔ [[aku-churn-rate-concept]] · [[aku-cltv-concept]] · [[aku-arpu-concept]] · [[aku-cltv-subscription-formula]] · [[aku-lifetime-discount-en-churn-point]]

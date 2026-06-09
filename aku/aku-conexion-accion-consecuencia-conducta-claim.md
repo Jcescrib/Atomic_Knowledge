@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-camino-de-menor-resistencia-claim
+    - aku-el-castigo-inmediato-reduce-el-mal-habito-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-incentivos-simples-pocas-metricas-method]]
 
-**related** ↔ [[aku-camino-de-menor-resistencia-claim]]
+**related** ↔ [[aku-camino-de-menor-resistencia-claim]] · [[aku-el-castigo-inmediato-reduce-el-mal-habito-claim]]

@@ -39,6 +39,7 @@ relations:
     - aku-network-effect-concept
     - aku-recomendacion-vs-viralizacion-concept
     - aku-referral-growth-exponential-claim
+    - aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept
 
 sources:
   - "raw/cursos/power-mba/2-2-1-tiposmotorescrecimiento/2-2-1-tiposmotorescrecimiento.md"
@@ -52,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-motor-crecimiento-viral-concept]] · [[aku-network-effect-concept]] · [[aku-recomendacion-vs-viralizacion-concept]] · [[aku-referral-growth-exponential-claim]]
+**related** ↔ [[aku-motor-crecimiento-viral-concept]] · [[aku-network-effect-concept]] · [[aku-recomendacion-vs-viralizacion-concept]] · [[aku-referral-growth-exponential-claim]] · [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]]

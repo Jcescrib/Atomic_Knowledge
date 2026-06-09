@@ -34,6 +34,7 @@ relations:
   related:
     - aku-no-cuentes-con-motivacion-cuenta-disciplina-claim
     - aku-self-discipline-viene-de-dentro-concept
+    - aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-cuentes-con-motivacion-cuenta-disciplina-claim]] · [[aku-self-discipline-viene-de-dentro-concept]]
+**related** ↔ [[aku-no-cuentes-con-motivacion-cuenta-disciplina-claim]] · [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept]]

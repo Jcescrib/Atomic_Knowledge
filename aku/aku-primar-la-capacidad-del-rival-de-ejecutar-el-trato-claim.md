@@ -31,6 +31,7 @@ relations:
   contradicts: []
   related:
     - aku-imagine-reading-this-book-la-simulacion-mental-guia-las-decisiones-concept
+    - aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supported_by** ← [[aku-simulation-fluency-simulamos-resultado-menos-proceso-concept]]
 
-**related** ↔ [[aku-imagine-reading-this-book-la-simulacion-mental-guia-las-decisiones-concept]]
+**related** ↔ [[aku-imagine-reading-this-book-la-simulacion-mental-guia-las-decisiones-concept]] · [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]]

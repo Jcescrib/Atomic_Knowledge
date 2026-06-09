@@ -46,7 +46,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-ecuacion-valor-claim
+    - aku-emocion-prevalece-razon-claim
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -60,3 +62,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-simulation-fluency-simulamos-resultado-menos-proceso-concept]] · [[aku-la-escala-de-decision-equilibra-cuatro-conductas-concept]] · [[aku-evaluamos-por-comparaciones-relativas-context-effects-concept]] · [[aku-gamificar-la-eleccion-experiencial-vs-instrumental-claim]] · [[aku-activar-una-mentalidad-de-cual-elegir-which-to-choose-claim]] · [[aku-primar-la-eleccion-con-diseno-visual-semantic-priming-claim]] · [[aku-reducir-la-culpa-de-las-elecciones-emocionales-claim]] · [[aku-ofrecer-incentivos-de-caridad-en-productos-emocionales-claim]] · [[aku-extraer-esfuerzo-antes-de-elecciones-emocionales-claim]] · [[aku-anadir-mas-atributos-a-las-descripciones-de-productos-emocionales-claim]] · [[aku-usar-lenguaje-asertivo-en-productos-emocionales-claim]] · [[aku-aislar-las-opciones-emocionales-claim]] · [[aku-mostrar-el-surtido-completo-de-opciones-claim]] · [[aku-subir-los-atributos-indeseables-por-encima-de-cero-zero-comparison-claim]] · [[aku-dividir-los-atributos-importantes-en-mas-items-claim]] · [[aku-anadir-senales-sensoriales-para-captar-atencion-claim]] · [[aku-colocar-la-opcion-objetivo-en-el-centro-claim]] · [[aku-colocar-la-opcion-objetivo-primera-o-ultima-claim]] · [[aku-alinear-las-caracteristicas-con-las-de-la-competencia-claim]]
+
+**related** ↔ [[aku-ecuacion-valor-claim]] · [[aku-emocion-prevalece-razon-claim]]

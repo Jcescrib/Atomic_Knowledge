@@ -38,6 +38,8 @@ relations:
     - aku-reducir-costes-no-precio-claim
     - aku-ampliar-gap-valor-precio-claim
     - aku-value-equation-concept
+    - aku-choice-psychology-tres-mecanismos-de-decision-concept
+    - aku-simulation-fluency-simulamos-resultado-menos-proceso-concept
 
 sources:
   - "raw/cursos/power-mba/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a.md"
@@ -53,4 +55,4 @@ status_note: ""
 
 **supports** → [[aku-propuesta-de-valor-concept]]
 
-**related** ↔ [[aku-power-value-modelo-concept]] · [[aku-coste-percibido-amplio-concept]] · [[aku-reducir-costes-no-precio-claim]] · [[aku-ampliar-gap-valor-precio-claim]] · [[aku-value-equation-concept]]
+**related** ↔ [[aku-power-value-modelo-concept]] · [[aku-coste-percibido-amplio-concept]] · [[aku-reducir-costes-no-precio-claim]] · [[aku-ampliar-gap-valor-precio-claim]] · [[aku-value-equation-concept]] · [[aku-choice-psychology-tres-mecanismos-de-decision-concept]] · [[aku-simulation-fluency-simulamos-resultado-menos-proceso-concept]]

@@ -26,13 +26,17 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-fortalezas-debilidades-motivaciones-concept]
+  supports:
+    - aku-fortalezas-debilidades-motivaciones-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-diagnostico-estrategico-personal-concept, aku-objetivos-personales-concept]
+  related:
+    - aku-diagnostico-estrategico-personal-concept
+    - aku-objetivos-personales-concept
+    - aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim
 
 sources:
   - raw/cursos/power-mba/08-01-02-herramientasdedesarrollopersonal/08-01-02-herramientasdedesarrollopersonal.md
@@ -46,4 +50,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-fortalezas-debilidades-motivaciones-concept]]
-**related** ↔ [[aku-diagnostico-estrategico-personal-concept]] · [[aku-objetivos-personales-concept]]
+**related** ↔ [[aku-diagnostico-estrategico-personal-concept]] · [[aku-objetivos-personales-concept]] · [[aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim]]

@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-intenciones-no-importan-importan-las-acciones-claim
+    - aku-motivaciones-desde-experiencias-pasadas-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-intenciones-no-importan-importan-las-acciones-claim]]
+**related** ↔ [[aku-intenciones-no-importan-importan-las-acciones-claim]] · [[aku-motivaciones-desde-experiencias-pasadas-concept]]

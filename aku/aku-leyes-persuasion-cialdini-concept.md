@@ -46,6 +46,13 @@ relations:
     - aku-copy-aportar-pruebas-claim
     - aku-methods-step3-activar-presion-social-concept
     - aku-methods-proceso-de-persuasion-en-siete-pasos-concept
+    - aku-scarcity-limited-seats-concept
+    - aku-tipos-y-tacticas-escasez-concept
+    - aku-llevar-cafe-y-pasteles-a-la-negociacion-claim
+    - aku-programar-una-interaccion-futura-claim
+    - aku-anadir-una-contingencia-simple-a-tu-oferta-claim
+    - aku-landing-page-permiso-concept
+    - aku-trial-penalty-card-y-commitment
 sources:
   - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
 created: 2026-06-03
@@ -58,4 +65,4 @@ status_note: ""
 
 **supported_by** ← [[aku-cialdini-reciprocidad-concept]] · [[aku-cialdini-compromiso-consistencia-concept]] · [[aku-cialdini-prueba-social-concept]] · [[aku-cialdini-simpatia-concept]] · [[aku-cialdini-autoridad-concept]] · [[aku-cialdini-escasez-concept]] · [[aku-cialdini-pertenencia-concept]]
 
-**related** ↔ [[aku-emocion-prevalece-razon-claim]] · [[aku-vender-una-accion-concept]] · [[aku-lead-magnet-concept]] · [[aku-marketing-influencers-concept]] · [[aku-boca-a-boca-supera-campana-claim]] · [[aku-levantar-financiacion-como-ventas-claim]] · [[aku-palabras-frases-persuasivas-concept]] · [[aku-libros-copywriting-recomendados-concept]] · [[aku-copy-aportar-pruebas-claim]] · [[aku-methods-step3-activar-presion-social-concept]] · [[aku-methods-proceso-de-persuasion-en-siete-pasos-concept]]
+**related** ↔ [[aku-emocion-prevalece-razon-claim]] · [[aku-vender-una-accion-concept]] · [[aku-lead-magnet-concept]] · [[aku-marketing-influencers-concept]] · [[aku-boca-a-boca-supera-campana-claim]] · [[aku-levantar-financiacion-como-ventas-claim]] · [[aku-palabras-frases-persuasivas-concept]] · [[aku-libros-copywriting-recomendados-concept]] · [[aku-copy-aportar-pruebas-claim]] · [[aku-methods-step3-activar-presion-social-concept]] · [[aku-methods-proceso-de-persuasion-en-siete-pasos-concept]] · [[aku-scarcity-limited-seats-concept]] · [[aku-tipos-y-tacticas-escasez-concept]] · [[aku-llevar-cafe-y-pasteles-a-la-negociacion-claim]] · [[aku-programar-una-interaccion-futura-claim]] · [[aku-anadir-una-contingencia-simple-a-tu-oferta-claim]] · [[aku-landing-page-permiso-concept]] · [[aku-trial-penalty-card-y-commitment]]

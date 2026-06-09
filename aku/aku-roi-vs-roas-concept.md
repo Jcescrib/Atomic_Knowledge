@@ -33,7 +33,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-objetivos-negocio-concept, aku-formula-objetivos-marketing-method]
+  related:
+    - aku-objetivos-negocio-concept
+    - aku-formula-objetivos-marketing-method
+    - aku-formula-de-la-riqueza-e-ingreso-de-naval-method
 
 sources:
   - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-objetivos-negocio-concept]] · [[aku-formula-objetivos-marketing-method]]
+**related** ↔ [[aku-objetivos-negocio-concept]] · [[aku-formula-objetivos-marketing-method]] · [[aku-formula-de-la-riqueza-e-ingreso-de-naval-method]]

@@ -35,6 +35,8 @@ relations:
   related:
     - aku-cta-concept
     - aku-enforzar-estandares-siempre-con-el-porque-claim
+    - aku-copy-incluir-cta-claim
+    - aku-dar-una-razon-para-el-descuento-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -47,6 +49,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cta-concept]] · [[aku-enforzar-estandares-siempre-con-el-porque-claim]]
+**related** ↔ [[aku-cta-concept]] · [[aku-enforzar-estandares-siempre-con-el-porque-claim]] · [[aku-copy-incluir-cta-claim]] · [[aku-dar-una-razon-para-el-descuento-claim]]
 
 **supports** → [[aku-palabras-frases-persuasivas-concept]]

@@ -56,6 +56,7 @@ relations:
   contradicts: []
   related:
     - aku-activar-una-mentalidad-de-cual-elegir-which-to-choose-claim
+    - aku-cuello-botella-funnel-concept
 
 sources:
   - raw/libros/kolenda/ecommerce-psychology-by-nick-kolenda/ecommerce-psychology-by-nick-kolenda.md
@@ -70,4 +71,4 @@ status_note: ""
 
 **supported_by** ← [[aku-oscurecer-el-borde-superior-de-la-interfaz-claim]] · [[aku-usar-visuales-en-las-etapas-tempranas-de-eleccion-claim]] · [[aku-disponer-los-productos-horizontalmente-para-explorar-claim]] · [[aku-recomendar-una-opcion-genera-momentum-claim]] · [[aku-mostrar-el-unboxing-del-producto-claim]] · [[aku-ayudar-al-usuario-a-imaginar-tocar-el-producto-claim]] · [[aku-insertar-la-foto-del-usuario-en-la-interfaz-claim]] · [[aku-restringir-la-cantidad-de-productos-de-estatus-escasez-claim]] · [[aku-mostrar-resenas-imperfectas-claim]] · [[aku-insertar-contenido-persuasivo-en-las-resenas-claim]] · [[aku-responder-a-las-resenas-negativas-claim]] · [[aku-traer-los-botones-al-primer-plano-claim]] · [[aku-describir-el-siguiente-paso-concreto-en-el-boton-claim]] · [[aku-evitar-texto-cursi-y-exclamaciones-en-los-botones-claim]] · [[aku-mostrar-opciones-de-rechazo-feas-claim]] · [[aku-mostrar-una-afirmacion-positiva-cerca-del-boton-claim]] · [[aku-mencionar-las-palabras-click-o-tap-cerca-del-boton-claim]] · [[aku-facilitar-el-movimiento-simbolico-del-progreso-en-el-checkout-claim]] · [[aku-ocultar-los-enlaces-de-salida-en-el-checkout-claim]] · [[aku-restar-saliencia-al-campo-de-cupon-claim]] · [[aku-reducir-la-saliencia-de-las-opciones-competidoras-tras-comprar-claim]] · [[aku-corregir-las-erratas-en-las-resenas-claim]] · [[aku-censurar-los-tacos-en-las-resenas-claim]] · [[aku-premiar-las-resenas-con-fotos-o-video-claim]] · [[aku-mostrar-nombres-reales-en-las-resenas-claim]] · [[aku-mostrar-prueba-de-consumo-compra-verificada-en-las-resenas-claim]] · [[aku-pedir-valoracion-en-multiples-dimensiones-en-las-resenas-claim]]
 
-**related** ↔ [[aku-activar-una-mentalidad-de-cual-elegir-which-to-choose-claim]]
+**related** ↔ [[aku-activar-una-mentalidad-de-cual-elegir-which-to-choose-claim]] · [[aku-cuello-botella-funnel-concept]]

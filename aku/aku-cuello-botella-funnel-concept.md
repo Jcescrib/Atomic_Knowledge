@@ -37,6 +37,7 @@ relations:
     - aku-power-funnel-concept
     - aku-constraint-mayor-drop-off-claim
     - aku-ga-page-value-method
+    - aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept
 
 sources:
   - raw/cursos/power-mba/5-6-1-conceptos-clave-conversi-on/5-6-1-conceptos-clave-conversi-on.md
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cro-concept]] · [[aku-power-funnel-concept]] · [[aku-constraint-mayor-drop-off-claim]] · [[aku-ga-page-value-method]]
+**related** ↔ [[aku-cro-concept]] · [[aku-power-funnel-concept]] · [[aku-constraint-mayor-drop-off-claim]] · [[aku-ga-page-value-method]] · [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]

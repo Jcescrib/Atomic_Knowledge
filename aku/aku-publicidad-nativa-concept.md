@@ -25,13 +25,19 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-formatos-ubicaciones-publicidad-nativa-concept]
+  supports:
+    - aku-formatos-ubicaciones-publicidad-nativa-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-estilo-editorial-concept, aku-canales-marketing-digital-concept, aku-red-display-concept, aku-anuncios-aceptables-concept]
+  related:
+    - aku-estilo-editorial-concept
+    - aku-canales-marketing-digital-concept
+    - aku-red-display-concept
+    - aku-anuncios-aceptables-concept
+    - aku-evitar-medios-que-muestren-un-emplazamiento-pagado-claim
 
 sources:
   - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
@@ -45,4 +51,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-formatos-ubicaciones-publicidad-nativa-concept]]
-**related** ↔ [[aku-estilo-editorial-concept]] · [[aku-canales-marketing-digital-concept]] · [[aku-red-display-concept]] · [[aku-anuncios-aceptables-concept]]
+**related** ↔ [[aku-estilo-editorial-concept]] · [[aku-canales-marketing-digital-concept]] · [[aku-red-display-concept]] · [[aku-anuncios-aceptables-concept]] · [[aku-evitar-medios-que-muestren-un-emplazamiento-pagado-claim]]

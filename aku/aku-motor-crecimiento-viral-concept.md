@@ -44,6 +44,7 @@ relations:
     - aku-coeficiente-viralidad-concept
     - aku-cac-concept
     - aku-network-effect-concept
+    - aku-pedir-referidos-como-oferta-claim
 
 sources:
   - "raw/cursos/power-mba/2-2-1-tiposmotorescrecimiento/2-2-1-tiposmotorescrecimiento.md"
@@ -58,4 +59,4 @@ status_note: ""
 
 **supported_by** ← [[aku-viral-bajo-cltv-compatible-claim]]
 
-**related** ↔ [[aku-motor-crecimiento-concept]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-motor-crecimiento-sticky-concept]] · [[aku-coeficiente-viralidad-concept]] · [[aku-cac-concept]] · [[aku-network-effect-concept]]
+**related** ↔ [[aku-motor-crecimiento-concept]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-motor-crecimiento-sticky-concept]] · [[aku-coeficiente-viralidad-concept]] · [[aku-cac-concept]] · [[aku-network-effect-concept]] · [[aku-pedir-referidos-como-oferta-claim]]

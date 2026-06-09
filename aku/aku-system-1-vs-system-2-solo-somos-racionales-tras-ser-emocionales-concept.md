@@ -36,6 +36,7 @@ relations:
   related:
     - aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept
     - aku-el-deseo-y-el-ego-nublan-la-realidad-claim
+    - aku-emocion-prevalece-razon-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept]] · [[aku-el-deseo-y-el-ego-nublan-la-realidad-claim]]
+**related** ↔ [[aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept]] · [[aku-el-deseo-y-el-ego-nublan-la-realidad-claim]] · [[aku-emocion-prevalece-razon-claim]]

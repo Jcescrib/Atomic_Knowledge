@@ -36,6 +36,11 @@ relations:
     - aku-network-effect-concept
     - aku-masa-critica-concept
     - aku-bootstrapping-concept
+    - aku-circulo-vicioso-concept
+    - aku-circulo-virtuoso-concept
+    - aku-valor-independiente-usuarios-modelo-lineal-claim
+    - aku-factores-crecimiento-blitzscaling-concept
+    - aku-factor-crecimiento-network-effects-concept
 sources: []
 created: 2026-06-03
 updated: 2026-06-03
@@ -45,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-modelo-free-concept]] · [[aku-modelo-freemium-concept]] · [[aku-huevo-gallina-concept]] · [[aku-network-effect-concept]] · [[aku-masa-critica-concept]] · [[aku-bootstrapping-concept]]
+**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-modelo-free-concept]] · [[aku-modelo-freemium-concept]] · [[aku-huevo-gallina-concept]] · [[aku-network-effect-concept]] · [[aku-masa-critica-concept]] · [[aku-bootstrapping-concept]] · [[aku-circulo-vicioso-concept]] · [[aku-circulo-virtuoso-concept]] · [[aku-valor-independiente-usuarios-modelo-lineal-claim]] · [[aku-factores-crecimiento-blitzscaling-concept]] · [[aku-factor-crecimiento-network-effects-concept]]

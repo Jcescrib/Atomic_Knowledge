@@ -37,6 +37,9 @@ relations:
     - aku-madrugar-predawn-stand-to-claim
     - aku-conciliar-sueno-temprano-pasos-method
     - aku-power-nap-pies-elevados-method
+    - aku-dormir-lo-suficiente-es-parte-del-hustle-no-su-enemigo-claim
+    - aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim
+    - aku-high-roi-habit-stack-concept
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -49,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-madrugar-predawn-stand-to-claim]] · [[aku-conciliar-sueno-temprano-pasos-method]] · [[aku-power-nap-pies-elevados-method]]
+**related** ↔ [[aku-madrugar-predawn-stand-to-claim]] · [[aku-conciliar-sueno-temprano-pasos-method]] · [[aku-power-nap-pies-elevados-method]] · [[aku-dormir-lo-suficiente-es-parte-del-hustle-no-su-enemigo-claim]] · [[aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim]] · [[aku-high-roi-habit-stack-concept]]

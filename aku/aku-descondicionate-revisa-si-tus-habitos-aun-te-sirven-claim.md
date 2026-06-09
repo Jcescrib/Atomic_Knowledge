@@ -36,6 +36,7 @@ relations:
     - aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim
     - aku-la-felicidad-es-una-habilidad-que-se-aprende-concept
     - aku-debes-editar-y-expandir-tu-identidad-continuamente-claim
+    - aku-habits-scorecard-method
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-mente-es-un-musculo-que-puedes-reprogramar-con-consciencia-claim]] · [[aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim]] · [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-debes-editar-y-expandir-tu-identidad-continuamente-claim]]
+**related** ↔ [[aku-la-mente-es-un-musculo-que-puedes-reprogramar-con-consciencia-claim]] · [[aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim]] · [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-debes-editar-y-expandir-tu-identidad-continuamente-claim]] · [[aku-habits-scorecard-method]]

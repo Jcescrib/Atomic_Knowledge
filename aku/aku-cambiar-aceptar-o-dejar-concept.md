@@ -45,6 +45,7 @@ relations:
     - aku-nosotros-somos-maleables-y-el-mundo-es-en-gran-parte-fijo-claim
     - aku-persona-feliz-es-la-que-interpreta-sin-perder-su-paz-innata-claim
     - aku-se-encuentra-paz-cultivando-indiferencia-a-lo-que-no-controlas-claim
+    - aku-good-mindset-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -57,4 +58,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-felicidad-real-es-un-subproducto-de-la-paz-via-aceptacion-claim]] · [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]] · [[aku-abrazar-la-muerte-da-sentido-y-no-hay-legado-concept]] · [[aku-el-sufrimiento-es-el-momento-de-ver-la-realidad-como-es-concept]] · [[aku-la-ansiedad-son-pensamientos-en-marcha-elige-la-paz-sobre-el-pensamiento-claim]] · [[aku-la-mayor-parte-del-sufrimiento-viene-de-la-evitacion-claim]] · [[aku-la-unica-paz-interior-es-abandonar-la-idea-de-problemas-claim]] · [[aku-los-celos-son-inutiles-no-querrias-ser-otra-persona-al-100-claim]] · [[aku-los-verdaderos-ganadores-salen-del-juego-por-completo-claim]] · [[aku-nosotros-somos-maleables-y-el-mundo-es-en-gran-parte-fijo-claim]] · [[aku-persona-feliz-es-la-que-interpreta-sin-perder-su-paz-innata-claim]] · [[aku-se-encuentra-paz-cultivando-indiferencia-a-lo-que-no-controlas-claim]]
+**related** ↔ [[aku-la-felicidad-real-es-un-subproducto-de-la-paz-via-aceptacion-claim]] · [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]] · [[aku-abrazar-la-muerte-da-sentido-y-no-hay-legado-concept]] · [[aku-el-sufrimiento-es-el-momento-de-ver-la-realidad-como-es-concept]] · [[aku-la-ansiedad-son-pensamientos-en-marcha-elige-la-paz-sobre-el-pensamiento-claim]] · [[aku-la-mayor-parte-del-sufrimiento-viene-de-la-evitacion-claim]] · [[aku-la-unica-paz-interior-es-abandonar-la-idea-de-problemas-claim]] · [[aku-los-celos-son-inutiles-no-querrias-ser-otra-persona-al-100-claim]] · [[aku-los-verdaderos-ganadores-salen-del-juego-por-completo-claim]] · [[aku-nosotros-somos-maleables-y-el-mundo-es-en-gran-parte-fijo-claim]] · [[aku-persona-feliz-es-la-que-interpreta-sin-perder-su-paz-innata-claim]] · [[aku-se-encuentra-paz-cultivando-indiferencia-a-lo-que-no-controlas-claim]] · [[aku-good-mindset-concept]]

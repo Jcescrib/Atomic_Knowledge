@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-magic-naming-concept
+    - aku-ajustar-los-numerales-al-nombre-o-cumpleanos-egotismo-implicito-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-magic-naming-concept]]
+**related** ↔ [[aku-magic-naming-concept]] · [[aku-ajustar-los-numerales-al-nombre-o-cumpleanos-egotismo-implicito-claim]]

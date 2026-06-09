@@ -36,6 +36,7 @@ relations:
   related:
     - aku-delivery-cube-concept
     - aku-problem-solution-cycle-concept
+    - aku-lead-magnet-prueba-producto-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supported_by** ← [[aku-lead-magnet-concept]]
 
-**related** ↔ [[aku-delivery-cube-concept]] · [[aku-problem-solution-cycle-concept]]
+**related** ↔ [[aku-delivery-cube-concept]] · [[aku-problem-solution-cycle-concept]] · [[aku-lead-magnet-prueba-producto-concept]]

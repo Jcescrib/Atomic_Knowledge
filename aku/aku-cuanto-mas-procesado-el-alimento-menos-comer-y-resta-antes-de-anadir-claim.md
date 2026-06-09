@@ -33,6 +33,7 @@ relations:
   related:
     - aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept
     - aku-dieta-paleo-fuel-concept
+    - aku-regla-100-no-80-20-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-dieta-paleo-fuel-concept]]
+**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-dieta-paleo-fuel-concept]] · [[aku-regla-100-no-80-20-claim]]

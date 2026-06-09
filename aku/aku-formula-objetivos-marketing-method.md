@@ -34,7 +34,12 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-objetivos-negocio-concept, aku-palancas-marketing-digital-concept, aku-cltv-minus-cac-concept, aku-roi-vs-roas-concept]
+  related:
+    - aku-objetivos-negocio-concept
+    - aku-palancas-marketing-digital-concept
+    - aku-cltv-minus-cac-concept
+    - aku-roi-vs-roas-concept
+    - aku-grand-slam-offer-tres-palancas-claim
 
 sources:
   - raw/cursos/power-mba/5-3-2-objetivos-formula-que-lo-relaciona-todo/5-3-2-objetivos-formula-que-lo-relaciona-todo.md
@@ -47,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-objetivos-negocio-concept]] · [[aku-palancas-marketing-digital-concept]] · [[aku-cltv-minus-cac-concept]] · [[aku-roi-vs-roas-concept]]
+**related** ↔ [[aku-objetivos-negocio-concept]] · [[aku-palancas-marketing-digital-concept]] · [[aku-cltv-minus-cac-concept]] · [[aku-roi-vs-roas-concept]] · [[aku-grand-slam-offer-tres-palancas-claim]]

@@ -37,6 +37,7 @@ relations:
     - aku-nunca-complacencia-subestimar-enemigo-claim
     - aku-lideres-nunca-satisfechos-mejora-continua-claim
     - aku-be-approachable-pero-cuidado-con-las-palabras-claim
+    - aku-el-exceso-de-confianza-antes-de-un-reto-te-hace-vulnerable-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-disease-of-victory-concept]] · [[aku-nunca-complacencia-subestimar-enemigo-claim]] · [[aku-lideres-nunca-satisfechos-mejora-continua-claim]] · [[aku-be-approachable-pero-cuidado-con-las-palabras-claim]]
+**related** ↔ [[aku-disease-of-victory-concept]] · [[aku-nunca-complacencia-subestimar-enemigo-claim]] · [[aku-lideres-nunca-satisfechos-mejora-continua-claim]] · [[aku-be-approachable-pero-cuidado-con-las-palabras-claim]] · [[aku-el-exceso-de-confianza-antes-de-un-reto-te-hace-vulnerable-claim]]

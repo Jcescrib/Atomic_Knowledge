@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-continuity-offer-concept
+    - aku-lifetime-concept
+    - aku-motor-crecimiento-sticky-concept
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-continuity-offer-concept]]
+**related** ↔ [[aku-continuity-offer-concept]] · [[aku-lifetime-concept]] · [[aku-motor-crecimiento-sticky-concept]]

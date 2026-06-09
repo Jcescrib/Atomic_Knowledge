@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-paid-ads-concept
+    - aku-leyes-persuasion-cialdini-concept
+    - aku-cialdini-compromiso-consistencia-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-paid-ads-concept]]
+**related** ↔ [[aku-paid-ads-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-cialdini-compromiso-consistencia-concept]]

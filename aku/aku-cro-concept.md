@@ -40,6 +40,7 @@ relations:
     - aku-landing-page-concept
     - aku-cta-concept
     - aku-stack-herramientas-cro-concept
+    - aku-constraint-mayor-drop-off-claim
 sources:
   - raw/cursos/power-mba/5-6-1-conceptos-clave-conversi-on/5-6-1-conceptos-clave-conversi-on.md
 created: 2026-06-03
@@ -51,4 +52,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-proceso-cro-method]] · [[aku-plataformas-analiticas-medicion-conversiones-concept]] · [[aku-herramientas-analitica-que-pasa-concept]] · [[aku-user-testing-remoto-mapas-calor-concept]] · [[aku-user-testing-presencial-concept]]
-**related** ↔ [[aku-conversion-olvidada-claim]] · [[aku-palancas-marketing-digital-concept]] · [[aku-power-funnel-concept]] · [[aku-piramide-conversion-concept]] · [[aku-cuello-botella-funnel-concept]] · [[aku-landing-page-concept]] · [[aku-cta-concept]] · [[aku-stack-herramientas-cro-concept]]
+**related** ↔ [[aku-conversion-olvidada-claim]] · [[aku-palancas-marketing-digital-concept]] · [[aku-power-funnel-concept]] · [[aku-piramide-conversion-concept]] · [[aku-cuello-botella-funnel-concept]] · [[aku-landing-page-concept]] · [[aku-cta-concept]] · [[aku-stack-herramientas-cro-concept]] · [[aku-constraint-mayor-drop-off-claim]]

@@ -35,6 +35,8 @@ relations:
   related:
     - aku-goodwill-genera-referidos-concept
     - aku-lead-getters-apalancamiento-concept
+    - aku-recomendacion-vs-viralizacion-concept
+    - aku-motor-crecimiento-viral-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-goodwill-genera-referidos-concept]] · [[aku-lead-getters-apalancamiento-concept]]
+**related** ↔ [[aku-goodwill-genera-referidos-concept]] · [[aku-lead-getters-apalancamiento-concept]] · [[aku-recomendacion-vs-viralizacion-concept]] · [[aku-motor-crecimiento-viral-concept]]

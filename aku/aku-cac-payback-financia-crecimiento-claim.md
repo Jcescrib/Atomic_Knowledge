@@ -37,6 +37,7 @@ relations:
   related:
     - aku-motor-crecimiento-pago-concept
     - aku-cac-payback-concept
+    - aku-money-model-concept
 
 sources:
   - "raw/cursos/power-mba/2-2-1-tiposmotorescrecimiento/2-2-1-tiposmotorescrecimiento.md"
@@ -49,6 +50,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-motor-crecimiento-pago-concept]] · [[aku-cac-payback-concept]]
+**related** ↔ [[aku-motor-crecimiento-pago-concept]] · [[aku-cac-payback-concept]] · [[aku-money-model-concept]]
 
 **supported_by** ← [[aku-client-financed-acquisition-concept]] · [[aku-money-model-rompe-cash-bottleneck]]

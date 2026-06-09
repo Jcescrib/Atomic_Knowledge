@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-downsell-offer-concept
+    - aku-metricas-accionables-concept
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-downsell-offer-concept]]
+**related** ↔ [[aku-downsell-offer-concept]] · [[aku-metricas-accionables-concept]]

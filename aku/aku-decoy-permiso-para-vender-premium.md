@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-decoy-offer-concept
+    - aku-sacrificio-real-vs-decoy-concept
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-decoy-offer-concept]]
+**related** ↔ [[aku-decoy-offer-concept]] · [[aku-sacrificio-real-vs-decoy-concept]]

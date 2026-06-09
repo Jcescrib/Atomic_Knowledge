@@ -32,6 +32,7 @@ relations:
     - aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim
     - aku-hacer-la-primera-oferta-anclaje-claim
     - aku-un-numero-mayor-sugiere-un-producto-mas-avanzado-claim
+    - aku-cuatro-upsells-concept
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -46,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]] · [[aku-hacer-la-primera-oferta-anclaje-claim]] · [[aku-un-numero-mayor-sugiere-un-producto-mas-avanzado-claim]]
+**related** ↔ [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]] · [[aku-hacer-la-primera-oferta-anclaje-claim]] · [[aku-un-numero-mayor-sugiere-un-producto-mas-avanzado-claim]] · [[aku-cuatro-upsells-concept]]

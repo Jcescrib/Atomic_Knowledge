@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-casi-todo-lo-que-se-lee-busca-aprobacion-social-los-retornos-estan-fuera-del-rebano-claim
+    - aku-methods-step3-activar-presion-social-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-casi-todo-lo-que-se-lee-busca-aprobacion-social-los-retornos-estan-fuera-del-rebano-claim]]
+**related** ↔ [[aku-casi-todo-lo-que-se-lee-busca-aprobacion-social-los-retornos-estan-fuera-del-rebano-claim]] · [[aku-methods-step3-activar-presion-social-concept]]

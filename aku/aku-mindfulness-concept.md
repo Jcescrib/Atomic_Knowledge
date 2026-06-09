@@ -39,6 +39,7 @@ relations:
     - aku-descansos-un-minuto-method
     - aku-mente-mono-no-estar-presente-concept
     - aku-meditacion-es-apagar-a-la-sociedad-y-escucharte-y-adopta-muchas-formas-claim
+    - aku-meditar-60-min-60-dias-para-llegar-a-un-inbox-cero-mental-method
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-mente-de-mono-concept]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-single-tasking-foco-una-tarea-claim]] · [[aku-descansos-un-minuto-method]] · [[aku-mente-mono-no-estar-presente-concept]] · [[aku-meditacion-es-apagar-a-la-sociedad-y-escucharte-y-adopta-muchas-formas-claim]]
+**related** ↔ [[aku-mente-de-mono-concept]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-single-tasking-foco-una-tarea-claim]] · [[aku-descansos-un-minuto-method]] · [[aku-mente-mono-no-estar-presente-concept]] · [[aku-meditacion-es-apagar-a-la-sociedad-y-escucharte-y-adopta-muchas-formas-claim]] · [[aku-meditar-60-min-60-dias-para-llegar-a-un-inbox-cero-mental-method]]

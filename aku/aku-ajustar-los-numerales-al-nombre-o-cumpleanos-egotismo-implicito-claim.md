@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-tu-nombre-capta-la-atencion-cocktail-party-claim
+    - aku-implicit-egotism-concept
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-tu-nombre-capta-la-atencion-cocktail-party-claim]]
+**related** ↔ [[aku-tu-nombre-capta-la-atencion-cocktail-party-claim]] · [[aku-implicit-egotism-concept]]

@@ -27,13 +27,19 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-objetivos-vs-resultados-clave-concept]
-  constrained_by: [aku-beneficios-okr-claim]
+  supports:
+    - aku-objetivos-vs-resultados-clave-concept
+  constrained_by:
+    - aku-beneficios-okr-claim
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-cascada-estrategica-ejecucion-concept, aku-objetivos-negocio-concept, aku-ajuste-objetivos-tradicional-concept]
+  related:
+    - aku-cascada-estrategica-ejecucion-concept
+    - aku-objetivos-negocio-concept
+    - aku-ajuste-objetivos-tradicional-concept
+    - aku-objetivos-alineados-organizacion-claim
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -48,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-objetivos-vs-resultados-clave-concept]]
 **constrained_by** ← [[aku-beneficios-okr-claim]]
-**related** ↔ [[aku-cascada-estrategica-ejecucion-concept]] · [[aku-objetivos-negocio-concept]] · [[aku-ajuste-objetivos-tradicional-concept]]
+**related** ↔ [[aku-cascada-estrategica-ejecucion-concept]] · [[aku-objetivos-negocio-concept]] · [[aku-ajuste-objetivos-tradicional-concept]] · [[aku-objetivos-alineados-organizacion-claim]]

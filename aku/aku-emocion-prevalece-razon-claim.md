@@ -40,6 +40,10 @@ relations:
     - aku-estilo-editorial-concept
     - aku-precio-alto-aumenta-valor-percibido-claim
     - aku-dream-outcome-concept
+    - aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept
+    - aku-muestra-el-producto-antes-del-precio-en-productos-emocionales-claim
+    - aku-choice-psychology-tres-mecanismos-de-decision-concept
+    - aku-atribuir-el-descuento-al-producto-emocional-del-bundle-claim
 
 sources:
   - "raw/cursos/power-mba/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a.md"
@@ -54,4 +58,4 @@ status_note: ""
 
 **supports** → [[aku-beneficio-emocional-concept]]
 
-**related** ↔ [[aku-cosas-importantes-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-estilo-editorial-concept]] · [[aku-precio-alto-aumenta-valor-percibido-claim]] · [[aku-dream-outcome-concept]]
+**related** ↔ [[aku-cosas-importantes-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-estilo-editorial-concept]] · [[aku-precio-alto-aumenta-valor-percibido-claim]] · [[aku-dream-outcome-concept]] · [[aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept]] · [[aku-muestra-el-producto-antes-del-precio-en-productos-emocionales-claim]] · [[aku-choice-psychology-tres-mecanismos-de-decision-concept]] · [[aku-atribuir-el-descuento-al-producto-emocional-del-bundle-claim]]

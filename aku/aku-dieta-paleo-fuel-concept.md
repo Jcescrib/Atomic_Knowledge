@@ -39,6 +39,7 @@ relations:
     - aku-regla-100-no-80-20-claim
     - aku-ayuno-beneficios-fisicos-y-psicologicos-method
     - aku-cuanto-mas-procesado-el-alimento-menos-comer-y-resta-antes-de-anadir-claim
+    - aku-los-sanos-cuidan-mas-que-comen-que-cuanto-comen-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-homeostasis-glucosa-insulina-concept]] · [[aku-comida-basura-es-veneno-claim]] · [[aku-regla-100-no-80-20-claim]] · [[aku-ayuno-beneficios-fisicos-y-psicologicos-method]] · [[aku-cuanto-mas-procesado-el-alimento-menos-comer-y-resta-antes-de-anadir-claim]]
+**related** ↔ [[aku-homeostasis-glucosa-insulina-concept]] · [[aku-comida-basura-es-veneno-claim]] · [[aku-regla-100-no-80-20-claim]] · [[aku-ayuno-beneficios-fisicos-y-psicologicos-method]] · [[aku-cuanto-mas-procesado-el-alimento-menos-comer-y-resta-antes-de-anadir-claim]] · [[aku-los-sanos-cuidan-mas-que-comen-que-cuanto-comen-claim]]

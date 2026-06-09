@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-tipos-y-tacticas-escasez-concept
+    - aku-leyes-persuasion-cialdini-concept
+    - aku-cialdini-escasez-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-tipos-y-tacticas-escasez-concept]]
+**related** ↔ [[aku-tipos-y-tacticas-escasez-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-cialdini-escasez-concept]]

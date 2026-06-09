@@ -32,7 +32,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-give-away-secrets-sell-implementation-claim
+    - aku-tipos-lead-magnet-concept
+    - aku-lead-magnet-cuatro-funciones-claim
 
 sources:
   - raw/cursos/power-mba/5-5-2-ejemplos-por-tipos-de-lead-magnets/5-5-2-ejemplos-por-tipos-de-lead-magnets.md
@@ -46,3 +49,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-lead-magnet-concept]]
+
+**related** ↔ [[aku-give-away-secrets-sell-implementation-claim]] · [[aku-tipos-lead-magnet-concept]] · [[aku-lead-magnet-cuatro-funciones-claim]]

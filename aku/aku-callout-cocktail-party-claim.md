@@ -36,6 +36,8 @@ relations:
     - aku-anuncio-callout-value-cta-concept
     - aku-formulas-titulos-potentes-concept
     - aku-copy-incluir-titular-claim
+    - aku-tu-nombre-capta-la-atencion-cocktail-party-claim
+    - aku-anadir-elementos-de-la-atencion-top-down-del-espectador-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-anuncio-callout-value-cta-concept]] · [[aku-formulas-titulos-potentes-concept]] · [[aku-copy-incluir-titular-claim]]
+**related** ↔ [[aku-anuncio-callout-value-cta-concept]] · [[aku-formulas-titulos-potentes-concept]] · [[aku-copy-incluir-titular-claim]] · [[aku-tu-nombre-capta-la-atencion-cocktail-party-claim]] · [[aku-anadir-elementos-de-la-atencion-top-down-del-espectador-claim]]

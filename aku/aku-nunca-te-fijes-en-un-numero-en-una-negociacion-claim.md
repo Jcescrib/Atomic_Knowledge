@@ -36,6 +36,7 @@ relations:
     - aku-las-negociaciones-no-son-personales-muevete-por-estrategia-no-emocion-claim
     - aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim
     - aku-siempre-contraofertar-su-primera-oferta-claim
+    - aku-mentalidad-de-pastel-fijo-fixed-pie-concept
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -49,4 +50,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-conocer-tu-valor-y-extraer-el-maximo-concept]]
-**related** ↔ [[aku-las-negociaciones-no-son-personales-muevete-por-estrategia-no-emocion-claim]] · [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]] · [[aku-siempre-contraofertar-su-primera-oferta-claim]]
+**related** ↔ [[aku-las-negociaciones-no-son-personales-muevete-por-estrategia-no-emocion-claim]] · [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]] · [[aku-siempre-contraofertar-su-primera-oferta-claim]] · [[aku-mentalidad-de-pastel-fijo-fixed-pie-concept]]

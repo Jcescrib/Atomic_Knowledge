@@ -35,6 +35,7 @@ relations:
   related:
     - aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim
     - aku-elige-juegos-largo-plazo-con-gente-largo-plazo-claim
+    - aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,6 +48,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]] · [[aku-elige-juegos-largo-plazo-con-gente-largo-plazo-claim]]
+**related** ↔ [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]] · [[aku-elige-juegos-largo-plazo-con-gente-largo-plazo-claim]] · [[aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim]]
 
 **supported_by** ← [[aku-capitalizar-interes-compuesto-method]]

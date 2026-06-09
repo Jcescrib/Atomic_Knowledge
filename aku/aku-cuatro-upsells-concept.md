@@ -53,6 +53,7 @@ relations:
     - aku-rollover-antes-de-refund
     - aku-rollover-roba-clientes-competencia
     - aku-gift-card-play-method
+    - aku-exponer-a-cualquier-numero-alto-eleva-el-precio-de-referencia-claim
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -67,4 +68,4 @@ status_note: ""
 
 **supports** → [[aku-upsell-offer-concept]] · [[aku-classic-upsell-concept]] · [[aku-menu-upsell-concept]] · [[aku-anchor-upsell-concept]] · [[aku-rollover-upsell-concept]]
 
-**related** ↔ [[aku-bonuses-stack-concept]] · [[aku-say-no-to-say-yes-concept]] · [[aku-unselling-concept]] · [[aku-prescription-upsell-concept]] · [[aku-ab-upsell-concept]] · [[aku-card-on-file-concept]] · [[aku-anchor-the-gasp]] · [[aku-anchor-no-fake]] · [[aku-anchor-features-primarias-iguales]] · [[aku-rollover-precio-4x-credito]] · [[aku-rollover-urgencia-one-time]] · [[aku-rollover-antes-de-refund]] · [[aku-rollover-roba-clientes-competencia]] · [[aku-gift-card-play-method]]
+**related** ↔ [[aku-bonuses-stack-concept]] · [[aku-say-no-to-say-yes-concept]] · [[aku-unselling-concept]] · [[aku-prescription-upsell-concept]] · [[aku-ab-upsell-concept]] · [[aku-card-on-file-concept]] · [[aku-anchor-the-gasp]] · [[aku-anchor-no-fake]] · [[aku-anchor-features-primarias-iguales]] · [[aku-rollover-precio-4x-credito]] · [[aku-rollover-urgencia-one-time]] · [[aku-rollover-antes-de-refund]] · [[aku-rollover-roba-clientes-competencia]] · [[aku-gift-card-play-method]] · [[aku-exponer-a-cualquier-numero-alto-eleva-el-precio-de-referencia-claim]]

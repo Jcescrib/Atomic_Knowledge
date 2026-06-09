@@ -34,6 +34,7 @@ relations:
   related:
     - aku-armate-con-specific-knowledge-accountability-y-leverage-claim
     - aku-leverage-multiplicador-de-juicio-concept
+    - aku-roi-vs-roas-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-leverage-multiplicador-de-juicio-concept]]
+**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-leverage-multiplicador-de-juicio-concept]] · [[aku-roi-vs-roas-concept]]

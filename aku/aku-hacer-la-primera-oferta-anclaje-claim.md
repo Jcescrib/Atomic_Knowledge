@@ -31,6 +31,7 @@ relations:
   contradicts: []
   related:
     - aku-exponer-a-cualquier-numero-alto-eleva-el-precio-de-referencia-claim
+    - aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -51,4 +52,4 @@ status_note: ""
 
 **supported_by** ← [[aku-anchor-principle-concept]]
 
-**related** ↔ [[aku-exponer-a-cualquier-numero-alto-eleva-el-precio-de-referencia-claim]]
+**related** ↔ [[aku-exponer-a-cualquier-numero-alto-eleva-el-precio-de-referencia-claim]] · [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]]

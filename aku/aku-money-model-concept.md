@@ -63,6 +63,7 @@ relations:
     - aku-money-model-rompe-cash-bottleneck
     - aku-tu-negocio-se-rompe-cuando-funciona
     - aku-orden-de-los-tres-libros-hormozi
+    - aku-cac-payback-financia-crecimiento-claim
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -77,4 +78,4 @@ status_note: ""
 
 **supported_by** ← [[aku-cuatro-tipos-oferta-concept]] · [[aku-money-model-tres-etapas-concept]]
 
-**related** ↔ [[aku-client-financed-acquisition-concept]] · [[aku-cac-payback-concept]] · [[aku-upsell-offer-concept]] · [[aku-create-flow-monetize-flow-add-friction-claim]] · [[aku-volumen-cold-tres-palancas-concept]] · [[aku-bad-money-model-mata-negocio]] · [[aku-crecimiento-multiplicativo-tres-palancas]] · [[aku-todo-negocio-tiene-money-model]] · [[aku-hard-selling-producto-debil]] · [[aku-dar-refund-siempre]] · [[aku-no-vender-lo-que-no-puedes-entregar]] · [[aku-reputacion-no-tiene-bankruptcy]] · [[aku-no-arrancar-con-money-model-completo]] · [[aku-store-credit-en-vez-de-cash]] · [[aku-aplicar-store-credit-a-plazo]] · [[aku-meetings-son-oportunidades-de-oferta]] · [[aku-make-everyone-a-winner]] · [[aku-hint-next-offer-early]] · [[aku-perfeccionar-una-oferta-a-la-vez]] · [[aku-raise-price-in-stages]] · [[aku-cien-formas-de-vender-no-cien-productos]] · [[aku-afiliados-rellenan-gaps-money-model]] · [[aku-mezclar-ofertas-sin-reglas]] · [[aku-bootstrapped-debe-captar-con-beneficio]] · [[aku-money-model-rompe-cash-bottleneck]] · [[aku-tu-negocio-se-rompe-cuando-funciona]] · [[aku-orden-de-los-tres-libros-hormozi]]
+**related** ↔ [[aku-client-financed-acquisition-concept]] · [[aku-cac-payback-concept]] · [[aku-upsell-offer-concept]] · [[aku-create-flow-monetize-flow-add-friction-claim]] · [[aku-volumen-cold-tres-palancas-concept]] · [[aku-bad-money-model-mata-negocio]] · [[aku-crecimiento-multiplicativo-tres-palancas]] · [[aku-todo-negocio-tiene-money-model]] · [[aku-hard-selling-producto-debil]] · [[aku-dar-refund-siempre]] · [[aku-no-vender-lo-que-no-puedes-entregar]] · [[aku-reputacion-no-tiene-bankruptcy]] · [[aku-no-arrancar-con-money-model-completo]] · [[aku-store-credit-en-vez-de-cash]] · [[aku-aplicar-store-credit-a-plazo]] · [[aku-meetings-son-oportunidades-de-oferta]] · [[aku-make-everyone-a-winner]] · [[aku-hint-next-offer-early]] · [[aku-perfeccionar-una-oferta-a-la-vez]] · [[aku-raise-price-in-stages]] · [[aku-cien-formas-de-vender-no-cien-productos]] · [[aku-afiliados-rellenan-gaps-money-model]] · [[aku-mezclar-ofertas-sin-reglas]] · [[aku-bootstrapped-debe-captar-con-beneficio]] · [[aku-money-model-rompe-cash-bottleneck]] · [[aku-tu-negocio-se-rompe-cuando-funciona]] · [[aku-orden-de-los-tres-libros-hormozi]] · [[aku-cac-payback-financia-crecimiento-claim]]

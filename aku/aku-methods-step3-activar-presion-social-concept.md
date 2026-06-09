@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-leyes-persuasion-cialdini-concept
+    - aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim
 
 sources:
   - raw/libros/kolenda/audiobook-images-methods-of-persuasion/audiobook-images-methods-of-persuasion.md
@@ -49,4 +50,4 @@ status_note: "Fuente = stub de imagenes del audiolibro; anclado en Figure 0.1 (f
 
 **supports** → [[aku-methods-proceso-de-persuasion-en-siete-pasos-concept]]
 
-**related** ↔ [[aku-leyes-persuasion-cialdini-concept]]
+**related** ↔ [[aku-leyes-persuasion-cialdini-concept]] · [[aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim]]

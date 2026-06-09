@@ -36,6 +36,7 @@ relations:
     - aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim
     - aku-el-sufrimiento-impulsa-el-progreso-el-deseo-de-cambiar-de-estado-mueve-a-actuar-claim
     - aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept
+    - aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]] · [[aku-el-sufrimiento-impulsa-el-progreso-el-deseo-de-cambiar-de-estado-mueve-a-actuar-claim]] · [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]]
+**related** ↔ [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]] · [[aku-el-sufrimiento-impulsa-el-progreso-el-deseo-de-cambiar-de-estado-mueve-a-actuar-claim]] · [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]] · [[aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim]]

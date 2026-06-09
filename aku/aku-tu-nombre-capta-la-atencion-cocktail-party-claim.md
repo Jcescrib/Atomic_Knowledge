@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-ajustar-los-numerales-al-nombre-o-cumpleanos-egotismo-implicito-claim
+    - aku-callout-cocktail-party-claim
 
 sources:
   - raw/libros/kolenda/visual-attention-by-nick-kolenda/visual-attention-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept]]
 
-**related** ↔ [[aku-ajustar-los-numerales-al-nombre-o-cumpleanos-egotismo-implicito-claim]]
+**related** ↔ [[aku-ajustar-los-numerales-al-nombre-o-cumpleanos-egotismo-implicito-claim]] · [[aku-callout-cocktail-party-claim]]

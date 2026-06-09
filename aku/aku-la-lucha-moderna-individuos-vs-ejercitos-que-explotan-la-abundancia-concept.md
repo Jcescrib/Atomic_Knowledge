@@ -35,6 +35,8 @@ relations:
   related:
     - aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept
     - aku-estimulos-supernormales-concept
+    - aku-comida-basura-es-veneno-claim
+    - aku-las-personas-disciplinadas-estructuran-su-entorno-para-no-necesitar-fuerza-de-voluntad-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-estimulos-supernormales-concept]]
+**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-estimulos-supernormales-concept]] · [[aku-comida-basura-es-veneno-claim]] · [[aku-las-personas-disciplinadas-estructuran-su-entorno-para-no-necesitar-fuerza-de-voluntad-claim]]

@@ -24,14 +24,16 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-fidelizacion-vs-retencion-concept]
+  supported_by:
+    - aku-fidelizacion-vs-retencion-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-facilitar-cancelacion
 
 sources:
   - raw/cursos/power-mba/5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on/5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on.md
@@ -45,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-fidelizacion-vs-retencion-concept]]
+
+**related** ↔ [[aku-facilitar-cancelacion]]

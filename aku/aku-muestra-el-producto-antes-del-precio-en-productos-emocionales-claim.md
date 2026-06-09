@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-aislar-las-opciones-emocionales-claim
+    - aku-emocion-prevalece-razon-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-aislar-las-opciones-emocionales-claim]]
+**related** ↔ [[aku-aislar-las-opciones-emocionales-claim]] · [[aku-emocion-prevalece-razon-claim]]

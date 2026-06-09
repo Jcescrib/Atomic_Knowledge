@@ -31,6 +31,7 @@ relations:
   contradicts: []
   related:
     - aku-pedir-de-nuevo-con-bono-reciprocidad-claim
+    - aku-leyes-persuasion-cialdini-concept
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supported_by** ← [[aku-cialdini-reciprocidad-concept]]
 
-**related** ↔ [[aku-pedir-de-nuevo-con-bono-reciprocidad-claim]]
+**related** ↔ [[aku-pedir-de-nuevo-con-bono-reciprocidad-claim]] · [[aku-leyes-persuasion-cialdini-concept]]

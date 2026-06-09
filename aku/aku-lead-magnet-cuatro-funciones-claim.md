@@ -31,6 +31,7 @@ relations:
   contradicts: []
   related:
     - aku-lead-magnet-concept
+    - aku-lead-magnet-prueba-producto-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -43,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-lead-magnet-concept]]
+**related** ↔ [[aku-lead-magnet-concept]] · [[aku-lead-magnet-prueba-producto-concept]]

@@ -29,7 +29,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-leyes-persuasion-cialdini-concept
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -49,3 +50,5 @@ status_note: ""
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
 **supported_by** ← [[aku-cialdini-reciprocidad-concept]]
+
+**related** ↔ [[aku-leyes-persuasion-cialdini-concept]]

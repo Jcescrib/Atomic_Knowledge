@@ -37,6 +37,7 @@ relations:
     - aku-confident-but-not-cocky-concept
     - aku-pride-fuerza-de-doble-filo-concept
     - aku-balancing-praise-elogio-con-cautela-claim
+    - aku-el-exceso-de-confianza-antes-de-un-reto-te-hace-vulnerable-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -51,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-aggressive-not-reckless-concept]]
 
-**related** ↔ [[aku-nunca-complacencia-subestimar-enemigo-claim]] · [[aku-confident-but-not-cocky-concept]] · [[aku-pride-fuerza-de-doble-filo-concept]] · [[aku-balancing-praise-elogio-con-cautela-claim]]
+**related** ↔ [[aku-nunca-complacencia-subestimar-enemigo-claim]] · [[aku-confident-but-not-cocky-concept]] · [[aku-pride-fuerza-de-doble-filo-concept]] · [[aku-balancing-praise-elogio-con-cautela-claim]] · [[aku-el-exceso-de-confianza-antes-de-un-reto-te-hace-vulnerable-claim]]

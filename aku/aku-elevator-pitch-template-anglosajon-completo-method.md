@@ -38,7 +38,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-cuatro-indicadores-mercado-concept
 
 sources:
   - raw/cursos/power-mba/6-3-4-templates-elevator-pitch/6-3-4-templates-elevator-pitch.md
@@ -52,3 +53,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-elevator-pitch-concept]]
+
+**related** ↔ [[aku-cuatro-indicadores-mercado-concept]]

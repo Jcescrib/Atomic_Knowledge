@@ -35,6 +35,7 @@ relations:
     - aku-esquema-de-color-split-complementario-claim
     - aku-esquema-de-color-triadico-claim
     - aku-esquema-de-color-tetradico-claim
+    - aku-cta-concept
 
 sources:
   - raw/libros/kolenda/color-psychology2/color-psychology2.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept]]
 
-**related** ↔ [[aku-esquema-de-color-monocromatico-claim]] · [[aku-esquema-de-color-analogo-claim]] · [[aku-esquema-de-color-complementario-claim]] · [[aku-esquema-de-color-split-complementario-claim]] · [[aku-esquema-de-color-triadico-claim]] · [[aku-esquema-de-color-tetradico-claim]]
+**related** ↔ [[aku-esquema-de-color-monocromatico-claim]] · [[aku-esquema-de-color-analogo-claim]] · [[aku-esquema-de-color-complementario-claim]] · [[aku-esquema-de-color-split-complementario-claim]] · [[aku-esquema-de-color-triadico-claim]] · [[aku-esquema-de-color-tetradico-claim]] · [[aku-cta-concept]]

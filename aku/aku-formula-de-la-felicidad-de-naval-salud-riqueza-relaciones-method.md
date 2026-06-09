@@ -34,6 +34,8 @@ relations:
   contradicts: []
   related:
     - aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim
+    - aku-evaluation-health-concept
+    - aku-tres-mercados-eternos-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,6 +48,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim]]
+**related** ↔ [[aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim]] · [[aku-evaluation-health-concept]] · [[aku-tres-mercados-eternos-concept]]
 
 **supported_by** ← [[aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim]]

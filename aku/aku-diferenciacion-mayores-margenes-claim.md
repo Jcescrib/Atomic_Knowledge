@@ -35,6 +35,7 @@ relations:
     - aku-diferenciacion-sector-concept
     - aku-margen-volumen-patron-sectorial-claim
     - aku-compra-value-vs-price-driven-concept
+    - aku-categoria-de-uno-concept
 
 sources:
   - raw/cursos/power-mba/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
@@ -48,4 +49,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-estrategia-diferenciacion-concept]]
-**related** ↔ [[aku-diferenciacion-sector-concept]] · [[aku-margen-volumen-patron-sectorial-claim]] · [[aku-compra-value-vs-price-driven-concept]]
+**related** ↔ [[aku-diferenciacion-sector-concept]] · [[aku-margen-volumen-patron-sectorial-claim]] · [[aku-compra-value-vs-price-driven-concept]] · [[aku-categoria-de-uno-concept]]

@@ -34,6 +34,7 @@ relations:
   related:
     - aku-pedir-equity-es-apostar-por-ti-mismo-claim
     - aku-equity-value-concept
+    - aku-valoracion-empresa-enfoques-concept
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-pedir-equity-es-apostar-por-ti-mismo-claim]] · [[aku-equity-value-concept]]
+**related** ↔ [[aku-pedir-equity-es-apostar-por-ti-mismo-claim]] · [[aku-equity-value-concept]] · [[aku-valoracion-empresa-enfoques-concept]]

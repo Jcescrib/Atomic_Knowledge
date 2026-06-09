@@ -35,6 +35,8 @@ relations:
   related:
     - aku-mindfulness-concept
     - aku-la-ansiedad-son-pensamientos-en-marcha-elige-la-paz-sobre-el-pensamiento-claim
+    - aku-la-felicidad-requiere-presencia-claim
+    - aku-el-presente-es-todo-lo-que-hay-concept
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -48,4 +50,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-mente-de-mono-concept]]
-**related** ↔ [[aku-mindfulness-concept]] · [[aku-la-ansiedad-son-pensamientos-en-marcha-elige-la-paz-sobre-el-pensamiento-claim]]
+**related** ↔ [[aku-mindfulness-concept]] · [[aku-la-ansiedad-son-pensamientos-en-marcha-elige-la-paz-sobre-el-pensamiento-claim]] · [[aku-la-felicidad-requiere-presencia-claim]] · [[aku-el-presente-es-todo-lo-que-hay-concept]]

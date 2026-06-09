@@ -36,6 +36,7 @@ relations:
     - aku-extreme-ownership-concept
     - aku-humildad-asumir-errores-claim
     - aku-tomar-ownership-cuando-te-culpan-claim
+    - aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-extreme-ownership-concept]] · [[aku-humildad-asumir-errores-claim]] · [[aku-tomar-ownership-cuando-te-culpan-claim]]
+**related** ↔ [[aku-extreme-ownership-concept]] · [[aku-humildad-asumir-errores-claim]] · [[aku-tomar-ownership-cuando-te-culpan-claim]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]]

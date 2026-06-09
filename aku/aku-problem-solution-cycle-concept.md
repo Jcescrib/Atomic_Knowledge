@@ -35,6 +35,7 @@ relations:
   related:
     - aku-tipos-lead-magnet-concept
     - aku-problemas-a-soluciones-concept
+    - aku-problem-solution-fit-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-lead-magnet-concept]]
 
-**related** ↔ [[aku-tipos-lead-magnet-concept]] · [[aku-problemas-a-soluciones-concept]]
+**related** ↔ [[aku-tipos-lead-magnet-concept]] · [[aku-problemas-a-soluciones-concept]] · [[aku-problem-solution-fit-concept]]

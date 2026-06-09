@@ -35,6 +35,7 @@ relations:
     - aku-grandmaster-principle-concept
     - aku-eficiencia-apex-timing-control-macro-concept
     - aku-humildad-es-la-cualidad-mas-importante-claim
+    - aku-ser-aprendiz-perpetuo-es-la-habilidad-clave-para-hacerse-rico-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-grandmaster-principle-concept]] · [[aku-eficiencia-apex-timing-control-macro-concept]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]]
+**related** ↔ [[aku-grandmaster-principle-concept]] · [[aku-eficiencia-apex-timing-control-macro-concept]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-ser-aprendiz-perpetuo-es-la-habilidad-clave-para-hacerse-rico-claim]]

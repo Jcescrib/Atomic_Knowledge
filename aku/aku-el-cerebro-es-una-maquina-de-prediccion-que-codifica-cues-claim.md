@@ -35,6 +35,7 @@ relations:
   related:
     - aku-la-causa-de-tus-habitos-es-la-prediccion-que-los-precede-claim
     - aku-habit-loop-cue-craving-response-reward-concept
+    - aku-modelos-mentales-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-causa-de-tus-habitos-es-la-prediccion-que-los-precede-claim]] · [[aku-habit-loop-cue-craving-response-reward-concept]]
+**related** ↔ [[aku-la-causa-de-tus-habitos-es-la-prediccion-que-los-precede-claim]] · [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-modelos-mentales-concept]]

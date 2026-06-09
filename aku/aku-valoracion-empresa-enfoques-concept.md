@@ -26,13 +26,18 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-valoracion-por-activos-method, aku-valoracion-por-multiplos-method, aku-dcf-method]
+  supports:
+    - aku-valoracion-por-activos-method
+    - aku-valoracion-por-multiplos-method
+    - aku-dcf-method
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-enterprise-value-concept]
+  related:
+    - aku-enterprise-value-concept
+    - aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -46,4 +51,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-valoracion-por-activos-method]] · [[aku-valoracion-por-multiplos-method]] · [[aku-dcf-method]]
-**related** ↔ [[aku-enterprise-value-concept]]
+**related** ↔ [[aku-enterprise-value-concept]] · [[aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method]]

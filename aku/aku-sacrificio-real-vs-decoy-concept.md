@@ -33,7 +33,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-decoy-permiso-para-vender-premium
+    - aku-decoy-offer-concept
+    - aku-economist-decoy-bundle-method
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -47,3 +50,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-sacrifice-principle-concept]]
+
+**related** ↔ [[aku-decoy-permiso-para-vender-premium]] · [[aku-decoy-offer-concept]] · [[aku-economist-decoy-bundle-method]]

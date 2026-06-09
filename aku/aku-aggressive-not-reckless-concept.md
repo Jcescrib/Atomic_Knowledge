@@ -40,6 +40,7 @@ relations:
     - aku-default-agresivo-proactivo-dictar-situacion-claim
     - aku-valiente-no-temerario-concept
     - aku-calcular-y-mitigar-riesgo-claim
+    - aku-el-hustler-es-agresivo-pero-no-temerario-investiga-antes-de-apostar-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -56,4 +57,4 @@ status_note: ""
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
 
-**related** ↔ [[aku-default-agresivo-proactivo-dictar-situacion-claim]] · [[aku-valiente-no-temerario-concept]] · [[aku-calcular-y-mitigar-riesgo-claim]]
+**related** ↔ [[aku-default-agresivo-proactivo-dictar-situacion-claim]] · [[aku-valiente-no-temerario-concept]] · [[aku-calcular-y-mitigar-riesgo-claim]] · [[aku-el-hustler-es-agresivo-pero-no-temerario-investiga-antes-de-apostar-claim]]

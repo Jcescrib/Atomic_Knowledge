@@ -39,6 +39,7 @@ relations:
     - aku-precio-alto-aumenta-valor-percibido-claim
     - aku-escapa-la-competencia-mediante-autenticidad-claim
     - aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim
+    - aku-diferenciacion-mayores-margenes-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-commodity-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-grand-slam-offer-concept]] · [[aku-precio-alto-aumenta-valor-percibido-claim]] · [[aku-escapa-la-competencia-mediante-autenticidad-claim]] · [[aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim]]
+**related** ↔ [[aku-commodity-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-grand-slam-offer-concept]] · [[aku-precio-alto-aumenta-valor-percibido-claim]] · [[aku-escapa-la-competencia-mediante-autenticidad-claim]] · [[aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim]] · [[aku-diferenciacion-mayores-margenes-claim]]

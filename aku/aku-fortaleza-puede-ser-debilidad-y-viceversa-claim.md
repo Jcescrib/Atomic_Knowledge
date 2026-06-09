@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-check-the-ego-concept
+    - aku-fortalezas-debilidades-motivaciones-concept
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-check-the-ego-concept]]
+**related** ↔ [[aku-check-the-ego-concept]] · [[aku-fortalezas-debilidades-motivaciones-concept]]

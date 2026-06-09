@@ -36,6 +36,7 @@ relations:
   contradicts: []
   related:
     - aku-cialdini-prueba-social-concept
+    - aku-coeficiente-viralidad-concept
 
 sources:
   - raw/libros/kolenda/pages-viral-marketing/pages-viral-marketing.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supported_by** ← [[aku-micronetwork-red-densa-con-interconexiones-fuertes-concept]] · [[aku-apuntar-solo-a-influencers-no-basta-tres-problemas-claim]] · [[aku-la-interconectividad-construye-la-infeccion-dentro-de-la-red-claim]] · [[aku-las-epidemias-virales-se-originan-en-micronetworks-claim]] · [[aku-target-un-microsegmento-y-escala-hacia-fuera-claim]] · [[aku-usa-maven-groups-para-promover-contenido-claim]] · [[aku-elige-temas-y-segmentos-de-alta-interconectividad-verticales-claim]]
 
-**related** ↔ [[aku-cialdini-prueba-social-concept]]
+**related** ↔ [[aku-cialdini-prueba-social-concept]] · [[aku-coeficiente-viralidad-concept]]

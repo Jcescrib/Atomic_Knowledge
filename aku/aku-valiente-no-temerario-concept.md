@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-aggressive-not-reckless-concept
+    - aku-el-hustler-es-agresivo-pero-no-temerario-investiga-antes-de-apostar-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
 
-**related** ↔ [[aku-aggressive-not-reckless-concept]]
+**related** ↔ [[aku-aggressive-not-reckless-concept]] · [[aku-el-hustler-es-agresivo-pero-no-temerario-investiga-antes-de-apostar-claim]]

@@ -37,6 +37,7 @@ relations:
   contradicts: []
   related:
     - aku-target-fixation-concept
+    - aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -51,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-prioritize-and-execute-concept]]
 
-**related** ↔ [[aku-target-fixation-concept]]
+**related** ↔ [[aku-target-fixation-concept]] · [[aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim]]

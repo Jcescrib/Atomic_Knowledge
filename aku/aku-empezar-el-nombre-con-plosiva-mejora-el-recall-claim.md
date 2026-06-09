@@ -31,6 +31,7 @@ relations:
   contradicts: []
   related:
     - aku-colocar-el-numero-mayor-a-la-izquierda-principio-de-sustraccion-claim
+    - aku-brand-awareness-concept
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -45,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-construir-nombres-neologisticos-method]]
 
-**related** ↔ [[aku-colocar-el-numero-mayor-a-la-izquierda-principio-de-sustraccion-claim]]
+**related** ↔ [[aku-colocar-el-numero-mayor-a-la-izquierda-principio-de-sustraccion-claim]] · [[aku-brand-awareness-concept]]

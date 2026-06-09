@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-haz-tu-estimulo-similar-a-lo-que-el-objetivo-monitorea-goal-directed-claim
+    - aku-callout-cocktail-party-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-haz-tu-estimulo-similar-a-lo-que-el-objetivo-monitorea-goal-directed-claim]]
+**related** ↔ [[aku-haz-tu-estimulo-similar-a-lo-que-el-objetivo-monitorea-goal-directed-claim]] · [[aku-callout-cocktail-party-claim]]

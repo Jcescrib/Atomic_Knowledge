@@ -35,6 +35,7 @@ relations:
   related:
     - aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim
     - aku-prime-tu-entorno-para-el-uso-futuro-method
+    - aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim]] · [[aku-prime-tu-entorno-para-el-uso-futuro-method]]
+**related** ↔ [[aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim]] · [[aku-prime-tu-entorno-para-el-uso-futuro-method]] · [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]]

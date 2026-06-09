@@ -26,14 +26,20 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-descubrir-fortalezas-feedback-externo-concept, aku-motivaciones-desde-experiencias-pasadas-concept]
+  supported_by:
+    - aku-descubrir-fortalezas-feedback-externo-concept
+    - aku-motivaciones-desde-experiencias-pasadas-concept
   supports: []
-  constrained_by: [aku-diagnostico-estrategico-personal-concept]
+  constrained_by:
+    - aku-diagnostico-estrategico-personal-concept
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-ikigai-concept, aku-objetivos-personales-concept]
+  related:
+    - aku-ikigai-concept
+    - aku-objetivos-personales-concept
+    - aku-fortaleza-puede-ser-debilidad-y-viceversa-claim
 
 sources:
   - raw/cursos/power-mba/08-01-01-diagnostico-desarrollo-personal/08-01-01-diagnostico-desarrollo-personal.md
@@ -48,4 +54,4 @@ status_note: ""
 
 **supported_by** ← [[aku-descubrir-fortalezas-feedback-externo-concept]] · [[aku-motivaciones-desde-experiencias-pasadas-concept]]
 **constrained_by** ← [[aku-diagnostico-estrategico-personal-concept]]
-**related** ↔ [[aku-ikigai-concept]] · [[aku-objetivos-personales-concept]]
+**related** ↔ [[aku-ikigai-concept]] · [[aku-objetivos-personales-concept]] · [[aku-fortaleza-puede-ser-debilidad-y-viceversa-claim]]

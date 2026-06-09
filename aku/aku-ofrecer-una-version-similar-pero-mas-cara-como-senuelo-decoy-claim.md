@@ -33,6 +33,7 @@ relations:
     - aku-evaluamos-por-comparaciones-relativas-context-effects-concept
     - aku-decoy-pricing-tres-opciones-method
     - aku-economist-decoy-bundle-method
+    - aku-decoy-surprise-benefit
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-cialdini-escasez-concept]] · [[aku-evaluamos-por-comparaciones-relativas-context-effects-concept]] · [[aku-decoy-pricing-tres-opciones-method]] · [[aku-economist-decoy-bundle-method]]
+**related** ↔ [[aku-cialdini-escasez-concept]] · [[aku-evaluamos-por-comparaciones-relativas-context-effects-concept]] · [[aku-decoy-pricing-tres-opciones-method]] · [[aku-economist-decoy-bundle-method]] · [[aku-decoy-surprise-benefit]]

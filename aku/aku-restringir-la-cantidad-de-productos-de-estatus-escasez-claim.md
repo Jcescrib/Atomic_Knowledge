@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-cialdini-escasez-concept
+    - aku-bonos-escasez-urgencia-claim
 
 sources:
   - raw/libros/kolenda/ecommerce-psychology-by-nick-kolenda/ecommerce-psychology-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]
 
-**related** ↔ [[aku-cialdini-escasez-concept]]
+**related** ↔ [[aku-cialdini-escasez-concept]] · [[aku-bonos-escasez-urgencia-claim]]

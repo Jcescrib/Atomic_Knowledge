@@ -35,6 +35,7 @@ relations:
     - aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept
     - aku-el-presente-es-todo-lo-que-hay-concept
     - aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept
+    - aku-mente-mono-no-estar-presente-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept]] · [[aku-el-presente-es-todo-lo-que-hay-concept]] · [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]]
+**related** ↔ [[aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept]] · [[aku-el-presente-es-todo-lo-que-hay-concept]] · [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-mente-mono-no-estar-presente-concept]]

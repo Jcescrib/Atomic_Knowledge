@@ -31,6 +31,7 @@ relations:
   contradicts: []
   related:
     - aku-ordenar-los-terminos-por-importancia-claim
+    - aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **constrained_by** ← [[aku-abordar-todos-los-terminos-relevantes-claim]]
 
-**related** ↔ [[aku-ordenar-los-terminos-por-importancia-claim]]
+**related** ↔ [[aku-ordenar-los-terminos-por-importancia-claim]] · [[aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim]]

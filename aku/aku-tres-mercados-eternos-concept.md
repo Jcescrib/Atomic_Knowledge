@@ -35,6 +35,8 @@ relations:
   related:
     - aku-cuatro-indicadores-mercado-concept
     - aku-starving-crowd-concept
+    - aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method
+    - aku-nicho-strategy-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cuatro-indicadores-mercado-concept]] · [[aku-starving-crowd-concept]]
+**related** ↔ [[aku-cuatro-indicadores-mercado-concept]] · [[aku-starving-crowd-concept]] · [[aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method]] · [[aku-nicho-strategy-concept]]

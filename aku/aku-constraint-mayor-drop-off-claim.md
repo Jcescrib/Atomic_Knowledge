@@ -34,6 +34,7 @@ relations:
   related:
     - aku-more-better-new-concept
     - aku-cuello-botella-funnel-concept
+    - aku-cro-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-more-better-new-concept]] · [[aku-cuello-botella-funnel-concept]]
+**related** ↔ [[aku-more-better-new-concept]] · [[aku-cuello-botella-funnel-concept]] · [[aku-cro-concept]]

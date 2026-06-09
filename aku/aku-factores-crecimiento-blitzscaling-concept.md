@@ -27,13 +27,21 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-factor-crecimiento-network-effects-concept, aku-factor-crecimiento-distribucion-concept, aku-factor-crecimiento-tamano-mercado-concept, aku-factor-crecimiento-grandes-margenes-concept]
+  supports:
+    - aku-factor-crecimiento-network-effects-concept
+    - aku-factor-crecimiento-distribucion-concept
+    - aku-factor-crecimiento-tamano-mercado-concept
+    - aku-factor-crecimiento-grandes-margenes-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-network-effect-concept, aku-masa-critica-concept, aku-motor-crecimiento-concept]
+  related:
+    - aku-network-effect-concept
+    - aku-masa-critica-concept
+    - aku-motor-crecimiento-concept
+    - aku-free-bootstrap-plataforma-claim
 
 sources:
   - raw/cursos/power-mba/4-5-blitzscaling/4-5-blitzscaling.md
@@ -47,4 +55,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-factor-crecimiento-network-effects-concept]] · [[aku-factor-crecimiento-distribucion-concept]] · [[aku-factor-crecimiento-tamano-mercado-concept]] · [[aku-factor-crecimiento-grandes-margenes-concept]]
-**related** ↔ [[aku-network-effect-concept]] · [[aku-masa-critica-concept]] · [[aku-motor-crecimiento-concept]]
+**related** ↔ [[aku-network-effect-concept]] · [[aku-masa-critica-concept]] · [[aku-motor-crecimiento-concept]] · [[aku-free-bootstrap-plataforma-claim]]

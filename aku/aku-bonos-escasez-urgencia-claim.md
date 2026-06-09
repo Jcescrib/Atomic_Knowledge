@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-bonuses-stack-concept
+    - aku-restringir-la-cantidad-de-productos-de-estatus-escasez-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-bonuses-stack-concept]]
+**related** ↔ [[aku-bonuses-stack-concept]] · [[aku-restringir-la-cantidad-de-productos-de-estatus-escasez-claim]]

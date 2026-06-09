@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-lead-magnet-concept
+    - aku-formatos-marketing-contenidos-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-lead-magnet-concept]]
+**related** ↔ [[aku-lead-magnet-concept]] · [[aku-formatos-marketing-contenidos-concept]]

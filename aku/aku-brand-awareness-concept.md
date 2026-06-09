@@ -27,14 +27,23 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-brand-awareness-top-of-mind-concept, aku-brand-awareness-brand-recall-concept, aku-brand-awareness-brand-recognition-concept, aku-brand-awareness-unaware-concept]
-  supports: [aku-brand-equity-concept, aku-gota-en-oceano-claim]
+  supported_by:
+    - aku-brand-awareness-top-of-mind-concept
+    - aku-brand-awareness-brand-recall-concept
+    - aku-brand-awareness-brand-recognition-concept
+    - aku-brand-awareness-unaware-concept
+  supports:
+    - aku-brand-equity-concept
+    - aku-gota-en-oceano-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-performance-marketing-concept, aku-branding-concept]
+  related:
+    - aku-performance-marketing-concept
+    - aku-branding-concept
+    - aku-empezar-el-nombre-con-plosiva-mejora-el-recall-claim
 
 sources:
   - raw/cursos/power-mba/4-4-branding/4-4-branding.md
@@ -50,4 +59,4 @@ status_note: ""
 **supported_by** ← [[aku-brand-awareness-top-of-mind-concept]] · [[aku-brand-awareness-brand-recall-concept]] · [[aku-brand-awareness-brand-recognition-concept]] · [[aku-brand-awareness-unaware-concept]]
 
 **supports** → [[aku-brand-equity-concept]] · [[aku-gota-en-oceano-claim]]
-**related** ↔ [[aku-performance-marketing-concept]] · [[aku-branding-concept]]
+**related** ↔ [[aku-performance-marketing-concept]] · [[aku-branding-concept]] · [[aku-empezar-el-nombre-con-plosiva-mejora-el-recall-claim]]

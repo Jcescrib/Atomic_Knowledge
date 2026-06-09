@@ -38,6 +38,8 @@ relations:
     - aku-decoy-surprise-benefit
     - aku-decoy-pricing-tres-opciones-method
     - aku-economist-decoy-bundle-method
+    - aku-sacrificio-real-vs-decoy-concept
+    - aku-evaluamos-por-comparaciones-relativas-context-effects-concept
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -52,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-attraction-offer-concept]]
 
-**related** ↔ [[aku-decoy-permiso-para-vender-premium]] · [[aku-decoy-surprise-benefit]] · [[aku-decoy-pricing-tres-opciones-method]] · [[aku-economist-decoy-bundle-method]]
+**related** ↔ [[aku-decoy-permiso-para-vender-premium]] · [[aku-decoy-surprise-benefit]] · [[aku-decoy-pricing-tres-opciones-method]] · [[aku-economist-decoy-bundle-method]] · [[aku-sacrificio-real-vs-decoy-concept]] · [[aku-evaluamos-por-comparaciones-relativas-context-effects-concept]]

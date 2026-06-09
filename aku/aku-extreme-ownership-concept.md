@@ -68,6 +68,7 @@ relations:
     - aku-instila-y-exige-disciplina-tolerancia-cero-al-conflicto-interno-claim
     - aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept
     - aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim
+    - aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -86,4 +87,4 @@ status_note: ""
 
 **contradicts** ↔ [[aku-tortured-genius-concept]]
 
-**related** ↔ [[aku-balance-ownership-decentralized-command-concept]] · [[aku-entrenamiento-desde-abajo-no-desde-arriba-claim]] · [[aku-solo-te-puedes-controlar-a-ti-mismo-claim]] · [[aku-gestionar-stress-detach-y-perspectiva-method]] · [[aku-eleccion-vence-naturaleza-y-crianza-claim]] · [[aku-the-warpath-concept]] · [[aku-good-mindset-concept]] · [[aku-preemptive-ownership-concept]] · [[aku-tomar-ownership-cuando-te-culpan-claim]] · [[aku-castigo-raro-y-con-lineas-claras-claim]] · [[aku-apologizing-no-es-debilidad-claim]] · [[aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim]] · [[aku-instila-y-exige-disciplina-tolerancia-cero-al-conflicto-interno-claim]] · [[aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]]
+**related** ↔ [[aku-balance-ownership-decentralized-command-concept]] · [[aku-entrenamiento-desde-abajo-no-desde-arriba-claim]] · [[aku-solo-te-puedes-controlar-a-ti-mismo-claim]] · [[aku-gestionar-stress-detach-y-perspectiva-method]] · [[aku-eleccion-vence-naturaleza-y-crianza-claim]] · [[aku-the-warpath-concept]] · [[aku-good-mindset-concept]] · [[aku-preemptive-ownership-concept]] · [[aku-tomar-ownership-cuando-te-culpan-claim]] · [[aku-castigo-raro-y-con-lineas-claras-claim]] · [[aku-apologizing-no-es-debilidad-claim]] · [[aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim]] · [[aku-instila-y-exige-disciplina-tolerancia-cero-al-conflicto-interno-claim]] · [[aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]] · [[aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim]]
