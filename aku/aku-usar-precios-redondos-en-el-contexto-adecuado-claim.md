@@ -28,7 +28,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-precios-redondos-en-compras-emocionales-claim
+    - aku-precios-redondos-en-compras-de-conveniencia-claim
+    - aku-precios-redondos-en-productos-sociales-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -42,3 +45,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
+
+**related** ↔ [[aku-precios-redondos-en-compras-emocionales-claim]] · [[aku-precios-redondos-en-compras-de-conveniencia-claim]] · [[aku-precios-redondos-en-productos-sociales-claim]]

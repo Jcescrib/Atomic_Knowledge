@@ -1,11 +1,11 @@
 ---
 type: aku
 aku_class: claim
-id: aku-fuentes-condensadas-vs-espaciadas-transmiten-precision-vs-amplitud-claim
+id: aku-la-caja-mixta-es-la-mas-legible-claim
 statement: >
-  Las fuentes condensadas transmiten estrechez y precision y van mejor con productos slim (moviles); si las letras se tocan, ese contacto transmite cercania. Las fuentes espaciadas se sienten relajantes («room to breathe»), mientras que las condensadas pueden sentirse abarrotadas o restrictivas (Choi & Kang 2013).
+  La caja mixta es la mas legible porque se espera ese patron (el cerebro lo busca) y las mayusculas se distinguen peor entre si al compartir altura (Garvey, Pietrucha & Meeker 1997).
 origin: "Nick Kolenda — Font Psychology"
-domain: [kolenda, fonts, spacing]
+domain: [kolenda, fonts,case]
 
 llm_confidence: 0.50
 
@@ -29,7 +29,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-fuentes-espaciadas-se-sienten-relajantes-claim
+    - aku-mayusculas-minusculas-y-caja-mixta-transmiten-poder-compasion-y-legibilidad-claim
 
 sources:
   - raw/libros/kolenda/font-psychology-by-nick-kolenda/font-psychology-by-nick-kolenda.md
@@ -44,4 +44,4 @@ status_note: ""
 
 **supports** → [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]
 
-**related** ↔ [[aku-fuentes-espaciadas-se-sienten-relajantes-claim]]
+**related** ↔ [[aku-mayusculas-minusculas-y-caja-mixta-transmiten-poder-compasion-y-legibilidad-claim]]

@@ -676,7 +676,7 @@ sources:
     image_processing: 2026-06-09   # ejemplos visuales ilustrativos -> 0 blockquotes
     ingested: 2026-06-09           # Kolenda 5/16: +13 AKUs (1 concept + 11 claim + 1 method). Generador _kolenda_color.py
     chapters_ingested: [color-meanings-and-schemes]
-    aku_count: 13
+    aku_count: 21   # 13 + 8 re-expansión (evolución, valencia-ecológica, 6 esquemas)
     taku_count: 0
     last_commit: ""
     notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
@@ -689,7 +689,7 @@ sources:
     image_processing: 2026-06-09   # imgs ilustrativas (texto autosuficiente) -> 0 blockquotes
     ingested: 2026-06-09
     chapters_ingested: [vividness-continuity-linguistics-framing]
-    aku_count: 26
+    aku_count: 28   # 26 + 2 re-expansión (longitud-frases, emociones)
     taku_count: 0
     last_commit: ""
     notes: >
@@ -706,7 +706,7 @@ sources:
     image_processing: 2026-06-09   # ejemplos visuales ilustrativos -> 0 blockquotes
     ingested: 2026-06-09           # Kolenda 7/16: +22 AKUs (1 concept + 21 claim) + dedup-merge which-to-choose. Generador _kolenda_ecommerce.py
     chapters_ingested: [pre-purchase-evaluation-reviews-buttons-checkout]
-    aku_count: 22
+    aku_count: 28   # 22 + 6 re-expansión (6 tips de contenido de reseña)
     taku_count: 0
     last_commit: ""
     notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
@@ -719,7 +719,7 @@ sources:
     image_processing: 2026-06-09   # ejemplos visuales ilustrativos -> 0 blockquotes
     ingested: 2026-06-09           # Kolenda 3/16: +12 AKUs (1 concept + 11 claim). Generador _kolenda_font.py
     chapters_ingested: [font-traits]
-    aku_count: 12
+    aku_count: 18   # 12 + 6 re-expansión (angular, sans-serif, mayúsculas, caja-mixta, espaciadas, altas)
     taku_count: 0
     last_commit: ""
     notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
@@ -758,7 +758,7 @@ sources:
     image_processing: 2026-06-09   # ejemplos visuales ilustrativos -> 0 blockquotes
     ingested: 2026-06-09           # Kolenda 4/16: +17 AKUs (1 concept + 16 claim). Generador _kolenda_packaging.py
     chapters_ingested: [size-shape-material-design]
-    aku_count: 17
+    aku_count: 18   # 17 + 1 re-expansión (envases-angulares)
     taku_count: 0
     last_commit: ""
     notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
@@ -771,7 +771,7 @@ sources:
     image_processing: 2026-06-09   # imgs = screenshots-ejemplo ilustrativos (conocimiento en texto) + tablas ya como texto -> 0 blockquotes
     ingested: 2026-06-09
     chapters_ingested: [theory-visuals-framing-numerals-discounts]
-    aku_count: 48
+    aku_count: 53   # 48 + 5 re-expansión (partitioned, round-context)
     taku_count: 0
     last_commit: ""
     notes: >
@@ -836,10 +836,10 @@ sources:
     raw_path: "raw/libros/kolenda/pages-viral-marketing/"
     converter: mineru
     converted: 2026-06-03
-    image_processing: n/a
-    ingested: null   # pending-reingestion
-    chapters_ingested: []
-    aku_count: 0
+    image_processing: 2026-06-09   # diagramas de red ilustrativos del texto -> 0 blockquotes
+    ingested: 2026-06-09           # Kolenda 8/16: +8 AKUs (2 concept + 6 claim). Ensayo: micronetworks. Generador _kolenda_viral.py
+    chapters_ingested: [micronetworks-and-strategies]
+    aku_count: 8
     taku_count: 0
     last_commit: ""
     notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"

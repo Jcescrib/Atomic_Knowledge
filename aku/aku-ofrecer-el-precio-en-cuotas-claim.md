@@ -1,11 +1,11 @@
 ---
 type: aku
 aku_class: claim
-id: aku-dividir-el-precio-en-unidades-mas-pequenas-partitioned-prices-claim
+id: aku-ofrecer-el-precio-en-cuotas-claim
 statement: >
-  Divide el precio «primario» en unidades más pequeñas («partitioned prices»): separar el envío o vender en cuotas (12 pagos de \$115 en vez de \$1.250) hace que el cliente compare la cifra menor con su precio de referencia (Morwitz, Greenleaf & Johnson 1998). Cautela: hoy muchos esperan envío gratis.
+  Ofrecer el precio en cuotas reduce la magnitud percibida: en vez de un curso por 1.250\$, «12 pagos de 115\$» hace que el cliente compare la cifra menor (115\$) con su precio de referencia.
 origin: "Nick Kolenda — Pricing Psychology"
-domain: [kolenda, numerals,partitioned]
+domain: [kolenda, pricing,partitioned]
 
 llm_confidence: 0.50
 
@@ -29,9 +29,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-mencionar-la-equivalencia-diaria-del-precio-claim
-    - aku-separar-el-coste-de-envio-del-precio-claim
-    - aku-ofrecer-el-precio-en-cuotas-claim
+    - aku-dividir-el-precio-en-unidades-mas-pequenas-partitioned-prices-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -46,4 +44,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-mencionar-la-equivalencia-diaria-del-precio-claim]] · [[aku-separar-el-coste-de-envio-del-precio-claim]] · [[aku-ofrecer-el-precio-en-cuotas-claim]]
+**related** ↔ [[aku-dividir-el-precio-en-unidades-mas-pequenas-partitioned-prices-claim]]

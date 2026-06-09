@@ -1,11 +1,11 @@
 ---
 type: aku
 aku_class: claim
-id: aku-fuentes-condensadas-vs-espaciadas-transmiten-precision-vs-amplitud-claim
+id: aku-fuentes-altas-transmiten-ligereza-y-lujo-claim
 statement: >
-  Las fuentes condensadas transmiten estrechez y precision y van mejor con productos slim (moviles); si las letras se tocan, ese contacto transmite cercania. Las fuentes espaciadas se sienten relajantes («room to breathe»), mientras que las condensadas pueden sentirse abarrotadas o restrictivas (Choi & Kang 2013).
+  Las fuentes altas transmiten ligereza y rapidez, y resultan aspiracionales y lujosas (Choi & Kang 2013; Van Rompay et al. 2012).
 origin: "Nick Kolenda — Font Psychology"
-domain: [kolenda, fonts, spacing]
+domain: [kolenda, fonts,height]
 
 llm_confidence: 0.50
 
@@ -29,7 +29,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-fuentes-espaciadas-se-sienten-relajantes-claim
+    - aku-fuentes-cortas-vs-altas-transmiten-estabilidad-vs-ligereza-claim
 
 sources:
   - raw/libros/kolenda/font-psychology-by-nick-kolenda/font-psychology-by-nick-kolenda.md
@@ -44,4 +44,4 @@ status_note: ""
 
 **supports** → [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]
 
-**related** ↔ [[aku-fuentes-espaciadas-se-sienten-relajantes-claim]]
+**related** ↔ [[aku-fuentes-cortas-vs-altas-transmiten-estabilidad-vs-ligereza-claim]]

@@ -1,11 +1,11 @@
 ---
 type: aku
 aku_class: claim
-id: aku-las-preferencias-de-color-vienen-de-la-evolucion-y-la-valencia-ecologica-claim
+id: aku-valencia-ecologica-preferimos-colores-de-experiencias-positivas-claim
 statement: >
-  Las preferencias de color vienen de la evolucion (las mujeres prefieren rojizos por su rol ancestral recolector) y de la teoria de valencia ecologica: cuanto mas disfrute positivo asocias a objetos de un color, mas te gusta ese color (de ahi las diferencias de genero por refuerzo: azul a ninos, rosa a ninas; Palmer & Schloss 2010).
+  Por la teoria de valencia ecologica, preferimos los colores asociados a experiencias positivas: cuanto mas disfrute te dan los objetos de un color, mas te gusta ese color, y cambia con nuevas experiencias (un coche azul que te atropella vuelve el azul menos atractivo; Palmer & Schloss 2010).
 origin: "Nick Kolenda — Color Psychology"
-domain: [kolenda, color, preferences]
+domain: [kolenda, color,preferences]
 
 llm_confidence: 0.50
 
@@ -29,8 +29,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-preferencia-evolutiva-por-colores-calidos-claim
-    - aku-valencia-ecologica-preferimos-colores-de-experiencias-positivas-claim
+    - aku-las-preferencias-de-color-vienen-de-la-evolucion-y-la-valencia-ecologica-claim
 
 sources:
   - raw/libros/kolenda/color-psychology2/color-psychology2.md
@@ -45,4 +44,4 @@ status_note: ""
 
 **supports** → [[aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept]]
 
-**related** ↔ [[aku-preferencia-evolutiva-por-colores-calidos-claim]] · [[aku-valencia-ecologica-preferimos-colores-de-experiencias-positivas-claim]]
+**related** ↔ [[aku-las-preferencias-de-color-vienen-de-la-evolucion-y-la-valencia-ecologica-claim]]

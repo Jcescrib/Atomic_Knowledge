@@ -1,11 +1,11 @@
 ---
 type: aku
 aku_class: claim
-id: aku-las-preferencias-de-color-vienen-de-la-evolucion-y-la-valencia-ecologica-claim
+id: aku-esquema-de-color-split-complementario-claim
 statement: >
-  Las preferencias de color vienen de la evolucion (las mujeres prefieren rojizos por su rol ancestral recolector) y de la teoria de valencia ecologica: cuanto mas disfrute positivo asocias a objetos de un color, mas te gusta ese color (de ahi las diferencias de genero por refuerzo: azul a ninos, rosa a ninas; Palmer & Schloss 2010).
+  El esquema split-complementario usa dos colores adyacentes al complementario del color base, lo que suaviza el contraste extremo de un esquema complementario puro.
 origin: "Nick Kolenda — Color Psychology"
-domain: [kolenda, color, preferences]
+domain: [kolenda, color,schemes]
 
 llm_confidence: 0.50
 
@@ -29,8 +29,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-preferencia-evolutiva-por-colores-calidos-claim
-    - aku-valencia-ecologica-preferimos-colores-de-experiencias-positivas-claim
+    - aku-esquemas-de-combinacion-de-color-monocromatico-a-tetradico-method
 
 sources:
   - raw/libros/kolenda/color-psychology2/color-psychology2.md
@@ -45,4 +44,4 @@ status_note: ""
 
 **supports** → [[aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept]]
 
-**related** ↔ [[aku-preferencia-evolutiva-por-colores-calidos-claim]] · [[aku-valencia-ecologica-preferimos-colores-de-experiencias-positivas-claim]]
+**related** ↔ [[aku-esquemas-de-combinacion-de-color-monocromatico-a-tetradico-method]]

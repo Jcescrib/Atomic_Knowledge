@@ -1,9 +1,9 @@
 ---
 type: aku
 aku_class: claim
-id: aku-diversificar-palabras-sintaxis-y-emociones-claim
+id: aku-variar-las-emociones-del-contenido-claim
 statement: >
-  Diversifica palabras, longitudes de frase y emociones: el cerebro se aburre con rasgos linguisticos repetidos (como con la misma comida; saciedad sensorial-especifica). El contenido que cambia de emocion de forma impredecible tiene mas exito (analisis de 4.000 peliculas y 30.000 articulos; Berger, Kim & Meyer 2021).
+  Varia las emociones del contenido: el analisis de 4.000+ peliculas y 30.000+ articulos mostro que el contenido tiene mas exito cuando cambia de emocion de forma impredecible (Berger, Kim & Meyer 2021).
 origin: "Nick Kolenda — Copywriting Psychology"
 domain: [kolenda, copywriting,linguistics]
 
@@ -29,8 +29,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-variar-la-longitud-de-las-frases-claim
-    - aku-variar-las-emociones-del-contenido-claim
+    - aku-diversificar-palabras-sintaxis-y-emociones-claim
 
 sources:
   - raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -45,4 +44,4 @@ status_note: ""
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
 
-**related** ↔ [[aku-variar-la-longitud-de-las-frases-claim]] · [[aku-variar-las-emociones-del-contenido-claim]]
+**related** ↔ [[aku-diversificar-palabras-sintaxis-y-emociones-claim]]

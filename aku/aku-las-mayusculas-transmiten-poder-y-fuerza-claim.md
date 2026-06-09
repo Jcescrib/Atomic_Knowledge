@@ -1,11 +1,11 @@
 ---
 type: aku
 aku_class: claim
-id: aku-fuentes-condensadas-vs-espaciadas-transmiten-precision-vs-amplitud-claim
+id: aku-las-mayusculas-transmiten-poder-y-fuerza-claim
 statement: >
-  Las fuentes condensadas transmiten estrechez y precision y van mejor con productos slim (moviles); si las letras se tocan, ese contacto transmite cercania. Las fuentes espaciadas se sienten relajantes («room to breathe»), mientras que las condensadas pueden sentirse abarrotadas o restrictivas (Choi & Kang 2013).
+  Las mayusculas transmiten poder, energia, coraje y foco, y van bien con marcas «heroe» (BMW, Diesel, Duracell, Nike, Sony usan mayusculas para expresar fuerza; Oosterhout 2013).
 origin: "Nick Kolenda — Font Psychology"
-domain: [kolenda, fonts, spacing]
+domain: [kolenda, fonts,case]
 
 llm_confidence: 0.50
 
@@ -29,7 +29,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-fuentes-espaciadas-se-sienten-relajantes-claim
+    - aku-mayusculas-minusculas-y-caja-mixta-transmiten-poder-compasion-y-legibilidad-claim
 
 sources:
   - raw/libros/kolenda/font-psychology-by-nick-kolenda/font-psychology-by-nick-kolenda.md
@@ -44,4 +44,4 @@ status_note: ""
 
 **supports** → [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]
 
-**related** ↔ [[aku-fuentes-espaciadas-se-sienten-relajantes-claim]]
+**related** ↔ [[aku-mayusculas-minusculas-y-caja-mixta-transmiten-poder-compasion-y-legibilidad-claim]]

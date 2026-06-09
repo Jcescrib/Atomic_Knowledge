@@ -1,11 +1,11 @@
 ---
 type: aku
 aku_class: claim
-id: aku-envases-redondeados-parecen-dulces-y-femeninos-claim
+id: aku-envases-angulares-parecen-masculinos-y-picantes-claim
 statement: >
-  Los envases redondeados parecen femeninos (la angularidad parece masculina por raices evolutivas: el cuerpo femenino es mas curvo) y heredan rasgos femeninos como la dulzura (Velasco et al. 2014). Elige envase redondo para chocolate dulce y angular para comida picante.
+  Los envases angulares parecen masculinos (la angularidad evoca rasgos masculinos por raices evolutivas) y heredan rasgos asociados como lo picante; elige envase angular para comida picante o productos masculinos (Pang & Ding 2021; Velasco et al. 2014).
 origin: "Nick Kolenda — Packaging Psychology"
-domain: [kolenda, packaging, shape]
+domain: [kolenda, packaging,shape]
 
 llm_confidence: 0.50
 
@@ -29,8 +29,7 @@ relations:
   breaks_context_of: []
   contradicts: []
   related:
-    - aku-fuentes-redondeadas-transmiten-comodidad-y-suavidad-claim
-    - aku-envases-angulares-parecen-masculinos-y-picantes-claim
+    - aku-envases-redondeados-parecen-dulces-y-femeninos-claim
 
 sources:
   - raw/libros/kolenda/packaging-psychology-by-nick-kolenda/packaging-psychology-by-nick-kolenda.md
@@ -45,4 +44,4 @@ status_note: ""
 
 **supports** → [[aku-packaging-psychology-el-envase-comunica-por-heuristicas-visuales-concept]]
 
-**related** ↔ [[aku-fuentes-redondeadas-transmiten-comodidad-y-suavidad-claim]] · [[aku-envases-angulares-parecen-masculinos-y-picantes-claim]]
+**related** ↔ [[aku-envases-redondeados-parecen-dulces-y-femeninos-claim]]
