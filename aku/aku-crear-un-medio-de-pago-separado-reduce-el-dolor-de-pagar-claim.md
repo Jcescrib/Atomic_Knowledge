@@ -41,6 +41,10 @@ status: active
 status_note: ""
 ---
 
+## Figura
+
+![[797159e6db04879a4ea0e4e54679c7c4ab5afcb9891c201bf022b434ef843055.jpg]]
+
 ## Relaciones
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]

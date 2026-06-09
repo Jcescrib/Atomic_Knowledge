@@ -39,6 +39,12 @@ status: active
 status_note: ""
 ---
 
+## Figura
+
+![[4c892d4a6e6a3536b0b2f5300b8f65f8c50779f5730f579ab2146ba7e09689df.jpg]]
+![[dcff1def0e781cafe48ff7b6b8d7afc3f4ee7f3efc9825bcb3f26ca16e7436df.jpg]]
+![[ae407217b10e2e98f956d31f268ece7ecd1ef6e9ca2d0dbbb7ad6c59f9364999.jpg]]
+
 ## Relaciones
 
 **supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]

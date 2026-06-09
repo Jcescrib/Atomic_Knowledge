@@ -39,6 +39,10 @@ status: active
 status_note: ""
 ---
 
+## Figura
+
+![[386093290216f20c427df260ac1a9ebfbb0677f07a27b1b2b33c130042aaad6f.jpg]]
+
 ## Relaciones
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]

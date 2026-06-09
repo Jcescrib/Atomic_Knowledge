@@ -40,6 +40,11 @@ status: active
 status_note: ""
 ---
 
+## Figura
+
+![[b9ae8ca44dbcf1bb898a2802c141e23ca4fc13b2addb0e00c6a90bcde3fe1a80.jpg]]
+![[83b6727e5ce599773ac1ad81f4bbb1ba778c14909320036a2c61dac584f20e5b.jpg]]
+
 ## Relaciones
 
 **supports** → [[aku-packaging-psychology-el-envase-comunica-por-heuristicas-visuales-concept]]

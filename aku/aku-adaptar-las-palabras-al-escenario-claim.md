@@ -39,6 +39,10 @@ status: active
 status_note: ""
 ---
 
+## Figura
+
+![[91abcc54bfbf244b5c5a0a2e63383e13305cb6e17877e1f28c24e44e5d190347.jpg]]
+
 ## Relaciones
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]

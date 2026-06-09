@@ -39,6 +39,10 @@ status: active
 status_note: ""
 ---
 
+## Figura
+
+![[19eab93d80e68486d415a8fa46f5b14608dfde01f3db65ca495af171074f25c0.jpg]]
+
 ## Relaciones
 
 **supports** → [[aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept]]
