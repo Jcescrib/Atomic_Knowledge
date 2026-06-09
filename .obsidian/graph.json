@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 2479171
       }
+    },
+    {
+      "query": "[\"domain\": kolenda",
+      "color": {
+        "a": 1,
+        "rgb": 12210912
+      }
     }
   ],
   "collapse-display": true,
@@ -40,5 +47,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.08317427835927546,
-  "close": true
+  "close": false
 }
