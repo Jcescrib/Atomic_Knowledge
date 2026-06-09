@@ -32,6 +32,7 @@ relations:
     - aku-precios-redondos-en-compras-emocionales-claim
     - aku-precios-redondos-en-compras-de-conveniencia-claim
     - aku-precios-redondos-en-productos-sociales-claim
+    - aku-los-numeros-redondos-en-el-nombre-se-prefieren-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-precios-redondos-en-compras-emocionales-claim]] · [[aku-precios-redondos-en-compras-de-conveniencia-claim]] · [[aku-precios-redondos-en-productos-sociales-claim]]
+**related** ↔ [[aku-precios-redondos-en-compras-emocionales-claim]] · [[aku-precios-redondos-en-compras-de-conveniencia-claim]] · [[aku-precios-redondos-en-productos-sociales-claim]] · [[aku-los-numeros-redondos-en-el-nombre-se-prefieren-claim]]

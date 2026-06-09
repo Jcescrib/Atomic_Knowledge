@@ -729,12 +729,13 @@ sources:
     raw_path: "raw/libros/kolenda/naming-a-product-by-nick-kolenda/"
     converter: mineru
     converted: 2026-06-03
-    image_processing: n/a
-    ingested: null   # pending-reingestion
-    chapters_ingested: []
-    aku_count: 0
-    taku_count: 0
+    image_processing: 2026-06-09
+    ingested: 2026-06-09
+    chapters_ingested: [step1-types, step2-sounds, step3-build, step4-filter, step5-version]
+    aku_count: 58
+    taku_count: 2
     last_commit: ""
+    notes: "máximo-exhaustivo: 58 AKUs (CORE + matriz+4 tipos+8 dimensiones + sound-symbolism+5 fuentes+3 categorías fonémicas+grupos+7 significados+fonestemas + 4 métodos de construcción+6 claims + 8 filtros + 7 reglas alfanuméricas) + 2 TAKUs (framework 5-pasos, tool kit-técnicas-generativas); 16 figuras informacionales embebidas; puentes a Font (forma→significado), Packaging (género), Pricing (left-digit, anclaje, redondos, aliteración)"
     notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Negotiation Tactics by Nick Kolenda.pdf"

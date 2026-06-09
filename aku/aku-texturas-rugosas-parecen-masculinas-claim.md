@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-fuentes-bold-transmiten-poder-y-masculinidad-claim
+    - aku-los-fonemas-anteriores-evocan-lo-femenino-claim
 
 sources:
   - raw/libros/kolenda/packaging-psychology-by-nick-kolenda/packaging-psychology-by-nick-kolenda.md
@@ -53,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-packaging-psychology-el-envase-comunica-por-heuristicas-visuales-concept]]
 
-**related** ↔ [[aku-fuentes-bold-transmiten-poder-y-masculinidad-claim]]
+**related** ↔ [[aku-fuentes-bold-transmiten-poder-y-masculinidad-claim]] · [[aku-los-fonemas-anteriores-evocan-lo-femenino-claim]]
