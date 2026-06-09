@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-la-motivacion-es-relativa-encuentra-la-cosa-en-la-que-te-metes-claim
+    - aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-motivacion-es-relativa-encuentra-la-cosa-en-la-que-te-metes-claim]]
+**related** ↔ [[aku-la-motivacion-es-relativa-encuentra-la-cosa-en-la-que-te-metes-claim]] · [[aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim]]

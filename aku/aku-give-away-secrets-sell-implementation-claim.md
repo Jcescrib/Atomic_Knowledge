@@ -34,6 +34,7 @@ relations:
   related:
     - aku-lead-magnet-concept
     - aku-lead-magnet-prueba-producto-concept
+    - aku-lead-magnet-concurso-sorteo-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-lead-magnet-concept]] · [[aku-lead-magnet-prueba-producto-concept]]
+**related** ↔ [[aku-lead-magnet-concept]] · [[aku-lead-magnet-prueba-producto-concept]] · [[aku-lead-magnet-concurso-sorteo-concept]]

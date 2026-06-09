@@ -34,6 +34,8 @@ relations:
     - aku-dream-outcome-concept
     - aku-what-who-when-framework-concept
     - aku-vete-a-beneficios-ultimos-claim
+    - aku-status-posicion-en-jerarquia-social-concept
+    - aku-wealth-activos-que-ganan-mientras-duermes-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-dream-outcome-concept]] · [[aku-what-who-when-framework-concept]] · [[aku-vete-a-beneficios-ultimos-claim]]
+**related** ↔ [[aku-dream-outcome-concept]] · [[aku-what-who-when-framework-concept]] · [[aku-vete-a-beneficios-ultimos-claim]] · [[aku-status-posicion-en-jerarquia-social-concept]] · [[aku-wealth-activos-que-ganan-mientras-duermes-concept]]

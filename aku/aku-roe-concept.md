@@ -32,7 +32,13 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-estructura-de-capital-concept, aku-apalancamiento-aumenta-roe-claim, aku-roa-concept, aku-apalancamiento-financiero-concept, aku-beneficio-neto-concept]
+  related:
+    - aku-estructura-de-capital-concept
+    - aku-apalancamiento-aumenta-roe-claim
+    - aku-roa-concept
+    - aku-apalancamiento-financiero-concept
+    - aku-beneficio-neto-concept
+    - aku-equity-es-el-upside-deuda-es-downside-garantizado-concept
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -45,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-estructura-de-capital-concept]] · [[aku-apalancamiento-aumenta-roe-claim]] · [[aku-roa-concept]] · [[aku-apalancamiento-financiero-concept]] · [[aku-beneficio-neto-concept]]
+**related** ↔ [[aku-estructura-de-capital-concept]] · [[aku-apalancamiento-aumenta-roe-claim]] · [[aku-roa-concept]] · [[aku-apalancamiento-financiero-concept]] · [[aku-beneficio-neto-concept]] · [[aku-equity-es-el-upside-deuda-es-downside-garantizado-concept]]

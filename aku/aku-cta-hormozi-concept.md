@@ -33,6 +33,7 @@ relations:
   related:
     - aku-cta-concept
     - aku-copy-incluir-cta-claim
+    - aku-hacks-copywriting-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cta-concept]] · [[aku-copy-incluir-cta-claim]]
+**related** ↔ [[aku-cta-concept]] · [[aku-copy-incluir-cta-claim]] · [[aku-hacks-copywriting-concept]]

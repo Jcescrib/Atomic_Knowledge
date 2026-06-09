@@ -1,0 +1,1030 @@
+# Propuestas de puente nivel (b) — conceptuales, requieren aprobacion
+
+Total: 513 pares unicos (no ya enlazados).
+
+- [ ] `aku-dieta-paleo-fuel-concept` ↔ `aku-la-grasa-sacia-el-azucar-da-hambre-y-su-combinacion-es-letal-claim`
+      - Ambos sobre nutrición paleo/azúcar; ángulos distintos del mismo dominio.
+- [ ] `aku-free-bootstrap-plataforma-claim` ↔ `aku-marketplace-concept`
+      - Marketplace es instancia de plataforma multi-lado que el claim bootstrappea.
+- [ ] `aku-beneficio-emocional-concept` ↔ `aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept`
+      - Ambos: la emoción precede y domina a la razón.
+- [ ] `aku-content-platform-concept` ↔ `aku-free-bootstrap-plataforma-claim`
+      - Content platform monetiza vía free; instancia del mecanismo del claim.
+- [ ] `aku-arpu-concept` ↔ `aku-ltgp-concept`
+      - Métricas paralelas de valor del cliente, ángulos revenue vs gross profit.
+- [ ] `aku-evaluation-health-concept` ↔ `aku-los-sanos-cuidan-mas-que-comen-que-cuanto-comen-claim`
+      - Ambos sobre nutrición/salud; el claim refina calidad sobre cantidad.
+- [ ] `aku-free-bootstrap-plataforma-claim` ↔ `aku-on-demand-platform-concept`
+      - On-demand es subtipo de plataforma multi-lado del claim.
+- [ ] `aku-dieta-paleo-fuel-concept` ↔ `aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim`
+      - Ambos sobre evolución, azúcar y desajuste dieta-genes.
+- [ ] `aku-clasificados-concept` ↔ `aku-free-bootstrap-plataforma-claim`
+      - Clasificados monetizan vía free; instancia del mecanismo del claim.
+- [ ] `aku-apuntar-solo-a-influencers-no-basta-tres-problemas-claim` ↔ `aku-herramientas-marketing-influencers-concept`
+      - Ambos sobre marketing de influencers desde ángulos distintos.
+- [ ] `aku-client-financed-acquisition-concept` ↔ `aku-motor-crecimiento-pago-concept`
+      - CFA resuelve el cash flow que limita el motor de pago; mismo objeto.
+- [ ] `aku-humildad-es-la-cualidad-mas-importante-claim` ↔ `aku-rodearte-de-yes-men-impide-aprender-de-tus-errores-claim`
+      - Ambos: aceptar crítica constructiva para corregir errores propios.
+- [ ] `aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim` ↔ `aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept`
+      - Ambos sobre fuerza de voluntad vs deseo/entorno; angulos distintos.
+- [ ] `aku-riches-in-niches-pricing-claim` ↔ `aku-segmentado-strategy-concept`
+      - Nicho vs segmentado: concepto adyacente de segmentacion, angulos distintos.
+- [ ] `aku-agregacion-de-ganancias-marginales-concept` ↔ `aku-lideres-nunca-satisfechos-mejora-continua-claim`
+      - Ambos sobre mejora continua; angulos distintos, juicio requerido.
+- [ ] `aku-explore-exploit-trade-off-method` ↔ `aku-many-sided-die-claim`
+      - Ambos: experimentar/iterar persistiendo gana; metaforas distintas.
+- [ ] `aku-blitzscaling-cuando-oportunidad-enorme-claim` ↔ `aku-free-bootstrap-plataforma-claim`
+      - Ambos sobre network effects y alcanzar masa critica; angulos distintos.
+- [ ] `aku-free-bootstrap-plataforma-claim` ↔ `aku-winner-takes-all-go-to-market-claim`
+      - Bootstrap masa critica vs winner-takes-all; network effects compartido.
+- [ ] `aku-entorno-de-recompensa-inmediata-vs-diferida-concept` ↔ `aku-pequenas-elecciones-diarias-construyen-todo-claim`
+      - Recompensa diferida vs negar gratificacion inmediata; mismo objeto.
+- [ ] `aku-cltv-minus-cac-concept` ↔ `aku-gross-profit-additional-customer-concept`
+      - CLTV-CAC usa margen; gross profit por cliente es componente del CLTV.
+- [ ] `aku-habit-contract-y-accountability-partner-method` ↔ `aku-ponlo-todo-por-escrito-la-palabra-no-vale-nada-claim`
+      - Contrato escrito firmado como compromiso; angulos distintos.
+- [ ] `aku-lean-startup-method-concept` ↔ `aku-no-hay-solucion-100-correcta-claim`
+      - Ambos: decidir bajo incertidumbre y ajustar con info nueva.
+- [ ] `aku-automatiza-tus-habitos-con-tecnologia-y-decisiones-unicas-method` ↔ `aku-friccion-flywheel-concept`
+      - Automatizar reduce friccion/esfuerzo; mismo mecanismo, dominios distintos.
+- [ ] `aku-cambiar-un-habito-comprometiendote-30-dias-y-enfocando-semana-a-semana-method` ↔ `aku-cuando-de-verdad-quieres-cambiar-cambias-intentar-es-aplazar-claim`
+      - Ambos sobre cambio de habito; angulos opuestos pero mismo objeto.
+- [ ] `aku-entorno-de-recompensa-inmediata-vs-diferida-concept` ↔ `aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept`
+      - Ambos: disenar el entorno para condicionar conducta futura.
+- [ ] `aku-fear-of-loss-claim` ↔ `aku-negotiation-tactics-influencia-psicologica-por-fase-concept`
+      - Loss aversion es uno de los sesgos que explota la negociacion.
+- [ ] `aku-the-code-concept` ↔ `aku-tres-capas-liderazgo-concept`
+      - Ambos: liderarse a uno mismo (salud, emociones) como nucleo.
+- [ ] `aku-lean-startup-method-concept` ↔ `aku-paso-pequeno-reevaluar-ante-incertidumbre-method`
+      - Ambos: pasos pequenos iterativos ante incertidumbre, reevaluar.
+- [ ] `aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept` ↔ `aku-los-habitos-son-un-bucle-de-retroalimentacion-de-dopamina-claim`
+      - Ambos: entorno disenado para explotar adiccion (comida basura, drogas).
+- [ ] `aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim` ↔ `aku-habitos-basados-en-la-identidad-vs-en-resultados-concept`
+      - Ambos: habitos incrustados en la identidad, revisarlos deliberadamente.
+- [ ] `aku-friccion-flywheel-concept` ↔ `aku-volumen-cold-tres-palancas-concept`
+      - Ambos: automatizar como palanca para escalar/acelerar.
+- [ ] `aku-medida-significativa-liderazgo-claim` ↔ `aku-plan-medicion-metas-concept`
+      - Ambos: criterio binario de exito/fracaso medido por resultado.
+- [ ] `aku-circulo-vicioso-concept` ↔ `aku-virtuous-cycle-of-price-claim`
+      - Ambos describen bucles virtuoso/vicioso; contextos distintos pero mismo mecanismo.
+- [ ] `aku-castigo-raro-y-con-lineas-claras-claim` ↔ `aku-hacer-respetar-las-reglas-exige-aplicar-las-consecuencias-aunque-rompa-una-relacion-claim`
+      - Ambos: aplicar consecuencias de reglas con autoridad; angulos distintos del mismo objeto
+- [ ] `aku-cialdini-escasez-concept` ↔ `aku-deseo-viene-de-no-tener-claim`
+      - Mismo mecanismo: escasez/limitar genera deseo; angulos complementarios
+- [ ] `aku-dicta-quien-es-tu-oponente-compite-contra-el-mejor-en-tu-terreno-claim` ↔ `aku-posture-principle-concept`
+      - Ambos: elegir terreno/posicion favorable contra el rival
+- [ ] `aku-circulo-virtuoso-concept` ↔ `aku-virtuous-cycle-of-price-claim`
+      - Mismo objeto: circulo virtuoso, mecanismos distintos (network vs precio)
+- [ ] `aku-48laws-27-play-on-need-to-believe-concept` ↔ `aku-copy-promesas-concretas-claim`
+      - Ambos sobre promesas vagas vs concretas en persuasion; angulos opuestos
+- [ ] `aku-beneficio-emocional-concept` ↔ `aku-los-nombres-deviant-son-los-mas-emocionales-claim`
+      - Ambos sobre contenido emocional como valor; naming vs propuesta valor
+- [ ] `aku-cold-outreach-numbers-game-claim` ↔ `aku-herramientas-growth-hacking-concept`
+      - Outreach como juego de numeros se apoya en herramientas de automatizacion
+- [ ] `aku-valor-independiente-usuarios-modelo-lineal-claim` ↔ `aku-virtuous-cycle-of-price-claim`
+      - Ambos mencionan circulo virtuoso de demanda; modelo lineal carece de el
+- [ ] `aku-bonos-gratis-crean-problemas-upsell` ↔ `aku-problem-solution-fit-concept`
+      - Ambos sobre problema-solucion; PSF es marco del ciclo que invoca.
+- [ ] `aku-decisiveness-amid-uncertainty-concept` ↔ `aku-innovar-vs-competir-concept`
+      - Ambos sobre decision bajo incertidumbre; angulos liderazgo vs estrategia.
+- [ ] `aku-explorar-alternativas-actuales-method` ↔ `aku-problem-solution-cycle-concept`
+      - Ambos del ciclo problema-solucion; entrevista explora, ciclo lo conceptualiza.
+- [ ] `aku-la-adversidad-temprana-forja-una-resiliencia-que-el-privilegio-no-da-claim` ↔ `aku-la-vida-pasa-para-ti-no-a-ti-claim`
+      - Ambos sobre adversidad como fuente de crecimiento/resiliencia; angulos cercanos.
+- [ ] `aku-beneficio-emocional-concept` ↔ `aku-usar-precios-redondos-en-el-contexto-adecuado-claim`
+      - Ambos sobre compra emocional vs racional; beneficio emocional, precio emocional.
+- [ ] `aku-categoria-de-uno-concept` ↔ `aku-posicionamiento-sector-comoditizado-concept`
+      - Ambos sobre escapar comoditizacion via posicionamiento diferenciado; angulos cercanos.
+- [ ] `aku-delivery-vehicles-concept` ↔ `aku-elegir-el-medio-de-comunicacion-adecuado-claim`
+      - Ambos clasifican medios (presencial/video/texto) por riqueza; entrega vs negociacion.
+- [ ] `aku-identidad-de-marca-concept` ↔ `aku-primar-la-eleccion-con-diseno-visual-semantic-priming-claim`
+      - Ambos sobre branding visual/diseno distintivo; identidad vs priming.
+- [ ] `aku-arpu-concept` ↔ `aku-gross-profit-additional-customer-concept`
+      - Ambos metricas de unit economics (revenue por cliente); inputs del CLTV/LTGP.
+- [ ] `aku-el-entorno-es-la-mano-invisible-que-moldea-la-conducta-claim` ↔ `aku-no-hay-soluciones-permanentes-en-un-sistema-dinamico-claim`
+      - Ambos: el entorno cambiante exige rediseno/adaptacion; angulos cercanos.
+- [ ] `aku-culpar-se-contagia-claim` ↔ `aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim`
+      - Culpar a otros vs ownership total; mismo objeto, angulos opuestos.
+- [ ] `aku-con-un-porque-suficientemente-grande-superas-cualquier-como-claim` ↔ `aku-thread-of-why-conectar-al-individuo-claim`
+      - Ambos sobre el poder del porque/motivacion, angulos distintos.
+- [ ] `aku-los-nombres-neologisticos-son-los-mas-escalables-claim` ↔ `aku-marca-concept`
+      - Nombre neologistico construye percepciones; marca es agregado de percepciones.
+- [ ] `aku-cialdini-pertenencia-concept` ↔ `aku-unete-a-una-cultura-donde-tu-conducta-deseada-sea-lo-normal-method`
+      - Ambos sobre pertenencia/identidad de grupo; principio vs metodo.
+- [ ] `aku-capital-escala-mejor-que-las-personas-claim` ↔ `aku-leverage-leads-por-tiempo-concept`
+      - Ambos sobre apalancamiento/leverage que escala; angulos distintos.
+- [ ] `aku-blitz-no-resuelvas-todos-problemas-claim` ↔ `aku-saber-que-es-importante-y-que-no-method`
+      - Ambos sobre priorizacion: discriminar lo importante de lo trivial.
+- [ ] `aku-ceder-desequilibra-al-oponente-claim` ↔ `aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim`
+      - Ambos: ceder/soltar vence a resistir; mismo principio aplicado.
+- [ ] `aku-fortaleza-puede-ser-debilidad-y-viceversa-claim` ↔ `aku-tests-personalidad-concept`
+      - Ambos sobre fortalezas/debilidades del autoconocimiento; angulos distintos.
+- [ ] `aku-la-respiracion-es-la-puerta-al-sistema-nervioso-autonomo-concept` ↔ `aku-stress-bueno-y-malo-cortisol-claim`
+      - Ambos sobre fisiologia del sistema nervioso/estres y cuerpo.
+- [ ] `aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim` ↔ `aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept`
+      - Ambos: resistir cues/entorno adictivo; control de entorno vs voluntad.
+- [ ] `aku-azucar-es-adictivo-como-droga-claim` ↔ `aku-la-grasa-sacia-el-azucar-da-hambre-y-su-combinacion-es-letal-claim`
+      - Ambos sobre efectos del azucar en el cuerpo; angulos complementarios.
+- [ ] `aku-mantenerse-sobrio-cuando-otros-beben-da-ventaja-competitiva-claim` ↔ `aku-ventaja-competitiva-concept`
+      - Claim usa literalmente 'ventaja competitiva'; instancia personal del concepto.
+- [ ] `aku-circulo-dorado-concept` ↔ `aku-commanders-intent-concept`
+      - Ambos centran el porque/proposito sobre el que; angulos marketing vs mando.
+- [ ] `aku-commanders-intent-concept` ↔ `aku-proposito-mision-concept`
+      - Commander's intent es el porque/proposito de la mision; instancia del concepto.
+- [ ] `aku-incluso-en-la-muerte-hay-good-claim` ↔ `aku-proposito-personal-sostenibilidad-claim`
+      - Ambos sobre vivir conforme al proposito personal; angulos distintos.
+- [ ] `aku-dar-dos-descuentos-en-orden-ascendente-claim` ↔ `aku-orden-variacion-oferta-fatiga-method`
+      - Ambos sobre orden creciente de descuentos/palancas en ofertas.
+- [ ] `aku-free-bootstrap-plataforma-claim` ↔ `aku-motor-crecimiento-viral-concept`
+      - Ambos sobre network effects/masa critica; bootstrap vs crecimiento viral.
+- [ ] `aku-nicho-strategy-concept` ↔ `aku-segmentar-la-copy-por-necesidades-distintas-claim`
+      - Segmentacion: nicho como estrategia vs segmentar copy; mismo principio, angulos distintos.
+- [ ] `aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept` ↔ `aku-mindfulness-concept`
+      - Ambos describen observar pensamientos sin juicio; mismo objeto, marcos distintos.
+- [ ] `aku-autoevaluacion-cuerpo-mente-alma-concept` ↔ `aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim`
+      - Cuerpo (sueno/ejercicio) como base del rendimiento; instancia del marco autoevaluacion.
+- [ ] `aku-leading-up-the-chain-concept` ↔ `aku-liderar-vs-gestionar-concept`
+      - Ambos sobre liderazgo; leading-up es faceta del rol lider, juicio requerido.
+- [ ] `aku-depth-then-width-vs-width-then-depth-concept` ↔ `aku-eleccion-red-social-segun-negocio-claim`
+      - Estrategia de canales/plataformas sociales; profundidad vs amplitud y eleccion de red, mismo objeto.
+- [ ] `aku-describir-el-siguiente-paso-concreto-en-el-boton-claim` ↔ `aku-landing-page-permiso-concept`
+      - Ambos sobre CTA/landing y dar el siguiente paso; mecanismo complementario.
+- [ ] `aku-plan-medicion-segmentos-concept` ↔ `aku-segmentar-la-copy-por-necesidades-distintas-claim`
+      - Ambos sobre segmentar usuarios por comportamiento/necesidades; mismo principio.
+- [ ] `aku-detachment-default-high-port-claim` ↔ `aku-las-negociaciones-no-son-personales-muevete-por-estrategia-no-emocion-claim`
+      - Ambos: calma/desapego para decidir por estrategia no emocion; mismo principio.
+- [ ] `aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim` ↔ `aku-encajar-atributos-con-el-rol-claim`
+      - Ambos sobre alinear fortalezas/debilidades con el juego o rol; mismo principio.
+- [ ] `aku-palabras-frases-persuasivas-concept` ↔ `aku-tipos-y-tacticas-escasez-concept`
+      - Escasez como resorte: power words de urgencia/escasez vs tacticas de escasez; instancia.
+- [ ] `aku-cuatro-tipos-de-suerte-concept` ↔ `aku-mentalidad-de-hustler-lo-recupero-en-la-siguiente-claim`
+      - Suerte por persistencia/hustle vs mentalidad hustler de seguir; mismo mecanismo.
+- [ ] `aku-bonus-presentation-checklist-concept` ↔ `aku-formula-titulo-caso-exito-method`
+      - Ambos: titulo con beneficio y aportar prueba; tecnica de presentacion compartida.
+- [ ] `aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept` ↔ `aku-mente-de-mono-concept`
+      - Mente saltando a pasado/futuro: felicidad por silencio mental vs mente de mono, mismo objeto.
+- [ ] `aku-responder-no-reaccionar-da-control-claim` ↔ `aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept`
+      - Emocion antes que razon: amigdala vs System1; mismo mecanismo neuro, angulos distintos.
+- [ ] `aku-crear-percepcion-de-demanda-y-exclusividad-enciende-la-demanda-real-claim` ↔ `aku-pricing-psychology-el-precio-es-percepcion-concept`
+      - Percepcion crea realidad: demanda percibida vs precio percibido; mismo principio psicologico.
+- [ ] `aku-la-meditacion-con-mantra-baja-el-volumen-de-los-pensamientos-method` ↔ `aku-mejora-metodica-de-tu-baseline-de-felicidad-method`
+      - Naval lista meditar y bajar parloteo; mantra es esa instancia
+- [ ] `aku-48laws-38-think-as-you-like-behave-like-others-concept` ↔ `aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim`
+      - Ambos sobre conformidad social y coste de disentir del grupo
+- [ ] `aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim` ↔ `aku-para-ser-honesto-habla-sin-identidad-las-etiquetas-te-atan-claim`
+      - Ambos tratan identidad y creencias desde angulos opuestos
+- [ ] `aku-referral-growth-exponential-claim` ↔ `aku-valor-independiente-usuarios-modelo-lineal-claim`
+      - Ambos contrastan crecimiento lineal vs no-lineal/exponencial
+- [ ] `aku-asumir-equivocarse-claim` ↔ `aku-iterative-decision-making-method`
+      - Ambos sobre decidir bajo incertidumbre con experimentos/iteracion
+- [ ] `aku-innovar-vs-competir-concept` ↔ `aku-iterative-decision-making-method`
+      - Innovar=alta incertidumbre; iterar es su metodo apropiado
+- [ ] `aku-alineacion-laboral-motivaciones-felicidad-claim` ↔ `aku-evaluation-professional-development-concept`
+      - Ambos sobre desarrollo profesional y significado en el trabajo
+- [ ] `aku-las-personas-disciplinadas-estructuran-su-entorno-para-no-necesitar-fuerza-de-voluntad-claim` ↔ `aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim`
+      - Ambos: mejorar sin depender de fuerza de voluntad, vias distintas
+- [ ] `aku-copy-sin-florituras-claim` ↔ `aku-cta-hormozi-concept`
+      - Ambos: lenguaje claro y directo en copy/CTA persuasivo
+- [ ] `aku-establece-un-sistema-de-reflexion-y-revision-de-tus-habitos-method` ↔ `aku-post-operational-debrief-method`
+      - Ambos son rutinas de revision estructurada con las mismas tres preguntas.
+- [ ] `aku-establece-un-sistema-de-reflexion-y-revision-de-tus-habitos-method` ↔ `aku-lideres-nunca-satisfechos-mejora-continua-claim`
+      - Ambos sobre evaluacion honesta para mejora continua sin complacencia.
+- [ ] `aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim` ↔ `aku-plan-medicion-metas-concept`
+      - Goodhart advierte sobre las metas/KPIs que el plan de medicion fija.
+- [ ] `aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim` ↔ `aku-plan-medicion-kpis-concept`
+      - Goodhart restringe la eleccion de KPIs del plan de medicion.
+- [ ] `aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim` ↔ `aku-plan-de-medicion-concept`
+      - Goodhart matiza el plan de medicion que conecta objetivos y metricas.
+- [ ] `aku-segmentado-strategy-concept` ↔ `aku-segmentar-la-copy-por-necesidades-distintas-claim`
+      - Ambos sobre adaptar oferta/copy a segmentos distintos del mercado.
+- [ ] `aku-reflect-and-diminish-method` ↔ `aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept`
+      - La tecnica de desescalar emocional instancia la primacia de la emocion.
+- [ ] `aku-cac-concept` ↔ `aku-money-model-tres-etapas-concept`
+      - El money model busca que el cliente financie su propio CAC.
+- [ ] `aku-para-tener-paz-mental-primero-hay-que-tener-paz-del-cuerpo-claim` ↔ `aku-stress-bueno-y-malo-cortisol-claim`
+      - Ambos: el estado fisico condiciona la mente via ejercicio.
+- [ ] `aku-cascada-estrategica-ejecucion-concept` ↔ `aku-feedback-hacia-arriba-cadena-claim`
+      - Feedback ascendente alinea ejecucion con la cascada estrategica.
+- [ ] `aku-client-financed-acquisition-concept` ↔ `aku-motor-crecimiento-concept`
+      - CFA es mecanismo de financiar adquisicion dentro del motor de pago.
+- [ ] `aku-cada-conducta-tiene-un-craving-de-superficie-y-un-motivo-profundo-concept` ↔ `aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim`
+      - Ambos tratan naturaleza del deseo desde angulos distintos.
+- [ ] `aku-anade-placer-inmediato-al-buen-habito-para-cerrar-la-brecha-temporal-claim` ↔ `aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim`
+      - Ambos sobre dolor inmediato vs recompensa diferida del cerebro.
+- [ ] `aku-el-deseo-es-la-diferencia-entre-donde-estas-y-donde-quieres-estar-claim` ↔ `aku-el-estado-neutral-es-un-estado-de-perfeccion-como-el-de-los-ninos-claim`
+      - Gap del deseo vs estado neutral sin falta; mismo objeto opuesto.
+- [ ] `aku-calentamiento-progresivo-method` ↔ `aku-para-tener-paz-mental-primero-hay-que-tener-paz-del-cuerpo-claim`
+      - Ambos sobre ejercicio fisico ligero y su efecto; instancia/principio.
+- [ ] `aku-cuando-de-verdad-quieres-cambiar-cambias-intentar-es-aplazar-claim` ↔ `aku-el-cambio-de-conducta-duradero-es-cambio-de-identidad-claim`
+      - Ambos sobre que hace duradero el cambio de conducta.
+- [ ] `aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim` ↔ `aku-plan-medicion-objetivos-concept`
+      - Ley de Goodhart restringe el uso de objetivos de medicion.
+- [ ] `aku-con-un-porque-suficientemente-grande-superas-cualquier-como-claim` ↔ `aku-la-motivacion-es-relativa-encuentra-la-cosa-en-la-que-te-metes-claim`
+      - Ambos sobre naturaleza de la motivacion para actuar.
+- [ ] `aku-aprende-nuevas-habilidades-liderazgo-claim` ↔ `aku-specific-knowledge-no-se-ensena-pero-se-aprende-claim`
+      - Ambos sobre como se adquieren habilidades: practica vs instruccion.
+- [ ] `aku-good-mindset-concept` ↔ `aku-la-adversidad-temprana-forja-una-resiliencia-que-el-privilegio-no-da-claim`
+      - Mindset GOOD ante adversidad y resiliencia forjada; mismo objeto.
+- [ ] `aku-el-priming-influye-en-la-conducta-claim` ↔ `aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept`
+      - Ambos: procesos no conscientes/emocionales preceden a la conducta; angulos complementarios.
+- [ ] `aku-coeficiente-viralidad-concept` ↔ `aku-free-bootstrap-plataforma-claim`
+      - Ambos sobre network effects/crecimiento auto-sostenido; mecanismos relacionados.
+- [ ] `aku-confia-en-tu-instinto-por-encima-de-la-sola-instruccion-claim` ↔ `aku-sopesar-riesgo-recompensa-coste-inaccion-claim`
+      - Ambos sobre el instinto en la decision; angulos opuestos pero mismo objeto.
+- [ ] `aku-conocer-tu-valor-y-extraer-el-maximo-concept` ↔ `aku-diagnostico-estrategico-personal-concept`
+      - Ambos: evaluacion estrategica del propio valor/situacion personal; mismo objeto.
+- [ ] `aku-iluminacion-es-el-espacio-entre-tus-pensamientos-concept` ↔ `aku-mente-de-mono-concept`
+      - Ambos: reducir el flujo de pensamientos para ganar presencia; mismo objeto opuesto.
+- [ ] `aku-cultura-corporativa-concept` ↔ `aku-cultura-ownership-resiste-perdida-lider-claim`
+      - Cultura corporativa como objeto; ownership es instancia de cultura solida.
+- [ ] `aku-aprender-pensando-por-uno-mismo-descubre-mas-claim` ↔ `aku-ser-aprendiz-perpetuo-es-la-habilidad-clave-para-hacerse-rico-claim`
+      - Ambos sobre aprender como meta-habilidad; angulos complementarios, mismo objeto.
+- [ ] `aku-el-poder-de-la-percepcion-concept` ↔ `aku-pricing-psychology-el-precio-es-percepcion-concept`
+      - Ambos: la percepcion (no la esencia/valor) se gestiona; mismo principio aplicado.
+- [ ] `aku-leyes-persuasion-cialdini-concept` ↔ `aku-vender-menos-aumenta-demanda-claim`
+      - Escasez es uno de los principios de persuasion; instancia conceptual.
+- [ ] `aku-ampliar-gap-valor-precio-claim` ↔ `aku-innovacion-valor-via-eric-claim`
+      - Ambos sobre ampliar gap valor-coste/precio desde angulos distintos.
+- [ ] `aku-ampliar-gap-valor-precio-claim` ↔ `aku-innovacion-valor-concept`
+      - Mismo objeto valor vs coste/precio; subir valor como mecanismo comun.
+- [ ] `aku-paid-ads-concept` ↔ `aku-regla-20-texto-facebook-ads-claim`
+      - Regla del 20% es instancia concreta de eficiencia/alcance en paid ads.
+- [ ] `aku-evaluation-relationship-concept` ↔ `aku-objetivos-personales-concept`
+      - Ambos tratan relaciones/familia como dimension vital clave.
+- [ ] `aku-anade-placer-inmediato-al-buen-habito-para-cerrar-la-brecha-temporal-claim` ↔ `aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim`
+      - Ambos sobre formacion y cambio de habitos buenos/malos.
+- [ ] `aku-cuatro-leyes-del-cambio-de-conducta-concept` ↔ `aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim`
+      - Framework para cambiar habitos vs cambio de habitos como proceso.
+- [ ] `aku-no-hay-buenos-ni-malos-habitos-solo-habitos-efectivos-claim` ↔ `aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim`
+      - Ambos sobre naturaleza de habitos buenos/malos; angulos distintos.
+- [ ] `aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method` ↔ `aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim`
+      - Metodo para cambiar habitos vs tesis de cambio de habitos.
+- [ ] `aku-azucar-es-adictivo-como-droga-claim` ↔ `aku-las-adicciones-pueden-disolverse-al-cambiar-radicalmente-el-entorno-claim`
+      - Ambos sobre adiccion (heroina); mecanismo neuronal vs entorno.
+- [ ] `aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept` ↔ `aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim`
+      - Ambos sobre estado interno y como pensamientos generan deseo/craving
+- [ ] `aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept` ↔ `aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim`
+      - Ambos: deseo de cambiar estado interno como motor de insatisfaccion
+- [ ] `aku-sistemas-vs-metas-en-atomic-habits-concept` ↔ `aku-the-evaluation-concept`
+      - Sistemas/procesos vs metas: ambos priorizan sistema sobre resultado
+- [ ] `aku-habitos-basados-en-la-identidad-vs-en-resultados-concept` ↔ `aku-the-path-concept`
+      - Ambos: convertirse en quien quieres ser como guia de la conducta
+- [ ] `aku-precio-alto-aumenta-valor-percibido-claim` ↔ `aku-subir-los-atributos-indeseables-por-encima-de-cero-zero-comparison-claim`
+      - Ambos sobre manipular el valor percibido via referencias de precio/numero
+- [ ] `aku-delivery-cube-concept` ↔ `aku-formato-contenido-caso-exito-concept`
+      - Formatos de entrega: caso-exito es instancia de los delivery vehicles
+- [ ] `aku-medicion-resultados-influencers-concept` ↔ `aku-paid-ads-concept`
+      - Ambos sobre canales pagados de alcance y su medicion de retorno
+- [ ] `aku-accountability-bajo-tu-nombre-concept` ↔ `aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept`
+      - Ambos: asumir responsabilidad total como base del exito
+- [ ] `aku-delivery-vehicles-concept` ↔ `aku-lead-magnet-curso-gratuito-concept`
+      - Curso gratuito es instancia de los delivery vehicles por formato/medio
+- [ ] `aku-delivery-cube-concept` ↔ `aku-lead-magnet-curso-gratuito-concept`
+      - Curso por email/video es instancia del delivery cube
+- [ ] `aku-autoevaluacion-cuerpo-mente-alma-concept` ↔ `aku-stress-bueno-y-malo-cortisol-claim`
+      - Autoevaluacion del cuerpo/recuperacion conecta con estres y cortisol
+- [ ] `aku-good-mindset-concept` ↔ `aku-mentalidad-de-hustler-lo-recupero-en-la-siguiente-claim`
+      - Ambos: mindset de no rumiar el reves y seguir hacia la solucion
+- [ ] `aku-eminently-qualified-human-concept` ↔ `aku-objetivos-personales-concept`
+      - Ambos: dimensiones de la vida (salud, desarrollo) para fijar objetivos
+- [ ] `aku-matriz-rice-concept` ↔ `aku-value-equation-concept`
+      - Ambos frameworks rediseñan valor de la oferta; angulos distintos, requiere juicio.
+- [ ] `aku-asumir-equivocarse-claim` ↔ `aku-no-hay-solucion-100-correcta-claim`
+      - Ambos: decidir con info incompleta y ajustar; mismo principio desde angulos distintos.
+- [ ] `aku-asumir-equivocarse-claim` ↔ `aku-decisiveness-amid-uncertainty-concept`
+      - Decision bajo incertidumbre, asumir error vs no esperar cuadro completo; conexion conceptual.
+- [ ] `aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim` ↔ `aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim`
+      - Ambos sobre habitos e identidad; votos por identidad vs descondicionar habitos.
+- [ ] `aku-apelar-a-las-emociones-en-mercados-tradicionales-claim` ↔ `aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept`
+      - Ambos: apelar a emocion es mas poderoso; mecanismo (System 1) y aplicacion.
+- [ ] `aku-disciplina-se-extiende-a-todo-claim` ↔ `aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept`
+      - Ambos: no decidir desde emociones; disciplinarlas vs no fiarse de ellas.
+- [ ] `aku-mass-market-strategy-concept` ↔ `aku-target-un-microsegmento-y-escala-hacia-fuera-claim`
+      - Mass market sin segmentar vs apuntar microsegmento; polos opuestos del mismo eje segmentacion.
+- [ ] `aku-segmentado-strategy-concept` ↔ `aku-target-un-microsegmento-y-escala-hacia-fuera-claim`
+      - Estrategia segmentada vs apuntar microsegmento; ambos sobre segmentacion del mercado.
+- [ ] `aku-continuity-offer-concept` ↔ `aku-dividir-el-precio-en-unidades-mas-pequenas-partitioned-prices-claim`
+      - ambos sobre estructurar pagos recurrentes/fraccionados para conversion
+- [ ] `aku-interes-sin-riesgo-concept` ↔ `aku-negocio-sin-ti-es-activo-claim`
+      - ambos sobre valoracion de inversion; activo vs tasa libre riesgo
+- [ ] `aku-clausula-formato-contenidos-concept` ↔ `aku-lead-magnet-multiples-formatos-claim`
+      - ambos sobre formatos de contenido (video, texto, imagen)
+- [ ] `aku-clausula-formato-contenidos-concept` ↔ `aku-delivery-vehicles-concept`
+      - ambos definen formato/medio de entrega del contenido
+- [ ] `aku-autoconciencia-lider-carencias-claim` ↔ `aku-evaluation-character-leadership-concept`
+      - ambos sobre autoconciencia y desarrollo del lider
+- [ ] `aku-evaluation-character-leadership-concept` ↔ `aku-tres-capas-liderazgo-concept`
+      - ambos: liderarse a uno mismo como nucleo del liderazgo
+- [ ] `aku-hesitacion-es-el-enemigo-claim` ↔ `aku-para-superar-un-miedo-reconocelo-y-planifica-superarlo-method`
+      - ambos: superar miedo para actuar; vacilacion vs plan
+- [ ] `aku-48laws-25-re-create-yourself-concept` ↔ `aku-todos-tenemos-una-creencia-contraria-que-la-tribu-rechaza-claim`
+      - ambos: forjar identidad propia contra lo que sociedad impone
+- [ ] `aku-decide-despacio-actua-rapido-y-deja-que-el-acto-dure-decadas-claim` ↔ `aku-motion-vs-action-concept`
+      - ambos: distinguir planificar/pensar de la accion que produce
+- [ ] `aku-actua-antes-de-que-caiga-el-hacha-adelantate-a-lo-inevitable-claim` ↔ `aku-hesitacion-es-el-enemigo-claim`
+      - ambos: actuar y no esperar; adelantarse vs no vacilar
+- [ ] `aku-decide-despacio-actua-rapido-y-deja-que-el-acto-dure-decadas-claim` ↔ `aku-hesitacion-es-el-enemigo-claim`
+      - ambos sobre decidir y actuar sin vacilar; angulos distintos
+- [ ] `aku-reencuadra-tus-habitos-de-have-to-a-get-to-method` ↔ `aku-simulation-fluency-simulamos-resultado-menos-proceso-concept`
+      - ambos: balance beneficios-costes percibidos para motivar accion
+- [ ] `aku-cascada-estrategica-ejecucion-concept` ↔ `aku-prioritize-and-execute-pasos-method`
+      - ambos sobre traducir estrategia a ejecucion alineada
+- [ ] `aku-lead-nurturing-concept` ↔ `aku-solve-every-problem-claim`
+      - ambos: resolver dudas/problemas del prospecto para convertir
+- [ ] `aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim` ↔ `aku-no-necesitas-ser-consciente-del-cue-para-que-un-habito-empiece-claim`
+      - Ambos sobre habitos automaticos y revisarlos conscientemente
+- [ ] `aku-no-hay-solucion-100-correcta-claim` ↔ `aku-sabiduria-es-conocer-consecuencias-a-largo-plazo-juicio-es-aplicarla-concept`
+      - Ambos sobre la calidad de la decision del lider
+- [ ] `aku-factores-internos-recursos-capacidades-concept` ↔ `aku-overload-principle-concept`
+      - Ambos sobre concentrar recursos donde tienes ventaja
+- [ ] `aku-anuncio-callout-value-cta-concept` ↔ `aku-copy-incluir-titular-claim`
+      - Call-out del anuncio y titular del copy captan atencion inicial
+- [ ] `aku-el-contexto-es-el-cue-un-espacio-un-uso-concept` ↔ `aku-no-hay-espacio-para-el-exito-y-los-suckers-alejate-del-entorno-toxico-claim`
+      - Ambos sobre el entorno que condiciona la conducta
+- [ ] `aku-no-hay-espacio-para-el-exito-y-los-suckers-alejate-del-entorno-toxico-claim` ↔ `aku-prime-tu-entorno-para-el-uso-futuro-method`
+      - Ambos sobre modelar fisicamente el entorno para el objetivo
+- [ ] `aku-no-mas-excusas-claim` ↔ `aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim`
+      - Ambos sobre convertirse en quien quieres ser; disciplina vs autoimagen
+- [ ] `aku-cuatro-tipos-oferta-concept` ↔ `aku-sinergia-principios-se-combinan-concept`
+      - Ambos: elementos independientes que combinados producen mas potencia
+- [ ] `aku-reducir-costes-no-precio-claim` ↔ `aku-virtuous-cycle-of-price-claim`
+      - Ambos sobre precio/margen y valor percibido; angulos opuestos
+- [ ] `aku-lider-y-seguidor-concept` ↔ `aku-liderar-es-articular-la-oportunidad-que-ves-hasta-que-la-otra-persona-la-vea-claim`
+      - Ambos definen aspectos de que significa liderar bien
+- [ ] `aku-atribucion-sesgada-exito-fracaso-claim` ↔ `aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept`
+      - Ambos sobre responsabilidad total vs excusar/esperar handouts.
+- [ ] `aku-extreme-ownership-concept` ↔ `aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept`
+      - Ownership total vs entitlement; ambos asumir 100% responsabilidad.
+- [ ] `aku-beneficio-funcional-concept` ↔ `aku-muestra-el-producto-antes-del-precio-en-productos-emocionales-claim`
+      - Beneficios funcionales vs emocionales; ambos distinguen funcional/emocional en decision.
+- [ ] `aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept` ↔ `aku-formula-titulo-numero-errores-deseo-method`
+      - Persuasion por simulacion mental vs formula titulo; ambos copywriting que activa deseo.
+- [ ] `aku-reducir-el-color-en-anuncios-llenos-de-texto-claim` ↔ `aku-regla-20-texto-facebook-ads-claim`
+      - Ambos sobre texto en anuncios y su efecto; angulos distintos del mismo objeto.
+- [ ] `aku-display-video-in-stream-concept` ↔ `aku-integrated-vs-intermittent-offers-concept`
+      - Anuncios in-stream vs insertar ofertas en contenido; mismo objeto, angulos distintos.
+- [ ] `aku-delivery-vehicles-concept` ↔ `aku-formato-contenido-video-concept`
+      - Video como formato de entrega vs de contenido; mismo objeto, angulos distintos.
+- [ ] `aku-delivery-cube-concept` ↔ `aku-formato-contenido-video-concept`
+      - Delivery cube incluye formato video; ambos tratan video como formato.
+- [ ] `aku-48laws-22-use-the-surrender-tactic-concept` ↔ `aku-instinto-de-rendirse-es-mentiroso-claim`
+      - Rendirse tactico vs instinto de rendirse mentiroso; mismo concepto, posturas opuestas.
+- [ ] `aku-getting-people-to-listen-deja-que-hablen-claim` ↔ `aku-hablar-suave-transfiere-el-poder-hacia-ti-claim`
+      - Mismo principio: hablar menos/suave aumenta atencion e influencia
+- [ ] `aku-hablar-suave-transfiere-el-poder-hacia-ti-claim` ↔ `aku-rendimiento-construye-confianza-del-jefe-claim`
+      - Ambos: cuanto menos hablas mas te escuchan, gana influencia
+- [ ] `aku-giveaway-descuento-10-30-margen` ↔ `aku-ofrecer-descuentos-con-digitos-derechos-bajos-claim`
+      - Ambos sobre percepcion de magnitud del descuento en pricing
+- [ ] `aku-callouts-no-verbales-concept` ↔ `aku-hacer-que-el-precio-de-oferta-se-vea-distinto-contrast-fluency-claim`
+      - Ambos usan contraste visual para captar/persuadir
+- [ ] `aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept` ↔ `aku-me-versus-me-superarte-a-ti-mismo-claim`
+      - Ambos: fuerza de voluntad individual contra entorno/uno mismo
+- [ ] `aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept` ↔ `aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim`
+      - Ambos sobre fuerza de voluntad para resistir entorno adictivo
+- [ ] `aku-48laws-04-always-say-less-than-necessary-concept` ↔ `aku-pausar-tras-su-oferta-claim`
+      - Ambos: el silencio incomoda al otro y lo hace revelarse/ceder
+- [ ] `aku-competencia-amplia-concept` ↔ `aku-competidor-es-externo-no-interno-claim`
+      - Ambos definen quien es la competencia/enemigo externo de la empresa
+- [ ] `aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim` ↔ `aku-imitamos-los-habitos-de-tres-grupos-cercanos-muchos-poderosos-concept`
+      - Ambos sobre origen social/heredado de los habitos y revisarlos
+- [ ] `aku-cada-conducta-tiene-un-craving-de-superficie-y-un-motivo-profundo-concept` ↔ `aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method`
+      - Ambos sobre mecanica de habitos: deseo subyacente y cambio de habito
+- [ ] `aku-me-versus-me-superarte-a-ti-mismo-claim` ↔ `aku-una-vez-consigues-lo-que-perseguias-rara-vez-te-satisface-perseguir-fuerza-a-evolucionar-claim`
+      - Ambos: lo que importa es evolucionar/superarte, no la recompensa
+- [ ] `aku-high-roi-habit-stack-concept` ↔ `aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim`
+      - Ambos sobre disciplina/madrugar como motor de habitos.
+- [ ] `aku-rotacion-existencias-method` ↔ `aku-vender-agotado-cobrar-y-retrasar`
+      - Ambos sobre gestion de inventario/stock desde angulos distintos.
+- [ ] `aku-amar-leer-es-un-superpoder-vivimos-en-la-era-de-alejandria-claim` ↔ `aku-aprender-pensando-por-uno-mismo-descubre-mas-claim`
+      - Ambos sobre aprendizaje autodirigido frente a recibirlo.
+- [ ] `aku-aprender-pensando-por-uno-mismo-descubre-mas-claim` ↔ `aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim`
+      - Ambos sobre metodos de aprendizaje profundo (descubrir/enseñar).
+- [ ] `aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim` ↔ `aku-habit-tracker-no-rompas-la-cadena-method`
+      - Ambos sobre habitos deliberados; angulos distintos (revisar vs trackear).
+- [ ] `aku-aliviar-stress-sacar-del-entorno-method` ↔ `aku-el-contexto-es-el-cue-un-espacio-un-uso-concept`
+      - Ambos: cambiar entorno modifica conducta/estado.
+- [ ] `aku-empezar-cobrar-cuando-refieren-claim` ↔ `aku-prueba-precio-entrevista-method`
+      - Ambos sobre validar precio con descuento escalonado al cliente.
+- [ ] `aku-construye-habitos-que-encajen-con-tu-personalidad-big-five-concept` ↔ `aku-mbti-concept`
+      - Ambos modelos de clasificacion de personalidad (Big Five vs MBTI).
+- [ ] `aku-felicidad-es-satisfaccion-el-exito-viene-de-la-insatisfaccion-claim` ↔ `aku-satisfaccion-igual-liking-menos-wanting-las-expectativas-determinan-la-satisfaccion-claim`
+      - Ambos definen satisfaccion como deseo vs lo obtenido.
+- [ ] `aku-eminently-qualified-human-concept` ↔ `aku-habitos-mas-practica-deliberada-igual-maestria-concept`
+      - Ambos sobre maestria como proceso continuo sin fin.
+- [ ] `aku-lead-magnet-ubicaciones-claim` ↔ `aku-orden-new-placements-platforms-activity-concept`
+      - Ambos sobre multiplicar ubicaciones/placements para captar leads.
+- [ ] `aku-entender-primero-para-influir-claim` ↔ `aku-trial-penalty-upsell-tres-escenarios`
+      - Ambos convierten resena de una estrella en cliente recuperado.
+- [ ] `aku-autoevaluacion-cuerpo-mente-alma-concept` ↔ `aku-power-nap-pies-elevados-method`
+      - Power nap instancia la recuperacion/sueno del cuerpo en autoevaluacion.
+- [ ] `aku-cuello-botella-funnel-concept` ↔ `aku-money-model-rompe-cash-bottleneck`
+      - Ambos tratan el cuello de botella del funnel/adquisicion en negocio.
+- [ ] `aku-buoyancy-principle-concept` ↔ `aku-dar-al-rival-una-silla-baja-y-blanda-claim`
+      - Ambos explotan posicion dominante percibida del rival para influirlo.
+- [ ] `aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method` ↔ `aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim`
+      - Ambos sobre cambio de habito: metodo identifica deseo/sustitutos, claim explica craving.
+- [ ] `aku-liderar-con-el-ejemplo-unica-forma-de-ensenar-claim` ↔ `aku-specific-knowledge-no-se-ensena-pero-se-aprende-claim`
+      - ambos sobre límites de enseñar vs aprender por modelo/práctica
+- [ ] `aku-content-benchmarks-crecimiento-method` ↔ `aku-sin-propiedad-tus-inputs-estan-atados-a-tus-outputs-claim`
+      - ambos sobre relación inputs-outputs y desacople del esfuerzo
+- [ ] `aku-earn-with-your-mind-not-your-time-claim` ↔ `aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim`
+      - ambos: medir por outputs pero arreglar/valorar los inputs
+- [ ] `aku-giveaway-offer-concept` ↔ `aku-incentivized-ads-concept`
+      - ambos: premio/recompensa para incentivar acción del usuario
+- [ ] `aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim` ↔ `aku-los-mas-exitosos-empezaron-como-losers-fuera-del-rebano-claim`
+      - ambos: presión de conformidad social vs apartarse del rebaño
+- [ ] `aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim` ↔ `aku-sin-propiedad-tus-inputs-estan-atados-a-tus-outputs-claim`
+      - ambos relacionan inputs (sistema) y outputs (resultados)
+- [ ] `aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim` ↔ `aku-open-to-goal-claim`
+      - ambos: enfocarse en inputs/acciones para lograr outputs
+- [ ] `aku-48laws-44-mirror-effect-concept` ↔ `aku-reflect-and-diminish-method`
+      - ambos usan reflejar/espejar emociones del otro como táctica
+- [ ] `aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept` ↔ `aku-la-vision-es-el-mayor-catalizador-de-la-conducta-claim`
+      - ambos: señales visuales/sensoriales determinan percepción y conducta
+- [ ] `aku-arpu-concept` ↔ `aku-tres-formas-crecer-concept`
+      - ARPU es el average purchase value, palanca de crecimiento
+- [ ] `aku-ensenar-con-no-a-incorporar-feedback-claim` ↔ `aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim`
+      - Ambos sobre el acto de ensenar, angulos distintos
+- [ ] `aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim` ↔ `aku-liderar-con-el-ejemplo-unica-forma-de-ensenar-claim`
+      - Ambos sobre como ensenar de forma efectiva
+- [ ] `aku-corazon-de-hustler-concept` ↔ `aku-ikigai-concept`
+      - Ambos sobre pasion como motor vital; angulos distintos
+- [ ] `aku-implied-guarantee-performance-concept` ↔ `aku-incentivos-simples-pocas-metricas-method`
+      - Ambos sobre incentivos basados en resultados/medicion
+- [ ] `aku-copy-sin-florituras-claim` ↔ `aku-eliminar-elementos-innecesarios-data-ink-claim`
+      - Ambos: eliminar adornos para mantener foco/claridad
+- [ ] `aku-be-first-and-third-concept` ↔ `aku-negotiation-tactics-influencia-psicologica-por-fase-concept`
+      - Ambos: controlar la situacion provocando reaccion del rival
+- [ ] `aku-bonos-de-terceros-claim` ↔ `aku-ecosistema-alianzas-concept`
+      - Bonos de socios es instancia de alianzas/partnerships; requiere juicio.
+- [ ] `aku-48laws-07-get-others-to-do-the-work-take-credit-concept` ↔ `aku-dar-ordenes-solo-commanders-intent-claim`
+      - Ambos sobre delegacion del trabajo a otros; angulos distintos.
+- [ ] `aku-construye-habitos-que-encajen-con-tu-personalidad-big-five-concept` ↔ `aku-lideres-nacen-y-se-hacen-claim`
+      - Ambos sobre rasgos geneticos vs mejorables; angulos distintos.
+- [ ] `aku-cada-miembro-es-el-mas-importante-claim` ↔ `aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept`
+      - Ambos sobre persona equivocada en rol critico es catastrofica.
+- [ ] `aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim` ↔ `aku-programar-una-interaccion-futura-claim`
+      - Ambos sobre reputacion y sombra del futuro en relaciones.
+- [ ] `aku-48laws-03-conceal-your-intentions-concept` ↔ `aku-hesitar-a-veces-es-prudente-claim`
+      - Ambos sobre revelar/ocultar verdaderas intenciones del adversario.
+- [ ] `aku-48laws-47-learn-when-to-stop-concept` ↔ `aku-pride-fuerza-de-doble-filo-concept`
+      - Ambos sobre arrogancia/exceso de confianza tras la victoria.
+- [ ] `aku-home-gym-equipo-basico-concept` ↔ `aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method`
+      - Gym en casa instancia de reducir friccion (poner gimnasio en ruta).
+- [ ] `aku-48laws-39-stir-up-waters-to-catch-fish-concept` ↔ `aku-calmado-no-robotico-concept`
+      - ambos sobre control emocional del lider/estratega, angulos distintos
+- [ ] `aku-cada-conducta-tiene-un-craving-de-superficie-y-un-motivo-profundo-concept` ↔ `aku-la-motivacion-es-relativa-encuentra-la-cosa-en-la-que-te-metes-claim`
+      - ambos sobre motivacion/deseos profundos y ejemplo videojuegos
+- [ ] `aku-llega-el-momento-de-cortar-el-cordon-con-el-pasado-para-no-estancarte-claim` ↔ `aku-soltar-control-egoista-permite-crecer-claim`
+      - ambos: soltar/aferrarse impide crecimiento, mismo principio
+- [ ] `aku-commit-to-niche-claim` ↔ `aku-comparativa-mass-market-vs-nicho-concept`
+      - ambos sobre estrategia de nicho desde angulos distintos
+- [ ] `aku-la-esperanza-declina-con-la-experiencia-y-se-convierte-en-aceptacion-claim` ↔ `aku-la-felicidad-real-es-un-subproducto-de-la-paz-via-aceptacion-claim`
+      - ambos sobre la aceptacion como mecanismo psicologico, angulos distintos
+- [ ] `aku-habito-concept` ↔ `aku-se-capta-mas-atencion-con-baja-carga-cognitiva-sin-meta-activa-claim`
+      - Ambos invocan carga cognitiva/atención; ángulos complementarios del mismo mecanismo.
+- [ ] `aku-churn-rate-concept` ↔ `aku-cohort-cap-concept`
+      - Ambos sobre cohortes/retención; cohort cap opera sobre churn de cohorte.
+- [ ] `aku-48laws-03-conceal-your-intentions-concept` ↔ `aku-intenciones-no-importan-importan-las-acciones-claim`
+      - Ambos sobre intenciones vs acciones/percepción; ángulos opuestos del mismo objeto.
+- [ ] `aku-48laws-29-plan-all-the-way-to-the-end-concept` ↔ `aku-plan-but-remain-flexible-concept`
+      - Ambos sobre planificación exhaustiva; Jocko matiza el límite del plan total.
+- [ ] `aku-apetito-vs-hambre-concept` ↔ `aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method`
+      - Ambos usan redirección por entorno/visibilidad (fruta a la vista); mecanismo compartido.
+- [ ] `aku-blitz-no-resuelvas-todos-problemas-claim` ↔ `aku-main-effort-supporting-efforts-concept`
+      - Ambos sobre priorización: qué incendio/esfuerzo es el principal.
+- [ ] `aku-facilitar-cancelacion` ↔ `aku-fidelizacion-vs-retencion-concept`
+      - Facilitar cancelación es palanca de retención posventa; mismo objeto.
+- [ ] `aku-48laws-16-use-absence-to-increase-respect-concept` ↔ `aku-getting-people-to-listen-deja-que-hablen-claim`
+      - Ambos: retirarse/callar aumenta influencia; mismo principio desde angulos distintos.
+- [ ] `aku-aca-framework-concept` ↔ `aku-leyes-persuasion-cialdini-concept`
+      - ACA usa simpatia/reciprocidad de Cialdini; mecanismo instancia del marco.
+- [ ] `aku-capital-escala-mejor-que-las-personas-claim` ↔ `aku-trade-40-horas-por-4-gestion-claim`
+      - Ambos sobre apalancamiento: capital/empleados escalan mejor que labor directa.
+- [ ] `aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method` ↔ `aku-compromiso-externo-si-interno-no-concept`
+      - Ambos sobre compromiso externo como palanca de cambio/disciplina; angulos distintos.
+- [ ] `aku-coste-percibido-amplio-concept` ↔ `aku-en-productos-emocionales-orienta-hacia-beneficios-no-al-precio-claim`
+      - Ambos: valor no es solo precio; reducir saliencia del precio.
+- [ ] `aku-effort-sacrifice-concept` ↔ `aku-sacrificar-el-ego-coste-percibido-mayor-que-real-claim`
+      - Ambos: coste percibido vs real del sacrificio determina valor/bloqueo.
+- [ ] `aku-el-trabajo-duro-crea-felicidad-no-solo-exito-claim` ↔ `aku-satisfaccion-igual-liking-menos-wanting-las-expectativas-determinan-la-satisfaccion-claim`
+      - Ambos definen origen de la satisfaccion; aplicarse vs expectativas, angulos distintos.
+- [ ] `aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method` ↔ `aku-sin-propiedad-tus-inputs-estan-atados-a-tus-outputs-claim`
+      - Ambos sobre equity/propiedad como vía a ingresos no lineales; ángulos distintos.
+- [ ] `aku-el-deseo-y-el-ego-nublan-la-realidad-claim` ↔ `aku-satisfaccion-igual-liking-menos-wanting-las-expectativas-determinan-la-satisfaccion-claim`
+      - Ambos: los deseos distorsionan percepción/satisfacción; reducir deseos como palanca.
+- [ ] `aku-a-veces-el-mejor-modo-de-extraer-valor-es-no-regatear-al-maximo-claim` ↔ `aku-give-ask-ratio-claim`
+      - Ambos: contenerse para extraer más valor; paciencia vs agresividad.
+- [ ] `aku-aprendes-mas-de-alguien-en-dos-minutos-en-la-calle-que-en-veinte-anos-en-el-boardroom-claim` ↔ `aku-evaluation-character-leadership-concept`
+      - Ambos sobre evaluar el carácter de las personas; revelación vs categoría.
+- [ ] `aku-el-riesgo-a-la-baja-de-fracasar-es-pequeno-asume-mas-accountability-claim` ↔ `aku-quien-culpa-a-otros-nunca-mira-su-propia-falta-de-hustle-claim`
+      - Ambos: asumir accountability propia vs culpar a otros del fracaso.
+- [ ] `aku-hint-next-offer-early` ↔ `aku-lista-de-espera-concept`
+      - Ambos construyen demanda anticipada antes del lanzamiento; ángulos distintos.
+- [ ] `aku-blitzscaling-concept` ↔ `aku-los-que-no-arriesgan-no-ganan-claim`
+      - Ambos: asumir riesgo es condición para ganar/liderar; estrategia vs liderazgo.
+- [ ] `aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim` ↔ `aku-estrategias-genericas-porter-concept`
+      - Ambos: diferenciacion/nicho como via para escapar competencia.
+- [ ] `aku-mucha-gente-cree-que-le-falta-motivacion-cuando-le-falta-claridad-claim` ↔ `aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim`
+      - Ambos: falsa carencia (motivacion/tiempo) resuelta priorizando con claridad.
+- [ ] `aku-corazon-de-hustler-concept` ↔ `aku-instinto-de-rendirse-es-mentiroso-claim`
+      - Hustler-resiliencia vs combatir instinto de rendirse; mismo motor de perseverancia.
+- [ ] `aku-dirigirse-a-no-buscadores-mayor-conversion-claim` ↔ `aku-escapa-la-competencia-mediante-autenticidad-claim`
+      - Ambos: evitar competencia (oceano azul/autenticidad) en vez de competir.
+- [ ] `aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim` ↔ `aku-el-mayor-enemigo-del-exito-no-es-el-fracaso-sino-el-aburrimiento-claim`
+      - Ambos sobre recompensas, adaptacion hedonica y seguir jugando/buscar novedad.
+- [ ] `aku-atribucion-sesgada-exito-fracaso-claim` ↔ `aku-las-conclusiones-interesadas-exigen-un-liston-mas-alto-claim`
+      - Ambos: sesgo self-serving distorsiona juicio y exige correccion.
+- [ ] `aku-habit-contract-y-accountability-partner-method` ↔ `aku-solo-sostienes-limites-que-puedes-hacer-cumplir-claim`
+      - Ambos: compromiso/limite vale solo si se hace cumplir (enforce).
+- [ ] `aku-agrandar-las-palabras-emocionales-claim` ↔ `aku-palabras-frases-persuasivas-concept`
+      - Ambos sobre palabras persuasivas/power words que activan resortes psicologicos.
+- [ ] `aku-ego-nubla-todo-claim` ↔ `aku-rodearte-de-yes-men-impide-aprender-de-tus-errores-claim`
+      - Ambos: barrera a aceptar critica constructiva; mismo mecanismo desde angulos distintos.
+- [ ] `aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim` ↔ `aku-habit-tracker-no-rompas-la-cadena-method`
+      - Trackear progreso del habito; uno instancia del otro en ejercicio.
+- [ ] `aku-mentalidad-crab-in-the-barrel-concept` ↔ `aku-no-te-asocies-con-cinicos-ni-pesimistas-claim`
+      - Entorno que arrastra hacia abajo; mismo fenomeno social desde angulos distintos.
+- [ ] `aku-ayudar-al-usuario-a-elegir-opciones-choice-overload-claim` ↔ `aku-esperar-certeza-causa-paralisis-claim`
+      - Ambos: paralisis decisional; exceso de opciones vs espera de certeza, mismo efecto.
+- [ ] `aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim` ↔ `aku-descubrir-fortalezas-feedback-externo-concept`
+      - Ambos sobre apalancar fortalezas/diferencia unicas; angulos complementarios.
+- [ ] `aku-el-coraje-es-no-importarte-lo-que-piensen-los-demas-claim` ↔ `aku-paso-agresivo-hacia-el-miedo-claim`
+      - Ambos definen valentia desde angulos distintos; mismo concepto coraje.
+- [ ] `aku-el-sufrimiento-impulsa-el-progreso-el-deseo-de-cambiar-de-estado-mueve-a-actuar-claim` ↔ `aku-lideres-nunca-satisfechos-mejora-continua-claim`
+      - Ambos: insatisfaccion como motor de mejora; mismo principio.
+- [ ] `aku-objetivos-personales-concept` ↔ `aku-tu-vision-debe-evolucionar-y-escalar-con-el-tiempo-claim`
+      - Vision/legado a largo plazo como brujula; angulos complementarios.
+- [ ] `aku-concentracion-sector-concept` ↔ `aku-precio-alto-aumenta-valor-percibido-claim`
+      - Monopolio: estructura sectorial vs beneficios de monopolio por precio.
+- [ ] `aku-monopolio-concept` ↔ `aku-precio-alto-aumenta-valor-percibido-claim`
+      - Monopolio: estructura vs precio alto que da beneficios de monopolio.
+- [ ] `aku-implicit-egotism-concept` ↔ `aku-naming-metodologia-cinco-pasos-concept`
+      - Ambos sobre nombrar ofertas/productos; angulos complementarios.
+- [ ] `aku-48laws-04-always-say-less-than-necessary-concept` ↔ `aku-callado-no-silencioso-concept`
+      - Ambos sobre cuando hablar/callar como herramienta de poder.
+- [ ] `aku-48laws-14-pose-as-friend-work-as-spy-concept` ↔ `aku-hesitar-a-veces-es-prudente-claim`
+      - Ambos sobre leer intenciones reales del adversario.
+- [ ] `aku-descubrir-que-sobrevives-los-golpes-disuelve-el-miedo-claim` ↔ `aku-zonas-distancia-green-red-concept`
+      - Ambos sobre gestion de golpes en combate; angulos distintos.
+- [ ] `aku-competidor-es-externo-no-interno-claim` ↔ `aku-estructura-funcional-concept`
+      - Ambos tratan silos entre departamentos y falta de foco interno; angulos distintos.
+- [ ] `aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim` ↔ `aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim`
+      - Ambos sobre deseo y autenticidad de la motivacion; angulos complementarios.
+- [ ] `aku-distance-principle-concept` ↔ `aku-homeboy-complex-concept`
+      - Ambos sobre gestionar proximidad/distancia que concedes a otros.
+- [ ] `aku-lead-concept` ↔ `aku-one-page-advertising-checklist-concept`
+      - Ambos sobre el concepto de lead/engaged lead en marketing.
+- [ ] `aku-los-mas-exitosos-empezaron-como-losers-fuera-del-rebano-claim` ↔ `aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim`
+      - Ambos sobre ir contra la opinion popular para triunfar.
+- [ ] `aku-no-inviertas-solo-por-un-cheque-sin-pasion-diluyes-tu-marca-claim` ↔ `aku-no-te-asocies-con-cinicos-ni-pesimistas-claim`
+      - Ambos sobre con quien/que asociarte y su impacto en el proyecto.
+- [ ] `aku-48laws-12-selective-honesty-to-disarm-concept` ↔ `aku-regala-lo-que-se-te-da-bien-y-paga-por-adelantado-claim`
+      - Ambos sobre el regalo/generosidad como mecanismo que genera reciprocidad.
+- [ ] `aku-cuestionarlo-todo-y-a-uno-mismo-method` ↔ `aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim`
+      - Ambos sobre metodos para aprender e internalizar conocimiento.
+- [ ] `aku-delivery-cube-concept` ↔ `aku-elegir-el-medio-de-comunicacion-adecuado-claim`
+      - Ambos sobre elegir medio/canal (presencial, video, email) segun objetivo.
+- [ ] `aku-liderazgo-concept` ↔ `aku-tortured-genius-concept`
+      - Ambos sobre liderazgo y mindset del lider; conceptos relacionados.
+- [ ] `aku-el-cambio-de-conducta-siempre-empieza-con-la-consciencia-claim` ↔ `aku-la-meditacion-revela-cuan-fuera-de-control-esta-tu-mente-y-en-la-separacion-hay-liberacion-claim`
+      - Ambos: consciencia previa como base del cambio interno.
+- [ ] `aku-entorno-de-recompensa-inmediata-vs-diferida-concept` ↔ `aku-si-no-puedes-decidir-la-respuesta-es-no-claim`
+      - Ambos: cerebro no preparado para opciones de sociedad moderna.
+- [ ] `aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim` ↔ `aku-trabajador-apalancado-rinde-1000x-y-el-juicio-supera-las-horas-claim`
+      - Ambos: horas medidas no equivalen a valor real.
+- [ ] `aku-beneficios-okr-claim` ↔ `aku-leading-down-the-chain-concept`
+      - Ambos: conectar trabajo individual con objetivos estrategicos.
+- [ ] `aku-depletion-principle-concept` ↔ `aku-elegir-una-hora-temprana-para-negociar-claim`
+      - Ambos: explotar fatiga del rival para ganar ventaja.
+- [ ] `aku-barter-descuento-por-publicidad` ↔ `aku-formato-contenido-testimonio-concept`
+      - Barter pide testimonio en video; testimonio como formato.
+- [ ] `aku-landing-page-concept` ↔ `aku-ux-compatibility-adaptarse-al-usuario-concept`
+      - Ambos: adaptar la web/interfaz al usuario concreto.
+- [ ] `aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept` ↔ `aku-redirigir-la-ira-claim`
+      - Ambos: separarse de la reaccion mental automatica.
+- [ ] `aku-48laws-05-guard-your-reputation-concept` ↔ `aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim`
+      - Ambos sobre el valor estrategico de la reputacion.
+- [ ] `aku-48laws-05-guard-your-reputation-concept` ↔ `aku-elige-juegos-largo-plazo-con-gente-largo-plazo-claim`
+      - Ambos sobre acumular y proteger reputacion estrategica.
+- [ ] `aku-segmentado-strategy-concept` ↔ `aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept`
+      - Ambos sobre segmentar el mercado; microsegmentar es instancia.
+- [ ] `aku-hard-selling-producto-debil` ↔ `aku-vender-una-accion-concept`
+      - Ambos sobre el arte de vender/ofrecer correctamente.
+- [ ] `aku-boyd-belt-system-method` ↔ `aku-las-creencias-tomadas-en-paquete-son-sospechosas-reevalua-desde-principios-claim`
+      - Ambos sobre reevaluar creencias disfuncionales desde la realidad.
+- [ ] `aku-reconocer-los-miedos-que-no-has-confrontado-es-parte-del-trabajo-claim` ↔ `aku-status-pivot-concept`
+      - Ambos sobre admitir con honestidad debilidades reales propias.
+- [ ] `aku-48laws-19-know-who-you-deal-with-concept` ↔ `aku-si-traes-lobos-a-tu-circulo-debes-alimentarlos-o-se-volveran-contra-ti-claim`
+      - Ambos usan la metafora del lobo vengativo en tu circulo.
+- [ ] `aku-48laws-20-do-not-commit-to-anyone-concept` ↔ `aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim`
+      - Ambos sobre no comprometerse cediendo independencia/vision.
+- [ ] `aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept` ↔ `aku-el-entorno-es-la-mano-invisible-que-moldea-la-conducta-claim`
+      - Ambos: significado/conducta dependen del contexto y experiencia.
+- [ ] `aku-freedom-from-vs-freedom-to-concept` ↔ `aku-tres-capas-liderazgo-concept`
+      - Libertad interna y liderarse a uno mismo: foco interno comun.
+- [ ] `aku-los-vision-boards-materializan-las-metas-y-elevan-su-probabilidad-claim` ↔ `aku-sistemas-vs-metas-en-atomic-habits-concept`
+      - Ambos sobre metas/goals: escribirlas vs limitaciones de las metas.
+- [ ] `aku-48laws-01-never-outshine-the-master-concept` ↔ `aku-status-posicion-en-jerarquia-social-concept`
+      - Ambos sobre jerarquia social y juegos de estatus/poder.
+- [ ] `aku-sistemas-vs-metas-en-atomic-habits-concept` ↔ `aku-tu-vision-debe-evolucionar-y-escalar-con-el-tiempo-claim`
+      - Ambos sobre metas/goals: criticarlas vs escalarlas en el tiempo.
+- [ ] `aku-free-bootstrap-plataforma-claim` ↔ `aku-viral-bajo-cltv-compatible-claim`
+      - Ambos: crecimiento de plataforma/viral sin presion de monetizacion.
+- [ ] `aku-preemptive-ownership-concept` ↔ `aku-ux-errors-prevenir-y-recuperar-errores-concept`
+      - Ambos sobre prevenir errores antes de que ocurran.
+- [ ] `aku-hablar-suave-transfiere-el-poder-hacia-ti-claim` ↔ `aku-la-orientacion-del-cuerpo-capta-la-atencion-claim`
+      - Ambos: tecnicas no verbales para captar atencion del otro.
+- [ ] `aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim` ↔ `aku-lider-responsable-del-output-maximizar-potencial-claim`
+      - Ambos: ubicar segun fortalezas naturales para maximizar potencial.
+- [ ] `aku-aprende-a-vender-y-a-construir-claim` ↔ `aku-probar-que-sabes-hacer-algo-te-da-apalancamiento-claim`
+      - Ambos: construir/entregar genera valor y apalancamiento real.
+- [ ] `aku-implementation-intention-method` ↔ `aku-planning-process-estandarizado-concept`
+      - Ambos: planificacion previa documentada que elimina decision en momento.
+- [ ] `aku-nunca-terminas-de-competir-al-final-compites-contigo-mismo-claim` ↔ `aku-rivalidad-competitiva-concept`
+      - Ambos sobre rivalidad competitiva; angulos distintos (sectorial vs personal).
+- [ ] `aku-desglosar-propuesta-valor-componentes-method` ↔ `aku-problem-solution-cycle-concept`
+      - Ambos sobre entrevista problem-solution y validacion de solucion.
+- [ ] `aku-entrevista-problem-solution-concept` ↔ `aku-problem-solution-cycle-concept`
+      - Mismo nombre 'problem-solution' pero entrevista MVP vs ciclo oferta; relacionados.
+- [ ] `aku-mejora-metodica-de-tu-baseline-de-felicidad-method` ↔ `aku-minimalismo-digital-concept`
+      - Baseline felicidad incluye reducir distraccion digital; minimalismo es instancia.
+- [ ] `aku-dolor-es-el-pitch-claim` ↔ `aku-problema-resuelto-concept`
+      - Ambos formulan valor como dolor/frustracion eliminado; mismo objeto
+- [ ] `aku-deep-work-concept` ↔ `aku-el-foco-dirige-el-trabajo-duro-y-eliminar-distracciones-libera-potencial-claim`
+      - Ambos sobre foco sin distracciones; mismo objeto, angulos distintos
+- [ ] `aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim` ↔ `aku-asumir-equivocarse-claim`
+      - Ambos: admitir error temprano permite corregir; mismo principio, angulos distintos.
+- [ ] `aku-el-miedo-que-interrumpe-tu-rutina-ya-te-domina-claim` ↔ `aku-miedo-al-fracaso-paraliza-y-neutraliza-claim`
+      - Ambos: el miedo que interrumpe paraliza y domina; mismo mecanismo.
+- [ ] `aku-exceso-de-sops-ahoga-iniciativa-claim` ↔ `aku-habitos-mas-practica-deliberada-igual-maestria-concept`
+      - Ambos: automatismo/procedimiento rigido inhibe pensar y adaptarse.
+- [ ] `aku-lider-conoce-trabajos-y-pide-ayuda-claim` ↔ `aku-no-esperes-por-ser-joven-solo-se-aprende-haciendo-claim`
+      - Ambos: solo se aprende de verdad haciendo, no fingiendo.
+- [ ] `aku-bonos-terceros-revenue-streams-claim` ↔ `aku-flujos-de-ingresos-concept`
+      - Bonos de terceros como revenue stream son instancia de flujos de ingresos.
+- [ ] `aku-continuity-rewards-mejor-que-castigo` ↔ `aku-habit-contract-y-accountability-partner-method`
+      - Ambos usan castigo/contrato para reforzar compromiso o continuidad.
+- [ ] `aku-el-exito-se-construye-sobre-el-fracaso-repetido-y-la-introspeccion-claim` ↔ `aku-fallar-en-publico-bajo-tu-nombre-da-poder-claim`
+      - Ambos: el fracaso asumido es fuente de exito/poder.
+- [ ] `aku-entrenamiento-realismo-fundamentos-repeticion-method` ↔ `aku-motion-vs-action-concept`
+      - Ambos: repeticion/accion real produce maestria, no planificar.
+- [ ] `aku-bonus-presentation-checklist-concept` ↔ `aku-formula-titulo-numero-trucos-resultado-objecion-method`
+      - Ambos: titular con beneficio que neutraliza la objecion.
+- [ ] `aku-bonus-presentation-checklist-concept` ↔ `aku-formula-titulo-resultado-tiempo-objecion-method`
+      - Ambos: titulo con beneficio/resultado que neutraliza objecion.
+- [ ] `aku-downsell-offer-concept` ↔ `aku-mostrar-precios-altos-antes-que-bajos-claim`
+      - Ambos sobre estructurar precio/oferta segun presupuesto y anclaje.
+- [ ] `aku-overload-neutralizado-por-produccion-atricion-claim` ↔ `aku-riqueza-se-construye-apilando-muchas-cosas-pequenas-claim`
+      - Ambos: acumulacion sostenida vence al golpe unico concentrado.
+- [ ] `aku-quien-presume-de-honesto-suele-ocultar-algo-claim` ↔ `aku-senales-de-confianza-desequilibrada-claim`
+      - Ambos: senales conductuales que delatan un desequilibrio interno.
+- [ ] `aku-48laws-06-court-attention-at-all-cost-concept` ↔ `aku-isolation-principle-concept`
+      - Ambos manipulan multitud/publico vs aislamiento; angulos relacionados.
+- [ ] `aku-autoevaluacion-honesta-you-vs-you-claim` ↔ `aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim`
+      - Ambos: honestidad brutal con uno mismo, autoconocimiento.
+- [ ] `aku-anunciar-en-modalidades-congruentes-claim` ↔ `aku-display-video-in-stream-concept`
+      - Ambos sobre formato video/YouTube para anunciar; angulos distintos.
+- [ ] `aku-marketing-automation-concept` ↔ `aku-volumen-cold-tres-palancas-concept`
+      - Ambos: automatizar outreach a volumen; mismo objeto desde angulos.
+- [ ] `aku-llega-el-momento-de-cortar-el-cordon-con-el-pasado-para-no-estancarte-claim` ↔ `aku-miedo-al-fracaso-es-bueno-claim`
+      - Ambos sobre el peligro del estancamiento y soltar.
+- [ ] `aku-48laws-02-never-trust-friends-use-enemies-concept` ↔ `aku-la-competencia-como-estrategia-if-we-cant-be-friends-concept`
+      - Ambos: usar enemigos/rivalidad estrategicamente; mismo tema.
+- [ ] `aku-48laws-39-stir-up-waters-to-catch-fish-concept` ↔ `aku-la-competencia-como-estrategia-if-we-cant-be-friends-concept`
+      - Ambos: competir frio vs emocion, sangre fria estrategica.
+- [ ] `aku-acceptance-principle-concept` ↔ `aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim`
+      - Ambos: aceptar/reconocer lo inevitable para avanzar.
+- [ ] `aku-al-otro-lado-del-miedo-esta-la-libertad-claim` ↔ `aku-freedom-from-vs-freedom-to-concept`
+      - Libertad interna por soltar el miedo; mismo objeto, angulos distintos.
+- [ ] `aku-construir-lista-tres-vias-concept` ↔ `aku-usa-maven-groups-para-promover-contenido-claim`
+      - Ambos sobre captar via grupos/comunidades pequenas; angulos complementarios.
+- [ ] `aku-discipline-equals-freedom-concept` ↔ `aku-freedom-from-vs-freedom-to-concept`
+      - Ambos definen tipos/origen de la libertad; conceptos sobre el mismo objeto.
+- [ ] `aku-48laws-29-plan-all-the-way-to-the-end-concept` ↔ `aku-decentralizar-proceso-planificacion-claim`
+      - Ambos sobre el proceso de planificacion; angulos complementarios.
+- [ ] `aku-haz-algo-fisico-cada-dia-el-mejor-ejercicio-es-el-que-haras-cada-dia-claim` ↔ `aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim`
+      - Ambos sobre ejercicio diario como base; estilo de vida que sostiene rendimiento.
+- [ ] `aku-viral-bajo-cltv-compatible-claim` ↔ `aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept`
+      - Ambos sobre crecimiento viral; uno economics, otro mecanismo de red.
+- [ ] `aku-buy-x-get-y-free-concept` ↔ `aku-modelo-freemium-concept`
+      - Ambos combinan gratis y pago para captar; modelos relacionados.
+- [ ] `aku-liderar-desde-frente-y-desde-atras-concept` ↔ `aku-liderar-vs-gestionar-concept`
+      - Ambos sobre el rol del lider y como posicionarse; mismo objeto.
+- [ ] `aku-attraction-a-continuity-con-renovacion` ↔ `aku-lifetime-concept`
+      - Continuity con renovacion alarga lifetime; mismo objeto distintos angulos.
+- [ ] `aku-customer-persona-concept` ↔ `aku-elegir-modelos-que-se-parezcan-a-cada-segmento-claim`
+      - Persona por segmento y modelo por segmento: mismo objeto, angulos distintos.
+- [ ] `aku-el-sufrimiento-impulsa-el-progreso-el-deseo-de-cambiar-de-estado-mueve-a-actuar-claim` ↔ `aku-la-comodidad-con-el-miedo-mata-la-ambicion-claim`
+      - Deseo de cambiar estado impulsa vs comodidad mata ambicion: mismo eje motivacional.
+- [ ] `aku-lead-scoring-concept` ↔ `aku-prioritize-and-execute-concept`
+      - Lead scoring y prioritize-and-execute: ambos priorizan tareas, angulos distintos.
+- [ ] `aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method` ↔ `aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim`
+      - Metodo cambio conducta y craving de cambio de estado: mismo dominio de habitos.
+- [ ] `aku-mostrar-precios-altos-antes-que-bajos-claim` ↔ `aku-virtuous-cycle-of-price-claim`
+      - Ordenar precios alto-bajo y subir precios: ambos sobre estrategia de precio.
+- [ ] `aku-riqueza-se-construye-apilando-muchas-cosas-pequenas-claim` ↔ `aku-un-principio-aplicado-con-constancia-genera-valor-desproporcionado-claim`
+      - Apilar pequeño vs un principio constante: ambos sobre valor compuesto por constancia.
+- [ ] `aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim` ↔ `aku-vision-empresa-concept`
+      - No comprometer tu vision y vision empresarial: mismo objeto, angulos personal/empresa.
+- [ ] `aku-aceptar-que-todo-depende-de-ti-es-liberador-claim` ↔ `aku-los-habitos-crean-libertad-no-la-restringen-claim`
+      - Asumir responsabilidad libera vs habitos crean libertad: ambos sobre libertad real.
+- [ ] `aku-blitz-lanza-producto-aunque-averguence-claim` ↔ `aku-first-five-free-claim`
+      - Ambos: lanzar rapido/imperfecto para feedback temprano real.
+- [ ] `aku-fidelizacion-retencion-eleva-cltv-claim` ↔ `aku-tres-formas-crecer-concept`
+      - Retencion eleva CLTV; instancia de 'que compren mas veces'.
+- [ ] `aku-equilibra-tu-crew-entre-veteranos-del-dia-uno-y-sangre-nueva-claim` ↔ `aku-liderazgo-requiere-balance-no-extremos-claim`
+      - Ambos: liderazgo exige equilibrio entre opuestos, no extremos.
+- [ ] `aku-el-cerebro-es-una-maquina-de-prediccion-que-codifica-cues-claim` ↔ `aku-las-amenazas-captan-la-atencion-alta-activacion-claim`
+      - Ambos: deteccion preconsciente de senales por el cerebro.
+- [ ] `aku-la-gente-siempre-responde-a-un-competidor-correr-hacia-la-pelea-atrae-miradas-claim` ↔ `aku-la-mirada-eye-gaze-capta-la-atencion-claim`
+      - Ambos: dominancia social atrae atencion/miradas.
+- [ ] `aku-cuatro-upsells-concept` ↔ `aku-un-numero-mayor-sugiere-un-producto-mas-avanzado-claim`
+      - Ambos invocan anclaje de precio (Anchor upsell vs higher-is-better).
+- [ ] `aku-retencion-no-es-mala-claim` ↔ `aku-wins-rapidos-frecuentes-concept`
+      - Ambos tratan retencion de clientes desde angulos distintos.
+- [ ] `aku-actua-sin-ira-y-con-vision-a-largo-plazo-y-dejaran-de-ser-errores-claim` ↔ `aku-mente-mono-no-estar-presente-concept`
+      - Ambos: reactividad emocional vs presencia/distancia mental.
+- [ ] `aku-perfeccionar-una-oferta-a-la-vez` ↔ `aku-plateau-of-latent-potential-valley-of-disappointment-concept`
+      - Ambos: paciencia, resultados emergen tras umbral acumulado.
+- [ ] `aku-actitud-lider-determina-exito-claim` ↔ `aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim`
+      - Ambos: asumir responsabilidad frente a culpar (ownership).
+- [ ] `aku-autoevaluacion-honesta-you-vs-you-claim` ↔ `aku-habits-scorecard-method`
+      - Ambos: autoevaluacion honesta sin juicio del propio comportamiento.
+- [ ] `aku-leyes-persuasion-cialdini-concept` ↔ `aku-waived-fee-start-y-stick`
+      - Waived fee instancia compromiso/consistencia de Cialdini.
+- [ ] `aku-ceder-desequilibra-al-oponente-claim` ↔ `aku-negotiation-tactics-influencia-psicologica-por-fase-concept`
+      - Ceder/momentum es tactica psicologica de negociacion (reactancia/jiu-jitsu).
+- [ ] `aku-cta-concept` ↔ `aku-esquema-de-color-split-complementario-claim`
+      - CTA usa contraste de color; esquema explica como lograrlo.
+- [ ] `aku-cobrar-antes-de-que-el-cliente-consuma-claim` ↔ `aku-periodo-medio-maduracion-concept`
+      - Ambos sobre timing de cobro; prepago afecta ciclo de cobro.
+- [ ] `aku-copy-sin-florituras-claim` ↔ `aku-las-fundaciones-importan-mas-que-la-profundidad-equivocada-claim`
+      - Ambos valoran claridad/sencillez en lenguaje y persuasion como fundamento.
+- [ ] `aku-lead-magnet-curso-gratuito-concept` ↔ `aku-pagar-afiliados-forever-no-cap-claim`
+      - Ambos sobre lead magnet; afiliados entregan/promocionan el lead magnet.
+- [ ] `aku-el-deseo-es-la-diferencia-entre-donde-estas-y-donde-quieres-estar-claim` ↔ `aku-la-mayor-parte-del-sufrimiento-viene-de-la-evitacion-claim`
+      - Ambos sobre gap entre estado actual y deseado y sensaciones corporales.
+- [ ] `aku-el-exito-demasiado-facil-y-rapido-afianza-los-viejos-habitos-claim` ↔ `aku-no-necesitas-ser-consciente-del-cue-para-que-un-habito-empiece-claim`
+      - Ambos sobre caer en viejos habitos automaticos sin transicion ni conciencia.
+- [ ] `aku-cardinal-rule-lo-recompensado-se-repite-lo-castigado-se-evita-concept` ↔ `aku-mostrar-el-unboxing-del-producto-claim`
+      - Emociones positivas refuerzan habito/compra: ambas usan recompensa emocional.
+- [ ] `aku-motion-vs-action-concept` ↔ `aku-paso-agresivo-hacia-el-miedo-claim`
+      - Ambos: dejar de planificar y pasar a la accion; motion/excusas vs dar el paso.
+- [ ] `aku-ciertos-bienes-son-senales-que-dictan-si-te-toman-en-serio-claim` ↔ `aku-cualificar-afiliado-cliente-experto-concept`
+      - Ambos: invertir/senalar costoso aumenta atencion prestada; mismo mecanismo.
+- [ ] `aku-impaciencia-con-las-acciones-paciencia-con-los-resultados-claim` ↔ `aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim`
+      - Ambos: enfocar inputs/acciones y dejar madurar los outputs/resultados.
+- [ ] `aku-descubrir-fortalezas-feedback-externo-concept` ↔ `aku-fortaleza-puede-ser-debilidad-y-viceversa-claim`
+      - Ambos sobre fortalezas/debilidades y autoconocimiento; angulos complementarios.
+- [ ] `aku-recomendacion-vs-viralizacion-concept` ↔ `aku-referir-es-riesgo-de-goodwill-claim`
+      - Ambos sobre referral/recomendacion entre clientes; angulos complementarios.
+- [ ] `aku-claridad-objetivos-fortalezas-exito-claim` ↔ `aku-the-evaluation-concept`
+      - Ambos: plan/sistema explicito de objetivos personales para lograr exito.
+- [ ] `aku-methods-step1-moldear-la-percepcion-concept` ↔ `aku-perception-is-reality-value-claim`
+      - Ambos: moldear/comunicar la percepcion porque la percepcion es lo operativo.
+- [ ] `aku-conversacion-mente-cliente-concept` ↔ `aku-problemas-a-soluciones-concept`
+      - Ambos investigan pensamientos/lenguaje del cliente para ofertas
+- [ ] `aku-deja-de-preguntar-por-que-y-empieza-a-decir-wow-gratitud-por-la-abundancia-claim` ↔ `aku-presenciar-la-pobreza-real-cura-el-entitlement-y-reencuadra-la-gratitud-claim`
+      - Ambos: gratitud por reencuadre de la abundancia/perspectiva
+- [ ] `aku-iluminacion-es-el-espacio-entre-tus-pensamientos-concept` ↔ `aku-mindfulness-concept`
+      - Ambos: reducir flujo de pensamientos para presencia
+- [ ] `aku-intenciones-no-importan-importan-las-acciones-claim` ↔ `aku-no-vender-lo-que-no-puedes-entregar`
+      - Ambos: reputacion construida con actos, no intenciones
+- [ ] `aku-evolucionar-mas-alla-del-rol-asignado-crea-nuevos-modelos-de-exito-claim` ↔ `aku-pivotar-perspectiva-transforma-resultados-claim`
+      - Ambos: cambiar perspectiva/rol transforma carrera e industria
+- [ ] `aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept` ↔ `aku-ga-page-value-method`
+      - Ambos optimizan funnel/conversion eCommerce desde angulos distintos
+- [ ] `aku-magic-avatar-concept` ↔ `aku-posicionamiento-concept`
+      - Avatar (target) y posicionamiento se ligan via publico objetivo
+- [ ] `aku-los-verdaderos-ganadores-salen-del-juego-por-completo-claim` ↔ `aku-sistemas-vs-metas-en-atomic-habits-concept`
+      - Ambos: metas/ganar restringen felicidad; ganadores comparten metas
+- [ ] `aku-no-te-tomes-tan-en-serio-eres-un-mono-con-un-plan-claim` ↔ `aku-no-tomarse-las-cosas-personalmente-claim`
+      - Ambos sobre bajar ego/autoimportancia para aprender; angulos cercanos.
+- [ ] `aku-cialdini-compromiso-consistencia-concept` ↔ `aku-urgencia-concept`
+      - Compromiso por plazos vs urgencia por deadline; mecanismos persuasivos relacionados.
+- [ ] `aku-cuantos-mas-secretos-tienes-menos-feliz-eres-claim` ↔ `aku-reconocer-los-miedos-que-no-has-confrontado-es-parte-del-trabajo-claim`
+      - Ambos: no puedes esconderte nada de ti mismo
+- [ ] `aku-affiliate-ltgp-cac-method` ↔ `aku-cltv-minus-cac-concept`
+      - Ambos calculan valor cliente menos CAC
+- [ ] `aku-flujos-de-ingresos-concept` ↔ `aku-ltgp-concept`
+      - Ambos sobre como se genera valor/ingreso
+- [ ] `aku-delegar-todo-para-liderar-no-pareciendo-vago-claim` ↔ `aku-liderar-vs-gestionar-concept`
+      - Ambos sobre rol de liderar vs gestionar/ejecutar
+- [ ] `aku-distribuir-palabras-semanticamente-relacionadas-claim` ↔ `aku-palabras-frases-persuasivas-concept`
+      - Ambos: eleccion de palabras que persuaden
+- [ ] `aku-hesitacion-es-el-enemigo-claim` ↔ `aku-impaciencia-con-las-acciones-paciencia-con-los-resultados-claim`
+      - Ambos: actuar ya en el instante sin vacilar
+- [ ] `aku-atribucion-sesgada-exito-fracaso-claim` ↔ `aku-hacerse-rico-sin-suerte-es-ser-determinista-claim`
+      - Ambos sobre el rol de la suerte vs control personal.
+- [ ] `aku-48laws-34-be-royal-in-your-own-fashion-concept` ↔ `aku-jefe-subestima-peso-de-su-posicion-claim`
+      - Ambos sobre como la posicion/porte determina el respeto recibido.
+- [ ] `aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim` ↔ `aku-self-discipline-viene-de-dentro-concept`
+      - Ambos sobre autodisciplina como fuerza interna/identidad propia.
+- [ ] `aku-abrumado-pelear-mas-duro-priorizar-claim` ↔ `aku-blitz-no-resuelvas-todos-problemas-claim`
+      - Ambos: priorizar que problema atacar cuando todo arde a la vez.
+- [ ] `aku-el-castigo-inmediato-reduce-el-mal-habito-claim` ↔ `aku-usar-anuncios-negativos-para-captar-atencion-claim`
+      - Ambos: dolor/negativo inmediato modula conducta; angulos distintos.
+- [ ] `aku-hacks-copywriting-concept` ↔ `aku-terminar-las-frases-con-una-imagen-concreta-claim`
+      - Tecnica concreta de copywriting es instancia del paraguas de hacks.
+- [ ] `aku-buscar-fuera-de-ti-la-felicidad-es-la-delusion-fundamental-claim` ↔ `aku-proposito-personal-sostenibilidad-claim`
+      - Ambos sobre fuente de felicidad sostenible (interna vs proposito).
+- [ ] `aku-controlar-timing-vence-rival-mas-rapido-claim` ↔ `aku-dicta-quien-es-tu-oponente-compite-contra-el-mejor-en-tu-terreno-claim`
+      - ambos: dictar terminos del combate contra rival superior
+- [ ] `aku-content-retain-concept` ↔ `aku-estilo-editorial-concept`
+      - ambos: generar curiosidad/intriga mediante preguntas para retener
+- [ ] `aku-la-interconectividad-construye-la-infeccion-dentro-de-la-red-claim` ↔ `aku-motor-crecimiento-viral-concept`
+      - ambos: viralidad/contagio via red interconectada
+- [ ] `aku-coeficiente-viralidad-concept` ↔ `aku-la-interconectividad-construye-la-infeccion-dentro-de-la-red-claim`
+      - interconectividad explica el coeficiente viral >1
+- [ ] `aku-las-epidemias-virales-se-originan-en-micronetworks-claim` ↔ `aku-motor-crecimiento-viral-concept`
+      - contagio viral en redes vs motor crecimiento viral
+- [ ] `aku-coeficiente-viralidad-concept` ↔ `aku-las-epidemias-virales-se-originan-en-micronetworks-claim`
+      - origen del contagio viral explica el coeficiente
+- [ ] `aku-micronetwork-red-densa-con-interconexiones-fuertes-concept` ↔ `aku-motor-crecimiento-viral-concept`
+      - micronetwork es unidad del mecanismo viral/network effects
+- [ ] `aku-bootstrapped-debe-captar-con-beneficio` ↔ `aku-validar-economia-clave-claim`
+      - ambos: rentabilidad/unit economics como condicion para escalar
+- [ ] `aku-mantener-el-numero-del-nombre-simple-claim` ↔ `aku-simplicidad-permite-ajuste-rapido-claim`
+      - ambos sobre simplicidad, dominios muy distintos (nombre vs plan)
+- [ ] `aku-commit-to-niche-claim` ↔ `aku-segmentacion-especializada-coste-vs-diferenciacion-concept`
+      - ambos sobre estrategia de nicho/segmentacion
+- [ ] `aku-continuity-offer-concept` ↔ `aku-entorno-de-recompensa-inmediata-vs-diferida-concept`
+      - Pagos recurrentes vs recompensa inmediata/diferida; mismo eje temporal de valor.
+- [ ] `aku-cuando-aplicar-tests-personalidad-concept` ↔ `aku-gestionar-stress-detach-y-perspectiva-method`
+      - Tests miden gestion de estres; uno aplica al objeto del otro parcialmente.
+- [ ] `aku-pricing-bonus-based-urgency-concept` ↔ `aku-retirar-los-descuentos-gradualmente-claim`
+      - Ambos sobre dinamica temporal de promociones y descuentos; angulos distintos.
+- [ ] `aku-overload-principle-concept` ↔ `aku-productize-yourself-concept`
+      - Doblar apuesta en ventaja unica vs unicidad escalable; nocion afin.
+- [ ] `aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept` ↔ `aku-habits-scorecard-method`
+      - Consciencia como base; scorecard es ejercicio de consciencia sobre habitos.
+- [ ] `aku-fortalezas-debilidades-motivaciones-concept` ↔ `aku-lider-compensa-debilidades-con-el-equipo-claim`
+      - Conocer debilidades propias y compensarlas con el equipo; mismo objeto.
+- [ ] `aku-cuanto-mas-procesado-el-alimento-menos-comer-y-resta-antes-de-anadir-claim` ↔ `aku-evaluation-health-concept`
+      - Nutricion como instancia de categoria Health/Diet.
+- [ ] `aku-free-stuff-too-expensive-hidden-costs-claim` ↔ `aku-sacrificar-el-ego-coste-percibido-mayor-que-real-claim`
+      - Ambos: coste percibido (sacrificio) supera al real.
+- [ ] `aku-mass-market-strategy-concept` ↔ `aku-riches-in-niches-pricing-claim`
+      - Mismo objeto: nicho/segmentacion vs mass market, angulos opuestos.
+- [ ] `aku-status-driver-compra-claim` ↔ `aku-status-pivot-concept`
+      - Ambos sobre status como comparacion social percibida.
+- [ ] `aku-48laws-48-assume-formlessness-concept` ↔ `aku-el-enemigo-tiene-voto-concept`
+      - Ambos: imprevisibilidad del enemigo exige planes adaptables/fluidos
+- [ ] `aku-content-platform-concept` ↔ `aku-format-matchea-plataforma-claim`
+      - Ambos sobre plataformas de contenido y su consumo.
+- [ ] `aku-mantener-el-numero-del-nombre-simple-claim` ↔ `aku-simple-law-of-combat-concept`
+      - Ambos sobre principio de simplicidad; instancia vs ley general
+- [ ] `aku-agrupa-contenido-en-series-tematicas-claim` ↔ `aku-puddles-ponds-lakes-oceans-claim`
+      - Ambos sobre estrechar/enfocar tematica del contenido.
+- [ ] `aku-aceptar-que-todo-depende-de-ti-es-liberador-claim` ↔ `aku-apologizing-no-es-debilidad-claim`
+      - Ambos sobre ownership total; angulos distintos del mismo principio.
+- [ ] `aku-escapa-la-competencia-mediante-autenticidad-claim` ↔ `aku-nunca-terminas-de-competir-al-final-compites-contigo-mismo-claim`
+      - ambos sobre competir contigo/autenticidad como salida de competencia
+- [ ] `aku-la-percepcion-es-separable-de-la-realidad-y-puedes-usarla-a-tu-favor-claim` ↔ `aku-pricing-psychology-el-precio-es-percepcion-concept`
+      - ambos: percepcion separable de realidad y manipulable a favor
+- [ ] `aku-habit-contract-y-accountability-partner-method` ↔ `aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim`
+      - Ambos sobre accountability/consecuencias para sostener estandares.
+- [ ] `aku-gente-no-tiene-claro-que-busca-claim` ↔ `aku-segmentar-la-copy-por-necesidades-distintas-claim`
+      - Ambos sobre segmentacion por razones de compra distintas.
+- [ ] `aku-importancia-segmentacion-claim` ↔ `aku-segmentar-la-copy-por-necesidades-distintas-claim`
+      - Ambos sobre segmentar clientes por razones de compra distintas
+- [ ] `aku-debes-editar-y-expandir-tu-identidad-continuamente-claim` ↔ `aku-para-ser-honesto-habla-sin-identidad-las-etiquetas-te-atan-claim`
+      - Ambos tratan apego a identidad como obstaculo, angulos distintos.
+- [ ] `aku-para-ser-honesto-habla-sin-identidad-las-etiquetas-te-atan-claim` ↔ `aku-tu-identidad-emerge-de-tus-habitos-claim`
+      - Mismo objeto identidad/creencias desde angulos opuestos.
+- [ ] `aku-calcular-y-mitigar-riesgo-claim` ↔ `aku-fearlessness-no-es-ausencia-de-miedo-concept`
+      - Ambos sobre asumir riesgo calculado vs temeridad.
+- [ ] `aku-blitzscaling-concept` ↔ `aku-calcular-y-mitigar-riesgo-claim`
+      - Ambos sobre asuncion de riesgo, angulos complementarios.
+- [ ] `aku-perception-is-reality-value-claim` ↔ `aku-ux-understanding-comunicar-con-claridad-concept`
+      - Ambos: comunicar claridad para percepcion del usuario.
+- [ ] `aku-implied-guarantee-performance-concept` ↔ `aku-marketing-afiliados-concept`
+      - Ambos: compensacion por resultados/rendimiento, alineacion de incentivos.
+- [ ] `aku-cltv-subscription-formula` ↔ `aku-ltgp-cac-3-a-1-claim`
+      - CLTV es componente del ratio LT-value/CAC; mismo objeto unit economics.
+- [ ] `aku-cltv-transactional-formula` ↔ `aku-ltgp-cac-3-a-1-claim`
+      - CLTV transaccional alimenta el LTGP del ratio; unit economics.
+- [ ] `aku-agregacion-de-ganancias-marginales-concept` ↔ `aku-mejorar-mas-dificil-al-crecer-capacidad-claim`
+      - Ambos sobre dinamica de mejora continua; angulos opuestos.
+- [ ] `aku-entorno-de-recompensa-inmediata-vs-diferida-concept` ↔ `aku-metas-intermedias-visibles-method`
+      - Ambos sobre recompensa inmediata vs objetivo lejano/diferido.
+- [ ] `aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim` ↔ `aku-pedir-un-rango-alto-y-preciso-claim`
+      - Ambos sobre tactica de negociacion en cifras/anclaje.
+- [ ] `aku-asumir-equivocarse-claim` ↔ `aku-humildad-asumir-errores-claim`
+      - Ambos: asumir errores propios mejora resultados.
+- [ ] `aku-objetivos-vs-resultados-clave-concept` ↔ `aku-sistemas-vs-metas-en-atomic-habits-concept`
+      - Ambos contrastan metas/objetivos vs procesos-resultados medibles.
+- [ ] `aku-la-mente-es-un-musculo-que-puedes-reprogramar-con-consciencia-claim` ↔ `aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim`
+      - Ambos: observar pensamientos/emociones para reescribir estado interno.
+- [ ] `aku-la-mente-es-un-musculo-que-puedes-reprogramar-con-consciencia-claim` ↔ `aku-mente-de-mono-concept`
+      - Ambos sobre control de mente/pensamientos/emociones; angulos complementarios.
+- [ ] `aku-48laws-42-strike-the-shepherd-concept` ↔ `aku-no-yes-men-fomentar-pushback-claim`
+      - Ambos sobre subordinados problematicos/influencia en liderazgo; angulos distintos.
+- [ ] `aku-elige-socios-con-integridad-sobre-todo-claim` ↔ `aku-excepcion-resistir-ordenes-ilegales-inmorales-claim`
+      - Ambos sobre integridad como criterio en relaciones.
+- [ ] `aku-dolor-es-el-pitch-claim` ↔ `aku-pitch-deck-problema-concept`
+      - Ambos sobre articular el dolor/problema del cliente.
+- [ ] `aku-asignar-10-20-tech-nueva-claim` ↔ `aku-factor-crecimiento-distribucion-concept`
+      - Ambos sobre herramientas de distribucion del outreach.
+- [ ] `aku-batna-mejor-alternativa-a-un-acuerdo-negociado-concept` ↔ `aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim`
+      - Ambos sobre poder/flexibilidad en negociacion, angulos distintos.
+- [ ] `aku-mejorar-tus-batnas-antes-de-negociar-claim` ↔ `aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim`
+      - Ambos sobre flexibilidad/poder negociador, mismo objeto angulos distintos.
+- [ ] `aku-estructura-de-capital-concept` ↔ `aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim`
+      - Ambos sobre equity como participacion en negocio, angulos distintos.
+- [ ] `aku-ltgp-concept` ↔ `aku-margen-bruto-concept`
+      - LTGP se computa sobre gross profit = margen bruto.
+- [ ] `aku-la-libertad-es-el-valor-supremo-claim` ↔ `aku-the-warpath-concept`
+      - Ambos: disciplina/control conduce a libertad y paz.
+- [ ] `aku-mostrar-resenas-imperfectas-claim` ↔ `aku-positivo-pero-realista-no-pollyanna-claim`
+      - Ambos: mezcla negativo/realismo aumenta credibilidad.
+- [ ] `aku-coste-por-engaged-lead-payroll-method` ↔ `aku-sueldos-y-salarios-concept`
+      - Payroll es instancia de sueldos y salarios.
+- [ ] `aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method` ↔ `aku-estructura-de-capital-concept`
+      - ambos tratan equity y valoracion de empresa
+- [ ] `aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method` ↔ `aku-precio-valor-contable-method`
+      - ambos calculan valoracion del equity de empresa
+- [ ] `aku-proceso-cro-method` ↔ `aku-reversion-riesgo-numero-uno-claim`
+      - ambos sobre optimizar conversion
+- [ ] `aku-categoria-de-uno-concept` ↔ `aku-posicionamiento-ser-el-primero-concept`
+      - Ambos describen posicionamiento sin comparación; ángulos distintos del mismo objeto.
+- [ ] `aku-contingency-planning-anticipar-method` ↔ `aku-implementation-intention-method`
+      - Ambos planifican respuesta de antemano ante situación X→Y.
+- [ ] `aku-alinear-las-caracteristicas-con-las-de-la-competencia-claim` ↔ `aku-mercados-apropiados-para-cada-ventaja-claim`
+      - Ambos: similitud percibida reduce diferenciación, decide ventaja menor/precio.
+- [ ] `aku-riqueza-es-entender-que-quien-cuando-no-solo-trabajo-duro-claim` ↔ `aku-volumen-test-size-suficiente-claim`
+      - Ambos: trabajo/acción correcta mal dirigida igualmente fracasa.
+- [ ] `aku-bonus-presentation-checklist-concept` ↔ `aku-copy-aportar-pruebas-claim`
+      - Ambos: aportar prueba/evidencia aumenta credibilidad y conversión.
+- [ ] `aku-lead-magnet-reduce-cac-claim` ↔ `aku-motor-crecimiento-pago-concept`
+      - ambos sobre CAC y adquisicion pagada; instancia del motor
+- [ ] `aku-lead-magnet-reduce-cac-claim` ↔ `aku-metricas-accionables-concept`
+      - lead magnet reduce CAC, metrica accionable definida; mismo objeto
+- [ ] `aku-engaged-lead-concept` ↔ `aku-estados-lead-funnel-concept`
+      - Engaged lead es instancia de estado de lead.
+- [ ] `aku-lead-magnet-resumen-visita-concept` ↔ `aku-warm-outreach-concept`
+      - Warm outreach da a conocer el lead magnet.
+- [ ] `aku-check-ego-asumiendo-culpa-primero-method` ↔ `aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim`
+      - Ambos sobre asumir culpa/responsabilidad propia.
+- [ ] `aku-compra-value-vs-price-driven-concept` ↔ `aku-precios-redondos-en-compras-de-conveniencia-claim`
+      - Ambos sobre base de decision de compra/precio.
+- [ ] `aku-compra-value-vs-price-driven-concept` ↔ `aku-precios-redondos-en-compras-emocionales-claim`
+      - Ambos sobre decision de compra por precio.
+- [ ] `aku-autoevaluacion-honesta-you-vs-you-claim` ↔ `aku-honestidad-radical-mentir-a-otro-es-mentirte-a-ti-mismo-claim`
+      - Ambos: autoengano, ser honesto contigo mismo
+- [ ] `aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept` ↔ `aku-un-poco-de-miedo-y-paranoia-es-util-claim`
+      - Ambos tratan naturaleza del miedo, angulos opuestos
+- [ ] `aku-create-flow-monetize-flow-add-friction-claim` ↔ `aku-friccion-flywheel-concept`
+      - Ambos usan friccion como palanca operativa controlable
+- [ ] `aku-adaptar-las-palabras-al-escenario-claim` ↔ `aku-mucha-gente-cree-que-le-falta-motivacion-cuando-le-falta-claridad-claim`
+      - ambos: especificidad concreta supera lo difuso/generico
+- [ ] `aku-callouts-no-verbales-concept` ↔ `aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept`
+      - ambos sobre captar atencion visual via saliencia/movimiento
+- [ ] `aku-ga-objetivo-duracion-concept` ↔ `aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim`
+      - ambos sobre metricas como objetivo de medicion
+- [ ] `aku-cta-concept` ↔ `aku-los-colores-saturados-parecen-mas-cercanos-claim`
+      - CTA usa contraste/color; saturacion afecta percepcion del boton
+- [ ] `aku-blitz-crea-cultura-fuerte-claim` ↔ `aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim`
+      - ambos sobre presion de cultura/grupo sobre individuo
+- [ ] `aku-cialdini-reciprocidad-concept` ↔ `aku-methods-step2-elicitar-actitudes-congruentes-concept`
+      - Ambos mecanismos de predisponer al receptor antes de pedir.
+- [ ] `aku-labor-es-la-peor-forma-de-leverage-claim` ↔ `aku-palanca-vence-fuerza-claim`
+      - Ambos sobre leverage como principio; angulos distintos metaforicos
+- [ ] `aku-giveaway-offer-concept` ↔ `aku-lead-magnet-resumen-visita-concept`
+      - ambos son lead magnets/offers para captar contacto
+- [ ] `aku-atributos-marca-concept` ↔ `aku-primar-la-eleccion-con-diseno-visual-semantic-priming-claim`
+      - Ambos: rasgos abstractos de marca reflejados en diseno/branding.
+- [ ] `aku-el-toque-ligero-en-el-antebrazo-aumenta-el-acuerdo-method` ↔ `aku-methods-step1-moldear-la-percepcion-concept`
+      - Ambos: tactica de persuasion previa a la peticion.
+- [ ] `aku-apalancamiento-aumenta-roe-claim` ↔ `aku-equity-es-el-upside-deuda-es-downside-garantizado-concept`
+      - Apalancamiento ROE vs naturaleza de equity/deuda; mismo objeto.
+- [ ] `aku-cash-flow-accionistas-concept` ↔ `aku-equity-es-el-upside-deuda-es-downside-garantizado-concept`
+      - Flujo apalancado de equity tras deuda; mismo objeto.
+- [ ] `aku-coste-fondos-propios-ke-concept` ↔ `aku-equity-es-el-upside-deuda-es-downside-garantizado-concept`
+      - ke remunera equity; mismo objeto desde otro angulo.
+- [ ] `aku-boss-no-da-soporte-culpate-primero-claim` ↔ `aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim`
+      - Mismo principio: asumir responsabilidad total en vez de culpar
+- [ ] `aku-boss-no-da-soporte-culpate-primero-claim` ↔ `aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept`
+      - Mismo objeto: responsabilidad total, no esperar de otros
+- [ ] `aku-conocimiento-es-el-arma-definitiva-claim` ↔ `aku-pensador-claro-mejor-que-listo-explica-a-un-nino-desde-los-fundamentos-claim`
+      - ambos sobre naturaleza del conocimiento real
+- [ ] `aku-la-lujuria-por-el-dinero-es-un-pozo-sin-fondo-claim` ↔ `aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim`
+      - ambos sobre deseo insaciable y estado interno
+- [ ] `aku-inseguridad-admitir-no-ocultar-claim` ↔ `aku-subvierte-las-expectativas-da-la-energia-opuesta-para-desarmar-claim`
+      - Ambos sobre humildad como palanca de control social.
+- [ ] `aku-copy-aportar-pruebas-claim` ↔ `aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept`
+      - Ambos sobre copy persuasivo que aumenta conversion
+- [ ] `aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept` ↔ `aku-formula-titulo-porque-resultado-method`
+      - Ambos sobre redaccion persuasiva que despierta al lector
+- [ ] `aku-lead-nurturing-concept` ↔ `aku-resolver-cada-problema-percibido-claim`
+      - Ambos: resolver dudas/objeciones del lead para convertir
+- [ ] `aku-explore-exploit-trade-off-method` ↔ `aku-presupuesto-test-ads-2x-method`
+      - Ambos: explorar/testear barato, escalar ganadores, perder poco
+- [ ] `aku-autoliderazgo-prerequisito-claim` ↔ `aku-evaluation-character-leadership-concept`
+      - Ambos: liderarse a uno mismo como base del liderazgo.
+- [ ] `aku-apalancamiento-aumenta-roe-claim` ↔ `aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim`
+      - Ambos sobre equity/activos que generan rentabilidad financiera.
+- [ ] `aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim` ↔ `aku-roe-concept`
+      - Equity como activo generador de rentabilidad; mismo objeto, ángulos distintos.

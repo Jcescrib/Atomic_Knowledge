@@ -40,6 +40,7 @@ relations:
     - aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim
     - aku-tres-caminos-al-retiro-concept
     - aku-cltv-minus-cac-concept
+    - aku-status-driver-compra-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -52,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-money-transfiere-tiempo-y-riqueza-concept]] · [[aku-status-posicion-en-jerarquia-social-concept]] · [[aku-equity-value-concept]] · [[aku-busca-wealth-no-money-ni-status-claim]] · [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]] · [[aku-tres-caminos-al-retiro-concept]] · [[aku-cltv-minus-cac-concept]]
+**related** ↔ [[aku-money-transfiere-tiempo-y-riqueza-concept]] · [[aku-status-posicion-en-jerarquia-social-concept]] · [[aku-equity-value-concept]] · [[aku-busca-wealth-no-money-ni-status-claim]] · [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]] · [[aku-tres-caminos-al-retiro-concept]] · [[aku-cltv-minus-cac-concept]] · [[aku-status-driver-compra-claim]]

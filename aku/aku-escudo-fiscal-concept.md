@@ -31,7 +31,11 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-estructura-de-capital-concept, aku-coste-deuda-kd-concept, aku-gastos-financieros-concept]
+  related:
+    - aku-estructura-de-capital-concept
+    - aku-coste-deuda-kd-concept
+    - aku-gastos-financieros-concept
+    - aku-equity-es-el-upside-deuda-es-downside-garantizado-concept
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -44,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-estructura-de-capital-concept]] · [[aku-coste-deuda-kd-concept]] · [[aku-gastos-financieros-concept]]
+**related** ↔ [[aku-estructura-de-capital-concept]] · [[aku-coste-deuda-kd-concept]] · [[aku-gastos-financieros-concept]] · [[aku-equity-es-el-upside-deuda-es-downside-garantizado-concept]]

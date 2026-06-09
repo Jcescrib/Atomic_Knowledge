@@ -1084,3 +1084,11 @@ Integración del grafo 50-cent: cableado de puentes (b) aprobados + 2 TAKUs + au
 - **methods-of-persuasion** — stub de imágenes CON contenido extraíble (Figure 0.1 framework + Table 1.1 priming). **+9 AKUs**: CORE `methods-proceso-de-persuasion-en-siete-pasos` + 7 step-concepts (Mold/Elicit/Trigger/Habituate/Optimize/Drive/Sustain) + claim `el-priming-influye-en-la-conducta`. **+1 framework TAKU** `taku-methods-proceso-persuasion-7-pasos`. Figuras Ebbinghaus (step1) y Asch (step3) embebidas. Generador `_kolenda_methods.py`. Puentes: priming→priming-visual (Choice), step1→comparaciones-relativas (Choice), step3+CORE→leyes-cialdini, step5→copywriting.
 - verify_graph: 2383/2383 simétrico, **0 errores**. 1 componente, 0 huérfanos.
 - **✅ CLUSTER KOLENDA COMPLETO (16/16 libros)**. vault 2373→2383.
+
+## 2026-06-09 — audit: integración cross-corpus (workflow multi-agente, 3 pasadas)
+- **Objetivo (petición de Joan)**: revisar e integrar conexiones entre TODAS las fuentes del grafo (cross-corpus).
+- **Método**: proponedor idf (`_audit_bridges.py`) genera candidatos cross-corpus; export por-AKU top-2 (`_bridge_export.py`) → 3.300 pares únicos en lotes. Workflow multi-agente veta cada par con la regla de 3 niveles (a/b/skip), conservador (ante la duda, skip).
+- **3 pasadas** (rate-limiting de la API satura colas >~40 agentes concurrentes → se resolvió con workflows ≤30 agentes): pasada 1 (56 lotes), pasada 2 (cola en lotes de 15), pasada 3 (cola final, 30 agentes, 0 fallos). **Cobertura total: 3.300/3.300 pares vetados.**
+- **Resultado**: **~75% skip** (confirma rigor: cablear los 11.521 candidatos brutos habría sido ruido). **133 puentes nivel (a) anclados-en-texto aplicados** como `related` (validados, dedup, simétricos). **513 propuestas nivel (b) conceptuales** → `_meta/auditoria-puentes-b-2026-06-09.md` (pendientes de aprobación de Joan, por regla §3-niveles).
+- Ejemplos (a) aplicados: cialdini-escasez↔scarcity-limited-seats · primera-oferta-anclaje↔número-en-la-cabeza-es-pérdida · deseo-no-tener↔deseo-contrato-Naval · café-pasteles↔reciprocidad-Cialdini · equity-vs-deuda↔{roe,wacc,escudo-fiscal,ratio-apalancamiento} · camino-menor-resistencia(Jocko)↔reduce-fricción-hábito(Clear) · methods-step7↔compromiso-consistencia-Cialdini.
+- verify_graph: 2383/2383 simétrico, **0 errores**. 1 componente, 0 huérfanos. Sub-conectados 1493→1445.
