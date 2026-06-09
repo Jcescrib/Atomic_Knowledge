@@ -28,7 +28,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-the-tangled-mind-la-cognicion-es-corporal-embodied-concept
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -48,3 +49,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
+
+**related** ↔ [[aku-the-tangled-mind-la-cognicion-es-corporal-embodied-concept]]

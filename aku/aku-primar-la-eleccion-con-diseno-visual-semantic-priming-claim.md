@@ -28,7 +28,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-el-priming-influye-en-la-conducta-claim
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -42,3 +43,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
+
+**related** ↔ [[aku-el-priming-influye-en-la-conducta-claim]]

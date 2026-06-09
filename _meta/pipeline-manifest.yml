@@ -811,13 +811,13 @@ sources:
     raw_path: "raw/libros/kolenda/audiobook-images-methods-of-persuasion/"
     converter: mineru
     converted: 2026-06-03
-    image_processing: n/a
-    ingested: null   # pending-reingestion
-    chapters_ingested: []
-    aku_count: 0
-    taku_count: 0
+    image_processing: ebbinghaus-asch-embebidas
+    ingested: 2026-06-09
+    chapters_ingested: [methods-framework, priming]
+    aku_count: 9
+    taku_count: 1
     last_commit: ""
-    notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
+    notes: "Stub de imágenes del audiolibro «Methods of Persuasion». Anclado en Figure 0.1 (framework METHODS) y Table 1.1 (priming): 9 AKUs (CORE 7-pasos + 7 step-concepts + claim priming) + 1 framework TAKU. Figuras Ebbinghaus (step1) y Asch (step3) embebidas. Detalle de tácticas en la narración del audiolibro. Puentes a Choice (priming, percepción relativa), Cialdini (presión social), Copywriting (optimizar mensaje)."
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\IRTB-Audiobook-PDF.pdf"
     name_slug: "irtb-audiobook-pdf"

@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim
+    - aku-methods-step1-moldear-la-percepcion-concept
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -55,4 +56,4 @@ status_note: ""
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
 
-**related** ↔ [[aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim]]
+**related** ↔ [[aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim]] · [[aku-methods-step1-moldear-la-percepcion-concept]]
