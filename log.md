@@ -1021,6 +1021,13 @@ Hustle Harder, Hustle Smarter — Cap. 9 «The Entitlement Trap» + framework TA
 - **LIBRO COMPLETO: Introduction + 9 capítulos = 159 AKUs nuevos + 1 framework TAKU + 1 dedup-merge cross-corpus (paso-agresivo-hacia-el-miedo, Jocko 0.50→0.60).** Manifest marcado `ingested: 2026-06-08`.
 - verify_graph: 1999/1999 simétrico, 0 errores.
 
+## 2026-06-09 — ingest
+KOLENDA (reingesta capítulo a capítulo, autorizada por Joan) — libro 1/16: «Pricing Psychology».
+- **+48 AKUs** (1 concept núcleo `pricing-psychology-el-precio-es-percepcion` + 45 claim + 2 method): una táctica por AKU en 5 secciones (Theory/Visuals/Framing/Numerals/Discounts), cada una `supports`→núcleo. Generador `scripts/_kolenda_pricing.py` (autoría como datos + `wire()` para sync 3 capas — patrón eficiente para los 16 libros).
+- Imágenes: screenshots-ejemplo ilustrativos (el conocimiento está en el texto) + tablas de datos ya como texto → **0 blockquotes**.
+- Puentes (b): `exponer-a-numero-alto`↔`cuando-te-meten-un-numero` (anclaje, 50-cent); `decoy`↔`cialdini-escasez`; pain-of-paying y reframing intra-libro.
+- verify_graph: 2047/2047 simétrico, 0 errores. **Quedan 15 libros Kolenda.**
+
 ## 2026-06-08 — audit
 Integración del grafo 50-cent: cableado de puentes (b) aprobados + 2 TAKUs + auditoría completa.
 - **+54 aristas `related`** (sync 3 capas vía `akupatch`): 50 puentes (b)/(a) aprobados por Joan (`scripts/_50cent_bridges.py`) + 4 correctoras de islas. Cross-corpus a Jocko (extreme-ownership, good-mindset, dichotomy, miedo-al-fracaso, tiempo-recurso, humildad), Naval (equity, choiceless-awareness, judgment, felicidad, deseo, accountability, juegos-iterados), 48-laws (L15/L06/L46/L37/L02), Cialdini (escasez/simpatía), Power MBA (branding, cinco-fuerzas, equity-value, liderazgo-situacional, compartir-objetivos), Hormozi (escasez), Atomic Habits (never-miss-twice, aburrimiento, editar-identidad, reflexión-revisión).

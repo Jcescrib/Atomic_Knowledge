@@ -764,12 +764,15 @@ sources:
     raw_path: "raw/libros/kolenda/pricing-psychology-by-nick-kolenda/"
     converter: mineru
     converted: 2026-06-03
-    image_processing: n/a
-    ingested: null   # pending-reingestion
-    chapters_ingested: []
-    aku_count: 0
+    image_processing: 2026-06-09   # imgs = screenshots-ejemplo ilustrativos (conocimiento en texto) + tablas ya como texto -> 0 blockquotes
+    ingested: 2026-06-09
+    chapters_ingested: [theory-visuals-framing-numerals-discounts]
+    aku_count: 48
     taku_count: 0
     last_commit: ""
+    notes: >
+      Kolenda libro 1/16. +48 AKUs (1 concept núcleo + 45 claim + 2 method), una táctica por AKU
+      en 5 secciones. Generador `scripts/_kolenda_pricing.py`. source-tag kolenda.
     notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\user-experience2.pdf"
