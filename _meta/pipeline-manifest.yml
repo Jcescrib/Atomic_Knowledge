@@ -824,12 +824,13 @@ sources:
     raw_path: "raw/libros/kolenda/irtb-audiobook-pdf/"
     converter: mineru
     converted: 2026-06-03
-    image_processing: n/a
-    ingested: null   # pending-reingestion
-    chapters_ingested: []
-    aku_count: 0
+    image_processing: figura-intro-embebida
+    ingested: 2026-06-09
+    chapters_ingested: [core-thesis-only]
+    aku_count: 1
     taku_count: 0
     last_commit: ""
+    notes: "PDF = companion de figuras del audiolibro «Imagine Reading This Book», SIN prosa extraíble (solo etiquetas 'Figure X.Y' + imágenes). Ingesta honesta: 1 CORE concept anclado en título/subtítulo (la simulación mental guía las decisiones), figura intro embebida, puentes a simulation-fluency (Choice), simulación-mental (Copywriting), primar-ejecución (Negotiation). El detalle capitular vive en la narración del audiolibro — NO fabricar AKUs de figuras sin caption (sourcing). Tesis ya cubierta por el cluster de simulación."
     notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Pages - Viral Marketing.pdf"

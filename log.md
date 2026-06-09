@@ -1073,3 +1073,8 @@ Integración del grafo 50-cent: cableado de puentes (b) aprobados + 2 TAKUs + au
 - **Wiring (48 aristas)**: cada guideline-concept y cada táctica `supports`→su nivel superior; **puentes cross-corpus**: colores-fríos→azul-relaja + color-semántico→esquema-complementario (Color); choice-overload→surtido-completo, default→opción-centro, scannability→opción-primera-última-serial-position (Choice); punto-de-entrada→visual-attention, flujo-visual→señales-sensoriales (Visual Attention).
 - **Fase 3 figuras**: NO embebidas — las ~130 imágenes son mockups UI before/after ilustrativos que repiten el texto (la regla Fase 3 permite omitir los meramente ilustrativos). Documentado en manifest (`image_processing: skipped-illustrative`).
 - verify_graph: 2372/2372 simétrico, **0 errores**. 1 componente, 0 huérfanos. **Kolenda 13/16, vault 2334→2372.**
+
+## 2026-06-09 — ingest: kolenda 14/16 — irtb (imagine-reading-this-book, companion de figuras)
+- **+1 AKU** (CORE concept): `aku-imagine-reading-this-book-la-simulacion-mental-guia-las-decisiones-concept` — la imaginería mental guía las decisiones (subtítulo «How Mental Pictures Influence Your Decisions»); figura intro embebida; `related`→ simulation-fluency (Choice), simulación-mental (Copywriting), primar-ejecución (Negotiation).
+- **Decisión de sourcing**: el PDF es el companion de figuras del audiolibro, SIN prosa extraíble (solo «Figure X.Y» + imágenes). NO se fabrican AKUs granulares de figuras sin caption (violaría el anclaje en texto). La tesis del libro ya está cubierta por el cluster de simulación; se ancla 1 CORE en título/subtítulo y se documenta que el detalle vive en la narración del audiolibro.
+- verify_graph: 2373/2373 simétrico, **0 errores**. **Kolenda 14/16, vault 2372→2373.**

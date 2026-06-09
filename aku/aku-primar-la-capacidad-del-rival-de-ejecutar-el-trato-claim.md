@@ -29,7 +29,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-imagine-reading-this-book-la-simulacion-mental-guia-las-decisiones-concept
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -45,3 +46,5 @@ status_note: ""
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
 **supported_by** ← [[aku-simulation-fluency-simulamos-resultado-menos-proceso-concept]]
+
+**related** ↔ [[aku-imagine-reading-this-book-la-simulacion-mental-guia-las-decisiones-concept]]

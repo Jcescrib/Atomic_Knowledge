@@ -29,7 +29,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-imagine-reading-this-book-la-simulacion-mental-guia-las-decisiones-concept
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -54,3 +55,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]] · [[aku-primar-la-capacidad-del-rival-de-ejecutar-el-trato-claim]]
+
+**related** ↔ [[aku-imagine-reading-this-book-la-simulacion-mental-guia-las-decisiones-concept]]
