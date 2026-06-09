@@ -28,7 +28,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-el-color-capta-la-atencion-claim
 
 sources:
   - raw/libros/kolenda/color-psychology2/color-psychology2.md
@@ -46,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept]]
+
+**related** ↔ [[aku-el-color-capta-la-atencion-claim]]

@@ -797,10 +797,10 @@ sources:
     raw_path: "raw/libros/kolenda/visual-attention-by-nick-kolenda/"
     converter: mineru
     converted: 2026-06-03
-    image_processing: n/a
-    ingested: null   # pending-reingestion
-    chapters_ingested: []
-    aku_count: 0
+    image_processing: 2026-06-09   # 17 figuras embebidas en los AKUs (![[hash]])
+    ingested: 2026-06-09           # Kolenda 9/16: +27 AKUs (1 concept + 26 claim), modo exhaustivo. Generador _kolenda_visual.py + figuras
+    chapters_ingested: [salience-motion-agents-spatial-arousal-unexpected-self-goal]
+    aku_count: 27
     taku_count: 0
     last_commit: ""
     notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
