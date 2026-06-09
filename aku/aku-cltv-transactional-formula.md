@@ -33,7 +33,8 @@ relations:
   breaks_context_of:
     - aku-cltv-subscription-formula
   contradicts: []
-  related: []
+  related:
+    - aku-ltgp-cac-3-a-1-claim
 
 sources:
   - "raw/cursos/power-mba/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md"
@@ -51,3 +52,5 @@ status_note: ""
 **context_breaks_at** → [[aku-cltv-subscription-formula]]
 
 **breaks_context_of** → [[aku-cltv-subscription-formula]]
+
+**related** ↔ [[aku-ltgp-cac-3-a-1-claim]]

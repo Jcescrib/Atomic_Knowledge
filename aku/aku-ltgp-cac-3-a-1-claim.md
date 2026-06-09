@@ -41,6 +41,8 @@ relations:
     - aku-metricas-accionables-concept
     - aku-cac-payback-concept
     - aku-cltv-concept
+    - aku-cltv-subscription-formula
+    - aku-cltv-transactional-formula
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -53,4 +55,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cltv-cac-ratio-concept]] · [[aku-cac-concept]] · [[aku-client-financed-acquisition-concept]] · [[aku-tres-fases-escalar-ads-concept]] · [[aku-payout-afiliados-tiers-concept]] · [[aku-metricas-accionables-concept]] · [[aku-cac-payback-concept]] · [[aku-cltv-concept]]
+**related** ↔ [[aku-cltv-cac-ratio-concept]] · [[aku-cac-concept]] · [[aku-client-financed-acquisition-concept]] · [[aku-tres-fases-escalar-ads-concept]] · [[aku-payout-afiliados-tiers-concept]] · [[aku-metricas-accionables-concept]] · [[aku-cac-payback-concept]] · [[aku-cltv-concept]] · [[aku-cltv-subscription-formula]] · [[aku-cltv-transactional-formula]]

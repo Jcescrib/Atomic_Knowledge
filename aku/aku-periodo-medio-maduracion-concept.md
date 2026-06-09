@@ -26,13 +26,20 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-ciclo-working-capital-dias-method]
+  supports:
+    - aku-ciclo-working-capital-dias-method
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-necesidades-operativas-fondos-concept, aku-fondo-de-maniobra-concept, aku-periodo-medio-cobro-concept, aku-periodo-medio-pago-concept, aku-dias-de-existencias-concept]
+  related:
+    - aku-necesidades-operativas-fondos-concept
+    - aku-fondo-de-maniobra-concept
+    - aku-periodo-medio-cobro-concept
+    - aku-periodo-medio-pago-concept
+    - aku-dias-de-existencias-concept
+    - aku-cobrar-antes-de-que-el-cliente-consuma-claim
 
 sources:
   - raw/cursos/power-mba/09-02-01-ratios-analisis-financieros/09-02-01-ratios-analisis-financieros.md
@@ -46,4 +53,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ciclo-working-capital-dias-method]]
-**related** ↔ [[aku-necesidades-operativas-fondos-concept]] · [[aku-fondo-de-maniobra-concept]] · [[aku-periodo-medio-cobro-concept]] · [[aku-periodo-medio-pago-concept]] · [[aku-dias-de-existencias-concept]]
+**related** ↔ [[aku-necesidades-operativas-fondos-concept]] · [[aku-fondo-de-maniobra-concept]] · [[aku-periodo-medio-cobro-concept]] · [[aku-periodo-medio-pago-concept]] · [[aku-dias-de-existencias-concept]] · [[aku-cobrar-antes-de-que-el-cliente-consuma-claim]]

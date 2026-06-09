@@ -36,6 +36,7 @@ relations:
     - aku-believe-in-the-mission-concept
     - aku-conexion-rol-big-picture-no-intuitiva-claim
     - aku-48laws-13-appeal-to-self-interest-concept
+    - aku-con-un-porque-suficientemente-grande-superas-cualquier-como-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-believe-in-the-mission-concept]] · [[aku-conexion-rol-big-picture-no-intuitiva-claim]] · [[aku-48laws-13-appeal-to-self-interest-concept]]
+**related** ↔ [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-believe-in-the-mission-concept]] · [[aku-conexion-rol-big-picture-no-intuitiva-claim]] · [[aku-48laws-13-appeal-to-self-interest-concept]] · [[aku-con-un-porque-suficientemente-grande-superas-cualquier-como-claim]]

@@ -41,6 +41,9 @@ relations:
     - aku-ratio-de-apalancamiento-method
     - aku-roe-concept
     - aku-wacc-method
+    - aku-apalancamiento-aumenta-roe-claim
+    - aku-cash-flow-accionistas-concept
+    - aku-coste-fondos-propios-ke-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -53,4 +56,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-equity-value-concept]] · [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]] · [[aku-estructura-de-capital-concept]] · [[aku-apalancamiento-aumenta-riesgo-claim]] · [[aku-apalancamiento-financiero-concept]] · [[aku-escudo-fiscal-concept]] · [[aku-ratio-de-apalancamiento-method]] · [[aku-roe-concept]] · [[aku-wacc-method]]
+**related** ↔ [[aku-equity-value-concept]] · [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]] · [[aku-estructura-de-capital-concept]] · [[aku-apalancamiento-aumenta-riesgo-claim]] · [[aku-apalancamiento-financiero-concept]] · [[aku-escudo-fiscal-concept]] · [[aku-ratio-de-apalancamiento-method]] · [[aku-roe-concept]] · [[aku-wacc-method]] · [[aku-apalancamiento-aumenta-roe-claim]] · [[aku-cash-flow-accionistas-concept]] · [[aku-coste-fondos-propios-ke-concept]]

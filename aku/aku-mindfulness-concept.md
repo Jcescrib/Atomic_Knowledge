@@ -40,6 +40,8 @@ relations:
     - aku-mente-mono-no-estar-presente-concept
     - aku-meditacion-es-apagar-a-la-sociedad-y-escucharte-y-adopta-muchas-formas-claim
     - aku-meditar-60-min-60-dias-para-llegar-a-un-inbox-cero-mental-method
+    - aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept
+    - aku-iluminacion-es-el-espacio-entre-tus-pensamientos-concept
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -52,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-mente-de-mono-concept]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-single-tasking-foco-una-tarea-claim]] · [[aku-descansos-un-minuto-method]] · [[aku-mente-mono-no-estar-presente-concept]] · [[aku-meditacion-es-apagar-a-la-sociedad-y-escucharte-y-adopta-muchas-formas-claim]] · [[aku-meditar-60-min-60-dias-para-llegar-a-un-inbox-cero-mental-method]]
+**related** ↔ [[aku-mente-de-mono-concept]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-single-tasking-foco-una-tarea-claim]] · [[aku-descansos-un-minuto-method]] · [[aku-mente-mono-no-estar-presente-concept]] · [[aku-meditacion-es-apagar-a-la-sociedad-y-escucharte-y-adopta-muchas-formas-claim]] · [[aku-meditar-60-min-60-dias-para-llegar-a-un-inbox-cero-mental-method]] · [[aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept]] · [[aku-iluminacion-es-el-espacio-entre-tus-pensamientos-concept]]

@@ -34,6 +34,8 @@ relations:
   related:
     - aku-lead-magnet-concept
     - aku-cac-concept
+    - aku-motor-crecimiento-pago-concept
+    - aku-metricas-accionables-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-lead-magnet-concept]] · [[aku-cac-concept]]
+**related** ↔ [[aku-lead-magnet-concept]] · [[aku-cac-concept]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-metricas-accionables-concept]]

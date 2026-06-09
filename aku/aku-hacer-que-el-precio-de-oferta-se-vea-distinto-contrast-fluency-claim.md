@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-retratar-el-problema-en-escala-de-grises-contrast-fluency-claim
+    - aku-callouts-no-verbales-concept
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-retratar-el-problema-en-escala-de-grises-contrast-fluency-claim]]
+**related** ↔ [[aku-retratar-el-problema-en-escala-de-grises-contrast-fluency-claim]] · [[aku-callouts-no-verbales-concept]]

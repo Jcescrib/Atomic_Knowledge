@@ -45,6 +45,7 @@ relations:
     - aku-curva-valor-concept
     - aku-oceano-azul-concept
     - aku-innovacion-valor-via-eric-claim
+    - aku-value-equation-concept
 
 sources:
   - "raw/cursos/power-mba/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave.md"
@@ -61,4 +62,4 @@ status_note: ""
 
 **supports** → [[aku-innovacion-valor-concept]]
 
-**related** ↔ [[aku-curva-valor-concept]] · [[aku-oceano-azul-concept]] · [[aku-innovacion-valor-via-eric-claim]]
+**related** ↔ [[aku-curva-valor-concept]] · [[aku-oceano-azul-concept]] · [[aku-innovacion-valor-via-eric-claim]] · [[aku-value-equation-concept]]

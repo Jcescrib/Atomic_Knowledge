@@ -34,6 +34,7 @@ relations:
   related:
     - aku-cold-outreach-concept
     - aku-follow-up-volumen-claim
+    - aku-herramientas-growth-hacking-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cold-outreach-concept]] · [[aku-follow-up-volumen-claim]]
+**related** ↔ [[aku-cold-outreach-concept]] · [[aku-follow-up-volumen-claim]] · [[aku-herramientas-growth-hacking-concept]]

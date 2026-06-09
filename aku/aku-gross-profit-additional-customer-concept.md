@@ -32,6 +32,8 @@ relations:
   contradicts: []
   related:
     - aku-margen-bruto-concept
+    - aku-cltv-minus-cac-concept
+    - aku-arpu-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -44,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-margen-bruto-concept]]
+**related** ↔ [[aku-margen-bruto-concept]] · [[aku-cltv-minus-cac-concept]] · [[aku-arpu-concept]]

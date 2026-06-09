@@ -35,6 +35,7 @@ relations:
   contradicts: []
   related:
     - aku-power-of-relationships-liderazgo-concept
+    - aku-objetivos-personales-concept
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-the-evaluation-concept]]
 
-**related** ↔ [[aku-power-of-relationships-liderazgo-concept]]
+**related** ↔ [[aku-power-of-relationships-liderazgo-concept]] · [[aku-objetivos-personales-concept]]

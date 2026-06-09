@@ -34,6 +34,7 @@ relations:
   related:
     - aku-warm-outreach-concept
     - aku-empezar-cobrar-cuando-refieren-claim
+    - aku-blitz-lanza-producto-aunque-averguence-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-warm-outreach-concept]] · [[aku-empezar-cobrar-cuando-refieren-claim]]
+**related** ↔ [[aku-warm-outreach-concept]] · [[aku-empezar-cobrar-cuando-refieren-claim]] · [[aku-blitz-lanza-producto-aunque-averguence-claim]]

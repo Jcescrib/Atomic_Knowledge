@@ -27,13 +27,22 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-kpi-influencer-notoriedad-method, aku-kpi-influencer-engagement-method, aku-kpi-influencer-visita-method, aku-kpi-influencer-accion-method]
+  supports:
+    - aku-kpi-influencer-notoriedad-method
+    - aku-kpi-influencer-engagement-method
+    - aku-kpi-influencer-visita-method
+    - aku-kpi-influencer-accion-method
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-marketing-influencers-concept, aku-power-funnel-concept, aku-clausula-remuneracion-influencer-concept, aku-clausula-envio-resultados-influencer-concept]
+  related:
+    - aku-marketing-influencers-concept
+    - aku-power-funnel-concept
+    - aku-clausula-remuneracion-influencer-concept
+    - aku-clausula-envio-resultados-influencer-concept
+    - aku-paid-ads-concept
 
 sources:
   - raw/cursos/power-mba/14-06-medici-on-resultados-influencers-pptx/14-06-medici-on-resultados-influencers-pptx.md
@@ -47,4 +56,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-kpi-influencer-notoriedad-method]] · [[aku-kpi-influencer-engagement-method]] · [[aku-kpi-influencer-visita-method]] · [[aku-kpi-influencer-accion-method]]
-**related** ↔ [[aku-marketing-influencers-concept]] · [[aku-power-funnel-concept]] · [[aku-clausula-remuneracion-influencer-concept]] · [[aku-clausula-envio-resultados-influencer-concept]]
+**related** ↔ [[aku-marketing-influencers-concept]] · [[aku-power-funnel-concept]] · [[aku-clausula-remuneracion-influencer-concept]] · [[aku-clausula-envio-resultados-influencer-concept]] · [[aku-paid-ads-concept]]

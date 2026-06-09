@@ -32,6 +32,8 @@ relations:
   contradicts: []
   related:
     - aku-armate-con-specific-knowledge-accountability-y-leverage-claim
+    - aku-overload-neutralizado-por-produccion-atricion-claim
+    - aku-un-principio-aplicado-con-constancia-genera-valor-desproporcionado-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]]
+**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-overload-neutralizado-por-produccion-atricion-claim]] · [[aku-un-principio-aplicado-con-constancia-genera-valor-desproporcionado-claim]]

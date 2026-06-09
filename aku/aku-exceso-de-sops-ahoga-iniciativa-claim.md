@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-micromanagement-mata-iniciativa-claim
+    - aku-habitos-mas-practica-deliberada-igual-maestria-concept
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-disciplined-not-rigid-concept]]
 
-**related** ↔ [[aku-micromanagement-mata-iniciativa-claim]]
+**related** ↔ [[aku-micromanagement-mata-iniciativa-claim]] · [[aku-habitos-mas-practica-deliberada-igual-maestria-concept]]

@@ -36,6 +36,7 @@ relations:
     - aku-imposter-syndrome-es-bueno-claim
     - aku-confident-but-not-cocky-concept
     - aku-check-the-ego-concept
+    - aku-quien-presume-de-honesto-suele-ocultar-algo-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-imposter-syndrome-es-bueno-claim]] · [[aku-confident-but-not-cocky-concept]] · [[aku-check-the-ego-concept]]
+**related** ↔ [[aku-imposter-syndrome-es-bueno-claim]] · [[aku-confident-but-not-cocky-concept]] · [[aku-check-the-ego-concept]] · [[aku-quien-presume-de-honesto-suele-ocultar-algo-claim]]

@@ -31,7 +31,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-competencia-amplia-concept
+    - aku-estructura-funcional-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-cover-and-move-concept]]
+
+**related** ↔ [[aku-competencia-amplia-concept]] · [[aku-estructura-funcional-concept]]

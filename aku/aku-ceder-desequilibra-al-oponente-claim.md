@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-acceptance-principle-concept
+    - aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim
+    - aku-negotiation-tactics-influencia-psicologica-por-fase-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-acceptance-principle-concept]]
+**related** ↔ [[aku-acceptance-principle-concept]] · [[aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim]] · [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]

@@ -22,14 +22,18 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-hacks-copywriting-concept]
+  supported_by:
+    - aku-hacks-copywriting-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-cta-hormozi-concept
+    - aku-eliminar-elementos-innecesarios-data-ink-claim
+    - aku-las-fundaciones-importan-mas-que-la-profundidad-equivocada-claim
 
 sources:
   - raw/cursos/power-mba/18-info-hacks-copy/18-info-hacks-copy.md
@@ -43,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-hacks-copywriting-concept]]
+
+**related** ↔ [[aku-cta-hormozi-concept]] · [[aku-eliminar-elementos-innecesarios-data-ink-claim]] · [[aku-las-fundaciones-importan-mas-que-la-profundidad-equivocada-claim]]

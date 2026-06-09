@@ -33,6 +33,7 @@ relations:
   related:
     - aku-leer-es-la-meta-habilidad-definitiva-canjeable-por-cualquier-otra-claim
     - aku-modelos-mentales-concept
+    - aku-aprender-pensando-por-uno-mismo-descubre-mas-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-leer-es-la-meta-habilidad-definitiva-canjeable-por-cualquier-otra-claim]] · [[aku-modelos-mentales-concept]]
+**related** ↔ [[aku-leer-es-la-meta-habilidad-definitiva-canjeable-por-cualquier-otra-claim]] · [[aku-modelos-mentales-concept]] · [[aku-aprender-pensando-por-uno-mismo-descubre-mas-claim]]

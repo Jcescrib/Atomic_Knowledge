@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-reconnaissance-principle-concept
+    - aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-reconnaissance-principle-concept]]
+**related** ↔ [[aku-reconnaissance-principle-concept]] · [[aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim]]

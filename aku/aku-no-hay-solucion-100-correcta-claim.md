@@ -33,6 +33,9 @@ relations:
   related:
     - aku-el-enemigo-tiene-voto-concept
     - aku-iterative-decision-making-method
+    - aku-lean-startup-method-concept
+    - aku-asumir-equivocarse-claim
+    - aku-sabiduria-es-conocer-consecuencias-a-largo-plazo-juicio-es-aplicarla-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-decisiveness-amid-uncertainty-concept]]
 
-**related** ↔ [[aku-el-enemigo-tiene-voto-concept]] · [[aku-iterative-decision-making-method]]
+**related** ↔ [[aku-el-enemigo-tiene-voto-concept]] · [[aku-iterative-decision-making-method]] · [[aku-lean-startup-method-concept]] · [[aku-asumir-equivocarse-claim]] · [[aku-sabiduria-es-conocer-consecuencias-a-largo-plazo-juicio-es-aplicarla-concept]]

@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-el-priming-influye-en-la-conducta-claim
+    - aku-identidad-de-marca-concept
+    - aku-atributos-marca-concept
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -44,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
 
-**related** ↔ [[aku-el-priming-influye-en-la-conducta-claim]]
+**related** ↔ [[aku-el-priming-influye-en-la-conducta-claim]] · [[aku-identidad-de-marca-concept]] · [[aku-atributos-marca-concept]]

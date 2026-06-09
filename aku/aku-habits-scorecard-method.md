@@ -36,6 +36,8 @@ relations:
     - aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim
     - aku-prime-tu-entorno-para-el-uso-futuro-method
     - aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim
+    - aku-autoevaluacion-honesta-you-vs-you-claim
+    - aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim]] · [[aku-prime-tu-entorno-para-el-uso-futuro-method]] · [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]]
+**related** ↔ [[aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim]] · [[aku-prime-tu-entorno-para-el-uso-futuro-method]] · [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-autoevaluacion-honesta-you-vs-you-claim]] · [[aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept]]

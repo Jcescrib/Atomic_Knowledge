@@ -37,6 +37,7 @@ relations:
     - aku-solve-every-problem-claim
     - aku-problem-solution-cycle-concept
     - aku-convergent-vs-divergent-thinking-concept
+    - aku-conversacion-mente-cliente-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-value-equation-concept]] · [[aku-solve-every-problem-claim]] · [[aku-problem-solution-cycle-concept]] · [[aku-convergent-vs-divergent-thinking-concept]]
+**related** ↔ [[aku-value-equation-concept]] · [[aku-solve-every-problem-claim]] · [[aku-problem-solution-cycle-concept]] · [[aku-convergent-vs-divergent-thinking-concept]] · [[aku-conversacion-mente-cliente-concept]]

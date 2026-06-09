@@ -32,6 +32,8 @@ relations:
   contradicts: []
   related:
     - aku-leverage-multiplicador-de-juicio-concept
+    - aku-leverage-leads-por-tiempo-concept
+    - aku-trade-40-horas-por-4-gestion-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-leverage-multiplicador-de-juicio-concept]]
+**related** ↔ [[aku-leverage-multiplicador-de-juicio-concept]] · [[aku-leverage-leads-por-tiempo-concept]] · [[aku-trade-40-horas-por-4-gestion-claim]]

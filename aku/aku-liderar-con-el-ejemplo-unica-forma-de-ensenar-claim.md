@@ -33,6 +33,8 @@ relations:
   related:
     - aku-tagalong-principle-concept
     - aku-liderar-desde-frente-y-desde-atras-concept
+    - aku-specific-knowledge-no-se-ensena-pero-se-aprende-claim
+    - aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-tagalong-principle-concept]] · [[aku-liderar-desde-frente-y-desde-atras-concept]]
+**related** ↔ [[aku-tagalong-principle-concept]] · [[aku-liderar-desde-frente-y-desde-atras-concept]] · [[aku-specific-knowledge-no-se-ensena-pero-se-aprende-claim]] · [[aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim]]

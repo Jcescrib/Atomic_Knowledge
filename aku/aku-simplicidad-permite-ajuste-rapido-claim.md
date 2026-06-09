@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-plan-but-remain-flexible-concept
+    - aku-mantener-el-numero-del-nombre-simple-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-simple-law-of-combat-concept]]
 
-**related** ↔ [[aku-plan-but-remain-flexible-concept]]
+**related** ↔ [[aku-plan-but-remain-flexible-concept]] · [[aku-mantener-el-numero-del-nombre-simple-claim]]

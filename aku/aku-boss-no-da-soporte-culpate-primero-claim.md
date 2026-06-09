@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-lider-mirar-al-espejo-claim
+    - aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim
+    - aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-leading-up-the-chain-concept]]
 
-**related** ↔ [[aku-lider-mirar-al-espejo-claim]]
+**related** ↔ [[aku-lider-mirar-al-espejo-claim]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]] · [[aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept]]

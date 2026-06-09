@@ -39,6 +39,7 @@ relations:
     - aku-los-habitos-crean-libertad-no-la-restringen-claim
     - aku-no-hay-buenos-ni-malos-habitos-solo-habitos-efectivos-claim
     - aku-todo-habito-resuelve-un-problema-recurrente-con-minimo-esfuerzo-claim
+    - aku-se-capta-mas-atencion-con-baja-carga-cognitiva-sin-meta-activa-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-los-habitos-se-forman-por-frecuencia-no-por-tiempo-claim]] · [[aku-los-habitos-crean-libertad-no-la-restringen-claim]] · [[aku-no-hay-buenos-ni-malos-habitos-solo-habitos-efectivos-claim]] · [[aku-todo-habito-resuelve-un-problema-recurrente-con-minimo-esfuerzo-claim]]
+**related** ↔ [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-los-habitos-se-forman-por-frecuencia-no-por-tiempo-claim]] · [[aku-los-habitos-crean-libertad-no-la-restringen-claim]] · [[aku-no-hay-buenos-ni-malos-habitos-solo-habitos-efectivos-claim]] · [[aku-todo-habito-resuelve-un-problema-recurrente-con-minimo-esfuerzo-claim]] · [[aku-se-capta-mas-atencion-con-baja-carga-cognitiva-sin-meta-activa-claim]]

@@ -36,6 +36,10 @@ relations:
     - aku-humildad-es-la-cualidad-mas-importante-claim
     - aku-ego-nubla-todo-claim
     - aku-no-sobrerreaccionar-mantener-la-calma-claim
+    - aku-autoconciencia-lider-carencias-claim
+    - aku-tres-capas-liderazgo-concept
+    - aku-aprendes-mas-de-alguien-en-dos-minutos-en-la-calle-que-en-veinte-anos-en-el-boardroom-claim
+    - aku-autoliderazgo-prerequisito-claim
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -50,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-the-evaluation-concept]]
 
-**related** ↔ [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-ego-nubla-todo-claim]] · [[aku-no-sobrerreaccionar-mantener-la-calma-claim]]
+**related** ↔ [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-ego-nubla-todo-claim]] · [[aku-no-sobrerreaccionar-mantener-la-calma-claim]] · [[aku-autoconciencia-lider-carencias-claim]] · [[aku-tres-capas-liderazgo-concept]] · [[aku-aprendes-mas-de-alguien-en-dos-minutos-en-la-calle-que-en-veinte-anos-en-el-boardroom-claim]] · [[aku-autoliderazgo-prerequisito-claim]]

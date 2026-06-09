@@ -36,6 +36,9 @@ relations:
     - aku-escapa-la-competencia-mediante-autenticidad-claim
     - aku-categoria-de-uno-concept
     - aku-se-el-mejor-del-mundo-redefiniendo-lo-que-haces-claim
+    - aku-encajar-atributos-con-el-rol-claim
+    - aku-estrategias-genericas-porter-concept
+    - aku-descubrir-fortalezas-feedback-externo-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -48,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-escapa-la-competencia-mediante-autenticidad-claim]] · [[aku-categoria-de-uno-concept]] · [[aku-se-el-mejor-del-mundo-redefiniendo-lo-que-haces-claim]]
+**related** ↔ [[aku-escapa-la-competencia-mediante-autenticidad-claim]] · [[aku-categoria-de-uno-concept]] · [[aku-se-el-mejor-del-mundo-redefiniendo-lo-que-haces-claim]] · [[aku-encajar-atributos-con-el-rol-claim]] · [[aku-estrategias-genericas-porter-concept]] · [[aku-descubrir-fortalezas-feedback-externo-concept]]

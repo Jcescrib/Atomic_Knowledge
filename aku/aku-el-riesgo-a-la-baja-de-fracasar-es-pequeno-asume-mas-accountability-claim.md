@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-accountability-bajo-tu-nombre-concept
+    - aku-quien-culpa-a-otros-nunca-mira-su-propia-falta-de-hustle-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-accountability-bajo-tu-nombre-concept]]
+**related** ↔ [[aku-accountability-bajo-tu-nombre-concept]] · [[aku-quien-culpa-a-otros-nunca-mira-su-propia-falta-de-hustle-claim]]

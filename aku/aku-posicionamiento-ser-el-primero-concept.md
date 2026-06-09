@@ -24,13 +24,16 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-posicionamiento-concept]
+  supports:
+    - aku-posicionamiento-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-oceano-azul-concept]
+  related:
+    - aku-oceano-azul-concept
+    - aku-categoria-de-uno-concept
 
 sources:
   - raw/cursos/power-mba/4-4-branding/4-4-branding.md
@@ -45,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-posicionamiento-concept]]
 
-**related** ↔ [[aku-oceano-azul-concept]]
+**related** ↔ [[aku-oceano-azul-concept]] · [[aku-categoria-de-uno-concept]]

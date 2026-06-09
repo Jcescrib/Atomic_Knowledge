@@ -33,6 +33,7 @@ relations:
   related:
     - aku-continuity-offer-concept
     - aku-retencion-no-es-mala-claim
+    - aku-fidelizacion-vs-retencion-concept
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-continuity-offer-concept]] · [[aku-retencion-no-es-mala-claim]]
+**related** ↔ [[aku-continuity-offer-concept]] · [[aku-retencion-no-es-mala-claim]] · [[aku-fidelizacion-vs-retencion-concept]]

@@ -45,6 +45,7 @@ relations:
     - aku-formulas-titulos-potentes-concept
     - aku-libros-copywriting-recomendados-concept
     - aku-cta-hormozi-concept
+    - aku-terminar-las-frases-con-una-imagen-concreta-claim
 
 sources:
   - raw/cursos/power-mba/18-info-hacks-copy/18-info-hacks-copy.md
@@ -59,4 +60,4 @@ status_note: ""
 
 **supports** → [[aku-copy-investiga-antes-de-escribir-claim]] · [[aku-copy-objetivo-definido-claim]] · [[aku-copy-incluir-titular-claim]] · [[aku-copy-promesas-concretas-claim]] · [[aku-copy-aportar-pruebas-claim]] · [[aku-copy-sin-florituras-claim]] · [[aku-copy-incluir-cta-claim]]
 
-**related** ↔ [[aku-cta-concept]] · [[aku-palabras-frases-persuasivas-concept]] · [[aku-formulas-titulos-potentes-concept]] · [[aku-libros-copywriting-recomendados-concept]] · [[aku-cta-hormozi-concept]]
+**related** ↔ [[aku-cta-concept]] · [[aku-palabras-frases-persuasivas-concept]] · [[aku-formulas-titulos-potentes-concept]] · [[aku-libros-copywriting-recomendados-concept]] · [[aku-cta-hormozi-concept]] · [[aku-terminar-las-frases-con-una-imagen-concreta-claim]]

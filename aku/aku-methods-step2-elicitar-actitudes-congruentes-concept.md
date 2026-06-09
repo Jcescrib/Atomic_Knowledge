@@ -29,7 +29,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-cialdini-reciprocidad-concept
 
 sources:
   - raw/libros/kolenda/audiobook-images-methods-of-persuasion/audiobook-images-methods-of-persuasion.md
@@ -46,3 +47,5 @@ status_note: "Fuente = stub de imagenes del audiolibro; anclado en Figure 0.1 (f
 **supports** → [[aku-methods-proceso-de-persuasion-en-siete-pasos-concept]]
 
 **supported_by** ← [[aku-el-priming-influye-en-la-conducta-claim]]
+
+**related** ↔ [[aku-cialdini-reciprocidad-concept]]

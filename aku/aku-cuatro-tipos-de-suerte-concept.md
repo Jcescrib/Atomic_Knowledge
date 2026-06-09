@@ -36,6 +36,7 @@ relations:
   related:
     - aku-construye-un-caracter-que-atrae-la-suerte-el-caracter-es-destino-claim
     - aku-hacerse-rico-sin-suerte-es-ser-determinista-claim
+    - aku-mentalidad-de-hustler-lo-recupero-en-la-siguiente-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-construye-un-caracter-que-atrae-la-suerte-el-caracter-es-destino-claim]] · [[aku-hacerse-rico-sin-suerte-es-ser-determinista-claim]]
+**related** ↔ [[aku-construye-un-caracter-que-atrae-la-suerte-el-caracter-es-destino-claim]] · [[aku-hacerse-rico-sin-suerte-es-ser-determinista-claim]] · [[aku-mentalidad-de-hustler-lo-recupero-en-la-siguiente-claim]]

@@ -37,6 +37,7 @@ relations:
     - aku-humildad-es-la-cualidad-mas-importante-claim
     - aku-lider-compensa-debilidades-con-el-equipo-claim
     - aku-juzgar-reputaciones-dar-empezar-de-cero-claim
+    - aku-construye-habitos-que-encajen-con-tu-personalidad-big-five-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -49,6 +50,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-eleccion-vence-naturaleza-y-crianza-claim]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-lider-compensa-debilidades-con-el-equipo-claim]] · [[aku-juzgar-reputaciones-dar-empezar-de-cero-claim]]
+**related** ↔ [[aku-eleccion-vence-naturaleza-y-crianza-claim]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-lider-compensa-debilidades-con-el-equipo-claim]] · [[aku-juzgar-reputaciones-dar-empezar-de-cero-claim]] · [[aku-construye-habitos-que-encajen-con-tu-personalidad-big-five-concept]]
 
 **supports** → [[aku-aprende-nuevas-habilidades-liderazgo-claim]]

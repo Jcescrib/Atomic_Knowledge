@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-excepcion-resistir-ordenes-ilegales-inmorales-claim
+    - aku-liderar-es-articular-la-oportunidad-que-ves-hasta-que-la-otra-persona-la-vea-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
 
-**related** ↔ [[aku-excepcion-resistir-ordenes-ilegales-inmorales-claim]]
+**related** ↔ [[aku-excepcion-resistir-ordenes-ilegales-inmorales-claim]] · [[aku-liderar-es-articular-la-oportunidad-que-ves-hasta-que-la-otra-persona-la-vea-claim]]

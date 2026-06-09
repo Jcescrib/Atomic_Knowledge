@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-evaluamos-por-comparaciones-relativas-context-effects-concept
+    - aku-perception-is-reality-value-claim
+    - aku-el-toque-ligero-en-el-antebrazo-aumenta-el-acuerdo-method
 
 sources:
   - raw/libros/kolenda/audiobook-images-methods-of-persuasion/audiobook-images-methods-of-persuasion.md
@@ -49,4 +51,4 @@ status_note: "Fuente = stub de imagenes del audiolibro; anclado en Figure 0.1 (f
 
 **supports** → [[aku-methods-proceso-de-persuasion-en-siete-pasos-concept]]
 
-**related** ↔ [[aku-evaluamos-por-comparaciones-relativas-context-effects-concept]]
+**related** ↔ [[aku-evaluamos-por-comparaciones-relativas-context-effects-concept]] · [[aku-perception-is-reality-value-claim]] · [[aku-el-toque-ligero-en-el-antebrazo-aumenta-el-acuerdo-method]]

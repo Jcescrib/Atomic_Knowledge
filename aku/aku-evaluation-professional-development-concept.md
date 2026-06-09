@@ -34,7 +34,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-alineacion-laboral-motivaciones-felicidad-claim
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -48,3 +49,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-the-evaluation-concept]]
+
+**related** ↔ [[aku-alineacion-laboral-motivaciones-felicidad-claim]]

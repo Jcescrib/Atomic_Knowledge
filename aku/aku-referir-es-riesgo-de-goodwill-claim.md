@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-referral-growth-exponential-claim
+    - aku-recomendacion-vs-viralizacion-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-referral-growth-exponential-claim]]
+**related** ↔ [[aku-referral-growth-exponential-claim]] · [[aku-recomendacion-vs-viralizacion-concept]]

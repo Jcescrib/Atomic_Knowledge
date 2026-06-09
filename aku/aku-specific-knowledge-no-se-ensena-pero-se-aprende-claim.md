@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-specific-knowledge-concept
+    - aku-aprende-nuevas-habilidades-liderazgo-claim
+    - aku-liderar-con-el-ejemplo-unica-forma-de-ensenar-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-specific-knowledge-concept]]
+**related** ↔ [[aku-specific-knowledge-concept]] · [[aku-aprende-nuevas-habilidades-liderazgo-claim]] · [[aku-liderar-con-el-ejemplo-unica-forma-de-ensenar-claim]]

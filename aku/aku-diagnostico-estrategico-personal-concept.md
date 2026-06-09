@@ -29,11 +29,19 @@ relations:
   supported_by: []
   supports: []
   constrained_by: []
-  constrains: [aku-fortalezas-debilidades-motivaciones-concept]
+  constrains:
+    - aku-fortalezas-debilidades-motivaciones-concept
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-objetivos-personales-concept, aku-autoevaluacion-cuerpo-mente-alma-concept, aku-claridad-objetivos-fortalezas-exito-claim, aku-alineacion-laboral-motivaciones-felicidad-claim, aku-descubrir-fortalezas-feedback-externo-concept, aku-motivaciones-desde-experiencias-pasadas-concept]
+  related:
+    - aku-objetivos-personales-concept
+    - aku-autoevaluacion-cuerpo-mente-alma-concept
+    - aku-claridad-objetivos-fortalezas-exito-claim
+    - aku-alineacion-laboral-motivaciones-felicidad-claim
+    - aku-descubrir-fortalezas-feedback-externo-concept
+    - aku-motivaciones-desde-experiencias-pasadas-concept
+    - aku-conocer-tu-valor-y-extraer-el-maximo-concept
 
 sources:
   - raw/cursos/power-mba/08-01-01-diagnostico-desarrollo-personal/08-01-01-diagnostico-desarrollo-personal.md
@@ -47,4 +55,4 @@ status_note: ""
 ## Relaciones
 
 **constrains** → [[aku-fortalezas-debilidades-motivaciones-concept]]
-**related** ↔ [[aku-objetivos-personales-concept]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-claridad-objetivos-fortalezas-exito-claim]] · [[aku-alineacion-laboral-motivaciones-felicidad-claim]] · [[aku-descubrir-fortalezas-feedback-externo-concept]] · [[aku-motivaciones-desde-experiencias-pasadas-concept]]
+**related** ↔ [[aku-objetivos-personales-concept]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-claridad-objetivos-fortalezas-exito-claim]] · [[aku-alineacion-laboral-motivaciones-felicidad-claim]] · [[aku-descubrir-fortalezas-feedback-externo-concept]] · [[aku-motivaciones-desde-experiencias-pasadas-concept]] · [[aku-conocer-tu-valor-y-extraer-el-maximo-concept]]

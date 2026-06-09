@@ -34,6 +34,7 @@ relations:
   related:
     - aku-calcular-y-mitigar-riesgo-claim
     - aku-esperar-certeza-causa-paralisis-claim
+    - aku-confia-en-tu-instinto-por-encima-de-la-sola-instruccion-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-aggressive-not-reckless-concept]]
 
-**related** ↔ [[aku-calcular-y-mitigar-riesgo-claim]] · [[aku-esperar-certeza-causa-paralisis-claim]]
+**related** ↔ [[aku-calcular-y-mitigar-riesgo-claim]] · [[aku-esperar-certeza-causa-paralisis-claim]] · [[aku-confia-en-tu-instinto-por-encima-de-la-sola-instruccion-claim]]

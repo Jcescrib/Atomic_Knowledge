@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-no-hay-esquemas-para-hacerse-rico-rapido-claim
+    - aku-la-felicidad-real-es-un-subproducto-de-la-paz-via-aceptacion-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-hay-esquemas-para-hacerse-rico-rapido-claim]]
+**related** ↔ [[aku-no-hay-esquemas-para-hacerse-rico-rapido-claim]] · [[aku-la-felicidad-real-es-un-subproducto-de-la-paz-via-aceptacion-claim]]

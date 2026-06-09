@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-centerline-principle-concept
+    - aku-habit-contract-y-accountability-partner-method
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-centerline-principle-concept]]
+**related** ↔ [[aku-centerline-principle-concept]] · [[aku-habit-contract-y-accountability-partner-method]]

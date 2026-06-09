@@ -35,6 +35,8 @@ relations:
     - aku-la-felicidad-es-una-habilidad-que-se-aprende-concept
     - aku-commitment-device-method
     - aku-habit-contract-y-accountability-partner-method
+    - aku-compromiso-externo-si-interno-no-concept
+    - aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-commitment-device-method]] · [[aku-habit-contract-y-accountability-partner-method]]
+**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-commitment-device-method]] · [[aku-habit-contract-y-accountability-partner-method]] · [[aku-compromiso-externo-si-interno-no-concept]] · [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]]

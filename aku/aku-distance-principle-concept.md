@@ -39,6 +39,7 @@ relations:
     - aku-velocity-principle-concept
     - aku-posture-principle-concept
     - aku-distancia-relacional-evaluar-o-reaccionar-claim
+    - aku-homeboy-complex-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -53,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-zonas-distancia-green-red-concept]]
 
-**related** ↔ [[aku-detachment-principle-concept]] · [[aku-pyramid-principle-concept]] · [[aku-velocity-principle-concept]] · [[aku-posture-principle-concept]] · [[aku-distancia-relacional-evaluar-o-reaccionar-claim]]
+**related** ↔ [[aku-detachment-principle-concept]] · [[aku-pyramid-principle-concept]] · [[aku-velocity-principle-concept]] · [[aku-posture-principle-concept]] · [[aku-distancia-relacional-evaluar-o-reaccionar-claim]] · [[aku-homeboy-complex-concept]]

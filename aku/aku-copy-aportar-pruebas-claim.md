@@ -34,6 +34,8 @@ relations:
     - aku-leyes-persuasion-cialdini-concept
     - aku-48laws-09-win-through-actions-not-argument-concept
     - aku-perceived-likelihood-achievement-concept
+    - aku-bonus-presentation-checklist-concept
+    - aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept
 
 sources:
   - raw/cursos/power-mba/18-info-hacks-copy/18-info-hacks-copy.md
@@ -48,4 +50,4 @@ status_note: ""
 
 **supported_by** ← [[aku-hacks-copywriting-concept]]
 
-**related** ↔ [[aku-leyes-persuasion-cialdini-concept]] · [[aku-48laws-09-win-through-actions-not-argument-concept]] · [[aku-perceived-likelihood-achievement-concept]]
+**related** ↔ [[aku-leyes-persuasion-cialdini-concept]] · [[aku-48laws-09-win-through-actions-not-argument-concept]] · [[aku-perceived-likelihood-achievement-concept]] · [[aku-bonus-presentation-checklist-concept]] · [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]

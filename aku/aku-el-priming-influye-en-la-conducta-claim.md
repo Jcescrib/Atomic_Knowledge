@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-primar-la-eleccion-con-diseno-visual-semantic-priming-claim
+    - aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept
 
 sources:
   - raw/libros/kolenda/audiobook-images-methods-of-persuasion/audiobook-images-methods-of-persuasion.md
@@ -45,4 +46,4 @@ status_note: "Fuente = stub de imagenes del audiolibro; anclado en Figure 0.1 (f
 
 **supports** → [[aku-methods-step2-elicitar-actitudes-congruentes-concept]]
 
-**related** ↔ [[aku-primar-la-eleccion-con-diseno-visual-semantic-priming-claim]]
+**related** ↔ [[aku-primar-la-eleccion-con-diseno-visual-semantic-priming-claim]] · [[aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept]]

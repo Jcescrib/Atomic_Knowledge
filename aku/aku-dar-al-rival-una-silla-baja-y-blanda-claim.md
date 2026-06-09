@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-the-tangled-mind-la-cognicion-es-corporal-embodied-concept
+    - aku-buoyancy-principle-concept
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
-**related** ↔ [[aku-the-tangled-mind-la-cognicion-es-corporal-embodied-concept]]
+**related** ↔ [[aku-the-tangled-mind-la-cognicion-es-corporal-embodied-concept]] · [[aku-buoyancy-principle-concept]]

@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-usar-precios-redondos-en-el-contexto-adecuado-claim
+    - aku-compra-value-vs-price-driven-concept
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-usar-precios-redondos-en-el-contexto-adecuado-claim]]
+**related** ↔ [[aku-usar-precios-redondos-en-el-contexto-adecuado-claim]] · [[aku-compra-value-vs-price-driven-concept]]

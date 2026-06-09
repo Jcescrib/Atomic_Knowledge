@@ -47,6 +47,8 @@ relations:
     - aku-autoevaluacion-cuerpo-mente-alma-concept
     - aku-eqh-no-es-estado-sino-camino-sin-fin-claim
     - aku-autoevaluacion-honesta-you-vs-you-claim
+    - aku-sistemas-vs-metas-en-atomic-habits-concept
+    - aku-claridad-objetivos-fortalezas-exito-claim
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -63,4 +65,4 @@ status_note: ""
 
 **supports** → [[aku-evaluation-scoring-0-5-method]]
 
-**related** ↔ [[aku-the-code-concept]] · [[aku-eminently-qualified-human-concept]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-eqh-no-es-estado-sino-camino-sin-fin-claim]] · [[aku-autoevaluacion-honesta-you-vs-you-claim]]
+**related** ↔ [[aku-the-code-concept]] · [[aku-eminently-qualified-human-concept]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-eqh-no-es-estado-sino-camino-sin-fin-claim]] · [[aku-autoevaluacion-honesta-you-vs-you-claim]] · [[aku-sistemas-vs-metas-en-atomic-habits-concept]] · [[aku-claridad-objetivos-fortalezas-exito-claim]]

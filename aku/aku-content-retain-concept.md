@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-listas-steps-stories-concept
+    - aku-estilo-editorial-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-content-unit-concept]]
 
-**related** ↔ [[aku-listas-steps-stories-concept]]
+**related** ↔ [[aku-listas-steps-stories-concept]] · [[aku-estilo-editorial-concept]]

@@ -34,6 +34,8 @@ relations:
   related:
     - aku-no-sobrerreaccionar-mantener-la-calma-claim
     - aku-calmado-no-robotico-concept
+    - aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept
+    - aku-48laws-44-mirror-effect-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-sobrerreaccionar-mantener-la-calma-claim]] · [[aku-calmado-no-robotico-concept]]
+**related** ↔ [[aku-no-sobrerreaccionar-mantener-la-calma-claim]] · [[aku-calmado-no-robotico-concept]] · [[aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept]] · [[aku-48laws-44-mirror-effect-concept]]

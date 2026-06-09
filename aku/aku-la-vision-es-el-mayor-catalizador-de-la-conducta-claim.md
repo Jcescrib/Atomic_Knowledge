@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method
+    - aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method]]
+**related** ↔ [[aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method]] · [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]

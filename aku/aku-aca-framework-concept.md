@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-warm-outreach-concept
+    - aku-leyes-persuasion-cialdini-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-warm-outreach-concept]]
+**related** ↔ [[aku-warm-outreach-concept]] · [[aku-leyes-persuasion-cialdini-concept]]

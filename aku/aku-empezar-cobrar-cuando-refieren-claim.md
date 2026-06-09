@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-first-five-free-claim
+    - aku-prueba-precio-entrevista-method
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-first-five-free-claim]]
+**related** ↔ [[aku-first-five-free-claim]] · [[aku-prueba-precio-entrevista-method]]

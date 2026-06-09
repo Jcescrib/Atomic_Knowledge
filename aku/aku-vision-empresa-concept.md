@@ -26,13 +26,16 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-cascada-estrategica-ejecucion-concept]
+  supports:
+    - aku-cascada-estrategica-ejecucion-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-proposito-mision-concept]
+  related:
+    - aku-proposito-mision-concept
+    - aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -46,4 +49,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-cascada-estrategica-ejecucion-concept]]
-**related** ↔ [[aku-proposito-mision-concept]]
+**related** ↔ [[aku-proposito-mision-concept]] · [[aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim]]

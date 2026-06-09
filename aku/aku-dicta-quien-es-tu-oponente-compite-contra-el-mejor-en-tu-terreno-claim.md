@@ -25,13 +25,18 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-la-competencia-como-estrategia-if-we-cant-be-friends-concept]
+  supports:
+    - aku-la-competencia-como-estrategia-if-we-cant-be-friends-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-puedes-fabricar-una-competencia-para-generar-buzz-claim, aku-evita-la-competencia-amanada-y-no-te-dejes-encasillar-claim]
+  related:
+    - aku-puedes-fabricar-una-competencia-para-generar-buzz-claim
+    - aku-evita-la-competencia-amanada-y-no-te-dejes-encasillar-claim
+    - aku-posture-principle-concept
+    - aku-controlar-timing-vence-rival-mas-rapido-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -45,4 +50,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-la-competencia-como-estrategia-if-we-cant-be-friends-concept]]
-**related** ↔ [[aku-puedes-fabricar-una-competencia-para-generar-buzz-claim]] · [[aku-evita-la-competencia-amanada-y-no-te-dejes-encasillar-claim]]
+**related** ↔ [[aku-puedes-fabricar-una-competencia-para-generar-buzz-claim]] · [[aku-evita-la-competencia-amanada-y-no-te-dejes-encasillar-claim]] · [[aku-posture-principle-concept]] · [[aku-controlar-timing-vence-rival-mas-rapido-claim]]

@@ -23,14 +23,18 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-nueve-principios-blitzscaling-concept]
+  supported_by:
+    - aku-nueve-principios-blitzscaling-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-saber-que-es-importante-y-que-no-method
+    - aku-main-effort-supporting-efforts-concept
+    - aku-abrumado-pelear-mas-duro-priorizar-claim
 
 sources:
   - raw/cursos/power-mba/4-5-blitzscaling/4-5-blitzscaling.md
@@ -44,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-nueve-principios-blitzscaling-concept]]
+
+**related** ↔ [[aku-saber-que-es-importante-y-que-no-method]] · [[aku-main-effort-supporting-efforts-concept]] · [[aku-abrumado-pelear-mas-duro-priorizar-claim]]

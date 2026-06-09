@@ -26,13 +26,25 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-blitzscaling-cuando-oportunidad-enorme-claim, aku-tipos-estrategias-crecimiento-concept, aku-nueve-principios-blitzscaling-concept, aku-winner-takes-all-go-to-market-claim]
+  supports:
+    - aku-blitzscaling-cuando-oportunidad-enorme-claim
+    - aku-tipos-estrategias-crecimiento-concept
+    - aku-nueve-principios-blitzscaling-concept
+    - aku-winner-takes-all-go-to-market-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-motor-crecimiento-concept, aku-ventaja-competitiva-concept, aku-innovar-vs-competir-concept, aku-etapas-organizacion-concept, aku-venture-capital-concept, aku-fastscaling-concept]
+  related:
+    - aku-motor-crecimiento-concept
+    - aku-ventaja-competitiva-concept
+    - aku-innovar-vs-competir-concept
+    - aku-etapas-organizacion-concept
+    - aku-venture-capital-concept
+    - aku-fastscaling-concept
+    - aku-los-que-no-arriesgan-no-ganan-claim
+    - aku-calcular-y-mitigar-riesgo-claim
 
 sources:
   - raw/cursos/power-mba/4-5-blitzscaling/4-5-blitzscaling.md
@@ -46,4 +58,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-blitzscaling-cuando-oportunidad-enorme-claim]] · [[aku-tipos-estrategias-crecimiento-concept]] · [[aku-nueve-principios-blitzscaling-concept]] · [[aku-winner-takes-all-go-to-market-claim]]
-**related** ↔ [[aku-motor-crecimiento-concept]] · [[aku-ventaja-competitiva-concept]] · [[aku-innovar-vs-competir-concept]] · [[aku-etapas-organizacion-concept]] · [[aku-venture-capital-concept]] · [[aku-fastscaling-concept]]
+**related** ↔ [[aku-motor-crecimiento-concept]] · [[aku-ventaja-competitiva-concept]] · [[aku-innovar-vs-competir-concept]] · [[aku-etapas-organizacion-concept]] · [[aku-venture-capital-concept]] · [[aku-fastscaling-concept]] · [[aku-los-que-no-arriesgan-no-ganan-claim]] · [[aku-calcular-y-mitigar-riesgo-claim]]

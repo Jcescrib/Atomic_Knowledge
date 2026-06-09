@@ -33,6 +33,8 @@ relations:
   related:
     - aku-check-the-ego-concept
     - aku-fortalezas-debilidades-motivaciones-concept
+    - aku-tests-personalidad-concept
+    - aku-descubrir-fortalezas-feedback-externo-concept
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-check-the-ego-concept]] · [[aku-fortalezas-debilidades-motivaciones-concept]]
+**related** ↔ [[aku-check-the-ego-concept]] · [[aku-fortalezas-debilidades-motivaciones-concept]] · [[aku-tests-personalidad-concept]] · [[aku-descubrir-fortalezas-feedback-externo-concept]]

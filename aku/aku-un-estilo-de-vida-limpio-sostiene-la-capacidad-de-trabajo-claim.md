@@ -36,6 +36,8 @@ relations:
     - aku-cambiar-un-habito-comprometiendote-30-dias-y-enfocando-semana-a-semana-method
     - aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim
     - aku-sueno-es-necesidad-7-9h-claim
+    - aku-autoevaluacion-cuerpo-mente-alma-concept
+    - aku-haz-algo-fisico-cada-dia-el-mejor-ejercicio-es-el-que-haras-cada-dia-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-mantenerse-sobrio-cuando-otros-beben-da-ventaja-competitiva-claim]] · [[aku-dormir-lo-suficiente-es-parte-del-hustle-no-su-enemigo-claim]] · [[aku-cambiar-un-habito-comprometiendote-30-dias-y-enfocando-semana-a-semana-method]] · [[aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim]] · [[aku-sueno-es-necesidad-7-9h-claim]]
+**related** ↔ [[aku-mantenerse-sobrio-cuando-otros-beben-da-ventaja-competitiva-claim]] · [[aku-dormir-lo-suficiente-es-parte-del-hustle-no-su-enemigo-claim]] · [[aku-cambiar-un-habito-comprometiendote-30-dias-y-enfocando-semana-a-semana-method]] · [[aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim]] · [[aku-sueno-es-necesidad-7-9h-claim]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-haz-algo-fisico-cada-dia-el-mejor-ejercicio-es-el-que-haras-cada-dia-claim]]

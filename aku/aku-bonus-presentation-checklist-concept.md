@@ -33,6 +33,10 @@ relations:
   contradicts: []
   related:
     - aku-bonuses-stack-concept
+    - aku-formula-titulo-caso-exito-method
+    - aku-formula-titulo-numero-trucos-resultado-objecion-method
+    - aku-formula-titulo-resultado-tiempo-objecion-method
+    - aku-copy-aportar-pruebas-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -45,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-bonuses-stack-concept]]
+**related** ↔ [[aku-bonuses-stack-concept]] · [[aku-formula-titulo-caso-exito-method]] · [[aku-formula-titulo-numero-trucos-resultado-objecion-method]] · [[aku-formula-titulo-resultado-tiempo-objecion-method]] · [[aku-copy-aportar-pruebas-claim]]

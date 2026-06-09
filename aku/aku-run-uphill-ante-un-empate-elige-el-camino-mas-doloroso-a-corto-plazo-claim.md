@@ -35,6 +35,7 @@ relations:
     - aku-la-direccion-importa-mas-que-la-velocidad-sobre-todo-con-leverage-claim
     - aku-elecciones-faciles-vida-dificil-elecciones-dificiles-vida-facil-claim
     - aku-entorno-de-recompensa-inmediata-vs-diferida-concept
+    - aku-anade-placer-inmediato-al-buen-habito-para-cerrar-la-brecha-temporal-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-direccion-importa-mas-que-la-velocidad-sobre-todo-con-leverage-claim]] · [[aku-elecciones-faciles-vida-dificil-elecciones-dificiles-vida-facil-claim]] · [[aku-entorno-de-recompensa-inmediata-vs-diferida-concept]]
+**related** ↔ [[aku-la-direccion-importa-mas-que-la-velocidad-sobre-todo-con-leverage-claim]] · [[aku-elecciones-faciles-vida-dificil-elecciones-dificiles-vida-facil-claim]] · [[aku-entorno-de-recompensa-inmediata-vs-diferida-concept]] · [[aku-anade-placer-inmediato-al-buen-habito-para-cerrar-la-brecha-temporal-claim]]

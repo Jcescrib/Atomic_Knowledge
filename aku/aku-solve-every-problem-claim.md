@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-problemas-a-soluciones-concept
+    - aku-lead-nurturing-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-problemas-a-soluciones-concept]]
+**related** ↔ [[aku-problemas-a-soluciones-concept]] · [[aku-lead-nurturing-concept]]

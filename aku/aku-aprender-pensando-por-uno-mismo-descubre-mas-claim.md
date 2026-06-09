@@ -33,6 +33,9 @@ relations:
   contradicts: []
   related:
     - aku-grandmaster-principle-concept
+    - aku-ser-aprendiz-perpetuo-es-la-habilidad-clave-para-hacerse-rico-claim
+    - aku-amar-leer-es-un-superpoder-vivimos-en-la-era-de-alejandria-claim
+    - aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -45,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-grandmaster-principle-concept]]
+**related** ↔ [[aku-grandmaster-principle-concept]] · [[aku-ser-aprendiz-perpetuo-es-la-habilidad-clave-para-hacerse-rico-claim]] · [[aku-amar-leer-es-un-superpoder-vivimos-en-la-era-de-alejandria-claim]] · [[aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim]]

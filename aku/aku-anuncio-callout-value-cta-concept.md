@@ -37,6 +37,7 @@ relations:
     - aku-anuncio-texto-google-ads-concept
     - aku-cta-concept
     - aku-callout-cocktail-party-claim
+    - aku-copy-incluir-titular-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -53,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-paid-ads-concept]]
 
-**related** ↔ [[aku-anuncio-texto-google-ads-concept]] · [[aku-cta-concept]] · [[aku-callout-cocktail-party-claim]]
+**related** ↔ [[aku-anuncio-texto-google-ads-concept]] · [[aku-cta-concept]] · [[aku-callout-cocktail-party-claim]] · [[aku-copy-incluir-titular-claim]]

@@ -33,7 +33,16 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-ikigai-concept, aku-compartir-objetivos-compromiso-claim, aku-diagnostico-estrategico-personal-concept, aku-claridad-objetivos-fortalezas-exito-claim, aku-motivaciones-desde-experiencias-pasadas-concept, aku-fortalezas-debilidades-motivaciones-concept]
+  related:
+    - aku-ikigai-concept
+    - aku-compartir-objetivos-compromiso-claim
+    - aku-diagnostico-estrategico-personal-concept
+    - aku-claridad-objetivos-fortalezas-exito-claim
+    - aku-motivaciones-desde-experiencias-pasadas-concept
+    - aku-fortalezas-debilidades-motivaciones-concept
+    - aku-evaluation-relationship-concept
+    - aku-eminently-qualified-human-concept
+    - aku-tu-vision-debe-evolucionar-y-escalar-con-el-tiempo-claim
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -46,4 +55,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-ikigai-concept]] · [[aku-compartir-objetivos-compromiso-claim]] · [[aku-diagnostico-estrategico-personal-concept]] · [[aku-claridad-objetivos-fortalezas-exito-claim]] · [[aku-motivaciones-desde-experiencias-pasadas-concept]] · [[aku-fortalezas-debilidades-motivaciones-concept]]
+**related** ↔ [[aku-ikigai-concept]] · [[aku-compartir-objetivos-compromiso-claim]] · [[aku-diagnostico-estrategico-personal-concept]] · [[aku-claridad-objetivos-fortalezas-exito-claim]] · [[aku-motivaciones-desde-experiencias-pasadas-concept]] · [[aku-fortalezas-debilidades-motivaciones-concept]] · [[aku-evaluation-relationship-concept]] · [[aku-eminently-qualified-human-concept]] · [[aku-tu-vision-debe-evolucionar-y-escalar-con-el-tiempo-claim]]

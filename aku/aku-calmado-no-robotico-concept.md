@@ -36,6 +36,7 @@ relations:
     - aku-no-sobrerreaccionar-mantener-la-calma-claim
     - aku-reflect-and-diminish-method
     - aku-cuando-gritar-casi-nunca-y-calculado-claim
+    - aku-48laws-39-stir-up-waters-to-catch-fish-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
 
-**related** ↔ [[aku-agresivo-significa-proactivo-no-iracundo-claim]] · [[aku-no-sobrerreaccionar-mantener-la-calma-claim]] · [[aku-reflect-and-diminish-method]] · [[aku-cuando-gritar-casi-nunca-y-calculado-claim]]
+**related** ↔ [[aku-agresivo-significa-proactivo-no-iracundo-claim]] · [[aku-no-sobrerreaccionar-mantener-la-calma-claim]] · [[aku-reflect-and-diminish-method]] · [[aku-cuando-gritar-casi-nunca-y-calculado-claim]] · [[aku-48laws-39-stir-up-waters-to-catch-fish-concept]]

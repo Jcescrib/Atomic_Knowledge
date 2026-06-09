@@ -37,6 +37,8 @@ relations:
     - aku-self-discipline-viene-de-dentro-concept
     - aku-pequenas-elecciones-diarias-construyen-todo-claim
     - aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim
+    - aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept
+    - aku-high-roi-habit-stack-concept
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -51,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]]
 
-**related** ↔ [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-pequenas-elecciones-diarias-construyen-todo-claim]] · [[aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim]]
+**related** ↔ [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-pequenas-elecciones-diarias-construyen-todo-claim]] · [[aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim]] · [[aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept]] · [[aku-high-roi-habit-stack-concept]]

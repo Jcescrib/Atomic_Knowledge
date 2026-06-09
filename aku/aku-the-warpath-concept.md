@@ -38,6 +38,7 @@ relations:
     - aku-es-un-trabajo-de-cada-dia-claim
     - aku-abrumado-pelear-mas-duro-priorizar-claim
     - aku-felicidad-es-paz-no-alegria-paz-en-reposo-y-felicidad-en-movimiento-concept
+    - aku-la-libertad-es-el-valor-supremo-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -50,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-discipline-equals-freedom-concept]] · [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-extreme-ownership-concept]] · [[aku-es-un-trabajo-de-cada-dia-claim]] · [[aku-abrumado-pelear-mas-duro-priorizar-claim]] · [[aku-felicidad-es-paz-no-alegria-paz-en-reposo-y-felicidad-en-movimiento-concept]]
+**related** ↔ [[aku-discipline-equals-freedom-concept]] · [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-extreme-ownership-concept]] · [[aku-es-un-trabajo-de-cada-dia-claim]] · [[aku-abrumado-pelear-mas-duro-priorizar-claim]] · [[aku-felicidad-es-paz-no-alegria-paz-en-reposo-y-felicidad-en-movimiento-concept]] · [[aku-la-libertad-es-el-valor-supremo-claim]]

@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-marketing-afiliados-concept
+    - aku-lead-magnet-curso-gratuito-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-marketing-afiliados-concept]]
+**related** ↔ [[aku-marketing-afiliados-concept]] · [[aku-lead-magnet-curso-gratuito-concept]]

@@ -24,14 +24,17 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-clausulas-contrato-influencers-concept]
+  supported_by:
+    - aku-clausulas-contrato-influencers-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-lead-magnet-multiples-formatos-claim
+    - aku-delivery-vehicles-concept
 
 sources:
   - raw/cursos/power-mba/14-03-cl-ausulas-de-un-contrato-con-influencers/14-03-cl-ausulas-de-un-contrato-con-influencers.md
@@ -45,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-clausulas-contrato-influencers-concept]]
+
+**related** ↔ [[aku-lead-magnet-multiples-formatos-claim]] · [[aku-delivery-vehicles-concept]]

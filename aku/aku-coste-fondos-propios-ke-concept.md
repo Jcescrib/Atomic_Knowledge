@@ -25,13 +25,19 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-wacc-method]
+  supports:
+    - aku-wacc-method
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-estructura-de-capital-concept, aku-equity-value-concept, aku-cash-flow-accionistas-concept, aku-coste-deuda-kd-concept]
+  related:
+    - aku-estructura-de-capital-concept
+    - aku-equity-value-concept
+    - aku-cash-flow-accionistas-concept
+    - aku-coste-deuda-kd-concept
+    - aku-equity-es-el-upside-deuda-es-downside-garantizado-concept
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -45,4 +51,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-wacc-method]]
-**related** ↔ [[aku-estructura-de-capital-concept]] · [[aku-equity-value-concept]] · [[aku-cash-flow-accionistas-concept]] · [[aku-coste-deuda-kd-concept]]
+**related** ↔ [[aku-estructura-de-capital-concept]] · [[aku-equity-value-concept]] · [[aku-cash-flow-accionistas-concept]] · [[aku-coste-deuda-kd-concept]] · [[aku-equity-es-el-upside-deuda-es-downside-garantizado-concept]]

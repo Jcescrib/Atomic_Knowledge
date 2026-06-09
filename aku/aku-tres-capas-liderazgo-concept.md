@@ -39,6 +39,9 @@ relations:
   contradicts: []
   related:
     - aku-autoconciencia-lider-carencias-claim
+    - aku-the-code-concept
+    - aku-evaluation-character-leadership-concept
+    - aku-freedom-from-vs-freedom-to-concept
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -54,4 +57,4 @@ status_note: ""
 **supported_by** ← [[aku-liderazgo-concept]] · [[aku-mind-control-controla-tu-propia-mente-concept]]
 **supports** → [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-liderar-vs-gestionar-concept]] · [[aku-liderazgo-situacional-concept]]
 **constrained_by** ← [[aku-autoliderazgo-prerequisito-claim]]
-**related** ↔ [[aku-autoconciencia-lider-carencias-claim]]
+**related** ↔ [[aku-autoconciencia-lider-carencias-claim]] · [[aku-the-code-concept]] · [[aku-evaluation-character-leadership-concept]] · [[aku-freedom-from-vs-freedom-to-concept]]

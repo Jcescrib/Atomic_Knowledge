@@ -35,7 +35,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-perception-is-reality-value-claim
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -51,3 +52,5 @@ status_note: ""
 **supports** → [[aku-ux-cinco-guidelines-de-usabilidad-concept]]
 
 **supported_by** ← [[aku-indicar-que-elementos-son-interactivos-affordance-claim]] · [[aku-dar-feedback-durante-y-tras-las-interacciones-claim]] · [[aku-comunicar-en-terminos-relativos-claim]] · [[aku-ayudar-al-usuario-a-ubicarse-en-la-interfaz-claim]] · [[aku-disenar-para-el-escaneo-scannability-claim]] · [[aku-comunicar-el-resultado-esperado-de-las-interacciones-claim]] · [[aku-cumplir-las-expectativas-del-usuario-consistencia-claim]]
+
+**related** ↔ [[aku-perception-is-reality-value-claim]]

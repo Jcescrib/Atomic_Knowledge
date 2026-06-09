@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-money-model-concept
+    - aku-friccion-flywheel-concept
+    - aku-marketing-automation-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-money-model-concept]]
+**related** ↔ [[aku-money-model-concept]] · [[aku-friccion-flywheel-concept]] · [[aku-marketing-automation-concept]]

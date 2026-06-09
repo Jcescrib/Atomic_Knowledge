@@ -34,6 +34,8 @@ relations:
     - aku-judgment-naval-concept
     - aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim
     - aku-48laws-09-win-through-actions-not-argument-concept
+    - aku-48laws-03-conceal-your-intentions-concept
+    - aku-no-vender-lo-que-no-puedes-entregar
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-judgment-naval-concept]] · [[aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim]] · [[aku-48laws-09-win-through-actions-not-argument-concept]]
+**related** ↔ [[aku-judgment-naval-concept]] · [[aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim]] · [[aku-48laws-09-win-through-actions-not-argument-concept]] · [[aku-48laws-03-conceal-your-intentions-concept]] · [[aku-no-vender-lo-que-no-puedes-entregar]]

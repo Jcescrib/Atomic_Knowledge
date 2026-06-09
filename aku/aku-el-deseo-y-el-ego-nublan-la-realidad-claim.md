@@ -36,6 +36,7 @@ relations:
     - aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim
     - aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept
     - aku-ego-nubla-todo-claim
+    - aku-satisfaccion-igual-liking-menos-wanting-las-expectativas-determinan-la-satisfaccion-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-ego-mas-dificil-es-el-propio-claim]] · [[aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim]] · [[aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept]] · [[aku-ego-nubla-todo-claim]]
+**related** ↔ [[aku-el-ego-mas-dificil-es-el-propio-claim]] · [[aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim]] · [[aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept]] · [[aku-ego-nubla-todo-claim]] · [[aku-satisfaccion-igual-liking-menos-wanting-las-expectativas-determinan-la-satisfaccion-claim]]

@@ -38,6 +38,7 @@ relations:
     - aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method
     - aku-automatiza-tus-habitos-con-tecnologia-y-decisiones-unicas-method
     - aku-la-vision-es-el-mayor-catalizador-de-la-conducta-claim
+    - aku-apetito-vs-hambre-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -50,6 +51,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept]] · [[aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method]] · [[aku-automatiza-tus-habitos-con-tecnologia-y-decisiones-unicas-method]] · [[aku-la-vision-es-el-mayor-catalizador-de-la-conducta-claim]]
+**related** ↔ [[aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept]] · [[aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method]] · [[aku-automatiza-tus-habitos-con-tecnologia-y-decisiones-unicas-method]] · [[aku-la-vision-es-el-mayor-catalizador-de-la-conducta-claim]] · [[aku-apetito-vs-hambre-concept]]
 
 **supported_by** ← [[aku-el-contexto-es-el-cue-un-espacio-un-uso-concept]]

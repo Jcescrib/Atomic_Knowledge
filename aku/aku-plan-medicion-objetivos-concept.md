@@ -20,14 +20,16 @@ human_certainty:
   method: ""
 epistemic_type: sourced
 relations:
-  supported_by: [aku-plan-de-medicion-concept]
+  supported_by:
+    - aku-plan-de-medicion-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim
 sources:
   - raw/cursos/power-mba/15-1-plantilla-plan-de-medici-on-xlsx/15-1-plantilla-plan-de-medici-on-xlsx.md
 created: 2026-06-04
@@ -39,3 +41,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-plan-de-medicion-concept]]
+
+**related** ↔ [[aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim]]

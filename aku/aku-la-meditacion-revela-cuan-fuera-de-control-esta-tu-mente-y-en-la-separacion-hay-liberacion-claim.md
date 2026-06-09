@@ -34,6 +34,7 @@ relations:
   related:
     - aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept
     - aku-mente-de-mono-concept
+    - aku-el-cambio-de-conducta-siempre-empieza-con-la-consciencia-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept]] · [[aku-mente-de-mono-concept]]
+**related** ↔ [[aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept]] · [[aku-mente-de-mono-concept]] · [[aku-el-cambio-de-conducta-siempre-empieza-con-la-consciencia-claim]]

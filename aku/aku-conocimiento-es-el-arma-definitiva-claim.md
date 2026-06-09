@@ -30,7 +30,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-pensador-claro-mejor-que-listo-explica-a-un-nino-desde-los-fundamentos-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -44,3 +45,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-cuestionarlo-todo-y-a-uno-mismo-method]]
+
+**related** ↔ [[aku-pensador-claro-mejor-que-listo-explica-a-un-nino-desde-los-fundamentos-claim]]

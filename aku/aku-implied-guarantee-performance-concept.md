@@ -35,6 +35,8 @@ relations:
   related:
     - aku-garantia-reversion-riesgo-concept
     - aku-grand-slam-offer-concept
+    - aku-incentivos-simples-pocas-metricas-method
+    - aku-marketing-afiliados-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-garantia-reversion-riesgo-concept]] · [[aku-grand-slam-offer-concept]]
+**related** ↔ [[aku-garantia-reversion-riesgo-concept]] · [[aku-grand-slam-offer-concept]] · [[aku-incentivos-simples-pocas-metricas-method]] · [[aku-marketing-afiliados-concept]]

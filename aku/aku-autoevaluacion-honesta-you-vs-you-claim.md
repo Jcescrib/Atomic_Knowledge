@@ -35,6 +35,9 @@ relations:
     - aku-evaluation-scoring-0-5-method
     - aku-humildad-es-la-cualidad-mas-importante-claim
     - aku-ego-impide-evaluacion-honesta-claim
+    - aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim
+    - aku-habits-scorecard-method
+    - aku-honestidad-radical-mentir-a-otro-es-mentirte-a-ti-mismo-claim
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-the-evaluation-concept]] · [[aku-evaluation-scoring-0-5-method]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-ego-impide-evaluacion-honesta-claim]]
+**related** ↔ [[aku-the-evaluation-concept]] · [[aku-evaluation-scoring-0-5-method]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-ego-impide-evaluacion-honesta-claim]] · [[aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim]] · [[aku-habits-scorecard-method]] · [[aku-honestidad-radical-mentir-a-otro-es-mentirte-a-ti-mismo-claim]]

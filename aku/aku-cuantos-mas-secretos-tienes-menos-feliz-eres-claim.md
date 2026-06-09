@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-no-puedes-ocultarte-de-ti-mismo-tus-valores-determinan-tu-autoestima-claim
+    - aku-reconocer-los-miedos-que-no-has-confrontado-es-parte-del-trabajo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -42,4 +43,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-puedes-ocultarte-de-ti-mismo-tus-valores-determinan-tu-autoestima-claim]]
+**related** ↔ [[aku-no-puedes-ocultarte-de-ti-mismo-tus-valores-determinan-tu-autoestima-claim]] · [[aku-reconocer-los-miedos-que-no-has-confrontado-es-parte-del-trabajo-claim]]

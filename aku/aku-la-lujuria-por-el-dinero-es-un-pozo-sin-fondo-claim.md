@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-la-libertad-es-el-valor-supremo-claim
+    - aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-libertad-es-el-valor-supremo-claim]]
+**related** ↔ [[aku-la-libertad-es-el-valor-supremo-claim]] · [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]]

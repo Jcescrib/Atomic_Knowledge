@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-cialdini-escasez-concept
+    - aku-negotiation-tactics-influencia-psicologica-por-fase-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-tipos-y-tacticas-escasez-concept]]
 
-**related** ↔ [[aku-cialdini-escasez-concept]]
+**related** ↔ [[aku-cialdini-escasez-concept]] · [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]

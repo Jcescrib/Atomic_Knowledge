@@ -36,6 +36,7 @@ relations:
     - aku-hacerse-rico-sin-suerte-es-ser-determinista-claim
     - aku-sistemas-vs-metas-en-atomic-habits-concept
     - aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method
+    - aku-entorno-de-recompensa-inmediata-vs-diferida-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-hacerse-rico-sin-suerte-es-ser-determinista-claim]] · [[aku-sistemas-vs-metas-en-atomic-habits-concept]] · [[aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method]]
+**related** ↔ [[aku-hacerse-rico-sin-suerte-es-ser-determinista-claim]] · [[aku-sistemas-vs-metas-en-atomic-habits-concept]] · [[aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method]] · [[aku-entorno-de-recompensa-inmediata-vs-diferida-concept]]

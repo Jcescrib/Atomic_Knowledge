@@ -30,7 +30,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-diagnostico-estrategico-personal-concept, aku-objetivos-personales-concept]
+  related:
+    - aku-diagnostico-estrategico-personal-concept
+    - aku-objetivos-personales-concept
+    - aku-the-evaluation-concept
 
 sources:
   - raw/cursos/power-mba/08-01-01-diagnostico-desarrollo-personal/08-01-01-diagnostico-desarrollo-personal.md
@@ -43,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-diagnostico-estrategico-personal-concept]] · [[aku-objetivos-personales-concept]]
+**related** ↔ [[aku-diagnostico-estrategico-personal-concept]] · [[aku-objetivos-personales-concept]] · [[aku-the-evaluation-concept]]

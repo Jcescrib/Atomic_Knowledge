@@ -36,6 +36,7 @@ relations:
   related:
     - aku-good-mindset-concept
     - aku-deja-de-preguntar-por-que-y-empieza-a-decir-wow-gratitud-por-la-abundancia-claim
+    - aku-simulation-fluency-simulamos-resultado-menos-proceso-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-good-mindset-concept]] · [[aku-deja-de-preguntar-por-que-y-empieza-a-decir-wow-gratitud-por-la-abundancia-claim]]
+**related** ↔ [[aku-good-mindset-concept]] · [[aku-deja-de-preguntar-por-que-y-empieza-a-decir-wow-gratitud-por-la-abundancia-claim]] · [[aku-simulation-fluency-simulamos-resultado-menos-proceso-concept]]

@@ -37,6 +37,7 @@ relations:
     - aku-ratchet-principle-concept
     - aku-conducta-sigue-patrones-y-se-revela-claim
     - aku-head-control-principle-concept
+    - aku-dar-al-rival-una-silla-baja-y-blanda-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-ratchet-principle-concept]] · [[aku-conducta-sigue-patrones-y-se-revela-claim]] · [[aku-head-control-principle-concept]]
+**related** ↔ [[aku-ratchet-principle-concept]] · [[aku-conducta-sigue-patrones-y-se-revela-claim]] · [[aku-head-control-principle-concept]] · [[aku-dar-al-rival-una-silla-baja-y-blanda-claim]]

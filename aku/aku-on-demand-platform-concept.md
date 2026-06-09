@@ -39,6 +39,7 @@ relations:
     - aku-marketplace-concept
     - aku-canal-indirecto-concept
     - aku-clasificados-concept
+    - aku-free-bootstrap-plataforma-claim
 
 sources:
   - "raw/cursos/power-mba/2-3-conceptos-clave-de-las-plataformas/2-3-conceptos-clave-de-las-plataformas.md"
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-marketplace-concept]] · [[aku-canal-indirecto-concept]] · [[aku-clasificados-concept]]
+**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-marketplace-concept]] · [[aku-canal-indirecto-concept]] · [[aku-clasificados-concept]] · [[aku-free-bootstrap-plataforma-claim]]

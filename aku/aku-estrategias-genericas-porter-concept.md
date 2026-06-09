@@ -27,14 +27,22 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-liderazgo-en-coste-concept, aku-estrategia-diferenciacion-concept, aku-nicho-strategy-concept]
-  supports: [aku-ventaja-competitiva-concept, aku-atrapado-medio-claim, aku-best-cost-strategy-concept]
-  constrained_by: [aku-fuentes-ventaja-competitiva-solo-dos-claim]
+  supported_by:
+    - aku-liderazgo-en-coste-concept
+    - aku-estrategia-diferenciacion-concept
+    - aku-nicho-strategy-concept
+  supports:
+    - aku-ventaja-competitiva-concept
+    - aku-atrapado-medio-claim
+    - aku-best-cost-strategy-concept
+  constrained_by:
+    - aku-fuentes-ventaja-competitiva-solo-dos-claim
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim
 
 sources:
   - raw/cursos/power-mba/4-2-1-intro-estrategias-competitivas/4-2-1-intro-estrategias-competitivas.md
@@ -51,3 +59,5 @@ status_note: ""
 **supported_by** ← [[aku-liderazgo-en-coste-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-nicho-strategy-concept]]
 **supports** → [[aku-ventaja-competitiva-concept]] · [[aku-atrapado-medio-claim]] · [[aku-best-cost-strategy-concept]]
 **constrained_by** ← [[aku-fuentes-ventaja-competitiva-solo-dos-claim]]
+
+**related** ↔ [[aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim]]

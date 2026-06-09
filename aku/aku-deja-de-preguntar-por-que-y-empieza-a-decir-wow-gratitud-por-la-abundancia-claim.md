@@ -34,6 +34,7 @@ relations:
   related:
     - aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept
     - aku-reencuadra-tus-habitos-de-have-to-a-get-to-method
+    - aku-presenciar-la-pobreza-real-cura-el-entitlement-y-reencuadra-la-gratitud-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-reencuadra-tus-habitos-de-have-to-a-get-to-method]]
+**related** ↔ [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-reencuadra-tus-habitos-de-have-to-a-get-to-method]] · [[aku-presenciar-la-pobreza-real-cura-el-entitlement-y-reencuadra-la-gratitud-claim]]

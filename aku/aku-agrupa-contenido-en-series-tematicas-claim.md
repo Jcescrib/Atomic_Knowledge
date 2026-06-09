@@ -31,7 +31,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-puddles-ponds-lakes-oceans-claim
 
 sources:
   - raw/cursos/power-mba/5-4-10-tips-para-la-generaci-on-de-contenidos/5-4-10-tips-para-la-generaci-on-de-contenidos.md
@@ -45,3 +46,5 @@ status_note: ""
 ## Relaciones
 
 **constrains** → [[aku-content-marketing-concept]]
+
+**related** ↔ [[aku-puddles-ponds-lakes-oceans-claim]]

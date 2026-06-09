@@ -26,13 +26,24 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-plan-medicion-objetivos-concept, aku-plan-medicion-estrategias-concept, aku-plan-medicion-kpis-concept, aku-plan-medicion-metas-concept, aku-plan-medicion-segmentos-concept]
+  supports:
+    - aku-plan-medicion-objetivos-concept
+    - aku-plan-medicion-estrategias-concept
+    - aku-plan-medicion-kpis-concept
+    - aku-plan-medicion-metas-concept
+    - aku-plan-medicion-segmentos-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-objetivos-negocio-concept, aku-metricas-accionables-concept, aku-metricas-google-analytics-concept, aku-codigos-utm-concept, aku-tipos-objetivos-google-analytics-concept]
+  related:
+    - aku-objetivos-negocio-concept
+    - aku-metricas-accionables-concept
+    - aku-metricas-google-analytics-concept
+    - aku-codigos-utm-concept
+    - aku-tipos-objetivos-google-analytics-concept
+    - aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim
 
 sources:
   - raw/cursos/power-mba/15-1-plantilla-plan-de-medici-on-xlsx/15-1-plantilla-plan-de-medici-on-xlsx.md
@@ -46,4 +57,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-plan-medicion-objetivos-concept]] · [[aku-plan-medicion-estrategias-concept]] · [[aku-plan-medicion-kpis-concept]] · [[aku-plan-medicion-metas-concept]] · [[aku-plan-medicion-segmentos-concept]]
-**related** ↔ [[aku-objetivos-negocio-concept]] · [[aku-metricas-accionables-concept]] · [[aku-metricas-google-analytics-concept]] · [[aku-codigos-utm-concept]] · [[aku-tipos-objetivos-google-analytics-concept]]
+**related** ↔ [[aku-objetivos-negocio-concept]] · [[aku-metricas-accionables-concept]] · [[aku-metricas-google-analytics-concept]] · [[aku-codigos-utm-concept]] · [[aku-tipos-objetivos-google-analytics-concept]] · [[aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim]]

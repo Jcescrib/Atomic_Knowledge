@@ -35,6 +35,7 @@ relations:
     - aku-48laws-05-guard-your-reputation-concept
     - aku-48laws-07-get-others-to-do-the-work-take-credit-concept
     - aku-la-competencia-como-estrategia-if-we-cant-be-friends-concept
+    - aku-isolation-principle-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-05-guard-your-reputation-concept]] · [[aku-48laws-07-get-others-to-do-the-work-take-credit-concept]] · [[aku-la-competencia-como-estrategia-if-we-cant-be-friends-concept]]
+**related** ↔ [[aku-48laws-05-guard-your-reputation-concept]] · [[aku-48laws-07-get-others-to-do-the-work-take-credit-concept]] · [[aku-la-competencia-como-estrategia-if-we-cant-be-friends-concept]] · [[aku-isolation-principle-concept]]

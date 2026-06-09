@@ -33,6 +33,7 @@ relations:
   related:
     - aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim
     - aku-prioritize-and-execute-pasos-method
+    - aku-mucha-gente-cree-que-le-falta-motivacion-cuando-le-falta-claridad-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim]] · [[aku-prioritize-and-execute-pasos-method]]
+**related** ↔ [[aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim]] · [[aku-prioritize-and-execute-pasos-method]] · [[aku-mucha-gente-cree-que-le-falta-motivacion-cuando-le-falta-claridad-claim]]

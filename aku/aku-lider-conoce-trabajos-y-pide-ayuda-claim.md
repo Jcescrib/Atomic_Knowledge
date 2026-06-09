@@ -38,6 +38,7 @@ relations:
     - aku-power-of-relationships-liderazgo-concept
     - aku-12-reglas-del-nuevo-lider-method
     - aku-inseguridad-admitir-no-ocultar-claim
+    - aku-no-esperes-por-ser-joven-solo-se-aprende-haciendo-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -50,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-check-the-ego-concept]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-power-of-relationships-liderazgo-concept]] · [[aku-12-reglas-del-nuevo-lider-method]] · [[aku-inseguridad-admitir-no-ocultar-claim]]
+**related** ↔ [[aku-check-the-ego-concept]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-power-of-relationships-liderazgo-concept]] · [[aku-12-reglas-del-nuevo-lider-method]] · [[aku-inseguridad-admitir-no-ocultar-claim]] · [[aku-no-esperes-por-ser-joven-solo-se-aprende-haciendo-claim]]

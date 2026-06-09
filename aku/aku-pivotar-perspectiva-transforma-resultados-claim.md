@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-pivot-principle-concept
+    - aku-evolucionar-mas-alla-del-rol-asignado-crea-nuevos-modelos-de-exito-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-pivot-principle-concept]]
+**related** ↔ [[aku-pivot-principle-concept]] · [[aku-evolucionar-mas-alla-del-rol-asignado-crea-nuevos-modelos-de-exito-claim]]

@@ -32,6 +32,8 @@ relations:
   contradicts: []
   related:
     - aku-la-felicidad-es-una-habilidad-que-se-aprende-concept
+    - aku-cambiar-un-habito-comprometiendote-30-dias-y-enfocando-semana-a-semana-method
+    - aku-el-cambio-de-conducta-duradero-es-cambio-de-identidad-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]]
+**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-cambiar-un-habito-comprometiendote-30-dias-y-enfocando-semana-a-semana-method]] · [[aku-el-cambio-de-conducta-duradero-es-cambio-de-identidad-claim]]

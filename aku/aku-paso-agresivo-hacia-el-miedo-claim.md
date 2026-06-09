@@ -36,6 +36,8 @@ relations:
     - aku-hesitacion-es-el-enemigo-claim
     - aku-empezar-aqui-y-ahora-method
     - aku-fearlessness-no-es-ausencia-de-miedo-concept
+    - aku-el-coraje-es-no-importarte-lo-que-piensen-los-demas-claim
+    - aku-motion-vs-action-concept
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -49,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-default-agresivo-proactivo-dictar-situacion-claim]] · [[aku-hesitacion-es-el-enemigo-claim]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-fearlessness-no-es-ausencia-de-miedo-concept]]
+**related** ↔ [[aku-default-agresivo-proactivo-dictar-situacion-claim]] · [[aku-hesitacion-es-el-enemigo-claim]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-fearlessness-no-es-ausencia-de-miedo-concept]] · [[aku-el-coraje-es-no-importarte-lo-que-piensen-los-demas-claim]] · [[aku-motion-vs-action-concept]]

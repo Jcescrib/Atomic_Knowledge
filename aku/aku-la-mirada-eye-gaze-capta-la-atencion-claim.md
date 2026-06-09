@@ -31,6 +31,7 @@ relations:
   related:
     - aku-colocar-la-opcion-objetivo-en-el-centro-claim
     - aku-usar-miradas-directas-a-camara-en-productos-virtuosos-claim
+    - aku-la-gente-siempre-responde-a-un-competidor-correr-hacia-la-pelea-atrae-miradas-claim
 
 sources:
   - raw/libros/kolenda/visual-attention-by-nick-kolenda/visual-attention-by-nick-kolenda.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept]]
 
-**related** ↔ [[aku-colocar-la-opcion-objetivo-en-el-centro-claim]] · [[aku-usar-miradas-directas-a-camara-en-productos-virtuosos-claim]]
+**related** ↔ [[aku-colocar-la-opcion-objetivo-en-el-centro-claim]] · [[aku-usar-miradas-directas-a-camara-en-productos-virtuosos-claim]] · [[aku-la-gente-siempre-responde-a-un-competidor-correr-hacia-la-pelea-atrae-miradas-claim]]

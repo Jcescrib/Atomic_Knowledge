@@ -25,11 +25,14 @@ relations:
   supported_by: []
   supports: []
   constrained_by: []
-  constrains: [aku-ikigai-concept]
+  constrains:
+    - aku-ikigai-concept
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-incluso-en-la-muerte-hay-good-claim
+    - aku-buscar-fuera-de-ti-la-felicidad-es-la-delusion-fundamental-claim
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -43,3 +46,5 @@ status_note: ""
 ## Relaciones
 
 **constrains** → [[aku-ikigai-concept]]
+
+**related** ↔ [[aku-incluso-en-la-muerte-hay-good-claim]] · [[aku-buscar-fuera-de-ti-la-felicidad-es-la-delusion-fundamental-claim]]

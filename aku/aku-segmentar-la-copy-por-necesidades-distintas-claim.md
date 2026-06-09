@@ -28,7 +28,12 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-nicho-strategy-concept
+    - aku-plan-medicion-segmentos-concept
+    - aku-segmentado-strategy-concept
+    - aku-gente-no-tiene-claro-que-busca-claim
+    - aku-importancia-segmentacion-claim
 
 sources:
   - raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -42,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
+
+**related** ↔ [[aku-nicho-strategy-concept]] · [[aku-plan-medicion-segmentos-concept]] · [[aku-segmentado-strategy-concept]] · [[aku-gente-no-tiene-claro-que-busca-claim]] · [[aku-importancia-segmentacion-claim]]

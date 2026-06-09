@@ -38,6 +38,8 @@ relations:
     - aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim
     - aku-las-adicciones-pueden-disolverse-al-cambiar-radicalmente-el-entorno-claim
     - aku-habit-loop-cue-craving-response-reward-concept
+    - aku-no-hay-espacio-para-el-exito-y-los-suckers-alejate-del-entorno-toxico-claim
+    - aku-aliviar-stress-sacar-del-entorno-method
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -50,6 +52,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim]] · [[aku-las-adicciones-pueden-disolverse-al-cambiar-radicalmente-el-entorno-claim]] · [[aku-habit-loop-cue-craving-response-reward-concept]]
+**related** ↔ [[aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim]] · [[aku-las-adicciones-pueden-disolverse-al-cambiar-radicalmente-el-entorno-claim]] · [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-no-hay-espacio-para-el-exito-y-los-suckers-alejate-del-entorno-toxico-claim]] · [[aku-aliviar-stress-sacar-del-entorno-method]]
 
 **supports** → [[aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method]]

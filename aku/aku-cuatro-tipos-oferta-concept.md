@@ -39,6 +39,7 @@ relations:
   contradicts: []
   related:
     - aku-money-model-tres-etapas-concept
+    - aku-sinergia-principios-se-combinan-concept
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -55,4 +56,4 @@ status_note: ""
 
 **supports** → [[aku-money-model-concept]]
 
-**related** ↔ [[aku-money-model-tres-etapas-concept]]
+**related** ↔ [[aku-money-model-tres-etapas-concept]] · [[aku-sinergia-principios-se-combinan-concept]]

@@ -35,6 +35,7 @@ relations:
   related:
     - aku-48laws-11-keep-people-dependent-on-you-concept
     - aku-48laws-13-appeal-to-self-interest-concept
+    - aku-regala-lo-que-se-te-da-bien-y-paga-por-adelantado-claim
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -47,6 +48,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-11-keep-people-dependent-on-you-concept]] · [[aku-48laws-13-appeal-to-self-interest-concept]]
+**related** ↔ [[aku-48laws-11-keep-people-dependent-on-you-concept]] · [[aku-48laws-13-appeal-to-self-interest-concept]] · [[aku-regala-lo-que-se-te-da-bien-y-paga-por-adelantado-claim]]
 
 **contradicts** ↔ [[aku-lideres-dicen-la-verdad-claim]]

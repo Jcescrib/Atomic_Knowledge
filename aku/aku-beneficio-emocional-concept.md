@@ -40,6 +40,9 @@ relations:
     - aku-problema-resuelto-concept
     - aku-cosas-importantes-concept
     - aku-dream-outcome-concept
+    - aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept
+    - aku-los-nombres-deviant-son-los-mas-emocionales-claim
+    - aku-usar-precios-redondos-en-el-contexto-adecuado-claim
 
 sources:
   - "raw/cursos/power-mba/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a.md"
@@ -54,4 +57,4 @@ status_note: ""
 
 **supported_by** ← [[aku-emocion-prevalece-razon-claim]]
 
-**related** ↔ [[aku-power-value-modelo-concept]] · [[aku-beneficio-funcional-concept]] · [[aku-problema-resuelto-concept]] · [[aku-cosas-importantes-concept]] · [[aku-dream-outcome-concept]]
+**related** ↔ [[aku-power-value-modelo-concept]] · [[aku-beneficio-funcional-concept]] · [[aku-problema-resuelto-concept]] · [[aku-cosas-importantes-concept]] · [[aku-dream-outcome-concept]] · [[aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept]] · [[aku-los-nombres-deviant-son-los-mas-emocionales-claim]] · [[aku-usar-precios-redondos-en-el-contexto-adecuado-claim]]

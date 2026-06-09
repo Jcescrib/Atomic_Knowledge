@@ -34,6 +34,10 @@ relations:
   related:
     - aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim
     - aku-tu-identidad-emerge-de-tus-habitos-claim
+    - aku-anade-placer-inmediato-al-buen-habito-para-cerrar-la-brecha-temporal-claim
+    - aku-cuatro-leyes-del-cambio-de-conducta-concept
+    - aku-no-hay-buenos-ni-malos-habitos-solo-habitos-efectivos-claim
+    - aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-tu-identidad-emerge-de-tus-habitos-claim]]
+**related** ↔ [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-tu-identidad-emerge-de-tus-habitos-claim]] · [[aku-anade-placer-inmediato-al-buen-habito-para-cerrar-la-brecha-temporal-claim]] · [[aku-cuatro-leyes-del-cambio-de-conducta-concept]] · [[aku-no-hay-buenos-ni-malos-habitos-solo-habitos-efectivos-claim]] · [[aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method]]

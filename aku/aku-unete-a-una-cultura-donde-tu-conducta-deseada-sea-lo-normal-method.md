@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-imitamos-los-habitos-de-tres-grupos-cercanos-muchos-poderosos-concept
+    - aku-cialdini-pertenencia-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-imitamos-los-habitos-de-tres-grupos-cercanos-muchos-poderosos-concept]]
+**related** ↔ [[aku-imitamos-los-habitos-de-tres-grupos-cercanos-muchos-poderosos-concept]] · [[aku-cialdini-pertenencia-concept]]

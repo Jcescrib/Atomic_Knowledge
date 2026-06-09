@@ -34,6 +34,7 @@ relations:
     - aku-liderazgo-factor-mas-importante-claim
     - aku-si-no-ganas-no-tomas-buenas-decisiones-claim
     - aku-liderar-vs-gestionar-concept
+    - aku-plan-medicion-metas-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **constrains** → [[aku-lider-efectivo-vs-inefectivo-concept]]
 
-**related** ↔ [[aku-liderazgo-factor-mas-importante-claim]] · [[aku-si-no-ganas-no-tomas-buenas-decisiones-claim]] · [[aku-liderar-vs-gestionar-concept]]
+**related** ↔ [[aku-liderazgo-factor-mas-importante-claim]] · [[aku-si-no-ganas-no-tomas-buenas-decisiones-claim]] · [[aku-liderar-vs-gestionar-concept]] · [[aku-plan-medicion-metas-concept]]

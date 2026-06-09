@@ -35,6 +35,8 @@ relations:
   related:
     - aku-teoria-de-los-cinco-chimpances-concept
     - aku-toda-actividad-de-pantalla-resta-felicidad-claim
+    - aku-no-hay-soluciones-permanentes-en-un-sistema-dinamico-claim
+    - aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-teoria-de-los-cinco-chimpances-concept]] · [[aku-toda-actividad-de-pantalla-resta-felicidad-claim]]
+**related** ↔ [[aku-teoria-de-los-cinco-chimpances-concept]] · [[aku-toda-actividad-de-pantalla-resta-felicidad-claim]] · [[aku-no-hay-soluciones-permanentes-en-un-sistema-dinamico-claim]] · [[aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept]]

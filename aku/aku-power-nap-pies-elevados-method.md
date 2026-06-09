@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-sueno-es-necesidad-7-9h-claim
+    - aku-autoevaluacion-cuerpo-mente-alma-concept
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-sueno-es-necesidad-7-9h-claim]]
+**related** ↔ [[aku-sueno-es-necesidad-7-9h-claim]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]]

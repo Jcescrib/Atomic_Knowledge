@@ -35,6 +35,7 @@ relations:
   related:
     - aku-audiencia-activo-compuesto-claim
     - aku-give-ask-benchmarks-concept
+    - aku-a-veces-el-mejor-modo-de-extraer-valor-es-no-regatear-al-maximo-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-audiencia-activo-compuesto-claim]] · [[aku-give-ask-benchmarks-concept]]
+**related** ↔ [[aku-audiencia-activo-compuesto-claim]] · [[aku-give-ask-benchmarks-concept]] · [[aku-a-veces-el-mejor-modo-de-extraer-valor-es-no-regatear-al-maximo-claim]]

@@ -35,6 +35,7 @@ relations:
   related:
     - aku-bonuses-stack-concept
     - aku-bonos-terceros-revenue-streams-claim
+    - aku-ecosistema-alianzas-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-bonuses-stack-concept]] · [[aku-bonos-terceros-revenue-streams-claim]]
+**related** ↔ [[aku-bonuses-stack-concept]] · [[aku-bonos-terceros-revenue-streams-claim]] · [[aku-ecosistema-alianzas-concept]]

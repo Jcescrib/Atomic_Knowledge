@@ -34,6 +34,7 @@ relations:
     - aku-cta-concept
     - aku-copy-incluir-cta-claim
     - aku-hacks-copywriting-concept
+    - aku-copy-sin-florituras-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cta-concept]] · [[aku-copy-incluir-cta-claim]] · [[aku-hacks-copywriting-concept]]
+**related** ↔ [[aku-cta-concept]] · [[aku-copy-incluir-cta-claim]] · [[aku-hacks-copywriting-concept]] · [[aku-copy-sin-florituras-claim]]

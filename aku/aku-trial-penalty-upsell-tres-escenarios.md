@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-upsell-offer-concept
+    - aku-entender-primero-para-influir-claim
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-upsell-offer-concept]]
+**related** ↔ [[aku-upsell-offer-concept]] · [[aku-entender-primero-para-influir-claim]]

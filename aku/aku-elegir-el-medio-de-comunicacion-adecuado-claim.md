@@ -28,7 +28,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-delivery-vehicles-concept
+    - aku-delivery-cube-concept
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -42,3 +44,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
+
+**related** ↔ [[aku-delivery-vehicles-concept]] · [[aku-delivery-cube-concept]]

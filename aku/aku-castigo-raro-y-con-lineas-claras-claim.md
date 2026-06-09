@@ -36,6 +36,7 @@ relations:
     - aku-lider-mirar-al-espejo-claim
     - aku-extreme-ownership-concept
     - aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim
+    - aku-hacer-respetar-las-reglas-exige-aplicar-las-consecuencias-aunque-rompa-una-relacion-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-lider-mirar-al-espejo-claim]] · [[aku-extreme-ownership-concept]] · [[aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim]]
+**related** ↔ [[aku-lider-mirar-al-espejo-claim]] · [[aku-extreme-ownership-concept]] · [[aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim]] · [[aku-hacer-respetar-las-reglas-exige-aplicar-las-consecuencias-aunque-rompa-una-relacion-claim]]

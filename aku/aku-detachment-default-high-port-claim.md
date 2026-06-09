@@ -36,6 +36,7 @@ relations:
   related:
     - aku-atento-detalle-no-obsesionado-concept
     - aku-pull-off-the-firing-line-claim
+    - aku-las-negociaciones-no-son-personales-muevete-por-estrategia-no-emocion-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-detach-tactico-estrategico-concept]]
 
-**related** ↔ [[aku-atento-detalle-no-obsesionado-concept]] · [[aku-pull-off-the-firing-line-claim]]
+**related** ↔ [[aku-atento-detalle-no-obsesionado-concept]] · [[aku-pull-off-the-firing-line-claim]] · [[aku-las-negociaciones-no-son-personales-muevete-por-estrategia-no-emocion-claim]]

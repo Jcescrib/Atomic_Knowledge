@@ -36,6 +36,8 @@ relations:
     - aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim
     - aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim
     - aku-regla-100-no-80-20-claim
+    - aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept
+    - aku-ceder-desequilibra-al-oponente-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim]] · [[aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim]] · [[aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim]] · [[aku-regla-100-no-80-20-claim]]
+**related** ↔ [[aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim]] · [[aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim]] · [[aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim]] · [[aku-regla-100-no-80-20-claim]] · [[aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept]] · [[aku-ceder-desequilibra-al-oponente-claim]]

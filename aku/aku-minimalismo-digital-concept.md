@@ -36,6 +36,7 @@ relations:
     - aku-deep-work-concept
     - aku-autoevaluacion-cuerpo-mente-alma-concept
     - aku-toda-actividad-de-pantalla-resta-felicidad-claim
+    - aku-mejora-metodica-de-tu-baseline-de-felicidad-method
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-deep-work-concept]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-toda-actividad-de-pantalla-resta-felicidad-claim]]
+**related** ↔ [[aku-deep-work-concept]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-toda-actividad-de-pantalla-resta-felicidad-claim]] · [[aku-mejora-metodica-de-tu-baseline-de-felicidad-method]]

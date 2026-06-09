@@ -34,6 +34,7 @@ relations:
   related:
     - aku-extreme-ownership-cultura-equipo-claim
     - aku-liderazgo-en-todos-los-niveles-claim
+    - aku-cultura-corporativa-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-extreme-ownership-cultura-equipo-claim]] · [[aku-liderazgo-en-todos-los-niveles-claim]]
+**related** ↔ [[aku-extreme-ownership-cultura-equipo-claim]] · [[aku-liderazgo-en-todos-los-niveles-claim]] · [[aku-cultura-corporativa-concept]]

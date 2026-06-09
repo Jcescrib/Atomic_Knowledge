@@ -30,7 +30,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-interiorizar-un-principio-requiere-multiples-ejemplos-claim, aku-48laws-01-never-outshine-the-master-concept]
+  related:
+    - aku-interiorizar-un-principio-requiere-multiples-ejemplos-claim
+    - aku-48laws-01-never-outshine-the-master-concept
+    - aku-riqueza-se-construye-apilando-muchas-cosas-pequenas-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -43,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-interiorizar-un-principio-requiere-multiples-ejemplos-claim]] · [[aku-48laws-01-never-outshine-the-master-concept]]
+**related** ↔ [[aku-interiorizar-un-principio-requiere-multiples-ejemplos-claim]] · [[aku-48laws-01-never-outshine-the-master-concept]] · [[aku-riqueza-se-construye-apilando-muchas-cosas-pequenas-claim]]

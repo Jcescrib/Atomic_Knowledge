@@ -37,6 +37,8 @@ relations:
     - aku-habit-stacking-method
     - aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim
     - aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim
+    - aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim
+    - aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -49,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habit-stacking-method]] · [[aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim]] · [[aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim]]
+**related** ↔ [[aku-habit-stacking-method]] · [[aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim]] · [[aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim]] · [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim]]

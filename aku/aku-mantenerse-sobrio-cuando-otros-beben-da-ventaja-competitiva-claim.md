@@ -30,7 +30,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim, aku-la-confianza-y-el-control-vienen-de-dentro-no-de-sustancias-externas-claim]
+  related:
+    - aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim
+    - aku-la-confianza-y-el-control-vienen-de-dentro-no-de-sustancias-externas-claim
+    - aku-ventaja-competitiva-concept
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -43,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim]] · [[aku-la-confianza-y-el-control-vienen-de-dentro-no-de-sustancias-externas-claim]]
+**related** ↔ [[aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim]] · [[aku-la-confianza-y-el-control-vienen-de-dentro-no-de-sustancias-externas-claim]] · [[aku-ventaja-competitiva-concept]]

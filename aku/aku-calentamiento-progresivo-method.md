@@ -36,6 +36,7 @@ relations:
   related:
     - aku-estructura-workout-pull-push-lift-squat-method
     - aku-estiramiento-rutina-method
+    - aku-para-tener-paz-mental-primero-hay-que-tener-paz-del-cuerpo-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-estructura-workout-pull-push-lift-squat-method]] · [[aku-estiramiento-rutina-method]]
+**related** ↔ [[aku-estructura-workout-pull-push-lift-squat-method]] · [[aku-estiramiento-rutina-method]] · [[aku-para-tener-paz-mental-primero-hay-que-tener-paz-del-cuerpo-claim]]

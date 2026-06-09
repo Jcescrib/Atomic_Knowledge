@@ -33,6 +33,9 @@ relations:
   contradicts: []
   related:
     - aku-cltv-concept
+    - aku-arpu-concept
+    - aku-flujos-de-ingresos-concept
+    - aku-margen-bruto-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -45,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cltv-concept]]
+**related** ↔ [[aku-cltv-concept]] · [[aku-arpu-concept]] · [[aku-flujos-de-ingresos-concept]] · [[aku-margen-bruto-concept]]

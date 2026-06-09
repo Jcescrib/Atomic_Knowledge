@@ -37,6 +37,11 @@ relations:
     - aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept
     - aku-el-deseo-y-el-ego-nublan-la-realidad-claim
     - aku-emocion-prevalece-razon-claim
+    - aku-beneficio-emocional-concept
+    - aku-responder-no-reaccionar-da-control-claim
+    - aku-reflect-and-diminish-method
+    - aku-el-priming-influye-en-la-conducta-claim
+    - aku-apelar-a-las-emociones-en-mercados-tradicionales-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -49,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept]] · [[aku-el-deseo-y-el-ego-nublan-la-realidad-claim]] · [[aku-emocion-prevalece-razon-claim]]
+**related** ↔ [[aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept]] · [[aku-el-deseo-y-el-ego-nublan-la-realidad-claim]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-beneficio-emocional-concept]] · [[aku-responder-no-reaccionar-da-control-claim]] · [[aku-reflect-and-diminish-method]] · [[aku-el-priming-influye-en-la-conducta-claim]] · [[aku-apelar-a-las-emociones-en-mercados-tradicionales-claim]]

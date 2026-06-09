@@ -40,6 +40,7 @@ relations:
     - aku-problema-resuelto-concept
     - aku-propuesta-de-valor-concept
     - aku-vete-a-beneficios-ultimos-claim
+    - aku-muestra-el-producto-antes-del-precio-en-productos-emocionales-claim
 
 sources:
   - "raw/cursos/power-mba/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a.md"
@@ -52,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-power-value-modelo-concept]] · [[aku-beneficio-emocional-concept]] · [[aku-problema-resuelto-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-vete-a-beneficios-ultimos-claim]]
+**related** ↔ [[aku-power-value-modelo-concept]] · [[aku-beneficio-emocional-concept]] · [[aku-problema-resuelto-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-vete-a-beneficios-ultimos-claim]] · [[aku-muestra-el-producto-antes-del-precio-en-productos-emocionales-claim]]

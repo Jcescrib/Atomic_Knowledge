@@ -31,6 +31,7 @@ relations:
   related:
     - aku-ser-preciso-con-precios-grandes-claim
     - aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim
+    - aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -45,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
-**related** ↔ [[aku-ser-preciso-con-precios-grandes-claim]] · [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]]
+**related** ↔ [[aku-ser-preciso-con-precios-grandes-claim]] · [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]] · [[aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim]]

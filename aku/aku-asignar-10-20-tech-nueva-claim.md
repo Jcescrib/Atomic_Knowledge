@@ -31,6 +31,7 @@ relations:
   contradicts: []
   related:
     - aku-cold-outreach-concept
+    - aku-factor-crecimiento-distribucion-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -43,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cold-outreach-concept]]
+**related** ↔ [[aku-cold-outreach-concept]] · [[aku-factor-crecimiento-distribucion-concept]]

@@ -24,14 +24,23 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-quien-te-emplea-siempre-intentara-pagarte-menos-de-lo-que-vales-claim, aku-a-veces-el-mejor-modo-de-extraer-valor-es-no-regatear-al-maximo-claim, aku-la-paciencia-es-una-fortaleza-negociadora-espera-el-deal-correcto-claim, aku-enfocate-en-el-potencial-a-largo-plazo-no-en-el-primer-cheque-claim, aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim]
+  supported_by:
+    - aku-quien-te-emplea-siempre-intentara-pagarte-menos-de-lo-que-vales-claim
+    - aku-a-veces-el-mejor-modo-de-extraer-valor-es-no-regatear-al-maximo-claim
+    - aku-la-paciencia-es-una-fortaleza-negociadora-espera-el-deal-correcto-claim
+    - aku-enfocate-en-el-potencial-a-largo-plazo-no-en-el-primer-cheque-claim
+    - aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-no-dejes-que-el-ego-te-ciegue-ante-una-asociacion-que-te-lleva-mas-lejos-claim, aku-el-tiempo-es-el-gasto-mas-caro-e-irrecuperable-valoralo-sobre-el-cheque-claim, aku-ponlo-todo-por-escrito-la-palabra-no-vale-nada-claim]
+  related:
+    - aku-no-dejes-que-el-ego-te-ciegue-ante-una-asociacion-que-te-lleva-mas-lejos-claim
+    - aku-el-tiempo-es-el-gasto-mas-caro-e-irrecuperable-valoralo-sobre-el-cheque-claim
+    - aku-ponlo-todo-por-escrito-la-palabra-no-vale-nada-claim
+    - aku-diagnostico-estrategico-personal-concept
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -45,4 +54,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-quien-te-emplea-siempre-intentara-pagarte-menos-de-lo-que-vales-claim]] · [[aku-a-veces-el-mejor-modo-de-extraer-valor-es-no-regatear-al-maximo-claim]] · [[aku-la-paciencia-es-una-fortaleza-negociadora-espera-el-deal-correcto-claim]] · [[aku-enfocate-en-el-potencial-a-largo-plazo-no-en-el-primer-cheque-claim]] · [[aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim]]
-**related** ↔ [[aku-no-dejes-que-el-ego-te-ciegue-ante-una-asociacion-que-te-lleva-mas-lejos-claim]] · [[aku-el-tiempo-es-el-gasto-mas-caro-e-irrecuperable-valoralo-sobre-el-cheque-claim]] · [[aku-ponlo-todo-por-escrito-la-palabra-no-vale-nada-claim]]
+**related** ↔ [[aku-no-dejes-que-el-ego-te-ciegue-ante-una-asociacion-que-te-lleva-mas-lejos-claim]] · [[aku-el-tiempo-es-el-gasto-mas-caro-e-irrecuperable-valoralo-sobre-el-cheque-claim]] · [[aku-ponlo-todo-por-escrito-la-palabra-no-vale-nada-claim]] · [[aku-diagnostico-estrategico-personal-concept]]

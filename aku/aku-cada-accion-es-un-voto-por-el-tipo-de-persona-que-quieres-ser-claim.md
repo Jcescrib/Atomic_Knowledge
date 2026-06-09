@@ -37,6 +37,8 @@ relations:
     - aku-habit-tracker-no-rompas-la-cadena-method
     - aku-habitos-basados-en-la-identidad-vs-en-resultados-concept
     - aku-di-a-tus-amigos-que-eres-feliz-para-conformarte-a-ello-claim
+    - aku-para-ser-honesto-habla-sin-identidad-las-etiquetas-te-atan-claim
+    - aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -49,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habits-scorecard-method]] · [[aku-two-minute-rule-method]] · [[aku-habit-tracker-no-rompas-la-cadena-method]] · [[aku-habitos-basados-en-la-identidad-vs-en-resultados-concept]] · [[aku-di-a-tus-amigos-que-eres-feliz-para-conformarte-a-ello-claim]]
+**related** ↔ [[aku-habits-scorecard-method]] · [[aku-two-minute-rule-method]] · [[aku-habit-tracker-no-rompas-la-cadena-method]] · [[aku-habitos-basados-en-la-identidad-vs-en-resultados-concept]] · [[aku-di-a-tus-amigos-que-eres-feliz-para-conformarte-a-ello-claim]] · [[aku-para-ser-honesto-habla-sin-identidad-las-etiquetas-te-atan-claim]] · [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]]

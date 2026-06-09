@@ -31,14 +31,16 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-tests-personalidad-concept]
+  supported_by:
+    - aku-tests-personalidad-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-construye-habitos-que-encajen-con-tu-personalidad-big-five-concept
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -53,3 +55,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-tests-personalidad-concept]]
+
+**related** ↔ [[aku-construye-habitos-que-encajen-con-tu-personalidad-big-five-concept]]

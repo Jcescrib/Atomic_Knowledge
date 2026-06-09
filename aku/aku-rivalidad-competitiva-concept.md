@@ -25,14 +25,20 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-barreras-de-salida-concept]
-  supports: [aku-cinco-fuerzas-porter-concept, aku-rivalidad-reduce-rentabilidad-claim]
+  supported_by:
+    - aku-barreras-de-salida-concept
+  supports:
+    - aku-cinco-fuerzas-porter-concept
+    - aku-rivalidad-reduce-rentabilidad-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-oceano-rojo-concept, aku-concentracion-sector-concept]
+  related:
+    - aku-oceano-rojo-concept
+    - aku-concentracion-sector-concept
+    - aku-nunca-terminas-de-competir-al-final-compites-contigo-mismo-claim
 
 sources:
   - raw/cursos/power-mba/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
@@ -47,4 +53,4 @@ status_note: ""
 
 **supported_by** ← [[aku-barreras-de-salida-concept]]
 **supports** → [[aku-cinco-fuerzas-porter-concept]] · [[aku-rivalidad-reduce-rentabilidad-claim]]
-**related** ↔ [[aku-oceano-rojo-concept]] · [[aku-concentracion-sector-concept]]
+**related** ↔ [[aku-oceano-rojo-concept]] · [[aku-concentracion-sector-concept]] · [[aku-nunca-terminas-de-competir-al-final-compites-contigo-mismo-claim]]

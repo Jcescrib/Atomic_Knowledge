@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-value-equation-concept
+    - aku-methods-step1-moldear-la-percepcion-concept
+    - aku-ux-understanding-comunicar-con-claridad-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-value-equation-concept]]
+**related** ↔ [[aku-value-equation-concept]] · [[aku-methods-step1-moldear-la-percepcion-concept]] · [[aku-ux-understanding-comunicar-con-claridad-concept]]

@@ -23,14 +23,16 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-formulas-titulos-potentes-concept]
+  supported_by:
+    - aku-formulas-titulos-potentes-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept
 
 sources:
   - raw/cursos/power-mba/20-2-lista-de-f-ormulas-para-escribir-t-itulos-potentes/20-2-lista-de-f-ormulas-para-escribir-t-itulos-potentes.md
@@ -44,3 +46,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-formulas-titulos-potentes-concept]]
+
+**related** ↔ [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]

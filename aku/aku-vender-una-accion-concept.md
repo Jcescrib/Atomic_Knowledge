@@ -33,7 +33,15 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-conversacion-mente-cliente-concept, aku-estilo-editorial-concept, aku-leyes-persuasion-cialdini-concept, aku-cta-concept, aku-brandscript-storybrand-concept, aku-levantar-financiacion-como-ventas-claim, aku-elevator-pitch-concept]
+  related:
+    - aku-conversacion-mente-cliente-concept
+    - aku-estilo-editorial-concept
+    - aku-leyes-persuasion-cialdini-concept
+    - aku-cta-concept
+    - aku-brandscript-storybrand-concept
+    - aku-levantar-financiacion-como-ventas-claim
+    - aku-elevator-pitch-concept
+    - aku-hard-selling-producto-debil
 
 sources:
   - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
@@ -46,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-conversacion-mente-cliente-concept]] · [[aku-estilo-editorial-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-cta-concept]] · [[aku-brandscript-storybrand-concept]] · [[aku-levantar-financiacion-como-ventas-claim]] · [[aku-elevator-pitch-concept]]
+**related** ↔ [[aku-conversacion-mente-cliente-concept]] · [[aku-estilo-editorial-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-cta-concept]] · [[aku-brandscript-storybrand-concept]] · [[aku-levantar-financiacion-como-ventas-claim]] · [[aku-elevator-pitch-concept]] · [[aku-hard-selling-producto-debil]]

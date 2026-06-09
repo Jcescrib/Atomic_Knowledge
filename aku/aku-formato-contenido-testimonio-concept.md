@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-cialdini-prueba-social-concept
+    - aku-barter-descuento-por-publicidad
 
 sources:
   - raw/cursos/power-mba/5-4-9-marketing-de-contenidos-formatos-m-as-habituales/5-4-9-marketing-de-contenidos-formatos-m-as-habituales.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supported_by** ← [[aku-formatos-marketing-contenidos-concept]]
 
-**related** ↔ [[aku-cialdini-prueba-social-concept]]
+**related** ↔ [[aku-cialdini-prueba-social-concept]] · [[aku-barter-descuento-por-publicidad]]

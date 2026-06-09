@@ -35,6 +35,7 @@ relations:
   contradicts: []
   related:
     - aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim
+    - aku-perfeccionar-una-oferta-a-la-vez
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim]]
+**related** ↔ [[aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim]] · [[aku-perfeccionar-una-oferta-a-la-vez]]

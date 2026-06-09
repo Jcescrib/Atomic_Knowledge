@@ -33,7 +33,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-marketing-influencers-concept]
+  related:
+    - aku-marketing-influencers-concept
+    - aku-apuntar-solo-a-influencers-no-basta-tres-problemas-claim
 
 sources:
   - raw/cursos/power-mba/14-01-herramientas-marketing-influencers/14-01-herramientas-marketing-influencers.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-marketing-influencers-concept]]
+**related** ↔ [[aku-marketing-influencers-concept]] · [[aku-apuntar-solo-a-influencers-no-basta-tres-problemas-claim]]

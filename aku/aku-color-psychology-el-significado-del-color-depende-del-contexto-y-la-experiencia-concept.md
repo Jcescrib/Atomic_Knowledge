@@ -50,6 +50,7 @@ relations:
   related:
     - aku-identidad-de-marca-concept
     - aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept
+    - aku-el-entorno-es-la-mano-invisible-que-moldea-la-conducta-claim
 
 sources:
   - raw/libros/kolenda/color-psychology2/color-psychology2.md
@@ -64,4 +65,4 @@ status_note: ""
 
 **supported_by** ← [[aku-las-preferencias-de-color-vienen-de-la-evolucion-y-la-valencia-ecologica-claim]] · [[aku-los-colores-oscuros-parecen-pesados-claim]] · [[aku-los-colores-saturados-parecen-mas-grandes-claim]] · [[aku-los-colores-saturados-parecen-mas-cercanos-claim]] · [[aku-los-colores-desaturados-grayscale-transmiten-lujo-claim]] · [[aku-los-colores-saturados-orientan-al-detalle-claim]] · [[aku-el-blanco-facilita-la-accion-y-el-oscuro-retiene-claim]] · [[aku-el-blanco-promueve-visibilidad-y-el-oscuro-la-oculta-claim]] · [[aku-el-rojo-refuerza-la-atraccion-social-claim]] · [[aku-los-colores-calidos-y-saturados-estimulan-el-azul-relaja-claim]] · [[aku-el-rojo-aumenta-la-agresividad-y-el-dominio-claim]] · [[aku-esquemas-de-combinacion-de-color-monocromatico-a-tetradico-method]] · [[aku-preferencia-evolutiva-por-colores-calidos-claim]] · [[aku-valencia-ecologica-preferimos-colores-de-experiencias-positivas-claim]] · [[aku-esquema-de-color-monocromatico-claim]] · [[aku-esquema-de-color-analogo-claim]] · [[aku-esquema-de-color-complementario-claim]] · [[aku-esquema-de-color-split-complementario-claim]] · [[aku-esquema-de-color-triadico-claim]] · [[aku-esquema-de-color-tetradico-claim]]
 
-**related** ↔ [[aku-identidad-de-marca-concept]] · [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]
+**related** ↔ [[aku-identidad-de-marca-concept]] · [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]] · [[aku-el-entorno-es-la-mano-invisible-que-moldea-la-conducta-claim]]

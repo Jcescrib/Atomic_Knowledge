@@ -36,6 +36,8 @@ relations:
   related:
     - aku-modelo-plataforma-concept
     - aku-modelo-free-concept
+    - aku-free-bootstrap-plataforma-claim
+    - aku-format-matchea-plataforma-claim
 
 sources:
   - "raw/cursos/power-mba/2-3-conceptos-clave-de-las-plataformas/2-3-conceptos-clave-de-las-plataformas.md"
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-modelo-free-concept]]
+**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-modelo-free-concept]] · [[aku-free-bootstrap-plataforma-claim]] · [[aku-format-matchea-plataforma-claim]]

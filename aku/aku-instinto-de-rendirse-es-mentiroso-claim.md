@@ -34,6 +34,8 @@ relations:
   related:
     - aku-destroyer-mode-emocion-y-logica-concept
     - aku-no-relajarse-hasta-completar-la-mision-claim
+    - aku-48laws-22-use-the-surrender-tactic-concept
+    - aku-corazon-de-hustler-concept
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-destroyer-mode-emocion-y-logica-concept]] · [[aku-no-relajarse-hasta-completar-la-mision-claim]]
+**related** ↔ [[aku-destroyer-mode-emocion-y-logica-concept]] · [[aku-no-relajarse-hasta-completar-la-mision-claim]] · [[aku-48laws-22-use-the-surrender-tactic-concept]] · [[aku-corazon-de-hustler-concept]]

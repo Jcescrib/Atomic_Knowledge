@@ -34,6 +34,8 @@ relations:
     - aku-comida-basura-es-veneno-claim
     - aku-regla-100-no-80-20-claim
     - aku-estimulos-supernormales-concept
+    - aku-la-grasa-sacia-el-azucar-da-hambre-y-su-combinacion-es-letal-claim
+    - aku-las-adicciones-pueden-disolverse-al-cambiar-radicalmente-el-entorno-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-homeostasis-glucosa-insulina-concept]] · [[aku-comida-basura-es-veneno-claim]] · [[aku-regla-100-no-80-20-claim]] · [[aku-estimulos-supernormales-concept]]
+**related** ↔ [[aku-homeostasis-glucosa-insulina-concept]] · [[aku-comida-basura-es-veneno-claim]] · [[aku-regla-100-no-80-20-claim]] · [[aku-estimulos-supernormales-concept]] · [[aku-la-grasa-sacia-el-azucar-da-hambre-y-su-combinacion-es-letal-claim]] · [[aku-las-adicciones-pueden-disolverse-al-cambiar-radicalmente-el-entorno-claim]]

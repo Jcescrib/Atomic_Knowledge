@@ -31,6 +31,7 @@ relations:
   contradicts: []
   related:
     - aku-calcular-y-mitigar-riesgo-claim
+    - aku-blitzscaling-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -43,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-calcular-y-mitigar-riesgo-claim]]
+**related** ↔ [[aku-calcular-y-mitigar-riesgo-claim]] · [[aku-blitzscaling-concept]]

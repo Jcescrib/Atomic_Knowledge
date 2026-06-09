@@ -36,6 +36,9 @@ relations:
   related:
     - aku-cltv-concept
     - aku-lifetime-concept
+    - aku-ltgp-concept
+    - aku-gross-profit-additional-customer-concept
+    - aku-tres-formas-crecer-concept
 
 sources:
   - "raw/cursos/power-mba/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md"
@@ -51,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-cltv-subscription-formula]]
 
-**related** ↔ [[aku-cltv-concept]] · [[aku-lifetime-concept]]
+**related** ↔ [[aku-cltv-concept]] · [[aku-lifetime-concept]] · [[aku-ltgp-concept]] · [[aku-gross-profit-additional-customer-concept]] · [[aku-tres-formas-crecer-concept]]

@@ -36,6 +36,7 @@ relations:
     - aku-cialdini-escasez-concept
     - aku-tipos-y-tacticas-escasez-concept
     - aku-cuando-sube-demanda-corta-oferta-claim
+    - aku-leyes-persuasion-cialdini-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-deseo-viene-de-no-tener-claim]] · [[aku-demanda-fractal-8020-claim]] · [[aku-cialdini-escasez-concept]] · [[aku-tipos-y-tacticas-escasez-concept]] · [[aku-cuando-sube-demanda-corta-oferta-claim]]
+**related** ↔ [[aku-deseo-viene-de-no-tener-claim]] · [[aku-demanda-fractal-8020-claim]] · [[aku-cialdini-escasez-concept]] · [[aku-tipos-y-tacticas-escasez-concept]] · [[aku-cuando-sube-demanda-corta-oferta-claim]] · [[aku-leyes-persuasion-cialdini-concept]]

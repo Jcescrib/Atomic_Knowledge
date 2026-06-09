@@ -35,6 +35,7 @@ relations:
   related:
     - aku-no-hay-solucion-100-correcta-claim
     - aku-plan-but-remain-flexible-concept
+    - aku-48laws-48-assume-formlessness-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-simple-law-of-combat-concept]]
 
-**related** ↔ [[aku-no-hay-solucion-100-correcta-claim]] · [[aku-plan-but-remain-flexible-concept]]
+**related** ↔ [[aku-no-hay-solucion-100-correcta-claim]] · [[aku-plan-but-remain-flexible-concept]] · [[aku-48laws-48-assume-formlessness-concept]]

@@ -35,6 +35,7 @@ relations:
     - aku-callout-cocktail-party-claim
     - aku-content-hook-concept
     - aku-hook-topic-headline-format-concept
+    - aku-anuncio-callout-value-cta-concept
 
 sources:
   - raw/cursos/power-mba/18-info-hacks-copy/18-info-hacks-copy.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supported_by** ← [[aku-hacks-copywriting-concept]]
 
-**related** ↔ [[aku-formulas-titulos-potentes-concept]] · [[aku-callout-cocktail-party-claim]] · [[aku-content-hook-concept]] · [[aku-hook-topic-headline-format-concept]]
+**related** ↔ [[aku-formulas-titulos-potentes-concept]] · [[aku-callout-cocktail-party-claim]] · [[aku-content-hook-concept]] · [[aku-hook-topic-headline-format-concept]] · [[aku-anuncio-callout-value-cta-concept]]

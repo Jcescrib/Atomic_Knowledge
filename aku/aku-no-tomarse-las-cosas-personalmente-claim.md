@@ -33,6 +33,7 @@ relations:
   related:
     - aku-check-the-ego-concept
     - aku-no-usar-sandwich-de-critica-claim
+    - aku-no-te-tomes-tan-en-serio-eres-un-mono-con-un-plan-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-check-the-ego-concept]] · [[aku-no-usar-sandwich-de-critica-claim]]
+**related** ↔ [[aku-check-the-ego-concept]] · [[aku-no-usar-sandwich-de-critica-claim]] · [[aku-no-te-tomes-tan-en-serio-eres-un-mono-con-un-plan-claim]]

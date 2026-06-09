@@ -36,6 +36,8 @@ relations:
     - aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method
     - aku-camino-de-menor-resistencia-claim
     - aku-not-feeling-it-go-anyway-claim
+    - aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim
+    - aku-home-gym-equipo-basico-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method]] · [[aku-camino-de-menor-resistencia-claim]] · [[aku-not-feeling-it-go-anyway-claim]]
+**related** ↔ [[aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method]] · [[aku-camino-de-menor-resistencia-claim]] · [[aku-not-feeling-it-go-anyway-claim]] · [[aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim]] · [[aku-home-gym-equipo-basico-concept]]

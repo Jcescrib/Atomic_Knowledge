@@ -26,13 +26,23 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-ikigai-pasion-concept, aku-ikigai-mision-concept, aku-ikigai-profesion-concept, aku-ikigai-vocacion-concept]
-  constrained_by: [aku-proposito-personal-sostenibilidad-claim]
+  supports:
+    - aku-ikigai-pasion-concept
+    - aku-ikigai-mision-concept
+    - aku-ikigai-profesion-concept
+    - aku-ikigai-vocacion-concept
+  constrained_by:
+    - aku-proposito-personal-sostenibilidad-claim
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-objetivos-personales-concept, aku-autoevaluacion-cuerpo-mente-alma-concept, aku-proposito-mision-concept, aku-fortalezas-debilidades-motivaciones-concept]
+  related:
+    - aku-objetivos-personales-concept
+    - aku-autoevaluacion-cuerpo-mente-alma-concept
+    - aku-proposito-mision-concept
+    - aku-fortalezas-debilidades-motivaciones-concept
+    - aku-corazon-de-hustler-concept
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -47,4 +57,4 @@ status_note: ""
 
 **supports** → [[aku-ikigai-pasion-concept]] · [[aku-ikigai-mision-concept]] · [[aku-ikigai-profesion-concept]] · [[aku-ikigai-vocacion-concept]]
 **constrained_by** ← [[aku-proposito-personal-sostenibilidad-claim]]
-**related** ↔ [[aku-objetivos-personales-concept]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-proposito-mision-concept]] · [[aku-fortalezas-debilidades-motivaciones-concept]]
+**related** ↔ [[aku-objetivos-personales-concept]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-proposito-mision-concept]] · [[aku-fortalezas-debilidades-motivaciones-concept]] · [[aku-corazon-de-hustler-concept]]

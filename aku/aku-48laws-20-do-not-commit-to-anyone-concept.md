@@ -34,6 +34,7 @@ relations:
   related:
     - aku-48laws-19-know-who-you-deal-with-concept
     - aku-48laws-21-play-a-sucker-to-catch-a-sucker-concept
+    - aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-19-know-who-you-deal-with-concept]] · [[aku-48laws-21-play-a-sucker-to-catch-a-sucker-concept]]
+**related** ↔ [[aku-48laws-19-know-who-you-deal-with-concept]] · [[aku-48laws-21-play-a-sucker-to-catch-a-sucker-concept]] · [[aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim]]

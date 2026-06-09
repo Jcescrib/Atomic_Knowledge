@@ -35,6 +35,12 @@ relations:
   contradicts: []
   related:
     - aku-habit-tracker-no-rompas-la-cadena-method
+    - aku-plan-medicion-metas-concept
+    - aku-plan-medicion-kpis-concept
+    - aku-plan-de-medicion-concept
+    - aku-plan-medicion-objetivos-concept
+    - aku-trabajador-apalancado-rinde-1000x-y-el-juicio-supera-las-horas-claim
+    - aku-ga-objetivo-duracion-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habit-tracker-no-rompas-la-cadena-method]]
+**related** ↔ [[aku-habit-tracker-no-rompas-la-cadena-method]] · [[aku-plan-medicion-metas-concept]] · [[aku-plan-medicion-kpis-concept]] · [[aku-plan-de-medicion-concept]] · [[aku-plan-medicion-objetivos-concept]] · [[aku-trabajador-apalancado-rinde-1000x-y-el-juicio-supera-las-horas-claim]] · [[aku-ga-objetivo-duracion-concept]]

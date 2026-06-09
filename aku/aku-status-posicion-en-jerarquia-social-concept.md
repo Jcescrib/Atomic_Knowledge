@@ -36,6 +36,7 @@ relations:
     - aku-juegos-de-suma-positiva-vs-suma-cero-concept
     - aku-evita-los-juegos-de-estatus-te-vuelven-combativo-claim
     - aku-status-driver-compra-claim
+    - aku-48laws-01-never-outshine-the-master-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-wealth-activos-que-ganan-mientras-duermes-concept]] · [[aku-money-transfiere-tiempo-y-riqueza-concept]] · [[aku-juegos-de-suma-positiva-vs-suma-cero-concept]] · [[aku-evita-los-juegos-de-estatus-te-vuelven-combativo-claim]] · [[aku-status-driver-compra-claim]]
+**related** ↔ [[aku-wealth-activos-que-ganan-mientras-duermes-concept]] · [[aku-money-transfiere-tiempo-y-riqueza-concept]] · [[aku-juegos-de-suma-positiva-vs-suma-cero-concept]] · [[aku-evita-los-juegos-de-estatus-te-vuelven-combativo-claim]] · [[aku-status-driver-compra-claim]] · [[aku-48laws-01-never-outshine-the-master-concept]]

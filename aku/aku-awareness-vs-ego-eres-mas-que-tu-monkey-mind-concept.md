@@ -39,6 +39,8 @@ relations:
     - aku-la-atraccion-de-las-drogas-y-los-thrills-es-espiritual-claim
     - aku-no-te-tomes-tan-en-serio-eres-un-mono-con-un-plan-claim
     - aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept
+    - aku-redirigir-la-ira-claim
+    - aku-habits-scorecard-method
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -51,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-mente-debe-ser-sirviente-no-amo-claim]] · [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-el-ego-se-construye-en-las-primeras-dos-decadas-concept]] · [[aku-la-atraccion-de-las-drogas-y-los-thrills-es-espiritual-claim]] · [[aku-no-te-tomes-tan-en-serio-eres-un-mono-con-un-plan-claim]] · [[aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept]]
+**related** ↔ [[aku-la-mente-debe-ser-sirviente-no-amo-claim]] · [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-el-ego-se-construye-en-las-primeras-dos-decadas-concept]] · [[aku-la-atraccion-de-las-drogas-y-los-thrills-es-espiritual-claim]] · [[aku-no-te-tomes-tan-en-serio-eres-un-mono-con-un-plan-claim]] · [[aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept]] · [[aku-redirigir-la-ira-claim]] · [[aku-habits-scorecard-method]]

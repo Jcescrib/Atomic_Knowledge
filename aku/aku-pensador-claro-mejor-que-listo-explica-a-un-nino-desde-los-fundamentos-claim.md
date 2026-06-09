@@ -34,6 +34,7 @@ relations:
   related:
     - aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim
     - aku-modelos-mentales-concept
+    - aku-conocimiento-es-el-arma-definitiva-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim]] · [[aku-modelos-mentales-concept]]
+**related** ↔ [[aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim]] · [[aku-modelos-mentales-concept]] · [[aku-conocimiento-es-el-arma-definitiva-claim]]

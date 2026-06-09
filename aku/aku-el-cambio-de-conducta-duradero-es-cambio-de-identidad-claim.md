@@ -33,6 +33,7 @@ relations:
   related:
     - aku-los-incentivos-inician-un-habito-la-identidad-lo-sostiene-claim
     - aku-habitos-basados-en-la-identidad-vs-en-resultados-concept
+    - aku-cuando-de-verdad-quieres-cambiar-cambias-intentar-es-aplazar-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-los-incentivos-inician-un-habito-la-identidad-lo-sostiene-claim]] · [[aku-habitos-basados-en-la-identidad-vs-en-resultados-concept]]
+**related** ↔ [[aku-los-incentivos-inician-un-habito-la-identidad-lo-sostiene-claim]] · [[aku-habitos-basados-en-la-identidad-vs-en-resultados-concept]] · [[aku-cuando-de-verdad-quieres-cambiar-cambias-intentar-es-aplazar-claim]]

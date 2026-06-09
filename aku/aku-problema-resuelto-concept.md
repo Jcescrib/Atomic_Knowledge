@@ -38,6 +38,7 @@ relations:
     - aku-power-value-modelo-concept
     - aku-beneficio-funcional-concept
     - aku-beneficio-emocional-concept
+    - aku-dolor-es-el-pitch-claim
 
 sources:
   - "raw/cursos/power-mba/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a.md"
@@ -50,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-power-value-modelo-concept]] · [[aku-beneficio-funcional-concept]] · [[aku-beneficio-emocional-concept]]
+**related** ↔ [[aku-power-value-modelo-concept]] · [[aku-beneficio-funcional-concept]] · [[aku-beneficio-emocional-concept]] · [[aku-dolor-es-el-pitch-claim]]

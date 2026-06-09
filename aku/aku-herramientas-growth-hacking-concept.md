@@ -34,7 +34,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-motor-crecimiento-concept]
+  related:
+    - aku-motor-crecimiento-concept
+    - aku-cold-outreach-numbers-game-claim
 
 sources:
   - raw/cursos/power-mba/herramientas-y-recursos-de-growth-hacking/herramientas-y-recursos-de-growth-hacking.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-motor-crecimiento-concept]]
+**related** ↔ [[aku-motor-crecimiento-concept]] · [[aku-cold-outreach-numbers-game-claim]]

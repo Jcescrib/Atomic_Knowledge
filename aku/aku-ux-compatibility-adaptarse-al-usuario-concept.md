@@ -32,7 +32,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-landing-page-concept
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -48,3 +49,5 @@ status_note: ""
 **supports** → [[aku-ux-cinco-guidelines-de-usabilidad-concept]]
 
 **supported_by** ← [[aku-extender-las-areas-clicables-y-rutas-de-cursor-claim]] · [[aku-adaptarse-a-la-habilidad-o-conocimiento-del-usuario-claim]] · [[aku-adaptarse-al-objetivo-o-workflow-del-usuario-claim]] · [[aku-maximizar-la-accesibilidad-de-la-interfaz-claim]]
+
+**related** ↔ [[aku-landing-page-concept]]

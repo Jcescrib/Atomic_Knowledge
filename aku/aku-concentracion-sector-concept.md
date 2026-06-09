@@ -26,14 +26,19 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-monopolio-concept, aku-oligopolio-concept, aku-sector-atomizado-concept]
+  supported_by:
+    - aku-monopolio-concept
+    - aku-oligopolio-concept
+    - aku-sector-atomizado-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-rivalidad-competitiva-concept]
+  related:
+    - aku-rivalidad-competitiva-concept
+    - aku-precio-alto-aumenta-valor-percibido-claim
 
 sources:
   - raw/cursos/power-mba/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
@@ -47,4 +52,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-monopolio-concept]] · [[aku-oligopolio-concept]] · [[aku-sector-atomizado-concept]]
-**related** ↔ [[aku-rivalidad-competitiva-concept]]
+**related** ↔ [[aku-rivalidad-competitiva-concept]] · [[aku-precio-alto-aumenta-valor-percibido-claim]]

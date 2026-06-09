@@ -32,7 +32,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-evaluation-character-leadership-concept
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -48,3 +49,5 @@ status_note: ""
 **constrains** → [[aku-tres-capas-liderazgo-concept]]
 
 **supported_by** ← [[aku-mind-control-controla-tu-propia-mente-concept]] · [[aku-self-discipline-viene-de-dentro-concept]]
+
+**related** ↔ [[aku-evaluation-character-leadership-concept]]

@@ -39,6 +39,7 @@ relations:
     - aku-apalancamiento-financiero-concept
     - aku-beneficio-neto-concept
     - aku-equity-es-el-upside-deuda-es-downside-garantizado-concept
+    - aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-estructura-de-capital-concept]] · [[aku-apalancamiento-aumenta-roe-claim]] · [[aku-roa-concept]] · [[aku-apalancamiento-financiero-concept]] · [[aku-beneficio-neto-concept]] · [[aku-equity-es-el-upside-deuda-es-downside-garantizado-concept]]
+**related** ↔ [[aku-estructura-de-capital-concept]] · [[aku-apalancamiento-aumenta-roe-claim]] · [[aku-roa-concept]] · [[aku-apalancamiento-financiero-concept]] · [[aku-beneficio-neto-concept]] · [[aku-equity-es-el-upside-deuda-es-downside-garantizado-concept]] · [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]]

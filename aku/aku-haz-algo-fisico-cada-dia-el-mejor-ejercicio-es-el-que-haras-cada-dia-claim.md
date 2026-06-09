@@ -35,6 +35,7 @@ relations:
     - aku-motion-vs-action-concept
     - aku-los-habitos-se-forman-por-frecuencia-no-por-tiempo-claim
     - aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim
+    - aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-motion-vs-action-concept]] · [[aku-los-habitos-se-forman-por-frecuencia-no-por-tiempo-claim]] · [[aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim]]
+**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-motion-vs-action-concept]] · [[aku-los-habitos-se-forman-por-frecuencia-no-por-tiempo-claim]] · [[aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim]] · [[aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim]]

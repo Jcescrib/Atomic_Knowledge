@@ -34,6 +34,7 @@ relations:
   related:
     - aku-bonuses-stack-concept
     - aku-urgencia-concept
+    - aku-retirar-los-descuentos-gradualmente-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-bonuses-stack-concept]] · [[aku-urgencia-concept]]
+**related** ↔ [[aku-bonuses-stack-concept]] · [[aku-urgencia-concept]] · [[aku-retirar-los-descuentos-gradualmente-claim]]

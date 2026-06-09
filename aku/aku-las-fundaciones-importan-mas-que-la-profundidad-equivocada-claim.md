@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-modelos-mentales-concept
+    - aku-copy-sin-florituras-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelos-mentales-concept]]
+**related** ↔ [[aku-modelos-mentales-concept]] · [[aku-copy-sin-florituras-claim]]

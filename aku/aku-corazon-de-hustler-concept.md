@@ -24,14 +24,23 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-el-trabajo-duro-es-el-rasgo-comun-a-quienes-se-mantienen-arriba-claim, aku-el-diferenciador-decisivo-es-estar-dispuesto-a-out-trabajar-a-todos-claim, aku-hustlar-duro-es-prerrequisito-de-hustlar-inteligente-claim, aku-la-pasion-no-el-talento-distingue-a-los-grandes-claim, aku-mentalidad-de-hustler-lo-recupero-en-la-siguiente-claim]
+  supported_by:
+    - aku-el-trabajo-duro-es-el-rasgo-comun-a-quienes-se-mantienen-arriba-claim
+    - aku-el-diferenciador-decisivo-es-estar-dispuesto-a-out-trabajar-a-todos-claim
+    - aku-hustlar-duro-es-prerrequisito-de-hustlar-inteligente-claim
+    - aku-la-pasion-no-el-talento-distingue-a-los-grandes-claim
+    - aku-mentalidad-de-hustler-lo-recupero-en-la-siguiente-claim
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-passion-stance-concept, aku-calle-y-negocios-comparten-principios-concept]
+  related:
+    - aku-passion-stance-concept
+    - aku-calle-y-negocios-comparten-principios-concept
+    - aku-ikigai-concept
+    - aku-instinto-de-rendirse-es-mentiroso-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -45,4 +54,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-el-trabajo-duro-es-el-rasgo-comun-a-quienes-se-mantienen-arriba-claim]] · [[aku-el-diferenciador-decisivo-es-estar-dispuesto-a-out-trabajar-a-todos-claim]] · [[aku-hustlar-duro-es-prerrequisito-de-hustlar-inteligente-claim]] · [[aku-la-pasion-no-el-talento-distingue-a-los-grandes-claim]] · [[aku-mentalidad-de-hustler-lo-recupero-en-la-siguiente-claim]]
-**related** ↔ [[aku-passion-stance-concept]] · [[aku-calle-y-negocios-comparten-principios-concept]]
+**related** ↔ [[aku-passion-stance-concept]] · [[aku-calle-y-negocios-comparten-principios-concept]] · [[aku-ikigai-concept]] · [[aku-instinto-de-rendirse-es-mentiroso-claim]]

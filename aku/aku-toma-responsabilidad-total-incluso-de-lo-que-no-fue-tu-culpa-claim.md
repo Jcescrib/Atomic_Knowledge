@@ -39,6 +39,10 @@ relations:
     - aku-preemptive-ownership-concept
     - aku-apologizing-no-es-debilidad-claim
     - aku-tortured-genius-concept
+    - aku-culpar-se-contagia-claim
+    - aku-actitud-lider-determina-exito-claim
+    - aku-check-ego-asumiendo-culpa-primero-method
+    - aku-boss-no-da-soporte-culpate-primero-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -52,4 +56,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept]]
-**related** ↔ [[aku-recuperarte-de-un-desastre-descansa-limpia-la-energia-y-reconstruye-desde-abajo-method]] · [[aku-extreme-ownership-concept]] · [[aku-accountability-bajo-tu-nombre-concept]] · [[aku-preemptive-ownership-concept]] · [[aku-apologizing-no-es-debilidad-claim]] · [[aku-tortured-genius-concept]]
+**related** ↔ [[aku-recuperarte-de-un-desastre-descansa-limpia-la-energia-y-reconstruye-desde-abajo-method]] · [[aku-extreme-ownership-concept]] · [[aku-accountability-bajo-tu-nombre-concept]] · [[aku-preemptive-ownership-concept]] · [[aku-apologizing-no-es-debilidad-claim]] · [[aku-tortured-genius-concept]] · [[aku-culpar-se-contagia-claim]] · [[aku-actitud-lider-determina-exito-claim]] · [[aku-check-ego-asumiendo-culpa-primero-method]] · [[aku-boss-no-da-soporte-culpate-primero-claim]]

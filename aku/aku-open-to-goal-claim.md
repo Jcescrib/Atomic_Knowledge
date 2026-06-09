@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-rule-of-100-claim
+    - aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-rule-of-100-claim]]
+**related** ↔ [[aku-rule-of-100-claim]] · [[aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim]]

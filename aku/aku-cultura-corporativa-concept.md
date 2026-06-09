@@ -27,13 +27,20 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-arquetipos-cultura-concept]
-  constrained_by: [aku-estructura-cultura-siguen-estrategia-claim]
+  supports:
+    - aku-arquetipos-cultura-concept
+  constrained_by:
+    - aku-estructura-cultura-siguen-estrategia-claim
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-cultura-saludable-ventaja-claim, aku-cascada-estrategica-ejecucion-concept, aku-blitz-crea-cultura-fuerte-claim, aku-beneficios-okr-claim]
+  related:
+    - aku-cultura-saludable-ventaja-claim
+    - aku-cascada-estrategica-ejecucion-concept
+    - aku-blitz-crea-cultura-fuerte-claim
+    - aku-beneficios-okr-claim
+    - aku-cultura-ownership-resiste-perdida-lider-claim
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -48,4 +55,4 @@ status_note: ""
 
 **supports** → [[aku-arquetipos-cultura-concept]]
 **constrained_by** ← [[aku-estructura-cultura-siguen-estrategia-claim]]
-**related** ↔ [[aku-cultura-saludable-ventaja-claim]] · [[aku-cascada-estrategica-ejecucion-concept]] · [[aku-blitz-crea-cultura-fuerte-claim]] · [[aku-beneficios-okr-claim]]
+**related** ↔ [[aku-cultura-saludable-ventaja-claim]] · [[aku-cascada-estrategica-ejecucion-concept]] · [[aku-blitz-crea-cultura-fuerte-claim]] · [[aku-beneficios-okr-claim]] · [[aku-cultura-ownership-resiste-perdida-lider-claim]]

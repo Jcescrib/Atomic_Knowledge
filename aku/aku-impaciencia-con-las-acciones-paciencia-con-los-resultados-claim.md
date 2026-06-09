@@ -33,6 +33,8 @@ relations:
   related:
     - aku-armate-con-specific-knowledge-accountability-y-leverage-claim
     - aku-motion-vs-action-concept
+    - aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim
+    - aku-hesitacion-es-el-enemigo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-motion-vs-action-concept]]
+**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-motion-vs-action-concept]] · [[aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim]] · [[aku-hesitacion-es-el-enemigo-claim]]

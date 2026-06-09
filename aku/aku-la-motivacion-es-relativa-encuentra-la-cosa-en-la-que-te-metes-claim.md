@@ -33,6 +33,8 @@ relations:
   related:
     - aku-la-felicidad-es-una-habilidad-que-se-aprende-concept
     - aku-ser-curioso-es-mejor-que-ser-listo-el-deseo-no-la-inteligencia-mueve-la-conducta-claim
+    - aku-con-un-porque-suficientemente-grande-superas-cualquier-como-claim
+    - aku-cada-conducta-tiene-un-craving-de-superficie-y-un-motivo-profundo-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-ser-curioso-es-mejor-que-ser-listo-el-deseo-no-la-inteligencia-mueve-la-conducta-claim]]
+**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-ser-curioso-es-mejor-que-ser-listo-el-deseo-no-la-inteligencia-mueve-la-conducta-claim]] · [[aku-con-un-porque-suficientemente-grande-superas-cualquier-como-claim]] · [[aku-cada-conducta-tiene-un-craving-de-superficie-y-un-motivo-profundo-concept]]

@@ -39,6 +39,8 @@ relations:
     - aku-autoevaluacion-cuerpo-mente-alma-concept
     - aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method
     - aku-dormir-lo-suficiente-es-parte-del-hustle-no-su-enemigo-claim
+    - aku-los-sanos-cuidan-mas-que-comen-que-cuanto-comen-claim
+    - aku-cuanto-mas-procesado-el-alimento-menos-comer-y-resta-antes-de-anadir-claim
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -53,4 +55,4 @@ status_note: ""
 
 **supports** → [[aku-the-evaluation-concept]]
 
-**related** ↔ [[aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method]] · [[aku-dormir-lo-suficiente-es-parte-del-hustle-no-su-enemigo-claim]]
+**related** ↔ [[aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method]] · [[aku-dormir-lo-suficiente-es-parte-del-hustle-no-su-enemigo-claim]] · [[aku-los-sanos-cuidan-mas-que-comen-que-cuanto-comen-claim]] · [[aku-cuanto-mas-procesado-el-alimento-menos-comer-y-resta-antes-de-anadir-claim]]

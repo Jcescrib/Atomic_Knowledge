@@ -41,6 +41,7 @@ relations:
     - aku-taking-care-of-people-con-disciplina-claim
     - aku-the-path-concept
     - aku-los-habitos-crean-libertad-no-la-restringen-claim
+    - aku-freedom-from-vs-freedom-to-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -57,6 +58,6 @@ status_note: ""
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
 
-**related** ↔ [[aku-disciplined-not-rigid-concept]] · [[aku-disciplina-da-libertad-de-maniobra-claim]] · [[aku-the-warpath-concept]] · [[aku-taking-care-of-people-con-disciplina-claim]] · [[aku-the-path-concept]] · [[aku-los-habitos-crean-libertad-no-la-restringen-claim]]
+**related** ↔ [[aku-disciplined-not-rigid-concept]] · [[aku-disciplina-da-libertad-de-maniobra-claim]] · [[aku-the-warpath-concept]] · [[aku-taking-care-of-people-con-disciplina-claim]] · [[aku-the-path-concept]] · [[aku-los-habitos-crean-libertad-no-la-restringen-claim]] · [[aku-freedom-from-vs-freedom-to-concept]]
 
 **supported_by** ← [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-disciplina-se-extiende-a-todo-claim]]

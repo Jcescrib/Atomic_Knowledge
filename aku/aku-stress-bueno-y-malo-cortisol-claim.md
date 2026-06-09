@@ -36,6 +36,9 @@ relations:
     - aku-eustress-estres-positivo-concept
     - aku-gestionar-stress-detach-y-perspectiva-method
     - aku-homeostasis-glucosa-insulina-concept
+    - aku-la-respiracion-es-la-puerta-al-sistema-nervioso-autonomo-concept
+    - aku-para-tener-paz-mental-primero-hay-que-tener-paz-del-cuerpo-claim
+    - aku-autoevaluacion-cuerpo-mente-alma-concept
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -48,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-eustress-estres-positivo-concept]] · [[aku-gestionar-stress-detach-y-perspectiva-method]] · [[aku-homeostasis-glucosa-insulina-concept]]
+**related** ↔ [[aku-eustress-estres-positivo-concept]] · [[aku-gestionar-stress-detach-y-perspectiva-method]] · [[aku-homeostasis-glucosa-insulina-concept]] · [[aku-la-respiracion-es-la-puerta-al-sistema-nervioso-autonomo-concept]] · [[aku-para-tener-paz-mental-primero-hay-que-tener-paz-del-cuerpo-claim]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]]

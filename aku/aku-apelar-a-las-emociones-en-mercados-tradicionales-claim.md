@@ -28,7 +28,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -42,3 +43,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
+
+**related** ↔ [[aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept]]

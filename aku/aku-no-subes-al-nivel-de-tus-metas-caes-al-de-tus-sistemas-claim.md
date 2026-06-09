@@ -33,6 +33,10 @@ relations:
   related:
     - aku-sistemas-vs-metas-en-atomic-habits-concept
     - aku-tus-resultados-son-una-medida-rezagada-de-tus-habitos-claim
+    - aku-earn-with-your-mind-not-your-time-claim
+    - aku-sin-propiedad-tus-inputs-estan-atados-a-tus-outputs-claim
+    - aku-open-to-goal-claim
+    - aku-impaciencia-con-las-acciones-paciencia-con-los-resultados-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -45,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-sistemas-vs-metas-en-atomic-habits-concept]] · [[aku-tus-resultados-son-una-medida-rezagada-de-tus-habitos-claim]]
+**related** ↔ [[aku-sistemas-vs-metas-en-atomic-habits-concept]] · [[aku-tus-resultados-son-una-medida-rezagada-de-tus-habitos-claim]] · [[aku-earn-with-your-mind-not-your-time-claim]] · [[aku-sin-propiedad-tus-inputs-estan-atados-a-tus-outputs-claim]] · [[aku-open-to-goal-claim]] · [[aku-impaciencia-con-las-acciones-paciencia-con-los-resultados-claim]]

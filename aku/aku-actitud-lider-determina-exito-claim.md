@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-actitud-lider-marca-el-tono-claim
+    - aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-actitud-lider-marca-el-tono-claim]]
+**related** ↔ [[aku-actitud-lider-marca-el-tono-claim]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]]

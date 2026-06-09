@@ -38,6 +38,7 @@ relations:
     - aku-encuentra-trabajo-que-se-sienta-como-juego-claim
     - aku-construye-habitos-que-encajen-con-tu-personalidad-big-five-concept
     - aku-eleccion-vence-naturaleza-y-crianza-claim
+    - aku-lider-responsable-del-output-maximizar-potencial-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -50,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-specific-knowledge-concept]] · [[aku-encuentra-trabajo-que-se-sienta-como-juego-claim]] · [[aku-construye-habitos-que-encajen-con-tu-personalidad-big-five-concept]] · [[aku-eleccion-vence-naturaleza-y-crianza-claim]]
+**related** ↔ [[aku-specific-knowledge-concept]] · [[aku-encuentra-trabajo-que-se-sienta-como-juego-claim]] · [[aku-construye-habitos-que-encajen-con-tu-personalidad-big-five-concept]] · [[aku-eleccion-vence-naturaleza-y-crianza-claim]] · [[aku-lider-responsable-del-output-maximizar-potencial-claim]]

@@ -27,13 +27,20 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-marca-potente-beneficios-claim, aku-plan-de-marca-concept]
+  supports:
+    - aku-marca-potente-beneficios-claim
+    - aku-plan-de-marca-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-identidad-de-marca-concept, aku-brand-equity-concept, aku-proposito-mision-concept, aku-barrera-marca-concept]
+  related:
+    - aku-identidad-de-marca-concept
+    - aku-brand-equity-concept
+    - aku-proposito-mision-concept
+    - aku-barrera-marca-concept
+    - aku-los-nombres-neologisticos-son-los-mas-escalables-claim
 
 sources:
   - raw/cursos/power-mba/4-4-branding/4-4-branding.md
@@ -47,4 +54,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-marca-potente-beneficios-claim]] · [[aku-plan-de-marca-concept]]
-**related** ↔ [[aku-identidad-de-marca-concept]] · [[aku-brand-equity-concept]] · [[aku-proposito-mision-concept]] · [[aku-barrera-marca-concept]]
+**related** ↔ [[aku-identidad-de-marca-concept]] · [[aku-brand-equity-concept]] · [[aku-proposito-mision-concept]] · [[aku-barrera-marca-concept]] · [[aku-los-nombres-neologisticos-son-los-mas-escalables-claim]]

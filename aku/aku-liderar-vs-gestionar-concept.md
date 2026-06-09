@@ -37,6 +37,9 @@ relations:
   related:
     - aku-complementar-habilidades-equipo-claim
     - aku-medida-significativa-liderazgo-claim
+    - aku-leading-up-the-chain-concept
+    - aku-liderar-desde-frente-y-desde-atras-concept
+    - aku-delegar-todo-para-liderar-no-pareciendo-vago-claim
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -51,4 +54,4 @@ status_note: ""
 
 **supported_by** ← [[aku-tres-capas-liderazgo-concept]]
 **constrained_by** ← [[aku-mix-liderazgo-gestion-segun-trabajo-claim]]
-**related** ↔ [[aku-complementar-habilidades-equipo-claim]] · [[aku-medida-significativa-liderazgo-claim]]
+**related** ↔ [[aku-complementar-habilidades-equipo-claim]] · [[aku-medida-significativa-liderazgo-claim]] · [[aku-leading-up-the-chain-concept]] · [[aku-liderar-desde-frente-y-desde-atras-concept]] · [[aku-delegar-todo-para-liderar-no-pareciendo-vago-claim]]

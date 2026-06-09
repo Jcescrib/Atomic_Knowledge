@@ -33,6 +33,9 @@ relations:
   contradicts: []
   related:
     - aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim
+    - aku-content-benchmarks-crecimiento-method
+    - aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim
+    - aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]]
+**related** ↔ [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]] · [[aku-content-benchmarks-crecimiento-method]] · [[aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim]] · [[aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method]]

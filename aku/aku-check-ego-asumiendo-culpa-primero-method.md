@@ -35,6 +35,7 @@ relations:
   related:
     - aku-lider-mirar-al-espejo-claim
     - aku-subordinate-your-ego-desactiva-choque-method
+    - aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-check-the-ego-concept]]
 
-**related** ↔ [[aku-lider-mirar-al-espejo-claim]] · [[aku-subordinate-your-ego-desactiva-choque-method]]
+**related** ↔ [[aku-lider-mirar-al-espejo-claim]] · [[aku-subordinate-your-ego-desactiva-choque-method]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]]

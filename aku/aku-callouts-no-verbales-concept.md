@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-paid-ads-concept
+    - aku-hacer-que-el-precio-de-oferta-se-vea-distinto-contrast-fluency-claim
+    - aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-paid-ads-concept]]
+**related** ↔ [[aku-paid-ads-concept]] · [[aku-hacer-que-el-precio-de-oferta-se-vea-distinto-contrast-fluency-claim]] · [[aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept]]

@@ -38,6 +38,7 @@ relations:
     - aku-margen-volumen-patron-sectorial-claim
     - aku-gross-profit-additional-customer-concept
     - aku-giveaway-descuento-10-30-margen
+    - aku-ltgp-concept
 
 sources:
   - raw/cursos/power-mba/09-02-01-ratios-analisis-financieros/09-02-01-ratios-analisis-financieros.md
@@ -51,4 +52,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-margen-bruto-sobre-ventas-method]]
-**related** ↔ [[aku-coste-mercancias-vendidas-concept]] · [[aku-ebitda-concept]] · [[aku-margen-volumen-patron-sectorial-claim]] · [[aku-gross-profit-additional-customer-concept]] · [[aku-giveaway-descuento-10-30-margen]]
+**related** ↔ [[aku-coste-mercancias-vendidas-concept]] · [[aku-ebitda-concept]] · [[aku-margen-volumen-patron-sectorial-claim]] · [[aku-gross-profit-additional-customer-concept]] · [[aku-giveaway-descuento-10-30-margen]] · [[aku-ltgp-concept]]

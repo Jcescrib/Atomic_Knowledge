@@ -32,6 +32,7 @@ relations:
     - aku-mencionar-la-equivalencia-diaria-del-precio-claim
     - aku-separar-el-coste-de-envio-del-precio-claim
     - aku-ofrecer-el-precio-en-cuotas-claim
+    - aku-continuity-offer-concept
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -46,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-mencionar-la-equivalencia-diaria-del-precio-claim]] · [[aku-separar-el-coste-de-envio-del-precio-claim]] · [[aku-ofrecer-el-precio-en-cuotas-claim]]
+**related** ↔ [[aku-mencionar-la-equivalencia-diaria-del-precio-claim]] · [[aku-separar-el-coste-de-envio-del-precio-claim]] · [[aku-ofrecer-el-precio-en-cuotas-claim]] · [[aku-continuity-offer-concept]]

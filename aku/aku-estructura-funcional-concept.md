@@ -25,14 +25,16 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-estructuras-organizacionales-concept]
+  supported_by:
+    - aku-estructuras-organizacionales-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-competidor-es-externo-no-interno-claim
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -46,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-estructuras-organizacionales-concept]]
+
+**related** ↔ [[aku-competidor-es-externo-no-interno-claim]]

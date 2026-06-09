@@ -24,13 +24,15 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-evolucionar-o-morir-concept]
+  supports:
+    - aku-evolucionar-o-morir-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-me-versus-me-superarte-a-ti-mismo-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -44,3 +46,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-evolucionar-o-morir-concept]]
+
+**related** ↔ [[aku-me-versus-me-superarte-a-ti-mismo-claim]]

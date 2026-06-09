@@ -38,6 +38,7 @@ relations:
     - aku-planning-process-estandarizado-concept
     - aku-el-enemigo-tiene-voto-concept
     - aku-simplicidad-permite-ajuste-rapido-claim
+    - aku-48laws-29-plan-all-the-way-to-the-end-concept
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -54,4 +55,4 @@ status_note: ""
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
 
-**related** ↔ [[aku-planning-process-estandarizado-concept]] · [[aku-el-enemigo-tiene-voto-concept]] · [[aku-simplicidad-permite-ajuste-rapido-claim]]
+**related** ↔ [[aku-planning-process-estandarizado-concept]] · [[aku-el-enemigo-tiene-voto-concept]] · [[aku-simplicidad-permite-ajuste-rapido-claim]] · [[aku-48laws-29-plan-all-the-way-to-the-end-concept]]

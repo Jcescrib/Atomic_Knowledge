@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-sacrifice-principle-concept
+    - aku-effort-sacrifice-concept
+    - aku-free-stuff-too-expensive-hidden-costs-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-sacrifice-principle-concept]]
+**related** ↔ [[aku-sacrifice-principle-concept]] · [[aku-effort-sacrifice-concept]] · [[aku-free-stuff-too-expensive-hidden-costs-claim]]

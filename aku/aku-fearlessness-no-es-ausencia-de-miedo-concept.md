@@ -24,14 +24,26 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-la-comodidad-con-el-miedo-mata-la-ambicion-claim, aku-la-fearlessness-es-un-musculo-que-se-desarrolla-claim, aku-descubrir-que-sobrevives-los-golpes-disuelve-el-miedo-claim, aku-sacudete-el-golpe-y-sigue-no-te-instales-en-la-victima-claim, aku-el-miedo-que-interrumpe-tu-rutina-ya-te-domina-claim]
+  supported_by:
+    - aku-la-comodidad-con-el-miedo-mata-la-ambicion-claim
+    - aku-la-fearlessness-es-un-musculo-que-se-desarrolla-claim
+    - aku-descubrir-que-sobrevives-los-golpes-disuelve-el-miedo-claim
+    - aku-sacudete-el-golpe-y-sigue-no-te-instales-en-la-victima-claim
+    - aku-el-miedo-que-interrumpe-tu-rutina-ya-te-domina-claim
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-un-poco-de-miedo-y-paranoia-es-util-claim, aku-al-otro-lado-del-miedo-esta-la-libertad-claim, aku-paso-agresivo-hacia-el-miedo-claim, aku-la-confianza-sin-miedo-viene-de-la-preparacion-claim, aku-para-superar-un-miedo-reconocelo-y-planifica-superarlo-method, aku-reconocer-los-miedos-que-no-has-confrontado-es-parte-del-trabajo-claim]
+  related:
+    - aku-un-poco-de-miedo-y-paranoia-es-util-claim
+    - aku-al-otro-lado-del-miedo-esta-la-libertad-claim
+    - aku-paso-agresivo-hacia-el-miedo-claim
+    - aku-la-confianza-sin-miedo-viene-de-la-preparacion-claim
+    - aku-para-superar-un-miedo-reconocelo-y-planifica-superarlo-method
+    - aku-reconocer-los-miedos-que-no-has-confrontado-es-parte-del-trabajo-claim
+    - aku-calcular-y-mitigar-riesgo-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -45,4 +57,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-la-comodidad-con-el-miedo-mata-la-ambicion-claim]] · [[aku-la-fearlessness-es-un-musculo-que-se-desarrolla-claim]] · [[aku-descubrir-que-sobrevives-los-golpes-disuelve-el-miedo-claim]] · [[aku-sacudete-el-golpe-y-sigue-no-te-instales-en-la-victima-claim]] · [[aku-el-miedo-que-interrumpe-tu-rutina-ya-te-domina-claim]]
-**related** ↔ [[aku-un-poco-de-miedo-y-paranoia-es-util-claim]] · [[aku-al-otro-lado-del-miedo-esta-la-libertad-claim]] · [[aku-paso-agresivo-hacia-el-miedo-claim]] · [[aku-la-confianza-sin-miedo-viene-de-la-preparacion-claim]] · [[aku-para-superar-un-miedo-reconocelo-y-planifica-superarlo-method]] · [[aku-reconocer-los-miedos-que-no-has-confrontado-es-parte-del-trabajo-claim]]
+**related** ↔ [[aku-un-poco-de-miedo-y-paranoia-es-util-claim]] · [[aku-al-otro-lado-del-miedo-esta-la-libertad-claim]] · [[aku-paso-agresivo-hacia-el-miedo-claim]] · [[aku-la-confianza-sin-miedo-viene-de-la-preparacion-claim]] · [[aku-para-superar-un-miedo-reconocelo-y-planifica-superarlo-method]] · [[aku-reconocer-los-miedos-que-no-has-confrontado-es-parte-del-trabajo-claim]] · [[aku-calcular-y-mitigar-riesgo-claim]]

@@ -35,6 +35,7 @@ relations:
   related:
     - aku-siempre-te-estan-juzgando-por-tu-presentacion-controla-la-mejor-claim
     - aku-branding-concept
+    - aku-cualificar-afiliado-cliente-experto-concept
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -48,4 +49,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-el-poder-de-la-percepcion-concept]]
-**related** ↔ [[aku-siempre-te-estan-juzgando-por-tu-presentacion-controla-la-mejor-claim]] · [[aku-branding-concept]]
+**related** ↔ [[aku-siempre-te-estan-juzgando-por-tu-presentacion-controla-la-mejor-claim]] · [[aku-branding-concept]] · [[aku-cualificar-afiliado-cliente-experto-concept]]

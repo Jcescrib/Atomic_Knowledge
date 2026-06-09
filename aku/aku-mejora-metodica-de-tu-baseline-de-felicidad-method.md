@@ -34,6 +34,8 @@ relations:
   related:
     - aku-la-felicidad-es-una-habilidad-que-se-aprende-concept
     - aku-redefinir-agotamiento-eleva-baseline-claim
+    - aku-la-meditacion-con-mantra-baja-el-volumen-de-los-pensamientos-method
+    - aku-minimalismo-digital-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-redefinir-agotamiento-eleva-baseline-claim]]
+**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-redefinir-agotamiento-eleva-baseline-claim]] · [[aku-la-meditacion-con-mantra-baja-el-volumen-de-los-pensamientos-method]] · [[aku-minimalismo-digital-concept]]

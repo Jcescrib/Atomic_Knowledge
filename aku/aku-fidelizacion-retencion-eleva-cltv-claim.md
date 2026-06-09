@@ -27,11 +27,14 @@ relations:
   supported_by: []
   supports: []
   constrained_by: []
-  constrains: [aku-fidelizacion-vs-retencion-concept]
+  constrains:
+    - aku-fidelizacion-vs-retencion-concept
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-cltv-concept]
+  related:
+    - aku-cltv-concept
+    - aku-tres-formas-crecer-concept
 
 sources:
   - raw/cursos/power-mba/5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on/5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on.md
@@ -45,4 +48,4 @@ status_note: ""
 ## Relaciones
 
 **constrains** → [[aku-fidelizacion-vs-retencion-concept]]
-**related** ↔ [[aku-cltv-concept]]
+**related** ↔ [[aku-cltv-concept]] · [[aku-tres-formas-crecer-concept]]

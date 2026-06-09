@@ -34,6 +34,7 @@ relations:
   related:
     - aku-referral-growth-exponential-claim
     - aku-time-delay-value-concept
+    - aku-retencion-no-es-mala-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-referral-growth-exponential-claim]] · [[aku-time-delay-value-concept]]
+**related** ↔ [[aku-referral-growth-exponential-claim]] · [[aku-time-delay-value-concept]] · [[aku-retencion-no-es-mala-claim]]

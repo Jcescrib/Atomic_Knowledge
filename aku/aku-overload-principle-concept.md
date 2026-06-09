@@ -38,6 +38,8 @@ relations:
     - aku-information-overload-7-mas-menos-2-concept
     - aku-overload-neutralizado-por-produccion-atricion-claim
     - aku-anchor-principle-concept
+    - aku-factores-internos-recursos-capacidades-concept
+    - aku-productize-yourself-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -50,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-tagalong-principle-concept]] · [[aku-isolation-principle-concept]] · [[aku-information-overload-7-mas-menos-2-concept]] · [[aku-overload-neutralizado-por-produccion-atricion-claim]] · [[aku-anchor-principle-concept]]
+**related** ↔ [[aku-tagalong-principle-concept]] · [[aku-isolation-principle-concept]] · [[aku-information-overload-7-mas-menos-2-concept]] · [[aku-overload-neutralizado-por-produccion-atricion-claim]] · [[aku-anchor-principle-concept]] · [[aku-factores-internos-recursos-capacidades-concept]] · [[aku-productize-yourself-concept]]

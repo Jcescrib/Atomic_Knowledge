@@ -41,6 +41,7 @@ relations:
   related:
     - aku-ser-una-cosa-segura-y-dejar-trabajar-con-la-realidad-desactiva-sospechas-claim
     - aku-identidad-de-marca-concept
+    - aku-pricing-psychology-el-precio-es-percepcion-concept
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -54,4 +55,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-la-percepcion-es-separable-de-la-realidad-y-puedes-usarla-a-tu-favor-claim]] · [[aku-ser-tu-mismo-es-tu-mayor-fuente-de-poder-presenta-tu-mejor-version-claim]] · [[aku-ciertos-bienes-son-senales-que-dictan-si-te-toman-en-serio-claim]] · [[aku-siempre-te-estan-juzgando-por-tu-presentacion-controla-la-mejor-claim]] · [[aku-subvierte-las-expectativas-da-la-energia-opuesta-para-desarmar-claim]] · [[aku-fake-it-till-you-make-it-proyecta-exito-antes-de-tenerlo-claim]] · [[aku-act-like-you-dont-need-it-la-neediness-repele-la-inalcanzabilidad-atrae-claim]]
-**related** ↔ [[aku-ser-una-cosa-segura-y-dejar-trabajar-con-la-realidad-desactiva-sospechas-claim]] · [[aku-identidad-de-marca-concept]]
+**related** ↔ [[aku-ser-una-cosa-segura-y-dejar-trabajar-con-la-realidad-desactiva-sospechas-claim]] · [[aku-identidad-de-marca-concept]] · [[aku-pricing-psychology-el-precio-es-percepcion-concept]]

@@ -34,6 +34,8 @@ relations:
     - aku-nicho-strategy-concept
     - aku-cuatro-indicadores-mercado-concept
     - aku-commit-to-niche-claim
+    - aku-segmentado-strategy-concept
+    - aku-mass-market-strategy-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-nicho-strategy-concept]] · [[aku-cuatro-indicadores-mercado-concept]] · [[aku-commit-to-niche-claim]]
+**related** ↔ [[aku-nicho-strategy-concept]] · [[aku-cuatro-indicadores-mercado-concept]] · [[aku-commit-to-niche-claim]] · [[aku-segmentado-strategy-concept]] · [[aku-mass-market-strategy-concept]]

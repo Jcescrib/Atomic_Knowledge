@@ -36,6 +36,7 @@ relations:
     - aku-coste-percibido-amplio-concept
     - aku-focus-bottom-value-equation-claim
     - aku-costes-ocultos-oferta-gratis-claim
+    - aku-sacrificar-el-ego-coste-percibido-mayor-que-real-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-value-equation-concept]]
 
-**related** ↔ [[aku-coste-percibido-amplio-concept]] · [[aku-focus-bottom-value-equation-claim]] · [[aku-costes-ocultos-oferta-gratis-claim]]
+**related** ↔ [[aku-coste-percibido-amplio-concept]] · [[aku-focus-bottom-value-equation-claim]] · [[aku-costes-ocultos-oferta-gratis-claim]] · [[aku-sacrificar-el-ego-coste-percibido-mayor-que-real-claim]]

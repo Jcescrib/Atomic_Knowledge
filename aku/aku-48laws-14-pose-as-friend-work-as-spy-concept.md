@@ -34,6 +34,7 @@ relations:
   related:
     - aku-48laws-13-appeal-to-self-interest-concept
     - aku-48laws-15-crush-your-enemy-totally-concept
+    - aku-hesitar-a-veces-es-prudente-claim
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-13-appeal-to-self-interest-concept]] · [[aku-48laws-15-crush-your-enemy-totally-concept]]
+**related** ↔ [[aku-48laws-13-appeal-to-self-interest-concept]] · [[aku-48laws-15-crush-your-enemy-totally-concept]] · [[aku-hesitar-a-veces-es-prudente-claim]]

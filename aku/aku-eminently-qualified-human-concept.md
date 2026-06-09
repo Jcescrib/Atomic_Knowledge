@@ -38,6 +38,8 @@ relations:
     - aku-the-path-concept
     - aku-the-evaluation-concept
     - aku-eqh-no-es-estado-sino-camino-sin-fin-claim
+    - aku-objetivos-personales-concept
+    - aku-habitos-mas-practica-deliberada-igual-maestria-concept
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -50,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-the-code-concept]] · [[aku-the-path-concept]] · [[aku-the-evaluation-concept]] · [[aku-eqh-no-es-estado-sino-camino-sin-fin-claim]]
+**related** ↔ [[aku-the-code-concept]] · [[aku-the-path-concept]] · [[aku-the-evaluation-concept]] · [[aku-eqh-no-es-estado-sino-camino-sin-fin-claim]] · [[aku-objetivos-personales-concept]] · [[aku-habitos-mas-practica-deliberada-igual-maestria-concept]]

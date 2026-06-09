@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-good-mindset-concept
+    - aku-proposito-personal-sostenibilidad-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-good-mindset-concept]]
+**related** ↔ [[aku-good-mindset-concept]] · [[aku-proposito-personal-sostenibilidad-claim]]

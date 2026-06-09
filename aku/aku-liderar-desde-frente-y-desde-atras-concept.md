@@ -41,6 +41,7 @@ relations:
     - aku-transicion-de-par-a-lider-claim
     - aku-delegar-todo-para-liderar-no-pareciendo-vago-claim
     - aku-liderar-con-el-ejemplo-unica-forma-de-ensenar-claim
+    - aku-liderar-vs-gestionar-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -53,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-detach-tactico-estrategico-concept]] · [[aku-pull-off-the-firing-line-claim]] · [[aku-posicionamiento-del-lider-flexible-claim]] · [[aku-decentralizar-proceso-planificacion-claim]] · [[aku-transicion-de-par-a-lider-claim]] · [[aku-delegar-todo-para-liderar-no-pareciendo-vago-claim]] · [[aku-liderar-con-el-ejemplo-unica-forma-de-ensenar-claim]]
+**related** ↔ [[aku-detach-tactico-estrategico-concept]] · [[aku-pull-off-the-firing-line-claim]] · [[aku-posicionamiento-del-lider-flexible-claim]] · [[aku-decentralizar-proceso-planificacion-claim]] · [[aku-transicion-de-par-a-lider-claim]] · [[aku-delegar-todo-para-liderar-no-pareciendo-vago-claim]] · [[aku-liderar-con-el-ejemplo-unica-forma-de-ensenar-claim]] · [[aku-liderar-vs-gestionar-concept]]

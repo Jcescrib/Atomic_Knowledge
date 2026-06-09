@@ -28,7 +28,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-mass-market-strategy-concept
+    - aku-segmentado-strategy-concept
 
 sources:
   - raw/libros/kolenda/pages-viral-marketing/pages-viral-marketing.md
@@ -58,3 +60,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]]
+
+**related** ↔ [[aku-mass-market-strategy-concept]] · [[aku-segmentado-strategy-concept]]

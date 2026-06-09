@@ -35,6 +35,7 @@ relations:
   related:
     - aku-imposter-syndrome-es-bueno-claim
     - aku-lider-conoce-trabajos-y-pide-ayuda-claim
+    - aku-subvierte-las-expectativas-da-la-energia-opuesta-para-desarmar-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-imposter-syndrome-es-bueno-claim]] · [[aku-lider-conoce-trabajos-y-pide-ayuda-claim]]
+**related** ↔ [[aku-imposter-syndrome-es-bueno-claim]] · [[aku-lider-conoce-trabajos-y-pide-ayuda-claim]] · [[aku-subvierte-las-expectativas-da-la-energia-opuesta-para-desarmar-claim]]

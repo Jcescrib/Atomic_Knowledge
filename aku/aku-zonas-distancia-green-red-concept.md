@@ -35,6 +35,7 @@ relations:
   contradicts: []
   related:
     - aku-cadena-cinetica-potencia-golpe-concept
+    - aku-descubrir-que-sobrevives-los-golpes-disuelve-el-miedo-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supported_by** ← [[aku-distance-principle-concept]]
 
-**related** ↔ [[aku-cadena-cinetica-potencia-golpe-concept]]
+**related** ↔ [[aku-cadena-cinetica-potencia-golpe-concept]] · [[aku-descubrir-que-sobrevives-los-golpes-disuelve-el-miedo-claim]]

@@ -25,14 +25,21 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-proposito-mision-concept, aku-vision-empresa-concept, aku-valores-marca-concept]
+  supported_by:
+    - aku-proposito-mision-concept
+    - aku-vision-empresa-concept
+    - aku-valores-marca-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-okr-concept, aku-cultura-corporativa-concept]
+  related:
+    - aku-okr-concept
+    - aku-cultura-corporativa-concept
+    - aku-feedback-hacia-arriba-cadena-claim
+    - aku-prioritize-and-execute-pasos-method
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -46,4 +53,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-proposito-mision-concept]] · [[aku-vision-empresa-concept]] · [[aku-valores-marca-concept]]
-**related** ↔ [[aku-okr-concept]] · [[aku-cultura-corporativa-concept]]
+**related** ↔ [[aku-okr-concept]] · [[aku-cultura-corporativa-concept]] · [[aku-feedback-hacia-arriba-cadena-claim]] · [[aku-prioritize-and-execute-pasos-method]]

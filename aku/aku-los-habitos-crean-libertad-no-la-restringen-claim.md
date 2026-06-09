@@ -35,6 +35,7 @@ relations:
     - aku-habito-concept
     - aku-discipline-equals-freedom-concept
     - aku-disciplina-da-libertad-de-maniobra-claim
+    - aku-aceptar-que-todo-depende-de-ti-es-liberador-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habito-concept]] · [[aku-discipline-equals-freedom-concept]] · [[aku-disciplina-da-libertad-de-maniobra-claim]]
+**related** ↔ [[aku-habito-concept]] · [[aku-discipline-equals-freedom-concept]] · [[aku-disciplina-da-libertad-de-maniobra-claim]] · [[aku-aceptar-que-todo-depende-de-ti-es-liberador-claim]]

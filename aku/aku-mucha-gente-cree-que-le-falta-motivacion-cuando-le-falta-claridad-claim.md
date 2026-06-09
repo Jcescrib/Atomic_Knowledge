@@ -34,6 +34,8 @@ relations:
   contradicts: []
   related:
     - aku-implementation-intention-method
+    - aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim
+    - aku-adaptar-las-palabras-al-escenario-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-implementation-intention-method]]
+**related** ↔ [[aku-implementation-intention-method]] · [[aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim]] · [[aku-adaptar-las-palabras-al-escenario-claim]]

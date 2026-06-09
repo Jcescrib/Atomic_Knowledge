@@ -33,6 +33,7 @@ relations:
   related:
     - aku-accountability-bajo-tu-nombre-concept
     - aku-juicio-demostrado-con-credibilidad-atrae-leverage-infinito-claim
+    - aku-el-exito-se-construye-sobre-el-fracaso-repetido-y-la-introspeccion-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-accountability-bajo-tu-nombre-concept]] · [[aku-juicio-demostrado-con-credibilidad-atrae-leverage-infinito-claim]]
+**related** ↔ [[aku-accountability-bajo-tu-nombre-concept]] · [[aku-juicio-demostrado-con-credibilidad-atrae-leverage-infinito-claim]] · [[aku-el-exito-se-construye-sobre-el-fracaso-repetido-y-la-introspeccion-claim]]

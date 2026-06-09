@@ -28,7 +28,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-precio-alto-aumenta-valor-percibido-claim
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -47,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
+
+**related** ↔ [[aku-precio-alto-aumenta-valor-percibido-claim]]

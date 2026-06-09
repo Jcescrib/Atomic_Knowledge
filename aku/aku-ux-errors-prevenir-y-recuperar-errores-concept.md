@@ -34,7 +34,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-preemptive-ownership-concept
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -50,3 +51,5 @@ status_note: ""
 **supports** → [[aku-ux-cinco-guidelines-de-usabilidad-concept]]
 
 **supported_by** ← [[aku-prevenir-errores-restringiendo-las-entradas-claim]] · [[aku-comunicar-los-requisitos-de-una-interaccion-claim]] · [[aku-monitorizar-senales-tipicas-de-error-poka-yoke-claim]] · [[aku-ofrecer-formas-faciles-de-deshacer-o-escapar-undo-claim]] · [[aku-ayudar-al-usuario-a-resolver-el-error-claim]] · [[aku-evitar-decir-tu-en-los-mensajes-de-error-claim]]
+
+**related** ↔ [[aku-preemptive-ownership-concept]]

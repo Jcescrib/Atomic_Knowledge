@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-habits-scorecard-method
+    - aku-no-hay-espacio-para-el-exito-y-los-suckers-alejate-del-entorno-toxico-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habits-scorecard-method]]
+**related** ↔ [[aku-habits-scorecard-method]] · [[aku-no-hay-espacio-para-el-exito-y-los-suckers-alejate-del-entorno-toxico-claim]]

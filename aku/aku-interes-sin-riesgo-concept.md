@@ -31,7 +31,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-tasa-de-descuento-concept, aku-prima-de-riesgo-concept]
+  related:
+    - aku-tasa-de-descuento-concept
+    - aku-prima-de-riesgo-concept
+    - aku-negocio-sin-ti-es-activo-claim
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -44,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-tasa-de-descuento-concept]] · [[aku-prima-de-riesgo-concept]]
+**related** ↔ [[aku-tasa-de-descuento-concept]] · [[aku-prima-de-riesgo-concept]] · [[aku-negocio-sin-ti-es-activo-claim]]

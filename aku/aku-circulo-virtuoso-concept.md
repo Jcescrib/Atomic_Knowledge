@@ -40,6 +40,7 @@ relations:
     - aku-masa-critica-concept
     - aku-circulo-vicioso-concept
     - aku-free-bootstrap-plataforma-claim
+    - aku-virtuous-cycle-of-price-claim
 
 sources:
   - "raw/cursos/power-mba/2-3-conceptos-clave-de-las-plataformas/2-3-conceptos-clave-de-las-plataformas.md"
@@ -54,4 +55,4 @@ status_note: ""
 
 **supported_by** ← [[aku-network-effect-concept]]
 
-**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-masa-critica-concept]] · [[aku-circulo-vicioso-concept]] · [[aku-free-bootstrap-plataforma-claim]]
+**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-masa-critica-concept]] · [[aku-circulo-vicioso-concept]] · [[aku-free-bootstrap-plataforma-claim]] · [[aku-virtuous-cycle-of-price-claim]]

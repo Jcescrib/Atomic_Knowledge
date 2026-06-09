@@ -27,13 +27,18 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-flywheel-funnel-concept]
+  supports:
+    - aku-flywheel-funnel-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-velocidad-flywheel-concept]
+  related:
+    - aku-velocidad-flywheel-concept
+    - aku-automatiza-tus-habitos-con-tecnologia-y-decisiones-unicas-method
+    - aku-volumen-cold-tres-palancas-concept
+    - aku-create-flow-monetize-flow-add-friction-claim
 
 sources:
   - raw/cursos/power-mba/5-8-2-flywheel-funnel/5-8-2-flywheel-funnel.md
@@ -47,4 +52,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-flywheel-funnel-concept]]
-**related** ↔ [[aku-velocidad-flywheel-concept]]
+**related** ↔ [[aku-velocidad-flywheel-concept]] · [[aku-automatiza-tus-habitos-con-tecnologia-y-decisiones-unicas-method]] · [[aku-volumen-cold-tres-palancas-concept]] · [[aku-create-flow-monetize-flow-add-friction-claim]]

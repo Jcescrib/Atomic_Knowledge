@@ -31,7 +31,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-tu-rol-cambiara-nunca-te-acomodes-en-tu-track-record-claim, aku-quedarse-anclado-en-una-epoca-o-mentalidad-te-envejece-prematuramente-claim]
+  related:
+    - aku-tu-rol-cambiara-nunca-te-acomodes-en-tu-track-record-claim
+    - aku-quedarse-anclado-en-una-epoca-o-mentalidad-te-envejece-prematuramente-claim
+    - aku-no-necesitas-ser-consciente-del-cue-para-que-un-habito-empiece-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -44,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-tu-rol-cambiara-nunca-te-acomodes-en-tu-track-record-claim]] · [[aku-quedarse-anclado-en-una-epoca-o-mentalidad-te-envejece-prematuramente-claim]]
+**related** ↔ [[aku-tu-rol-cambiara-nunca-te-acomodes-en-tu-track-record-claim]] · [[aku-quedarse-anclado-en-una-epoca-o-mentalidad-te-envejece-prematuramente-claim]] · [[aku-no-necesitas-ser-consciente-del-cue-para-que-un-habito-empiece-claim]]

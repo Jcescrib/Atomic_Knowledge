@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-colocar-la-opcion-objetivo-primera-o-ultima-claim
+    - aku-depletion-principle-concept
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
-**related** ↔ [[aku-colocar-la-opcion-objetivo-primera-o-ultima-claim]]
+**related** ↔ [[aku-colocar-la-opcion-objetivo-primera-o-ultima-claim]] · [[aku-depletion-principle-concept]]

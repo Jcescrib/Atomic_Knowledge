@@ -36,6 +36,9 @@ relations:
   related:
     - aku-impaciencia-con-las-acciones-paciencia-con-los-resultados-claim
     - aku-haz-algo-fisico-cada-dia-el-mejor-ejercicio-es-el-que-haras-cada-dia-claim
+    - aku-decide-despacio-actua-rapido-y-deja-que-el-acto-dure-decadas-claim
+    - aku-entrenamiento-realismo-fundamentos-repeticion-method
+    - aku-paso-agresivo-hacia-el-miedo-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -48,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-impaciencia-con-las-acciones-paciencia-con-los-resultados-claim]] · [[aku-haz-algo-fisico-cada-dia-el-mejor-ejercicio-es-el-que-haras-cada-dia-claim]]
+**related** ↔ [[aku-impaciencia-con-las-acciones-paciencia-con-los-resultados-claim]] · [[aku-haz-algo-fisico-cada-dia-el-mejor-ejercicio-es-el-que-haras-cada-dia-claim]] · [[aku-decide-despacio-actua-rapido-y-deja-que-el-acto-dure-decadas-claim]] · [[aku-entrenamiento-realismo-fundamentos-repeticion-method]] · [[aku-paso-agresivo-hacia-el-miedo-claim]]

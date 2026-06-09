@@ -36,6 +36,7 @@ relations:
     - aku-vender-menos-aumenta-demanda-claim
     - aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept
     - aku-la-ira-es-un-contrato-para-el-tormento-y-su-propio-castigo-concept
+    - aku-cialdini-escasez-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-marketing-influye-oferta-demanda-concept]] · [[aku-vender-menos-aumenta-demanda-claim]] · [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]] · [[aku-la-ira-es-un-contrato-para-el-tormento-y-su-propio-castigo-concept]]
+**related** ↔ [[aku-marketing-influye-oferta-demanda-concept]] · [[aku-vender-menos-aumenta-demanda-claim]] · [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]] · [[aku-la-ira-es-un-contrato-para-el-tormento-y-su-propio-castigo-concept]] · [[aku-cialdini-escasez-concept]]

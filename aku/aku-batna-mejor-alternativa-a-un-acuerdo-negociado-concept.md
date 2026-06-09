@@ -30,7 +30,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -44,3 +45,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]] · [[aku-mejorar-tus-batnas-antes-de-negociar-claim]] · [[aku-mencionar-tus-batnas-claim]]
+
+**related** ↔ [[aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim]]

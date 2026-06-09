@@ -35,6 +35,8 @@ relations:
     - aku-riches-in-niches-pricing-claim
     - aku-nicho-strategy-concept
     - aku-nicho-recomendado-lanzamiento-claim
+    - aku-comparativa-mass-market-vs-nicho-concept
+    - aku-segmentacion-especializada-coste-vs-diferenciacion-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-riches-in-niches-pricing-claim]] · [[aku-nicho-strategy-concept]] · [[aku-nicho-recomendado-lanzamiento-claim]]
+**related** ↔ [[aku-riches-in-niches-pricing-claim]] · [[aku-nicho-strategy-concept]] · [[aku-nicho-recomendado-lanzamiento-claim]] · [[aku-comparativa-mass-market-vs-nicho-concept]] · [[aku-segmentacion-especializada-coste-vs-diferenciacion-concept]]

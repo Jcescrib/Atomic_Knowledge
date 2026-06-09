@@ -43,6 +43,7 @@ relations:
     - aku-flywheel-funnel-concept
     - aku-cialdini-pertenencia-concept
     - aku-continuity-offer-concept
+    - aku-facilitar-cancelacion
 
 sources:
   - raw/cursos/power-mba/5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on/5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on.md
@@ -57,4 +58,4 @@ status_note: ""
 
 **supports** → [[aku-retencion-no-es-mala-claim]]
 **constrained_by** ← [[aku-fidelizacion-retencion-eleva-cltv-claim]]
-**related** ↔ [[aku-churn-rate-concept]] · [[aku-costes-de-cambio-concept]] · [[aku-power-funnel-concept]] · [[aku-flywheel-funnel-concept]] · [[aku-cialdini-pertenencia-concept]] · [[aku-continuity-offer-concept]]
+**related** ↔ [[aku-churn-rate-concept]] · [[aku-costes-de-cambio-concept]] · [[aku-power-funnel-concept]] · [[aku-flywheel-funnel-concept]] · [[aku-cialdini-pertenencia-concept]] · [[aku-continuity-offer-concept]] · [[aku-facilitar-cancelacion]]

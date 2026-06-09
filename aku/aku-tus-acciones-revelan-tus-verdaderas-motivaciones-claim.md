@@ -33,6 +33,8 @@ relations:
   related:
     - aku-intenciones-no-importan-importan-las-acciones-claim
     - aku-motivaciones-desde-experiencias-pasadas-concept
+    - aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim
+    - aku-autoevaluacion-honesta-you-vs-you-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-intenciones-no-importan-importan-las-acciones-claim]] · [[aku-motivaciones-desde-experiencias-pasadas-concept]]
+**related** ↔ [[aku-intenciones-no-importan-importan-las-acciones-claim]] · [[aku-motivaciones-desde-experiencias-pasadas-concept]] · [[aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim]] · [[aku-autoevaluacion-honesta-you-vs-you-claim]]

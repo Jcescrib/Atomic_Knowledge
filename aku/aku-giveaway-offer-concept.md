@@ -40,6 +40,8 @@ relations:
     - aku-giveaway-fallo-grand-prize
     - aku-giveaway-urgencia-tres-lugares
     - aku-lead-magnet-concurso-sorteo-concept
+    - aku-incentivized-ads-concept
+    - aku-lead-magnet-resumen-visita-concept
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -54,4 +56,4 @@ status_note: ""
 
 **supports** → [[aku-attraction-offer-concept]]
 
-**related** ↔ [[aku-giveaway-seis-pasos-method]] · [[aku-giveaway-descuento-10-30-margen]] · [[aku-giveaway-dos-premios-doblan-leads]] · [[aku-giveaway-fallo-grand-prize]] · [[aku-giveaway-urgencia-tres-lugares]] · [[aku-lead-magnet-concurso-sorteo-concept]]
+**related** ↔ [[aku-giveaway-seis-pasos-method]] · [[aku-giveaway-descuento-10-30-margen]] · [[aku-giveaway-dos-premios-doblan-leads]] · [[aku-giveaway-fallo-grand-prize]] · [[aku-giveaway-urgencia-tres-lugares]] · [[aku-lead-magnet-concurso-sorteo-concept]] · [[aku-incentivized-ads-concept]] · [[aku-lead-magnet-resumen-visita-concept]]

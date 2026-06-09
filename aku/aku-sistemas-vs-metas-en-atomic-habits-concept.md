@@ -37,6 +37,11 @@ relations:
   related:
     - aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept
     - aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim
+    - aku-the-evaluation-concept
+    - aku-los-vision-boards-materializan-las-metas-y-elevan-su-probabilidad-claim
+    - aku-tu-vision-debe-evolucionar-y-escalar-con-el-tiempo-claim
+    - aku-los-verdaderos-ganadores-salen-del-juego-por-completo-claim
+    - aku-objetivos-vs-resultados-clave-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -49,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept]] · [[aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim]]
+**related** ↔ [[aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept]] · [[aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim]] · [[aku-the-evaluation-concept]] · [[aku-los-vision-boards-materializan-las-metas-y-elevan-su-probabilidad-claim]] · [[aku-tu-vision-debe-evolucionar-y-escalar-con-el-tiempo-claim]] · [[aku-los-verdaderos-ganadores-salen-del-juego-por-completo-claim]] · [[aku-objetivos-vs-resultados-clave-concept]]

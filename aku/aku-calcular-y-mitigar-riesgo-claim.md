@@ -35,6 +35,8 @@ relations:
     - aku-los-que-no-arriesgan-no-ganan-claim
     - aku-aggressive-not-reckless-concept
     - aku-sopesar-riesgo-recompensa-coste-inaccion-claim
+    - aku-fearlessness-no-es-ausencia-de-miedo-concept
+    - aku-blitzscaling-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -49,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-planning-process-estandarizado-concept]]
 
-**related** ↔ [[aku-los-que-no-arriesgan-no-ganan-claim]] · [[aku-aggressive-not-reckless-concept]] · [[aku-sopesar-riesgo-recompensa-coste-inaccion-claim]]
+**related** ↔ [[aku-los-que-no-arriesgan-no-ganan-claim]] · [[aku-aggressive-not-reckless-concept]] · [[aku-sopesar-riesgo-recompensa-coste-inaccion-claim]] · [[aku-fearlessness-no-es-ausencia-de-miedo-concept]] · [[aku-blitzscaling-concept]]

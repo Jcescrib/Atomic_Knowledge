@@ -35,6 +35,8 @@ relations:
   related:
     - aku-habito-atomico-concept
     - aku-habitos-mas-practica-deliberada-igual-maestria-concept
+    - aku-lideres-nunca-satisfechos-mejora-continua-claim
+    - aku-mejorar-mas-dificil-al-crecer-capacidad-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habito-atomico-concept]] · [[aku-habitos-mas-practica-deliberada-igual-maestria-concept]]
+**related** ↔ [[aku-habito-atomico-concept]] · [[aku-habitos-mas-practica-deliberada-igual-maestria-concept]] · [[aku-lideres-nunca-satisfechos-mejora-continua-claim]] · [[aku-mejorar-mas-dificil-al-crecer-capacidad-claim]]

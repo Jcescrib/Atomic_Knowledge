@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-redirection-principle-concept
+    - aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-redirection-principle-concept]]
+**related** ↔ [[aku-redirection-principle-concept]] · [[aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept]]

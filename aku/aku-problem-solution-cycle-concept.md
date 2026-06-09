@@ -36,6 +36,9 @@ relations:
     - aku-tipos-lead-magnet-concept
     - aku-problemas-a-soluciones-concept
     - aku-problem-solution-fit-concept
+    - aku-explorar-alternativas-actuales-method
+    - aku-desglosar-propuesta-valor-componentes-method
+    - aku-entrevista-problem-solution-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -50,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-lead-magnet-concept]]
 
-**related** ↔ [[aku-tipos-lead-magnet-concept]] · [[aku-problemas-a-soluciones-concept]] · [[aku-problem-solution-fit-concept]]
+**related** ↔ [[aku-tipos-lead-magnet-concept]] · [[aku-problemas-a-soluciones-concept]] · [[aku-problem-solution-fit-concept]] · [[aku-explorar-alternativas-actuales-method]] · [[aku-desglosar-propuesta-valor-componentes-method]] · [[aku-entrevista-problem-solution-concept]]

@@ -38,6 +38,7 @@ relations:
   related:
     - aku-cuatro-tipos-oferta-concept
     - aku-client-financed-acquisition-concept
+    - aku-cac-concept
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -52,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-money-model-concept]]
 
-**related** ↔ [[aku-cuatro-tipos-oferta-concept]] · [[aku-client-financed-acquisition-concept]]
+**related** ↔ [[aku-cuatro-tipos-oferta-concept]] · [[aku-client-financed-acquisition-concept]] · [[aku-cac-concept]]

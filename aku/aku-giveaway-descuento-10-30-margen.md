@@ -33,6 +33,7 @@ relations:
   related:
     - aku-giveaway-offer-concept
     - aku-margen-bruto-concept
+    - aku-ofrecer-descuentos-con-digitos-derechos-bajos-claim
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-giveaway-offer-concept]] · [[aku-margen-bruto-concept]]
+**related** ↔ [[aku-giveaway-offer-concept]] · [[aku-margen-bruto-concept]] · [[aku-ofrecer-descuentos-con-digitos-derechos-bajos-claim]]

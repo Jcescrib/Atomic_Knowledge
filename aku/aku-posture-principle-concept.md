@@ -40,6 +40,7 @@ relations:
     - aku-false-surrender-principle-concept
     - aku-head-control-principle-concept
     - aku-atacar-el-linchpin-del-argumento-claim
+    - aku-dicta-quien-es-tu-oponente-compite-contra-el-mejor-en-tu-terreno-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -54,4 +55,4 @@ status_note: ""
 
 **supports** → [[aku-postura-estatica-vs-dinamica-concept]]
 
-**related** ↔ [[aku-fork-principle-concept]] · [[aku-distance-principle-concept]] · [[aku-clock-principle-concept]] · [[aku-false-surrender-principle-concept]] · [[aku-head-control-principle-concept]] · [[aku-atacar-el-linchpin-del-argumento-claim]]
+**related** ↔ [[aku-fork-principle-concept]] · [[aku-distance-principle-concept]] · [[aku-clock-principle-concept]] · [[aku-false-surrender-principle-concept]] · [[aku-head-control-principle-concept]] · [[aku-atacar-el-linchpin-del-argumento-claim]] · [[aku-dicta-quien-es-tu-oponente-compite-contra-el-mejor-en-tu-terreno-claim]]

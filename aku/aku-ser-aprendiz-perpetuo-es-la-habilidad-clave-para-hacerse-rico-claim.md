@@ -33,6 +33,7 @@ relations:
   related:
     - aku-modelos-mentales-concept
     - aku-maestro-nunca-deja-de-aprender-humildad-claim
+    - aku-aprender-pensando-por-uno-mismo-descubre-mas-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelos-mentales-concept]] · [[aku-maestro-nunca-deja-de-aprender-humildad-claim]]
+**related** ↔ [[aku-modelos-mentales-concept]] · [[aku-maestro-nunca-deja-de-aprender-humildad-claim]] · [[aku-aprender-pensando-por-uno-mismo-descubre-mas-claim]]

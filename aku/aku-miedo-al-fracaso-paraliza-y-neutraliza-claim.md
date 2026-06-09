@@ -34,6 +34,7 @@ relations:
   related:
     - aku-pyramid-principle-concept
     - aku-miedo-al-fracaso-es-bueno-claim
+    - aku-el-miedo-que-interrumpe-tu-rutina-ya-te-domina-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-pyramid-principle-concept]] · [[aku-miedo-al-fracaso-es-bueno-claim]]
+**related** ↔ [[aku-pyramid-principle-concept]] · [[aku-miedo-al-fracaso-es-bueno-claim]] · [[aku-el-miedo-que-interrumpe-tu-rutina-ya-te-domina-claim]]

@@ -37,6 +37,7 @@ relations:
     - aku-atribucion-sesgada-exito-fracaso-claim
     - aku-cortar-cancers-del-equipo-rapido-claim
     - aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim
+    - aku-liderazgo-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -51,4 +52,4 @@ status_note: ""
 
 **contradicts** ↔ [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-atribucion-sesgada-exito-fracaso-claim]] · [[aku-cortar-cancers-del-equipo-rapido-claim]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]]
+**related** ↔ [[aku-atribucion-sesgada-exito-fracaso-claim]] · [[aku-cortar-cancers-del-equipo-rapido-claim]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]] · [[aku-liderazgo-concept]]

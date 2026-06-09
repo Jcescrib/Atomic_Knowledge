@@ -34,6 +34,7 @@ relations:
   related:
     - aku-garantia-reversion-riesgo-concept
     - aku-palabras-frases-persuasivas-concept
+    - aku-proceso-cro-method
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-garantia-reversion-riesgo-concept]] · [[aku-palabras-frases-persuasivas-concept]]
+**related** ↔ [[aku-garantia-reversion-riesgo-concept]] · [[aku-palabras-frases-persuasivas-concept]] · [[aku-proceso-cro-method]]

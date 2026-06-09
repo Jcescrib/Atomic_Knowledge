@@ -40,6 +40,8 @@ relations:
     - aku-goodwill-genera-referidos-concept
     - aku-no-bajar-precio-mismo-producto-claim
     - aku-price-to-value-discrepancy-concept
+    - aku-innovacion-valor-via-eric-claim
+    - aku-innovacion-valor-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -52,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-ecuacion-valor-claim]] · [[aku-reducir-costes-no-precio-claim]] · [[aku-virtuous-cycle-of-price-claim]] · [[aku-bonuses-stack-concept]] · [[aku-goodwill-genera-referidos-concept]] · [[aku-no-bajar-precio-mismo-producto-claim]] · [[aku-price-to-value-discrepancy-concept]]
+**related** ↔ [[aku-ecuacion-valor-claim]] · [[aku-reducir-costes-no-precio-claim]] · [[aku-virtuous-cycle-of-price-claim]] · [[aku-bonuses-stack-concept]] · [[aku-goodwill-genera-referidos-concept]] · [[aku-no-bajar-precio-mismo-producto-claim]] · [[aku-price-to-value-discrepancy-concept]] · [[aku-innovacion-valor-via-eric-claim]] · [[aku-innovacion-valor-concept]]

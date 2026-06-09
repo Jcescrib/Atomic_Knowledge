@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-cold-outreach-concept
+    - aku-usa-maven-groups-para-promover-contenido-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cold-outreach-concept]]
+**related** ↔ [[aku-cold-outreach-concept]] · [[aku-usa-maven-groups-para-promover-contenido-claim]]

@@ -44,6 +44,8 @@ relations:
     - aku-roe-concept
     - aku-apalancamiento-financiero-concept
     - aku-equity-es-el-upside-deuda-es-downside-garantizado-concept
+    - aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim
+    - aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -57,4 +59,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ratio-de-apalancamiento-method]] · [[aku-wacc-method]]
-**related** ↔ [[aku-escudo-fiscal-concept]] · [[aku-coste-fondos-propios-ke-concept]] · [[aku-coste-deuda-kd-concept]] · [[aku-apalancamiento-aumenta-roe-claim]] · [[aku-apalancamiento-aumenta-riesgo-claim]] · [[aku-apalancamiento-valoracion-optimo-claim]] · [[aku-roe-concept]] · [[aku-apalancamiento-financiero-concept]] · [[aku-equity-es-el-upside-deuda-es-downside-garantizado-concept]]
+**related** ↔ [[aku-escudo-fiscal-concept]] · [[aku-coste-fondos-propios-ke-concept]] · [[aku-coste-deuda-kd-concept]] · [[aku-apalancamiento-aumenta-roe-claim]] · [[aku-apalancamiento-aumenta-riesgo-claim]] · [[aku-apalancamiento-valoracion-optimo-claim]] · [[aku-roe-concept]] · [[aku-apalancamiento-financiero-concept]] · [[aku-equity-es-el-upside-deuda-es-downside-garantizado-concept]] · [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]] · [[aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method]]

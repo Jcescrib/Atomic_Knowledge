@@ -1092,3 +1092,9 @@ Integración del grafo 50-cent: cableado de puentes (b) aprobados + 2 TAKUs + au
 - **Resultado**: **~75% skip** (confirma rigor: cablear los 11.521 candidatos brutos habría sido ruido). **133 puentes nivel (a) anclados-en-texto aplicados** como `related` (validados, dedup, simétricos). **513 propuestas nivel (b) conceptuales** → `_meta/auditoria-puentes-b-2026-06-09.md` (pendientes de aprobación de Joan, por regla §3-niveles).
 - Ejemplos (a) aplicados: cialdini-escasez↔scarcity-limited-seats · primera-oferta-anclaje↔número-en-la-cabeza-es-pérdida · deseo-no-tener↔deseo-contrato-Naval · café-pasteles↔reciprocidad-Cialdini · equity-vs-deuda↔{roe,wacc,escudo-fiscal,ratio-apalancamiento} · camino-menor-resistencia(Jocko)↔reduce-fricción-hábito(Clear) · methods-step7↔compromiso-consistencia-Cialdini.
 - verify_graph: 2383/2383 simétrico, **0 errores**. 1 componente, 0 huérfanos. Sub-conectados 1493→1445.
+
+## 2026-06-09 — audit (cont.): aplicadas las 513 propuestas (b) [aprobado por Joan]
+- Joan aprobó aplicar las 513 propuestas conceptuales nivel (b) directamente como `related`.
+- **513 aristas (b) cableadas** (validadas, dedup, simétricas, 0 descartadas). Distribución: hormozi↔power-mba 99, james-clear↔naval 48, jocko↔power-mba 43, kolenda↔power-mba 39, 50-cent↔jocko 38, etc.
+- **Total integración cross-corpus de la sesión: 648 puentes** (2 decoy + 133 nivel-a + 513 nivel-b).
+- verify_graph: 2383/2383 simétrico, **0 errores**. 1 componente, 0 huérfanos. Sub-conectados 1493→1233 (260 nodos mejor integrados).

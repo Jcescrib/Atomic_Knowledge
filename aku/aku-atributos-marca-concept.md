@@ -31,7 +31,11 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-valores-marca-concept, aku-posicionamiento-concept, aku-posicionamiento-apoyarse-en-atributo-concept]
+  related:
+    - aku-valores-marca-concept
+    - aku-posicionamiento-concept
+    - aku-posicionamiento-apoyarse-en-atributo-concept
+    - aku-primar-la-eleccion-con-diseno-visual-semantic-priming-claim
 
 sources:
   - raw/cursos/power-mba/4-4-branding/4-4-branding.md
@@ -44,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-valores-marca-concept]] · [[aku-posicionamiento-concept]] · [[aku-posicionamiento-apoyarse-en-atributo-concept]]
+**related** ↔ [[aku-valores-marca-concept]] · [[aku-posicionamiento-concept]] · [[aku-posicionamiento-apoyarse-en-atributo-concept]] · [[aku-primar-la-eleccion-con-diseno-visual-semantic-priming-claim]]

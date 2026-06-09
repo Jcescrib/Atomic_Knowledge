@@ -31,7 +31,11 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-commodity-concept, aku-estrategia-diferenciacion-concept, aku-liderazgo-en-coste-concept]
+  related:
+    - aku-commodity-concept
+    - aku-estrategia-diferenciacion-concept
+    - aku-liderazgo-en-coste-concept
+    - aku-alinear-las-caracteristicas-con-las-de-la-competencia-claim
 
 sources:
   - raw/cursos/power-mba/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
@@ -44,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-commodity-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-liderazgo-en-coste-concept]]
+**related** ↔ [[aku-commodity-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-liderazgo-en-coste-concept]] · [[aku-alinear-las-caracteristicas-con-las-de-la-competencia-claim]]

@@ -37,6 +37,7 @@ relations:
   related:
     - aku-detach-tactico-estrategico-concept
     - aku-prioritize-and-execute-concept
+    - aku-lean-startup-method-concept
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-detach-tactico-estrategico-concept]] · [[aku-prioritize-and-execute-concept]]
+**related** ↔ [[aku-detach-tactico-estrategico-concept]] · [[aku-prioritize-and-execute-concept]] · [[aku-lean-startup-method-concept]]

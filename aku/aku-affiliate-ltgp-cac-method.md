@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-cltv-concept
+    - aku-cltv-minus-cac-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cltv-concept]]
+**related** ↔ [[aku-cltv-concept]] · [[aku-cltv-minus-cac-concept]]

@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-32-principios-jiu-jitsu-concept
+    - aku-labor-es-la-peor-forma-de-leverage-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-32-principios-jiu-jitsu-concept]]
+**related** ↔ [[aku-32-principios-jiu-jitsu-concept]] · [[aku-labor-es-la-peor-forma-de-leverage-claim]]

@@ -34,6 +34,8 @@ relations:
   related:
     - aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept
     - aku-homeostasis-glucosa-insulina-concept
+    - aku-dieta-paleo-fuel-concept
+    - aku-azucar-es-adictivo-como-droga-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-homeostasis-glucosa-insulina-concept]]
+**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-homeostasis-glucosa-insulina-concept]] · [[aku-dieta-paleo-fuel-concept]] · [[aku-azucar-es-adictivo-como-droga-claim]]

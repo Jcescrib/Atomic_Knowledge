@@ -30,7 +30,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-delivery-vehicles-concept
+    - aku-delivery-cube-concept
 
 sources:
   - raw/cursos/power-mba/5-4-9-marketing-de-contenidos-formatos-m-as-habituales/5-4-9-marketing-de-contenidos-formatos-m-as-habituales.md
@@ -44,3 +46,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-formatos-marketing-contenidos-concept]]
+
+**related** ↔ [[aku-delivery-vehicles-concept]] · [[aku-delivery-cube-concept]]

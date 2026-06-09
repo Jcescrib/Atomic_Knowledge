@@ -37,6 +37,11 @@ relations:
     - aku-estimulos-supernormales-concept
     - aku-comida-basura-es-veneno-claim
     - aku-las-personas-disciplinadas-estructuran-su-entorno-para-no-necesitar-fuerza-de-voluntad-claim
+    - aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim
+    - aku-los-habitos-son-un-bucle-de-retroalimentacion-de-dopamina-claim
+    - aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim
+    - aku-me-versus-me-superarte-a-ti-mismo-claim
+    - aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -49,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-estimulos-supernormales-concept]] · [[aku-comida-basura-es-veneno-claim]] · [[aku-las-personas-disciplinadas-estructuran-su-entorno-para-no-necesitar-fuerza-de-voluntad-claim]]
+**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-estimulos-supernormales-concept]] · [[aku-comida-basura-es-veneno-claim]] · [[aku-las-personas-disciplinadas-estructuran-su-entorno-para-no-necesitar-fuerza-de-voluntad-claim]] · [[aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim]] · [[aku-los-habitos-son-un-bucle-de-retroalimentacion-de-dopamina-claim]] · [[aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim]] · [[aku-me-versus-me-superarte-a-ti-mismo-claim]] · [[aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim]]

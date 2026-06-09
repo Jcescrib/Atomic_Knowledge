@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-permissioned-vs-permissionless-leverage-concept
+    - aku-palanca-vence-fuerza-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-permissioned-vs-permissionless-leverage-concept]]
+**related** ↔ [[aku-permissioned-vs-permissionless-leverage-concept]] · [[aku-palanca-vence-fuerza-claim]]

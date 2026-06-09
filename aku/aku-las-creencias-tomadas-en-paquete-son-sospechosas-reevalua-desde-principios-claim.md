@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-modelos-mentales-concept
+    - aku-boyd-belt-system-method
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelos-mentales-concept]]
+**related** ↔ [[aku-modelos-mentales-concept]] · [[aku-boyd-belt-system-method]]

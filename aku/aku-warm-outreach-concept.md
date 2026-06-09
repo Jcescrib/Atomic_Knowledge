@@ -46,6 +46,7 @@ relations:
     - aku-nueve-word-email-claim
     - aku-warm-outreach-benchmarks-method
     - aku-warm-outreach-money-math-method
+    - aku-lead-magnet-resumen-visita-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -60,4 +61,4 @@ status_note: ""
 
 **supports** → [[aku-core-four-concept]]
 
-**related** ↔ [[aku-warm-cold-audience-concept]] · [[aku-todos-tienen-lista-claim]] · [[aku-aca-framework-concept]] · [[aku-first-five-free-claim]] · [[aku-cold-outreach-concept]] · [[aku-comunicacion-1a1-vs-1amuchos-concept]] · [[aku-warm-outreach-diez-pasos-concept]] · [[aku-warm-outreach-100-al-dia-claim]] · [[aku-preguntar-si-conocen-no-vender-claim]] · [[aku-subir-precio-cada-cinco-claim]] · [[aku-nueve-word-email-claim]] · [[aku-warm-outreach-benchmarks-method]] · [[aku-warm-outreach-money-math-method]]
+**related** ↔ [[aku-warm-cold-audience-concept]] · [[aku-todos-tienen-lista-claim]] · [[aku-aca-framework-concept]] · [[aku-first-five-free-claim]] · [[aku-cold-outreach-concept]] · [[aku-comunicacion-1a1-vs-1amuchos-concept]] · [[aku-warm-outreach-diez-pasos-concept]] · [[aku-warm-outreach-100-al-dia-claim]] · [[aku-preguntar-si-conocen-no-vender-claim]] · [[aku-subir-precio-cada-cinco-claim]] · [[aku-nueve-word-email-claim]] · [[aku-warm-outreach-benchmarks-method]] · [[aku-warm-outreach-money-math-method]] · [[aku-lead-magnet-resumen-visita-concept]]

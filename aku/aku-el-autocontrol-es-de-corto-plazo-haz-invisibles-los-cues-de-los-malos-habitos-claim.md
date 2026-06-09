@@ -36,6 +36,7 @@ relations:
   related:
     - aku-el-contexto-es-el-cue-un-espacio-un-uso-concept
     - aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim
+    - aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -48,6 +49,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-contexto-es-el-cue-un-espacio-un-uso-concept]] · [[aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim]]
+**related** ↔ [[aku-el-contexto-es-el-cue-un-espacio-un-uso-concept]] · [[aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim]] · [[aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept]]
 
 **supports** → [[aku-cuatro-leyes-del-cambio-de-conducta-concept]]

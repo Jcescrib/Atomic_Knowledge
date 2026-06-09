@@ -37,6 +37,8 @@ relations:
     - aku-encuentra-trabajo-que-se-sienta-como-juego-claim
     - aku-eres-irremplazable-encuentra-lo-que-mas-te-necesita-claim
     - aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim
+    - aku-dirigirse-a-no-buscadores-mayor-conversion-claim
+    - aku-nunca-terminas-de-competir-al-final-compites-contigo-mismo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -49,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-se-el-mejor-del-mundo-redefiniendo-lo-que-haces-claim]] · [[aku-categoria-de-uno-concept]] · [[aku-encuentra-trabajo-que-se-sienta-como-juego-claim]] · [[aku-eres-irremplazable-encuentra-lo-que-mas-te-necesita-claim]] · [[aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim]]
+**related** ↔ [[aku-se-el-mejor-del-mundo-redefiniendo-lo-que-haces-claim]] · [[aku-categoria-de-uno-concept]] · [[aku-encuentra-trabajo-que-se-sienta-como-juego-claim]] · [[aku-eres-irremplazable-encuentra-lo-que-mas-te-necesita-claim]] · [[aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim]] · [[aku-dirigirse-a-no-buscadores-mayor-conversion-claim]] · [[aku-nunca-terminas-de-competir-al-final-compites-contigo-mismo-claim]]

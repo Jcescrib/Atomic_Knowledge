@@ -52,6 +52,8 @@ relations:
     - aku-proceso-cro-method
     - aku-crecimiento-clasico-startup-concept
     - aku-blitz-lanza-producto-aunque-averguence-claim
+    - aku-no-hay-solucion-100-correcta-claim
+    - aku-paso-pequeno-reevaluar-ante-incertidumbre-method
 
 sources:
   - "raw/cursos/power-mba/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md"
@@ -66,4 +68,4 @@ status_note: ""
 
 **supported_by** ← [[aku-asumir-equivocarse-claim]] · [[aku-beneficios-lean-startup-claim]]
 
-**related** ↔ [[aku-innovar-vs-competir-concept]] · [[aku-build-measure-learn-concept]] · [[aku-hipotesis-concept]] · [[aku-mvp-concept]] · [[aku-aprendizaje-validado-concept]] · [[aku-product-market-fit-concept]] · [[aku-etapas-startup-concept]] · [[aku-problem-solution-fit-concept]] · [[aku-tipos-estrategias-crecimiento-concept]] · [[aku-proceso-cro-method]] · [[aku-crecimiento-clasico-startup-concept]] · [[aku-blitz-lanza-producto-aunque-averguence-claim]]
+**related** ↔ [[aku-innovar-vs-competir-concept]] · [[aku-build-measure-learn-concept]] · [[aku-hipotesis-concept]] · [[aku-mvp-concept]] · [[aku-aprendizaje-validado-concept]] · [[aku-product-market-fit-concept]] · [[aku-etapas-startup-concept]] · [[aku-problem-solution-fit-concept]] · [[aku-tipos-estrategias-crecimiento-concept]] · [[aku-proceso-cro-method]] · [[aku-crecimiento-clasico-startup-concept]] · [[aku-blitz-lanza-producto-aunque-averguence-claim]] · [[aku-no-hay-solucion-100-correcta-claim]] · [[aku-paso-pequeno-reevaluar-ante-incertidumbre-method]]

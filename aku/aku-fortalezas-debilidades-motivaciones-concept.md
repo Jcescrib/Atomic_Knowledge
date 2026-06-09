@@ -40,6 +40,7 @@ relations:
     - aku-ikigai-concept
     - aku-objetivos-personales-concept
     - aku-fortaleza-puede-ser-debilidad-y-viceversa-claim
+    - aku-lider-compensa-debilidades-con-el-equipo-claim
 
 sources:
   - raw/cursos/power-mba/08-01-01-diagnostico-desarrollo-personal/08-01-01-diagnostico-desarrollo-personal.md
@@ -54,4 +55,4 @@ status_note: ""
 
 **supported_by** ← [[aku-descubrir-fortalezas-feedback-externo-concept]] · [[aku-motivaciones-desde-experiencias-pasadas-concept]]
 **constrained_by** ← [[aku-diagnostico-estrategico-personal-concept]]
-**related** ↔ [[aku-ikigai-concept]] · [[aku-objetivos-personales-concept]] · [[aku-fortaleza-puede-ser-debilidad-y-viceversa-claim]]
+**related** ↔ [[aku-ikigai-concept]] · [[aku-objetivos-personales-concept]] · [[aku-fortaleza-puede-ser-debilidad-y-viceversa-claim]] · [[aku-lider-compensa-debilidades-con-el-equipo-claim]]

@@ -31,7 +31,12 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-la-paciencia-es-una-fortaleza-negociadora-espera-el-deal-correcto-claim, aku-conformarse-delata-falta-de-confianza-en-tu-valor-y-los-depredadores-la-detectan-claim]
+  related:
+    - aku-la-paciencia-es-una-fortaleza-negociadora-espera-el-deal-correcto-claim
+    - aku-conformarse-delata-falta-de-confianza-en-tu-valor-y-los-depredadores-la-detectan-claim
+    - aku-los-mas-exitosos-empezaron-como-losers-fuera-del-rebano-claim
+    - aku-48laws-20-do-not-commit-to-anyone-concept
+    - aku-vision-empresa-concept
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -44,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-paciencia-es-una-fortaleza-negociadora-espera-el-deal-correcto-claim]] · [[aku-conformarse-delata-falta-de-confianza-en-tu-valor-y-los-depredadores-la-detectan-claim]]
+**related** ↔ [[aku-la-paciencia-es-una-fortaleza-negociadora-espera-el-deal-correcto-claim]] · [[aku-conformarse-delata-falta-de-confianza-en-tu-valor-y-los-depredadores-la-detectan-claim]] · [[aku-los-mas-exitosos-empezaron-como-losers-fuera-del-rebano-claim]] · [[aku-48laws-20-do-not-commit-to-anyone-concept]] · [[aku-vision-empresa-concept]]

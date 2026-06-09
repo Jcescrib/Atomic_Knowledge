@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim
+    - aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim
+    - aku-mente-de-mono-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]]
+**related** ↔ [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]] · [[aku-mente-de-mono-concept]]

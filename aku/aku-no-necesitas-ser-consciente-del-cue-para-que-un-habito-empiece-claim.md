@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-habit-loop-cue-craving-response-reward-concept
+    - aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim
+    - aku-el-exito-demasiado-facil-y-rapido-afianza-los-viejos-habitos-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habit-loop-cue-craving-response-reward-concept]]
+**related** ↔ [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-el-exito-demasiado-facil-y-rapido-afianza-los-viejos-habitos-claim]]

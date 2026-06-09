@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-velocity-principle-concept
+    - aku-dicta-quien-es-tu-oponente-compite-contra-el-mejor-en-tu-terreno-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-velocity-principle-concept]]
+**related** ↔ [[aku-velocity-principle-concept]] · [[aku-dicta-quien-es-tu-oponente-compite-contra-el-mejor-en-tu-terreno-claim]]

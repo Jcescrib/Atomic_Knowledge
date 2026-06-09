@@ -40,6 +40,7 @@ relations:
     - aku-just-do-shit-no-esperes-permiso-de-los-gatekeepers-concept
     - aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim
     - aku-aceptar-que-todo-depende-de-ti-es-liberador-claim
+    - aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -52,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-productize-yourself-concept]] · [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-fallar-en-publico-bajo-tu-nombre-da-poder-claim]] · [[aku-el-riesgo-a-la-baja-de-fracasar-es-pequeno-asume-mas-accountability-claim]] · [[aku-habit-contract-y-accountability-partner-method]] · [[aku-just-do-shit-no-esperes-permiso-de-los-gatekeepers-concept]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]] · [[aku-aceptar-que-todo-depende-de-ti-es-liberador-claim]]
+**related** ↔ [[aku-productize-yourself-concept]] · [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-fallar-en-publico-bajo-tu-nombre-da-poder-claim]] · [[aku-el-riesgo-a-la-baja-de-fracasar-es-pequeno-asume-mas-accountability-claim]] · [[aku-habit-contract-y-accountability-partner-method]] · [[aku-just-do-shit-no-esperes-permiso-de-los-gatekeepers-concept]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]] · [[aku-aceptar-que-todo-depende-de-ti-es-liberador-claim]] · [[aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept]]

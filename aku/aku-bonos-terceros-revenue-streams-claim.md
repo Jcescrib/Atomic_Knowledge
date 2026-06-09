@@ -34,6 +34,7 @@ relations:
   related:
     - aku-bonuses-stack-concept
     - aku-bonos-de-terceros-claim
+    - aku-flujos-de-ingresos-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-bonuses-stack-concept]] · [[aku-bonos-de-terceros-claim]]
+**related** ↔ [[aku-bonuses-stack-concept]] · [[aku-bonos-de-terceros-claim]] · [[aku-flujos-de-ingresos-concept]]

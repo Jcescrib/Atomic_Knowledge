@@ -33,7 +33,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-problem-solution-cycle-concept
 
 sources:
   - "raw/cursos/power-mba/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos.md"
@@ -47,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-entrevista-problem-solution-concept]]
+
+**related** ↔ [[aku-problem-solution-cycle-concept]]

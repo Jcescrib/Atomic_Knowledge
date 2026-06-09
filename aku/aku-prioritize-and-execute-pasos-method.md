@@ -38,6 +38,7 @@ relations:
   related:
     - aku-target-fixation-concept
     - aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim
+    - aku-cascada-estrategica-ejecucion-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -52,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-prioritize-and-execute-concept]]
 
-**related** ↔ [[aku-target-fixation-concept]] · [[aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim]]
+**related** ↔ [[aku-target-fixation-concept]] · [[aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim]] · [[aku-cascada-estrategica-ejecucion-concept]]

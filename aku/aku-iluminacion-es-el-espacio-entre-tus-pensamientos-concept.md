@@ -32,6 +32,8 @@ relations:
   contradicts: []
   related:
     - aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept
+    - aku-mente-de-mono-concept
+    - aku-mindfulness-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]]
+**related** ↔ [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-mente-de-mono-concept]] · [[aku-mindfulness-concept]]

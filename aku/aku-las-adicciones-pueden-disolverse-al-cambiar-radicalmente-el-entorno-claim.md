@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-el-contexto-es-el-cue-un-espacio-un-uso-concept
+    - aku-azucar-es-adictivo-como-droga-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-contexto-es-el-cue-un-espacio-un-uso-concept]]
+**related** ↔ [[aku-el-contexto-es-el-cue-un-espacio-un-uso-concept]] · [[aku-azucar-es-adictivo-como-droga-claim]]

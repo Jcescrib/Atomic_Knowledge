@@ -35,6 +35,9 @@ relations:
   related:
     - aku-casi-todo-lo-que-se-lee-busca-aprobacion-social-los-retornos-estan-fuera-del-rebano-claim
     - aku-methods-step3-activar-presion-social-concept
+    - aku-48laws-38-think-as-you-like-behave-like-others-concept
+    - aku-los-mas-exitosos-empezaron-como-losers-fuera-del-rebano-claim
+    - aku-blitz-crea-cultura-fuerte-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-casi-todo-lo-que-se-lee-busca-aprobacion-social-los-retornos-estan-fuera-del-rebano-claim]] · [[aku-methods-step3-activar-presion-social-concept]]
+**related** ↔ [[aku-casi-todo-lo-que-se-lee-busca-aprobacion-social-los-retornos-estan-fuera-del-rebano-claim]] · [[aku-methods-step3-activar-presion-social-concept]] · [[aku-48laws-38-think-as-you-like-behave-like-others-concept]] · [[aku-los-mas-exitosos-empezaron-como-losers-fuera-del-rebano-claim]] · [[aku-blitz-crea-cultura-fuerte-claim]]

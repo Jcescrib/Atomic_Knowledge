@@ -55,6 +55,7 @@ relations:
     - aku-barter-descuento-por-publicidad
     - aku-nombrar-feature-combinations
     - aku-alternar-payment-y-feature-downsell
+    - aku-mostrar-precios-altos-antes-que-bajos-claim
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -71,4 +72,4 @@ status_note: ""
 
 **supports** → [[aku-cuatro-tipos-oferta-concept]]
 
-**related** ↔ [[aku-no-bajar-precio-mismo-producto-claim]] · [[aku-no-significa-este-no-todos]] · [[aku-payment-plan-siete-pasos-method]] · [[aku-reward-prepago-no-penalizar-interes]] · [[aku-tarjeta-credito-reframe-decides-tu]] · [[aku-alinear-cobros-con-nominas]] · [[aku-seesaw-downselling-concept]] · [[aku-payment-plan-no-canibalizar-paid-in-full]] · [[aku-billing-cadence-reduce-churn]] · [[aku-trial-penalty-card-y-commitment]] · [[aku-trial-penalty-explicar-fees-tras-tarjeta]] · [[aku-llamar-trial-with-penalty-just-trial]] · [[aku-feature-downsell-quitar-de-mayor-a-menor-valor]] · [[aku-nunca-negociar-precio]] · [[aku-feature-downsell-guarantees]] · [[aku-feature-downsell-clientes-actuales]] · [[aku-free-orientation-dfy-a-diy]] · [[aku-barter-descuento-por-publicidad]] · [[aku-nombrar-feature-combinations]] · [[aku-alternar-payment-y-feature-downsell]]
+**related** ↔ [[aku-no-bajar-precio-mismo-producto-claim]] · [[aku-no-significa-este-no-todos]] · [[aku-payment-plan-siete-pasos-method]] · [[aku-reward-prepago-no-penalizar-interes]] · [[aku-tarjeta-credito-reframe-decides-tu]] · [[aku-alinear-cobros-con-nominas]] · [[aku-seesaw-downselling-concept]] · [[aku-payment-plan-no-canibalizar-paid-in-full]] · [[aku-billing-cadence-reduce-churn]] · [[aku-trial-penalty-card-y-commitment]] · [[aku-trial-penalty-explicar-fees-tras-tarjeta]] · [[aku-llamar-trial-with-penalty-just-trial]] · [[aku-feature-downsell-quitar-de-mayor-a-menor-valor]] · [[aku-nunca-negociar-precio]] · [[aku-feature-downsell-guarantees]] · [[aku-feature-downsell-clientes-actuales]] · [[aku-free-orientation-dfy-a-diy]] · [[aku-barter-descuento-por-publicidad]] · [[aku-nombrar-feature-combinations]] · [[aku-alternar-payment-y-feature-downsell]] · [[aku-mostrar-precios-altos-antes-que-bajos-claim]]

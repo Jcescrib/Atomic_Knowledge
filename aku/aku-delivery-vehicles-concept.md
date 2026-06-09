@@ -34,6 +34,10 @@ relations:
   related:
     - aku-grand-slam-offer-concept
     - aku-delivery-cube-concept
+    - aku-elegir-el-medio-de-comunicacion-adecuado-claim
+    - aku-lead-magnet-curso-gratuito-concept
+    - aku-clausula-formato-contenidos-concept
+    - aku-formato-contenido-video-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -46,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-grand-slam-offer-concept]] · [[aku-delivery-cube-concept]]
+**related** ↔ [[aku-grand-slam-offer-concept]] · [[aku-delivery-cube-concept]] · [[aku-elegir-el-medio-de-comunicacion-adecuado-claim]] · [[aku-lead-magnet-curso-gratuito-concept]] · [[aku-clausula-formato-contenidos-concept]] · [[aku-formato-contenido-video-concept]]

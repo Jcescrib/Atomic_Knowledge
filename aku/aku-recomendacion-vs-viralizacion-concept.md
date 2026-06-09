@@ -43,6 +43,7 @@ relations:
     - aku-pedir-referidos-como-oferta-claim
     - aku-siete-formas-pedir-referidos-concept
     - aku-referral-growth-exponential-claim
+    - aku-referir-es-riesgo-de-goodwill-claim
 
 sources:
   - raw/cursos/power-mba/5-8-1-conceptos-clave-recomendacion-y-viralizacion/5-8-1-conceptos-clave-recomendacion-y-viralizacion.md
@@ -57,4 +58,4 @@ status_note: ""
 
 **supports** → [[aku-boca-a-boca-supera-campana-claim]] · [[aku-recomendacion-depende-producto-claim]]
 **constrained_by** ← [[aku-viralizacion-coste-cercano-cero-claim]]
-**related** ↔ [[aku-coeficiente-viralidad-concept]] · [[aku-cac-concept]] · [[aku-affiliate-hormozi-concept]] · [[aku-pedir-referidos-como-oferta-claim]] · [[aku-siete-formas-pedir-referidos-concept]] · [[aku-referral-growth-exponential-claim]]
+**related** ↔ [[aku-coeficiente-viralidad-concept]] · [[aku-cac-concept]] · [[aku-affiliate-hormozi-concept]] · [[aku-pedir-referidos-como-oferta-claim]] · [[aku-siete-formas-pedir-referidos-concept]] · [[aku-referral-growth-exponential-claim]] · [[aku-referir-es-riesgo-de-goodwill-claim]]

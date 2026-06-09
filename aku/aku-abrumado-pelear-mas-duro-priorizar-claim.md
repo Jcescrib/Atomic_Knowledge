@@ -34,6 +34,7 @@ relations:
     - aku-prioritize-and-execute-concept
     - aku-lider-abrumado-multiples-tareas-falla-claim
     - aku-the-warpath-concept
+    - aku-blitz-no-resuelvas-todos-problemas-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-prioritize-and-execute-concept]] · [[aku-lider-abrumado-multiples-tareas-falla-claim]] · [[aku-the-warpath-concept]]
+**related** ↔ [[aku-prioritize-and-execute-concept]] · [[aku-lider-abrumado-multiples-tareas-falla-claim]] · [[aku-the-warpath-concept]] · [[aku-blitz-no-resuelvas-todos-problemas-claim]]

@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-preguntar-requiere-coraje-claim
+    - aku-48laws-34-be-royal-in-your-own-fashion-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-preguntar-requiere-coraje-claim]]
+**related** ↔ [[aku-preguntar-requiere-coraje-claim]] · [[aku-48laws-34-be-royal-in-your-own-fashion-concept]]

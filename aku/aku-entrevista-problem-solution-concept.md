@@ -47,6 +47,7 @@ relations:
     - aku-problem-solution-fit-concept
     - aku-customer-persona-concept
     - aku-hipotesis-concept
+    - aku-problem-solution-cycle-concept
 
 sources:
   - "raw/cursos/power-mba/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos.md"
@@ -65,4 +66,4 @@ status_note: ""
 
 **constrained_by** ← [[aku-falso-positivo-validation-concept]]
 
-**related** ↔ [[aku-problem-solution-fit-concept]] · [[aku-customer-persona-concept]] · [[aku-hipotesis-concept]]
+**related** ↔ [[aku-problem-solution-fit-concept]] · [[aku-customer-persona-concept]] · [[aku-hipotesis-concept]] · [[aku-problem-solution-cycle-concept]]

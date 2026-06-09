@@ -32,6 +32,7 @@ relations:
   related:
     - aku-evaluation-scoring-0-5-method
     - aku-the-path-concept
+    - aku-agregacion-de-ganancias-marginales-concept
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-evaluation-scoring-0-5-method]] · [[aku-the-path-concept]]
+**related** ↔ [[aku-evaluation-scoring-0-5-method]] · [[aku-the-path-concept]] · [[aku-agregacion-de-ganancias-marginales-concept]]

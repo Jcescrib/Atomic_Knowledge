@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-self-discipline-viene-de-dentro-concept
+    - aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
 
-**related** ↔ [[aku-self-discipline-viene-de-dentro-concept]]
+**related** ↔ [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method]]

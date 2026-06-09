@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-leyes-persuasion-cialdini-concept
+    - aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
-**related** ↔ [[aku-leyes-persuasion-cialdini-concept]]
+**related** ↔ [[aku-leyes-persuasion-cialdini-concept]] · [[aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim]]

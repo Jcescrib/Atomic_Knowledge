@@ -36,6 +36,8 @@ relations:
     - aku-la-felicidad-es-una-habilidad-que-se-aprende-concept
     - aku-proceso-de-dos-pasos-para-cambiar-tu-identidad-method
     - aku-implementation-intention-method
+    - aku-cada-conducta-tiene-un-craving-de-superficie-y-un-motivo-profundo-concept
+    - aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim]] · [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-proceso-de-dos-pasos-para-cambiar-tu-identidad-method]] · [[aku-implementation-intention-method]]
+**related** ↔ [[aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim]] · [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-proceso-de-dos-pasos-para-cambiar-tu-identidad-method]] · [[aku-implementation-intention-method]] · [[aku-cada-conducta-tiene-un-craving-de-superficie-y-un-motivo-profundo-concept]] · [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]]

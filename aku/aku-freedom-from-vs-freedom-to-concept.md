@@ -33,6 +33,9 @@ relations:
   contradicts: []
   related:
     - aku-la-libertad-es-el-valor-supremo-claim
+    - aku-tres-capas-liderazgo-concept
+    - aku-al-otro-lado-del-miedo-esta-la-libertad-claim
+    - aku-discipline-equals-freedom-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-libertad-es-el-valor-supremo-claim]]
+**related** ↔ [[aku-la-libertad-es-el-valor-supremo-claim]] · [[aku-tres-capas-liderazgo-concept]] · [[aku-al-otro-lado-del-miedo-esta-la-libertad-claim]] · [[aku-discipline-equals-freedom-concept]]

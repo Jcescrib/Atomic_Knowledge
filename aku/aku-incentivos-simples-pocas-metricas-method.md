@@ -32,7 +32,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-implied-guarantee-performance-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,3 +49,5 @@ status_note: ""
 **supported_by** ← [[aku-conexion-accion-consecuencia-conducta-claim]]
 
 **supports** → [[aku-simple-law-of-combat-concept]]
+
+**related** ↔ [[aku-implied-guarantee-performance-concept]]

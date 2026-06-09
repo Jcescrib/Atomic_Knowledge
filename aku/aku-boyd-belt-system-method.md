@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-anchor-principle-concept
+    - aku-las-creencias-tomadas-en-paquete-son-sospechosas-reevalua-desde-principios-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-anchor-principle-concept]]
+**related** ↔ [[aku-anchor-principle-concept]] · [[aku-las-creencias-tomadas-en-paquete-son-sospechosas-reevalua-desde-principios-claim]]

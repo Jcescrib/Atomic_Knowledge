@@ -26,13 +26,17 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-cro-concept]
+  supports:
+    - aku-cro-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-lean-startup-method-concept, aku-ab-testing-concept]
+  related:
+    - aku-lean-startup-method-concept
+    - aku-ab-testing-concept
+    - aku-reversion-riesgo-numero-uno-claim
 
 sources:
   - raw/cursos/power-mba/5-6-1-conceptos-clave-conversi-on/5-6-1-conceptos-clave-conversi-on.md
@@ -46,4 +50,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-cro-concept]]
-**related** ↔ [[aku-lean-startup-method-concept]] · [[aku-ab-testing-concept]]
+**related** ↔ [[aku-lean-startup-method-concept]] · [[aku-ab-testing-concept]] · [[aku-reversion-riesgo-numero-uno-claim]]

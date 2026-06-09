@@ -36,6 +36,8 @@ relations:
   related:
     - aku-cltv-concept
     - aku-cac-concept
+    - aku-free-bootstrap-plataforma-claim
+    - aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept
 
 sources:
   - "raw/cursos/power-mba/2-2-1-tiposmotorescrecimiento/2-2-1-tiposmotorescrecimiento.md"
@@ -50,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-motor-crecimiento-viral-concept]]
 
-**related** ↔ [[aku-cltv-concept]] · [[aku-cac-concept]]
+**related** ↔ [[aku-cltv-concept]] · [[aku-cac-concept]] · [[aku-free-bootstrap-plataforma-claim]] · [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]]

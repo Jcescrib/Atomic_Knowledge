@@ -27,13 +27,17 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-ventaja-competitiva-concept]
+  supports:
+    - aku-ventaja-competitiva-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-recursos-clave-concept, aku-actividades-clave-concept]
+  related:
+    - aku-recursos-clave-concept
+    - aku-actividades-clave-concept
+    - aku-overload-principle-concept
 
 sources:
   - raw/cursos/power-mba/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
@@ -47,4 +51,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ventaja-competitiva-concept]]
-**related** ↔ [[aku-recursos-clave-concept]] · [[aku-actividades-clave-concept]]
+**related** ↔ [[aku-recursos-clave-concept]] · [[aku-actividades-clave-concept]] · [[aku-overload-principle-concept]]

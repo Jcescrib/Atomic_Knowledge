@@ -29,6 +29,7 @@ relations:
   contradicts: []
   related:
     - aku-preguntar-por-que-method
+    - aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
 created: 2026-06-05
@@ -41,4 +42,4 @@ status_note: ""
 
 **supports** → [[aku-conocimiento-es-el-arma-definitiva-claim]]
 
-**related** ↔ [[aku-preguntar-por-que-method]]
+**related** ↔ [[aku-preguntar-por-que-method]] · [[aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim]]

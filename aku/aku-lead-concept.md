@@ -39,6 +39,7 @@ relations:
     - aku-lead-nurturing-concept
     - aku-engaged-lead-concept
     - aku-lead-contactable-hormozi-concept
+    - aku-one-page-advertising-checklist-concept
 
 sources:
   - raw/cursos/power-mba/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google.md
@@ -52,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-estados-lead-funnel-concept]] · [[aku-lead-magnet-concept]] · [[aku-power-funnel-concept]] · [[aku-lead-nurturing-concept]] · [[aku-engaged-lead-concept]] · [[aku-lead-contactable-hormozi-concept]]
+**related** ↔ [[aku-estados-lead-funnel-concept]] · [[aku-lead-magnet-concept]] · [[aku-power-funnel-concept]] · [[aku-lead-nurturing-concept]] · [[aku-engaged-lead-concept]] · [[aku-lead-contactable-hormozi-concept]] · [[aku-one-page-advertising-checklist-concept]]

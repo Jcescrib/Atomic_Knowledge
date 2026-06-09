@@ -37,6 +37,7 @@ relations:
     - aku-cosas-importantes-concept
     - aku-vender-una-accion-concept
     - aku-dolor-es-el-pitch-claim
+    - aku-problemas-a-soluciones-concept
 
 sources:
   - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-customer-persona-concept]] · [[aku-cosas-importantes-concept]] · [[aku-vender-una-accion-concept]] · [[aku-dolor-es-el-pitch-claim]]
+**related** ↔ [[aku-customer-persona-concept]] · [[aku-cosas-importantes-concept]] · [[aku-vender-una-accion-concept]] · [[aku-dolor-es-el-pitch-claim]] · [[aku-problemas-a-soluciones-concept]]

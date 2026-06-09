@@ -35,6 +35,8 @@ relations:
     - aku-commodity-concept
     - aku-diferenciacion-mayores-margenes-claim
     - aku-grand-slam-offer-concept
+    - aku-precios-redondos-en-compras-de-conveniencia-claim
+    - aku-precios-redondos-en-compras-emocionales-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-commodity-concept]] · [[aku-diferenciacion-mayores-margenes-claim]] · [[aku-grand-slam-offer-concept]]
+**related** ↔ [[aku-commodity-concept]] · [[aku-diferenciacion-mayores-margenes-claim]] · [[aku-grand-slam-offer-concept]] · [[aku-precios-redondos-en-compras-de-conveniencia-claim]] · [[aku-precios-redondos-en-compras-emocionales-claim]]

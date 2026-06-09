@@ -34,6 +34,10 @@ relations:
     - aku-hesitar-a-veces-es-prudente-claim
     - aku-default-agresivo-proactivo-dictar-situacion-claim
     - aku-paso-agresivo-hacia-el-miedo-claim
+    - aku-para-superar-un-miedo-reconocelo-y-planifica-superarlo-method
+    - aku-actua-antes-de-que-caiga-el-hacha-adelantate-a-lo-inevitable-claim
+    - aku-decide-despacio-actua-rapido-y-deja-que-el-acto-dure-decadas-claim
+    - aku-impaciencia-con-las-acciones-paciencia-con-los-resultados-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -46,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-hesitar-a-veces-es-prudente-claim]] · [[aku-default-agresivo-proactivo-dictar-situacion-claim]] · [[aku-paso-agresivo-hacia-el-miedo-claim]]
+**related** ↔ [[aku-hesitar-a-veces-es-prudente-claim]] · [[aku-default-agresivo-proactivo-dictar-situacion-claim]] · [[aku-paso-agresivo-hacia-el-miedo-claim]] · [[aku-para-superar-un-miedo-reconocelo-y-planifica-superarlo-method]] · [[aku-actua-antes-de-que-caiga-el-hacha-adelantate-a-lo-inevitable-claim]] · [[aku-decide-despacio-actua-rapido-y-deja-que-el-acto-dure-decadas-claim]] · [[aku-impaciencia-con-las-acciones-paciencia-con-los-resultados-claim]]

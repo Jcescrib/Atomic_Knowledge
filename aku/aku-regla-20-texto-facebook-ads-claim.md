@@ -31,7 +31,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-facebook-concept]
+  related:
+    - aku-facebook-concept
+    - aku-paid-ads-concept
+    - aku-reducir-el-color-en-anuncios-llenos-de-texto-claim
 
 sources:
   - raw/cursos/power-mba/herramientas-para-crear-anuncios-top-en-facebook-ads-a/herramientas-para-crear-anuncios-top-en-facebook-ads-a.md
@@ -44,4 +47,4 @@ status_note: "Facebook eliminó la regla del 20% de texto en imágenes en 2020. 
 
 ## Relaciones
 
-**related** ↔ [[aku-facebook-concept]]
+**related** ↔ [[aku-facebook-concept]] · [[aku-paid-ads-concept]] · [[aku-reducir-el-color-en-anuncios-llenos-de-texto-claim]]

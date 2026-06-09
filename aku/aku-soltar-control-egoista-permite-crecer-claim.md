@@ -34,6 +34,7 @@ relations:
   related:
     - aku-ratchet-principle-concept
     - aku-delegar-todo-para-liderar-no-pareciendo-vago-claim
+    - aku-llega-el-momento-de-cortar-el-cordon-con-el-pasado-para-no-estancarte-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-ratchet-principle-concept]] · [[aku-delegar-todo-para-liderar-no-pareciendo-vago-claim]]
+**related** ↔ [[aku-ratchet-principle-concept]] · [[aku-delegar-todo-para-liderar-no-pareciendo-vago-claim]] · [[aku-llega-el-momento-de-cortar-el-cordon-con-el-pasado-para-no-estancarte-claim]]

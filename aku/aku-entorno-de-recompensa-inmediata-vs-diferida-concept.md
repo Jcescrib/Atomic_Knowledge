@@ -37,6 +37,11 @@ relations:
   related:
     - aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim
     - aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim
+    - aku-pequenas-elecciones-diarias-construyen-todo-claim
+    - aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept
+    - aku-si-no-puedes-decidir-la-respuesta-es-no-claim
+    - aku-continuity-offer-concept
+    - aku-metas-intermedias-visibles-method
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -49,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim]] · [[aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim]]
+**related** ↔ [[aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim]] · [[aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim]] · [[aku-pequenas-elecciones-diarias-construyen-todo-claim]] · [[aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept]] · [[aku-si-no-puedes-decidir-la-respuesta-es-no-claim]] · [[aku-continuity-offer-concept]] · [[aku-metas-intermedias-visibles-method]]

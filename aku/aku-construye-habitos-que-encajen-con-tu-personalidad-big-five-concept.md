@@ -36,6 +36,8 @@ relations:
   related:
     - aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim
     - aku-lee-lo-que-amas-hasta-que-ames-leer-claim
+    - aku-mbti-concept
+    - aku-lideres-nacen-y-se-hacen-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim]] · [[aku-lee-lo-que-amas-hasta-que-ames-leer-claim]]
+**related** ↔ [[aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim]] · [[aku-lee-lo-que-amas-hasta-que-ames-leer-claim]] · [[aku-mbti-concept]] · [[aku-lideres-nacen-y-se-hacen-claim]]

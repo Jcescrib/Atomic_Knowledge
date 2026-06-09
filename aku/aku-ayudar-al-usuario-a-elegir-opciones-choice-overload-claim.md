@@ -31,6 +31,7 @@ relations:
   contradicts: []
   related:
     - aku-mostrar-el-surtido-completo-de-opciones-claim
+    - aku-esperar-certeza-causa-paralisis-claim
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supported_by** ← [[aku-recomendar-una-opcion-por-defecto-claim]]
 
-**related** ↔ [[aku-mostrar-el-surtido-completo-de-opciones-claim]]
+**related** ↔ [[aku-mostrar-el-surtido-completo-de-opciones-claim]] · [[aku-esperar-certeza-causa-paralisis-claim]]

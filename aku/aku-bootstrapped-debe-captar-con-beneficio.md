@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-money-model-concept
+    - aku-validar-economia-clave-claim
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-money-model-concept]]
+**related** ↔ [[aku-money-model-concept]] · [[aku-validar-economia-clave-claim]]

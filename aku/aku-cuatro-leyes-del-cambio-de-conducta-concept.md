@@ -39,6 +39,7 @@ relations:
     - aku-implementation-intention-method
     - aku-temptation-bundling-method
     - aku-cardinal-rule-lo-recompensado-se-repite-lo-castigado-se-evita-concept
+    - aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -51,6 +52,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-implementation-intention-method]] · [[aku-temptation-bundling-method]] · [[aku-cardinal-rule-lo-recompensado-se-repite-lo-castigado-se-evita-concept]]
+**related** ↔ [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-implementation-intention-method]] · [[aku-temptation-bundling-method]] · [[aku-cardinal-rule-lo-recompensado-se-repite-lo-castigado-se-evita-concept]] · [[aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim]]
 
 **supported_by** ← [[aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim]]

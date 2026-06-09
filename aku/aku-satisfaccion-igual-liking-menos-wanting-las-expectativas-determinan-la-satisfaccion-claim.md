@@ -35,6 +35,9 @@ relations:
   related:
     - aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim
     - aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim
+    - aku-felicidad-es-satisfaccion-el-exito-viene-de-la-insatisfaccion-claim
+    - aku-el-trabajo-duro-crea-felicidad-no-solo-exito-claim
+    - aku-el-deseo-y-el-ego-nublan-la-realidad-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim]] · [[aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim]]
+**related** ↔ [[aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim]] · [[aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim]] · [[aku-felicidad-es-satisfaccion-el-exito-viene-de-la-insatisfaccion-claim]] · [[aku-el-trabajo-duro-crea-felicidad-no-solo-exito-claim]] · [[aku-el-deseo-y-el-ego-nublan-la-realidad-claim]]

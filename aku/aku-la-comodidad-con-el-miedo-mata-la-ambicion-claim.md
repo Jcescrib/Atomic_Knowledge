@@ -24,13 +24,16 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-fearlessness-no-es-ausencia-de-miedo-concept]
+  supports:
+    - aku-fearlessness-no-es-ausencia-de-miedo-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-el-miedo-que-interrumpe-tu-rutina-ya-te-domina-claim]
+  related:
+    - aku-el-miedo-que-interrumpe-tu-rutina-ya-te-domina-claim
+    - aku-el-sufrimiento-impulsa-el-progreso-el-deseo-de-cambiar-de-estado-mueve-a-actuar-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -44,4 +47,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-fearlessness-no-es-ausencia-de-miedo-concept]]
-**related** ↔ [[aku-el-miedo-que-interrumpe-tu-rutina-ya-te-domina-claim]]
+**related** ↔ [[aku-el-miedo-que-interrumpe-tu-rutina-ya-te-domina-claim]] · [[aku-el-sufrimiento-impulsa-el-progreso-el-deseo-de-cambiar-de-estado-mueve-a-actuar-claim]]

@@ -33,6 +33,7 @@ relations:
   related:
     - aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept
     - aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept
+    - aku-disciplina-se-extiende-a-todo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept]] · [[aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept]]
+**related** ↔ [[aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept]] · [[aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept]] · [[aku-disciplina-se-extiende-a-todo-claim]]

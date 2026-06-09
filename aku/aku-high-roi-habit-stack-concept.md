@@ -34,6 +34,7 @@ relations:
   related:
     - aku-core-four-concept
     - aku-sueno-es-necesidad-7-9h-claim
+    - aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-core-four-concept]] · [[aku-sueno-es-necesidad-7-9h-claim]]
+**related** ↔ [[aku-core-four-concept]] · [[aku-sueno-es-necesidad-7-9h-claim]] · [[aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim]]

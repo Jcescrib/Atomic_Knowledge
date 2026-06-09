@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-lead-concept
+    - aku-estados-lead-funnel-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-lead-concept]]
+**related** ↔ [[aku-lead-concept]] · [[aku-estados-lead-funnel-concept]]

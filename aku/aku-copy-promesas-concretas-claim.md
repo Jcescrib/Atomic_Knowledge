@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept
+    - aku-48laws-27-play-on-need-to-believe-concept
 
 sources:
   - raw/cursos/power-mba/18-info-hacks-copy/18-info-hacks-copy.md
@@ -46,4 +47,4 @@ status_note: ""
 
 **supported_by** ← [[aku-hacks-copywriting-concept]]
 
-**related** ↔ [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
+**related** ↔ [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]] · [[aku-48laws-27-play-on-need-to-believe-concept]]

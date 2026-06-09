@@ -34,6 +34,7 @@ relations:
   related:
     - aku-buy-x-get-y-free-concept
     - aku-costes-ocultos-oferta-gratis-claim
+    - aku-sacrificar-el-ego-coste-percibido-mayor-que-real-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-buy-x-get-y-free-concept]] · [[aku-costes-ocultos-oferta-gratis-claim]]
+**related** ↔ [[aku-buy-x-get-y-free-concept]] · [[aku-costes-ocultos-oferta-gratis-claim]] · [[aku-sacrificar-el-ego-coste-percibido-mayor-que-real-claim]]

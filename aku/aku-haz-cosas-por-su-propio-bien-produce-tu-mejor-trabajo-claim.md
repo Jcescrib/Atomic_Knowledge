@@ -34,6 +34,7 @@ relations:
   related:
     - aku-encuentra-trabajo-que-se-sienta-como-juego-claim
     - aku-la-felicidad-es-una-habilidad-que-se-aprende-concept
+    - aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-encuentra-trabajo-que-se-sienta-como-juego-claim]] · [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]]
+**related** ↔ [[aku-encuentra-trabajo-que-se-sienta-como-juego-claim]] · [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim]]

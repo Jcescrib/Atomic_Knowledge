@@ -34,6 +34,7 @@ relations:
   related:
     - aku-core-four-concept
     - aku-more-better-new-concept
+    - aku-lead-magnet-ubicaciones-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-core-four-concept]] · [[aku-more-better-new-concept]]
+**related** ↔ [[aku-core-four-concept]] · [[aku-more-better-new-concept]] · [[aku-lead-magnet-ubicaciones-claim]]

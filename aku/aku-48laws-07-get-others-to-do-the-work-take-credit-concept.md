@@ -35,6 +35,7 @@ relations:
     - aku-48laws-06-court-attention-at-all-cost-concept
     - aku-48laws-08-make-others-come-to-you-concept
     - aku-liderar-pares-via-influencia-y-ego-en-jaque-claim
+    - aku-dar-ordenes-solo-commanders-intent-claim
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-06-court-attention-at-all-cost-concept]] · [[aku-48laws-08-make-others-come-to-you-concept]] · [[aku-liderar-pares-via-influencia-y-ego-en-jaque-claim]]
+**related** ↔ [[aku-48laws-06-court-attention-at-all-cost-concept]] · [[aku-48laws-08-make-others-come-to-you-concept]] · [[aku-liderar-pares-via-influencia-y-ego-en-jaque-claim]] · [[aku-dar-ordenes-solo-commanders-intent-claim]]

@@ -32,6 +32,8 @@ relations:
   related:
     - aku-judgment-naval-concept
     - aku-48laws-29-plan-all-the-way-to-the-end-concept
+    - aku-motion-vs-action-concept
+    - aku-hesitacion-es-el-enemigo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-judgment-naval-concept]] · [[aku-48laws-29-plan-all-the-way-to-the-end-concept]]
+**related** ↔ [[aku-judgment-naval-concept]] · [[aku-48laws-29-plan-all-the-way-to-the-end-concept]] · [[aku-motion-vs-action-concept]] · [[aku-hesitacion-es-el-enemigo-claim]]

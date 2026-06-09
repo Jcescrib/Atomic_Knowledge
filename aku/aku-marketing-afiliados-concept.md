@@ -44,6 +44,7 @@ relations:
     - aku-pagar-afiliados-forever-no-cap-claim
     - aku-cuatro-fortalezas-lead-getters-concept
     - aku-afiliados-rellenan-gaps-money-model
+    - aku-implied-guarantee-performance-concept
 
 sources:
   - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
@@ -60,4 +61,4 @@ status_note: ""
 
 **supports** → [[aku-canales-marketing-digital-concept]]
 
-**related** ↔ [[aku-oferta-al-afiliado-concept]] · [[aku-agencia-concept]] · [[aku-affiliate-hormozi-concept]] · [[aku-super-afiliado-niveles-concept]] · [[aku-construir-affiliate-army-seis-pasos-concept]] · [[aku-afiliado-ideal-quien-tiene-mis-leads-concept]] · [[aku-cualificar-afiliado-cliente-experto-concept]] · [[aku-payout-medio-menor-que-cac-maximo-claim]] · [[aku-launch-then-integrate-afiliados-concept]] · [[aku-pagar-afiliados-forever-no-cap-claim]] · [[aku-cuatro-fortalezas-lead-getters-concept]] · [[aku-afiliados-rellenan-gaps-money-model]]
+**related** ↔ [[aku-oferta-al-afiliado-concept]] · [[aku-agencia-concept]] · [[aku-affiliate-hormozi-concept]] · [[aku-super-afiliado-niveles-concept]] · [[aku-construir-affiliate-army-seis-pasos-concept]] · [[aku-afiliado-ideal-quien-tiene-mis-leads-concept]] · [[aku-cualificar-afiliado-cliente-experto-concept]] · [[aku-payout-medio-menor-que-cac-maximo-claim]] · [[aku-launch-then-integrate-afiliados-concept]] · [[aku-pagar-afiliados-forever-no-cap-claim]] · [[aku-cuatro-fortalezas-lead-getters-concept]] · [[aku-afiliados-rellenan-gaps-money-model]] · [[aku-implied-guarantee-performance-concept]]

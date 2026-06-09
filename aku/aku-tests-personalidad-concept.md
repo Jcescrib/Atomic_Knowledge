@@ -26,13 +26,20 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-mbti-concept, aku-cuando-aplicar-tests-personalidad-concept]
-  constrained_by: [aku-test-personalidad-solo-preferencias-claim]
+  supports:
+    - aku-mbti-concept
+    - aku-cuando-aplicar-tests-personalidad-concept
+  constrained_by:
+    - aku-test-personalidad-solo-preferencias-claim
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-liderazgo-concept, aku-descubrir-fortalezas-feedback-externo-concept, aku-autoconciencia-lider-carencias-claim]
+  related:
+    - aku-liderazgo-concept
+    - aku-descubrir-fortalezas-feedback-externo-concept
+    - aku-autoconciencia-lider-carencias-claim
+    - aku-fortaleza-puede-ser-debilidad-y-viceversa-claim
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -48,4 +55,4 @@ status_note: ""
 
 **supports** → [[aku-mbti-concept]] · [[aku-cuando-aplicar-tests-personalidad-concept]]
 **constrained_by** ← [[aku-test-personalidad-solo-preferencias-claim]]
-**related** ↔ [[aku-liderazgo-concept]] · [[aku-descubrir-fortalezas-feedback-externo-concept]] · [[aku-autoconciencia-lider-carencias-claim]]
+**related** ↔ [[aku-liderazgo-concept]] · [[aku-descubrir-fortalezas-feedback-externo-concept]] · [[aku-autoconciencia-lider-carencias-claim]] · [[aku-fortaleza-puede-ser-debilidad-y-viceversa-claim]]

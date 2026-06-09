@@ -35,6 +35,7 @@ relations:
   contradicts: []
   related:
     - aku-propuesta-de-valor-concept
+    - aku-problem-solution-cycle-concept
 
 sources:
   - "raw/cursos/power-mba/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos.md"
@@ -49,4 +50,4 @@ status_note: ""
 
 **supported_by** ← [[aku-entrevista-problem-solution-concept]]
 
-**related** ↔ [[aku-propuesta-de-valor-concept]]
+**related** ↔ [[aku-propuesta-de-valor-concept]] · [[aku-problem-solution-cycle-concept]]

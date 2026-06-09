@@ -39,6 +39,7 @@ relations:
     - aku-imposed-vs-self-discipline-en-equipo-concept
     - aku-no-yes-men-fomentar-pushback-claim
     - aku-castigo-raro-y-con-lineas-claras-claim
+    - aku-habit-contract-y-accountability-partner-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -55,4 +56,4 @@ status_note: ""
 
 **supports** → [[aku-no-bad-teams-only-bad-leaders-concept]]
 
-**related** ↔ [[aku-resolute-but-not-overbearing-concept]] · [[aku-accountability-temporal-luego-soltar-claim]] · [[aku-imposed-vs-self-discipline-en-equipo-concept]] · [[aku-no-yes-men-fomentar-pushback-claim]] · [[aku-castigo-raro-y-con-lineas-claras-claim]]
+**related** ↔ [[aku-resolute-but-not-overbearing-concept]] · [[aku-accountability-temporal-luego-soltar-claim]] · [[aku-imposed-vs-self-discipline-en-equipo-concept]] · [[aku-no-yes-men-fomentar-pushback-claim]] · [[aku-castigo-raro-y-con-lineas-claras-claim]] · [[aku-habit-contract-y-accountability-partner-method]]

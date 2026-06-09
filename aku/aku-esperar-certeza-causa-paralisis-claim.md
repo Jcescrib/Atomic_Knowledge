@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-sopesar-riesgo-recompensa-coste-inaccion-claim
+    - aku-ayudar-al-usuario-a-elegir-opciones-choice-overload-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-decisiveness-amid-uncertainty-concept]]
 
-**related** ↔ [[aku-sopesar-riesgo-recompensa-coste-inaccion-claim]]
+**related** ↔ [[aku-sopesar-riesgo-recompensa-coste-inaccion-claim]] · [[aku-ayudar-al-usuario-a-elegir-opciones-choice-overload-claim]]

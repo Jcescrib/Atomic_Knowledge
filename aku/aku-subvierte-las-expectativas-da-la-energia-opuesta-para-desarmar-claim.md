@@ -35,6 +35,7 @@ relations:
   related:
     - aku-el-toque-ligero-en-el-antebrazo-aumenta-el-acuerdo-method
     - aku-48laws-46-never-appear-too-perfect-concept
+    - aku-inseguridad-admitir-no-ocultar-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -48,4 +49,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-el-poder-de-la-percepcion-concept]]
-**related** ↔ [[aku-el-toque-ligero-en-el-antebrazo-aumenta-el-acuerdo-method]] · [[aku-48laws-46-never-appear-too-perfect-concept]]
+**related** ↔ [[aku-el-toque-ligero-en-el-antebrazo-aumenta-el-acuerdo-method]] · [[aku-48laws-46-never-appear-too-perfect-concept]] · [[aku-inseguridad-admitir-no-ocultar-claim]]

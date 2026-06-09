@@ -34,6 +34,8 @@ relations:
   related:
     - aku-mentalidad-crab-in-the-barrel-concept
     - aku-identifica-y-manten-distancia-de-quienes-te-arrastran-al-fondo-claim
+    - aku-el-contexto-es-el-cue-un-espacio-un-uso-concept
+    - aku-prime-tu-entorno-para-el-uso-futuro-method
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-mentalidad-crab-in-the-barrel-concept]] · [[aku-identifica-y-manten-distancia-de-quienes-te-arrastran-al-fondo-claim]]
+**related** ↔ [[aku-mentalidad-crab-in-the-barrel-concept]] · [[aku-identifica-y-manten-distancia-de-quienes-te-arrastran-al-fondo-claim]] · [[aku-el-contexto-es-el-cue-un-espacio-un-uso-concept]] · [[aku-prime-tu-entorno-para-el-uso-futuro-method]]

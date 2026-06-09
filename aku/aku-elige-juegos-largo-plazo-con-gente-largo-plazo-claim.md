@@ -34,6 +34,7 @@ relations:
     - aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim
     - aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim
     - aku-juego-largo-plazo-suma-positiva-corto-plazo-suma-cero-claim
+    - aku-48laws-05-guard-your-reputation-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]] · [[aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim]] · [[aku-juego-largo-plazo-suma-positiva-corto-plazo-suma-cero-claim]]
+**related** ↔ [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]] · [[aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim]] · [[aku-juego-largo-plazo-suma-positiva-corto-plazo-suma-cero-claim]] · [[aku-48laws-05-guard-your-reputation-concept]]

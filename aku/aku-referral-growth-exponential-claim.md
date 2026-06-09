@@ -50,6 +50,7 @@ relations:
     - aku-referir-es-riesgo-de-goodwill-claim
     - aku-afiliado-vs-referido-concept
     - aku-recomendacion-vs-viralizacion-concept
+    - aku-valor-independiente-usuarios-modelo-lineal-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -62,4 +63,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-boca-a-boca-supera-campana-claim]] · [[aku-coeficiente-viralidad-concept]] · [[aku-churn-rate-concept]] · [[aku-goodwill-genera-referidos-concept]] · [[aku-goodwill-precio-valor-concept]] · [[aku-falta-referidos-producto-flojo-claim]] · [[aku-vender-mejores-clientes-mas-referidos-claim]] · [[aku-bajar-expectativas-para-sobreentregar-claim]] · [[aku-replicar-acciones-mejores-clientes-concept]] · [[aku-wins-rapidos-frecuentes-concept]] · [[aku-mejora-continua-producto-seis-pasos-concept]] · [[aku-vender-de-nuevo-retiene-y-refiere-claim]] · [[aku-un-solo-cliente-thought-experiment-claim]] · [[aku-siete-formas-pedir-referidos-concept]] · [[aku-tres-componentes-referral-program-concept]] · [[aku-referir-es-riesgo-de-goodwill-claim]] · [[aku-afiliado-vs-referido-concept]] · [[aku-recomendacion-vs-viralizacion-concept]]
+**related** ↔ [[aku-boca-a-boca-supera-campana-claim]] · [[aku-coeficiente-viralidad-concept]] · [[aku-churn-rate-concept]] · [[aku-goodwill-genera-referidos-concept]] · [[aku-goodwill-precio-valor-concept]] · [[aku-falta-referidos-producto-flojo-claim]] · [[aku-vender-mejores-clientes-mas-referidos-claim]] · [[aku-bajar-expectativas-para-sobreentregar-claim]] · [[aku-replicar-acciones-mejores-clientes-concept]] · [[aku-wins-rapidos-frecuentes-concept]] · [[aku-mejora-continua-producto-seis-pasos-concept]] · [[aku-vender-de-nuevo-retiene-y-refiere-claim]] · [[aku-un-solo-cliente-thought-experiment-claim]] · [[aku-siete-formas-pedir-referidos-concept]] · [[aku-tres-componentes-referral-program-concept]] · [[aku-referir-es-riesgo-de-goodwill-claim]] · [[aku-afiliado-vs-referido-concept]] · [[aku-recomendacion-vs-viralizacion-concept]] · [[aku-valor-independiente-usuarios-modelo-lineal-claim]]

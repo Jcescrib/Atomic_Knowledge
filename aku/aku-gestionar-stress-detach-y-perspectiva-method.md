@@ -37,6 +37,7 @@ relations:
     - aku-extreme-ownership-concept
     - aku-stress-bueno-y-malo-cortisol-claim
     - aku-aliviar-stress-sacar-del-entorno-method
+    - aku-cuando-aplicar-tests-personalidad-concept
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-detach-tactico-estrategico-concept]] · [[aku-extreme-ownership-concept]] · [[aku-stress-bueno-y-malo-cortisol-claim]] · [[aku-aliviar-stress-sacar-del-entorno-method]]
+**related** ↔ [[aku-detach-tactico-estrategico-concept]] · [[aku-extreme-ownership-concept]] · [[aku-stress-bueno-y-malo-cortisol-claim]] · [[aku-aliviar-stress-sacar-del-entorno-method]] · [[aku-cuando-aplicar-tests-personalidad-concept]]

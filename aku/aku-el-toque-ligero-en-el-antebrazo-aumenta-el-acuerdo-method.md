@@ -35,6 +35,7 @@ relations:
     - aku-subvierte-las-expectativas-da-la-energia-opuesta-para-desarmar-claim
     - aku-hablar-suave-transfiere-el-poder-hacia-ti-claim
     - aku-cialdini-simpatia-concept
+    - aku-methods-step1-moldear-la-percepcion-concept
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-subvierte-las-expectativas-da-la-energia-opuesta-para-desarmar-claim]] · [[aku-hablar-suave-transfiere-el-poder-hacia-ti-claim]] · [[aku-cialdini-simpatia-concept]]
+**related** ↔ [[aku-subvierte-las-expectativas-da-la-energia-opuesta-para-desarmar-claim]] · [[aku-hablar-suave-transfiere-el-poder-hacia-ti-claim]] · [[aku-cialdini-simpatia-concept]] · [[aku-methods-step1-moldear-la-percepcion-concept]]

@@ -26,14 +26,19 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-proposito-mision-concept]
+  supported_by:
+    - aku-proposito-mision-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-ventaja-competitiva-concept, aku-estrategia-diferenciacion-concept, aku-esencia-mas-que-logo-claim]
+  related:
+    - aku-ventaja-competitiva-concept
+    - aku-estrategia-diferenciacion-concept
+    - aku-esencia-mas-que-logo-claim
+    - aku-commanders-intent-concept
 
 sources:
   - raw/cursos/power-mba/4-4-branding/4-4-branding.md
@@ -47,4 +52,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-proposito-mision-concept]]
-**related** ↔ [[aku-ventaja-competitiva-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-esencia-mas-que-logo-claim]]
+**related** ↔ [[aku-ventaja-competitiva-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-esencia-mas-que-logo-claim]] · [[aku-commanders-intent-concept]]

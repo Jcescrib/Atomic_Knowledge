@@ -36,6 +36,8 @@ relations:
     - aku-decisiveness-amid-uncertainty-concept
     - aku-no-hay-solucion-100-correcta-claim
     - aku-contingency-planning-anticipar-method
+    - aku-asumir-equivocarse-claim
+    - aku-innovar-vs-competir-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-no-hay-solucion-100-correcta-claim]] · [[aku-contingency-planning-anticipar-method]]
+**related** ↔ [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-no-hay-solucion-100-correcta-claim]] · [[aku-contingency-planning-anticipar-method]] · [[aku-asumir-equivocarse-claim]] · [[aku-innovar-vs-competir-concept]]

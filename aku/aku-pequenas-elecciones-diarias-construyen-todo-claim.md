@@ -39,6 +39,7 @@ relations:
     - aku-empezar-aqui-y-ahora-method
     - aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim
     - aku-elecciones-faciles-vida-dificil-elecciones-dificiles-vida-facil-claim
+    - aku-entorno-de-recompensa-inmediata-vs-diferida-concept
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-the-code-concept]] · [[aku-the-path-concept]] · [[aku-disciplina-se-extiende-a-todo-claim]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim]] · [[aku-elecciones-faciles-vida-dificil-elecciones-dificiles-vida-facil-claim]]
+**related** ↔ [[aku-the-code-concept]] · [[aku-the-path-concept]] · [[aku-disciplina-se-extiende-a-todo-claim]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim]] · [[aku-elecciones-faciles-vida-dificil-elecciones-dificiles-vida-facil-claim]] · [[aku-entorno-de-recompensa-inmediata-vs-diferida-concept]]

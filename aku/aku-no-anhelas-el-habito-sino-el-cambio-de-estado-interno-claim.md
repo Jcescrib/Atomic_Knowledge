@@ -35,6 +35,12 @@ relations:
     - aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept
     - aku-la-dopamina-se-libera-al-anticipar-la-recompensa-no-solo-al-recibirla-claim
     - aku-el-deseo-es-la-diferencia-entre-donde-estas-y-donde-quieres-estar-claim
+    - aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept
+    - aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept
+    - aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method
+    - aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method
+    - aku-la-mente-es-un-musculo-que-puedes-reprogramar-con-consciencia-claim
+    - aku-la-lujuria-por-el-dinero-es-un-pozo-sin-fondo-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]] · [[aku-la-dopamina-se-libera-al-anticipar-la-recompensa-no-solo-al-recibirla-claim]] · [[aku-el-deseo-es-la-diferencia-entre-donde-estas-y-donde-quieres-estar-claim]]
+**related** ↔ [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]] · [[aku-la-dopamina-se-libera-al-anticipar-la-recompensa-no-solo-al-recibirla-claim]] · [[aku-el-deseo-es-la-diferencia-entre-donde-estas-y-donde-quieres-estar-claim]] · [[aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept]] · [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method]] · [[aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method]] · [[aku-la-mente-es-un-musculo-que-puedes-reprogramar-con-consciencia-claim]] · [[aku-la-lujuria-por-el-dinero-es-un-pozo-sin-fondo-claim]]

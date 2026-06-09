@@ -31,6 +31,10 @@ relations:
   contradicts: []
   related:
     - aku-pensador-claro-mejor-que-listo-explica-a-un-nino-desde-los-fundamentos-claim
+    - aku-aprender-pensando-por-uno-mismo-descubre-mas-claim
+    - aku-ensenar-con-no-a-incorporar-feedback-claim
+    - aku-liderar-con-el-ejemplo-unica-forma-de-ensenar-claim
+    - aku-cuestionarlo-todo-y-a-uno-mismo-method
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-pensador-claro-mejor-que-listo-explica-a-un-nino-desde-los-fundamentos-claim]]
+**related** ↔ [[aku-pensador-claro-mejor-que-listo-explica-a-un-nino-desde-los-fundamentos-claim]] · [[aku-aprender-pensando-por-uno-mismo-descubre-mas-claim]] · [[aku-ensenar-con-no-a-incorporar-feedback-claim]] · [[aku-liderar-con-el-ejemplo-unica-forma-de-ensenar-claim]] · [[aku-cuestionarlo-todo-y-a-uno-mismo-method]]

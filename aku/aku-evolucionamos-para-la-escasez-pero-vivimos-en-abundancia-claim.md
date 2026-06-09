@@ -35,6 +35,7 @@ relations:
     - aku-entorno-de-recompensa-inmediata-vs-diferida-concept
     - aku-estimulos-supernormales-concept
     - aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim
+    - aku-dieta-paleo-fuel-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-entorno-de-recompensa-inmediata-vs-diferida-concept]] · [[aku-estimulos-supernormales-concept]] · [[aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim]]
+**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-entorno-de-recompensa-inmediata-vs-diferida-concept]] · [[aku-estimulos-supernormales-concept]] · [[aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim]] · [[aku-dieta-paleo-fuel-concept]]

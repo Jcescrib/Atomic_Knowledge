@@ -24,14 +24,28 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-aceptar-que-todo-depende-de-ti-es-liberador-claim, aku-identifica-y-manten-distancia-de-quienes-te-arrastran-al-fondo-claim, aku-el-trabajo-duro-crea-felicidad-no-solo-exito-claim, aku-hacer-demasiado-por-alguien-le-crea-entitlement-y-resentimiento-claim, aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim, aku-pregunta-de-cada-persona-hace-depositos-o-solo-retiros-claim]
+  supported_by:
+    - aku-aceptar-que-todo-depende-de-ti-es-liberador-claim
+    - aku-identifica-y-manten-distancia-de-quienes-te-arrastran-al-fondo-claim
+    - aku-el-trabajo-duro-crea-felicidad-no-solo-exito-claim
+    - aku-hacer-demasiado-por-alguien-le-crea-entitlement-y-resentimiento-claim
+    - aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim
+    - aku-pregunta-de-cada-persona-hace-depositos-o-solo-retiros-claim
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-quien-culpa-a-otros-nunca-mira-su-propia-falta-de-hustle-claim, aku-la-depresion-por-la-falta-de-hustle-ajena-es-un-lujo-que-no-puedes-permitirte-claim, aku-el-entitlement-es-un-problema-cultural-no-de-edad-ni-raza-importa-hustle-claim, aku-presenciar-la-pobreza-real-cura-el-entitlement-y-reencuadra-la-gratitud-claim]
+  related:
+    - aku-quien-culpa-a-otros-nunca-mira-su-propia-falta-de-hustle-claim
+    - aku-la-depresion-por-la-falta-de-hustle-ajena-es-un-lujo-que-no-puedes-permitirte-claim
+    - aku-el-entitlement-es-un-problema-cultural-no-de-edad-ni-raza-importa-hustle-claim
+    - aku-presenciar-la-pobreza-real-cura-el-entitlement-y-reencuadra-la-gratitud-claim
+    - aku-accountability-bajo-tu-nombre-concept
+    - aku-atribucion-sesgada-exito-fracaso-claim
+    - aku-extreme-ownership-concept
+    - aku-boss-no-da-soporte-culpate-primero-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -45,4 +59,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-aceptar-que-todo-depende-de-ti-es-liberador-claim]] · [[aku-identifica-y-manten-distancia-de-quienes-te-arrastran-al-fondo-claim]] · [[aku-el-trabajo-duro-crea-felicidad-no-solo-exito-claim]] · [[aku-hacer-demasiado-por-alguien-le-crea-entitlement-y-resentimiento-claim]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]] · [[aku-pregunta-de-cada-persona-hace-depositos-o-solo-retiros-claim]]
-**related** ↔ [[aku-quien-culpa-a-otros-nunca-mira-su-propia-falta-de-hustle-claim]] · [[aku-la-depresion-por-la-falta-de-hustle-ajena-es-un-lujo-que-no-puedes-permitirte-claim]] · [[aku-el-entitlement-es-un-problema-cultural-no-de-edad-ni-raza-importa-hustle-claim]] · [[aku-presenciar-la-pobreza-real-cura-el-entitlement-y-reencuadra-la-gratitud-claim]]
+**related** ↔ [[aku-quien-culpa-a-otros-nunca-mira-su-propia-falta-de-hustle-claim]] · [[aku-la-depresion-por-la-falta-de-hustle-ajena-es-un-lujo-que-no-puedes-permitirte-claim]] · [[aku-el-entitlement-es-un-problema-cultural-no-de-edad-ni-raza-importa-hustle-claim]] · [[aku-presenciar-la-pobreza-real-cura-el-entitlement-y-reencuadra-la-gratitud-claim]] · [[aku-accountability-bajo-tu-nombre-concept]] · [[aku-atribucion-sesgada-exito-fracaso-claim]] · [[aku-extreme-ownership-concept]] · [[aku-boss-no-da-soporte-culpate-primero-claim]]

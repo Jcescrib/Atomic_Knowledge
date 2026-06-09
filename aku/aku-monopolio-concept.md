@@ -24,13 +24,17 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-concentracion-sector-concept]
+  supports:
+    - aku-concentracion-sector-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-oligopolio-concept, aku-sector-atomizado-concept]
+  related:
+    - aku-oligopolio-concept
+    - aku-sector-atomizado-concept
+    - aku-precio-alto-aumenta-valor-percibido-claim
 
 sources:
   - raw/cursos/power-mba/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
@@ -44,4 +48,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-concentracion-sector-concept]]
-**related** ↔ [[aku-oligopolio-concept]] · [[aku-sector-atomizado-concept]]
+**related** ↔ [[aku-oligopolio-concept]] · [[aku-sector-atomizado-concept]] · [[aku-precio-alto-aumenta-valor-percibido-claim]]

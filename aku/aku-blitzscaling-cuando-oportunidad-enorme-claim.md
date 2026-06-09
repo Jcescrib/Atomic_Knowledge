@@ -23,14 +23,20 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-blitzscaling-concept]
+  supported_by:
+    - aku-blitzscaling-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-network-effect-concept, aku-masa-critica-concept, aku-ventaja-competitiva-concept, aku-winner-takes-all-go-to-market-claim]
+  related:
+    - aku-network-effect-concept
+    - aku-masa-critica-concept
+    - aku-ventaja-competitiva-concept
+    - aku-winner-takes-all-go-to-market-claim
+    - aku-free-bootstrap-plataforma-claim
 
 sources:
   - raw/cursos/power-mba/4-5-blitzscaling/4-5-blitzscaling.md
@@ -44,4 +50,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-blitzscaling-concept]]
-**related** ↔ [[aku-network-effect-concept]] · [[aku-masa-critica-concept]] · [[aku-ventaja-competitiva-concept]] · [[aku-winner-takes-all-go-to-market-claim]]
+**related** ↔ [[aku-network-effect-concept]] · [[aku-masa-critica-concept]] · [[aku-ventaja-competitiva-concept]] · [[aku-winner-takes-all-go-to-market-claim]] · [[aku-free-bootstrap-plataforma-claim]]

@@ -37,6 +37,7 @@ relations:
     - aku-lideres-nunca-satisfechos-mejora-continua-claim
     - aku-analisis-constante-medir-efectividad-claim
     - aku-regret-solo-vale-por-la-leccion-claim
+    - aku-establece-un-sistema-de-reflexion-y-revision-de-tus-habitos-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -51,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-planning-process-estandarizado-concept]]
 
-**related** ↔ [[aku-lideres-nunca-satisfechos-mejora-continua-claim]] · [[aku-analisis-constante-medir-efectividad-claim]] · [[aku-regret-solo-vale-por-la-leccion-claim]]
+**related** ↔ [[aku-lideres-nunca-satisfechos-mejora-continua-claim]] · [[aku-analisis-constante-medir-efectividad-claim]] · [[aku-regret-solo-vale-por-la-leccion-claim]] · [[aku-establece-un-sistema-de-reflexion-y-revision-de-tus-habitos-method]]

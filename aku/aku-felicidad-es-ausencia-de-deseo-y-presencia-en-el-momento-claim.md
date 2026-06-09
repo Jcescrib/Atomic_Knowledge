@@ -38,6 +38,7 @@ relations:
     - aku-satisfaccion-igual-liking-menos-wanting-las-expectativas-determinan-la-satisfaccion-claim
     - aku-el-deseo-es-la-diferencia-entre-donde-estas-y-donde-quieres-estar-claim
     - aku-ser-curioso-es-mejor-que-ser-listo-el-deseo-no-la-inteligencia-mueve-la-conducta-claim
+    - aku-cada-conducta-tiene-un-craving-de-superficie-y-un-motivo-profundo-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -50,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-deseo-y-el-ego-nublan-la-realidad-claim]] · [[aku-felicidad-es-paz-no-alegria-paz-en-reposo-y-felicidad-en-movimiento-concept]] · [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]] · [[aku-satisfaccion-igual-liking-menos-wanting-las-expectativas-determinan-la-satisfaccion-claim]] · [[aku-el-deseo-es-la-diferencia-entre-donde-estas-y-donde-quieres-estar-claim]] · [[aku-ser-curioso-es-mejor-que-ser-listo-el-deseo-no-la-inteligencia-mueve-la-conducta-claim]]
+**related** ↔ [[aku-el-deseo-y-el-ego-nublan-la-realidad-claim]] · [[aku-felicidad-es-paz-no-alegria-paz-en-reposo-y-felicidad-en-movimiento-concept]] · [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]] · [[aku-satisfaccion-igual-liking-menos-wanting-las-expectativas-determinan-la-satisfaccion-claim]] · [[aku-el-deseo-es-la-diferencia-entre-donde-estas-y-donde-quieres-estar-claim]] · [[aku-ser-curioso-es-mejor-que-ser-listo-el-deseo-no-la-inteligencia-mueve-la-conducta-claim]] · [[aku-cada-conducta-tiene-un-craving-de-superficie-y-un-motivo-profundo-concept]]

@@ -31,7 +31,12 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-tres-capas-liderazgo-concept, aku-tests-personalidad-concept, aku-complementar-habilidades-equipo-claim, aku-aprende-nuevas-habilidades-liderazgo-claim]
+  related:
+    - aku-tres-capas-liderazgo-concept
+    - aku-tests-personalidad-concept
+    - aku-complementar-habilidades-equipo-claim
+    - aku-aprende-nuevas-habilidades-liderazgo-claim
+    - aku-evaluation-character-leadership-concept
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -44,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-tres-capas-liderazgo-concept]] · [[aku-tests-personalidad-concept]] · [[aku-complementar-habilidades-equipo-claim]] · [[aku-aprende-nuevas-habilidades-liderazgo-claim]]
+**related** ↔ [[aku-tres-capas-liderazgo-concept]] · [[aku-tests-personalidad-concept]] · [[aku-complementar-habilidades-equipo-claim]] · [[aku-aprende-nuevas-habilidades-liderazgo-claim]] · [[aku-evaluation-character-leadership-concept]]

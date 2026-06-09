@@ -40,6 +40,7 @@ relations:
     - aku-aportar-valor-es-clave-del-contenido-claim
     - aku-48laws-13-appeal-to-self-interest-concept
     - aku-negotiation-tactics-influencia-psicologica-por-fase-concept
+    - aku-methods-step2-elicitar-actitudes-congruentes-concept
 
 sources:
   - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
@@ -53,4 +54,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-leyes-persuasion-cialdini-concept]] · [[aku-llevar-cafe-y-pasteles-a-la-negociacion-claim]] · [[aku-anadir-una-contingencia-simple-a-tu-oferta-claim]]
-**related** ↔ [[aku-lead-magnet-concept]] · [[aku-bonuses-stack-concept]] · [[aku-pedir-de-nuevo-con-bono-reciprocidad-claim]] · [[aku-aportar-valor-es-clave-del-contenido-claim]] · [[aku-48laws-13-appeal-to-self-interest-concept]] · [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
+**related** ↔ [[aku-lead-magnet-concept]] · [[aku-bonuses-stack-concept]] · [[aku-pedir-de-nuevo-con-bono-reciprocidad-claim]] · [[aku-aportar-valor-es-clave-del-contenido-claim]] · [[aku-48laws-13-appeal-to-self-interest-concept]] · [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]] · [[aku-methods-step2-elicitar-actitudes-congruentes-concept]]

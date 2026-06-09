@@ -20,14 +20,17 @@ human_certainty:
   method: ""
 epistemic_type: sourced
 relations:
-  supported_by: [aku-metricas-google-analytics-concept]
+  supported_by:
+    - aku-metricas-google-analytics-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-cuello-botella-funnel-concept]
+  related:
+    - aku-cuello-botella-funnel-concept
+    - aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept
 sources:
   - raw/cursos/power-mba/15-2-principales-m-etricas-google-analytics-pptx/15-2-principales-m-etricas-google-analytics-pptx.md
 created: 2026-06-04
@@ -40,4 +43,4 @@ status_note: ""
 
 **supported_by** ← [[aku-metricas-google-analytics-concept]]
 
-**related** ↔ [[aku-cuello-botella-funnel-concept]]
+**related** ↔ [[aku-cuello-botella-funnel-concept]] · [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]

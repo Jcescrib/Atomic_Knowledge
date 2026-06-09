@@ -35,6 +35,7 @@ relations:
   related:
     - aku-lead-concept
     - aku-power-funnel-concept
+    - aku-engaged-lead-concept
 
 sources:
   - raw/cursos/power-mba/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-lead-concept]] · [[aku-power-funnel-concept]]
+**related** ↔ [[aku-lead-concept]] · [[aku-power-funnel-concept]] · [[aku-engaged-lead-concept]]

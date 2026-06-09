@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-mencionar-inconvenientes-argumento-bilateral-claim
+    - aku-positivo-pero-realista-no-pollyanna-claim
 
 sources:
   - raw/libros/kolenda/ecommerce-psychology-by-nick-kolenda/ecommerce-psychology-by-nick-kolenda.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]
 
-**related** ↔ [[aku-mencionar-inconvenientes-argumento-bilateral-claim]]
+**related** ↔ [[aku-mencionar-inconvenientes-argumento-bilateral-claim]] · [[aku-positivo-pero-realista-no-pollyanna-claim]]

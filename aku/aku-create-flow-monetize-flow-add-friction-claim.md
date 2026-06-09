@@ -33,6 +33,7 @@ relations:
   related:
     - aku-sales-fulfillment-continuum-concept
     - aku-money-model-concept
+    - aku-friccion-flywheel-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-sales-fulfillment-continuum-concept]] · [[aku-money-model-concept]]
+**related** ↔ [[aku-sales-fulfillment-continuum-concept]] · [[aku-money-model-concept]] · [[aku-friccion-flywheel-concept]]

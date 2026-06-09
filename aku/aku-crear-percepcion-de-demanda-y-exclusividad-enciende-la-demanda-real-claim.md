@@ -37,6 +37,7 @@ relations:
     - aku-cialdini-escasez-concept
     - aku-tipos-y-tacticas-escasez-concept
     - aku-la-novedad-capta-la-atencion-claim
+    - aku-pricing-psychology-el-precio-es-percepcion-concept
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-fake-it-till-you-make-it-proyecta-exito-antes-de-tenerlo-claim]] · [[aku-act-like-you-dont-need-it-la-neediness-repele-la-inalcanzabilidad-atrae-claim]] · [[aku-cialdini-escasez-concept]] · [[aku-tipos-y-tacticas-escasez-concept]] · [[aku-la-novedad-capta-la-atencion-claim]]
+**related** ↔ [[aku-fake-it-till-you-make-it-proyecta-exito-antes-de-tenerlo-claim]] · [[aku-act-like-you-dont-need-it-la-neediness-repele-la-inalcanzabilidad-atrae-claim]] · [[aku-cialdini-escasez-concept]] · [[aku-tipos-y-tacticas-escasez-concept]] · [[aku-la-novedad-capta-la-atencion-claim]] · [[aku-pricing-psychology-el-precio-es-percepcion-concept]]

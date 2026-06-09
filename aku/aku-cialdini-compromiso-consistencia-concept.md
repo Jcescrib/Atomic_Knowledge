@@ -34,6 +34,7 @@ relations:
   related:
     - aku-methods-step7-sostener-su-cumplimiento-concept
     - aku-landing-page-permiso-concept
+    - aku-urgencia-concept
 
 sources:
   - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-leyes-persuasion-cialdini-concept]]
 
-**related** ↔ [[aku-methods-step7-sostener-su-cumplimiento-concept]] · [[aku-landing-page-permiso-concept]]
+**related** ↔ [[aku-methods-step7-sostener-su-cumplimiento-concept]] · [[aku-landing-page-permiso-concept]] · [[aku-urgencia-concept]]
