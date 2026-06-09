@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-elegir-una-hora-temprana-para-negociar-claim
+    - aku-disenar-para-el-escaneo-scannability-claim
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
 
-**related** ↔ [[aku-elegir-una-hora-temprana-para-negociar-claim]]
+**related** ↔ [[aku-elegir-una-hora-temprana-para-negociar-claim]] · [[aku-disenar-para-el-escaneo-scannability-claim]]

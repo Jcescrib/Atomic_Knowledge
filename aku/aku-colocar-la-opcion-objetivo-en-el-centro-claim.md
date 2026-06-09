@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-la-mirada-eye-gaze-capta-la-atencion-claim
+    - aku-recomendar-una-opcion-por-defecto-claim
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
 
-**related** ↔ [[aku-la-mirada-eye-gaze-capta-la-atencion-claim]]
+**related** ↔ [[aku-la-mirada-eye-gaze-capta-la-atencion-claim]] · [[aku-recomendar-una-opcion-por-defecto-claim]]

@@ -785,13 +785,13 @@ sources:
     raw_path: "raw/libros/kolenda/user-experience2/"
     converter: mineru
     converted: 2026-06-03
-    image_processing: n/a
-    ingested: null   # pending-reingestion
-    chapters_ingested: []
-    aku_count: 0
-    taku_count: 0
+    image_processing: skipped-illustrative   # ~130 figuras son mockups UI before/after ilustrativos (Fase 3: omitibles)
+    ingested: 2026-06-09
+    chapters_ingested: [focus, understanding, effort, errors, compatibility]
+    aku_count: 38
+    taku_count: 1
     last_commit: ""
-    notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
+    notes: "máximo-exhaustivo: 38 AKUs (CORE + 5 guideline-concepts + 28 principios-táctica + 4 sub-claims con mecanismo: endowed-progress, default, colores-fríos-espera, evitar-tú-en-errores) + 1 framework TAKU (checklist completo con ~90 sub-tips imperativos preservados). Figuras NO embebidas: son mockups UI ilustrativos (Fase 3 permite omitir). Puentes a Color (arousal, color-semántico), Choice (overload, serial-position, steering), Visual-Attention (saliencia)"
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Visual Attention by Nick Kolenda.pdf"
     name_slug: "visual-attention-by-nick-kolenda"

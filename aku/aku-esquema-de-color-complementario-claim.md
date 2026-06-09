@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-esquemas-de-combinacion-de-color-monocromatico-a-tetradico-method
+    - aku-cumplir-las-expectativas-del-usuario-consistencia-claim
 
 sources:
   - raw/libros/kolenda/color-psychology2/color-psychology2.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept]]
 
-**related** ↔ [[aku-esquemas-de-combinacion-de-color-monocromatico-a-tetradico-method]]
+**related** ↔ [[aku-esquemas-de-combinacion-de-color-monocromatico-a-tetradico-method]] · [[aku-cumplir-las-expectativas-del-usuario-consistencia-claim]]
