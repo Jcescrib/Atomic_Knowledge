@@ -37,6 +37,7 @@ relations:
     - aku-plan-de-marca-concept
     - aku-el-poder-de-la-percepcion-concept
     - aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept
+    - aku-las-marcas-desconocidas-deben-invertir-en-packaging-claim
 
 sources:
   - raw/cursos/power-mba/4-4-branding/4-4-branding.md
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-marca-concept]] · [[aku-esencia-mas-que-logo-claim]] · [[aku-plan-de-marca-concept]] · [[aku-el-poder-de-la-percepcion-concept]] · [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]
+**related** ↔ [[aku-marca-concept]] · [[aku-esencia-mas-que-logo-claim]] · [[aku-plan-de-marca-concept]] · [[aku-el-poder-de-la-percepcion-concept]] · [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]] · [[aku-las-marcas-desconocidas-deben-invertir-en-packaging-claim]]

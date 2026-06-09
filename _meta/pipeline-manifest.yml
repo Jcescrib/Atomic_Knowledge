@@ -755,10 +755,10 @@ sources:
     raw_path: "raw/libros/kolenda/packaging-psychology-by-nick-kolenda/"
     converter: mineru
     converted: 2026-06-03
-    image_processing: n/a
-    ingested: null   # pending-reingestion
-    chapters_ingested: []
-    aku_count: 0
+    image_processing: 2026-06-09   # ejemplos visuales ilustrativos -> 0 blockquotes
+    ingested: 2026-06-09           # Kolenda 4/16: +17 AKUs (1 concept + 16 claim). Generador _kolenda_packaging.py
+    chapters_ingested: [size-shape-material-design]
+    aku_count: 17
     taku_count: 0
     last_commit: ""
     notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
