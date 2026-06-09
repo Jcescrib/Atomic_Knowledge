@@ -703,10 +703,10 @@ sources:
     raw_path: "raw/libros/kolenda/ecommerce-psychology-by-nick-kolenda/"
     converter: mineru
     converted: 2026-06-03
-    image_processing: n/a
-    ingested: null   # pending-reingestion
-    chapters_ingested: []
-    aku_count: 0
+    image_processing: 2026-06-09   # ejemplos visuales ilustrativos -> 0 blockquotes
+    ingested: 2026-06-09           # Kolenda 7/16: +22 AKUs (1 concept + 21 claim) + dedup-merge which-to-choose. Generador _kolenda_ecommerce.py
+    chapters_ingested: [pre-purchase-evaluation-reviews-buttons-checkout]
+    aku_count: 22
     taku_count: 0
     last_commit: ""
     notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"

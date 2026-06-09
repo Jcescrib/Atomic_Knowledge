@@ -40,6 +40,7 @@ relations:
     - aku-act-like-you-dont-need-it-la-neediness-repele-la-inalcanzabilidad-atrae-claim
     - aku-crear-percepcion-de-demanda-y-exclusividad-enciende-la-demanda-real-claim
     - aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim
+    - aku-restringir-la-cantidad-de-productos-de-estatus-escasez-claim
 
 sources:
   - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
@@ -55,4 +56,4 @@ status_note: ""
 
 **supports** → [[aku-leyes-persuasion-cialdini-concept]] · [[aku-tipos-y-tacticas-escasez-concept]]
 
-**related** ↔ [[aku-vender-menos-aumenta-demanda-claim]] · [[aku-fear-of-loss-claim]] · [[aku-urgencia-concept]] · [[aku-scarcity-real-etica-concept]] · [[aku-act-like-you-dont-need-it-la-neediness-repele-la-inalcanzabilidad-atrae-claim]] · [[aku-crear-percepcion-de-demanda-y-exclusividad-enciende-la-demanda-real-claim]] · [[aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim]]
+**related** ↔ [[aku-vender-menos-aumenta-demanda-claim]] · [[aku-fear-of-loss-claim]] · [[aku-urgencia-concept]] · [[aku-scarcity-real-etica-concept]] · [[aku-act-like-you-dont-need-it-la-neediness-repele-la-inalcanzabilidad-atrae-claim]] · [[aku-crear-percepcion-de-demanda-y-exclusividad-enciende-la-demanda-real-claim]] · [[aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim]] · [[aku-restringir-la-cantidad-de-productos-de-estatus-escasez-claim]]

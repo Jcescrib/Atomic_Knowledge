@@ -7,7 +7,7 @@ statement: >
 origin: "Nick Kolenda — Choice Psychology"
 domain: [kolenda, choice, simulation]
 
-llm_confidence: 0.50
+llm_confidence: 0.60
 
 human_certainty:
   status: unvalidated
@@ -28,10 +28,12 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept
 
 sources:
   - raw/libros/kolenda/choice/choice.md
+  - raw/libros/kolenda/ecommerce-psychology-by-nick-kolenda/ecommerce-psychology-by-nick-kolenda.md
 
 created: 2026-06-09
 updated: 2026-06-09
@@ -42,3 +44,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
+
+**related** ↔ [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]
