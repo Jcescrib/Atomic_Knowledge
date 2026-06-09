@@ -1028,6 +1028,14 @@ KOLENDA (reingesta capítulo a capítulo, autorizada por Joan) — libro 1/16: �
 - Puentes (b): `exponer-a-numero-alto`↔`cuando-te-meten-un-numero` (anclaje, 50-cent); `decoy`↔`cialdini-escasez`; pain-of-paying y reframing intra-libro.
 - verify_graph: 2047/2047 simétrico, 0 errores. **Quedan 15 libros Kolenda.**
 
+## 2026-06-09 — ingest
+KOLENDA libros 2-5/16 (generador + wire por libro; una táctica = un AKU; imágenes ilustrativas → 0 blockquotes).
+- **Copywriting** (2/16): +26 AKUs (1 concept + 25 claim) — Vividness/Continuity/Linguistics/Framing. Puentes cross-libro a Pricing (mecanismo Coulter).
+- **Font** (3/16): +12 AKUs (1 concept + 11 claim) — rasgos de fuente → significado por congruencia. Puentes a branding + copywriting.
+- **Packaging** (4/16): +17 AKUs (1 concept + 16 claim) — Size/Shape/Material/Design vía antropomorfismo. Puentes a Pricing (Deng&Kahn ubicación), Font (redondez/textura), branding.
+- **Color** (5/16): +13 AKUs (1 concept + 11 claim + 1 method) — significado del color por contexto/experiencia (peso/tamaño/proximidad/lujo/acción/visibilidad/socialidad/estimulación) + esquemas de combinación. Puentes a Packaging (claro/oscuro), Pricing (rojo), branding, Font.
+- **Subtotal Kolenda: 5/16 libros, +116 AKUs** (Pricing 48, Copywriting 26, Font 12, Packaging 17, Color 13). Vault 1999→2115. verify_graph 0 errores en cada uno. Quedan 11 libros.
+
 ## 2026-06-08 — audit
 Integración del grafo 50-cent: cableado de puentes (b) aprobados + 2 TAKUs + auditoría completa.
 - **+54 aristas `related`** (sync 3 capas vía `akupatch`): 50 puentes (b)/(a) aprobados por Joan (`scripts/_50cent_bridges.py`) + 4 correctoras de islas. Cross-corpus a Jocko (extreme-ownership, good-mindset, dichotomy, miedo-al-fracaso, tiempo-recurso, humildad), Naval (equity, choiceless-awareness, judgment, felicidad, deseo, accountability, juegos-iterados), 48-laws (L15/L06/L46/L37/L02), Cialdini (escasez/simpatía), Power MBA (branding, cinco-fuerzas, equity-value, liderazgo-situacional, compartir-objetivos), Hormozi (escasez), Atomic Habits (never-miss-twice, aburrimiento, editar-identidad, reflexión-revisión).

@@ -42,6 +42,7 @@ relations:
     - aku-identidad-de-marca-concept
     - aku-que-los-rasgos-linguisticos-reflejen-el-mensaje-claim
     - aku-packaging-psychology-el-envase-comunica-por-heuristicas-visuales-concept
+    - aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept
 
 sources:
   - raw/libros/kolenda/font-psychology-by-nick-kolenda/font-psychology-by-nick-kolenda.md
@@ -56,4 +57,4 @@ status_note: ""
 
 **supported_by** ← [[aku-lineas-finas-y-altas-en-fuentes-transmiten-belleza-claim]] · [[aku-fuentes-bold-transmiten-poder-y-masculinidad-claim]] · [[aku-fuentes-redondeadas-transmiten-comodidad-y-suavidad-claim]] · [[aku-fuentes-simples-transmiten-franqueza-claim]] · [[aku-fuentes-complejas-o-dificiles-de-leer-transmiten-exclusividad-claim]] · [[aku-fuentes-inclinadas-transmiten-velocidad-claim]] · [[aku-fuentes-rectas-transmiten-estabilidad-claim]] · [[aku-serif-vs-sans-serif-eleccion-segun-medio-y-tono-claim]] · [[aku-mayusculas-minusculas-y-caja-mixta-transmiten-poder-compasion-y-legibilidad-claim]] · [[aku-fuentes-condensadas-vs-espaciadas-transmiten-precision-vs-amplitud-claim]] · [[aku-fuentes-cortas-vs-altas-transmiten-estabilidad-vs-ligereza-claim]]
 
-**related** ↔ [[aku-identidad-de-marca-concept]] · [[aku-que-los-rasgos-linguisticos-reflejen-el-mensaje-claim]] · [[aku-packaging-psychology-el-envase-comunica-por-heuristicas-visuales-concept]]
+**related** ↔ [[aku-identidad-de-marca-concept]] · [[aku-que-los-rasgos-linguisticos-reflejen-el-mensaje-claim]] · [[aku-packaging-psychology-el-envase-comunica-por-heuristicas-visuales-concept]] · [[aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept]]

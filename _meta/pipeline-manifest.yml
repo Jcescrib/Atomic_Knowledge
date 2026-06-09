@@ -673,10 +673,10 @@ sources:
     raw_path: "raw/libros/kolenda/color-psychology2/"
     converter: mineru
     converted: 2026-06-03
-    image_processing: n/a
-    ingested: null   # pending-reingestion
-    chapters_ingested: []
-    aku_count: 0
+    image_processing: 2026-06-09   # ejemplos visuales ilustrativos -> 0 blockquotes
+    ingested: 2026-06-09           # Kolenda 5/16: +13 AKUs (1 concept + 11 claim + 1 method). Generador _kolenda_color.py
+    chapters_ingested: [color-meanings-and-schemes]
+    aku_count: 13
     taku_count: 0
     last_commit: ""
     notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
