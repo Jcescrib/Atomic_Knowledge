@@ -40,6 +40,12 @@ status: active
 status_note: ""
 ---
 
+## Figura
+
+![[9010466e11edeba25c7df45c778c95ff4102e78576a687987a342f8c49721d02.jpg]]
+![[d7146a25f3997313745ab4f7143924335970f8dfd0c7dd29f884adff75e791ce.jpg]]
+![[d19a9d1c1af7970419c4b4327e676f076026e031737d7df4e9cebf0462d5f6e4.jpg]]
+
 ## Relaciones
 
 **supports** → [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]
