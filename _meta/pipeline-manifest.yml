@@ -647,10 +647,10 @@ sources:
     raw_path: "raw/libros/kolenda/ad-psychology2/"
     converter: mineru
     converted: 2026-06-03
-    image_processing: n/a
-    ingested: null   # pending-reingestion
-    chapters_ingested: []
-    aku_count: 0
+    image_processing: 2026-06-09   # 8 figuras embebidas en los AKUs
+    ingested: 2026-06-09           # Kolenda 10/16: +25 AKUs (1 concept + 24 claim), modo exhaustivo. Generador _kolenda_ad.py + figuras
+    chapters_ingested: [content-strategy-images-color-words-people-framing-mediums-timing]
+    aku_count: 25
     taku_count: 0
     last_commit: ""
     notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"

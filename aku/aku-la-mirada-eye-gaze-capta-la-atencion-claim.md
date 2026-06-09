@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-colocar-la-opcion-objetivo-en-el-centro-claim
+    - aku-usar-miradas-directas-a-camara-en-productos-virtuosos-claim
 
 sources:
   - raw/libros/kolenda/visual-attention-by-nick-kolenda/visual-attention-by-nick-kolenda.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept]]
 
-**related** ↔ [[aku-colocar-la-opcion-objetivo-en-el-centro-claim]]
+**related** ↔ [[aku-colocar-la-opcion-objetivo-en-el-centro-claim]] · [[aku-usar-miradas-directas-a-camara-en-productos-virtuosos-claim]]

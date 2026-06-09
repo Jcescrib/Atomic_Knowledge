@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-secuenciar-palabras-en-orden-alfabetico-claim
+    - aku-rimar-el-eslogan-o-la-llamada-a-la-accion-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-secuenciar-palabras-en-orden-alfabetico-claim]]
+**related** ↔ [[aku-secuenciar-palabras-en-orden-alfabetico-claim]] · [[aku-rimar-el-eslogan-o-la-llamada-a-la-accion-claim]]

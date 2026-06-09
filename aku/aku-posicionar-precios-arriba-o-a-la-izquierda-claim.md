@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-colocar-productos-pesados-abajo-o-a-la-derecha-claim
+    - aku-posicionar-las-imagenes-a-la-izquierda-del-anuncio-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-colocar-productos-pesados-abajo-o-a-la-derecha-claim]]
+**related** ↔ [[aku-colocar-productos-pesados-abajo-o-a-la-derecha-claim]] · [[aku-posicionar-las-imagenes-a-la-izquierda-del-anuncio-claim]]

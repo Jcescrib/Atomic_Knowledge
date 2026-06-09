@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-crear-percepcion-de-demanda-y-exclusividad-enciende-la-demanda-real-claim
+    - aku-inyectar-algo-absurdo-o-sin-sentido-en-el-anuncio-claim
 
 sources:
   - raw/libros/kolenda/visual-attention-by-nick-kolenda/visual-attention-by-nick-kolenda.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept]]
 
-**related** ↔ [[aku-crear-percepcion-de-demanda-y-exclusividad-enciende-la-demanda-real-claim]]
+**related** ↔ [[aku-crear-percepcion-de-demanda-y-exclusividad-enciende-la-demanda-real-claim]] · [[aku-inyectar-algo-absurdo-o-sin-sentido-en-el-anuncio-claim]]
