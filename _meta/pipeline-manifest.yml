@@ -742,13 +742,13 @@ sources:
     raw_path: "raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/"
     converter: mineru
     converted: 2026-06-03
-    image_processing: n/a
-    ingested: null   # pending-reingestion
-    chapters_ingested: []
-    aku_count: 0
+    image_processing: 2026-06-09
+    ingested: 2026-06-09
+    chapters_ingested: [before, during, after]
+    aku_count: 31
     taku_count: 0
     last_commit: ""
-    notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
+    notes: "máximo-exhaustivo: 31 AKUs (CORE + 28 tácticas por fase + BATNA + fixed-pie); 10 figuras de táctica embebidas; puentes cross-corpus a anclaje/reciprocidad/reactancia/simulación/serial-position (Pricing, Choice, Copywriting, 50 Cent)"
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Packaging Psychology by Nick Kolenda.pdf"
     name_slug: "packaging-psychology-by-nick-kolenda"

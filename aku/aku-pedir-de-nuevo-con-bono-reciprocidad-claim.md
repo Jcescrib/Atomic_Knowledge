@@ -33,6 +33,7 @@ relations:
   related:
     - aku-grand-slam-offer-concept
     - aku-cialdini-reciprocidad-concept
+    - aku-anadir-una-contingencia-simple-a-tu-oferta-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-grand-slam-offer-concept]] · [[aku-cialdini-reciprocidad-concept]]
+**related** ↔ [[aku-grand-slam-offer-concept]] · [[aku-cialdini-reciprocidad-concept]] · [[aku-anadir-una-contingencia-simple-a-tu-oferta-claim]]

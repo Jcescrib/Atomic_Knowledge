@@ -26,7 +26,8 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-hacer-la-primera-oferta-anclaje-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -50,3 +51,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-overload-principle-concept]] · [[aku-boyd-belt-system-method]] · [[aku-no-hay-malos-estudiantes-solo-malos-profesores-claim]] · [[aku-ratchet-principle-concept]]
+
+**supports** → [[aku-hacer-la-primera-oferta-anclaje-claim]]

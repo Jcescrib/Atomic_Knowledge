@@ -26,6 +26,8 @@ relations:
   supported_by: []
   supports:
     - aku-leyes-persuasion-cialdini-concept
+    - aku-llevar-cafe-y-pasteles-a-la-negociacion-claim
+    - aku-anadir-una-contingencia-simple-a-tu-oferta-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -49,5 +51,5 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-leyes-persuasion-cialdini-concept]]
+**supports** → [[aku-leyes-persuasion-cialdini-concept]] · [[aku-llevar-cafe-y-pasteles-a-la-negociacion-claim]] · [[aku-anadir-una-contingencia-simple-a-tu-oferta-claim]]
 **related** ↔ [[aku-lead-magnet-concept]] · [[aku-bonuses-stack-concept]] · [[aku-pedir-de-nuevo-con-bono-reciprocidad-claim]] · [[aku-aportar-valor-es-clave-del-contenido-claim]] · [[aku-48laws-13-appeal-to-self-interest-concept]]

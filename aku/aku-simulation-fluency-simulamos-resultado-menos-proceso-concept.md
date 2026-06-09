@@ -23,6 +23,7 @@ relations:
   supported_by: []
   supports:
     - aku-choice-psychology-tres-mecanismos-de-decision-concept
+    - aku-primar-la-capacidad-del-rival-de-ejecutar-el-trato-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -52,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
+**supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]] · [[aku-primar-la-capacidad-del-rival-de-ejecutar-el-trato-claim]]
