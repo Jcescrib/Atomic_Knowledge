@@ -851,13 +851,13 @@ sources:
     raw_path: "raw/libros/kolenda/bonus-pdf/"
     converter: mineru
     converted: 2026-06-03
-    image_processing: n/a
-    ingested: null   # pending-reingestion
-    chapters_ingested: []
-    aku_count: 0
+    image_processing: figura-cap1-embebida
+    ingested: 2026-06-09
+    chapters_ingested: [core-thesis-only]
+    aku_count: 1
     taku_count: 0
     last_commit: ""
-    notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
+    notes: "= «The Tangled Mind» (Kolenda), companion de figuras del audiolibro SIN prosa extraíble. Ingesta honesta: 1 CORE concept anclado en título/subtítulo (embodied cognition: la cognición es corporal), figura cap1 embebida, puentes a escala-de-decisión (Choice), silla-blanda (Negotiation), kinesthetic-fluency+inward (Naming). Es el mecanismo de confusión sensorial citado en otros libros Kolenda. NO fabricar AKUs de figuras sin caption (sourcing)."
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.7.1-Conceptos+Clave_+Fidelización+y+retención.pdf"
     name_slug: "5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on"
