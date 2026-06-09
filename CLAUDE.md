@@ -91,6 +91,15 @@ For batch processing of an external folder of PDFs/markdowns (including MinerU c
 > - **Mismo nombre, definición/matiz/condiciones distintas ≠ dedup** → AKU nuevo con `related` (no fusionar). Confundir adyacencia conceptual con equivalencia es un error de dedup.
 >
 > Esta regla **no se negocia ni se ajusta por eficiencia, longitud del informe ni volumen** — es invariante. Ante la duda, **crea**.
+>
+> #### Modo máximo-exhaustivo — ESTÁNDAR por defecto (Joan, 2026-06-09)
+> El **modo máximo-exhaustivo es el modo operativo estándar** de todo ingest, no una opción. En la práctica, además de lo anterior:
+> - **Cada sub-tip, polo, esquema o variante con nombre o mecanismo propio = su propio AKU.** No plegar listas. Ejemplos canónicos (lección Kolenda): los 6 tips de «contenido de reseña» = 6 AKUs; los 6 esquemas de color = 6 AKUs; «redondo vs angular», «serif vs sans», «mayúsculas/minúsculas/caja mixta» = un AKU por polo; «evolución» y «valencia ecológica» = 2 AKUs.
+> - **Generar con script (datos + `wire()`) está permitido y es eficiente, pero NO justifica consolidar.** El script debe contener un AKU por ítem enumerado.
+> - **Fase 3 obligatoria de verdad:** toda figura **informacional** (gráfica de datos de un estudio, diagrama, esquema, comparativa que aporte conocimiento no presente en el texto) se vision-analiza y se le añade un blockquote `> **Figura**:`. Solo los ejemplos meramente ilustrativos (screenshots de anuncios/webs que repiten lo dicho en el texto) quedan sin caption.
+> - **Dedup riguroso por AKU**, no solo puentes selectivos: cotejar cada AKU nuevo contra los solapes conocidos del grafo (Cialdini, anclaje, escasez, prueba social, two-sided, decoy…) y mergear/relacionar.
+> - **Coverage (Salvaguarda 1) visible:** enumerar y contar los ítems por capítulo antes de crear.
+> Ante cualquier tensión entre exhaustividad y velocidad, **gana la exhaustividad**.
 
 1. **Read the source completely.** Identify atomic propositions across all three AKU classes — claims, methods, and concepts (see § AKU classes) — and any executable structures (techniques, cases, tools, frameworks, heuristics, stories, protocols). Do not discard content-bearing definitions or formulas as "merely definitional." **Then run the COVERAGE step (Salvaguarda 1): enumerate every identity-bearing item per chapter with name + class and show the count, before creating anything.**
 2. **For each candidate AKU, run semantic dedup against all active AKUs in `aku/`:**
