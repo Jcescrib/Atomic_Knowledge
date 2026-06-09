@@ -1036,6 +1036,12 @@ KOLENDA libros 2-5/16 (generador + wire por libro; una táctica = un AKU; imáge
 - **Color** (5/16): +13 AKUs (1 concept + 11 claim + 1 method) — significado del color por contexto/experiencia (peso/tamaño/proximidad/lujo/acción/visibilidad/socialidad/estimulación) + esquemas de combinación. Puentes a Packaging (claro/oscuro), Pricing (rojo), branding, Font.
 - **Subtotal Kolenda: 5/16 libros, +116 AKUs** (Pricing 48, Copywriting 26, Font 12, Packaging 17, Color 13). Vault 1999→2115. verify_graph 0 errores en cada uno. Quedan 11 libros.
 
+## 2026-06-09 — ingest
+KOLENDA libros 6-7/16.
+- **Choice** (6/16): +20 AKUs (4 concept + 16 claim) — 3 mecanismos (simulation fluency, decision scale, relative comparisons/context-effects) + tácticas. Puentes cross-libro a Pricing (decoy, culpa-emocional, simulation-fluency).
+- **eCommerce** (7/16): +22 AKUs (1 concept + 21 claim) + dedup-merge (which-to-choose ya en Choice → +fuente eCommerce, 0.60). Tácticas por etapa del funnel (pre-purchase/evaluación/reviews/buttons/checkout). Puentes a Copywriting (exclamación, two-sided), Cialdini (escasez), Pricing (justicia de precio).
+- **Subtotal Kolenda: 7/16 libros, +158 AKUs.** Vault 1999→2157. 0 errores. Quedan 9 libros (Naming, UX, Negotiation, Visual Attention, Ad, Viral, IRTB, Bonus, Methods-of-Persuasion).
+
 ## 2026-06-08 — audit
 Integración del grafo 50-cent: cableado de puentes (b) aprobados + 2 TAKUs + auditoría completa.
 - **+54 aristas `related`** (sync 3 capas vía `akupatch`): 50 puentes (b)/(a) aprobados por Joan (`scripts/_50cent_bridges.py`) + 4 correctoras de islas. Cross-corpus a Jocko (extreme-ownership, good-mindset, dichotomy, miedo-al-fracaso, tiempo-recurso, humildad), Naval (equity, choiceless-awareness, judgment, felicidad, deseo, accountability, juegos-iterados), 48-laws (L15/L06/L46/L37/L02), Cialdini (escasez/simpatía), Power MBA (branding, cinco-fuerzas, equity-value, liderazgo-situacional, compartir-objetivos), Hormozi (escasez), Atomic Habits (never-miss-twice, aburrimiento, editar-identidad, reflexión-revisión).
