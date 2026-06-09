@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-mostrar-precios-en-fuente-pequena-claim
+    - aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept
 
 sources:
   - raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
 
-**related** ↔ [[aku-mostrar-precios-en-fuente-pequena-claim]]
+**related** ↔ [[aku-mostrar-precios-en-fuente-pequena-claim]] · [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]

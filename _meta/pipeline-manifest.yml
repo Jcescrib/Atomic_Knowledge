@@ -716,10 +716,10 @@ sources:
     raw_path: "raw/libros/kolenda/font-psychology-by-nick-kolenda/"
     converter: mineru
     converted: 2026-06-03
-    image_processing: n/a
-    ingested: null   # pending-reingestion
-    chapters_ingested: []
-    aku_count: 0
+    image_processing: 2026-06-09   # ejemplos visuales ilustrativos -> 0 blockquotes
+    ingested: 2026-06-09           # Kolenda 3/16: +12 AKUs (1 concept + 11 claim). Generador _kolenda_font.py
+    chapters_ingested: [font-traits]
+    aku_count: 12
     taku_count: 0
     last_commit: ""
     notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
