@@ -35,6 +35,10 @@ relations:
   related:
     - aku-briefear-al-minimo-comun-denominador-claim
     - aku-facilitar-preguntas-clarificacion-claim
+    - aku-simple-law-of-combat-concept
+    - aku-complejidad-se-agrava-cuando-falla-claim
+    - aku-simplicidad-permite-ajuste-rapido-claim
+    - aku-camino-de-menor-resistencia-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -49,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-planning-process-estandarizado-concept]]
 
-**related** ↔ [[aku-briefear-al-minimo-comun-denominador-claim]] · [[aku-facilitar-preguntas-clarificacion-claim]]
+**related** ↔ [[aku-briefear-al-minimo-comun-denominador-claim]] · [[aku-facilitar-preguntas-clarificacion-claim]] · [[aku-simple-law-of-combat-concept]] · [[aku-complejidad-se-agrava-cuando-falla-claim]] · [[aku-simplicidad-permite-ajuste-rapido-claim]] · [[aku-camino-de-menor-resistencia-claim]]

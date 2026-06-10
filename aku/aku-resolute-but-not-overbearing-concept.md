@@ -37,6 +37,7 @@ relations:
   related:
     - aku-agresivo-no-prepotente-concept
     - aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim
+    - aku-excepcion-resistir-ordenes-ilegales-inmorales-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -53,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
 
-**related** ↔ [[aku-agresivo-no-prepotente-concept]] · [[aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim]]
+**related** ↔ [[aku-agresivo-no-prepotente-concept]] · [[aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim]] · [[aku-excepcion-resistir-ordenes-ilegales-inmorales-claim]]

@@ -36,6 +36,9 @@ relations:
     - aku-miedo-al-fracaso-paraliza-y-neutraliza-claim
     - aku-un-poco-de-miedo-y-paranoia-es-util-claim
     - aku-llega-el-momento-de-cortar-el-cordon-con-el-pasado-para-no-estancarte-claim
+    - aku-hesitacion-es-el-enemigo-claim
+    - aku-paso-agresivo-hacia-el-miedo-claim
+    - aku-regret-solo-vale-por-la-leccion-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -48,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-contingency-planning-anticipar-method]] · [[aku-miedo-al-fracaso-paraliza-y-neutraliza-claim]] · [[aku-un-poco-de-miedo-y-paranoia-es-util-claim]] · [[aku-llega-el-momento-de-cortar-el-cordon-con-el-pasado-para-no-estancarte-claim]]
+**related** ↔ [[aku-contingency-planning-anticipar-method]] · [[aku-miedo-al-fracaso-paraliza-y-neutraliza-claim]] · [[aku-un-poco-de-miedo-y-paranoia-es-util-claim]] · [[aku-llega-el-momento-de-cortar-el-cordon-con-el-pasado-para-no-estancarte-claim]] · [[aku-hesitacion-es-el-enemigo-claim]] · [[aku-paso-agresivo-hacia-el-miedo-claim]] · [[aku-regret-solo-vale-por-la-leccion-claim]]

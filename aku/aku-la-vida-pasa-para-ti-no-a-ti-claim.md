@@ -34,6 +34,8 @@ relations:
     - aku-connection-principle-concept
     - aku-todo-problema-es-tecnica-por-descubrir-claim
     - aku-la-adversidad-temprana-forja-una-resiliencia-que-el-privilegio-no-da-claim
+    - aku-river-principle-concept
+    - aku-fijarse-en-obstaculo-lo-agranda-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-connection-principle-concept]] · [[aku-todo-problema-es-tecnica-por-descubrir-claim]] · [[aku-la-adversidad-temprana-forja-una-resiliencia-que-el-privilegio-no-da-claim]]
+**related** ↔ [[aku-connection-principle-concept]] · [[aku-todo-problema-es-tecnica-por-descubrir-claim]] · [[aku-la-adversidad-temprana-forja-una-resiliencia-que-el-privilegio-no-da-claim]] · [[aku-river-principle-concept]] · [[aku-fijarse-en-obstaculo-lo-agranda-claim]]

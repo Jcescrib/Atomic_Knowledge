@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-defensa-propia-jerarquia-mente-correr-arma-claim
+    - aku-elegir-academia-jiu-jitsu-method
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-progresion-artes-marciales-concept]]
 
-**related** ↔ [[aku-defensa-propia-jerarquia-mente-correr-arma-claim]]
+**related** ↔ [[aku-defensa-propia-jerarquia-mente-correr-arma-claim]] · [[aku-elegir-academia-jiu-jitsu-method]]

@@ -36,6 +36,11 @@ relations:
   related:
     - aku-dar-confianza-incrementalmente-method
     - aku-humildad-es-la-cualidad-mas-importante-claim
+    - aku-como-ser-elegido-lider-claim
+    - aku-cuando-no-te-eligen-pedir-feedback-method
+    - aku-transicion-de-par-a-lider-claim
+    - aku-liderar-pares-via-influencia-y-ego-en-jaque-claim
+    - aku-pausa-tactica-ante-vacio-de-liderazgo-method
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-dar-confianza-incrementalmente-method]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]]
+**related** ↔ [[aku-dar-confianza-incrementalmente-method]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-como-ser-elegido-lider-claim]] · [[aku-cuando-no-te-eligen-pedir-feedback-method]] · [[aku-transicion-de-par-a-lider-claim]] · [[aku-liderar-pares-via-influencia-y-ego-en-jaque-claim]] · [[aku-pausa-tactica-ante-vacio-de-liderazgo-method]]

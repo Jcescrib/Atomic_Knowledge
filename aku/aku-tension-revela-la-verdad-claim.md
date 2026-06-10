@@ -33,6 +33,9 @@ relations:
   contradicts: []
   related:
     - aku-tension-principle-concept
+    - aku-palanca-vence-fuerza-claim
+    - aku-cadena-cinetica-potencia-golpe-concept
+    - aku-entrenamiento-bjj-policia-reduce-uso-de-fuerza-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -45,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-tension-principle-concept]]
+**related** ↔ [[aku-tension-principle-concept]] · [[aku-palanca-vence-fuerza-claim]] · [[aku-cadena-cinetica-potencia-golpe-concept]] · [[aku-entrenamiento-bjj-policia-reduce-uso-de-fuerza-claim]]

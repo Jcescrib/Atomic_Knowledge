@@ -37,6 +37,10 @@ relations:
     - aku-48laws-04-always-say-less-than-necessary-concept
     - aku-hablar-suave-transfiere-el-poder-hacia-ti-claim
     - aku-48laws-16-use-absence-to-increase-respect-concept
+    - aku-liderazgo-indirecto-supera-al-directo-claim
+    - aku-conform-to-influence-claim
+    - aku-ganar-respeto-e-influencia-dandolos-claim
+    - aku-liderazgo-vs-manipulacion-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -49,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-yes-men-fomentar-pushback-claim]] · [[aku-rendimiento-construye-confianza-del-jefe-claim]] · [[aku-48laws-04-always-say-less-than-necessary-concept]] · [[aku-hablar-suave-transfiere-el-poder-hacia-ti-claim]] · [[aku-48laws-16-use-absence-to-increase-respect-concept]]
+**related** ↔ [[aku-no-yes-men-fomentar-pushback-claim]] · [[aku-rendimiento-construye-confianza-del-jefe-claim]] · [[aku-48laws-04-always-say-less-than-necessary-concept]] · [[aku-hablar-suave-transfiere-el-poder-hacia-ti-claim]] · [[aku-48laws-16-use-absence-to-increase-respect-concept]] · [[aku-liderazgo-indirecto-supera-al-directo-claim]] · [[aku-conform-to-influence-claim]] · [[aku-ganar-respeto-e-influencia-dandolos-claim]] · [[aku-liderazgo-vs-manipulacion-concept]]

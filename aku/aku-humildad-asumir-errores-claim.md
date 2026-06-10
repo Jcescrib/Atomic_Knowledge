@@ -40,6 +40,12 @@ relations:
     - aku-buscar-ayuda-profesional-sin-que-el-ego-lo-impida-claim
     - aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim
     - aku-asumir-equivocarse-claim
+    - aku-actitud-lider-determina-exito-claim
+    - aku-lider-mirar-al-espejo-claim
+    - aku-ver-problemas-lente-objetiva-claim
+    - aku-tortured-genius-concept
+    - aku-boss-no-da-soporte-culpate-primero-claim
+    - aku-owner-no-toma-credito-da-honor-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -54,4 +60,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-atribucion-sesgada-exito-fracaso-claim]] · [[aku-check-the-ego-concept]] · [[aku-regret-solo-vale-por-la-leccion-claim]] · [[aku-lideres-dicen-la-verdad-claim]] · [[aku-cuando-no-te-eligen-pedir-feedback-method]] · [[aku-apologizing-no-es-debilidad-claim]] · [[aku-buscar-ayuda-profesional-sin-que-el-ego-lo-impida-claim]] · [[aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim]] · [[aku-asumir-equivocarse-claim]]
+**related** ↔ [[aku-atribucion-sesgada-exito-fracaso-claim]] · [[aku-check-the-ego-concept]] · [[aku-regret-solo-vale-por-la-leccion-claim]] · [[aku-lideres-dicen-la-verdad-claim]] · [[aku-cuando-no-te-eligen-pedir-feedback-method]] · [[aku-apologizing-no-es-debilidad-claim]] · [[aku-buscar-ayuda-profesional-sin-que-el-ego-lo-impida-claim]] · [[aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim]] · [[aku-asumir-equivocarse-claim]] · [[aku-actitud-lider-determina-exito-claim]] · [[aku-lider-mirar-al-espejo-claim]] · [[aku-ver-problemas-lente-objetiva-claim]] · [[aku-tortured-genius-concept]] · [[aku-boss-no-da-soporte-culpate-primero-claim]] · [[aku-owner-no-toma-credito-da-honor-claim]]

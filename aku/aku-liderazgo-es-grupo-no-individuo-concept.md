@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-liderazgo-en-todos-los-niveles-claim
+    - aku-facilitar-preguntas-clarificacion-claim
+    - aku-lideres-junior-proactivos-no-reactivos-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-liderazgo-en-todos-los-niveles-claim]]
+**related** ↔ [[aku-liderazgo-en-todos-los-niveles-claim]] · [[aku-facilitar-preguntas-clarificacion-claim]] · [[aku-lideres-junior-proactivos-no-reactivos-claim]]

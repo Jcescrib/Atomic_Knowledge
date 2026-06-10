@@ -33,6 +33,13 @@ relations:
   related:
     - aku-mejores-lideres-mision-no-ego-claim
     - aku-jefe-quiere-el-credito-daselo-claim
+    - aku-actitud-lider-determina-exito-claim
+    - aku-lider-mirar-al-espejo-claim
+    - aku-ver-problemas-lente-objetiva-claim
+    - aku-humildad-asumir-errores-claim
+    - aku-tortured-genius-concept
+    - aku-atribucion-sesgada-exito-fracaso-claim
+    - aku-boss-no-da-soporte-culpate-primero-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-jefe-quiere-el-credito-daselo-claim]]
+**related** ↔ [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-jefe-quiere-el-credito-daselo-claim]] · [[aku-actitud-lider-determina-exito-claim]] · [[aku-lider-mirar-al-espejo-claim]] · [[aku-ver-problemas-lente-objetiva-claim]] · [[aku-humildad-asumir-errores-claim]] · [[aku-tortured-genius-concept]] · [[aku-atribucion-sesgada-exito-fracaso-claim]] · [[aku-boss-no-da-soporte-culpate-primero-claim]]

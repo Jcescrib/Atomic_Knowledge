@@ -34,6 +34,10 @@ relations:
   related:
     - aku-lealtad-mision-sobre-individuo-claim
     - aku-equipo-gana-o-falla-en-conjunto-claim
+    - aku-a-veces-hay-que-herir-para-ayudar-claim
+    - aku-burden-of-command-concept
+    - aku-cuidar-demasiado-impide-decisiones-duras-claim
+    - aku-demasiado-desapegado-dana-al-equipo-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -48,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-ultimate-dichotomy-cuidar-vs-mision-concept]]
 
-**related** ↔ [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-equipo-gana-o-falla-en-conjunto-claim]]
+**related** ↔ [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-equipo-gana-o-falla-en-conjunto-claim]] · [[aku-a-veces-hay-que-herir-para-ayudar-claim]] · [[aku-burden-of-command-concept]] · [[aku-cuidar-demasiado-impide-decisiones-duras-claim]] · [[aku-demasiado-desapegado-dana-al-equipo-claim]]

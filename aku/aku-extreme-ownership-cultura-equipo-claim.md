@@ -34,6 +34,8 @@ relations:
   related:
     - aku-culpar-se-contagia-claim
     - aku-cultura-ownership-resiste-perdida-lider-claim
+    - aku-actitud-lider-marca-el-tono-claim
+    - aku-culpar-subordinado-natural-pero-contraproducente-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-culpar-se-contagia-claim]] · [[aku-cultura-ownership-resiste-perdida-lider-claim]]
+**related** ↔ [[aku-culpar-se-contagia-claim]] · [[aku-cultura-ownership-resiste-perdida-lider-claim]] · [[aku-actitud-lider-marca-el-tono-claim]] · [[aku-culpar-subordinado-natural-pero-contraproducente-claim]]

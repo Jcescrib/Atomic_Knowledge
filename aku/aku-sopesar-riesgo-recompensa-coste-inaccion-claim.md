@@ -35,6 +35,8 @@ relations:
     - aku-calcular-y-mitigar-riesgo-claim
     - aku-esperar-certeza-causa-paralisis-claim
     - aku-confia-en-tu-instinto-por-encima-de-la-sola-instruccion-claim
+    - aku-agresivo-significa-proactivo-no-iracundo-claim
+    - aku-hesitar-a-veces-es-prudente-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -49,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-aggressive-not-reckless-concept]]
 
-**related** ↔ [[aku-calcular-y-mitigar-riesgo-claim]] · [[aku-esperar-certeza-causa-paralisis-claim]] · [[aku-confia-en-tu-instinto-por-encima-de-la-sola-instruccion-claim]]
+**related** ↔ [[aku-calcular-y-mitigar-riesgo-claim]] · [[aku-esperar-certeza-causa-paralisis-claim]] · [[aku-confia-en-tu-instinto-por-encima-de-la-sola-instruccion-claim]] · [[aku-agresivo-significa-proactivo-no-iracundo-claim]] · [[aku-hesitar-a-veces-es-prudente-claim]]

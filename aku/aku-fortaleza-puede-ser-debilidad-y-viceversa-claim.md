@@ -35,6 +35,10 @@ relations:
     - aku-fortalezas-debilidades-motivaciones-concept
     - aku-tests-personalidad-concept
     - aku-descubrir-fortalezas-feedback-externo-concept
+    - aku-mind-control-controla-tu-propia-mente-concept
+    - aku-eleccion-vence-naturaleza-y-crianza-claim
+    - aku-solo-te-puedes-controlar-a-ti-mismo-claim
+    - aku-me-versus-me-superarte-a-ti-mismo-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -47,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-check-the-ego-concept]] · [[aku-fortalezas-debilidades-motivaciones-concept]] · [[aku-tests-personalidad-concept]] · [[aku-descubrir-fortalezas-feedback-externo-concept]]
+**related** ↔ [[aku-check-the-ego-concept]] · [[aku-fortalezas-debilidades-motivaciones-concept]] · [[aku-tests-personalidad-concept]] · [[aku-descubrir-fortalezas-feedback-externo-concept]] · [[aku-mind-control-controla-tu-propia-mente-concept]] · [[aku-eleccion-vence-naturaleza-y-crianza-claim]] · [[aku-solo-te-puedes-controlar-a-ti-mismo-claim]] · [[aku-me-versus-me-superarte-a-ti-mismo-claim]]

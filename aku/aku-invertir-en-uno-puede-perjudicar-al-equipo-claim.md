@@ -35,6 +35,8 @@ relations:
   related:
     - aku-no-bad-teams-only-bad-leaders-concept
     - aku-lealtad-mal-entendida-proteger-underperformers-claim
+    - aku-lider-responsable-del-output-maximizar-potencial-claim
+    - aku-ni-muy-rapido-ni-muy-lento-para-despedir-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -49,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-when-to-mentor-when-to-fire-concept]]
 
-**related** ↔ [[aku-no-bad-teams-only-bad-leaders-concept]] · [[aku-lealtad-mal-entendida-proteger-underperformers-claim]]
+**related** ↔ [[aku-no-bad-teams-only-bad-leaders-concept]] · [[aku-lealtad-mal-entendida-proteger-underperformers-claim]] · [[aku-lider-responsable-del-output-maximizar-potencial-claim]] · [[aku-ni-muy-rapido-ni-muy-lento-para-despedir-claim]]

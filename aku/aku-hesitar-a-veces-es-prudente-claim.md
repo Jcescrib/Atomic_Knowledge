@@ -36,6 +36,8 @@ relations:
     - aku-hesitacion-es-el-enemigo-claim
     - aku-48laws-03-conceal-your-intentions-concept
     - aku-48laws-14-pose-as-friend-work-as-spy-concept
+    - aku-agresivo-significa-proactivo-no-iracundo-claim
+    - aku-sopesar-riesgo-recompensa-coste-inaccion-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -50,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-aggressive-not-reckless-concept]]
 
-**related** ↔ [[aku-hesitacion-es-el-enemigo-claim]] · [[aku-48laws-03-conceal-your-intentions-concept]] · [[aku-48laws-14-pose-as-friend-work-as-spy-concept]]
+**related** ↔ [[aku-hesitacion-es-el-enemigo-claim]] · [[aku-48laws-03-conceal-your-intentions-concept]] · [[aku-48laws-14-pose-as-friend-work-as-spy-concept]] · [[aku-agresivo-significa-proactivo-no-iracundo-claim]] · [[aku-sopesar-riesgo-recompensa-coste-inaccion-claim]]

@@ -34,6 +34,11 @@ relations:
     - aku-evaluation-character-leadership-concept
     - aku-el-deseo-y-el-ego-nublan-la-realidad-claim
     - aku-rodearte-de-yes-men-impide-aprender-de-tus-errores-claim
+    - aku-check-ego-asumiendo-culpa-primero-method
+    - aku-ego-bueno-vs-destructivo-claim
+    - aku-ego-impide-evaluacion-honesta-claim
+    - aku-el-ego-mas-dificil-es-el-propio-claim
+    - aku-mejores-lideres-mision-no-ego-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -49,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-check-the-ego-concept]]
 
-**related** ↔ [[aku-evaluation-character-leadership-concept]] · [[aku-el-deseo-y-el-ego-nublan-la-realidad-claim]] · [[aku-rodearte-de-yes-men-impide-aprender-de-tus-errores-claim]]
+**related** ↔ [[aku-evaluation-character-leadership-concept]] · [[aku-el-deseo-y-el-ego-nublan-la-realidad-claim]] · [[aku-rodearte-de-yes-men-impide-aprender-de-tus-errores-claim]] · [[aku-check-ego-asumiendo-culpa-primero-method]] · [[aku-ego-bueno-vs-destructivo-claim]] · [[aku-ego-impide-evaluacion-honesta-claim]] · [[aku-el-ego-mas-dificil-es-el-propio-claim]] · [[aku-mejores-lideres-mision-no-ego-claim]]

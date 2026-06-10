@@ -31,7 +31,11 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-32-principles-diagnostic-method
+    - aku-eficiencia-apex-timing-control-macro-concept
+    - aku-sinergia-principios-se-combinan-concept
+    - aku-grandmaster-principle-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -45,3 +49,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-32-principios-jiu-jitsu-concept]]
+
+**related** ↔ [[aku-32-principles-diagnostic-method]] · [[aku-eficiencia-apex-timing-control-macro-concept]] · [[aku-sinergia-principios-se-combinan-concept]] · [[aku-grandmaster-principle-concept]]

@@ -40,6 +40,11 @@ relations:
     - aku-dar-confianza-incrementalmente-method
     - aku-new-sheriff-cambio-segun-estado-equipo-method
     - aku-cuando-micromanage-es-necesario-method
+    - aku-micromanagement-mata-iniciativa-claim
+    - aku-hands-off-laissez-faire-descoordina-claim
+    - aku-sintomas-de-hands-off-method
+    - aku-corregir-hands-off-method
+    - aku-asignar-lead-claro-evita-planes-divergentes-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -54,4 +59,4 @@ status_note: ""
 
 **supports** → [[aku-balance-ownership-decentralized-command-concept]]
 
-**related** ↔ [[aku-sintomas-de-micromanagement-method]] · [[aku-accountability-temporal-luego-soltar-claim]] · [[aku-dar-confianza-incrementalmente-method]] · [[aku-new-sheriff-cambio-segun-estado-equipo-method]] · [[aku-cuando-micromanage-es-necesario-method]]
+**related** ↔ [[aku-sintomas-de-micromanagement-method]] · [[aku-accountability-temporal-luego-soltar-claim]] · [[aku-dar-confianza-incrementalmente-method]] · [[aku-new-sheriff-cambio-segun-estado-equipo-method]] · [[aku-cuando-micromanage-es-necesario-method]] · [[aku-micromanagement-mata-iniciativa-claim]] · [[aku-hands-off-laissez-faire-descoordina-claim]] · [[aku-sintomas-de-hands-off-method]] · [[aku-corregir-hands-off-method]] · [[aku-asignar-lead-claro-evita-planes-divergentes-claim]]

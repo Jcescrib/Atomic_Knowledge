@@ -34,6 +34,7 @@ relations:
   related:
     - aku-laws-of-combat-concept
     - aku-simple-law-of-combat-concept
+    - aku-principios-combate-aplican-a-negocio-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-laws-of-combat-concept]] · [[aku-simple-law-of-combat-concept]]
+**related** ↔ [[aku-laws-of-combat-concept]] · [[aku-simple-law-of-combat-concept]] · [[aku-principios-combate-aplican-a-negocio-claim]]

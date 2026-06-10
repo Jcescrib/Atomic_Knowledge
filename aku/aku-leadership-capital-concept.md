@@ -41,6 +41,9 @@ relations:
     - aku-play-the-long-game-concept
     - aku-manejar-jefe-micromanager-indeciso-debil-method
     - aku-48laws-23-concentrate-your-forces-concept
+    - aku-liderazgo-requiere-balance-no-extremos-claim
+    - aku-humildad-es-la-cualidad-mas-importante-claim
+    - aku-disease-of-victory-concept
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -55,4 +58,4 @@ status_note: ""
 
 **supports** → [[aku-resolute-but-not-overbearing-concept]]
 
-**related** ↔ [[aku-confianza-se-construye-no-se-da-claim]] · [[aku-redirigir-al-jefe-onus-en-ti-method]] · [[aku-rendimiento-construye-confianza-del-jefe-claim]] · [[aku-play-the-long-game-concept]] · [[aku-manejar-jefe-micromanager-indeciso-debil-method]] · [[aku-48laws-23-concentrate-your-forces-concept]]
+**related** ↔ [[aku-confianza-se-construye-no-se-da-claim]] · [[aku-redirigir-al-jefe-onus-en-ti-method]] · [[aku-rendimiento-construye-confianza-del-jefe-claim]] · [[aku-play-the-long-game-concept]] · [[aku-manejar-jefe-micromanager-indeciso-debil-method]] · [[aku-48laws-23-concentrate-your-forces-concept]] · [[aku-liderazgo-requiere-balance-no-extremos-claim]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-disease-of-victory-concept]]

@@ -41,6 +41,12 @@ relations:
     - aku-preemptive-ownership-concept
     - aku-iterative-decision-making-method
     - aku-implementation-intention-method
+    - aku-default-agresivo-proactivo-dictar-situacion-claim
+    - aku-esperar-certeza-causa-paralisis-claim
+    - aku-no-hay-solucion-100-correcta-claim
+    - aku-conjetura-educada-method
+    - aku-lider-percibido-como-decisivo-claim
+    - aku-si-no-ganas-no-tomas-buenas-decisiones-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -55,4 +61,4 @@ status_note: ""
 
 **supports** → [[aku-prioritize-and-execute-concept]]
 
-**related** ↔ [[aku-decentralized-command-concept]] · [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-priorizar-3-4-contingencias-mas-probables-method]] · [[aku-miedo-al-fracaso-es-bueno-claim]] · [[aku-preemptive-ownership-concept]] · [[aku-iterative-decision-making-method]] · [[aku-implementation-intention-method]]
+**related** ↔ [[aku-decentralized-command-concept]] · [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-priorizar-3-4-contingencias-mas-probables-method]] · [[aku-miedo-al-fracaso-es-bueno-claim]] · [[aku-preemptive-ownership-concept]] · [[aku-iterative-decision-making-method]] · [[aku-implementation-intention-method]] · [[aku-default-agresivo-proactivo-dictar-situacion-claim]] · [[aku-esperar-certeza-causa-paralisis-claim]] · [[aku-no-hay-solucion-100-correcta-claim]] · [[aku-conjetura-educada-method]] · [[aku-lider-percibido-como-decisivo-claim]] · [[aku-si-no-ganas-no-tomas-buenas-decisiones-claim]]

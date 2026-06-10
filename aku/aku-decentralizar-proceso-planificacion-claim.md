@@ -38,6 +38,10 @@ relations:
     - aku-liderazgo-indirecto-supera-al-directo-claim
     - aku-desarrollar-poniendo-junior-al-mando-claim
     - aku-48laws-29-plan-all-the-way-to-the-end-concept
+    - aku-decentralized-limites-de-autoridad-claim
+    - aku-decentralized-requiere-confianza-bidireccional-claim
+    - aku-confianza-se-construye-no-se-da-claim
+    - aku-micromanagement-disuelve-en-caos-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -52,4 +56,4 @@ status_note: ""
 
 **supports** → [[aku-planning-process-estandarizado-concept]]
 
-**related** ↔ [[aku-decentralized-command-concept]] · [[aku-asignar-lead-claro-evita-planes-divergentes-claim]] · [[aku-liderar-desde-frente-y-desde-atras-concept]] · [[aku-dar-ordenes-solo-commanders-intent-claim]] · [[aku-liderazgo-indirecto-supera-al-directo-claim]] · [[aku-desarrollar-poniendo-junior-al-mando-claim]] · [[aku-48laws-29-plan-all-the-way-to-the-end-concept]]
+**related** ↔ [[aku-decentralized-command-concept]] · [[aku-asignar-lead-claro-evita-planes-divergentes-claim]] · [[aku-liderar-desde-frente-y-desde-atras-concept]] · [[aku-dar-ordenes-solo-commanders-intent-claim]] · [[aku-liderazgo-indirecto-supera-al-directo-claim]] · [[aku-desarrollar-poniendo-junior-al-mando-claim]] · [[aku-48laws-29-plan-all-the-way-to-the-end-concept]] · [[aku-decentralized-limites-de-autoridad-claim]] · [[aku-decentralized-requiere-confianza-bidireccional-claim]] · [[aku-confianza-se-construye-no-se-da-claim]] · [[aku-micromanagement-disuelve-en-caos-claim]]

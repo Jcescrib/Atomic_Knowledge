@@ -35,6 +35,13 @@ relations:
     - aku-lider-mirar-al-espejo-claim
     - aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim
     - aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept
+    - aku-extreme-ownership-concept
+    - aku-actitud-lider-determina-exito-claim
+    - aku-ver-problemas-lente-objetiva-claim
+    - aku-humildad-asumir-errores-claim
+    - aku-tortured-genius-concept
+    - aku-atribucion-sesgada-exito-fracaso-claim
+    - aku-owner-no-toma-credito-da-honor-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -49,4 +56,4 @@ status_note: ""
 
 **supports** → [[aku-leading-up-the-chain-concept]]
 
-**related** ↔ [[aku-lider-mirar-al-espejo-claim]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]] · [[aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept]]
+**related** ↔ [[aku-lider-mirar-al-espejo-claim]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]] · [[aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept]] · [[aku-extreme-ownership-concept]] · [[aku-actitud-lider-determina-exito-claim]] · [[aku-ver-problemas-lente-objetiva-claim]] · [[aku-humildad-asumir-errores-claim]] · [[aku-tortured-genius-concept]] · [[aku-atribucion-sesgada-exito-fracaso-claim]] · [[aku-owner-no-toma-credito-da-honor-claim]]

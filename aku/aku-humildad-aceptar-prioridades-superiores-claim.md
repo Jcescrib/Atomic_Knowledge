@@ -31,7 +31,11 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-leading-up-requiere-influencia-no-autoridad-claim
+    - aku-feedback-hacia-arriba-cadena-claim
+    - aku-presentar-frente-unido-claim
+    - aku-jefe-subestima-peso-de-su-posicion-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,3 +49,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-leading-up-the-chain-concept]]
+
+**related** ↔ [[aku-leading-up-requiere-influencia-no-autoridad-claim]] · [[aku-feedback-hacia-arriba-cadena-claim]] · [[aku-presentar-frente-unido-claim]] · [[aku-jefe-subestima-peso-de-su-posicion-claim]]

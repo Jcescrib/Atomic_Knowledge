@@ -38,6 +38,10 @@ relations:
     - aku-pride-fuerza-de-doble-filo-concept
     - aku-imposter-syndrome-es-bueno-claim
     - aku-senales-de-confianza-desequilibrada-claim
+    - aku-calcular-y-mitigar-riesgo-claim
+    - aku-los-que-no-arriesgan-no-ganan-claim
+    - aku-valiente-no-temerario-concept
+    - aku-el-enemigo-tiene-voto-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -52,6 +56,6 @@ status_note: ""
 
 **supported_by** ← [[aku-nunca-complacencia-subestimar-enemigo-claim]]
 
-**related** ↔ [[aku-check-the-ego-concept]] · [[aku-disease-of-victory-concept]] · [[aku-pride-fuerza-de-doble-filo-concept]] · [[aku-imposter-syndrome-es-bueno-claim]] · [[aku-senales-de-confianza-desequilibrada-claim]]
+**related** ↔ [[aku-check-the-ego-concept]] · [[aku-disease-of-victory-concept]] · [[aku-pride-fuerza-de-doble-filo-concept]] · [[aku-imposter-syndrome-es-bueno-claim]] · [[aku-senales-de-confianza-desequilibrada-claim]] · [[aku-calcular-y-mitigar-riesgo-claim]] · [[aku-los-que-no-arriesgan-no-ganan-claim]] · [[aku-valiente-no-temerario-concept]] · [[aku-el-enemigo-tiene-voto-concept]]
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]

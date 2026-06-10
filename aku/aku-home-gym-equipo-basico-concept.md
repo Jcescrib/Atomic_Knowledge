@@ -35,6 +35,8 @@ relations:
     - aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim
     - aku-estructura-workout-pull-push-lift-squat-method
     - aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method
+    - aku-calentamiento-progresivo-method
+    - aku-estiramiento-rutina-method
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim]] · [[aku-estructura-workout-pull-push-lift-squat-method]] · [[aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method]]
+**related** ↔ [[aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim]] · [[aku-estructura-workout-pull-push-lift-squat-method]] · [[aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method]] · [[aku-calentamiento-progresivo-method]] · [[aku-estiramiento-rutina-method]]

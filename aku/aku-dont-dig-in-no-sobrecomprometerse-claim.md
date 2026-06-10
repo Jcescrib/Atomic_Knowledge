@@ -39,6 +39,10 @@ relations:
     - aku-ejecutar-decision-como-propia-claim
     - aku-cuando-rendirse-tactico-no-estrategico-claim
     - aku-ultimatums-ultimo-recurso-method
+    - aku-subordinate-your-ego-desactiva-choque-method
+    - aku-no-care-detachment-via-ego-method
+    - aku-no-tomarse-las-cosas-personalmente-claim
+    - aku-jefe-quiere-el-credito-daselo-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -51,4 +55,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-play-the-long-game-concept]] · [[aku-dar-ordenes-solo-commanders-intent-claim]] · [[aku-ejecutar-decision-como-propia-claim]] · [[aku-cuando-rendirse-tactico-no-estrategico-claim]] · [[aku-ultimatums-ultimo-recurso-method]]
+**related** ↔ [[aku-play-the-long-game-concept]] · [[aku-dar-ordenes-solo-commanders-intent-claim]] · [[aku-ejecutar-decision-como-propia-claim]] · [[aku-cuando-rendirse-tactico-no-estrategico-claim]] · [[aku-ultimatums-ultimo-recurso-method]] · [[aku-subordinate-your-ego-desactiva-choque-method]] · [[aku-no-care-detachment-via-ego-method]] · [[aku-no-tomarse-las-cosas-personalmente-claim]] · [[aku-jefe-quiere-el-credito-daselo-claim]]

@@ -31,7 +31,11 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-liderazgo-factor-mas-importante-claim
+    - aku-no-bad-teams-only-bad-leaders-concept
+    - aku-lider-responsable-mision-tactica-recursos-claim
+    - aku-battlefield-promotion-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,3 +49,5 @@ status_note: ""
 ## Relaciones
 
 **constrained_by** ← [[aku-medida-significativa-liderazgo-claim]]
+
+**related** ↔ [[aku-liderazgo-factor-mas-importante-claim]] · [[aku-no-bad-teams-only-bad-leaders-concept]] · [[aku-lider-responsable-mision-tactica-recursos-claim]] · [[aku-battlefield-promotion-concept]]

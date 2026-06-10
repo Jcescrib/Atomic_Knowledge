@@ -38,6 +38,9 @@ relations:
     - aku-excepcion-resistir-ordenes-ilegales-inmorales-claim
     - aku-ejecutar-decision-como-propia-claim
     - aku-preguntar-por-que-method
+    - aku-manejar-jefe-micromanager-indeciso-debil-method
+    - aku-redirigir-al-jefe-onus-en-ti-method
+    - aku-defender-al-jefe-casi-indefendible-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -50,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-excepcion-resistir-ordenes-ilegales-inmorales-claim]] · [[aku-ejecutar-decision-como-propia-claim]] · [[aku-preguntar-por-que-method]]
+**related** ↔ [[aku-excepcion-resistir-ordenes-ilegales-inmorales-claim]] · [[aku-ejecutar-decision-como-propia-claim]] · [[aku-preguntar-por-que-method]] · [[aku-manejar-jefe-micromanager-indeciso-debil-method]] · [[aku-redirigir-al-jefe-onus-en-ti-method]] · [[aku-defender-al-jefe-casi-indefendible-claim]]

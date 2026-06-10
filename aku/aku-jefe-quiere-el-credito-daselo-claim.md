@@ -35,6 +35,10 @@ relations:
     - aku-owner-no-toma-credito-da-honor-claim
     - aku-play-the-long-game-concept
     - aku-mejores-lideres-mision-no-ego-claim
+    - aku-subordinate-your-ego-desactiva-choque-method
+    - aku-no-care-detachment-via-ego-method
+    - aku-no-tomarse-las-cosas-personalmente-claim
+    - aku-dont-dig-in-no-sobrecomprometerse-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -47,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-owner-no-toma-credito-da-honor-claim]] · [[aku-play-the-long-game-concept]] · [[aku-mejores-lideres-mision-no-ego-claim]]
+**related** ↔ [[aku-owner-no-toma-credito-da-honor-claim]] · [[aku-play-the-long-game-concept]] · [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-subordinate-your-ego-desactiva-choque-method]] · [[aku-no-care-detachment-via-ego-method]] · [[aku-no-tomarse-las-cosas-personalmente-claim]] · [[aku-dont-dig-in-no-sobrecomprometerse-claim]]

@@ -36,6 +36,9 @@ relations:
     - aku-dar-confianza-incrementalmente-method
     - aku-decentralized-command-concept
     - aku-micromanagement-mata-iniciativa-claim
+    - aku-dar-ordenes-solo-commanders-intent-claim
+    - aku-delegar-todo-para-liderar-no-pareciendo-vago-claim
+    - aku-no-amontonarse-en-el-lider-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-dar-confianza-incrementalmente-method]] · [[aku-decentralized-command-concept]] · [[aku-micromanagement-mata-iniciativa-claim]]
+**related** ↔ [[aku-dar-confianza-incrementalmente-method]] · [[aku-decentralized-command-concept]] · [[aku-micromanagement-mata-iniciativa-claim]] · [[aku-dar-ordenes-solo-commanders-intent-claim]] · [[aku-delegar-todo-para-liderar-no-pareciendo-vago-claim]] · [[aku-no-amontonarse-en-el-lider-claim]]

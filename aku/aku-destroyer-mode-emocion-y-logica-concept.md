@@ -38,6 +38,7 @@ relations:
     - aku-no-relajarse-hasta-completar-la-mision-claim
     - aku-instinto-de-rendirse-es-mentiroso-claim
     - aku-la-oscuridad-solo-gana-si-la-dejas-claim
+    - aku-the-warpath-concept
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -50,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-dichotomy-of-leadership-concept]] · [[aku-no-relajarse-hasta-completar-la-mision-claim]] · [[aku-instinto-de-rendirse-es-mentiroso-claim]] · [[aku-la-oscuridad-solo-gana-si-la-dejas-claim]]
+**related** ↔ [[aku-dichotomy-of-leadership-concept]] · [[aku-no-relajarse-hasta-completar-la-mision-claim]] · [[aku-instinto-de-rendirse-es-mentiroso-claim]] · [[aku-la-oscuridad-solo-gana-si-la-dejas-claim]] · [[aku-the-warpath-concept]]

@@ -34,6 +34,9 @@ relations:
     - aku-lealtad-mision-sobre-individuo-claim
     - aku-lealtad-mal-entendida-proteger-underperformers-claim
     - aku-when-to-mentor-when-to-fire-concept
+    - aku-cortar-cancers-del-equipo-rapido-claim
+    - aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim
+    - aku-repetir-tarea-hasta-estandar-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-lealtad-mal-entendida-proteger-underperformers-claim]] · [[aku-when-to-mentor-when-to-fire-concept]]
+**related** ↔ [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-lealtad-mal-entendida-proteger-underperformers-claim]] · [[aku-when-to-mentor-when-to-fire-concept]] · [[aku-cortar-cancers-del-equipo-rapido-claim]] · [[aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim]] · [[aku-repetir-tarea-hasta-estandar-method]]

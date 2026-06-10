@@ -31,7 +31,16 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-agresivo-no-prepotente-concept
+    - aku-atento-detalle-no-obsesionado-concept
+    - aku-callado-no-silencioso-concept
+    - aku-calmado-no-robotico-concept
+    - aku-cercano-pero-no-demasiado-concept
+    - aku-fuerte-con-resistencia-concept
+    - aku-humilde-no-pasivo-concept
+    - aku-lider-y-seguidor-concept
+    - aku-nada-que-probar-pero-todo-que-probar-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,3 +54,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
+
+**related** ↔ [[aku-agresivo-no-prepotente-concept]] · [[aku-atento-detalle-no-obsesionado-concept]] · [[aku-callado-no-silencioso-concept]] · [[aku-calmado-no-robotico-concept]] · [[aku-cercano-pero-no-demasiado-concept]] · [[aku-fuerte-con-resistencia-concept]] · [[aku-humilde-no-pasivo-concept]] · [[aku-lider-y-seguidor-concept]] · [[aku-nada-que-probar-pero-todo-que-probar-concept]]

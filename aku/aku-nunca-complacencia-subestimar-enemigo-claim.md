@@ -34,6 +34,10 @@ relations:
     - aku-disease-of-victory-concept
     - aku-no-relajarse-hasta-completar-la-mision-claim
     - aku-balancing-praise-elogio-con-cautela-claim
+    - aku-calcular-y-mitigar-riesgo-claim
+    - aku-los-que-no-arriesgan-no-ganan-claim
+    - aku-valiente-no-temerario-concept
+    - aku-el-enemigo-tiene-voto-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-confident-but-not-cocky-concept]]
 
-**related** ↔ [[aku-disease-of-victory-concept]] · [[aku-no-relajarse-hasta-completar-la-mision-claim]] · [[aku-balancing-praise-elogio-con-cautela-claim]]
+**related** ↔ [[aku-disease-of-victory-concept]] · [[aku-no-relajarse-hasta-completar-la-mision-claim]] · [[aku-balancing-praise-elogio-con-cautela-claim]] · [[aku-calcular-y-mitigar-riesgo-claim]] · [[aku-los-que-no-arriesgan-no-ganan-claim]] · [[aku-valiente-no-temerario-concept]] · [[aku-el-enemigo-tiene-voto-concept]]

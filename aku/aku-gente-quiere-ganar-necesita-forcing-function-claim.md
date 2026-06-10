@@ -31,7 +31,11 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-incentivos-simples-pocas-metricas-method
+    - aku-conexion-accion-consecuencia-conducta-claim
+    - aku-no-obligar-sino-liderar-claim
+    - aku-metas-intermedias-visibles-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,3 +49,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-no-bad-teams-only-bad-leaders-concept]]
+
+**related** ↔ [[aku-incentivos-simples-pocas-metricas-method]] · [[aku-conexion-accion-consecuencia-conducta-claim]] · [[aku-no-obligar-sino-liderar-claim]] · [[aku-metas-intermedias-visibles-method]]

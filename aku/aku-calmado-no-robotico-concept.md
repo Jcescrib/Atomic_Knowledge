@@ -37,6 +37,15 @@ relations:
     - aku-reflect-and-diminish-method
     - aku-cuando-gritar-casi-nunca-y-calculado-claim
     - aku-48laws-39-stir-up-waters-to-catch-fish-concept
+    - aku-agresivo-no-prepotente-concept
+    - aku-atento-detalle-no-obsesionado-concept
+    - aku-callado-no-silencioso-concept
+    - aku-cercano-pero-no-demasiado-concept
+    - aku-competitivo-buen-perdedor-concept
+    - aku-fuerte-con-resistencia-concept
+    - aku-humilde-no-pasivo-concept
+    - aku-lider-y-seguidor-concept
+    - aku-nada-que-probar-pero-todo-que-probar-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -51,4 +60,4 @@ status_note: ""
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
 
-**related** ↔ [[aku-agresivo-significa-proactivo-no-iracundo-claim]] · [[aku-no-sobrerreaccionar-mantener-la-calma-claim]] · [[aku-reflect-and-diminish-method]] · [[aku-cuando-gritar-casi-nunca-y-calculado-claim]] · [[aku-48laws-39-stir-up-waters-to-catch-fish-concept]]
+**related** ↔ [[aku-agresivo-significa-proactivo-no-iracundo-claim]] · [[aku-no-sobrerreaccionar-mantener-la-calma-claim]] · [[aku-reflect-and-diminish-method]] · [[aku-cuando-gritar-casi-nunca-y-calculado-claim]] · [[aku-48laws-39-stir-up-waters-to-catch-fish-concept]] · [[aku-agresivo-no-prepotente-concept]] · [[aku-atento-detalle-no-obsesionado-concept]] · [[aku-callado-no-silencioso-concept]] · [[aku-cercano-pero-no-demasiado-concept]] · [[aku-competitivo-buen-perdedor-concept]] · [[aku-fuerte-con-resistencia-concept]] · [[aku-humilde-no-pasivo-concept]] · [[aku-lider-y-seguidor-concept]] · [[aku-nada-que-probar-pero-todo-que-probar-concept]]

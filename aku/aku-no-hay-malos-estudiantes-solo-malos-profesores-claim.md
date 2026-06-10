@@ -34,6 +34,10 @@ relations:
   related:
     - aku-anchor-principle-concept
     - aku-no-bad-teams-only-bad-leaders-concept
+    - aku-aprender-pensando-por-uno-mismo-descubre-mas-claim
+    - aku-maestro-nunca-deja-de-aprender-humildad-claim
+    - aku-ensenar-con-no-a-incorporar-feedback-claim
+    - aku-liderar-con-el-ejemplo-unica-forma-de-ensenar-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -46,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-anchor-principle-concept]] · [[aku-no-bad-teams-only-bad-leaders-concept]]
+**related** ↔ [[aku-anchor-principle-concept]] · [[aku-no-bad-teams-only-bad-leaders-concept]] · [[aku-aprender-pensando-por-uno-mismo-descubre-mas-claim]] · [[aku-maestro-nunca-deja-de-aprender-humildad-claim]] · [[aku-ensenar-con-no-a-incorporar-feedback-claim]] · [[aku-liderar-con-el-ejemplo-unica-forma-de-ensenar-claim]]

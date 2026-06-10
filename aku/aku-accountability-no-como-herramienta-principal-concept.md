@@ -38,6 +38,7 @@ relations:
   related:
     - aku-believe-in-the-mission-concept
     - aku-decentralized-command-concept
+    - aku-enforzar-estandares-siempre-con-el-porque-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -54,4 +55,4 @@ status_note: ""
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
 
-**related** ↔ [[aku-believe-in-the-mission-concept]] · [[aku-decentralized-command-concept]]
+**related** ↔ [[aku-believe-in-the-mission-concept]] · [[aku-decentralized-command-concept]] · [[aku-enforzar-estandares-siempre-con-el-porque-claim]]

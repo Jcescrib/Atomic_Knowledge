@@ -41,6 +41,8 @@ relations:
   contradicts: []
   related:
     - aku-priorizar-3-4-contingencias-mas-probables-method
+    - aku-stand-back-be-the-tactical-genius-claim
+    - aku-detach-tactico-estrategico-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -55,4 +57,4 @@ status_note: ""
 
 **supports** → [[aku-planning-process-estandarizado-concept]]
 
-**related** ↔ [[aku-priorizar-3-4-contingencias-mas-probables-method]]
+**related** ↔ [[aku-priorizar-3-4-contingencias-mas-probables-method]] · [[aku-stand-back-be-the-tactical-genius-claim]] · [[aku-detach-tactico-estrategico-concept]]

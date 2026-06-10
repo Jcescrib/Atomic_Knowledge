@@ -34,6 +34,9 @@ relations:
     - aku-humildad-asumir-errores-claim
     - aku-post-operational-debrief-method
     - aku-cuando-no-te-eligen-pedir-feedback-method
+    - aku-hesitacion-es-el-enemigo-claim
+    - aku-paso-agresivo-hacia-el-miedo-claim
+    - aku-miedo-al-fracaso-es-bueno-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-humildad-asumir-errores-claim]] · [[aku-post-operational-debrief-method]] · [[aku-cuando-no-te-eligen-pedir-feedback-method]]
+**related** ↔ [[aku-humildad-asumir-errores-claim]] · [[aku-post-operational-debrief-method]] · [[aku-cuando-no-te-eligen-pedir-feedback-method]] · [[aku-hesitacion-es-el-enemigo-claim]] · [[aku-paso-agresivo-hacia-el-miedo-claim]] · [[aku-miedo-al-fracaso-es-bueno-claim]]

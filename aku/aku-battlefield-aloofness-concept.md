@@ -34,6 +34,8 @@ relations:
     - aku-decentralized-command-concept
     - aku-micromanagement-disuelve-en-caos-claim
     - aku-demasiado-desapegado-dana-al-equipo-claim
+    - aku-liderar-desde-posicion-mas-dificil-claim
+    - aku-posicionamiento-del-lider-flexible-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-decentralized-command-concept]] · [[aku-micromanagement-disuelve-en-caos-claim]] · [[aku-demasiado-desapegado-dana-al-equipo-claim]]
+**related** ↔ [[aku-decentralized-command-concept]] · [[aku-micromanagement-disuelve-en-caos-claim]] · [[aku-demasiado-desapegado-dana-al-equipo-claim]] · [[aku-liderar-desde-posicion-mas-dificil-claim]] · [[aku-posicionamiento-del-lider-flexible-claim]]

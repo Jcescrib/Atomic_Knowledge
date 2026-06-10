@@ -39,6 +39,9 @@ relations:
     - aku-12-reglas-del-nuevo-lider-method
     - aku-inseguridad-admitir-no-ocultar-claim
     - aku-no-esperes-por-ser-joven-solo-se-aprende-haciendo-claim
+    - aku-lider-compensa-debilidades-con-el-equipo-claim
+    - aku-ningun-trabajo-es-demasiado-bajo-claim
+    - aku-cada-miembro-es-el-mas-importante-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -51,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-check-the-ego-concept]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-power-of-relationships-liderazgo-concept]] · [[aku-12-reglas-del-nuevo-lider-method]] · [[aku-inseguridad-admitir-no-ocultar-claim]] · [[aku-no-esperes-por-ser-joven-solo-se-aprende-haciendo-claim]]
+**related** ↔ [[aku-check-the-ego-concept]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-power-of-relationships-liderazgo-concept]] · [[aku-12-reglas-del-nuevo-lider-method]] · [[aku-inseguridad-admitir-no-ocultar-claim]] · [[aku-no-esperes-por-ser-joven-solo-se-aprende-haciendo-claim]] · [[aku-lider-compensa-debilidades-con-el-equipo-claim]] · [[aku-ningun-trabajo-es-demasiado-bajo-claim]] · [[aku-cada-miembro-es-el-mas-importante-claim]]

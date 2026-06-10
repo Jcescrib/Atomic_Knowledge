@@ -35,6 +35,10 @@ relations:
     - aku-good-mindset-concept
     - aku-la-risa-gana-claim
     - aku-positivo-pero-realista-no-pollyanna-claim
+    - aku-extreme-ownership-cultura-equipo-claim
+    - aku-cultura-ownership-resiste-perdida-lider-claim
+    - aku-culpar-se-contagia-claim
+    - aku-culpar-subordinado-natural-pero-contraproducente-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -49,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-no-bad-teams-only-bad-leaders-concept]]
 
-**related** ↔ [[aku-actitud-lider-determina-exito-claim]] · [[aku-good-mindset-concept]] · [[aku-la-risa-gana-claim]] · [[aku-positivo-pero-realista-no-pollyanna-claim]]
+**related** ↔ [[aku-actitud-lider-determina-exito-claim]] · [[aku-good-mindset-concept]] · [[aku-la-risa-gana-claim]] · [[aku-positivo-pero-realista-no-pollyanna-claim]] · [[aku-extreme-ownership-cultura-equipo-claim]] · [[aku-cultura-ownership-resiste-perdida-lider-claim]] · [[aku-culpar-se-contagia-claim]] · [[aku-culpar-subordinado-natural-pero-contraproducente-claim]]

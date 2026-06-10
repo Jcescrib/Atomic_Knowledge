@@ -37,6 +37,8 @@ relations:
     - aku-corregir-micromanagement-method
     - aku-dar-confianza-incrementalmente-method
     - aku-ni-muy-rapido-ni-muy-lento-para-despedir-claim
+    - aku-castigo-raro-y-con-lineas-claras-claim
+    - aku-ultimatums-ultimo-recurso-method
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -49,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-corregir-micromanagement-method]] · [[aku-dar-confianza-incrementalmente-method]] · [[aku-ni-muy-rapido-ni-muy-lento-para-despedir-claim]]
+**related** ↔ [[aku-corregir-micromanagement-method]] · [[aku-dar-confianza-incrementalmente-method]] · [[aku-ni-muy-rapido-ni-muy-lento-para-despedir-claim]] · [[aku-castigo-raro-y-con-lineas-claras-claim]] · [[aku-ultimatums-ultimo-recurso-method]]

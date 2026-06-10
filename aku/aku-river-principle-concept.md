@@ -39,6 +39,8 @@ relations:
     - aku-fork-principle-concept
     - aku-ratchet-principle-concept
     - aku-fijarse-en-obstaculo-lo-agranda-claim
+    - aku-todo-problema-es-tecnica-por-descubrir-claim
+    - aku-la-vida-pasa-para-ti-no-a-ti-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -51,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-clock-principle-concept]] · [[aku-camino-de-menor-resistencia-claim]] · [[aku-frame-principle-concept]] · [[aku-reconnaissance-principle-concept]] · [[aku-fork-principle-concept]] · [[aku-ratchet-principle-concept]] · [[aku-fijarse-en-obstaculo-lo-agranda-claim]]
+**related** ↔ [[aku-clock-principle-concept]] · [[aku-camino-de-menor-resistencia-claim]] · [[aku-frame-principle-concept]] · [[aku-reconnaissance-principle-concept]] · [[aku-fork-principle-concept]] · [[aku-ratchet-principle-concept]] · [[aku-fijarse-en-obstaculo-lo-agranda-claim]] · [[aku-todo-problema-es-tecnica-por-descubrir-claim]] · [[aku-la-vida-pasa-para-ti-no-a-ti-claim]]

@@ -31,7 +31,11 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-briefear-al-minimo-comun-denominador-claim
+    - aku-brief-orientado-a-frontline-claim
+    - aku-simplicidad-permite-ajuste-rapido-claim
+    - aku-camino-de-menor-resistencia-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,3 +49,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-simple-law-of-combat-concept]]
+
+**related** ↔ [[aku-briefear-al-minimo-comun-denominador-claim]] · [[aku-brief-orientado-a-frontline-claim]] · [[aku-simplicidad-permite-ajuste-rapido-claim]] · [[aku-camino-de-menor-resistencia-claim]]

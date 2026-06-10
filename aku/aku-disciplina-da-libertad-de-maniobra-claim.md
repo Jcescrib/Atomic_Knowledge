@@ -35,6 +35,7 @@ relations:
     - aku-discipline-equals-freedom-concept
     - aku-planning-process-estandarizado-concept
     - aku-los-habitos-crean-libertad-no-la-restringen-claim
+    - aku-exceso-de-sops-ahoga-iniciativa-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-disciplined-not-rigid-concept]]
 
-**related** ↔ [[aku-discipline-equals-freedom-concept]] · [[aku-planning-process-estandarizado-concept]] · [[aku-los-habitos-crean-libertad-no-la-restringen-claim]]
+**related** ↔ [[aku-discipline-equals-freedom-concept]] · [[aku-planning-process-estandarizado-concept]] · [[aku-los-habitos-crean-libertad-no-la-restringen-claim]] · [[aku-exceso-de-sops-ahoga-iniciativa-claim]]

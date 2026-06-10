@@ -36,6 +36,11 @@ relations:
     - aku-river-principle-concept
     - aku-ley-del-minimo-esfuerzo-concept
     - aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method
+    - aku-simple-law-of-combat-concept
+    - aku-briefear-al-minimo-comun-denominador-claim
+    - aku-brief-orientado-a-frontline-claim
+    - aku-complejidad-se-agrava-cuando-falla-claim
+    - aku-simplicidad-permite-ajuste-rapido-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-conexion-accion-consecuencia-conducta-claim]] · [[aku-not-feeling-it-go-anyway-claim]] · [[aku-derrota-por-mil-rendiciones-pequenas-claim]] · [[aku-river-principle-concept]] · [[aku-ley-del-minimo-esfuerzo-concept]] · [[aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method]]
+**related** ↔ [[aku-conexion-accion-consecuencia-conducta-claim]] · [[aku-not-feeling-it-go-anyway-claim]] · [[aku-derrota-por-mil-rendiciones-pequenas-claim]] · [[aku-river-principle-concept]] · [[aku-ley-del-minimo-esfuerzo-concept]] · [[aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method]] · [[aku-simple-law-of-combat-concept]] · [[aku-briefear-al-minimo-comun-denominador-claim]] · [[aku-brief-orientado-a-frontline-claim]] · [[aku-complejidad-se-agrava-cuando-falla-claim]] · [[aku-simplicidad-permite-ajuste-rapido-claim]]

@@ -35,6 +35,9 @@ relations:
     - aku-liderar-desde-posicion-mas-dificil-claim
     - aku-draw-fire-concept
     - aku-delegar-todo-para-liderar-no-pareciendo-vago-claim
+    - aku-lider-conoce-trabajos-y-pide-ayuda-claim
+    - aku-lider-compensa-debilidades-con-el-equipo-claim
+    - aku-cada-miembro-es-el-mas-importante-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-liderar-desde-posicion-mas-dificil-claim]] · [[aku-draw-fire-concept]] · [[aku-delegar-todo-para-liderar-no-pareciendo-vago-claim]]
+**related** ↔ [[aku-liderar-desde-posicion-mas-dificil-claim]] · [[aku-draw-fire-concept]] · [[aku-delegar-todo-para-liderar-no-pareciendo-vago-claim]] · [[aku-lider-conoce-trabajos-y-pide-ayuda-claim]] · [[aku-lider-compensa-debilidades-con-el-equipo-claim]] · [[aku-cada-miembro-es-el-mas-importante-claim]]

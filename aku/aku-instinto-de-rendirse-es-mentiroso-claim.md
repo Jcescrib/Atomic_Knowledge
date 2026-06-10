@@ -36,6 +36,10 @@ relations:
     - aku-no-relajarse-hasta-completar-la-mision-claim
     - aku-48laws-22-use-the-surrender-tactic-concept
     - aku-corazon-de-hustler-concept
+    - aku-derrota-por-mil-rendiciones-pequenas-claim
+    - aku-la-oscuridad-solo-gana-si-la-dejas-claim
+    - aku-pelear-hasta-el-final-nada-que-perder-claim
+    - aku-abrumado-pelear-mas-duro-priorizar-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -48,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-destroyer-mode-emocion-y-logica-concept]] · [[aku-no-relajarse-hasta-completar-la-mision-claim]] · [[aku-48laws-22-use-the-surrender-tactic-concept]] · [[aku-corazon-de-hustler-concept]]
+**related** ↔ [[aku-destroyer-mode-emocion-y-logica-concept]] · [[aku-no-relajarse-hasta-completar-la-mision-claim]] · [[aku-48laws-22-use-the-surrender-tactic-concept]] · [[aku-corazon-de-hustler-concept]] · [[aku-derrota-por-mil-rendiciones-pequenas-claim]] · [[aku-la-oscuridad-solo-gana-si-la-dejas-claim]] · [[aku-pelear-hasta-el-final-nada-que-perder-claim]] · [[aku-abrumado-pelear-mas-duro-priorizar-claim]]

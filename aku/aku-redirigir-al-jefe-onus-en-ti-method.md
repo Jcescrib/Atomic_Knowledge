@@ -35,6 +35,9 @@ relations:
     - aku-preguntar-por-que-method
     - aku-leadership-capital-concept
     - aku-power-of-relationships-liderazgo-concept
+    - aku-manejar-jefe-micromanager-indeciso-debil-method
+    - aku-defender-al-jefe-casi-indefendible-claim
+    - aku-cuando-desobedecer-ultimo-recurso-method
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-preguntar-por-que-method]] · [[aku-leadership-capital-concept]] · [[aku-power-of-relationships-liderazgo-concept]]
+**related** ↔ [[aku-preguntar-por-que-method]] · [[aku-leadership-capital-concept]] · [[aku-power-of-relationships-liderazgo-concept]] · [[aku-manejar-jefe-micromanager-indeciso-debil-method]] · [[aku-defender-al-jefe-casi-indefendible-claim]] · [[aku-cuando-desobedecer-ultimo-recurso-method]]

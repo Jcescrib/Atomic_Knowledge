@@ -32,6 +32,10 @@ relations:
   related:
     - aku-calcular-y-mitigar-riesgo-claim
     - aku-blitzscaling-concept
+    - aku-valiente-no-temerario-concept
+    - aku-el-enemigo-tiene-voto-concept
+    - aku-nunca-complacencia-subestimar-enemigo-claim
+    - aku-confident-but-not-cocky-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -44,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-calcular-y-mitigar-riesgo-claim]] · [[aku-blitzscaling-concept]]
+**related** ↔ [[aku-calcular-y-mitigar-riesgo-claim]] · [[aku-blitzscaling-concept]] · [[aku-valiente-no-temerario-concept]] · [[aku-el-enemigo-tiene-voto-concept]] · [[aku-nunca-complacencia-subestimar-enemigo-claim]] · [[aku-confident-but-not-cocky-concept]]

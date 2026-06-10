@@ -34,6 +34,11 @@ relations:
   related:
     - aku-lideres-dicen-la-verdad-claim
     - aku-feedback-hacia-arriba-cadena-claim
+    - aku-construir-confianza-con-mision-asequible-method
+    - aku-dar-confianza-incrementalmente-method
+    - aku-rendimiento-construye-confianza-del-jefe-claim
+    - aku-decentralized-descansa-en-confianza-tiempo-critico-claim
+    - aku-power-of-relationships-liderazgo-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -46,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-lideres-dicen-la-verdad-claim]] · [[aku-feedback-hacia-arriba-cadena-claim]]
+**related** ↔ [[aku-lideres-dicen-la-verdad-claim]] · [[aku-feedback-hacia-arriba-cadena-claim]] · [[aku-construir-confianza-con-mision-asequible-method]] · [[aku-dar-confianza-incrementalmente-method]] · [[aku-rendimiento-construye-confianza-del-jefe-claim]] · [[aku-decentralized-descansa-en-confianza-tiempo-critico-claim]] · [[aku-power-of-relationships-liderazgo-concept]]

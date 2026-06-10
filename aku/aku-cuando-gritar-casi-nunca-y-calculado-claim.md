@@ -36,6 +36,9 @@ relations:
     - aku-briefear-al-minimo-comun-denominador-claim
     - aku-agresivo-significa-proactivo-no-iracundo-claim
     - aku-48laws-39-stir-up-waters-to-catch-fish-concept
+    - aku-no-sobrerreaccionar-mantener-la-calma-claim
+    - aku-reflect-and-diminish-method
+    - aku-aliviar-stress-sacar-del-entorno-method
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-calmado-no-robotico-concept]] · [[aku-briefear-al-minimo-comun-denominador-claim]] · [[aku-agresivo-significa-proactivo-no-iracundo-claim]] · [[aku-48laws-39-stir-up-waters-to-catch-fish-concept]]
+**related** ↔ [[aku-calmado-no-robotico-concept]] · [[aku-briefear-al-minimo-comun-denominador-claim]] · [[aku-agresivo-significa-proactivo-no-iracundo-claim]] · [[aku-48laws-39-stir-up-waters-to-catch-fish-concept]] · [[aku-no-sobrerreaccionar-mantener-la-calma-claim]] · [[aku-reflect-and-diminish-method]] · [[aku-aliviar-stress-sacar-del-entorno-method]]

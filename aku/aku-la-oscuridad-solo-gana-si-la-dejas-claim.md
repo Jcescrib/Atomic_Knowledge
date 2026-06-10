@@ -33,6 +33,10 @@ relations:
   related:
     - aku-pelear-hasta-el-final-nada-que-perder-claim
     - aku-destroyer-mode-emocion-y-logica-concept
+    - aku-derrota-por-mil-rendiciones-pequenas-claim
+    - aku-instinto-de-rendirse-es-mentiroso-claim
+    - aku-abrumado-pelear-mas-duro-priorizar-claim
+    - aku-no-relajarse-hasta-completar-la-mision-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -45,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-pelear-hasta-el-final-nada-que-perder-claim]] · [[aku-destroyer-mode-emocion-y-logica-concept]]
+**related** ↔ [[aku-pelear-hasta-el-final-nada-que-perder-claim]] · [[aku-destroyer-mode-emocion-y-logica-concept]] · [[aku-derrota-por-mil-rendiciones-pequenas-claim]] · [[aku-instinto-de-rendirse-es-mentiroso-claim]] · [[aku-abrumado-pelear-mas-duro-priorizar-claim]] · [[aku-no-relajarse-hasta-completar-la-mision-claim]]

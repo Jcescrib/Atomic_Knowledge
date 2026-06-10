@@ -38,6 +38,10 @@ relations:
     - aku-check-the-ego-concept
     - aku-liderar-pares-via-influencia-y-ego-en-jaque-claim
     - aku-48laws-33-discover-each-mans-thumbscrew-concept
+    - aku-liderazgo-indirecto-supera-al-directo-claim
+    - aku-conform-to-influence-claim
+    - aku-getting-people-to-listen-deja-que-hablen-claim
+    - aku-ganar-respeto-e-influencia-dandolos-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -50,6 +54,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-check-the-ego-concept]] · [[aku-liderar-pares-via-influencia-y-ego-en-jaque-claim]] · [[aku-48laws-33-discover-each-mans-thumbscrew-concept]]
+**related** ↔ [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-check-the-ego-concept]] · [[aku-liderar-pares-via-influencia-y-ego-en-jaque-claim]] · [[aku-48laws-33-discover-each-mans-thumbscrew-concept]] · [[aku-liderazgo-indirecto-supera-al-directo-claim]] · [[aku-conform-to-influence-claim]] · [[aku-getting-people-to-listen-deja-que-hablen-claim]] · [[aku-ganar-respeto-e-influencia-dandolos-claim]]
 
 **contradicts** ↔ [[aku-48laws-43-work-on-hearts-and-minds-concept]]

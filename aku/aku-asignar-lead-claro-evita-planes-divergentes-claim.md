@@ -34,6 +34,12 @@ relations:
   related:
     - aku-main-effort-supporting-efforts-concept
     - aku-decentralizar-proceso-planificacion-claim
+    - aku-micromanagement-mata-iniciativa-claim
+    - aku-sintomas-de-micromanagement-method
+    - aku-corregir-micromanagement-method
+    - aku-hands-off-laissez-faire-descoordina-claim
+    - aku-sintomas-de-hands-off-method
+    - aku-corregir-hands-off-method
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -48,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-balance-ownership-decentralized-command-concept]]
 
-**related** ↔ [[aku-main-effort-supporting-efforts-concept]] · [[aku-decentralizar-proceso-planificacion-claim]]
+**related** ↔ [[aku-main-effort-supporting-efforts-concept]] · [[aku-decentralizar-proceso-planificacion-claim]] · [[aku-micromanagement-mata-iniciativa-claim]] · [[aku-sintomas-de-micromanagement-method]] · [[aku-corregir-micromanagement-method]] · [[aku-hands-off-laissez-faire-descoordina-claim]] · [[aku-sintomas-de-hands-off-method]] · [[aku-corregir-hands-off-method]]

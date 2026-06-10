@@ -34,6 +34,7 @@ relations:
   related:
     - aku-sueno-es-necesidad-7-9h-claim
     - aku-autoevaluacion-cuerpo-mente-alma-concept
+    - aku-conciliar-sueno-temprano-pasos-method
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-sueno-es-necesidad-7-9h-claim]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]]
+**related** ↔ [[aku-sueno-es-necesidad-7-9h-claim]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-conciliar-sueno-temprano-pasos-method]]

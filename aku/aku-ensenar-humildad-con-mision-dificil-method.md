@@ -35,6 +35,8 @@ relations:
   related:
     - aku-check-the-ego-concept
     - aku-humildad-es-la-cualidad-mas-importante-claim
+    - aku-desarrollar-poniendo-junior-al-mando-claim
+    - aku-arreglar-mala-actitud-con-responsabilidad-que-importa-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -49,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-liderazgo-como-herramienta-para-ensenar-concept]]
 
-**related** ↔ [[aku-check-the-ego-concept]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]]
+**related** ↔ [[aku-check-the-ego-concept]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-desarrollar-poniendo-junior-al-mando-claim]] · [[aku-arreglar-mala-actitud-con-responsabilidad-que-importa-claim]]

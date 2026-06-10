@@ -30,7 +30,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-discipline-equals-freedom-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -44,3 +45,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
+
+**related** ↔ [[aku-discipline-equals-freedom-concept]]

@@ -35,6 +35,7 @@ relations:
     - aku-pivot-principle-concept
     - aku-reconocer-los-miedos-que-no-has-confrontado-es-parte-del-trabajo-claim
     - aku-status-driver-compra-claim
+    - aku-pivotar-perspectiva-transforma-resultados-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-pivot-principle-concept]] · [[aku-reconocer-los-miedos-que-no-has-confrontado-es-parte-del-trabajo-claim]] · [[aku-status-driver-compra-claim]]
+**related** ↔ [[aku-pivot-principle-concept]] · [[aku-reconocer-los-miedos-que-no-has-confrontado-es-parte-del-trabajo-claim]] · [[aku-status-driver-compra-claim]] · [[aku-pivotar-perspectiva-transforma-resultados-claim]]

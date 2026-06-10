@@ -37,6 +37,9 @@ relations:
     - aku-ignorar-y-superar-a-los-negativos-claim
     - aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept
     - aku-una-vez-consigues-lo-que-perseguias-rara-vez-te-satisface-perseguir-fuerza-a-evolucionar-claim
+    - aku-mind-control-controla-tu-propia-mente-concept
+    - aku-solo-te-puedes-controlar-a-ti-mismo-claim
+    - aku-fortaleza-puede-ser-debilidad-y-viceversa-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -49,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-eleccion-vence-naturaleza-y-crianza-claim]] · [[aku-mantener-objetivo-largo-plazo-a-la-vista-claim]] · [[aku-ignorar-y-superar-a-los-negativos-claim]] · [[aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept]] · [[aku-una-vez-consigues-lo-que-perseguias-rara-vez-te-satisface-perseguir-fuerza-a-evolucionar-claim]]
+**related** ↔ [[aku-eleccion-vence-naturaleza-y-crianza-claim]] · [[aku-mantener-objetivo-largo-plazo-a-la-vista-claim]] · [[aku-ignorar-y-superar-a-los-negativos-claim]] · [[aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept]] · [[aku-una-vez-consigues-lo-que-perseguias-rara-vez-te-satisface-perseguir-fuerza-a-evolucionar-claim]] · [[aku-mind-control-controla-tu-propia-mente-concept]] · [[aku-solo-te-puedes-controlar-a-ti-mismo-claim]] · [[aku-fortaleza-puede-ser-debilidad-y-viceversa-claim]]

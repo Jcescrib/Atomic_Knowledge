@@ -36,6 +36,9 @@ relations:
     - aku-encajar-atributos-con-el-rol-claim
     - aku-complementar-habilidades-equipo-claim
     - aku-fortalezas-debilidades-motivaciones-concept
+    - aku-lider-conoce-trabajos-y-pide-ayuda-claim
+    - aku-ningun-trabajo-es-demasiado-bajo-claim
+    - aku-cada-miembro-es-el-mas-importante-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-span-of-control-concept]] · [[aku-lideres-nacen-y-se-hacen-claim]] · [[aku-encajar-atributos-con-el-rol-claim]] · [[aku-complementar-habilidades-equipo-claim]] · [[aku-fortalezas-debilidades-motivaciones-concept]]
+**related** ↔ [[aku-span-of-control-concept]] · [[aku-lideres-nacen-y-se-hacen-claim]] · [[aku-encajar-atributos-con-el-rol-claim]] · [[aku-complementar-habilidades-equipo-claim]] · [[aku-fortalezas-debilidades-motivaciones-concept]] · [[aku-lider-conoce-trabajos-y-pide-ayuda-claim]] · [[aku-ningun-trabajo-es-demasiado-bajo-claim]] · [[aku-cada-miembro-es-el-mas-importante-claim]]

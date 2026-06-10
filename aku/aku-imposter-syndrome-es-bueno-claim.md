@@ -38,6 +38,8 @@ relations:
     - aku-senales-de-confianza-desequilibrada-claim
     - aku-inseguridad-admitir-no-ocultar-claim
     - aku-construir-confianza-con-mision-asequible-method
+    - aku-pride-fuerza-de-doble-filo-concept
+    - aku-pride-se-construye-con-sufrimiento-compartido-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -50,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-confident-but-not-cocky-concept]] · [[aku-senales-de-confianza-desequilibrada-claim]] · [[aku-inseguridad-admitir-no-ocultar-claim]] · [[aku-construir-confianza-con-mision-asequible-method]]
+**related** ↔ [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-confident-but-not-cocky-concept]] · [[aku-senales-de-confianza-desequilibrada-claim]] · [[aku-inseguridad-admitir-no-ocultar-claim]] · [[aku-construir-confianza-con-mision-asequible-method]] · [[aku-pride-fuerza-de-doble-filo-concept]] · [[aku-pride-se-construye-con-sufrimiento-compartido-claim]]

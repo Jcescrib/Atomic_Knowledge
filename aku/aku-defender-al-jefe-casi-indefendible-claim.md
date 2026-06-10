@@ -37,6 +37,9 @@ relations:
     - aku-presentar-frente-unido-claim
     - aku-ejecutar-decision-como-propia-claim
     - aku-excepcion-resistir-ordenes-ilegales-inmorales-claim
+    - aku-manejar-jefe-micromanager-indeciso-debil-method
+    - aku-redirigir-al-jefe-onus-en-ti-method
+    - aku-cuando-desobedecer-ultimo-recurso-method
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -49,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-presentar-frente-unido-claim]] · [[aku-ejecutar-decision-como-propia-claim]] · [[aku-excepcion-resistir-ordenes-ilegales-inmorales-claim]]
+**related** ↔ [[aku-presentar-frente-unido-claim]] · [[aku-ejecutar-decision-como-propia-claim]] · [[aku-excepcion-resistir-ordenes-ilegales-inmorales-claim]] · [[aku-manejar-jefe-micromanager-indeciso-debil-method]] · [[aku-redirigir-al-jefe-onus-en-ti-method]] · [[aku-cuando-desobedecer-ultimo-recurso-method]]

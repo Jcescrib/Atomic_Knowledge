@@ -32,6 +32,8 @@ relations:
   contradicts: []
   related:
     - aku-reconnaissance-principle-concept
+    - aku-isolation-principle-concept
+    - aku-aislar-el-problema-divide-y-venceras-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -44,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-reconnaissance-principle-concept]]
+**related** ↔ [[aku-reconnaissance-principle-concept]] · [[aku-isolation-principle-concept]] · [[aku-aislar-el-problema-divide-y-venceras-claim]]

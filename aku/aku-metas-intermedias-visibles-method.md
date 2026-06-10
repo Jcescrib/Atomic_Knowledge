@@ -35,6 +35,10 @@ relations:
     - aku-mantener-objetivo-largo-plazo-a-la-vista-claim
     - aku-hope-no-es-curso-de-accion-pero-debe-existir-claim
     - aku-entorno-de-recompensa-inmediata-vs-diferida-concept
+    - aku-incentivos-simples-pocas-metricas-method
+    - aku-conexion-accion-consecuencia-conducta-claim
+    - aku-gente-quiere-ganar-necesita-forcing-function-claim
+    - aku-no-obligar-sino-liderar-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -49,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-no-bad-teams-only-bad-leaders-concept]]
 
-**related** ↔ [[aku-mantener-objetivo-largo-plazo-a-la-vista-claim]] · [[aku-hope-no-es-curso-de-accion-pero-debe-existir-claim]] · [[aku-entorno-de-recompensa-inmediata-vs-diferida-concept]]
+**related** ↔ [[aku-mantener-objetivo-largo-plazo-a-la-vista-claim]] · [[aku-hope-no-es-curso-de-accion-pero-debe-existir-claim]] · [[aku-entorno-de-recompensa-inmediata-vs-diferida-concept]] · [[aku-incentivos-simples-pocas-metricas-method]] · [[aku-conexion-accion-consecuencia-conducta-claim]] · [[aku-gente-quiere-ganar-necesita-forcing-function-claim]] · [[aku-no-obligar-sino-liderar-claim]]

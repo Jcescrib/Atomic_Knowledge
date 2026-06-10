@@ -33,6 +33,8 @@ relations:
   related:
     - aku-the-path-concept
     - aku-power-of-relationships-liderazgo-concept
+    - aku-pequenas-elecciones-diarias-construyen-todo-claim
+    - aku-tiempo-recurso-mas-valioso-y-limitado-claim
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-the-path-concept]] · [[aku-power-of-relationships-liderazgo-concept]]
+**related** ↔ [[aku-the-path-concept]] · [[aku-power-of-relationships-liderazgo-concept]] · [[aku-pequenas-elecciones-diarias-construyen-todo-claim]] · [[aku-tiempo-recurso-mas-valioso-y-limitado-claim]]

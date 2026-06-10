@@ -31,7 +31,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-entrenamiento-desde-abajo-no-desde-arriba-claim
+    - aku-entrenamiento-realismo-fundamentos-repeticion-method
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -45,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-train-hard-but-train-smart-concept]]
+
+**related** ↔ [[aku-entrenamiento-desde-abajo-no-desde-arriba-claim]] · [[aku-entrenamiento-realismo-fundamentos-repeticion-method]]

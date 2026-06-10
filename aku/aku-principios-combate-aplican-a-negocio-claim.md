@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-laws-of-combat-concept
+    - aku-simple-but-not-easy-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-laws-of-combat-concept]]
+**related** ↔ [[aku-laws-of-combat-concept]] · [[aku-simple-but-not-easy-concept]]

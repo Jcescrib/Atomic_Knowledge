@@ -36,6 +36,11 @@ relations:
     - aku-decentralized-command-concept
     - aku-decentralized-requiere-confianza-bidireccional-claim
     - aku-believe-in-the-mission-concept
+    - aku-construir-confianza-con-mision-asequible-method
+    - aku-dar-confianza-incrementalmente-method
+    - aku-confianza-arriba-no-decir-lo-que-quieren-oir-claim
+    - aku-rendimiento-construye-confianza-del-jefe-claim
+    - aku-power-of-relationships-liderazgo-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-decentralized-command-concept]] · [[aku-decentralized-requiere-confianza-bidireccional-claim]] · [[aku-believe-in-the-mission-concept]]
+**related** ↔ [[aku-decentralized-command-concept]] · [[aku-decentralized-requiere-confianza-bidireccional-claim]] · [[aku-believe-in-the-mission-concept]] · [[aku-construir-confianza-con-mision-asequible-method]] · [[aku-dar-confianza-incrementalmente-method]] · [[aku-confianza-arriba-no-decir-lo-que-quieren-oir-claim]] · [[aku-rendimiento-construye-confianza-del-jefe-claim]] · [[aku-power-of-relationships-liderazgo-concept]]

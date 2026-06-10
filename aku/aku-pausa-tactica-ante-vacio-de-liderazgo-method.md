@@ -36,6 +36,11 @@ relations:
     - aku-relax-look-around-make-a-call-method
     - aku-detach-tactico-estrategico-concept
     - aku-decisiveness-amid-uncertainty-concept
+    - aku-como-ser-elegido-lider-claim
+    - aku-cuando-no-te-eligen-pedir-feedback-method
+    - aku-transicion-de-par-a-lider-claim
+    - aku-liderar-pares-via-influencia-y-ego-en-jaque-claim
+    - aku-overcoming-grudge-ex-pares-method
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-relax-look-around-make-a-call-method]] · [[aku-detach-tactico-estrategico-concept]] · [[aku-decisiveness-amid-uncertainty-concept]]
+**related** ↔ [[aku-relax-look-around-make-a-call-method]] · [[aku-detach-tactico-estrategico-concept]] · [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-como-ser-elegido-lider-claim]] · [[aku-cuando-no-te-eligen-pedir-feedback-method]] · [[aku-transicion-de-par-a-lider-claim]] · [[aku-liderar-pares-via-influencia-y-ego-en-jaque-claim]] · [[aku-overcoming-grudge-ex-pares-method]]

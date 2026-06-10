@@ -35,6 +35,7 @@ relations:
   related:
     - aku-detach-tactico-estrategico-concept
     - aku-pull-off-the-firing-line-claim
+    - aku-leaders-checklist-planning-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-planning-process-estandarizado-concept]]
 
-**related** ↔ [[aku-detach-tactico-estrategico-concept]] · [[aku-pull-off-the-firing-line-claim]]
+**related** ↔ [[aku-detach-tactico-estrategico-concept]] · [[aku-pull-off-the-firing-line-claim]] · [[aku-leaders-checklist-planning-method]]

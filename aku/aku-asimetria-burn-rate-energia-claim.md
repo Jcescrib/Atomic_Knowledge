@@ -31,7 +31,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-load-management-pacing-recursos-finitos-concept
+    - aku-detener-progreso-agota-al-rival-claim
+    - aku-redefinir-agotamiento-eleva-baseline-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -45,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-depletion-principle-concept]]
+
+**related** ↔ [[aku-load-management-pacing-recursos-finitos-concept]] · [[aku-detener-progreso-agota-al-rival-claim]] · [[aku-redefinir-agotamiento-eleva-baseline-claim]]

@@ -38,6 +38,8 @@ relations:
     - aku-lider-mirar-al-espejo-claim
     - aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim
     - aku-ux-errors-prevenir-y-recuperar-errores-concept
+    - aku-tomar-ownership-cuando-te-culpan-claim
+    - aku-apologizing-no-es-debilidad-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -50,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-extreme-ownership-concept]] · [[aku-contingency-planning-anticipar-method]] · [[aku-lider-mirar-al-espejo-claim]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]] · [[aku-ux-errors-prevenir-y-recuperar-errores-concept]]
+**related** ↔ [[aku-extreme-ownership-concept]] · [[aku-contingency-planning-anticipar-method]] · [[aku-lider-mirar-al-espejo-claim]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]] · [[aku-ux-errors-prevenir-y-recuperar-errores-concept]] · [[aku-tomar-ownership-cuando-te-culpan-claim]] · [[aku-apologizing-no-es-debilidad-claim]]

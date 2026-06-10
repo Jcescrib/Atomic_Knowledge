@@ -35,6 +35,8 @@ relations:
     - aku-pyramid-principle-concept
     - aku-miedo-al-fracaso-es-bueno-claim
     - aku-el-miedo-que-interrumpe-tu-rutina-ya-te-domina-claim
+    - aku-responder-no-reaccionar-da-control-claim
+    - aku-eustress-estres-positivo-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-pyramid-principle-concept]] · [[aku-miedo-al-fracaso-es-bueno-claim]] · [[aku-el-miedo-que-interrumpe-tu-rutina-ya-te-domina-claim]]
+**related** ↔ [[aku-pyramid-principle-concept]] · [[aku-miedo-al-fracaso-es-bueno-claim]] · [[aku-el-miedo-que-interrumpe-tu-rutina-ya-te-domina-claim]] · [[aku-responder-no-reaccionar-da-control-claim]] · [[aku-eustress-estres-positivo-concept]]

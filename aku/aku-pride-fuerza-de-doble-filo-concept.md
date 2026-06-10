@@ -38,6 +38,9 @@ relations:
     - aku-disease-of-victory-concept
     - aku-pride-se-construye-con-sufrimiento-compartido-claim
     - aku-48laws-47-learn-when-to-stop-concept
+    - aku-imposter-syndrome-es-bueno-claim
+    - aku-inseguridad-admitir-no-ocultar-claim
+    - aku-senales-de-confianza-desequilibrada-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -50,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-dichotomy-of-leadership-concept]] · [[aku-confident-but-not-cocky-concept]] · [[aku-disease-of-victory-concept]] · [[aku-pride-se-construye-con-sufrimiento-compartido-claim]] · [[aku-48laws-47-learn-when-to-stop-concept]]
+**related** ↔ [[aku-dichotomy-of-leadership-concept]] · [[aku-confident-but-not-cocky-concept]] · [[aku-disease-of-victory-concept]] · [[aku-pride-se-construye-con-sufrimiento-compartido-claim]] · [[aku-48laws-47-learn-when-to-stop-concept]] · [[aku-imposter-syndrome-es-bueno-claim]] · [[aku-inseguridad-admitir-no-ocultar-claim]] · [[aku-senales-de-confianza-desequilibrada-claim]]

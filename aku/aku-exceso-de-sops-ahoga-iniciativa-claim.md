@@ -34,6 +34,7 @@ relations:
   related:
     - aku-micromanagement-mata-iniciativa-claim
     - aku-habitos-mas-practica-deliberada-igual-maestria-concept
+    - aku-disciplina-da-libertad-de-maniobra-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-disciplined-not-rigid-concept]]
 
-**related** ↔ [[aku-micromanagement-mata-iniciativa-claim]] · [[aku-habitos-mas-practica-deliberada-igual-maestria-concept]]
+**related** ↔ [[aku-micromanagement-mata-iniciativa-claim]] · [[aku-habitos-mas-practica-deliberada-igual-maestria-concept]] · [[aku-disciplina-da-libertad-de-maniobra-claim]]

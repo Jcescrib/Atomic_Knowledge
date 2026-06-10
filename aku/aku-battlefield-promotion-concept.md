@@ -32,6 +32,11 @@ relations:
   contradicts: []
   related:
     - aku-cortar-cancers-del-equipo-rapido-claim
+    - aku-liderazgo-factor-mas-importante-claim
+    - aku-no-bad-teams-only-bad-leaders-concept
+    - aku-lider-efectivo-vs-inefectivo-concept
+    - aku-medida-significativa-liderazgo-claim
+    - aku-lider-responsable-mision-tactica-recursos-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -44,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cortar-cancers-del-equipo-rapido-claim]]
+**related** ↔ [[aku-cortar-cancers-del-equipo-rapido-claim]] · [[aku-liderazgo-factor-mas-importante-claim]] · [[aku-no-bad-teams-only-bad-leaders-concept]] · [[aku-lider-efectivo-vs-inefectivo-concept]] · [[aku-medida-significativa-liderazgo-claim]] · [[aku-lider-responsable-mision-tactica-recursos-claim]]

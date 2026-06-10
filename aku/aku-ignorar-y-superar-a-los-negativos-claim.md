@@ -34,6 +34,8 @@ relations:
   related:
     - aku-mejores-lideres-mision-no-ego-claim
     - aku-me-versus-me-superarte-a-ti-mismo-claim
+    - aku-draw-fire-concept
+    - aku-compromiso-externo-si-interno-no-concept
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-me-versus-me-superarte-a-ti-mismo-claim]]
+**related** ↔ [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-me-versus-me-superarte-a-ti-mismo-claim]] · [[aku-draw-fire-concept]] · [[aku-compromiso-externo-si-interno-no-concept]]

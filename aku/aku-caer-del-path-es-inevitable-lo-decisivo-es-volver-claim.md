@@ -38,6 +38,8 @@ relations:
     - aku-good-mindset-concept
     - aku-extreme-ownership-concept
     - aku-never-miss-twice-claim
+    - aku-paso-pequeno-reevaluar-ante-incertidumbre-method
+    - aku-buscar-ayuda-profesional-sin-que-el-ego-lo-impida-claim
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -50,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-the-path-concept]] · [[aku-eqh-no-es-estado-sino-camino-sin-fin-claim]] · [[aku-good-mindset-concept]] · [[aku-extreme-ownership-concept]] · [[aku-never-miss-twice-claim]]
+**related** ↔ [[aku-the-path-concept]] · [[aku-eqh-no-es-estado-sino-camino-sin-fin-claim]] · [[aku-good-mindset-concept]] · [[aku-extreme-ownership-concept]] · [[aku-never-miss-twice-claim]] · [[aku-paso-pequeno-reevaluar-ante-incertidumbre-method]] · [[aku-buscar-ayuda-profesional-sin-que-el-ego-lo-impida-claim]]

@@ -33,6 +33,9 @@ relations:
   contradicts: []
   related:
     - aku-zonas-distancia-green-red-concept
+    - aku-palanca-vence-fuerza-claim
+    - aku-tension-revela-la-verdad-claim
+    - aku-entrenamiento-bjj-policia-reduce-uso-de-fuerza-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -45,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-zonas-distancia-green-red-concept]]
+**related** ↔ [[aku-zonas-distancia-green-red-concept]] · [[aku-palanca-vence-fuerza-claim]] · [[aku-tension-revela-la-verdad-claim]] · [[aku-entrenamiento-bjj-policia-reduce-uso-de-fuerza-claim]]

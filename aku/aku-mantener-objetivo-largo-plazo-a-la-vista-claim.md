@@ -38,6 +38,7 @@ relations:
     - aku-me-versus-me-superarte-a-ti-mismo-claim
     - aku-cuando-rendirse-tactico-no-estrategico-claim
     - aku-hope-no-es-curso-de-accion-pero-debe-existir-claim
+    - aku-madrugar-predawn-stand-to-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -50,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-metas-intermedias-visibles-method]] · [[aku-enfocar-una-iniciativa-a-la-vez-claim]] · [[aku-me-versus-me-superarte-a-ti-mismo-claim]] · [[aku-cuando-rendirse-tactico-no-estrategico-claim]] · [[aku-hope-no-es-curso-de-accion-pero-debe-existir-claim]]
+**related** ↔ [[aku-metas-intermedias-visibles-method]] · [[aku-enfocar-una-iniciativa-a-la-vez-claim]] · [[aku-me-versus-me-superarte-a-ti-mismo-claim]] · [[aku-cuando-rendirse-tactico-no-estrategico-claim]] · [[aku-hope-no-es-curso-de-accion-pero-debe-existir-claim]] · [[aku-madrugar-predawn-stand-to-claim]]

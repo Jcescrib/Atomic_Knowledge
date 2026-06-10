@@ -35,6 +35,10 @@ relations:
   related:
     - aku-micromanagement-mata-iniciativa-claim
     - aku-corregir-micromanagement-method
+    - aku-hands-off-laissez-faire-descoordina-claim
+    - aku-sintomas-de-hands-off-method
+    - aku-corregir-hands-off-method
+    - aku-asignar-lead-claro-evita-planes-divergentes-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -47,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-micromanagement-mata-iniciativa-claim]] · [[aku-corregir-micromanagement-method]]
+**related** ↔ [[aku-micromanagement-mata-iniciativa-claim]] · [[aku-corregir-micromanagement-method]] · [[aku-hands-off-laissez-faire-descoordina-claim]] · [[aku-sintomas-de-hands-off-method]] · [[aku-corregir-hands-off-method]] · [[aku-asignar-lead-claro-evita-planes-divergentes-claim]]

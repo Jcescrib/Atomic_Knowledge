@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-lider-responsable-del-output-maximizar-potencial-claim
+    - aku-desarrollar-poniendo-junior-al-mando-claim
+    - aku-ensenar-humildad-con-mision-dificil-method
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -47,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-liderazgo-como-herramienta-para-ensenar-concept]]
 
-**related** ↔ [[aku-lider-responsable-del-output-maximizar-potencial-claim]]
+**related** ↔ [[aku-lider-responsable-del-output-maximizar-potencial-claim]] · [[aku-desarrollar-poniendo-junior-al-mando-claim]] · [[aku-ensenar-humildad-con-mision-dificil-method]]

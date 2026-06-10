@@ -36,6 +36,8 @@ relations:
   related:
     - aku-leading-up-the-chain-concept
     - aku-micromanagement-mata-iniciativa-claim
+    - aku-accountability-temporal-luego-soltar-claim
+    - aku-enforzar-estandares-siempre-con-el-porque-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -50,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-accountability-no-como-herramienta-principal-concept]]
 
-**related** ↔ [[aku-leading-up-the-chain-concept]] · [[aku-micromanagement-mata-iniciativa-claim]]
+**related** ↔ [[aku-leading-up-the-chain-concept]] · [[aku-micromanagement-mata-iniciativa-claim]] · [[aku-accountability-temporal-luego-soltar-claim]] · [[aku-enforzar-estandares-siempre-con-el-porque-claim]]

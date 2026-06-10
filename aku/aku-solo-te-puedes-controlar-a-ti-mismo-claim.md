@@ -34,6 +34,9 @@ relations:
   related:
     - aku-extreme-ownership-concept
     - aku-mind-control-controla-tu-propia-mente-concept
+    - aku-eleccion-vence-naturaleza-y-crianza-claim
+    - aku-me-versus-me-superarte-a-ti-mismo-claim
+    - aku-fortaleza-puede-ser-debilidad-y-viceversa-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-extreme-ownership-concept]] · [[aku-mind-control-controla-tu-propia-mente-concept]]
+**related** ↔ [[aku-extreme-ownership-concept]] · [[aku-mind-control-controla-tu-propia-mente-concept]] · [[aku-eleccion-vence-naturaleza-y-crianza-claim]] · [[aku-me-versus-me-superarte-a-ti-mismo-claim]] · [[aku-fortaleza-puede-ser-debilidad-y-viceversa-claim]]

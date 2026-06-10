@@ -39,6 +39,8 @@ relations:
     - aku-frame-principle-concept
     - aku-kuzushi-principle-concept
     - aku-miedo-al-fracaso-paraliza-y-neutraliza-claim
+    - aku-entender-primero-para-influir-claim
+    - aku-tres-partes-del-derribo-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -53,4 +55,4 @@ status_note: ""
 
 **supports** → [[aku-tres-rasgos-fundacionales-dan-control-concept]]
 
-**related** ↔ [[aku-distance-principle-concept]] · [[aku-creation-principle-concept]] · [[aku-frame-principle-concept]] · [[aku-kuzushi-principle-concept]] · [[aku-miedo-al-fracaso-paraliza-y-neutraliza-claim]]
+**related** ↔ [[aku-distance-principle-concept]] · [[aku-creation-principle-concept]] · [[aku-frame-principle-concept]] · [[aku-kuzushi-principle-concept]] · [[aku-miedo-al-fracaso-paraliza-y-neutraliza-claim]] · [[aku-entender-primero-para-influir-claim]] · [[aku-tres-partes-del-derribo-concept]]

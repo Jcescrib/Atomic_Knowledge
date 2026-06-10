@@ -36,6 +36,8 @@ relations:
     - aku-disciplina-raiz-de-toda-buena-cualidad-concept
     - aku-train-hard-but-train-smart-concept
     - aku-aliviar-stress-sacar-del-entorno-method
+    - aku-imposed-vs-self-discipline-en-equipo-concept
+    - aku-thread-of-why-conectar-al-individuo-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-discipline-equals-freedom-concept]] · [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-train-hard-but-train-smart-concept]] · [[aku-aliviar-stress-sacar-del-entorno-method]]
+**related** ↔ [[aku-discipline-equals-freedom-concept]] · [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-train-hard-but-train-smart-concept]] · [[aku-aliviar-stress-sacar-del-entorno-method]] · [[aku-imposed-vs-self-discipline-en-equipo-concept]] · [[aku-thread-of-why-conectar-al-individuo-claim]]

@@ -34,6 +34,9 @@ relations:
   contradicts: []
   related:
     - aku-depletion-principle-concept
+    - aku-asimetria-burn-rate-energia-claim
+    - aku-detener-progreso-agota-al-rival-claim
+    - aku-redefinir-agotamiento-eleva-baseline-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-depletion-principle-concept]]
+**related** ↔ [[aku-depletion-principle-concept]] · [[aku-asimetria-burn-rate-energia-claim]] · [[aku-detener-progreso-agota-al-rival-claim]] · [[aku-redefinir-agotamiento-eleva-baseline-claim]]

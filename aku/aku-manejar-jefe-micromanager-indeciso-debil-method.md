@@ -37,6 +37,9 @@ relations:
     - aku-prioritize-and-execute-concept
     - aku-leadership-capital-concept
     - aku-48laws-31-control-the-options-concept
+    - aku-redirigir-al-jefe-onus-en-ti-method
+    - aku-defender-al-jefe-casi-indefendible-claim
+    - aku-cuando-desobedecer-ultimo-recurso-method
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -49,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-rendimiento-construye-confianza-del-jefe-claim]] · [[aku-prioritize-and-execute-concept]] · [[aku-leadership-capital-concept]] · [[aku-48laws-31-control-the-options-concept]]
+**related** ↔ [[aku-rendimiento-construye-confianza-del-jefe-claim]] · [[aku-prioritize-and-execute-concept]] · [[aku-leadership-capital-concept]] · [[aku-48laws-31-control-the-options-concept]] · [[aku-redirigir-al-jefe-onus-en-ti-method]] · [[aku-defender-al-jefe-casi-indefendible-claim]] · [[aku-cuando-desobedecer-ultimo-recurso-method]]

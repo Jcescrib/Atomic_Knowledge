@@ -38,6 +38,8 @@ relations:
     - aku-redirection-principle-concept
     - aku-entrenamiento-bjj-policia-reduce-uso-de-fuerza-claim
     - aku-responder-no-reaccionar-da-control-claim
+    - aku-anchor-principle-concept
+    - aku-boyd-belt-system-method
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -50,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-buoyancy-principle-concept]] · [[aku-posture-principle-concept]] · [[aku-redirection-principle-concept]] · [[aku-entrenamiento-bjj-policia-reduce-uso-de-fuerza-claim]] · [[aku-responder-no-reaccionar-da-control-claim]]
+**related** ↔ [[aku-buoyancy-principle-concept]] · [[aku-posture-principle-concept]] · [[aku-redirection-principle-concept]] · [[aku-entrenamiento-bjj-policia-reduce-uso-de-fuerza-claim]] · [[aku-responder-no-reaccionar-da-control-claim]] · [[aku-anchor-principle-concept]] · [[aku-boyd-belt-system-method]]

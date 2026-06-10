@@ -33,6 +33,9 @@ relations:
   related:
     - aku-detach-tactico-estrategico-concept
     - aku-parte-de-algo-mas-grande-claim
+    - aku-commanders-intent-concept
+    - aku-leading-down-the-chain-concept
+    - aku-conexion-rol-big-picture-no-intuitiva-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-cover-and-move-concept]]
 
-**related** ↔ [[aku-detach-tactico-estrategico-concept]] · [[aku-parte-de-algo-mas-grande-claim]]
+**related** ↔ [[aku-detach-tactico-estrategico-concept]] · [[aku-parte-de-algo-mas-grande-claim]] · [[aku-commanders-intent-concept]] · [[aku-leading-down-the-chain-concept]] · [[aku-conexion-rol-big-picture-no-intuitiva-claim]]

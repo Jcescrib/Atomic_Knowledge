@@ -34,6 +34,13 @@ relations:
   related:
     - aku-actitud-lider-marca-el-tono-claim
     - aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim
+    - aku-lider-mirar-al-espejo-claim
+    - aku-ver-problemas-lente-objetiva-claim
+    - aku-humildad-asumir-errores-claim
+    - aku-tortured-genius-concept
+    - aku-atribucion-sesgada-exito-fracaso-claim
+    - aku-boss-no-da-soporte-culpate-primero-claim
+    - aku-owner-no-toma-credito-da-honor-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +55,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-actitud-lider-marca-el-tono-claim]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]]
+**related** ↔ [[aku-actitud-lider-marca-el-tono-claim]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]] · [[aku-lider-mirar-al-espejo-claim]] · [[aku-ver-problemas-lente-objetiva-claim]] · [[aku-humildad-asumir-errores-claim]] · [[aku-tortured-genius-concept]] · [[aku-atribucion-sesgada-exito-fracaso-claim]] · [[aku-boss-no-da-soporte-culpate-primero-claim]] · [[aku-owner-no-toma-credito-da-honor-claim]]

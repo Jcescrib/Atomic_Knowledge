@@ -35,6 +35,9 @@ relations:
   related:
     - aku-senior-debe-explicar-el-porque-claim
     - aku-reason-why-aumenta-accion-claim
+    - aku-accountability-no-como-herramienta-principal-concept
+    - aku-accountability-no-escala-y-ciega-al-lider-claim
+    - aku-accountability-temporal-luego-soltar-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -49,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-resolute-but-not-overbearing-concept]]
 
-**related** ↔ [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-reason-why-aumenta-accion-claim]]
+**related** ↔ [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-reason-why-aumenta-accion-claim]] · [[aku-accountability-no-como-herramienta-principal-concept]] · [[aku-accountability-no-escala-y-ciega-al-lider-claim]] · [[aku-accountability-temporal-luego-soltar-claim]]

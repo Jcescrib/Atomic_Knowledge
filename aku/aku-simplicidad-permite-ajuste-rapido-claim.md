@@ -34,6 +34,10 @@ relations:
   related:
     - aku-plan-but-remain-flexible-concept
     - aku-mantener-el-numero-del-nombre-simple-claim
+    - aku-briefear-al-minimo-comun-denominador-claim
+    - aku-brief-orientado-a-frontline-claim
+    - aku-complejidad-se-agrava-cuando-falla-claim
+    - aku-camino-de-menor-resistencia-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-simple-law-of-combat-concept]]
 
-**related** ↔ [[aku-plan-but-remain-flexible-concept]] · [[aku-mantener-el-numero-del-nombre-simple-claim]]
+**related** ↔ [[aku-plan-but-remain-flexible-concept]] · [[aku-mantener-el-numero-del-nombre-simple-claim]] · [[aku-briefear-al-minimo-comun-denominador-claim]] · [[aku-brief-orientado-a-frontline-claim]] · [[aku-complejidad-se-agrava-cuando-falla-claim]] · [[aku-camino-de-menor-resistencia-claim]]

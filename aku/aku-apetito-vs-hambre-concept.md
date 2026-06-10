@@ -34,6 +34,7 @@ relations:
   related:
     - aku-redirection-principle-concept
     - aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method
+    - aku-inaccion-deliberada-puede-ser-la-jugada-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-redirection-principle-concept]] · [[aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method]]
+**related** ↔ [[aku-redirection-principle-concept]] · [[aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method]] · [[aku-inaccion-deliberada-puede-ser-la-jugada-claim]]

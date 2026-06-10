@@ -38,6 +38,11 @@ relations:
     - aku-subordinate-your-ego-desactiva-choque-method
     - aku-liderazgo-vs-manipulacion-concept
     - aku-48laws-07-get-others-to-do-the-work-take-credit-concept
+    - aku-como-ser-elegido-lider-claim
+    - aku-cuando-no-te-eligen-pedir-feedback-method
+    - aku-transicion-de-par-a-lider-claim
+    - aku-overcoming-grudge-ex-pares-method
+    - aku-pausa-tactica-ante-vacio-de-liderazgo-method
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -50,4 +55,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-play-the-long-game-concept]] · [[aku-subordinate-your-ego-desactiva-choque-method]] · [[aku-liderazgo-vs-manipulacion-concept]] · [[aku-48laws-07-get-others-to-do-the-work-take-credit-concept]]
+**related** ↔ [[aku-play-the-long-game-concept]] · [[aku-subordinate-your-ego-desactiva-choque-method]] · [[aku-liderazgo-vs-manipulacion-concept]] · [[aku-48laws-07-get-others-to-do-the-work-take-credit-concept]] · [[aku-como-ser-elegido-lider-claim]] · [[aku-cuando-no-te-eligen-pedir-feedback-method]] · [[aku-transicion-de-par-a-lider-claim]] · [[aku-overcoming-grudge-ex-pares-method]] · [[aku-pausa-tactica-ante-vacio-de-liderazgo-method]]

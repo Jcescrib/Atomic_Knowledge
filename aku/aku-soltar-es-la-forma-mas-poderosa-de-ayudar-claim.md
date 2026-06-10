@@ -32,6 +32,9 @@ relations:
   contradicts: []
   related:
     - aku-detachment-principle-concept
+    - aku-detachment-bidireccional-concept
+    - aku-soltar-control-egoista-permite-crecer-claim
+    - aku-sacrificar-el-ego-coste-percibido-mayor-que-real-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -44,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-detachment-principle-concept]]
+**related** ↔ [[aku-detachment-principle-concept]] · [[aku-detachment-bidireccional-concept]] · [[aku-soltar-control-egoista-permite-crecer-claim]] · [[aku-sacrificar-el-ego-coste-percibido-mayor-que-real-claim]]

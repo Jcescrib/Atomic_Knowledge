@@ -33,6 +33,8 @@ relations:
   related:
     - aku-velocity-principle-concept
     - aku-dicta-quien-es-tu-oponente-compite-contra-el-mejor-en-tu-terreno-claim
+    - aku-clock-principle-concept
+    - aku-velocity-negocio-tiempo-a-hitos-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-velocity-principle-concept]] · [[aku-dicta-quien-es-tu-oponente-compite-contra-el-mejor-en-tu-terreno-claim]]
+**related** ↔ [[aku-velocity-principle-concept]] · [[aku-dicta-quien-es-tu-oponente-compite-contra-el-mejor-en-tu-terreno-claim]] · [[aku-clock-principle-concept]] · [[aku-velocity-negocio-tiempo-a-hitos-concept]]

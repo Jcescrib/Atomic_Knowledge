@@ -37,6 +37,9 @@ relations:
     - aku-taking-care-of-people-con-disciplina-claim
     - aku-burden-of-command-concept
     - aku-el-contexto-es-el-cue-un-espacio-un-uso-concept
+    - aku-no-sobrerreaccionar-mantener-la-calma-claim
+    - aku-cuando-gritar-casi-nunca-y-calculado-claim
+    - aku-reflect-and-diminish-method
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -49,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-gestionar-stress-detach-y-perspectiva-method]] · [[aku-taking-care-of-people-con-disciplina-claim]] · [[aku-burden-of-command-concept]] · [[aku-el-contexto-es-el-cue-un-espacio-un-uso-concept]]
+**related** ↔ [[aku-gestionar-stress-detach-y-perspectiva-method]] · [[aku-taking-care-of-people-con-disciplina-claim]] · [[aku-burden-of-command-concept]] · [[aku-el-contexto-es-el-cue-un-espacio-un-uso-concept]] · [[aku-no-sobrerreaccionar-mantener-la-calma-claim]] · [[aku-cuando-gritar-casi-nunca-y-calculado-claim]] · [[aku-reflect-and-diminish-method]]

@@ -42,6 +42,11 @@ relations:
     - aku-the-code-concept
     - aku-pequenas-elecciones-diarias-construyen-todo-claim
     - aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept
+    - aku-self-discipline-viene-de-dentro-concept
+    - aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim
+    - aku-no-cuentes-con-motivacion-cuenta-disciplina-claim
+    - aku-no-hay-atajo-ni-hack-claim
+    - aku-es-un-trabajo-de-cada-dia-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -57,4 +62,4 @@ status_note: ""
 
 **supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-discipline-equals-freedom-concept]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]]
 
-**related** ↔ [[aku-comida-basura-es-veneno-claim]] · [[aku-entrenamiento-fisico-cuerpo-y-mente-claim]] · [[aku-progresion-artes-marciales-concept]] · [[aku-the-code-concept]] · [[aku-pequenas-elecciones-diarias-construyen-todo-claim]] · [[aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept]]
+**related** ↔ [[aku-comida-basura-es-veneno-claim]] · [[aku-entrenamiento-fisico-cuerpo-y-mente-claim]] · [[aku-progresion-artes-marciales-concept]] · [[aku-the-code-concept]] · [[aku-pequenas-elecciones-diarias-construyen-todo-claim]] · [[aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept]] · [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim]] · [[aku-no-cuentes-con-motivacion-cuenta-disciplina-claim]] · [[aku-no-hay-atajo-ni-hack-claim]] · [[aku-es-un-trabajo-de-cada-dia-claim]]

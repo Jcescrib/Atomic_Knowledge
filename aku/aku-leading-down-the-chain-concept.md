@@ -42,6 +42,8 @@ relations:
     - aku-cada-miembro-es-el-mas-importante-claim
     - aku-keep-troops-informed-asumir-que-no-saben-claim
     - aku-beneficios-okr-claim
+    - aku-lider-mantiene-perspectiva-estrategica-claim
+    - aku-parte-de-algo-mas-grande-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -56,4 +58,4 @@ status_note: ""
 
 **supported_by** ← [[aku-conexion-rol-big-picture-no-intuitiva-claim]]
 
-**related** ↔ [[aku-decentralized-command-concept]] · [[aku-commanders-intent-concept]] · [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-leading-up-the-chain-concept]] · [[aku-power-of-relationships-liderazgo-concept]] · [[aku-cada-miembro-es-el-mas-importante-claim]] · [[aku-keep-troops-informed-asumir-que-no-saben-claim]] · [[aku-beneficios-okr-claim]]
+**related** ↔ [[aku-decentralized-command-concept]] · [[aku-commanders-intent-concept]] · [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-leading-up-the-chain-concept]] · [[aku-power-of-relationships-liderazgo-concept]] · [[aku-cada-miembro-es-el-mas-importante-claim]] · [[aku-keep-troops-informed-asumir-que-no-saben-claim]] · [[aku-beneficios-okr-claim]] · [[aku-lider-mantiene-perspectiva-estrategica-claim]] · [[aku-parte-de-algo-mas-grande-claim]]

@@ -35,6 +35,7 @@ relations:
     - aku-lideres-dicen-la-verdad-claim
     - aku-power-of-relationships-liderazgo-concept
     - aku-no-tomarse-las-cosas-personalmente-claim
+    - aku-balancing-praise-elogio-con-cautela-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-lideres-dicen-la-verdad-claim]] · [[aku-power-of-relationships-liderazgo-concept]] · [[aku-no-tomarse-las-cosas-personalmente-claim]]
+**related** ↔ [[aku-lideres-dicen-la-verdad-claim]] · [[aku-power-of-relationships-liderazgo-concept]] · [[aku-no-tomarse-las-cosas-personalmente-claim]] · [[aku-balancing-praise-elogio-con-cautela-claim]]

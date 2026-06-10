@@ -33,6 +33,10 @@ relations:
   contradicts: []
   related:
     - aku-battlefield-aloofness-concept
+    - aku-a-veces-hay-que-herir-para-ayudar-claim
+    - aku-burden-of-command-concept
+    - aku-cuidar-demasiado-impide-decisiones-duras-claim
+    - aku-proteger-a-pocos-arriesga-a-todos-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -47,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-ultimate-dichotomy-cuidar-vs-mision-concept]]
 
-**related** ↔ [[aku-battlefield-aloofness-concept]]
+**related** ↔ [[aku-battlefield-aloofness-concept]] · [[aku-a-veces-hay-que-herir-para-ayudar-claim]] · [[aku-burden-of-command-concept]] · [[aku-cuidar-demasiado-impide-decisiones-duras-claim]] · [[aku-proteger-a-pocos-arriesga-a-todos-claim]]

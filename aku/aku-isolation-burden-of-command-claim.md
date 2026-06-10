@@ -36,6 +36,8 @@ relations:
     - aku-burden-of-command-concept
     - aku-confianza-se-construye-no-se-da-claim
     - aku-be-approachable-pero-cuidado-con-las-palabras-claim
+    - aku-12-reglas-del-nuevo-lider-method
+    - aku-new-sheriff-cambio-segun-estado-equipo-method
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-burden-of-command-concept]] · [[aku-confianza-se-construye-no-se-da-claim]] · [[aku-be-approachable-pero-cuidado-con-las-palabras-claim]]
+**related** ↔ [[aku-burden-of-command-concept]] · [[aku-confianza-se-construye-no-se-da-claim]] · [[aku-be-approachable-pero-cuidado-con-las-palabras-claim]] · [[aku-12-reglas-del-nuevo-lider-method]] · [[aku-new-sheriff-cambio-segun-estado-equipo-method]]

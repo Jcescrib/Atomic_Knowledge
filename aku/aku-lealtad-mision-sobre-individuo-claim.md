@@ -39,6 +39,8 @@ relations:
     - aku-proteger-a-pocos-arriesga-a-todos-claim
     - aku-when-to-mentor-when-to-fire-concept
     - aku-ni-muy-rapido-ni-muy-lento-para-despedir-claim
+    - aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim
+    - aku-repetir-tarea-hasta-estandar-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -53,4 +55,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-entrenar-mentorizar-underperformer-claim]] · [[aku-lealtad-mal-entendida-proteger-underperformers-claim]] · [[aku-cortar-cancers-del-equipo-rapido-claim]] · [[aku-ultimate-dichotomy-cuidar-vs-mision-concept]] · [[aku-proteger-a-pocos-arriesga-a-todos-claim]] · [[aku-when-to-mentor-when-to-fire-concept]] · [[aku-ni-muy-rapido-ni-muy-lento-para-despedir-claim]]
+**related** ↔ [[aku-entrenar-mentorizar-underperformer-claim]] · [[aku-lealtad-mal-entendida-proteger-underperformers-claim]] · [[aku-cortar-cancers-del-equipo-rapido-claim]] · [[aku-ultimate-dichotomy-cuidar-vs-mision-concept]] · [[aku-proteger-a-pocos-arriesga-a-todos-claim]] · [[aku-when-to-mentor-when-to-fire-concept]] · [[aku-ni-muy-rapido-ni-muy-lento-para-despedir-claim]] · [[aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim]] · [[aku-repetir-tarea-hasta-estandar-method]]

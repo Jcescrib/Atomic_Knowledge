@@ -30,7 +30,13 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-prioritize-and-execute-pasos-method
+    - aku-lider-abrumado-multiples-tareas-falla-claim
+    - aku-target-fixation-concept
+    - aku-pull-off-the-firing-line-claim
+    - aku-relax-look-around-make-a-call-method
+    - aku-enfocar-una-iniciativa-a-la-vez-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -44,3 +50,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-prioritize-and-execute-concept]]
+
+**related** ↔ [[aku-prioritize-and-execute-pasos-method]] · [[aku-lider-abrumado-multiples-tareas-falla-claim]] · [[aku-target-fixation-concept]] · [[aku-pull-off-the-firing-line-claim]] · [[aku-relax-look-around-make-a-call-method]] · [[aku-enfocar-una-iniciativa-a-la-vez-claim]]

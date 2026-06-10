@@ -33,7 +33,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-jiu-jitsu-meta-escapar-no-ir-al-suelo-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -47,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-progresion-artes-marciales-concept]]
+
+**related** ↔ [[aku-jiu-jitsu-meta-escapar-no-ir-al-suelo-claim]]

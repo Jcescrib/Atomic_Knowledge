@@ -34,6 +34,10 @@ relations:
     - aku-ultimate-dichotomy-cuidar-vs-mision-concept
     - aku-isolation-burden-of-command-claim
     - aku-aliviar-stress-sacar-del-entorno-method
+    - aku-a-veces-hay-que-herir-para-ayudar-claim
+    - aku-cuidar-demasiado-impide-decisiones-duras-claim
+    - aku-demasiado-desapegado-dana-al-equipo-claim
+    - aku-proteger-a-pocos-arriesga-a-todos-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -46,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-ultimate-dichotomy-cuidar-vs-mision-concept]] · [[aku-isolation-burden-of-command-claim]] · [[aku-aliviar-stress-sacar-del-entorno-method]]
+**related** ↔ [[aku-ultimate-dichotomy-cuidar-vs-mision-concept]] · [[aku-isolation-burden-of-command-claim]] · [[aku-aliviar-stress-sacar-del-entorno-method]] · [[aku-a-veces-hay-que-herir-para-ayudar-claim]] · [[aku-cuidar-demasiado-impide-decisiones-duras-claim]] · [[aku-demasiado-desapegado-dana-al-equipo-claim]] · [[aku-proteger-a-pocos-arriesga-a-todos-claim]]

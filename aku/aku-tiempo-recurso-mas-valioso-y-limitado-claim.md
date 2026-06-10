@@ -36,6 +36,8 @@ relations:
     - aku-evaluation-personal-development-concept
     - aku-no-eres-responsable-de-la-felicidad-de-otros-valora-tu-tiempo-claim
     - aku-el-tiempo-es-el-gasto-mas-caro-e-irrecuperable-valoralo-sobre-el-cheque-claim
+    - aku-pequenas-elecciones-diarias-construyen-todo-claim
+    - aku-tras-el-exito-agradecer-tomar-stock-ir-mas-duro-claim
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-the-path-concept]] · [[aku-evaluation-personal-development-concept]] · [[aku-no-eres-responsable-de-la-felicidad-de-otros-valora-tu-tiempo-claim]] · [[aku-el-tiempo-es-el-gasto-mas-caro-e-irrecuperable-valoralo-sobre-el-cheque-claim]]
+**related** ↔ [[aku-the-path-concept]] · [[aku-evaluation-personal-development-concept]] · [[aku-no-eres-responsable-de-la-felicidad-de-otros-valora-tu-tiempo-claim]] · [[aku-el-tiempo-es-el-gasto-mas-caro-e-irrecuperable-valoralo-sobre-el-cheque-claim]] · [[aku-pequenas-elecciones-diarias-construyen-todo-claim]] · [[aku-tras-el-exito-agradecer-tomar-stock-ir-mas-duro-claim]]

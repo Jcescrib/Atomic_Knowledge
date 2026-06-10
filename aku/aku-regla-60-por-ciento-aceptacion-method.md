@@ -33,7 +33,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-ceder-desequilibra-al-oponente-claim
+    - aku-mobility-principle-concept
+    - aku-cambiar-el-sistema-desde-dentro-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -47,3 +50,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-acceptance-principle-concept]]
+
+**related** ↔ [[aku-ceder-desequilibra-al-oponente-claim]] · [[aku-mobility-principle-concept]] · [[aku-cambiar-el-sistema-desde-dentro-claim]]

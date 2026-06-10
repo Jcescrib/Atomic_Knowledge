@@ -40,6 +40,7 @@ relations:
     - aku-lideres-dicen-la-verdad-claim
     - aku-keep-troops-informed-asumir-que-no-saben-claim
     - aku-thread-of-why-conectar-al-individuo-claim
+    - aku-preguntar-requiere-coraje-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -54,4 +55,4 @@ status_note: ""
 
 **supports** → [[aku-believe-in-the-mission-concept]]
 
-**related** ↔ [[aku-preguntar-por-que-method]] · [[aku-commanders-intent-concept]] · [[aku-leading-down-the-chain-concept]] · [[aku-conexion-rol-big-picture-no-intuitiva-claim]] · [[aku-enforzar-estandares-siempre-con-el-porque-claim]] · [[aku-lideres-dicen-la-verdad-claim]] · [[aku-keep-troops-informed-asumir-que-no-saben-claim]] · [[aku-thread-of-why-conectar-al-individuo-claim]]
+**related** ↔ [[aku-preguntar-por-que-method]] · [[aku-commanders-intent-concept]] · [[aku-leading-down-the-chain-concept]] · [[aku-conexion-rol-big-picture-no-intuitiva-claim]] · [[aku-enforzar-estandares-siempre-con-el-porque-claim]] · [[aku-lideres-dicen-la-verdad-claim]] · [[aku-keep-troops-informed-asumir-que-no-saben-claim]] · [[aku-thread-of-why-conectar-al-individuo-claim]] · [[aku-preguntar-requiere-coraje-claim]]

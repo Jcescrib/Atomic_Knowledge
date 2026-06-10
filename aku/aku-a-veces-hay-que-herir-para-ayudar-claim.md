@@ -30,7 +30,11 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-burden-of-command-concept
+    - aku-cuidar-demasiado-impide-decisiones-duras-claim
+    - aku-demasiado-desapegado-dana-al-equipo-claim
+    - aku-proteger-a-pocos-arriesga-a-todos-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -44,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ultimate-dichotomy-cuidar-vs-mision-concept]]
+
+**related** ↔ [[aku-burden-of-command-concept]] · [[aku-cuidar-demasiado-impide-decisiones-duras-claim]] · [[aku-demasiado-desapegado-dana-al-equipo-claim]] · [[aku-proteger-a-pocos-arriesga-a-todos-claim]]

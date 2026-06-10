@@ -35,6 +35,10 @@ relations:
     - aku-ratchet-principle-concept
     - aku-delegar-todo-para-liderar-no-pareciendo-vago-claim
     - aku-llega-el-momento-de-cortar-el-cordon-con-el-pasado-para-no-estancarte-claim
+    - aku-detachment-principle-concept
+    - aku-detachment-bidireccional-concept
+    - aku-soltar-es-la-forma-mas-poderosa-de-ayudar-claim
+    - aku-sacrificar-el-ego-coste-percibido-mayor-que-real-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -47,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-ratchet-principle-concept]] · [[aku-delegar-todo-para-liderar-no-pareciendo-vago-claim]] · [[aku-llega-el-momento-de-cortar-el-cordon-con-el-pasado-para-no-estancarte-claim]]
+**related** ↔ [[aku-ratchet-principle-concept]] · [[aku-delegar-todo-para-liderar-no-pareciendo-vago-claim]] · [[aku-llega-el-momento-de-cortar-el-cordon-con-el-pasado-para-no-estancarte-claim]] · [[aku-detachment-principle-concept]] · [[aku-detachment-bidireccional-concept]] · [[aku-soltar-es-la-forma-mas-poderosa-de-ayudar-claim]] · [[aku-sacrificar-el-ego-coste-percibido-mayor-que-real-claim]]

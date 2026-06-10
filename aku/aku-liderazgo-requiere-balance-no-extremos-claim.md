@@ -33,6 +33,9 @@ relations:
   contradicts: []
   related:
     - aku-equilibra-tu-crew-entre-veteranos-del-dia-uno-y-sangre-nueva-claim
+    - aku-leadership-capital-concept
+    - aku-humildad-es-la-cualidad-mas-importante-claim
+    - aku-disease-of-victory-concept
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -47,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
 
-**related** ↔ [[aku-equilibra-tu-crew-entre-veteranos-del-dia-uno-y-sangre-nueva-claim]]
+**related** ↔ [[aku-equilibra-tu-crew-entre-veteranos-del-dia-uno-y-sangre-nueva-claim]] · [[aku-leadership-capital-concept]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-disease-of-victory-concept]]

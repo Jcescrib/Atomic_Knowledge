@@ -33,6 +33,10 @@ relations:
   related:
     - aku-32-principios-jiu-jitsu-concept
     - aku-maestro-nunca-deja-de-aprender-humildad-claim
+    - aku-32-principles-diagnostic-method
+    - aku-sinergia-principios-se-combinan-concept
+    - aku-grandmaster-principle-concept
+    - aku-principios-jiu-jitsu-forma-de-pensar-transferible-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -45,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-32-principios-jiu-jitsu-concept]] · [[aku-maestro-nunca-deja-de-aprender-humildad-claim]]
+**related** ↔ [[aku-32-principios-jiu-jitsu-concept]] · [[aku-maestro-nunca-deja-de-aprender-humildad-claim]] · [[aku-32-principles-diagnostic-method]] · [[aku-sinergia-principios-se-combinan-concept]] · [[aku-grandmaster-principle-concept]] · [[aku-principios-jiu-jitsu-forma-de-pensar-transferible-claim]]

@@ -35,6 +35,7 @@ relations:
     - aku-no-razonar-con-la-debilidad-solo-actuar-claim
     - aku-empezar-aqui-y-ahora-method
     - aku-sueno-es-necesidad-7-9h-claim
+    - aku-mantener-objetivo-largo-plazo-a-la-vista-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-razonar-con-la-debilidad-solo-actuar-claim]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-sueno-es-necesidad-7-9h-claim]]
+**related** ↔ [[aku-no-razonar-con-la-debilidad-solo-actuar-claim]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-sueno-es-necesidad-7-9h-claim]] · [[aku-mantener-objetivo-largo-plazo-a-la-vista-claim]]

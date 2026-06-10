@@ -35,6 +35,9 @@ relations:
     - aku-acceptance-principle-concept
     - aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim
     - aku-negotiation-tactics-influencia-psicologica-por-fase-concept
+    - aku-regla-60-por-ciento-aceptacion-method
+    - aku-mobility-principle-concept
+    - aku-cambiar-el-sistema-desde-dentro-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-acceptance-principle-concept]] · [[aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim]] · [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
+**related** ↔ [[aku-acceptance-principle-concept]] · [[aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim]] · [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]] · [[aku-regla-60-por-ciento-aceptacion-method]] · [[aku-mobility-principle-concept]] · [[aku-cambiar-el-sistema-desde-dentro-claim]]

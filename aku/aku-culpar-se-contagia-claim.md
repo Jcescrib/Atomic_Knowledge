@@ -36,6 +36,8 @@ relations:
     - aku-culpar-subordinado-natural-pero-contraproducente-claim
     - aku-rumor-control-llenar-vacio-de-informacion-claim
     - aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim
+    - aku-cultura-ownership-resiste-perdida-lider-claim
+    - aku-actitud-lider-marca-el-tono-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -50,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-extreme-ownership-cultura-equipo-claim]] · [[aku-culpar-subordinado-natural-pero-contraproducente-claim]] · [[aku-rumor-control-llenar-vacio-de-informacion-claim]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]]
+**related** ↔ [[aku-extreme-ownership-cultura-equipo-claim]] · [[aku-culpar-subordinado-natural-pero-contraproducente-claim]] · [[aku-rumor-control-llenar-vacio-de-informacion-claim]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]] · [[aku-cultura-ownership-resiste-perdida-lider-claim]] · [[aku-actitud-lider-marca-el-tono-claim]]

@@ -35,6 +35,8 @@ relations:
   related:
     - aku-calmado-no-robotico-concept
     - aku-cuando-gritar-casi-nunca-y-calculado-claim
+    - aku-sopesar-riesgo-recompensa-coste-inaccion-claim
+    - aku-hesitar-a-veces-es-prudente-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -49,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-aggressive-not-reckless-concept]]
 
-**related** ↔ [[aku-calmado-no-robotico-concept]] · [[aku-cuando-gritar-casi-nunca-y-calculado-claim]]
+**related** ↔ [[aku-calmado-no-robotico-concept]] · [[aku-cuando-gritar-casi-nunca-y-calculado-claim]] · [[aku-sopesar-riesgo-recompensa-coste-inaccion-claim]] · [[aku-hesitar-a-veces-es-prudente-claim]]

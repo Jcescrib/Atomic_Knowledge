@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-river-principle-concept
+    - aku-todo-problema-es-tecnica-por-descubrir-claim
+    - aku-la-vida-pasa-para-ti-no-a-ti-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-river-principle-concept]]
+**related** ↔ [[aku-river-principle-concept]] · [[aku-todo-problema-es-tecnica-por-descubrir-claim]] · [[aku-la-vida-pasa-para-ti-no-a-ti-claim]]

@@ -37,6 +37,9 @@ relations:
     - aku-el-ego-mas-dificil-es-el-propio-claim
     - aku-no-care-detachment-via-ego-method
     - aku-liderar-pares-via-influencia-y-ego-en-jaque-claim
+    - aku-no-tomarse-las-cosas-personalmente-claim
+    - aku-dont-dig-in-no-sobrecomprometerse-claim
+    - aku-jefe-quiere-el-credito-daselo-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -49,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-check-ego-asumiendo-culpa-primero-method]] · [[aku-check-the-ego-concept]] · [[aku-el-ego-mas-dificil-es-el-propio-claim]] · [[aku-no-care-detachment-via-ego-method]] · [[aku-liderar-pares-via-influencia-y-ego-en-jaque-claim]]
+**related** ↔ [[aku-check-ego-asumiendo-culpa-primero-method]] · [[aku-check-the-ego-concept]] · [[aku-el-ego-mas-dificil-es-el-propio-claim]] · [[aku-no-care-detachment-via-ego-method]] · [[aku-liderar-pares-via-influencia-y-ego-en-jaque-claim]] · [[aku-no-tomarse-las-cosas-personalmente-claim]] · [[aku-dont-dig-in-no-sobrecomprometerse-claim]] · [[aku-jefe-quiere-el-credito-daselo-claim]]

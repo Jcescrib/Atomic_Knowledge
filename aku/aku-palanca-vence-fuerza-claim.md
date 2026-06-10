@@ -34,6 +34,9 @@ relations:
   related:
     - aku-32-principios-jiu-jitsu-concept
     - aku-labor-es-la-peor-forma-de-leverage-claim
+    - aku-cadena-cinetica-potencia-golpe-concept
+    - aku-tension-revela-la-verdad-claim
+    - aku-entrenamiento-bjj-policia-reduce-uso-de-fuerza-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-32-principios-jiu-jitsu-concept]] · [[aku-labor-es-la-peor-forma-de-leverage-claim]]
+**related** ↔ [[aku-32-principios-jiu-jitsu-concept]] · [[aku-labor-es-la-peor-forma-de-leverage-claim]] · [[aku-cadena-cinetica-potencia-golpe-concept]] · [[aku-tension-revela-la-verdad-claim]] · [[aku-entrenamiento-bjj-policia-reduce-uso-de-fuerza-claim]]

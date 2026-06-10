@@ -33,7 +33,12 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-evaluation-health-concept
+    - aku-evaluation-personal-development-concept
+    - aku-evaluation-professional-development-concept
+    - aku-evaluation-relationship-concept
+    - aku-evaluation-character-leadership-concept
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -47,3 +52,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-the-evaluation-concept]]
+
+**related** ↔ [[aku-evaluation-health-concept]] · [[aku-evaluation-personal-development-concept]] · [[aku-evaluation-professional-development-concept]] · [[aku-evaluation-relationship-concept]] · [[aku-evaluation-character-leadership-concept]]

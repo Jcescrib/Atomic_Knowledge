@@ -34,6 +34,11 @@ relations:
   related:
     - aku-humildad-asumir-errores-claim
     - aku-regret-solo-vale-por-la-leccion-claim
+    - aku-como-ser-elegido-lider-claim
+    - aku-transicion-de-par-a-lider-claim
+    - aku-liderar-pares-via-influencia-y-ego-en-jaque-claim
+    - aku-overcoming-grudge-ex-pares-method
+    - aku-pausa-tactica-ante-vacio-de-liderazgo-method
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -46,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-humildad-asumir-errores-claim]] · [[aku-regret-solo-vale-por-la-leccion-claim]]
+**related** ↔ [[aku-humildad-asumir-errores-claim]] · [[aku-regret-solo-vale-por-la-leccion-claim]] · [[aku-como-ser-elegido-lider-claim]] · [[aku-transicion-de-par-a-lider-claim]] · [[aku-liderar-pares-via-influencia-y-ego-en-jaque-claim]] · [[aku-overcoming-grudge-ex-pares-method]] · [[aku-pausa-tactica-ante-vacio-de-liderazgo-method]]

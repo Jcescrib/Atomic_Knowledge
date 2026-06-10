@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-clock-principle-concept
+    - aku-apetito-vs-hambre-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-clock-principle-concept]]
+**related** ↔ [[aku-clock-principle-concept]] · [[aku-apetito-vs-hambre-concept]]

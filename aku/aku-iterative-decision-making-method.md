@@ -38,6 +38,9 @@ relations:
     - aku-contingency-planning-anticipar-method
     - aku-asumir-equivocarse-claim
     - aku-innovar-vs-competir-concept
+    - aku-cuando-rendirse-tactico-no-estrategico-claim
+    - aku-hope-no-es-curso-de-accion-pero-debe-existir-claim
+    - aku-play-the-long-game-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -50,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-no-hay-solucion-100-correcta-claim]] · [[aku-contingency-planning-anticipar-method]] · [[aku-asumir-equivocarse-claim]] · [[aku-innovar-vs-competir-concept]]
+**related** ↔ [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-no-hay-solucion-100-correcta-claim]] · [[aku-contingency-planning-anticipar-method]] · [[aku-asumir-equivocarse-claim]] · [[aku-innovar-vs-competir-concept]] · [[aku-cuando-rendirse-tactico-no-estrategico-claim]] · [[aku-hope-no-es-curso-de-accion-pero-debe-existir-claim]] · [[aku-play-the-long-game-concept]]

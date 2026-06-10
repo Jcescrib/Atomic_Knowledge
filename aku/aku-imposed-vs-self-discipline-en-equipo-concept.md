@@ -36,6 +36,8 @@ relations:
     - aku-self-discipline-viene-de-dentro-concept
     - aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim
     - aku-dar-confianza-incrementalmente-method
+    - aku-thread-of-why-conectar-al-individuo-claim
+    - aku-taking-care-of-people-con-disciplina-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim]] · [[aku-dar-confianza-incrementalmente-method]]
+**related** ↔ [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim]] · [[aku-dar-confianza-incrementalmente-method]] · [[aku-thread-of-why-conectar-al-individuo-claim]] · [[aku-taking-care-of-people-con-disciplina-claim]]

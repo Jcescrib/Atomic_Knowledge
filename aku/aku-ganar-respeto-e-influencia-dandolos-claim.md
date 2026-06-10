@@ -36,6 +36,9 @@ relations:
     - aku-leading-up-requiere-influencia-no-autoridad-claim
     - aku-power-of-relationships-liderazgo-concept
     - aku-conform-to-influence-claim
+    - aku-liderazgo-indirecto-supera-al-directo-claim
+    - aku-getting-people-to-listen-deja-que-hablen-claim
+    - aku-liderazgo-vs-manipulacion-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-leading-up-requiere-influencia-no-autoridad-claim]] · [[aku-power-of-relationships-liderazgo-concept]] · [[aku-conform-to-influence-claim]]
+**related** ↔ [[aku-leading-up-requiere-influencia-no-autoridad-claim]] · [[aku-power-of-relationships-liderazgo-concept]] · [[aku-conform-to-influence-claim]] · [[aku-liderazgo-indirecto-supera-al-directo-claim]] · [[aku-getting-people-to-listen-deja-que-hablen-claim]] · [[aku-liderazgo-vs-manipulacion-concept]]

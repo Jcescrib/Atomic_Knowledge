@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-distance-principle-concept
+    - aku-zonas-distancia-green-red-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-distance-principle-concept]]
+**related** ↔ [[aku-distance-principle-concept]] · [[aku-zonas-distancia-green-red-concept]]

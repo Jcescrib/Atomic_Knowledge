@@ -39,6 +39,8 @@ relations:
   related:
     - aku-extreme-ownership-concept
     - aku-decentralized-command-concept
+    - aku-span-of-control-concept
+    - aku-limite-cognitivo-6-10-personas-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -54,6 +56,6 @@ status_note: ""
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
 
-**related** ↔ [[aku-extreme-ownership-concept]] · [[aku-decentralized-command-concept]]
+**related** ↔ [[aku-extreme-ownership-concept]] · [[aku-decentralized-command-concept]] · [[aku-span-of-control-concept]] · [[aku-limite-cognitivo-6-10-personas-claim]]
 
 **supported_by** ← [[aku-micromanagement-mata-iniciativa-claim]] · [[aku-hands-off-laissez-faire-descoordina-claim]] · [[aku-corregir-micromanagement-method]] · [[aku-corregir-hands-off-method]] · [[aku-asignar-lead-claro-evita-planes-divergentes-claim]]

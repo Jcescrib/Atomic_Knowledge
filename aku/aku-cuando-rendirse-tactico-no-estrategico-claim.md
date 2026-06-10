@@ -37,6 +37,9 @@ relations:
     - aku-dont-dig-in-no-sobrecomprometerse-claim
     - aku-mantener-objetivo-largo-plazo-a-la-vista-claim
     - aku-prioritize-and-execute-concept
+    - aku-iterative-decision-making-method
+    - aku-hope-no-es-curso-de-accion-pero-debe-existir-claim
+    - aku-play-the-long-game-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -49,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-dont-dig-in-no-sobrecomprometerse-claim]] · [[aku-mantener-objetivo-largo-plazo-a-la-vista-claim]] · [[aku-prioritize-and-execute-concept]]
+**related** ↔ [[aku-dont-dig-in-no-sobrecomprometerse-claim]] · [[aku-mantener-objetivo-largo-plazo-a-la-vista-claim]] · [[aku-prioritize-and-execute-concept]] · [[aku-iterative-decision-making-method]] · [[aku-hope-no-es-curso-de-accion-pero-debe-existir-claim]] · [[aku-play-the-long-game-concept]]

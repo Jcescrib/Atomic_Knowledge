@@ -38,6 +38,12 @@ relations:
     - aku-immediate-action-drills-amenaza-method
     - aku-no-sobrerreaccionar-mantener-la-calma-claim
     - aku-pausa-tactica-ante-vacio-de-liderazgo-method
+    - aku-prioritize-and-execute-pasos-method
+    - aku-lider-abrumado-multiples-tareas-falla-claim
+    - aku-target-fixation-concept
+    - aku-pull-off-the-firing-line-claim
+    - aku-prioridades-cambian-comunicar-claim
+    - aku-enfocar-una-iniciativa-a-la-vez-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -50,6 +56,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-laws-of-combat-concept]] · [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-immediate-action-drills-amenaza-method]] · [[aku-no-sobrerreaccionar-mantener-la-calma-claim]] · [[aku-pausa-tactica-ante-vacio-de-liderazgo-method]]
+**related** ↔ [[aku-laws-of-combat-concept]] · [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-immediate-action-drills-amenaza-method]] · [[aku-no-sobrerreaccionar-mantener-la-calma-claim]] · [[aku-pausa-tactica-ante-vacio-de-liderazgo-method]] · [[aku-prioritize-and-execute-pasos-method]] · [[aku-lider-abrumado-multiples-tareas-falla-claim]] · [[aku-target-fixation-concept]] · [[aku-pull-off-the-firing-line-claim]] · [[aku-prioridades-cambian-comunicar-claim]] · [[aku-enfocar-una-iniciativa-a-la-vez-claim]]
 
 **supports** → [[aku-prioritize-and-execute-concept]]

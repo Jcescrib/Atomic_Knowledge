@@ -32,6 +32,10 @@ relations:
   contradicts: []
   related:
     - aku-prevention-principle-concept
+    - aku-depletion-principle-concept
+    - aku-asimetria-burn-rate-energia-claim
+    - aku-load-management-pacing-recursos-finitos-concept
+    - aku-redefinir-agotamiento-eleva-baseline-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -44,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-prevention-principle-concept]]
+**related** ↔ [[aku-prevention-principle-concept]] · [[aku-depletion-principle-concept]] · [[aku-asimetria-burn-rate-energia-claim]] · [[aku-load-management-pacing-recursos-finitos-concept]] · [[aku-redefinir-agotamiento-eleva-baseline-claim]]

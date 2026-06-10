@@ -32,7 +32,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-kuzushi-principle-concept
+    - aku-entender-primero-para-influir-claim
+    - aku-tres-partes-del-derribo-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -46,3 +49,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-pyramid-principle-concept]]
+
+**related** ↔ [[aku-kuzushi-principle-concept]] · [[aku-entender-primero-para-influir-claim]] · [[aku-tres-partes-del-derribo-concept]]

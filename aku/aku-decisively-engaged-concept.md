@@ -32,6 +32,8 @@ relations:
   contradicts: []
   related:
     - aku-enfocar-una-iniciativa-a-la-vez-claim
+    - aku-ejecutar-decision-como-propia-claim
+    - aku-main-effort-supporting-efforts-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -44,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-enfocar-una-iniciativa-a-la-vez-claim]]
+**related** ↔ [[aku-enfocar-una-iniciativa-a-la-vez-claim]] · [[aku-ejecutar-decision-como-propia-claim]] · [[aku-main-effort-supporting-efforts-concept]]

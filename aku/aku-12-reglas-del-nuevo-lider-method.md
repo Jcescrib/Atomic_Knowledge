@@ -38,6 +38,9 @@ relations:
     - aku-humildad-es-la-cualidad-mas-importante-claim
     - aku-lider-conoce-trabajos-y-pide-ayuda-claim
     - aku-power-of-relationships-liderazgo-concept
+    - aku-new-sheriff-cambio-segun-estado-equipo-method
+    - aku-be-approachable-pero-cuidado-con-las-palabras-claim
+    - aku-isolation-burden-of-command-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -50,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-lider-conoce-trabajos-y-pide-ayuda-claim]] · [[aku-power-of-relationships-liderazgo-concept]]
+**related** ↔ [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-lider-conoce-trabajos-y-pide-ayuda-claim]] · [[aku-power-of-relationships-liderazgo-concept]] · [[aku-new-sheriff-cambio-segun-estado-equipo-method]] · [[aku-be-approachable-pero-cuidado-con-las-palabras-claim]] · [[aku-isolation-burden-of-command-claim]]

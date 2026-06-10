@@ -31,7 +31,13 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-default-agresivo-proactivo-dictar-situacion-claim
+    - aku-esperar-certeza-causa-paralisis-claim
+    - aku-no-hay-solucion-100-correcta-claim
+    - aku-contingency-planning-anticipar-method
+    - aku-lider-percibido-como-decisivo-claim
+    - aku-si-no-ganas-no-tomas-buenas-decisiones-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,3 +51,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-decisiveness-amid-uncertainty-concept]]
+
+**related** ↔ [[aku-default-agresivo-proactivo-dictar-situacion-claim]] · [[aku-esperar-certeza-causa-paralisis-claim]] · [[aku-no-hay-solucion-100-correcta-claim]] · [[aku-contingency-planning-anticipar-method]] · [[aku-lider-percibido-como-decisivo-claim]] · [[aku-si-no-ganas-no-tomas-buenas-decisiones-claim]]

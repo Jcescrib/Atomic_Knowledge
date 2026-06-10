@@ -34,6 +34,8 @@ relations:
   contradicts: []
   related:
     - aku-liderar-desde-frente-y-desde-atras-concept
+    - aku-liderar-desde-posicion-mas-dificil-claim
+    - aku-battlefield-aloofness-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-decentralized-command-concept]]
 
-**related** ↔ [[aku-liderar-desde-frente-y-desde-atras-concept]]
+**related** ↔ [[aku-liderar-desde-frente-y-desde-atras-concept]] · [[aku-liderar-desde-posicion-mas-dificil-claim]] · [[aku-battlefield-aloofness-concept]]

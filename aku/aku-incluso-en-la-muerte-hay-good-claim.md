@@ -34,6 +34,7 @@ relations:
   related:
     - aku-good-mindset-concept
     - aku-proposito-personal-sostenibilidad-claim
+    - aku-la-risa-gana-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-good-mindset-concept]] · [[aku-proposito-personal-sostenibilidad-claim]]
+**related** ↔ [[aku-good-mindset-concept]] · [[aku-proposito-personal-sostenibilidad-claim]] · [[aku-la-risa-gana-claim]]

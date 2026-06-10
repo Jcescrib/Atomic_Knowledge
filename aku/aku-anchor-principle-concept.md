@@ -38,6 +38,7 @@ relations:
     - aku-boyd-belt-system-method
     - aku-no-hay-malos-estudiantes-solo-malos-profesores-claim
     - aku-ratchet-principle-concept
+    - aku-head-control-principle-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -50,6 +51,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-overload-principle-concept]] · [[aku-boyd-belt-system-method]] · [[aku-no-hay-malos-estudiantes-solo-malos-profesores-claim]] · [[aku-ratchet-principle-concept]]
+**related** ↔ [[aku-overload-principle-concept]] · [[aku-boyd-belt-system-method]] · [[aku-no-hay-malos-estudiantes-solo-malos-profesores-claim]] · [[aku-ratchet-principle-concept]] · [[aku-head-control-principle-concept]]
 
 **supports** → [[aku-hacer-la-primera-oferta-anclaje-claim]]

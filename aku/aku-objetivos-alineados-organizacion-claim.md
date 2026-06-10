@@ -32,6 +32,9 @@ relations:
   contradicts: []
   related:
     - aku-okr-concept
+    - aku-creer-para-asumir-riesgos-y-convencer-claim
+    - aku-creencia-del-lider-se-transmite-claim
+    - aku-subordinado-responsable-de-entender-porque-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-believe-in-the-mission-concept]]
 
-**related** ↔ [[aku-okr-concept]]
+**related** ↔ [[aku-okr-concept]] · [[aku-creer-para-asumir-riesgos-y-convencer-claim]] · [[aku-creencia-del-lider-se-transmite-claim]] · [[aku-subordinado-responsable-de-entender-porque-claim]]

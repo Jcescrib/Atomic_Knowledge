@@ -36,6 +36,9 @@ relations:
     - aku-feedback-hacia-arriba-cadena-claim
     - aku-confianza-se-construye-no-se-da-claim
     - aku-decentralized-descansa-en-confianza-tiempo-critico-claim
+    - aku-decentralized-limites-de-autoridad-claim
+    - aku-decentralizar-proceso-planificacion-claim
+    - aku-micromanagement-disuelve-en-caos-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -50,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-decentralized-command-concept]]
 
-**related** ↔ [[aku-feedback-hacia-arriba-cadena-claim]] · [[aku-confianza-se-construye-no-se-da-claim]] · [[aku-decentralized-descansa-en-confianza-tiempo-critico-claim]]
+**related** ↔ [[aku-feedback-hacia-arriba-cadena-claim]] · [[aku-confianza-se-construye-no-se-da-claim]] · [[aku-decentralized-descansa-en-confianza-tiempo-critico-claim]] · [[aku-decentralized-limites-de-autoridad-claim]] · [[aku-decentralizar-proceso-planificacion-claim]] · [[aku-micromanagement-disuelve-en-caos-claim]]

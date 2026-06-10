@@ -41,6 +41,9 @@ relations:
     - aku-dont-dig-in-no-sobrecomprometerse-claim
     - aku-estilos-autoritario-delegativo-concept
     - aku-48laws-07-get-others-to-do-the-work-take-credit-concept
+    - aku-delegar-todo-para-liderar-no-pareciendo-vago-claim
+    - aku-no-seas-el-easy-button-claim
+    - aku-no-amontonarse-en-el-lider-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -53,4 +56,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-commanders-intent-concept]] · [[aku-decentralizar-proceso-planificacion-claim]] · [[aku-check-the-ego-concept]] · [[aku-transicion-de-par-a-lider-claim]] · [[aku-liderazgo-indirecto-supera-al-directo-claim]] · [[aku-dont-dig-in-no-sobrecomprometerse-claim]] · [[aku-estilos-autoritario-delegativo-concept]] · [[aku-48laws-07-get-others-to-do-the-work-take-credit-concept]]
+**related** ↔ [[aku-commanders-intent-concept]] · [[aku-decentralizar-proceso-planificacion-claim]] · [[aku-check-the-ego-concept]] · [[aku-transicion-de-par-a-lider-claim]] · [[aku-liderazgo-indirecto-supera-al-directo-claim]] · [[aku-dont-dig-in-no-sobrecomprometerse-claim]] · [[aku-estilos-autoritario-delegativo-concept]] · [[aku-48laws-07-get-others-to-do-the-work-take-credit-concept]] · [[aku-delegar-todo-para-liderar-no-pareciendo-vago-claim]] · [[aku-no-seas-el-easy-button-claim]] · [[aku-no-amontonarse-en-el-lider-claim]]

@@ -35,6 +35,7 @@ relations:
     - aku-keep-troops-informed-asumir-que-no-saben-claim
     - aku-lideres-dicen-la-verdad-claim
     - aku-culpar-se-contagia-claim
+    - aku-positivo-pero-realista-no-pollyanna-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-keep-troops-informed-asumir-que-no-saben-claim]] · [[aku-lideres-dicen-la-verdad-claim]] · [[aku-culpar-se-contagia-claim]]
+**related** ↔ [[aku-keep-troops-informed-asumir-que-no-saben-claim]] · [[aku-lideres-dicen-la-verdad-claim]] · [[aku-culpar-se-contagia-claim]] · [[aku-positivo-pero-realista-no-pollyanna-claim]]

@@ -33,6 +33,8 @@ relations:
   related:
     - aku-draw-fire-concept
     - aku-ningun-trabajo-es-demasiado-bajo-claim
+    - aku-posicionamiento-del-lider-flexible-claim
+    - aku-battlefield-aloofness-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-no-bad-teams-only-bad-leaders-concept]]
 
-**related** ↔ [[aku-draw-fire-concept]] · [[aku-ningun-trabajo-es-demasiado-bajo-claim]]
+**related** ↔ [[aku-draw-fire-concept]] · [[aku-ningun-trabajo-es-demasiado-bajo-claim]] · [[aku-posicionamiento-del-lider-flexible-claim]] · [[aku-battlefield-aloofness-concept]]

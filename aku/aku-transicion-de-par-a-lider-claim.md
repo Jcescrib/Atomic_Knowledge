@@ -35,6 +35,11 @@ relations:
   related:
     - aku-liderar-desde-frente-y-desde-atras-concept
     - aku-dar-ordenes-solo-commanders-intent-claim
+    - aku-como-ser-elegido-lider-claim
+    - aku-cuando-no-te-eligen-pedir-feedback-method
+    - aku-liderar-pares-via-influencia-y-ego-en-jaque-claim
+    - aku-overcoming-grudge-ex-pares-method
+    - aku-pausa-tactica-ante-vacio-de-liderazgo-method
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -47,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-liderar-desde-frente-y-desde-atras-concept]] · [[aku-dar-ordenes-solo-commanders-intent-claim]]
+**related** ↔ [[aku-liderar-desde-frente-y-desde-atras-concept]] · [[aku-dar-ordenes-solo-commanders-intent-claim]] · [[aku-como-ser-elegido-lider-claim]] · [[aku-cuando-no-te-eligen-pedir-feedback-method]] · [[aku-liderar-pares-via-influencia-y-ego-en-jaque-claim]] · [[aku-overcoming-grudge-ex-pares-method]] · [[aku-pausa-tactica-ante-vacio-de-liderazgo-method]]

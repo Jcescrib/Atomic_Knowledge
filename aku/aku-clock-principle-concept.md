@@ -38,6 +38,8 @@ relations:
     - aku-false-surrender-principle-concept
     - aku-inaccion-deliberada-puede-ser-la-jugada-claim
     - aku-river-principle-concept
+    - aku-velocity-negocio-tiempo-a-hitos-concept
+    - aku-controlar-timing-vence-rival-mas-rapido-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -50,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-velocity-principle-concept]] · [[aku-sinergia-principios-se-combinan-concept]] · [[aku-posture-principle-concept]] · [[aku-false-surrender-principle-concept]] · [[aku-inaccion-deliberada-puede-ser-la-jugada-claim]] · [[aku-river-principle-concept]]
+**related** ↔ [[aku-velocity-principle-concept]] · [[aku-sinergia-principios-se-combinan-concept]] · [[aku-posture-principle-concept]] · [[aku-false-surrender-principle-concept]] · [[aku-inaccion-deliberada-puede-ser-la-jugada-claim]] · [[aku-river-principle-concept]] · [[aku-velocity-negocio-tiempo-a-hitos-concept]] · [[aku-controlar-timing-vence-rival-mas-rapido-claim]]

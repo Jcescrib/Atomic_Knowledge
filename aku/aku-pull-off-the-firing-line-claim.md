@@ -36,6 +36,12 @@ relations:
     - aku-stand-back-be-the-tactical-genius-claim
     - aku-detachment-default-high-port-claim
     - aku-liderar-desde-frente-y-desde-atras-concept
+    - aku-prioritize-and-execute-pasos-method
+    - aku-lider-abrumado-multiples-tareas-falla-claim
+    - aku-target-fixation-concept
+    - aku-relax-look-around-make-a-call-method
+    - aku-prioridades-cambian-comunicar-claim
+    - aku-enfocar-una-iniciativa-a-la-vez-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -50,4 +56,4 @@ status_note: ""
 
 **supports** → [[aku-prioritize-and-execute-concept]]
 
-**related** ↔ [[aku-detach-tactico-estrategico-concept]] · [[aku-stand-back-be-the-tactical-genius-claim]] · [[aku-detachment-default-high-port-claim]] · [[aku-liderar-desde-frente-y-desde-atras-concept]]
+**related** ↔ [[aku-detach-tactico-estrategico-concept]] · [[aku-stand-back-be-the-tactical-genius-claim]] · [[aku-detachment-default-high-port-claim]] · [[aku-liderar-desde-frente-y-desde-atras-concept]] · [[aku-prioritize-and-execute-pasos-method]] · [[aku-lider-abrumado-multiples-tareas-falla-claim]] · [[aku-target-fixation-concept]] · [[aku-relax-look-around-make-a-call-method]] · [[aku-prioridades-cambian-comunicar-claim]] · [[aku-enfocar-una-iniciativa-a-la-vez-claim]]

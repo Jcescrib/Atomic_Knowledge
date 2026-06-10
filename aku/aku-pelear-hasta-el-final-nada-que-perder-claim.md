@@ -35,6 +35,9 @@ relations:
   related:
     - aku-no-relajarse-hasta-completar-la-mision-claim
     - aku-la-oscuridad-solo-gana-si-la-dejas-claim
+    - aku-derrota-por-mil-rendiciones-pequenas-claim
+    - aku-instinto-de-rendirse-es-mentiroso-claim
+    - aku-abrumado-pelear-mas-duro-priorizar-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -49,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]]
 
-**related** ↔ [[aku-no-relajarse-hasta-completar-la-mision-claim]] · [[aku-la-oscuridad-solo-gana-si-la-dejas-claim]]
+**related** ↔ [[aku-no-relajarse-hasta-completar-la-mision-claim]] · [[aku-la-oscuridad-solo-gana-si-la-dejas-claim]] · [[aku-derrota-por-mil-rendiciones-pequenas-claim]] · [[aku-instinto-de-rendirse-es-mentiroso-claim]] · [[aku-abrumado-pelear-mas-duro-priorizar-claim]]

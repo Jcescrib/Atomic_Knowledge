@@ -31,6 +31,13 @@ relations:
   contradicts: []
   related:
     - aku-medida-significativa-liderazgo-claim
+    - aku-decisiveness-amid-uncertainty-concept
+    - aku-default-agresivo-proactivo-dictar-situacion-claim
+    - aku-esperar-certeza-causa-paralisis-claim
+    - aku-no-hay-solucion-100-correcta-claim
+    - aku-conjetura-educada-method
+    - aku-contingency-planning-anticipar-method
+    - aku-lider-percibido-como-decisivo-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -43,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-medida-significativa-liderazgo-claim]]
+**related** ↔ [[aku-medida-significativa-liderazgo-claim]] · [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-default-agresivo-proactivo-dictar-situacion-claim]] · [[aku-esperar-certeza-causa-paralisis-claim]] · [[aku-no-hay-solucion-100-correcta-claim]] · [[aku-conjetura-educada-method]] · [[aku-contingency-planning-anticipar-method]] · [[aku-lider-percibido-como-decisivo-claim]]

@@ -37,6 +37,8 @@ relations:
     - aku-repetir-tarea-hasta-estandar-method
     - aku-document-demonstrate-duplicate-concept
     - aku-motion-vs-action-concept
+    - aku-train-how-you-fight-claim
+    - aku-entrenamiento-desde-abajo-no-desde-arriba-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -51,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-train-hard-but-train-smart-concept]]
 
-**related** ↔ [[aku-repetir-tarea-hasta-estandar-method]] · [[aku-document-demonstrate-duplicate-concept]] · [[aku-motion-vs-action-concept]]
+**related** ↔ [[aku-repetir-tarea-hasta-estandar-method]] · [[aku-document-demonstrate-duplicate-concept]] · [[aku-motion-vs-action-concept]] · [[aku-train-how-you-fight-claim]] · [[aku-entrenamiento-desde-abajo-no-desde-arriba-claim]]

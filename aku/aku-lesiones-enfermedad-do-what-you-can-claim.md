@@ -36,6 +36,8 @@ relations:
   related:
     - aku-not-feeling-it-go-anyway-claim
     - aku-good-mindset-concept
+    - aku-entrenamiento-fisico-cuerpo-y-mente-claim
+    - aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-not-feeling-it-go-anyway-claim]] · [[aku-good-mindset-concept]]
+**related** ↔ [[aku-not-feeling-it-go-anyway-claim]] · [[aku-good-mindset-concept]] · [[aku-entrenamiento-fisico-cuerpo-y-mente-claim]] · [[aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim]]

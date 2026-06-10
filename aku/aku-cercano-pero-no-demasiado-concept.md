@@ -34,6 +34,15 @@ relations:
   related:
     - aku-ultimate-dichotomy-cuidar-vs-mision-concept
     - aku-cuidar-demasiado-impide-decisiones-duras-claim
+    - aku-agresivo-no-prepotente-concept
+    - aku-atento-detalle-no-obsesionado-concept
+    - aku-callado-no-silencioso-concept
+    - aku-calmado-no-robotico-concept
+    - aku-competitivo-buen-perdedor-concept
+    - aku-fuerte-con-resistencia-concept
+    - aku-humilde-no-pasivo-concept
+    - aku-lider-y-seguidor-concept
+    - aku-nada-que-probar-pero-todo-que-probar-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +57,4 @@ status_note: ""
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
 
-**related** ↔ [[aku-ultimate-dichotomy-cuidar-vs-mision-concept]] · [[aku-cuidar-demasiado-impide-decisiones-duras-claim]]
+**related** ↔ [[aku-ultimate-dichotomy-cuidar-vs-mision-concept]] · [[aku-cuidar-demasiado-impide-decisiones-duras-claim]] · [[aku-agresivo-no-prepotente-concept]] · [[aku-atento-detalle-no-obsesionado-concept]] · [[aku-callado-no-silencioso-concept]] · [[aku-calmado-no-robotico-concept]] · [[aku-competitivo-buen-perdedor-concept]] · [[aku-fuerte-con-resistencia-concept]] · [[aku-humilde-no-pasivo-concept]] · [[aku-lider-y-seguidor-concept]] · [[aku-nada-que-probar-pero-todo-que-probar-concept]]

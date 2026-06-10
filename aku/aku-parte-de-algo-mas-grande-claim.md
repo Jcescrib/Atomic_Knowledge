@@ -32,6 +32,9 @@ relations:
   contradicts: []
   related:
     - aku-lider-mantiene-perspectiva-estrategica-claim
+    - aku-commanders-intent-concept
+    - aku-leading-down-the-chain-concept
+    - aku-conexion-rol-big-picture-no-intuitiva-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-believe-in-the-mission-concept]]
 
-**related** ↔ [[aku-lider-mantiene-perspectiva-estrategica-claim]]
+**related** ↔ [[aku-lider-mantiene-perspectiva-estrategica-claim]] · [[aku-commanders-intent-concept]] · [[aku-leading-down-the-chain-concept]] · [[aku-conexion-rol-big-picture-no-intuitiva-claim]]

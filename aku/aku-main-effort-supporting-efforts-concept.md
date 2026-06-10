@@ -36,6 +36,8 @@ relations:
     - aku-prioritize-and-execute-concept
     - aku-asignar-lead-claro-evita-planes-divergentes-claim
     - aku-blitz-no-resuelvas-todos-problemas-claim
+    - aku-ejecutar-decision-como-propia-claim
+    - aku-decisively-engaged-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -50,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-cover-and-move-concept]]
 
-**related** ↔ [[aku-prioritize-and-execute-concept]] · [[aku-asignar-lead-claro-evita-planes-divergentes-claim]] · [[aku-blitz-no-resuelvas-todos-problemas-claim]]
+**related** ↔ [[aku-prioritize-and-execute-concept]] · [[aku-asignar-lead-claro-evita-planes-divergentes-claim]] · [[aku-blitz-no-resuelvas-todos-problemas-claim]] · [[aku-ejecutar-decision-como-propia-claim]] · [[aku-decisively-engaged-concept]]

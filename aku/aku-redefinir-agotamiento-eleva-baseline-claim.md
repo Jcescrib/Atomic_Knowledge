@@ -35,6 +35,9 @@ relations:
     - aku-false-surrender-principle-concept
     - aku-depletion-principle-concept
     - aku-mejora-metodica-de-tu-baseline-de-felicidad-method
+    - aku-asimetria-burn-rate-energia-claim
+    - aku-load-management-pacing-recursos-finitos-concept
+    - aku-detener-progreso-agota-al-rival-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-false-surrender-principle-concept]] · [[aku-depletion-principle-concept]] · [[aku-mejora-metodica-de-tu-baseline-de-felicidad-method]]
+**related** ↔ [[aku-false-surrender-principle-concept]] · [[aku-depletion-principle-concept]] · [[aku-mejora-metodica-de-tu-baseline-de-felicidad-method]] · [[aku-asimetria-burn-rate-energia-claim]] · [[aku-load-management-pacing-recursos-finitos-concept]] · [[aku-detener-progreso-agota-al-rival-claim]]

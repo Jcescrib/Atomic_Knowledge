@@ -34,6 +34,8 @@ relations:
   related:
     - aku-liderazgo-en-todos-los-niveles-claim
     - aku-decentralizar-proceso-planificacion-claim
+    - aku-ensenar-humildad-con-mision-dificil-method
+    - aku-arreglar-mala-actitud-con-responsabilidad-que-importa-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-liderazgo-como-herramienta-para-ensenar-concept]]
 
-**related** ↔ [[aku-liderazgo-en-todos-los-niveles-claim]] · [[aku-decentralizar-proceso-planificacion-claim]]
+**related** ↔ [[aku-liderazgo-en-todos-los-niveles-claim]] · [[aku-decentralizar-proceso-planificacion-claim]] · [[aku-ensenar-humildad-con-mision-dificil-method]] · [[aku-arreglar-mala-actitud-con-responsabilidad-que-importa-claim]]

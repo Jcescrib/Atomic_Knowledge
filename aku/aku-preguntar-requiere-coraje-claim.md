@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-jefe-subestima-peso-de-su-posicion-claim
+    - aku-senior-debe-explicar-el-porque-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-preguntar-por-que-method]]
 
-**related** ↔ [[aku-jefe-subestima-peso-de-su-posicion-claim]]
+**related** ↔ [[aku-jefe-subestima-peso-de-su-posicion-claim]] · [[aku-senior-debe-explicar-el-porque-claim]]

@@ -35,6 +35,9 @@ relations:
     - aku-kuzushi-principle-concept
     - aku-dolor-es-el-pitch-claim
     - aku-trial-penalty-upsell-tres-escenarios
+    - aku-pyramid-principle-concept
+    - aku-tres-rasgos-fundacionales-dan-control-concept
+    - aku-tres-partes-del-derribo-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-kuzushi-principle-concept]] · [[aku-dolor-es-el-pitch-claim]] · [[aku-trial-penalty-upsell-tres-escenarios]]
+**related** ↔ [[aku-kuzushi-principle-concept]] · [[aku-dolor-es-el-pitch-claim]] · [[aku-trial-penalty-upsell-tres-escenarios]] · [[aku-pyramid-principle-concept]] · [[aku-tres-rasgos-fundacionales-dan-control-concept]] · [[aku-tres-partes-del-derribo-concept]]

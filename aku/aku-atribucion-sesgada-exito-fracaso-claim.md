@@ -40,6 +40,11 @@ relations:
     - aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept
     - aku-las-conclusiones-interesadas-exigen-un-liston-mas-alto-claim
     - aku-hacerse-rico-sin-suerte-es-ser-determinista-claim
+    - aku-actitud-lider-determina-exito-claim
+    - aku-lider-mirar-al-espejo-claim
+    - aku-ver-problemas-lente-objetiva-claim
+    - aku-boss-no-da-soporte-culpate-primero-claim
+    - aku-owner-no-toma-credito-da-honor-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -54,4 +59,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-humildad-asumir-errores-claim]] · [[aku-tortured-genius-concept]] · [[aku-tomar-ownership-cuando-te-culpan-claim]] · [[aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept]] · [[aku-las-conclusiones-interesadas-exigen-un-liston-mas-alto-claim]] · [[aku-hacerse-rico-sin-suerte-es-ser-determinista-claim]]
+**related** ↔ [[aku-humildad-asumir-errores-claim]] · [[aku-tortured-genius-concept]] · [[aku-tomar-ownership-cuando-te-culpan-claim]] · [[aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept]] · [[aku-las-conclusiones-interesadas-exigen-un-liston-mas-alto-claim]] · [[aku-hacerse-rico-sin-suerte-es-ser-determinista-claim]] · [[aku-actitud-lider-determina-exito-claim]] · [[aku-lider-mirar-al-espejo-claim]] · [[aku-ver-problemas-lente-objetiva-claim]] · [[aku-boss-no-da-soporte-culpate-primero-claim]] · [[aku-owner-no-toma-credito-da-honor-claim]]

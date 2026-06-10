@@ -38,6 +38,11 @@ relations:
     - aku-como-ser-elegido-lider-claim
     - aku-jefe-quiere-el-credito-daselo-claim
     - aku-proposito-mision-concept
+    - aku-check-ego-asumiendo-culpa-primero-method
+    - aku-ego-bueno-vs-destructivo-claim
+    - aku-ego-impide-evaluacion-honesta-claim
+    - aku-ego-nubla-todo-claim
+    - aku-el-ego-mas-dificil-es-el-propio-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -52,4 +57,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-owner-no-toma-credito-da-honor-claim]] · [[aku-ver-problemas-lente-objetiva-claim]] · [[aku-check-the-ego-concept]] · [[aku-ignorar-y-superar-a-los-negativos-claim]] · [[aku-liderazgo-vs-manipulacion-concept]] · [[aku-como-ser-elegido-lider-claim]] · [[aku-jefe-quiere-el-credito-daselo-claim]] · [[aku-proposito-mision-concept]]
+**related** ↔ [[aku-owner-no-toma-credito-da-honor-claim]] · [[aku-ver-problemas-lente-objetiva-claim]] · [[aku-check-the-ego-concept]] · [[aku-ignorar-y-superar-a-los-negativos-claim]] · [[aku-liderazgo-vs-manipulacion-concept]] · [[aku-como-ser-elegido-lider-claim]] · [[aku-jefe-quiere-el-credito-daselo-claim]] · [[aku-proposito-mision-concept]] · [[aku-check-ego-asumiendo-culpa-primero-method]] · [[aku-ego-bueno-vs-destructivo-claim]] · [[aku-ego-impide-evaluacion-honesta-claim]] · [[aku-ego-nubla-todo-claim]] · [[aku-el-ego-mas-dificil-es-el-propio-claim]]

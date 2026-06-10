@@ -36,6 +36,7 @@ relations:
     - aku-overload-principle-concept
     - aku-depletion-principle-concept
     - aku-riqueza-se-construye-apilando-muchas-cosas-pequenas-claim
+    - aku-information-overload-7-mas-menos-2-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-overload-principle-concept]] · [[aku-depletion-principle-concept]] · [[aku-riqueza-se-construye-apilando-muchas-cosas-pequenas-claim]]
+**related** ↔ [[aku-overload-principle-concept]] · [[aku-depletion-principle-concept]] · [[aku-riqueza-se-construye-apilando-muchas-cosas-pequenas-claim]] · [[aku-information-overload-7-mas-menos-2-concept]]

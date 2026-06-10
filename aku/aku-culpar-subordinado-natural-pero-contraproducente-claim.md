@@ -34,6 +34,9 @@ relations:
   contradicts: []
   related:
     - aku-culpar-se-contagia-claim
+    - aku-extreme-ownership-cultura-equipo-claim
+    - aku-cultura-ownership-resiste-perdida-lider-claim
+    - aku-actitud-lider-marca-el-tono-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-check-the-ego-concept]]
 
-**related** ↔ [[aku-culpar-se-contagia-claim]]
+**related** ↔ [[aku-culpar-se-contagia-claim]] · [[aku-extreme-ownership-cultura-equipo-claim]] · [[aku-cultura-ownership-resiste-perdida-lider-claim]] · [[aku-actitud-lider-marca-el-tono-claim]]

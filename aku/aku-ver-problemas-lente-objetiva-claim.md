@@ -35,6 +35,13 @@ relations:
     - aku-mejores-lideres-mision-no-ego-claim
     - aku-lideres-nunca-satisfechos-mejora-continua-claim
     - aku-ego-impide-evaluacion-honesta-claim
+    - aku-actitud-lider-determina-exito-claim
+    - aku-lider-mirar-al-espejo-claim
+    - aku-humildad-asumir-errores-claim
+    - aku-tortured-genius-concept
+    - aku-atribucion-sesgada-exito-fracaso-claim
+    - aku-boss-no-da-soporte-culpate-primero-claim
+    - aku-owner-no-toma-credito-da-honor-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -49,4 +56,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-lideres-nunca-satisfechos-mejora-continua-claim]] · [[aku-ego-impide-evaluacion-honesta-claim]]
+**related** ↔ [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-lideres-nunca-satisfechos-mejora-continua-claim]] · [[aku-ego-impide-evaluacion-honesta-claim]] · [[aku-actitud-lider-determina-exito-claim]] · [[aku-lider-mirar-al-espejo-claim]] · [[aku-humildad-asumir-errores-claim]] · [[aku-tortured-genius-concept]] · [[aku-atribucion-sesgada-exito-fracaso-claim]] · [[aku-boss-no-da-soporte-culpate-primero-claim]] · [[aku-owner-no-toma-credito-da-honor-claim]]

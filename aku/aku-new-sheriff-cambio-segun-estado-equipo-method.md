@@ -38,6 +38,9 @@ relations:
   related:
     - aku-dar-confianza-incrementalmente-method
     - aku-corregir-micromanagement-method
+    - aku-12-reglas-del-nuevo-lider-method
+    - aku-be-approachable-pero-cuidado-con-las-palabras-claim
+    - aku-isolation-burden-of-command-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -50,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-dar-confianza-incrementalmente-method]] · [[aku-corregir-micromanagement-method]]
+**related** ↔ [[aku-dar-confianza-incrementalmente-method]] · [[aku-corregir-micromanagement-method]] · [[aku-12-reglas-del-nuevo-lider-method]] · [[aku-be-approachable-pero-cuidado-con-las-palabras-claim]] · [[aku-isolation-burden-of-command-claim]]

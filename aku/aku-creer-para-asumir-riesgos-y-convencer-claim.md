@@ -31,7 +31,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-creencia-del-lider-se-transmite-claim
+    - aku-objetivos-alineados-organizacion-claim
+    - aku-subordinado-responsable-de-entender-porque-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-believe-in-the-mission-concept]]
+
+**related** ↔ [[aku-creencia-del-lider-se-transmite-claim]] · [[aku-objetivos-alineados-organizacion-claim]] · [[aku-subordinado-responsable-de-entender-porque-claim]]

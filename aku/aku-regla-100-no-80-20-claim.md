@@ -36,6 +36,7 @@ relations:
     - aku-azucar-es-adictivo-como-droga-claim
     - aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim
     - aku-cuanto-mas-procesado-el-alimento-menos-comer-y-resta-antes-de-anadir-claim
+    - aku-comida-basura-es-veneno-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-dieta-paleo-fuel-concept]] · [[aku-azucar-es-adictivo-como-droga-claim]] · [[aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim]] · [[aku-cuanto-mas-procesado-el-alimento-menos-comer-y-resta-antes-de-anadir-claim]]
+**related** ↔ [[aku-dieta-paleo-fuel-concept]] · [[aku-azucar-es-adictivo-como-droga-claim]] · [[aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim]] · [[aku-cuanto-mas-procesado-el-alimento-menos-comer-y-resta-antes-de-anadir-claim]] · [[aku-comida-basura-es-veneno-claim]]

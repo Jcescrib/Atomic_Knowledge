@@ -36,6 +36,10 @@ relations:
     - aku-eficiencia-apex-timing-control-macro-concept
     - aku-humildad-es-la-cualidad-mas-importante-claim
     - aku-ser-aprendiz-perpetuo-es-la-habilidad-clave-para-hacerse-rico-claim
+    - aku-aprender-pensando-por-uno-mismo-descubre-mas-claim
+    - aku-no-hay-malos-estudiantes-solo-malos-profesores-claim
+    - aku-ensenar-con-no-a-incorporar-feedback-claim
+    - aku-liderar-con-el-ejemplo-unica-forma-de-ensenar-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -48,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-grandmaster-principle-concept]] · [[aku-eficiencia-apex-timing-control-macro-concept]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-ser-aprendiz-perpetuo-es-la-habilidad-clave-para-hacerse-rico-claim]]
+**related** ↔ [[aku-grandmaster-principle-concept]] · [[aku-eficiencia-apex-timing-control-macro-concept]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-ser-aprendiz-perpetuo-es-la-habilidad-clave-para-hacerse-rico-claim]] · [[aku-aprender-pensando-por-uno-mismo-descubre-mas-claim]] · [[aku-no-hay-malos-estudiantes-solo-malos-profesores-claim]] · [[aku-ensenar-con-no-a-incorporar-feedback-claim]] · [[aku-liderar-con-el-ejemplo-unica-forma-de-ensenar-claim]]

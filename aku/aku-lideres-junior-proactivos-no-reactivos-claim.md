@@ -32,6 +32,9 @@ relations:
   contradicts: []
   related:
     - aku-default-agresivo-proactivo-dictar-situacion-claim
+    - aku-facilitar-preguntas-clarificacion-claim
+    - aku-liderazgo-en-todos-los-niveles-claim
+    - aku-liderazgo-es-grupo-no-individuo-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-decentralized-command-concept]]
 
-**related** ↔ [[aku-default-agresivo-proactivo-dictar-situacion-claim]]
+**related** ↔ [[aku-default-agresivo-proactivo-dictar-situacion-claim]] · [[aku-facilitar-preguntas-clarificacion-claim]] · [[aku-liderazgo-en-todos-los-niveles-claim]] · [[aku-liderazgo-es-grupo-no-individuo-concept]]

@@ -34,6 +34,7 @@ relations:
   related:
     - aku-anchor-principle-concept
     - aku-las-creencias-tomadas-en-paquete-son-sospechosas-reevalua-desde-principios-claim
+    - aku-head-control-principle-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-anchor-principle-concept]] · [[aku-las-creencias-tomadas-en-paquete-son-sospechosas-reevalua-desde-principios-claim]]
+**related** ↔ [[aku-anchor-principle-concept]] · [[aku-las-creencias-tomadas-en-paquete-son-sospechosas-reevalua-desde-principios-claim]] · [[aku-head-control-principle-concept]]

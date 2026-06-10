@@ -34,6 +34,10 @@ relations:
   related:
     - aku-cercano-pero-no-demasiado-concept
     - aku-lealtad-mal-entendida-proteger-underperformers-claim
+    - aku-a-veces-hay-que-herir-para-ayudar-claim
+    - aku-burden-of-command-concept
+    - aku-demasiado-desapegado-dana-al-equipo-claim
+    - aku-proteger-a-pocos-arriesga-a-todos-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -48,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-ultimate-dichotomy-cuidar-vs-mision-concept]]
 
-**related** ↔ [[aku-cercano-pero-no-demasiado-concept]] · [[aku-lealtad-mal-entendida-proteger-underperformers-claim]]
+**related** ↔ [[aku-cercano-pero-no-demasiado-concept]] · [[aku-lealtad-mal-entendida-proteger-underperformers-claim]] · [[aku-a-veces-hay-que-herir-para-ayudar-claim]] · [[aku-burden-of-command-concept]] · [[aku-demasiado-desapegado-dana-al-equipo-claim]] · [[aku-proteger-a-pocos-arriesga-a-todos-claim]]

@@ -40,6 +40,7 @@ relations:
     - aku-tres-tecnicas-de-tension-concept
     - aku-pivot-principle-concept
     - aku-entender-primero-para-influir-claim
+    - aku-tres-rasgos-fundacionales-dan-control-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -54,4 +55,4 @@ status_note: ""
 
 **supports** → [[aku-tres-partes-del-derribo-concept]]
 
-**related** ↔ [[aku-frame-principle-concept]] · [[aku-pyramid-principle-concept]] · [[aku-reconnaissance-principle-concept]] · [[aku-tres-tecnicas-de-tension-concept]] · [[aku-pivot-principle-concept]] · [[aku-entender-primero-para-influir-claim]]
+**related** ↔ [[aku-frame-principle-concept]] · [[aku-pyramid-principle-concept]] · [[aku-reconnaissance-principle-concept]] · [[aku-tres-tecnicas-de-tension-concept]] · [[aku-pivot-principle-concept]] · [[aku-entender-primero-para-influir-claim]] · [[aku-tres-rasgos-fundacionales-dan-control-concept]]

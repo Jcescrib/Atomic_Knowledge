@@ -32,6 +32,10 @@ relations:
   contradicts: []
   related:
     - aku-entrenamiento-realismo-fundamentos-repeticion-method
+    - aku-entrenar-mentorizar-underperformer-claim
+    - aku-lealtad-mision-sobre-individuo-claim
+    - aku-lealtad-mal-entendida-proteger-underperformers-claim
+    - aku-cortar-cancers-del-equipo-rapido-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim]]
 
-**related** ↔ [[aku-entrenamiento-realismo-fundamentos-repeticion-method]]
+**related** ↔ [[aku-entrenamiento-realismo-fundamentos-repeticion-method]] · [[aku-entrenar-mentorizar-underperformer-claim]] · [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-lealtad-mal-entendida-proteger-underperformers-claim]] · [[aku-cortar-cancers-del-equipo-rapido-claim]]

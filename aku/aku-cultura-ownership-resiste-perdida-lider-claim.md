@@ -35,6 +35,9 @@ relations:
     - aku-extreme-ownership-cultura-equipo-claim
     - aku-liderazgo-en-todos-los-niveles-claim
     - aku-cultura-corporativa-concept
+    - aku-actitud-lider-marca-el-tono-claim
+    - aku-culpar-se-contagia-claim
+    - aku-culpar-subordinado-natural-pero-contraproducente-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-extreme-ownership-cultura-equipo-claim]] · [[aku-liderazgo-en-todos-los-niveles-claim]] · [[aku-cultura-corporativa-concept]]
+**related** ↔ [[aku-extreme-ownership-cultura-equipo-claim]] · [[aku-liderazgo-en-todos-los-niveles-claim]] · [[aku-cultura-corporativa-concept]] · [[aku-actitud-lider-marca-el-tono-claim]] · [[aku-culpar-se-contagia-claim]] · [[aku-culpar-subordinado-natural-pero-contraproducente-claim]]

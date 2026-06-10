@@ -34,6 +34,10 @@ relations:
     - aku-decentralized-command-concept
     - aku-battlefield-aloofness-concept
     - aku-micromanagement-mata-iniciativa-claim
+    - aku-decentralized-limites-de-autoridad-claim
+    - aku-decentralized-requiere-confianza-bidireccional-claim
+    - aku-decentralizar-proceso-planificacion-claim
+    - aku-confianza-se-construye-no-se-da-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-decentralized-command-concept]] · [[aku-battlefield-aloofness-concept]] · [[aku-micromanagement-mata-iniciativa-claim]]
+**related** ↔ [[aku-decentralized-command-concept]] · [[aku-battlefield-aloofness-concept]] · [[aku-micromanagement-mata-iniciativa-claim]] · [[aku-decentralized-limites-de-autoridad-claim]] · [[aku-decentralized-requiere-confianza-bidireccional-claim]] · [[aku-decentralizar-proceso-planificacion-claim]] · [[aku-confianza-se-construye-no-se-da-claim]]

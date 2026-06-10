@@ -34,6 +34,10 @@ relations:
   related:
     - aku-competencia-amplia-concept
     - aku-estructura-funcional-concept
+    - aku-cover-and-move-construir-relacion-method
+    - aku-romper-silos-interdependencia-claim
+    - aku-subteams-compiten-pierden-perspectiva-claim
+    - aku-equipo-gana-o-falla-en-conjunto-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-cover-and-move-concept]]
 
-**related** ↔ [[aku-competencia-amplia-concept]] · [[aku-estructura-funcional-concept]]
+**related** ↔ [[aku-competencia-amplia-concept]] · [[aku-estructura-funcional-concept]] · [[aku-cover-and-move-construir-relacion-method]] · [[aku-romper-silos-interdependencia-claim]] · [[aku-subteams-compiten-pierden-perspectiva-claim]] · [[aku-equipo-gana-o-falla-en-conjunto-claim]]

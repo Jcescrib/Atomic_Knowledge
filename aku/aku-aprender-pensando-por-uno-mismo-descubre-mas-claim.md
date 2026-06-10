@@ -36,6 +36,10 @@ relations:
     - aku-ser-aprendiz-perpetuo-es-la-habilidad-clave-para-hacerse-rico-claim
     - aku-amar-leer-es-un-superpoder-vivimos-en-la-era-de-alejandria-claim
     - aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim
+    - aku-maestro-nunca-deja-de-aprender-humildad-claim
+    - aku-no-hay-malos-estudiantes-solo-malos-profesores-claim
+    - aku-ensenar-con-no-a-incorporar-feedback-claim
+    - aku-liderar-con-el-ejemplo-unica-forma-de-ensenar-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -48,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-grandmaster-principle-concept]] · [[aku-ser-aprendiz-perpetuo-es-la-habilidad-clave-para-hacerse-rico-claim]] · [[aku-amar-leer-es-un-superpoder-vivimos-en-la-era-de-alejandria-claim]] · [[aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim]]
+**related** ↔ [[aku-grandmaster-principle-concept]] · [[aku-ser-aprendiz-perpetuo-es-la-habilidad-clave-para-hacerse-rico-claim]] · [[aku-amar-leer-es-un-superpoder-vivimos-en-la-era-de-alejandria-claim]] · [[aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim]] · [[aku-maestro-nunca-deja-de-aprender-humildad-claim]] · [[aku-no-hay-malos-estudiantes-solo-malos-profesores-claim]] · [[aku-ensenar-con-no-a-incorporar-feedback-claim]] · [[aku-liderar-con-el-ejemplo-unica-forma-de-ensenar-claim]]

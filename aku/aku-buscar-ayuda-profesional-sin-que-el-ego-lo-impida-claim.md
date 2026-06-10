@@ -33,6 +33,8 @@ relations:
   related:
     - aku-el-ego-mas-dificil-es-el-propio-claim
     - aku-humildad-asumir-errores-claim
+    - aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim
+    - aku-paso-pequeno-reevaluar-ante-incertidumbre-method
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-ego-mas-dificil-es-el-propio-claim]] · [[aku-humildad-asumir-errores-claim]]
+**related** ↔ [[aku-el-ego-mas-dificil-es-el-propio-claim]] · [[aku-humildad-asumir-errores-claim]] · [[aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim]] · [[aku-paso-pequeno-reevaluar-ante-incertidumbre-method]]

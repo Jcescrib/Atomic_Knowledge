@@ -35,6 +35,8 @@ relations:
   related:
     - aku-disciplina-se-extiende-a-todo-claim
     - aku-para-tener-paz-mental-primero-hay-que-tener-paz-del-cuerpo-claim
+    - aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim
+    - aku-lesiones-enfermedad-do-what-you-can-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-disciplina-se-extiende-a-todo-claim]] · [[aku-para-tener-paz-mental-primero-hay-que-tener-paz-del-cuerpo-claim]]
+**related** ↔ [[aku-disciplina-se-extiende-a-todo-claim]] · [[aku-para-tener-paz-mental-primero-hay-que-tener-paz-del-cuerpo-claim]] · [[aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim]] · [[aku-lesiones-enfermedad-do-what-you-can-claim]]

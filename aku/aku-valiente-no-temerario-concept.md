@@ -33,6 +33,11 @@ relations:
   related:
     - aku-aggressive-not-reckless-concept
     - aku-el-hustler-es-agresivo-pero-no-temerario-investiga-antes-de-apostar-claim
+    - aku-calcular-y-mitigar-riesgo-claim
+    - aku-los-que-no-arriesgan-no-ganan-claim
+    - aku-el-enemigo-tiene-voto-concept
+    - aku-nunca-complacencia-subestimar-enemigo-claim
+    - aku-confident-but-not-cocky-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
 
-**related** ↔ [[aku-aggressive-not-reckless-concept]] · [[aku-el-hustler-es-agresivo-pero-no-temerario-investiga-antes-de-apostar-claim]]
+**related** ↔ [[aku-aggressive-not-reckless-concept]] · [[aku-el-hustler-es-agresivo-pero-no-temerario-investiga-antes-de-apostar-claim]] · [[aku-calcular-y-mitigar-riesgo-claim]] · [[aku-los-que-no-arriesgan-no-ganan-claim]] · [[aku-el-enemigo-tiene-voto-concept]] · [[aku-nunca-complacencia-subestimar-enemigo-claim]] · [[aku-confident-but-not-cocky-concept]]

@@ -38,6 +38,8 @@ relations:
   related:
     - aku-dont-dig-in-no-sobrecomprometerse-claim
     - aku-excepcion-resistir-ordenes-ilegales-inmorales-claim
+    - aku-castigo-raro-y-con-lineas-claras-claim
+    - aku-cuando-micromanage-es-necesario-method
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -50,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-dont-dig-in-no-sobrecomprometerse-claim]] · [[aku-excepcion-resistir-ordenes-ilegales-inmorales-claim]]
+**related** ↔ [[aku-dont-dig-in-no-sobrecomprometerse-claim]] · [[aku-excepcion-resistir-ordenes-ilegales-inmorales-claim]] · [[aku-castigo-raro-y-con-lineas-claras-claim]] · [[aku-cuando-micromanage-es-necesario-method]]

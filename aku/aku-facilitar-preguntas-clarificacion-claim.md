@@ -34,6 +34,9 @@ relations:
   related:
     - aku-preguntar-por-que-method
     - aku-brief-orientado-a-frontline-claim
+    - aku-lideres-junior-proactivos-no-reactivos-claim
+    - aku-liderazgo-en-todos-los-niveles-claim
+    - aku-liderazgo-es-grupo-no-individuo-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-simple-law-of-combat-concept]]
 
-**related** ↔ [[aku-preguntar-por-que-method]] · [[aku-brief-orientado-a-frontline-claim]]
+**related** ↔ [[aku-preguntar-por-que-method]] · [[aku-brief-orientado-a-frontline-claim]] · [[aku-lideres-junior-proactivos-no-reactivos-claim]] · [[aku-liderazgo-en-todos-los-niveles-claim]] · [[aku-liderazgo-es-grupo-no-individuo-concept]]

@@ -35,6 +35,7 @@ relations:
   contradicts: []
   related:
     - aku-lider-compensa-debilidades-con-el-equipo-claim
+    - aku-balance-ownership-decentralized-command-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -52,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-decentralized-command-concept]]
 
-**related** ↔ [[aku-lider-compensa-debilidades-con-el-equipo-claim]]
+**related** ↔ [[aku-lider-compensa-debilidades-con-el-equipo-claim]] · [[aku-balance-ownership-decentralized-command-concept]]

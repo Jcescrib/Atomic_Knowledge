@@ -35,6 +35,7 @@ relations:
   related:
     - aku-overload-principle-concept
     - aku-eliminar-elementos-innecesarios-data-ink-claim
+    - aku-overload-neutralizado-por-produccion-atricion-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-overload-principle-concept]] · [[aku-eliminar-elementos-innecesarios-data-ink-claim]]
+**related** ↔ [[aku-overload-principle-concept]] · [[aku-eliminar-elementos-innecesarios-data-ink-claim]] · [[aku-overload-neutralizado-por-produccion-atricion-claim]]

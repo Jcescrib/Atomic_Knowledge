@@ -38,6 +38,9 @@ relations:
     - aku-32-principios-jiu-jitsu-concept
     - aku-aprender-pensando-por-uno-mismo-descubre-mas-claim
     - aku-maestro-nunca-deja-de-aprender-humildad-claim
+    - aku-32-principles-diagnostic-method
+    - aku-eficiencia-apex-timing-control-macro-concept
+    - aku-principios-jiu-jitsu-forma-de-pensar-transferible-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -50,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-centerline-principle-concept]] · [[aku-sinergia-principios-se-combinan-concept]] · [[aku-32-principios-jiu-jitsu-concept]] · [[aku-aprender-pensando-por-uno-mismo-descubre-mas-claim]] · [[aku-maestro-nunca-deja-de-aprender-humildad-claim]]
+**related** ↔ [[aku-centerline-principle-concept]] · [[aku-sinergia-principios-se-combinan-concept]] · [[aku-32-principios-jiu-jitsu-concept]] · [[aku-aprender-pensando-por-uno-mismo-descubre-mas-claim]] · [[aku-maestro-nunca-deja-de-aprender-humildad-claim]] · [[aku-32-principles-diagnostic-method]] · [[aku-eficiencia-apex-timing-control-macro-concept]] · [[aku-principios-jiu-jitsu-forma-de-pensar-transferible-claim]]

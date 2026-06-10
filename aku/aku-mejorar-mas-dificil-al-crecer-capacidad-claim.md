@@ -33,6 +33,9 @@ relations:
     - aku-evaluation-scoring-0-5-method
     - aku-the-path-concept
     - aku-agregacion-de-ganancias-marginales-concept
+    - aku-the-code-concept
+    - aku-eminently-qualified-human-concept
+    - aku-eqh-no-es-estado-sino-camino-sin-fin-claim
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -45,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-evaluation-scoring-0-5-method]] · [[aku-the-path-concept]] · [[aku-agregacion-de-ganancias-marginales-concept]]
+**related** ↔ [[aku-evaluation-scoring-0-5-method]] · [[aku-the-path-concept]] · [[aku-agregacion-de-ganancias-marginales-concept]] · [[aku-the-code-concept]] · [[aku-eminently-qualified-human-concept]] · [[aku-eqh-no-es-estado-sino-camino-sin-fin-claim]]

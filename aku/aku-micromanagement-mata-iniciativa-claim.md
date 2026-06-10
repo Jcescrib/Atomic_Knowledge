@@ -39,6 +39,11 @@ relations:
     - aku-exceso-de-sops-ahoga-iniciativa-claim
     - aku-accountability-no-escala-y-ciega-al-lider-claim
     - aku-no-seas-el-easy-button-claim
+    - aku-corregir-micromanagement-method
+    - aku-hands-off-laissez-faire-descoordina-claim
+    - aku-sintomas-de-hands-off-method
+    - aku-corregir-hands-off-method
+    - aku-asignar-lead-claro-evita-planes-divergentes-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -53,4 +58,4 @@ status_note: ""
 
 **supports** → [[aku-balance-ownership-decentralized-command-concept]]
 
-**related** ↔ [[aku-micromanagement-disuelve-en-caos-claim]] · [[aku-sintomas-de-micromanagement-method]] · [[aku-exceso-de-sops-ahoga-iniciativa-claim]] · [[aku-accountability-no-escala-y-ciega-al-lider-claim]] · [[aku-no-seas-el-easy-button-claim]]
+**related** ↔ [[aku-micromanagement-disuelve-en-caos-claim]] · [[aku-sintomas-de-micromanagement-method]] · [[aku-exceso-de-sops-ahoga-iniciativa-claim]] · [[aku-accountability-no-escala-y-ciega-al-lider-claim]] · [[aku-no-seas-el-easy-button-claim]] · [[aku-corregir-micromanagement-method]] · [[aku-hands-off-laissez-faire-descoordina-claim]] · [[aku-sintomas-de-hands-off-method]] · [[aku-corregir-hands-off-method]] · [[aku-asignar-lead-claro-evita-planes-divergentes-claim]]

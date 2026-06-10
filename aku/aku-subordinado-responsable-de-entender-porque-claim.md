@@ -33,6 +33,10 @@ relations:
   contradicts: []
   related:
     - aku-preguntar-por-que-method
+    - aku-believe-in-the-mission-concept
+    - aku-creer-para-asumir-riesgos-y-convencer-claim
+    - aku-creencia-del-lider-se-transmite-claim
+    - aku-objetivos-alineados-organizacion-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-preguntar-por-que-method]]
+**related** ↔ [[aku-preguntar-por-que-method]] · [[aku-believe-in-the-mission-concept]] · [[aku-creer-para-asumir-riesgos-y-convencer-claim]] · [[aku-creencia-del-lider-se-transmite-claim]] · [[aku-objetivos-alineados-organizacion-claim]]

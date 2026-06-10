@@ -31,7 +31,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-soltar-control-egoista-permite-crecer-claim
+    - aku-soltar-es-la-forma-mas-poderosa-de-ayudar-claim
+    - aku-sacrificar-el-ego-coste-percibido-mayor-que-real-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -45,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-detachment-principle-concept]]
+
+**related** ↔ [[aku-soltar-control-egoista-permite-crecer-claim]] · [[aku-soltar-es-la-forma-mas-poderosa-de-ayudar-claim]] · [[aku-sacrificar-el-ego-coste-percibido-mayor-que-real-claim]]

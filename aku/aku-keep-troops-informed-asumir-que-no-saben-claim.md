@@ -36,6 +36,7 @@ relations:
     - aku-leading-down-the-chain-concept
     - aku-senior-debe-explicar-el-porque-claim
     - aku-rumor-control-llenar-vacio-de-informacion-claim
+    - aku-positivo-pero-realista-no-pollyanna-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-conexion-rol-big-picture-no-intuitiva-claim]] · [[aku-leading-down-the-chain-concept]] · [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-rumor-control-llenar-vacio-de-informacion-claim]]
+**related** ↔ [[aku-conexion-rol-big-picture-no-intuitiva-claim]] · [[aku-leading-down-the-chain-concept]] · [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-rumor-control-llenar-vacio-de-informacion-claim]] · [[aku-positivo-pero-realista-no-pollyanna-claim]]

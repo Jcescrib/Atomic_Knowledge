@@ -37,6 +37,9 @@ relations:
     - aku-confident-but-not-cocky-concept
     - aku-check-the-ego-concept
     - aku-quien-presume-de-honesto-suele-ocultar-algo-claim
+    - aku-inseguridad-admitir-no-ocultar-claim
+    - aku-pride-fuerza-de-doble-filo-concept
+    - aku-pride-se-construye-con-sufrimiento-compartido-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -49,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-imposter-syndrome-es-bueno-claim]] · [[aku-confident-but-not-cocky-concept]] · [[aku-check-the-ego-concept]] · [[aku-quien-presume-de-honesto-suele-ocultar-algo-claim]]
+**related** ↔ [[aku-imposter-syndrome-es-bueno-claim]] · [[aku-confident-but-not-cocky-concept]] · [[aku-check-the-ego-concept]] · [[aku-quien-presume-de-honesto-suele-ocultar-algo-claim]] · [[aku-inseguridad-admitir-no-ocultar-claim]] · [[aku-pride-fuerza-de-doble-filo-concept]] · [[aku-pride-se-construye-con-sufrimiento-compartido-claim]]

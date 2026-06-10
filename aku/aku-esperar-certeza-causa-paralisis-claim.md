@@ -35,6 +35,12 @@ relations:
   related:
     - aku-sopesar-riesgo-recompensa-coste-inaccion-claim
     - aku-ayudar-al-usuario-a-elegir-opciones-choice-overload-claim
+    - aku-default-agresivo-proactivo-dictar-situacion-claim
+    - aku-no-hay-solucion-100-correcta-claim
+    - aku-conjetura-educada-method
+    - aku-contingency-planning-anticipar-method
+    - aku-lider-percibido-como-decisivo-claim
+    - aku-si-no-ganas-no-tomas-buenas-decisiones-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -49,4 +55,4 @@ status_note: ""
 
 **supports** → [[aku-decisiveness-amid-uncertainty-concept]]
 
-**related** ↔ [[aku-sopesar-riesgo-recompensa-coste-inaccion-claim]] · [[aku-ayudar-al-usuario-a-elegir-opciones-choice-overload-claim]]
+**related** ↔ [[aku-sopesar-riesgo-recompensa-coste-inaccion-claim]] · [[aku-ayudar-al-usuario-a-elegir-opciones-choice-overload-claim]] · [[aku-default-agresivo-proactivo-dictar-situacion-claim]] · [[aku-no-hay-solucion-100-correcta-claim]] · [[aku-conjetura-educada-method]] · [[aku-contingency-planning-anticipar-method]] · [[aku-lider-percibido-como-decisivo-claim]] · [[aku-si-no-ganas-no-tomas-buenas-decisiones-claim]]

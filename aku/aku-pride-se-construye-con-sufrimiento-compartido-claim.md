@@ -34,6 +34,9 @@ relations:
   related:
     - aku-pride-fuerza-de-doble-filo-concept
     - aku-train-hard-but-train-smart-concept
+    - aku-imposter-syndrome-es-bueno-claim
+    - aku-inseguridad-admitir-no-ocultar-claim
+    - aku-senales-de-confianza-desequilibrada-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-pride-fuerza-de-doble-filo-concept]] · [[aku-train-hard-but-train-smart-concept]]
+**related** ↔ [[aku-pride-fuerza-de-doble-filo-concept]] · [[aku-train-hard-but-train-smart-concept]] · [[aku-imposter-syndrome-es-bueno-claim]] · [[aku-inseguridad-admitir-no-ocultar-claim]] · [[aku-senales-de-confianza-desequilibrada-claim]]

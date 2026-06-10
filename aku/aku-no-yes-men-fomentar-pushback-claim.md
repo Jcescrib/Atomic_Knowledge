@@ -38,6 +38,7 @@ relations:
     - aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim
     - aku-getting-people-to-listen-deja-que-hablen-claim
     - aku-48laws-42-strike-the-shepherd-concept
+    - aku-lideres-dicen-la-verdad-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -50,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-ejecutar-decision-como-propia-claim]] · [[aku-leading-up-the-chain-concept]] · [[aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim]] · [[aku-getting-people-to-listen-deja-que-hablen-claim]] · [[aku-48laws-42-strike-the-shepherd-concept]]
+**related** ↔ [[aku-ejecutar-decision-como-propia-claim]] · [[aku-leading-up-the-chain-concept]] · [[aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim]] · [[aku-getting-people-to-listen-deja-que-hablen-claim]] · [[aku-48laws-42-strike-the-shepherd-concept]] · [[aku-lideres-dicen-la-verdad-claim]]

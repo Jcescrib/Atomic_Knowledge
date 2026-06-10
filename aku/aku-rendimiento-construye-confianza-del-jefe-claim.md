@@ -40,6 +40,11 @@ relations:
     - aku-manejar-jefe-micromanager-indeciso-debil-method
     - aku-getting-people-to-listen-deja-que-hablen-claim
     - aku-hablar-suave-transfiere-el-poder-hacia-ti-claim
+    - aku-construir-confianza-con-mision-asequible-method
+    - aku-dar-confianza-incrementalmente-method
+    - aku-confianza-arriba-no-decir-lo-que-quieren-oir-claim
+    - aku-decentralized-descansa-en-confianza-tiempo-critico-claim
+    - aku-power-of-relationships-liderazgo-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -52,4 +57,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-presentar-frente-unido-claim]] · [[aku-ejecutar-decision-como-propia-claim]] · [[aku-leadership-capital-concept]] · [[aku-play-the-long-game-concept]] · [[aku-como-ser-elegido-lider-claim]] · [[aku-manejar-jefe-micromanager-indeciso-debil-method]] · [[aku-getting-people-to-listen-deja-que-hablen-claim]] · [[aku-hablar-suave-transfiere-el-poder-hacia-ti-claim]]
+**related** ↔ [[aku-presentar-frente-unido-claim]] · [[aku-ejecutar-decision-como-propia-claim]] · [[aku-leadership-capital-concept]] · [[aku-play-the-long-game-concept]] · [[aku-como-ser-elegido-lider-claim]] · [[aku-manejar-jefe-micromanager-indeciso-debil-method]] · [[aku-getting-people-to-listen-deja-que-hablen-claim]] · [[aku-hablar-suave-transfiere-el-poder-hacia-ti-claim]] · [[aku-construir-confianza-con-mision-asequible-method]] · [[aku-dar-confianza-incrementalmente-method]] · [[aku-confianza-arriba-no-decir-lo-que-quieren-oir-claim]] · [[aku-decentralized-descansa-en-confianza-tiempo-critico-claim]] · [[aku-power-of-relationships-liderazgo-concept]]

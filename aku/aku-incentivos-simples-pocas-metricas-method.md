@@ -34,6 +34,9 @@ relations:
   contradicts: []
   related:
     - aku-implied-guarantee-performance-concept
+    - aku-gente-quiere-ganar-necesita-forcing-function-claim
+    - aku-no-obligar-sino-liderar-claim
+    - aku-metas-intermedias-visibles-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -50,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-simple-law-of-combat-concept]]
 
-**related** ↔ [[aku-implied-guarantee-performance-concept]]
+**related** ↔ [[aku-implied-guarantee-performance-concept]] · [[aku-gente-quiere-ganar-necesita-forcing-function-claim]] · [[aku-no-obligar-sino-liderar-claim]] · [[aku-metas-intermedias-visibles-method]]

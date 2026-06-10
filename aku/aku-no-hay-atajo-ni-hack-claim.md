@@ -33,6 +33,10 @@ relations:
   contradicts: []
   related:
     - aku-no-cuentes-con-motivacion-cuenta-disciplina-claim
+    - aku-disciplina-se-extiende-a-todo-claim
+    - aku-self-discipline-viene-de-dentro-concept
+    - aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim
+    - aku-es-un-trabajo-de-cada-dia-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -47,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]]
 
-**related** ↔ [[aku-no-cuentes-con-motivacion-cuenta-disciplina-claim]]
+**related** ↔ [[aku-no-cuentes-con-motivacion-cuenta-disciplina-claim]] · [[aku-disciplina-se-extiende-a-todo-claim]] · [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim]] · [[aku-es-un-trabajo-de-cada-dia-claim]]

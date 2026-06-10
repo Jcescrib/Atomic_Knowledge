@@ -38,6 +38,8 @@ relations:
     - aku-distance-principle-concept
     - aku-acceptance-principle-concept
     - aku-soltar-es-la-forma-mas-poderosa-de-ayudar-claim
+    - aku-soltar-control-egoista-permite-crecer-claim
+    - aku-sacrificar-el-ego-coste-percibido-mayor-que-real-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -52,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-detachment-bidireccional-concept]]
 
-**related** ↔ [[aku-connection-principle-concept]] · [[aku-detach-tactico-estrategico-concept]] · [[aku-distance-principle-concept]] · [[aku-acceptance-principle-concept]] · [[aku-soltar-es-la-forma-mas-poderosa-de-ayudar-claim]]
+**related** ↔ [[aku-connection-principle-concept]] · [[aku-detach-tactico-estrategico-concept]] · [[aku-distance-principle-concept]] · [[aku-acceptance-principle-concept]] · [[aku-soltar-es-la-forma-mas-poderosa-de-ayudar-claim]] · [[aku-soltar-control-egoista-permite-crecer-claim]] · [[aku-sacrificar-el-ego-coste-percibido-mayor-que-real-claim]]

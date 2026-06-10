@@ -34,6 +34,10 @@ relations:
   contradicts: []
   related:
     - aku-hands-off-laissez-faire-descoordina-claim
+    - aku-decentralized-requiere-confianza-bidireccional-claim
+    - aku-decentralizar-proceso-planificacion-claim
+    - aku-confianza-se-construye-no-se-da-claim
+    - aku-micromanagement-disuelve-en-caos-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-decentralized-command-concept]]
 
-**related** ↔ [[aku-hands-off-laissez-faire-descoordina-claim]]
+**related** ↔ [[aku-hands-off-laissez-faire-descoordina-claim]] · [[aku-decentralized-requiere-confianza-bidireccional-claim]] · [[aku-decentralizar-proceso-planificacion-claim]] · [[aku-confianza-se-construye-no-se-da-claim]] · [[aku-micromanagement-disuelve-en-caos-claim]]

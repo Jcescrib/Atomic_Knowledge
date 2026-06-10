@@ -33,6 +33,8 @@ relations:
     - aku-mind-control-controla-tu-propia-mente-concept
     - aku-empezar-aqui-y-ahora-method
     - aku-madrugar-predawn-stand-to-claim
+    - aku-no-mas-excusas-claim
+    - aku-not-feeling-it-go-anyway-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-mind-control-controla-tu-propia-mente-concept]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-madrugar-predawn-stand-to-claim]]
+**related** ↔ [[aku-mind-control-controla-tu-propia-mente-concept]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-madrugar-predawn-stand-to-claim]] · [[aku-no-mas-excusas-claim]] · [[aku-not-feeling-it-go-anyway-claim]]

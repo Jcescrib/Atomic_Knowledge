@@ -33,6 +33,7 @@ relations:
   related:
     - aku-good-mindset-concept
     - aku-actitud-lider-marca-el-tono-claim
+    - aku-incluso-en-la-muerte-hay-good-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-good-mindset-concept]] · [[aku-actitud-lider-marca-el-tono-claim]]
+**related** ↔ [[aku-good-mindset-concept]] · [[aku-actitud-lider-marca-el-tono-claim]] · [[aku-incluso-en-la-muerte-hay-good-claim]]

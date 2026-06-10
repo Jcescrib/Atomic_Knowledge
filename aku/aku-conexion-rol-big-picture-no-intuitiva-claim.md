@@ -36,6 +36,9 @@ relations:
     - aku-cada-miembro-es-el-mas-importante-claim
     - aku-keep-troops-informed-asumir-que-no-saben-claim
     - aku-thread-of-why-conectar-al-individuo-claim
+    - aku-commanders-intent-concept
+    - aku-lider-mantiene-perspectiva-estrategica-claim
+    - aku-parte-de-algo-mas-grande-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -50,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-leading-down-the-chain-concept]]
 
-**related** ↔ [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-cada-miembro-es-el-mas-importante-claim]] · [[aku-keep-troops-informed-asumir-que-no-saben-claim]] · [[aku-thread-of-why-conectar-al-individuo-claim]]
+**related** ↔ [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-cada-miembro-es-el-mas-importante-claim]] · [[aku-keep-troops-informed-asumir-que-no-saben-claim]] · [[aku-thread-of-why-conectar-al-individuo-claim]] · [[aku-commanders-intent-concept]] · [[aku-lider-mantiene-perspectiva-estrategica-claim]] · [[aku-parte-de-algo-mas-grande-claim]]

@@ -46,6 +46,10 @@ relations:
     - aku-exception-good-team-bad-leader-claim
     - aku-no-hay-malos-estudiantes-solo-malos-profesores-claim
     - aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept
+    - aku-lider-efectivo-vs-inefectivo-concept
+    - aku-medida-significativa-liderazgo-claim
+    - aku-lider-responsable-mision-tactica-recursos-claim
+    - aku-battlefield-promotion-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -60,4 +64,4 @@ status_note: ""
 
 **supported_by** ← [[aku-extreme-ownership-concept]] · [[aku-actitud-lider-marca-el-tono-claim]] · [[aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim]] · [[aku-gente-quiere-ganar-necesita-forcing-function-claim]] · [[aku-lideres-nunca-satisfechos-mejora-continua-claim]] · [[aku-liderar-desde-posicion-mas-dificil-claim]] · [[aku-metas-intermedias-visibles-method]]
 
-**related** ↔ [[aku-liderazgo-factor-mas-importante-claim]] · [[aku-when-to-mentor-when-to-fire-concept]] · [[aku-invertir-en-uno-puede-perjudicar-al-equipo-claim]] · [[aku-exception-good-team-bad-leader-claim]] · [[aku-no-hay-malos-estudiantes-solo-malos-profesores-claim]] · [[aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept]]
+**related** ↔ [[aku-liderazgo-factor-mas-importante-claim]] · [[aku-when-to-mentor-when-to-fire-concept]] · [[aku-invertir-en-uno-puede-perjudicar-al-equipo-claim]] · [[aku-exception-good-team-bad-leader-claim]] · [[aku-no-hay-malos-estudiantes-solo-malos-profesores-claim]] · [[aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept]] · [[aku-lider-efectivo-vs-inefectivo-concept]] · [[aku-medida-significativa-liderazgo-claim]] · [[aku-lider-responsable-mision-tactica-recursos-claim]] · [[aku-battlefield-promotion-concept]]

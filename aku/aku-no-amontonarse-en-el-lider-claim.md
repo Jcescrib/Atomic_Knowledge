@@ -34,6 +34,9 @@ relations:
   related:
     - aku-check-the-ego-concept
     - aku-no-care-detachment-via-ego-method
+    - aku-dar-ordenes-solo-commanders-intent-claim
+    - aku-delegar-todo-para-liderar-no-pareciendo-vago-claim
+    - aku-no-seas-el-easy-button-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-check-the-ego-concept]] · [[aku-no-care-detachment-via-ego-method]]
+**related** ↔ [[aku-check-the-ego-concept]] · [[aku-no-care-detachment-via-ego-method]] · [[aku-dar-ordenes-solo-commanders-intent-claim]] · [[aku-delegar-todo-para-liderar-no-pareciendo-vago-claim]] · [[aku-no-seas-el-easy-button-claim]]

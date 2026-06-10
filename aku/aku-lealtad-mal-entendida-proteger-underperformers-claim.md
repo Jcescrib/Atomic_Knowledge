@@ -35,6 +35,9 @@ relations:
     - aku-entrenar-mentorizar-underperformer-claim
     - aku-cuidar-demasiado-impide-decisiones-duras-claim
     - aku-invertir-en-uno-puede-perjudicar-al-equipo-claim
+    - aku-cortar-cancers-del-equipo-rapido-claim
+    - aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim
+    - aku-repetir-tarea-hasta-estandar-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-entrenar-mentorizar-underperformer-claim]] · [[aku-cuidar-demasiado-impide-decisiones-duras-claim]] · [[aku-invertir-en-uno-puede-perjudicar-al-equipo-claim]]
+**related** ↔ [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-entrenar-mentorizar-underperformer-claim]] · [[aku-cuidar-demasiado-impide-decisiones-duras-claim]] · [[aku-invertir-en-uno-puede-perjudicar-al-equipo-claim]] · [[aku-cortar-cancers-del-equipo-rapido-claim]] · [[aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim]] · [[aku-repetir-tarea-hasta-estandar-method]]

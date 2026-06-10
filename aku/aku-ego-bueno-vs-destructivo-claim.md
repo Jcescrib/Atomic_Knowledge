@@ -31,7 +31,12 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-check-ego-asumiendo-culpa-primero-method
+    - aku-ego-impide-evaluacion-honesta-claim
+    - aku-ego-nubla-todo-claim
+    - aku-el-ego-mas-dificil-es-el-propio-claim
+    - aku-mejores-lideres-mision-no-ego-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -45,3 +50,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-check-the-ego-concept]]
+
+**related** ↔ [[aku-check-ego-asumiendo-culpa-primero-method]] · [[aku-ego-impide-evaluacion-honesta-claim]] · [[aku-ego-nubla-todo-claim]] · [[aku-el-ego-mas-dificil-es-el-propio-claim]] · [[aku-mejores-lideres-mision-no-ego-claim]]

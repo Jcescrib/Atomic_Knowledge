@@ -43,6 +43,10 @@ relations:
     - aku-liderazgo-como-herramienta-para-ensenar-concept
     - aku-construir-confianza-con-mision-asequible-method
     - aku-cuando-micromanage-es-necesario-method
+    - aku-confianza-arriba-no-decir-lo-que-quieren-oir-claim
+    - aku-rendimiento-construye-confianza-del-jefe-claim
+    - aku-decentralized-descansa-en-confianza-tiempo-critico-claim
+    - aku-power-of-relationships-liderazgo-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -55,4 +59,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-confianza-se-construye-no-se-da-claim]] · [[aku-decentralized-command-concept]] · [[aku-corregir-micromanagement-method]] · [[aku-imposed-vs-self-discipline-en-equipo-concept]] · [[aku-overcoming-grudge-ex-pares-method]] · [[aku-new-sheriff-cambio-segun-estado-equipo-method]] · [[aku-no-seas-el-easy-button-claim]] · [[aku-liderazgo-como-herramienta-para-ensenar-concept]] · [[aku-construir-confianza-con-mision-asequible-method]] · [[aku-cuando-micromanage-es-necesario-method]]
+**related** ↔ [[aku-confianza-se-construye-no-se-da-claim]] · [[aku-decentralized-command-concept]] · [[aku-corregir-micromanagement-method]] · [[aku-imposed-vs-self-discipline-en-equipo-concept]] · [[aku-overcoming-grudge-ex-pares-method]] · [[aku-new-sheriff-cambio-segun-estado-equipo-method]] · [[aku-no-seas-el-easy-button-claim]] · [[aku-liderazgo-como-herramienta-para-ensenar-concept]] · [[aku-construir-confianza-con-mision-asequible-method]] · [[aku-cuando-micromanage-es-necesario-method]] · [[aku-confianza-arriba-no-decir-lo-que-quieren-oir-claim]] · [[aku-rendimiento-construye-confianza-del-jefe-claim]] · [[aku-decentralized-descansa-en-confianza-tiempo-critico-claim]] · [[aku-power-of-relationships-liderazgo-concept]]

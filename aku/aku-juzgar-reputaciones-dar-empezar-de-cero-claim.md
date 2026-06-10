@@ -34,6 +34,8 @@ relations:
   related:
     - aku-when-to-mentor-when-to-fire-concept
     - aku-lideres-nacen-y-se-hacen-claim
+    - aku-encajar-atributos-con-el-rol-claim
+    - aku-everyone-same-everyone-different-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-when-to-mentor-when-to-fire-concept]] · [[aku-lideres-nacen-y-se-hacen-claim]]
+**related** ↔ [[aku-when-to-mentor-when-to-fire-concept]] · [[aku-lideres-nacen-y-se-hacen-claim]] · [[aku-encajar-atributos-con-el-rol-claim]] · [[aku-everyone-same-everyone-different-concept]]

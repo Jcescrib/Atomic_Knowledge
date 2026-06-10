@@ -32,6 +32,10 @@ relations:
   contradicts: []
   related:
     - aku-tension-principle-concept
+    - aku-connection-principle-concept
+    - aku-conexion-prevenir-promover-predecir-concept
+    - aku-conexiones-fiables-vs-no-fiables-concept
+    - aku-tres-tecnicas-de-tension-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -44,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-tension-principle-concept]]
+**related** ↔ [[aku-tension-principle-concept]] · [[aku-connection-principle-concept]] · [[aku-conexion-prevenir-promover-predecir-concept]] · [[aku-conexiones-fiables-vs-no-fiables-concept]] · [[aku-tres-tecnicas-de-tension-concept]]

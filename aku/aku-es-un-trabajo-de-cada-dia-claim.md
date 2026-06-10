@@ -33,6 +33,12 @@ relations:
   related:
     - aku-no-relajarse-hasta-completar-la-mision-claim
     - aku-the-warpath-concept
+    - aku-disciplina-raiz-de-toda-buena-cualidad-concept
+    - aku-disciplina-se-extiende-a-todo-claim
+    - aku-self-discipline-viene-de-dentro-concept
+    - aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim
+    - aku-no-cuentes-con-motivacion-cuenta-disciplina-claim
+    - aku-no-hay-atajo-ni-hack-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -45,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-relajarse-hasta-completar-la-mision-claim]] · [[aku-the-warpath-concept]]
+**related** ↔ [[aku-no-relajarse-hasta-completar-la-mision-claim]] · [[aku-the-warpath-concept]] · [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-disciplina-se-extiende-a-todo-claim]] · [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim]] · [[aku-no-cuentes-con-motivacion-cuenta-disciplina-claim]] · [[aku-no-hay-atajo-ni-hack-claim]]

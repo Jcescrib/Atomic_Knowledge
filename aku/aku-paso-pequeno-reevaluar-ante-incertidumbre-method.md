@@ -38,6 +38,8 @@ relations:
     - aku-detach-tactico-estrategico-concept
     - aku-prioritize-and-execute-concept
     - aku-lean-startup-method-concept
+    - aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim
+    - aku-buscar-ayuda-profesional-sin-que-el-ego-lo-impida-claim
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -50,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-detach-tactico-estrategico-concept]] · [[aku-prioritize-and-execute-concept]] · [[aku-lean-startup-method-concept]]
+**related** ↔ [[aku-detach-tactico-estrategico-concept]] · [[aku-prioritize-and-execute-concept]] · [[aku-lean-startup-method-concept]] · [[aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim]] · [[aku-buscar-ayuda-profesional-sin-que-el-ego-lo-impida-claim]]

@@ -37,6 +37,9 @@ relations:
     - aku-believe-in-the-mission-concept
     - aku-metas-intermedias-visibles-method
     - aku-mantener-objetivo-largo-plazo-a-la-vista-claim
+    - aku-iterative-decision-making-method
+    - aku-cuando-rendirse-tactico-no-estrategico-claim
+    - aku-play-the-long-game-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -49,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-believe-in-the-mission-concept]] · [[aku-metas-intermedias-visibles-method]] · [[aku-mantener-objetivo-largo-plazo-a-la-vista-claim]]
+**related** ↔ [[aku-believe-in-the-mission-concept]] · [[aku-metas-intermedias-visibles-method]] · [[aku-mantener-objetivo-largo-plazo-a-la-vista-claim]] · [[aku-iterative-decision-making-method]] · [[aku-cuando-rendirse-tactico-no-estrategico-claim]] · [[aku-play-the-long-game-concept]]

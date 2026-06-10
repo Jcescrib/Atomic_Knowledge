@@ -40,6 +40,7 @@ relations:
     - aku-mobility-principle-concept
     - aku-ceder-desequilibra-al-oponente-claim
     - aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim
+    - aku-cambiar-el-sistema-desde-dentro-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -54,4 +55,4 @@ status_note: ""
 
 **supports** → [[aku-regla-60-por-ciento-aceptacion-method]]
 
-**related** ↔ [[aku-creation-principle-concept]] · [[aku-detachment-principle-concept]] · [[aku-velocity-principle-concept]] · [[aku-prevention-principle-concept]] · [[aku-mobility-principle-concept]] · [[aku-ceder-desequilibra-al-oponente-claim]] · [[aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim]]
+**related** ↔ [[aku-creation-principle-concept]] · [[aku-detachment-principle-concept]] · [[aku-velocity-principle-concept]] · [[aku-prevention-principle-concept]] · [[aku-mobility-principle-concept]] · [[aku-ceder-desequilibra-al-oponente-claim]] · [[aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim]] · [[aku-cambiar-el-sistema-desde-dentro-claim]]

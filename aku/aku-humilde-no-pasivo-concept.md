@@ -33,6 +33,15 @@ relations:
   contradicts: []
   related:
     - aku-humildad-es-la-cualidad-mas-importante-claim
+    - aku-agresivo-no-prepotente-concept
+    - aku-atento-detalle-no-obsesionado-concept
+    - aku-callado-no-silencioso-concept
+    - aku-calmado-no-robotico-concept
+    - aku-cercano-pero-no-demasiado-concept
+    - aku-competitivo-buen-perdedor-concept
+    - aku-fuerte-con-resistencia-concept
+    - aku-lider-y-seguidor-concept
+    - aku-nada-que-probar-pero-todo-que-probar-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +57,4 @@ status_note: ""
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
 
-**related** ↔ [[aku-humildad-es-la-cualidad-mas-importante-claim]]
+**related** ↔ [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-agresivo-no-prepotente-concept]] · [[aku-atento-detalle-no-obsesionado-concept]] · [[aku-callado-no-silencioso-concept]] · [[aku-calmado-no-robotico-concept]] · [[aku-cercano-pero-no-demasiado-concept]] · [[aku-competitivo-buen-perdedor-concept]] · [[aku-fuerte-con-resistencia-concept]] · [[aku-lider-y-seguidor-concept]] · [[aku-nada-que-probar-pero-todo-que-probar-concept]]

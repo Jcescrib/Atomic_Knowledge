@@ -34,6 +34,9 @@ relations:
   related:
     - aku-camino-de-menor-resistencia-claim
     - aku-el-castigo-inmediato-reduce-el-mal-habito-claim
+    - aku-gente-quiere-ganar-necesita-forcing-function-claim
+    - aku-no-obligar-sino-liderar-claim
+    - aku-metas-intermedias-visibles-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-incentivos-simples-pocas-metricas-method]]
 
-**related** ↔ [[aku-camino-de-menor-resistencia-claim]] · [[aku-el-castigo-inmediato-reduce-el-mal-habito-claim]]
+**related** ↔ [[aku-camino-de-menor-resistencia-claim]] · [[aku-el-castigo-inmediato-reduce-el-mal-habito-claim]] · [[aku-gente-quiere-ganar-necesita-forcing-function-claim]] · [[aku-no-obligar-sino-liderar-claim]] · [[aku-metas-intermedias-visibles-method]]

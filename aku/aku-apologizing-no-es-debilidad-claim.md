@@ -38,6 +38,7 @@ relations:
     - aku-tomar-ownership-cuando-te-culpan-claim
     - aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim
     - aku-aceptar-que-todo-depende-de-ti-es-liberador-claim
+    - aku-preemptive-ownership-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -50,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-extreme-ownership-concept]] · [[aku-humildad-asumir-errores-claim]] · [[aku-tomar-ownership-cuando-te-culpan-claim]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]] · [[aku-aceptar-que-todo-depende-de-ti-es-liberador-claim]]
+**related** ↔ [[aku-extreme-ownership-concept]] · [[aku-humildad-asumir-errores-claim]] · [[aku-tomar-ownership-cuando-te-culpan-claim]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]] · [[aku-aceptar-que-todo-depende-de-ti-es-liberador-claim]] · [[aku-preemptive-ownership-concept]]

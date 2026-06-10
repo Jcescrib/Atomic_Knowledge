@@ -32,7 +32,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-atacar-el-linchpin-del-argumento-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -46,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-posture-principle-concept]]
+
+**related** ↔ [[aku-atacar-el-linchpin-del-argumento-claim]]

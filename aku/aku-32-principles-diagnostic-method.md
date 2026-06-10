@@ -35,6 +35,9 @@ relations:
   related:
     - aku-todo-problema-es-tecnica-por-descubrir-claim
     - aku-sinergia-principios-se-combinan-concept
+    - aku-eficiencia-apex-timing-control-macro-concept
+    - aku-grandmaster-principle-concept
+    - aku-principios-jiu-jitsu-forma-de-pensar-transferible-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -49,4 +52,4 @@ status_note: ""
 
 **supported_by** ← [[aku-32-principios-jiu-jitsu-concept]]
 
-**related** ↔ [[aku-todo-problema-es-tecnica-por-descubrir-claim]] · [[aku-sinergia-principios-se-combinan-concept]]
+**related** ↔ [[aku-todo-problema-es-tecnica-por-descubrir-claim]] · [[aku-sinergia-principios-se-combinan-concept]] · [[aku-eficiencia-apex-timing-control-macro-concept]] · [[aku-grandmaster-principle-concept]] · [[aku-principios-jiu-jitsu-forma-de-pensar-transferible-claim]]

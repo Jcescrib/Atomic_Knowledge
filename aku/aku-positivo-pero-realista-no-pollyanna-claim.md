@@ -36,6 +36,8 @@ relations:
     - aku-lideres-dicen-la-verdad-claim
     - aku-actitud-lider-marca-el-tono-claim
     - aku-mostrar-resenas-imperfectas-claim
+    - aku-keep-troops-informed-asumir-que-no-saben-claim
+    - aku-rumor-control-llenar-vacio-de-informacion-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-good-mindset-concept]] · [[aku-lideres-dicen-la-verdad-claim]] · [[aku-actitud-lider-marca-el-tono-claim]] · [[aku-mostrar-resenas-imperfectas-claim]]
+**related** ↔ [[aku-good-mindset-concept]] · [[aku-lideres-dicen-la-verdad-claim]] · [[aku-actitud-lider-marca-el-tono-claim]] · [[aku-mostrar-resenas-imperfectas-claim]] · [[aku-keep-troops-informed-asumir-que-no-saben-claim]] · [[aku-rumor-control-llenar-vacio-de-informacion-claim]]

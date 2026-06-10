@@ -40,6 +40,10 @@ relations:
     - aku-no-yes-men-fomentar-pushback-claim
     - aku-castigo-raro-y-con-lineas-claras-claim
     - aku-habit-contract-y-accountability-partner-method
+    - aku-entrenar-mentorizar-underperformer-claim
+    - aku-lealtad-mision-sobre-individuo-claim
+    - aku-lealtad-mal-entendida-proteger-underperformers-claim
+    - aku-cortar-cancers-del-equipo-rapido-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -56,4 +60,4 @@ status_note: ""
 
 **supports** → [[aku-no-bad-teams-only-bad-leaders-concept]]
 
-**related** ↔ [[aku-resolute-but-not-overbearing-concept]] · [[aku-accountability-temporal-luego-soltar-claim]] · [[aku-imposed-vs-self-discipline-en-equipo-concept]] · [[aku-no-yes-men-fomentar-pushback-claim]] · [[aku-castigo-raro-y-con-lineas-claras-claim]] · [[aku-habit-contract-y-accountability-partner-method]]
+**related** ↔ [[aku-resolute-but-not-overbearing-concept]] · [[aku-accountability-temporal-luego-soltar-claim]] · [[aku-imposed-vs-self-discipline-en-equipo-concept]] · [[aku-no-yes-men-fomentar-pushback-claim]] · [[aku-castigo-raro-y-con-lineas-claras-claim]] · [[aku-habit-contract-y-accountability-partner-method]] · [[aku-entrenar-mentorizar-underperformer-claim]] · [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-lealtad-mal-entendida-proteger-underperformers-claim]] · [[aku-cortar-cancers-del-equipo-rapido-claim]]

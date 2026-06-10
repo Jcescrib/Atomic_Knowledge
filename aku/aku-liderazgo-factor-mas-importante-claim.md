@@ -35,6 +35,9 @@ relations:
     - aku-liderazgo-en-todos-los-niveles-claim
     - aku-no-bad-teams-only-bad-leaders-concept
     - aku-liderazgo-concept
+    - aku-lider-efectivo-vs-inefectivo-concept
+    - aku-lider-responsable-mision-tactica-recursos-claim
+    - aku-battlefield-promotion-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-medida-significativa-liderazgo-claim]] · [[aku-liderazgo-en-todos-los-niveles-claim]] · [[aku-no-bad-teams-only-bad-leaders-concept]] · [[aku-liderazgo-concept]]
+**related** ↔ [[aku-medida-significativa-liderazgo-claim]] · [[aku-liderazgo-en-todos-los-niveles-claim]] · [[aku-no-bad-teams-only-bad-leaders-concept]] · [[aku-liderazgo-concept]] · [[aku-lider-efectivo-vs-inefectivo-concept]] · [[aku-lider-responsable-mision-tactica-recursos-claim]] · [[aku-battlefield-promotion-concept]]

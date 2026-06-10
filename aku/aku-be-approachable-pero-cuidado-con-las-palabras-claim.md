@@ -35,6 +35,8 @@ relations:
   related:
     - aku-isolation-burden-of-command-claim
     - aku-balancing-praise-elogio-con-cautela-claim
+    - aku-12-reglas-del-nuevo-lider-method
+    - aku-new-sheriff-cambio-segun-estado-equipo-method
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-isolation-burden-of-command-claim]] · [[aku-balancing-praise-elogio-con-cautela-claim]]
+**related** ↔ [[aku-isolation-burden-of-command-claim]] · [[aku-balancing-praise-elogio-con-cautela-claim]] · [[aku-12-reglas-del-nuevo-lider-method]] · [[aku-new-sheriff-cambio-segun-estado-equipo-method]]

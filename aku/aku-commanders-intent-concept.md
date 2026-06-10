@@ -41,6 +41,9 @@ relations:
     - aku-dar-ordenes-solo-commanders-intent-claim
     - aku-circulo-dorado-concept
     - aku-proposito-mision-concept
+    - aku-lider-mantiene-perspectiva-estrategica-claim
+    - aku-conexion-rol-big-picture-no-intuitiva-claim
+    - aku-parte-de-algo-mas-grande-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -55,4 +58,4 @@ status_note: ""
 
 **supports** → [[aku-decentralized-command-concept]]
 
-**related** ↔ [[aku-believe-in-the-mission-concept]] · [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-planning-process-estandarizado-concept]] · [[aku-leading-down-the-chain-concept]] · [[aku-dar-ordenes-solo-commanders-intent-claim]] · [[aku-circulo-dorado-concept]] · [[aku-proposito-mision-concept]]
+**related** ↔ [[aku-believe-in-the-mission-concept]] · [[aku-senior-debe-explicar-el-porque-claim]] · [[aku-planning-process-estandarizado-concept]] · [[aku-leading-down-the-chain-concept]] · [[aku-dar-ordenes-solo-commanders-intent-claim]] · [[aku-circulo-dorado-concept]] · [[aku-proposito-mision-concept]] · [[aku-lider-mantiene-perspectiva-estrategica-claim]] · [[aku-conexion-rol-big-picture-no-intuitiva-claim]] · [[aku-parte-de-algo-mas-grande-claim]]

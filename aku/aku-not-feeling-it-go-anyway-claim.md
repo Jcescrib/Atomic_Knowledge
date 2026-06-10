@@ -38,6 +38,8 @@ relations:
     - aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim
     - aku-lesiones-enfermedad-do-what-you-can-claim
     - aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method
+    - aku-no-mas-excusas-claim
+    - aku-no-razonar-con-la-debilidad-solo-actuar-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -52,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]]
 
-**related** ↔ [[aku-camino-de-menor-resistencia-claim]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim]] · [[aku-lesiones-enfermedad-do-what-you-can-claim]] · [[aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method]]
+**related** ↔ [[aku-camino-de-menor-resistencia-claim]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim]] · [[aku-lesiones-enfermedad-do-what-you-can-claim]] · [[aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method]] · [[aku-no-mas-excusas-claim]] · [[aku-no-razonar-con-la-debilidad-solo-actuar-claim]]

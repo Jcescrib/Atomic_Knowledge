@@ -36,6 +36,12 @@ relations:
     - aku-lean-startup-method-concept
     - aku-asumir-equivocarse-claim
     - aku-sabiduria-es-conocer-consecuencias-a-largo-plazo-juicio-es-aplicarla-concept
+    - aku-default-agresivo-proactivo-dictar-situacion-claim
+    - aku-esperar-certeza-causa-paralisis-claim
+    - aku-conjetura-educada-method
+    - aku-contingency-planning-anticipar-method
+    - aku-lider-percibido-como-decisivo-claim
+    - aku-si-no-ganas-no-tomas-buenas-decisiones-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -50,4 +56,4 @@ status_note: ""
 
 **supports** → [[aku-decisiveness-amid-uncertainty-concept]]
 
-**related** ↔ [[aku-el-enemigo-tiene-voto-concept]] · [[aku-iterative-decision-making-method]] · [[aku-lean-startup-method-concept]] · [[aku-asumir-equivocarse-claim]] · [[aku-sabiduria-es-conocer-consecuencias-a-largo-plazo-juicio-es-aplicarla-concept]]
+**related** ↔ [[aku-el-enemigo-tiene-voto-concept]] · [[aku-iterative-decision-making-method]] · [[aku-lean-startup-method-concept]] · [[aku-asumir-equivocarse-claim]] · [[aku-sabiduria-es-conocer-consecuencias-a-largo-plazo-juicio-es-aplicarla-concept]] · [[aku-default-agresivo-proactivo-dictar-situacion-claim]] · [[aku-esperar-certeza-causa-paralisis-claim]] · [[aku-conjetura-educada-method]] · [[aku-contingency-planning-anticipar-method]] · [[aku-lider-percibido-como-decisivo-claim]] · [[aku-si-no-ganas-no-tomas-buenas-decisiones-claim]]

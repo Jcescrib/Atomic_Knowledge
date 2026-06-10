@@ -33,6 +33,10 @@ relations:
   contradicts: []
   related:
     - aku-ganar-respeto-e-influencia-dandolos-claim
+    - aku-feedback-hacia-arriba-cadena-claim
+    - aku-humildad-aceptar-prioridades-superiores-claim
+    - aku-presentar-frente-unido-claim
+    - aku-jefe-subestima-peso-de-su-posicion-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-leading-up-the-chain-concept]]
 
-**related** ↔ [[aku-ganar-respeto-e-influencia-dandolos-claim]]
+**related** ↔ [[aku-ganar-respeto-e-influencia-dandolos-claim]] · [[aku-feedback-hacia-arriba-cadena-claim]] · [[aku-humildad-aceptar-prioridades-superiores-claim]] · [[aku-presentar-frente-unido-claim]] · [[aku-jefe-subestima-peso-de-su-posicion-claim]]

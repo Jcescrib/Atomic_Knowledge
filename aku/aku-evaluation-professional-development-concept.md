@@ -36,6 +36,11 @@ relations:
   contradicts: []
   related:
     - aku-alineacion-laboral-motivaciones-felicidad-claim
+    - aku-evaluation-health-concept
+    - aku-evaluation-personal-development-concept
+    - aku-evaluation-relationship-concept
+    - aku-evaluation-character-leadership-concept
+    - aku-evaluation-preparedness-safety-concept
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -50,4 +55,4 @@ status_note: ""
 
 **supports** → [[aku-the-evaluation-concept]]
 
-**related** ↔ [[aku-alineacion-laboral-motivaciones-felicidad-claim]]
+**related** ↔ [[aku-alineacion-laboral-motivaciones-felicidad-claim]] · [[aku-evaluation-health-concept]] · [[aku-evaluation-personal-development-concept]] · [[aku-evaluation-relationship-concept]] · [[aku-evaluation-character-leadership-concept]] · [[aku-evaluation-preparedness-safety-concept]]

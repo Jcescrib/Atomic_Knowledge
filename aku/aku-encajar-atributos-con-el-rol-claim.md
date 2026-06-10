@@ -35,6 +35,8 @@ relations:
     - aku-lider-responsable-del-output-maximizar-potencial-claim
     - aku-lider-compensa-debilidades-con-el-equipo-claim
     - aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim
+    - aku-everyone-same-everyone-different-concept
+    - aku-juzgar-reputaciones-dar-empezar-de-cero-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-lider-responsable-del-output-maximizar-potencial-claim]] · [[aku-lider-compensa-debilidades-con-el-equipo-claim]] · [[aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim]]
+**related** ↔ [[aku-lider-responsable-del-output-maximizar-potencial-claim]] · [[aku-lider-compensa-debilidades-con-el-equipo-claim]] · [[aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim]] · [[aku-everyone-same-everyone-different-concept]] · [[aku-juzgar-reputaciones-dar-empezar-de-cero-claim]]

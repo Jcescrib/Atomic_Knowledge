@@ -32,6 +32,11 @@ relations:
   contradicts: []
   related:
     - aku-lider-mirar-al-espejo-claim
+    - aku-liderazgo-factor-mas-importante-claim
+    - aku-no-bad-teams-only-bad-leaders-concept
+    - aku-lider-efectivo-vs-inefectivo-concept
+    - aku-medida-significativa-liderazgo-claim
+    - aku-battlefield-promotion-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-lider-mirar-al-espejo-claim]]
+**related** ↔ [[aku-lider-mirar-al-espejo-claim]] · [[aku-liderazgo-factor-mas-importante-claim]] · [[aku-no-bad-teams-only-bad-leaders-concept]] · [[aku-lider-efectivo-vs-inefectivo-concept]] · [[aku-medida-significativa-liderazgo-claim]] · [[aku-battlefield-promotion-concept]]

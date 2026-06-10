@@ -34,6 +34,8 @@ relations:
     - aku-disciplina-raiz-de-toda-buena-cualidad-concept
     - aku-empezar-aqui-y-ahora-method
     - aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim
+    - aku-not-feeling-it-go-anyway-claim
+    - aku-no-razonar-con-la-debilidad-solo-actuar-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim]]
+**related** ↔ [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim]] · [[aku-not-feeling-it-go-anyway-claim]] · [[aku-no-razonar-con-la-debilidad-solo-actuar-claim]]

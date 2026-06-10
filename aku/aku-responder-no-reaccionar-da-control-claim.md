@@ -34,6 +34,8 @@ relations:
   related:
     - aku-head-control-principle-concept
     - aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept
+    - aku-miedo-al-fracaso-paraliza-y-neutraliza-claim
+    - aku-eustress-estres-positivo-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-head-control-principle-concept]] · [[aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept]]
+**related** ↔ [[aku-head-control-principle-concept]] · [[aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept]] · [[aku-miedo-al-fracaso-paraliza-y-neutraliza-claim]] · [[aku-eustress-estres-positivo-concept]]

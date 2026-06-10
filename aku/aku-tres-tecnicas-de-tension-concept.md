@@ -35,6 +35,10 @@ relations:
   contradicts: []
   related:
     - aku-kuzushi-principle-concept
+    - aku-connection-principle-concept
+    - aku-conexion-prevenir-promover-predecir-concept
+    - aku-conexiones-fiables-vs-no-fiables-concept
+    - aku-agarres-tensos-rompen-relaciones-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -49,4 +53,4 @@ status_note: ""
 
 **supported_by** ← [[aku-tension-principle-concept]]
 
-**related** ↔ [[aku-kuzushi-principle-concept]]
+**related** ↔ [[aku-kuzushi-principle-concept]] · [[aku-connection-principle-concept]] · [[aku-conexion-prevenir-promover-predecir-concept]] · [[aku-conexiones-fiables-vs-no-fiables-concept]] · [[aku-agarres-tensos-rompen-relaciones-claim]]

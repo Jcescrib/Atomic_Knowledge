@@ -33,6 +33,10 @@ relations:
   contradicts: []
   related:
     - aku-proteger-a-pocos-arriesga-a-todos-claim
+    - aku-cover-and-move-construir-relacion-method
+    - aku-competidor-es-externo-no-interno-claim
+    - aku-romper-silos-interdependencia-claim
+    - aku-subteams-compiten-pierden-perspectiva-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-cover-and-move-concept]]
 
-**related** ↔ [[aku-proteger-a-pocos-arriesga-a-todos-claim]]
+**related** ↔ [[aku-proteger-a-pocos-arriesga-a-todos-claim]] · [[aku-cover-and-move-construir-relacion-method]] · [[aku-competidor-es-externo-no-interno-claim]] · [[aku-romper-silos-interdependencia-claim]] · [[aku-subteams-compiten-pierden-perspectiva-claim]]

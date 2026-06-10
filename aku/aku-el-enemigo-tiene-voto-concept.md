@@ -36,6 +36,11 @@ relations:
     - aku-no-hay-solucion-100-correcta-claim
     - aku-plan-but-remain-flexible-concept
     - aku-48laws-48-assume-formlessness-concept
+    - aku-calcular-y-mitigar-riesgo-claim
+    - aku-los-que-no-arriesgan-no-ganan-claim
+    - aku-valiente-no-temerario-concept
+    - aku-nunca-complacencia-subestimar-enemigo-claim
+    - aku-confident-but-not-cocky-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -50,4 +55,4 @@ status_note: ""
 
 **supports** → [[aku-simple-law-of-combat-concept]]
 
-**related** ↔ [[aku-no-hay-solucion-100-correcta-claim]] · [[aku-plan-but-remain-flexible-concept]] · [[aku-48laws-48-assume-formlessness-concept]]
+**related** ↔ [[aku-no-hay-solucion-100-correcta-claim]] · [[aku-plan-but-remain-flexible-concept]] · [[aku-48laws-48-assume-formlessness-concept]] · [[aku-calcular-y-mitigar-riesgo-claim]] · [[aku-los-que-no-arriesgan-no-ganan-claim]] · [[aku-valiente-no-temerario-concept]] · [[aku-nunca-complacencia-subestimar-enemigo-claim]] · [[aku-confident-but-not-cocky-concept]]

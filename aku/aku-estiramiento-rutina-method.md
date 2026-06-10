@@ -35,6 +35,8 @@ relations:
   related:
     - aku-calentamiento-progresivo-method
     - aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim
+    - aku-estructura-workout-pull-push-lift-squat-method
+    - aku-home-gym-equipo-basico-concept
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-calentamiento-progresivo-method]] · [[aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim]]
+**related** ↔ [[aku-calentamiento-progresivo-method]] · [[aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim]] · [[aku-estructura-workout-pull-push-lift-squat-method]] · [[aku-home-gym-equipo-basico-concept]]

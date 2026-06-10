@@ -35,6 +35,8 @@ relations:
   related:
     - aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim
     - aku-corregir-micromanagement-method
+    - aku-accountability-no-escala-y-ciega-al-lider-claim
+    - aku-enforzar-estandares-siempre-con-el-porque-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -49,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-accountability-no-como-herramienta-principal-concept]]
 
-**related** ↔ [[aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim]] · [[aku-corregir-micromanagement-method]]
+**related** ↔ [[aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim]] · [[aku-corregir-micromanagement-method]] · [[aku-accountability-no-escala-y-ciega-al-lider-claim]] · [[aku-enforzar-estandares-siempre-con-el-porque-claim]]

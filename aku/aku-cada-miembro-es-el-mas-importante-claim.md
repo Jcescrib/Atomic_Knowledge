@@ -36,6 +36,9 @@ relations:
     - aku-leading-down-the-chain-concept
     - aku-conexion-rol-big-picture-no-intuitiva-claim
     - aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept
+    - aku-lider-conoce-trabajos-y-pide-ayuda-claim
+    - aku-lider-compensa-debilidades-con-el-equipo-claim
+    - aku-ningun-trabajo-es-demasiado-bajo-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-liderazgo-en-todos-los-niveles-claim]] · [[aku-leading-down-the-chain-concept]] · [[aku-conexion-rol-big-picture-no-intuitiva-claim]] · [[aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept]]
+**related** ↔ [[aku-liderazgo-en-todos-los-niveles-claim]] · [[aku-leading-down-the-chain-concept]] · [[aku-conexion-rol-big-picture-no-intuitiva-claim]] · [[aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept]] · [[aku-lider-conoce-trabajos-y-pide-ayuda-claim]] · [[aku-lider-compensa-debilidades-con-el-equipo-claim]] · [[aku-ningun-trabajo-es-demasiado-bajo-claim]]

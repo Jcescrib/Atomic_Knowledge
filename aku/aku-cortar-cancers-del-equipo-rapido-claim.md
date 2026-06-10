@@ -35,6 +35,10 @@ relations:
     - aku-lealtad-mision-sobre-individuo-claim
     - aku-battlefield-promotion-concept
     - aku-ni-muy-rapido-ni-muy-lento-para-despedir-claim
+    - aku-entrenar-mentorizar-underperformer-claim
+    - aku-lealtad-mal-entendida-proteger-underperformers-claim
+    - aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim
+    - aku-repetir-tarea-hasta-estandar-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -47,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-tortured-genius-concept]] · [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-battlefield-promotion-concept]] · [[aku-ni-muy-rapido-ni-muy-lento-para-despedir-claim]]
+**related** ↔ [[aku-tortured-genius-concept]] · [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-battlefield-promotion-concept]] · [[aku-ni-muy-rapido-ni-muy-lento-para-despedir-claim]] · [[aku-entrenar-mentorizar-underperformer-claim]] · [[aku-lealtad-mal-entendida-proteger-underperformers-claim]] · [[aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim]] · [[aku-repetir-tarea-hasta-estandar-method]]

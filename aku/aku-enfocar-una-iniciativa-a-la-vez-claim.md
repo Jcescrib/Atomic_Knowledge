@@ -35,6 +35,12 @@ relations:
     - aku-decisively-engaged-concept
     - aku-mantener-objetivo-largo-plazo-a-la-vista-claim
     - aku-single-tasking-foco-una-tarea-claim
+    - aku-prioritize-and-execute-pasos-method
+    - aku-lider-abrumado-multiples-tareas-falla-claim
+    - aku-target-fixation-concept
+    - aku-pull-off-the-firing-line-claim
+    - aku-relax-look-around-make-a-call-method
+    - aku-prioridades-cambian-comunicar-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -49,4 +55,4 @@ status_note: ""
 
 **supports** → [[aku-prioritize-and-execute-concept]]
 
-**related** ↔ [[aku-decisively-engaged-concept]] · [[aku-mantener-objetivo-largo-plazo-a-la-vista-claim]] · [[aku-single-tasking-foco-una-tarea-claim]]
+**related** ↔ [[aku-decisively-engaged-concept]] · [[aku-mantener-objetivo-largo-plazo-a-la-vista-claim]] · [[aku-single-tasking-foco-una-tarea-claim]] · [[aku-prioritize-and-execute-pasos-method]] · [[aku-lider-abrumado-multiples-tareas-falla-claim]] · [[aku-target-fixation-concept]] · [[aku-pull-off-the-firing-line-claim]] · [[aku-relax-look-around-make-a-call-method]] · [[aku-prioridades-cambian-comunicar-claim]]

@@ -34,6 +34,7 @@ relations:
   related:
     - aku-isolation-principle-concept
     - aku-centerline-principle-concept
+    - aku-presion-revela-debilidades-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-isolation-principle-concept]] · [[aku-centerline-principle-concept]]
+**related** ↔ [[aku-isolation-principle-concept]] · [[aku-centerline-principle-concept]] · [[aku-presion-revela-debilidades-claim]]

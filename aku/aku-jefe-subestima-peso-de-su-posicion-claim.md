@@ -34,6 +34,11 @@ relations:
   related:
     - aku-preguntar-requiere-coraje-claim
     - aku-48laws-34-be-royal-in-your-own-fashion-concept
+    - aku-leading-up-the-chain-concept
+    - aku-leading-up-requiere-influencia-no-autoridad-claim
+    - aku-feedback-hacia-arriba-cadena-claim
+    - aku-humildad-aceptar-prioridades-superiores-claim
+    - aku-presentar-frente-unido-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -46,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-preguntar-requiere-coraje-claim]] · [[aku-48laws-34-be-royal-in-your-own-fashion-concept]]
+**related** ↔ [[aku-preguntar-requiere-coraje-claim]] · [[aku-48laws-34-be-royal-in-your-own-fashion-concept]] · [[aku-leading-up-the-chain-concept]] · [[aku-leading-up-requiere-influencia-no-autoridad-claim]] · [[aku-feedback-hacia-arriba-cadena-claim]] · [[aku-humildad-aceptar-prioridades-superiores-claim]] · [[aku-presentar-frente-unido-claim]]

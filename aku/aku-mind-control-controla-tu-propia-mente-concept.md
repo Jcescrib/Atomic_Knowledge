@@ -40,6 +40,9 @@ relations:
     - aku-no-razonar-con-la-debilidad-solo-actuar-claim
     - aku-defensa-propia-jerarquia-mente-correr-arma-claim
     - aku-ayuno-beneficios-fisicos-y-psicologicos-method
+    - aku-eleccion-vence-naturaleza-y-crianza-claim
+    - aku-me-versus-me-superarte-a-ti-mismo-claim
+    - aku-fortaleza-puede-ser-debilidad-y-viceversa-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -52,6 +55,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-solo-te-puedes-controlar-a-ti-mismo-claim]] · [[aku-comida-basura-es-veneno-claim]] · [[aku-no-razonar-con-la-debilidad-solo-actuar-claim]] · [[aku-defensa-propia-jerarquia-mente-correr-arma-claim]] · [[aku-ayuno-beneficios-fisicos-y-psicologicos-method]]
+**related** ↔ [[aku-solo-te-puedes-controlar-a-ti-mismo-claim]] · [[aku-comida-basura-es-veneno-claim]] · [[aku-no-razonar-con-la-debilidad-solo-actuar-claim]] · [[aku-defensa-propia-jerarquia-mente-correr-arma-claim]] · [[aku-ayuno-beneficios-fisicos-y-psicologicos-method]] · [[aku-eleccion-vence-naturaleza-y-crianza-claim]] · [[aku-me-versus-me-superarte-a-ti-mismo-claim]] · [[aku-fortaleza-puede-ser-debilidad-y-viceversa-claim]]
 
 **supports** → [[aku-autoliderazgo-prerequisito-claim]] · [[aku-tres-capas-liderazgo-concept]]

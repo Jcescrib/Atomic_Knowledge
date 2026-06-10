@@ -36,6 +36,8 @@ relations:
     - aku-lealtad-mision-sobre-individuo-claim
     - aku-cortar-cancers-del-equipo-rapido-claim
     - aku-cuando-micromanage-es-necesario-method
+    - aku-lider-responsable-del-output-maximizar-potencial-claim
+    - aku-invertir-en-uno-puede-perjudicar-al-equipo-claim
 
 sources:
   - raw/libros/jocko/dichotomy-of-leadership/dichotomy-of-leadership.md
@@ -50,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-when-to-mentor-when-to-fire-concept]]
 
-**related** ↔ [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-cortar-cancers-del-equipo-rapido-claim]] · [[aku-cuando-micromanage-es-necesario-method]]
+**related** ↔ [[aku-lealtad-mision-sobre-individuo-claim]] · [[aku-cortar-cancers-del-equipo-rapido-claim]] · [[aku-cuando-micromanage-es-necesario-method]] · [[aku-lider-responsable-del-output-maximizar-potencial-claim]] · [[aku-invertir-en-uno-puede-perjudicar-al-equipo-claim]]

@@ -39,6 +39,7 @@ relations:
     - aku-prioritize-and-execute-concept
     - aku-target-fixation-concept
     - aku-blitz-no-resuelvas-todos-problemas-claim
+    - aku-liderar-desde-frente-y-desde-atras-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-detach-tactico-estrategico-concept]] · [[aku-prioritize-and-execute-concept]] · [[aku-target-fixation-concept]] · [[aku-blitz-no-resuelvas-todos-problemas-claim]]
+**related** ↔ [[aku-detach-tactico-estrategico-concept]] · [[aku-prioritize-and-execute-concept]] · [[aku-target-fixation-concept]] · [[aku-blitz-no-resuelvas-todos-problemas-claim]] · [[aku-liderar-desde-frente-y-desde-atras-concept]]

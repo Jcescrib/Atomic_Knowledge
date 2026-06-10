@@ -35,6 +35,10 @@ relations:
   related:
     - aku-dar-confianza-incrementalmente-method
     - aku-imposter-syndrome-es-bueno-claim
+    - aku-confianza-arriba-no-decir-lo-que-quieren-oir-claim
+    - aku-rendimiento-construye-confianza-del-jefe-claim
+    - aku-decentralized-descansa-en-confianza-tiempo-critico-claim
+    - aku-power-of-relationships-liderazgo-concept
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -49,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-liderazgo-como-herramienta-para-ensenar-concept]]
 
-**related** ↔ [[aku-dar-confianza-incrementalmente-method]] · [[aku-imposter-syndrome-es-bueno-claim]]
+**related** ↔ [[aku-dar-confianza-incrementalmente-method]] · [[aku-imposter-syndrome-es-bueno-claim]] · [[aku-confianza-arriba-no-decir-lo-que-quieren-oir-claim]] · [[aku-rendimiento-construye-confianza-del-jefe-claim]] · [[aku-decentralized-descansa-en-confianza-tiempo-critico-claim]] · [[aku-power-of-relationships-liderazgo-concept]]

@@ -36,6 +36,11 @@ relations:
     - aku-lider-mirar-al-espejo-claim
     - aku-subordinate-your-ego-desactiva-choque-method
     - aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim
+    - aku-ego-bueno-vs-destructivo-claim
+    - aku-ego-impide-evaluacion-honesta-claim
+    - aku-ego-nubla-todo-claim
+    - aku-el-ego-mas-dificil-es-el-propio-claim
+    - aku-mejores-lideres-mision-no-ego-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -50,4 +55,4 @@ status_note: ""
 
 **supports** → [[aku-check-the-ego-concept]]
 
-**related** ↔ [[aku-lider-mirar-al-espejo-claim]] · [[aku-subordinate-your-ego-desactiva-choque-method]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]]
+**related** ↔ [[aku-lider-mirar-al-espejo-claim]] · [[aku-subordinate-your-ego-desactiva-choque-method]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]] · [[aku-ego-bueno-vs-destructivo-claim]] · [[aku-ego-impide-evaluacion-honesta-claim]] · [[aku-ego-nubla-todo-claim]] · [[aku-el-ego-mas-dificil-es-el-propio-claim]] · [[aku-mejores-lideres-mision-no-ego-claim]]

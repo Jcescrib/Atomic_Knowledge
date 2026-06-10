@@ -34,6 +34,10 @@ relations:
   contradicts: []
   related:
     - aku-48laws-43-work-on-hearts-and-minds-concept
+    - aku-incentivos-simples-pocas-metricas-method
+    - aku-conexion-accion-consecuencia-conducta-claim
+    - aku-gente-quiere-ganar-necesita-forcing-function-claim
+    - aku-metas-intermedias-visibles-method
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -48,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-extreme-ownership-concept]] · [[aku-liderazgo-concept]]
 
-**related** ↔ [[aku-48laws-43-work-on-hearts-and-minds-concept]]
+**related** ↔ [[aku-48laws-43-work-on-hearts-and-minds-concept]] · [[aku-incentivos-simples-pocas-metricas-method]] · [[aku-conexion-accion-consecuencia-conducta-claim]] · [[aku-gente-quiere-ganar-necesita-forcing-function-claim]] · [[aku-metas-intermedias-visibles-method]]

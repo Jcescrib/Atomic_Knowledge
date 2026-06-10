@@ -40,6 +40,8 @@ relations:
     - aku-estructura-workout-pull-push-lift-squat-method
     - aku-haz-algo-fisico-cada-dia-el-mejor-ejercicio-es-el-que-haras-cada-dia-claim
     - aku-habit-tracker-no-rompas-la-cadena-method
+    - aku-entrenamiento-fisico-cuerpo-y-mente-claim
+    - aku-lesiones-enfermedad-do-what-you-can-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -52,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-not-feeling-it-go-anyway-claim]] · [[aku-analisis-constante-medir-efectividad-claim]] · [[aku-home-gym-equipo-basico-concept]] · [[aku-estiramiento-rutina-method]] · [[aku-estructura-workout-pull-push-lift-squat-method]] · [[aku-haz-algo-fisico-cada-dia-el-mejor-ejercicio-es-el-que-haras-cada-dia-claim]] · [[aku-habit-tracker-no-rompas-la-cadena-method]]
+**related** ↔ [[aku-not-feeling-it-go-anyway-claim]] · [[aku-analisis-constante-medir-efectividad-claim]] · [[aku-home-gym-equipo-basico-concept]] · [[aku-estiramiento-rutina-method]] · [[aku-estructura-workout-pull-push-lift-squat-method]] · [[aku-haz-algo-fisico-cada-dia-el-mejor-ejercicio-es-el-que-haras-cada-dia-claim]] · [[aku-habit-tracker-no-rompas-la-cadena-method]] · [[aku-entrenamiento-fisico-cuerpo-y-mente-claim]] · [[aku-lesiones-enfermedad-do-what-you-can-claim]]

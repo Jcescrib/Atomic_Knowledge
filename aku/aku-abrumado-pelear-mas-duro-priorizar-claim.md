@@ -35,6 +35,11 @@ relations:
     - aku-lider-abrumado-multiples-tareas-falla-claim
     - aku-the-warpath-concept
     - aku-blitz-no-resuelvas-todos-problemas-claim
+    - aku-derrota-por-mil-rendiciones-pequenas-claim
+    - aku-instinto-de-rendirse-es-mentiroso-claim
+    - aku-la-oscuridad-solo-gana-si-la-dejas-claim
+    - aku-pelear-hasta-el-final-nada-que-perder-claim
+    - aku-no-relajarse-hasta-completar-la-mision-claim
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -47,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-prioritize-and-execute-concept]] · [[aku-lider-abrumado-multiples-tareas-falla-claim]] · [[aku-the-warpath-concept]] · [[aku-blitz-no-resuelvas-todos-problemas-claim]]
+**related** ↔ [[aku-prioritize-and-execute-concept]] · [[aku-lider-abrumado-multiples-tareas-falla-claim]] · [[aku-the-warpath-concept]] · [[aku-blitz-no-resuelvas-todos-problemas-claim]] · [[aku-derrota-por-mil-rendiciones-pequenas-claim]] · [[aku-instinto-de-rendirse-es-mentiroso-claim]] · [[aku-la-oscuridad-solo-gana-si-la-dejas-claim]] · [[aku-pelear-hasta-el-final-nada-que-perder-claim]] · [[aku-no-relajarse-hasta-completar-la-mision-claim]]

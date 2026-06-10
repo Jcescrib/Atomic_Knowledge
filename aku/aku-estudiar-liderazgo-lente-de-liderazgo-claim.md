@@ -36,6 +36,7 @@ relations:
     - aku-lideres-nunca-satisfechos-mejora-continua-claim
     - aku-humildad-es-la-cualidad-mas-importante-claim
     - aku-laws-of-combat-concept
+    - aku-lideres-nacen-y-se-hacen-claim
 
 sources:
   - raw/libros/jocko/leadership-strategy-and-tactics/leadership-strategy-and-tactics.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-lideres-nunca-satisfechos-mejora-continua-claim]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-laws-of-combat-concept]]
+**related** ↔ [[aku-lideres-nunca-satisfechos-mejora-continua-claim]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-laws-of-combat-concept]] · [[aku-lideres-nacen-y-se-hacen-claim]]

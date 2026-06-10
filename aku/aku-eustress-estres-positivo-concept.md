@@ -34,6 +34,8 @@ relations:
   related:
     - aku-tension-principle-concept
     - aku-stress-bueno-y-malo-cortisol-claim
+    - aku-miedo-al-fracaso-paraliza-y-neutraliza-claim
+    - aku-responder-no-reaccionar-da-control-claim
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-tension-principle-concept]] · [[aku-stress-bueno-y-malo-cortisol-claim]]
+**related** ↔ [[aku-tension-principle-concept]] · [[aku-stress-bueno-y-malo-cortisol-claim]] · [[aku-miedo-al-fracaso-paraliza-y-neutraliza-claim]] · [[aku-responder-no-reaccionar-da-control-claim]]
