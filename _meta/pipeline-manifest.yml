@@ -653,7 +653,7 @@ sources:
     aku_count: 25
     taku_count: 0
     last_commit: ""
-    notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
+    notes: "Kolenda 10/16 (Ad Psychology), modo máximo-exhaustivo. 25 AKUs (1 concept + 24 claim). Generador _kolenda_ad.py; 8 figuras embebidas."
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\choice.pdf"
     name_slug: "choice"
@@ -666,7 +666,7 @@ sources:
     aku_count: 20
     taku_count: 0
     last_commit: ""
-    notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
+    notes: "Kolenda 6/16 (Choice), modo máximo-exhaustivo. 20 AKUs (4 concept + 16 claim). Generador _kolenda_choice.py; figuras ilustrativas (sin blockquote)."
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\color-psychology2.pdf"
     name_slug: "color-psychology2"
@@ -679,7 +679,7 @@ sources:
     aku_count: 21   # 13 + 8 re-expansión (evolución, valencia-ecológica, 6 esquemas)
     taku_count: 0
     last_commit: ""
-    notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
+    notes: "Kolenda 5/16 (Color), modo máximo-exhaustivo. 21 AKUs (1 concept + 11 claim + 1 method + 8 re-expansión: evolución, valencia-ecológica, 6 esquemas). Generador _kolenda_color.py."
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Copywriting Psychology by Nick Kolenda.pdf"
     name_slug: "copywriting-psychology-by-nick-kolenda"
@@ -696,7 +696,6 @@ sources:
       Kolenda libro 2/16. +26 AKUs (1 concept núcleo + 25 claim), una táctica por AKU en 4 secciones
       (Vividness/Continuity/Linguistics/Framing). Generador `scripts/_kolenda_copywriting.py`. Puentes
       cross-libro a Pricing (mecanismo Coulter: tamaño-fuente, distancia-palabras, fluidez-fonética).
-    notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\eCommerce Psychology by Nick Kolenda.pdf"
     name_slug: "ecommerce-psychology-by-nick-kolenda"
@@ -709,7 +708,7 @@ sources:
     aku_count: 28   # 22 + 6 re-expansión (6 tips de contenido de reseña)
     taku_count: 0
     last_commit: ""
-    notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
+    notes: "Kolenda 7/16 (eCommerce), modo máximo-exhaustivo. 28 AKUs (1 concept + 21 claim + 6 re-expansión de tips de reseña) + dedup-merge which-to-choose. Generador _kolenda_ecommerce.py."
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Font Psychology by Nick Kolenda.pdf"
     name_slug: "font-psychology-by-nick-kolenda"
@@ -722,7 +721,7 @@ sources:
     aku_count: 18   # 12 + 6 re-expansión (angular, sans-serif, mayúsculas, caja-mixta, espaciadas, altas)
     taku_count: 0
     last_commit: ""
-    notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
+    notes: "Kolenda 3/16 (Font), modo máximo-exhaustivo. 18 AKUs (1 concept + 11 claim + 6 re-expansión por polo: angular, sans-serif, mayúsculas, caja-mixta, espaciadas, altas). Generador _kolenda_font.py."
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Naming a Product by Nick Kolenda.pdf"
     name_slug: "naming-a-product-by-nick-kolenda"
@@ -736,7 +735,6 @@ sources:
     taku_count: 2
     last_commit: ""
     notes: "máximo-exhaustivo: 58 AKUs (CORE + matriz+4 tipos+8 dimensiones + sound-symbolism+5 fuentes+3 categorías fonémicas+grupos+7 significados+fonestemas + 4 métodos de construcción+6 claims + 8 filtros + 7 reglas alfanuméricas) + 2 TAKUs (framework 5-pasos, tool kit-técnicas-generativas); 16 figuras informacionales embebidas; puentes a Font (forma→significado), Packaging (género), Pricing (left-digit, anclaje, redondos, aliteración)"
-    notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Negotiation Tactics by Nick Kolenda.pdf"
     name_slug: "negotiation-tactics-by-nick-kolenda"
@@ -762,7 +760,7 @@ sources:
     aku_count: 18   # 17 + 1 re-expansión (envases-angulares)
     taku_count: 0
     last_commit: ""
-    notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
+    notes: "Kolenda 4/16 (Packaging), modo máximo-exhaustivo. 18 AKUs (1 concept + 16 claim + 1 re-expansión envases-angulares). Generador _kolenda_packaging.py."
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Pricing Psychology by Nick Kolenda.pdf"
     name_slug: "pricing-psychology-by-nick-kolenda"
@@ -778,7 +776,6 @@ sources:
     notes: >
       Kolenda libro 1/16. +48 AKUs (1 concept núcleo + 45 claim + 2 method), una táctica por AKU
       en 5 secciones. Generador `scripts/_kolenda_pricing.py`. source-tag kolenda.
-    notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\user-experience2.pdf"
     name_slug: "user-experience2"
@@ -804,7 +801,7 @@ sources:
     aku_count: 27
     taku_count: 0
     last_commit: ""
-    notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
+    notes: "Kolenda 9/16 (Visual Attention), modo máximo-exhaustivo. 27 AKUs (1 concept + 26 claim). Generador _kolenda_visual.py; 17 figuras embebidas."
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Audiobook-Images-Methods-of-Persuasion.pdf"
     name_slug: "audiobook-images-methods-of-persuasion"
@@ -831,7 +828,6 @@ sources:
     taku_count: 0
     last_commit: ""
     notes: "PDF = companion de figuras del audiolibro «Imagine Reading This Book», SIN prosa extraíble (solo etiquetas 'Figure X.Y' + imágenes). Ingesta honesta: 1 CORE concept anclado en título/subtítulo (la simulación mental guía las decisiones), figura intro embebida, puentes a simulation-fluency (Choice), simulación-mental (Copywriting), primar-ejecución (Negotiation). El detalle capitular vive en la narración del audiolibro — NO fabricar AKUs de figuras sin caption (sourcing). Tesis ya cubierta por el cluster de simulación."
-    notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Pages - Viral Marketing.pdf"
     name_slug: "pages-viral-marketing"
@@ -844,7 +840,7 @@ sources:
     aku_count: 8
     taku_count: 0
     last_commit: ""
-    notes: "borrado por granularidad insuficiente — pendiente desglose capítulo a capítulo tras completar Power MBA"
+    notes: "Kolenda 8/16 (Viral Marketing / Pages), modo máximo-exhaustivo. 8 AKUs (2 concept + 6 claim). Ensayo sobre micronetworks. Generador _kolenda_viral.py."
 
   - original: "G:\Mi unidad\2-Areas\03-Formación\The power MBA\Apuntes Power MBA\05-Estrategies de marketing digital\5.6-nickkolenda-Marketing full PDF\Bonus-PDF.pdf"
     name_slug: "bonus-pdf"
@@ -1504,16 +1500,14 @@ sources:
     taku_count: 0
     last_commit: ""
     notes: >
-      Libro 2 corpus Jocko. 41 AKUs nuevos + 8 enriquecimientos cross-libro de AKUs de
+      Libro 2 corpus Jocko (Willink & Babin, 2018). source-tag: jocko. PDF 345 págs
+      → MinerU. Cada capítulo desarrolla una dicotomía del liderazgo (equilibrar dos
+      extremos opuestos). 41 AKUs nuevos + 8 enriquecimientos cross-libro de AKUs de
       EO (dichotomy-of-leadership, balance-ownership-decentralized-command, discipline-
       equals-freedom, default-agresivo-proactivo, lider-y-seguidor, humilde-no-pasivo,
       atento-detalle-no-obsesionado, detach-tactico-estrategico → +0.10 confianza c/u,
       2ª fuente). El catálogo de dicotomías creado en EO cap12 se desarrolla aquí.
-      verify_graph 1218 AKUs / 0 errores.
-    notes: >
-      Libro 2 corpus Jocko (Willink & Babin, 2018). source-tag: jocko. PDF 345 págs
-      → MinerU. Cada capítulo desarrolla una dicotomía del liderazgo (equilibrar dos
-      extremos opuestos). Pendiente FASE 2 ingesta hiper-exhaustiva.
+      verify_graph 1218 AKUs / 0 errores. PENDIENTE FASE 2 ingesta hiper-exhaustiva.
 
   - original: "G:\\Mi unidad\\JOCKO\\Discipline equals freedom _ field manual -- Jocko Willink -- First edition, New York, 2017 -- St_ Martin's Press, -- isbn13 9781250156952 -- 12e026df2aff6d732f0e6486d90930bf -- Anna’s Archive.epub"
     name_slug: "discipline-equals-freedom"
@@ -1527,16 +1521,14 @@ sources:
     taku_count: 12
     last_commit: ""
     notes: >
-      Libro 3 corpus Jocko (field manual). 62 AKUs nuevos + 12 TAKUs + 2 enriquecimientos
+      Libro 3 corpus Jocko (Willink, 2017). source-tag: jocko. EPUB → epub_to_md.py
+      (96 secciones, 12 imgs). Field manual: secciones Thoughts / Actions / Physical
+      sobre disciplina, mentalidad y rutina. 62 AKUs nuevos + 12 TAKUs + 2 enriquecimientos
       cross-libro (discipline-equals-freedom 0.60→0.70 con 3ª fuente; default-agresivo
       0.60→0.70 con 3ª fuente). Parte 1 (Thoughts): mindset de disciplina/voluntad.
       Parte 2 (Actions): entrenamiento, sueño, artes marciales, defensa personal,
       nutrición/ayuno. Las series de ejercicios → method-AKU + TAKU (no AKU por ejercicio).
-      verify_graph 1280 AKUs / 0 errores.
-    notes: >
-      Libro 3 corpus Jocko (Willink, 2017). source-tag: jocko. EPUB → epub_to_md.py
-      (96 secciones, 12 imgs). Field manual: secciones Thoughts / Actions / Physical
-      sobre disciplina, mentalidad y rutina. Pendiente FASE 2 ingesta hiper-exhaustiva.
+      verify_graph 1280 AKUs / 0 errores. PENDIENTE FASE 2 ingesta hiper-exhaustiva.
 
   - original: "G:\\Mi unidad\\JOCKO\\Leadership strategy and tactics _ field manual -- Jocko Willink -- ebook, 2020 -- St_ Martin’s Press -- isbn13 9781250226853 -- 2c4b89f9780fcc74c824be5367a69eea -- Anna’s Archive.epub"
     name_slug: "leadership-strategy-and-tactics"
@@ -1550,15 +1542,13 @@ sources:
     taku_count: 14
     last_commit: ""
     notes: >
-      Libro 4 corpus Jocko COMPLETO. 79 AKUs + 14 TAKUs. Parte 1 (Strategies: Foundations,
-      Core Tenets, Principles) + Parte 2 (Tactics: Becoming a Leader, Leadership Skills,
-      Maneuvers, Communication). Gran densidad de integración cross-libro con EO/DoL/DEF
-      (leadership-capital, play-the-long-game, subordinate-your-ego, etc.). verify_graph
-      1359 AKUs / 0 errores.
-    notes: >
       Libro 4 corpus Jocko (Willink, 2020). source-tag: jocko. EPUB → epub_to_md.py
       (22 secciones, 6 imgs). Manual de estrategia y tácticas concretas de liderazgo.
-      Pendiente FASE 2 ingesta hiper-exhaustiva.
+      79 AKUs + 14 TAKUs. Parte 1 (Strategies: Foundations, Core Tenets, Principles) +
+      Parte 2 (Tactics: Becoming a Leader, Leadership Skills, Maneuvers, Communication).
+      Gran densidad de integración cross-libro con EO/DoL/DEF (leadership-capital,
+      play-the-long-game, subordinate-your-ego, etc.). verify_graph 1359 AKUs / 0 errores.
+      PENDIENTE FASE 2 ingesta hiper-exhaustiva.
 
   - original: "G:\\Mi unidad\\JOCKO\\The 32 Principles _ Harnessing the Power of Jiu-Jitsu to -- Rener Gracie; Paul Volponi; Jocko Willink -- Penguin Random House LLC (Publisher -- isbn13 9781637743669 -- 5169366a78a816c380f0a99c2d2d635f -- Anna’s Ar.epub"
     name_slug: "32-principles"
