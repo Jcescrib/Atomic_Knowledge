@@ -45,6 +45,8 @@ relations:
     - aku-cac-payback-financia-crecimiento-claim
     - aku-client-financed-acquisition-concept
     - aku-lead-magnet-reduce-cac-claim
+    - aku-coeficiente-viralidad-concept
+    - aku-viral-bajo-cltv-compatible-claim
 
 sources:
   - "raw/cursos/power-mba/2-2-1-tiposmotorescrecimiento/2-2-1-tiposmotorescrecimiento.md"
@@ -57,4 +59,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-motor-crecimiento-concept]] · [[aku-motor-crecimiento-viral-concept]] · [[aku-motor-crecimiento-sticky-concept]] · [[aku-cltv-concept]] · [[aku-cac-concept]] · [[aku-cltv-minus-cac-concept]] · [[aku-cac-payback-concept]] · [[aku-cac-payback-financia-crecimiento-claim]] · [[aku-client-financed-acquisition-concept]] · [[aku-lead-magnet-reduce-cac-claim]]
+**related** ↔ [[aku-motor-crecimiento-concept]] · [[aku-motor-crecimiento-viral-concept]] · [[aku-motor-crecimiento-sticky-concept]] · [[aku-cltv-concept]] · [[aku-cac-concept]] · [[aku-cltv-minus-cac-concept]] · [[aku-cac-payback-concept]] · [[aku-cac-payback-financia-crecimiento-claim]] · [[aku-client-financed-acquisition-concept]] · [[aku-lead-magnet-reduce-cac-claim]] · [[aku-coeficiente-viralidad-concept]] · [[aku-viral-bajo-cltv-compatible-claim]]

@@ -27,7 +27,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-plan-de-marca-concept
+    - aku-errores-marca-90-empresas-claim
 sources:
   - raw/cursos/power-mba/4-4-branding/4-4-branding.md
 created: 2026-06-03
@@ -39,3 +41,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-brand-awareness-concept]]
+
+**related** ↔ [[aku-plan-de-marca-concept]] · [[aku-errores-marca-90-empresas-claim]]

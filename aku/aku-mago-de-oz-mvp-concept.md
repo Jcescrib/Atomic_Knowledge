@@ -39,6 +39,10 @@ relations:
   contradicts: []
   related:
     - aku-aprendizaje-validado-concept
+    - aku-test-de-humo-concept
+    - aku-publicidad-dirigida-mvp-concept
+    - aku-lista-de-espera-concept
+    - aku-crowdfunding-validacion-concept
 
 sources:
   - "raw/cursos/power-mba/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md"
@@ -53,4 +57,4 @@ status_note: ""
 
 **supported_by** ← [[aku-mvp-concept]]
 
-**related** ↔ [[aku-aprendizaje-validado-concept]]
+**related** ↔ [[aku-aprendizaje-validado-concept]] · [[aku-test-de-humo-concept]] · [[aku-publicidad-dirigida-mvp-concept]] · [[aku-lista-de-espera-concept]] · [[aku-crowdfunding-validacion-concept]]

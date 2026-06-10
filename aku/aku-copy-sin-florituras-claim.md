@@ -34,6 +34,12 @@ relations:
     - aku-cta-hormozi-concept
     - aku-eliminar-elementos-innecesarios-data-ink-claim
     - aku-las-fundaciones-importan-mas-que-la-profundidad-equivocada-claim
+    - aku-copy-investiga-antes-de-escribir-claim
+    - aku-copy-objetivo-definido-claim
+    - aku-copy-incluir-titular-claim
+    - aku-copy-promesas-concretas-claim
+    - aku-copy-aportar-pruebas-claim
+    - aku-copy-incluir-cta-claim
 
 sources:
   - raw/cursos/power-mba/18-info-hacks-copy/18-info-hacks-copy.md
@@ -48,4 +54,4 @@ status_note: ""
 
 **supported_by** ← [[aku-hacks-copywriting-concept]]
 
-**related** ↔ [[aku-cta-hormozi-concept]] · [[aku-eliminar-elementos-innecesarios-data-ink-claim]] · [[aku-las-fundaciones-importan-mas-que-la-profundidad-equivocada-claim]]
+**related** ↔ [[aku-cta-hormozi-concept]] · [[aku-eliminar-elementos-innecesarios-data-ink-claim]] · [[aku-las-fundaciones-importan-mas-que-la-profundidad-equivocada-claim]] · [[aku-copy-investiga-antes-de-escribir-claim]] · [[aku-copy-objetivo-definido-claim]] · [[aku-copy-incluir-titular-claim]] · [[aku-copy-promesas-concretas-claim]] · [[aku-copy-aportar-pruebas-claim]] · [[aku-copy-incluir-cta-claim]]

@@ -26,13 +26,23 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-canales-marketing-digital-concept]
+  supports:
+    - aku-canales-marketing-digital-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-atribucion-concept, aku-media-4-equity-concept, aku-branding-concept]
+  related:
+    - aku-atribucion-concept
+    - aku-media-4-equity-concept
+    - aku-branding-concept
+    - aku-performance-marketing-concept
+    - aku-paid-social-concept
+    - aku-sem-paid-search-concept
+    - aku-programatica-concept
+    - aku-red-display-concept
+    - aku-publicidad-nativa-concept
 
 sources:
   - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
@@ -46,4 +56,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-canales-marketing-digital-concept]]
-**related** ↔ [[aku-atribucion-concept]] · [[aku-media-4-equity-concept]] · [[aku-branding-concept]]
+**related** ↔ [[aku-atribucion-concept]] · [[aku-media-4-equity-concept]] · [[aku-branding-concept]] · [[aku-performance-marketing-concept]] · [[aku-paid-social-concept]] · [[aku-sem-paid-search-concept]] · [[aku-programatica-concept]] · [[aku-red-display-concept]] · [[aku-publicidad-nativa-concept]]

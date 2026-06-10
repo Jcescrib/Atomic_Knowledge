@@ -33,6 +33,12 @@ relations:
   related:
     - aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept
     - aku-48laws-27-play-on-need-to-believe-concept
+    - aku-copy-investiga-antes-de-escribir-claim
+    - aku-copy-objetivo-definido-claim
+    - aku-copy-incluir-titular-claim
+    - aku-copy-aportar-pruebas-claim
+    - aku-copy-incluir-cta-claim
+    - aku-copy-sin-florituras-claim
 
 sources:
   - raw/cursos/power-mba/18-info-hacks-copy/18-info-hacks-copy.md
@@ -47,4 +53,4 @@ status_note: ""
 
 **supported_by** ← [[aku-hacks-copywriting-concept]]
 
-**related** ↔ [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]] · [[aku-48laws-27-play-on-need-to-believe-concept]]
+**related** ↔ [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]] · [[aku-48laws-27-play-on-need-to-believe-concept]] · [[aku-copy-investiga-antes-de-escribir-claim]] · [[aku-copy-objetivo-definido-claim]] · [[aku-copy-incluir-titular-claim]] · [[aku-copy-aportar-pruebas-claim]] · [[aku-copy-incluir-cta-claim]] · [[aku-copy-sin-florituras-claim]]

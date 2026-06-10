@@ -29,12 +29,16 @@ epistemic_type: sourced
 relations:
   supported_by: []
   supports: []
-  constrained_by: [aku-venture-builder-no-es-fuente-financiacion-claim]
+  constrained_by:
+    - aku-venture-builder-no-es-fuente-financiacion-claim
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-fuentes-financiacion-concept]
+  related:
+    - aku-fuentes-financiacion-concept
+    - aku-media-4-equity-concept
+    - aku-socio-industrial-concept
 
 sources:
   - raw/cursos/power-mba/6-3-01-fuentes-financiacion-quien-ok/6-3-01-fuentes-financiacion-quien-ok.md
@@ -49,4 +53,4 @@ status_note: ""
 
 **constrained_by** ← [[aku-venture-builder-no-es-fuente-financiacion-claim]]
 
-**related** ↔ [[aku-fuentes-financiacion-concept]]
+**related** ↔ [[aku-fuentes-financiacion-concept]] · [[aku-media-4-equity-concept]] · [[aku-socio-industrial-concept]]

@@ -24,13 +24,20 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-matriz-ansoff-concept]
+  supports:
+    - aku-matriz-ansoff-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-segmentos-de-clientes-concept]
+  related:
+    - aku-segmentos-de-clientes-concept
+    - aku-penetracion-mercado-concept
+    - aku-desarrollo-productos-concept
+    - aku-sinergias-desarrollo-productos-claim
+    - aku-diversificacion-concept
+    - aku-riesgo-ansoff-claim
 
 sources:
   - raw/cursos/power-mba/4-3-estrategias-de-crecimiento/4-3-estrategias-de-crecimiento.md
@@ -44,4 +51,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-matriz-ansoff-concept]]
-**related** ↔ [[aku-segmentos-de-clientes-concept]]
+**related** ↔ [[aku-segmentos-de-clientes-concept]] · [[aku-penetracion-mercado-concept]] · [[aku-desarrollo-productos-concept]] · [[aku-sinergias-desarrollo-productos-claim]] · [[aku-diversificacion-concept]] · [[aku-riesgo-ansoff-claim]]

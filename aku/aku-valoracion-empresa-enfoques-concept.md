@@ -38,6 +38,7 @@ relations:
   related:
     - aku-enterprise-value-concept
     - aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method
+    - aku-valor-residual-concept
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -51,4 +52,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-valoracion-por-activos-method]] · [[aku-valoracion-por-multiplos-method]] · [[aku-dcf-method]]
-**related** ↔ [[aku-enterprise-value-concept]] · [[aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method]]
+**related** ↔ [[aku-enterprise-value-concept]] · [[aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method]] · [[aku-valor-residual-concept]]

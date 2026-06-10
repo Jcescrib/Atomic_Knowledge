@@ -27,14 +27,20 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-objetivos-integracion-vertical-adelante-claim]
+  supported_by:
+    - aku-objetivos-integracion-vertical-adelante-claim
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-canal-directo-concept, aku-canal-indirecto-concept, aku-barreras-de-entrada-concept, aku-ventaja-competitiva-concept]
+  related:
+    - aku-canal-directo-concept
+    - aku-canal-indirecto-concept
+    - aku-barreras-de-entrada-concept
+    - aku-ventaja-competitiva-concept
+    - aku-conglomerados-concept
 
 sources:
   - raw/cursos/power-mba/4-3-estrategias-de-crecimiento/4-3-estrategias-de-crecimiento.md
@@ -49,4 +55,4 @@ status_note: ""
 
 **supported_by** ← [[aku-objetivos-integracion-vertical-adelante-claim]]
 
-**related** ↔ [[aku-canal-directo-concept]] · [[aku-canal-indirecto-concept]] · [[aku-barreras-de-entrada-concept]] · [[aku-ventaja-competitiva-concept]]
+**related** ↔ [[aku-canal-directo-concept]] · [[aku-canal-indirecto-concept]] · [[aku-barreras-de-entrada-concept]] · [[aku-ventaja-competitiva-concept]] · [[aku-conglomerados-concept]]

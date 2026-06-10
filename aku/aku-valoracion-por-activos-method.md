@@ -25,14 +25,19 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-valoracion-empresa-enfoques-concept]
+  supported_by:
+    - aku-valoracion-empresa-enfoques-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-precio-valor-contable-method]
+  related:
+    - aku-precio-valor-contable-method
+    - aku-valoracion-por-multiplos-method
+    - aku-dcf-method
+    - aku-valor-residual-concept
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -46,4 +51,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-valoracion-empresa-enfoques-concept]]
-**related** ↔ [[aku-precio-valor-contable-method]]
+**related** ↔ [[aku-precio-valor-contable-method]] · [[aku-valoracion-por-multiplos-method]] · [[aku-dcf-method]] · [[aku-valor-residual-concept]]

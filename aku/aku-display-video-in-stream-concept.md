@@ -35,6 +35,11 @@ relations:
     - aku-display-video-out-stream-concept
     - aku-integrated-vs-intermittent-offers-concept
     - aku-anunciar-en-modalidades-congruentes-claim
+    - aku-robapaginas-concept
+    - aku-banner-display-concept
+    - aku-formatos-flotantes-concept
+    - aku-incentivized-ads-concept
+    - aku-adaptacion-display-a-movil-claim
 
 sources:
   - raw/cursos/power-mba/5-4-3-formatos-de-anuncios-display/5-4-3-formatos-de-anuncios-display.md
@@ -48,4 +53,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-clasificacion-display-por-movimiento-concept]]
-**related** ↔ [[aku-display-video-out-stream-concept]] · [[aku-integrated-vs-intermittent-offers-concept]] · [[aku-anunciar-en-modalidades-congruentes-claim]]
+**related** ↔ [[aku-display-video-out-stream-concept]] · [[aku-integrated-vs-intermittent-offers-concept]] · [[aku-anunciar-en-modalidades-congruentes-claim]] · [[aku-robapaginas-concept]] · [[aku-banner-display-concept]] · [[aku-formatos-flotantes-concept]] · [[aku-incentivized-ads-concept]] · [[aku-adaptacion-display-a-movil-claim]]

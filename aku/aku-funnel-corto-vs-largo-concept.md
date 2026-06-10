@@ -33,7 +33,14 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-power-funnel-concept, aku-lead-nurturing-concept, aku-nurturing-segun-complejidad-claim]
+  related:
+    - aku-power-funnel-concept
+    - aku-lead-nurturing-concept
+    - aku-nurturing-segun-complejidad-claim
+    - aku-atribucion-concept
+    - aku-conversion-olvidada-claim
+    - aku-objetivos-negocio-concept
+    - aku-palancas-marketing-digital-concept
 
 sources:
   - raw/cursos/power-mba/5-3-visi-on-estrat-egica/5-3-visi-on-estrat-egica.md
@@ -46,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-power-funnel-concept]] · [[aku-lead-nurturing-concept]] · [[aku-nurturing-segun-complejidad-claim]]
+**related** ↔ [[aku-power-funnel-concept]] · [[aku-lead-nurturing-concept]] · [[aku-nurturing-segun-complejidad-claim]] · [[aku-atribucion-concept]] · [[aku-conversion-olvidada-claim]] · [[aku-objetivos-negocio-concept]] · [[aku-palancas-marketing-digital-concept]]

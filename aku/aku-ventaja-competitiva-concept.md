@@ -46,6 +46,7 @@ relations:
     - aku-perfil-modelo-innovador-vs-menos-innovador-concept
     - aku-winner-takes-all-go-to-market-claim
     - aku-mantenerse-sobrio-cuando-otros-beben-da-ventaja-competitiva-claim
+    - aku-fuentes-ventaja-competitiva-solo-dos-claim
 
 sources:
   - raw/cursos/power-mba/4-2-1-intro-estrategias-competitivas/4-2-1-intro-estrategias-competitivas.md
@@ -60,4 +61,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-estrategias-genericas-porter-concept]] · [[aku-factores-internos-recursos-capacidades-concept]]
-**related** ↔ [[aku-barreras-de-entrada-concept]] · [[aku-integracion-vertical-adelante-concept]] · [[aku-circulo-dorado-concept]] · [[aku-marca-potente-beneficios-claim]] · [[aku-blitzscaling-concept]] · [[aku-blitzscaling-cuando-oportunidad-enorme-claim]] · [[aku-fit-proyecto-emprendedor-concept]] · [[aku-perfil-modelo-innovador-vs-menos-innovador-concept]] · [[aku-winner-takes-all-go-to-market-claim]] · [[aku-mantenerse-sobrio-cuando-otros-beben-da-ventaja-competitiva-claim]]
+**related** ↔ [[aku-barreras-de-entrada-concept]] · [[aku-integracion-vertical-adelante-concept]] · [[aku-circulo-dorado-concept]] · [[aku-marca-potente-beneficios-claim]] · [[aku-blitzscaling-concept]] · [[aku-blitzscaling-cuando-oportunidad-enorme-claim]] · [[aku-fit-proyecto-emprendedor-concept]] · [[aku-perfil-modelo-innovador-vs-menos-innovador-concept]] · [[aku-winner-takes-all-go-to-market-claim]] · [[aku-mantenerse-sobrio-cuando-otros-beben-da-ventaja-competitiva-claim]] · [[aku-fuentes-ventaja-competitiva-solo-dos-claim]]

@@ -36,6 +36,12 @@ relations:
     - aku-perceived-likelihood-achievement-concept
     - aku-bonus-presentation-checklist-concept
     - aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept
+    - aku-copy-investiga-antes-de-escribir-claim
+    - aku-copy-objetivo-definido-claim
+    - aku-copy-incluir-titular-claim
+    - aku-copy-promesas-concretas-claim
+    - aku-copy-incluir-cta-claim
+    - aku-copy-sin-florituras-claim
 
 sources:
   - raw/cursos/power-mba/18-info-hacks-copy/18-info-hacks-copy.md
@@ -50,4 +56,4 @@ status_note: ""
 
 **supported_by** ← [[aku-hacks-copywriting-concept]]
 
-**related** ↔ [[aku-leyes-persuasion-cialdini-concept]] · [[aku-48laws-09-win-through-actions-not-argument-concept]] · [[aku-perceived-likelihood-achievement-concept]] · [[aku-bonus-presentation-checklist-concept]] · [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
+**related** ↔ [[aku-leyes-persuasion-cialdini-concept]] · [[aku-48laws-09-win-through-actions-not-argument-concept]] · [[aku-perceived-likelihood-achievement-concept]] · [[aku-bonus-presentation-checklist-concept]] · [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]] · [[aku-copy-investiga-antes-de-escribir-claim]] · [[aku-copy-objetivo-definido-claim]] · [[aku-copy-incluir-titular-claim]] · [[aku-copy-promesas-concretas-claim]] · [[aku-copy-incluir-cta-claim]] · [[aku-copy-sin-florituras-claim]]

@@ -33,7 +33,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-herramientas-creacion-contenido-rrss-concept, aku-facebook-concept]
+  related:
+    - aku-herramientas-creacion-contenido-rrss-concept
+    - aku-facebook-concept
+    - aku-regla-20-texto-facebook-ads-claim
 
 sources:
   - raw/cursos/power-mba/herramientas-para-crear-anuncios-top-en-facebook-ads-a/herramientas-para-crear-anuncios-top-en-facebook-ads-a.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-herramientas-creacion-contenido-rrss-concept]] · [[aku-facebook-concept]]
+**related** ↔ [[aku-herramientas-creacion-contenido-rrss-concept]] · [[aku-facebook-concept]] · [[aku-regla-20-texto-facebook-ads-claim]]

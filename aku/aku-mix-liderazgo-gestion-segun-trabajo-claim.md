@@ -26,11 +26,15 @@ relations:
   supported_by: []
   supports: []
   constrained_by: []
-  constrains: [aku-liderar-vs-gestionar-concept]
+  constrains:
+    - aku-liderar-vs-gestionar-concept
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-autoconciencia-lider-carencias-claim
+    - aku-aprende-nuevas-habilidades-liderazgo-claim
+    - aku-complementar-habilidades-equipo-claim
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -44,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **constrains** → [[aku-liderar-vs-gestionar-concept]]
+
+**related** ↔ [[aku-autoconciencia-lider-carencias-claim]] · [[aku-aprende-nuevas-habilidades-liderazgo-claim]] · [[aku-complementar-habilidades-equipo-claim]]

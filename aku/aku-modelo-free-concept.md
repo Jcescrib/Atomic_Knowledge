@@ -42,6 +42,8 @@ relations:
     - aku-free-bootstrap-plataforma-claim
     - aku-clasificados-concept
     - aku-attraction-offer-concept
+    - aku-modelo-lineal-concept
+    - aku-valor-independiente-usuarios-modelo-lineal-claim
 
 sources:
   - "raw/cursos/power-mba/2-3-conceptos-clave-de-las-plataformas/2-3-conceptos-clave-de-las-plataformas.md"
@@ -54,4 +56,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-content-platform-concept]] · [[aku-modelo-freemium-concept]] · [[aku-flujos-de-ingresos-concept]] · [[aku-free-bootstrap-plataforma-claim]] · [[aku-clasificados-concept]] · [[aku-attraction-offer-concept]]
+**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-content-platform-concept]] · [[aku-modelo-freemium-concept]] · [[aku-flujos-de-ingresos-concept]] · [[aku-free-bootstrap-plataforma-claim]] · [[aku-clasificados-concept]] · [[aku-attraction-offer-concept]] · [[aku-modelo-lineal-concept]] · [[aku-valor-independiente-usuarios-modelo-lineal-claim]]

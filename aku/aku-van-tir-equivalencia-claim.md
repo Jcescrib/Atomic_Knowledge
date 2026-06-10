@@ -30,7 +30,11 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-van-concept, aku-tir-concept]
+  related:
+    - aku-van-concept
+    - aku-tir-concept
+    - aku-van-formula-method
+    - aku-tir-formula-method
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -43,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-van-concept]] · [[aku-tir-concept]]
+**related** ↔ [[aku-van-concept]] · [[aku-tir-concept]] · [[aku-van-formula-method]] · [[aku-tir-formula-method]]

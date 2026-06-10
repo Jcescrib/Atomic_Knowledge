@@ -27,11 +27,15 @@ relations:
   supported_by: []
   supports: []
   constrained_by: []
-  constrains: [aku-estrategias-genericas-porter-concept]
+  constrains:
+    - aku-estrategias-genericas-porter-concept
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-liderazgo-en-coste-concept, aku-estrategia-diferenciacion-concept]
+  related:
+    - aku-liderazgo-en-coste-concept
+    - aku-estrategia-diferenciacion-concept
+    - aku-ventaja-competitiva-concept
 
 sources:
   - raw/cursos/power-mba/4-2-1-intro-estrategias-competitivas/4-2-1-intro-estrategias-competitivas.md
@@ -45,4 +49,4 @@ status_note: ""
 ## Relaciones
 
 **constrains** → [[aku-estrategias-genericas-porter-concept]]
-**related** ↔ [[aku-liderazgo-en-coste-concept]] · [[aku-estrategia-diferenciacion-concept]]
+**related** ↔ [[aku-liderazgo-en-coste-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-ventaja-competitiva-concept]]

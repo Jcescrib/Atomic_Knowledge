@@ -37,6 +37,9 @@ relations:
     - aku-lean-startup-method-concept
     - aku-ab-testing-concept
     - aku-reversion-riesgo-numero-uno-claim
+    - aku-cuello-botella-funnel-concept
+    - aku-landing-page-concept
+    - aku-piramide-conversion-concept
 
 sources:
   - raw/cursos/power-mba/5-6-1-conceptos-clave-conversi-on/5-6-1-conceptos-clave-conversi-on.md
@@ -50,4 +53,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-cro-concept]]
-**related** ↔ [[aku-lean-startup-method-concept]] · [[aku-ab-testing-concept]] · [[aku-reversion-riesgo-numero-uno-claim]]
+**related** ↔ [[aku-lean-startup-method-concept]] · [[aku-ab-testing-concept]] · [[aku-reversion-riesgo-numero-uno-claim]] · [[aku-cuello-botella-funnel-concept]] · [[aku-landing-page-concept]] · [[aku-piramide-conversion-concept]]

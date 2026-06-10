@@ -27,14 +27,19 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-cultura-corporativa-concept]
+  supported_by:
+    - aku-cultura-corporativa-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-estructuras-organizacionales-concept, aku-estructura-basada-proyectos-concept]
+  related:
+    - aku-estructuras-organizacionales-concept
+    - aku-estructura-basada-proyectos-concept
+    - aku-cultura-saludable-ventaja-claim
+    - aku-estructura-cultura-siguen-estrategia-claim
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -48,4 +53,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-cultura-corporativa-concept]]
-**related** ↔ [[aku-estructuras-organizacionales-concept]] · [[aku-estructura-basada-proyectos-concept]]
+**related** ↔ [[aku-estructuras-organizacionales-concept]] · [[aku-estructura-basada-proyectos-concept]] · [[aku-cultura-saludable-ventaja-claim]] · [[aku-estructura-cultura-siguen-estrategia-claim]]

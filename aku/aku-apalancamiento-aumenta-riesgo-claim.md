@@ -33,6 +33,10 @@ relations:
   related:
     - aku-estructura-de-capital-concept
     - aku-equity-es-el-upside-deuda-es-downside-garantizado-concept
+    - aku-apalancamiento-financiero-concept
+    - aku-ratio-de-apalancamiento-method
+    - aku-apalancamiento-aumenta-roe-claim
+    - aku-apalancamiento-valoracion-optimo-claim
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -45,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-estructura-de-capital-concept]] · [[aku-equity-es-el-upside-deuda-es-downside-garantizado-concept]]
+**related** ↔ [[aku-estructura-de-capital-concept]] · [[aku-equity-es-el-upside-deuda-es-downside-garantizado-concept]] · [[aku-apalancamiento-financiero-concept]] · [[aku-ratio-de-apalancamiento-method]] · [[aku-apalancamiento-aumenta-roe-claim]] · [[aku-apalancamiento-valoracion-optimo-claim]]

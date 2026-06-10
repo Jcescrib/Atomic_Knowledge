@@ -42,6 +42,9 @@ relations:
     - aku-segmentar-la-copy-por-necesidades-distintas-claim
     - aku-target-un-microsegmento-y-escala-hacia-fuera-claim
     - aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept
+    - aku-nicho-recomendado-lanzamiento-claim
+    - aku-foco-early-adopters-match-brutal-claim
+    - aku-importancia-segmentacion-claim
 
 sources:
   - "raw/cursos/power-mba/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md"
@@ -54,4 +57,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-mass-market-strategy-concept]] · [[aku-nicho-strategy-concept]] · [[aku-segmentos-de-clientes-concept]] · [[aku-comparativa-mass-market-vs-nicho-concept]] · [[aku-riches-in-niches-pricing-claim]] · [[aku-segmentar-la-copy-por-necesidades-distintas-claim]] · [[aku-target-un-microsegmento-y-escala-hacia-fuera-claim]] · [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]]
+**related** ↔ [[aku-mass-market-strategy-concept]] · [[aku-nicho-strategy-concept]] · [[aku-segmentos-de-clientes-concept]] · [[aku-comparativa-mass-market-vs-nicho-concept]] · [[aku-riches-in-niches-pricing-claim]] · [[aku-segmentar-la-copy-por-necesidades-distintas-claim]] · [[aku-target-un-microsegmento-y-escala-hacia-fuera-claim]] · [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]] · [[aku-nicho-recomendado-lanzamiento-claim]] · [[aku-foco-early-adopters-match-brutal-claim]] · [[aku-importancia-segmentacion-claim]]

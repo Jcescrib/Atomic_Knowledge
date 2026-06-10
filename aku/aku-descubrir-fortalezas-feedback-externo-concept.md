@@ -37,6 +37,7 @@ relations:
     - aku-diagnostico-estrategico-personal-concept
     - aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim
     - aku-fortaleza-puede-ser-debilidad-y-viceversa-claim
+    - aku-motivaciones-desde-experiencias-pasadas-concept
 
 sources:
   - raw/cursos/power-mba/08-01-02-herramientasdedesarrollopersonal/08-01-02-herramientasdedesarrollopersonal.md
@@ -50,4 +51,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-fortalezas-debilidades-motivaciones-concept]]
-**related** ↔ [[aku-tests-personalidad-concept]] · [[aku-diagnostico-estrategico-personal-concept]] · [[aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim]] · [[aku-fortaleza-puede-ser-debilidad-y-viceversa-claim]]
+**related** ↔ [[aku-tests-personalidad-concept]] · [[aku-diagnostico-estrategico-personal-concept]] · [[aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim]] · [[aku-fortaleza-puede-ser-debilidad-y-viceversa-claim]] · [[aku-motivaciones-desde-experiencias-pasadas-concept]]

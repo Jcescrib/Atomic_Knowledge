@@ -29,7 +29,14 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-liderazgo-en-coste-concept, aku-estrategia-diferenciacion-concept, aku-posicionamiento-concept]
+  related:
+    - aku-liderazgo-en-coste-concept
+    - aku-estrategia-diferenciacion-concept
+    - aku-posicionamiento-concept
+    - aku-best-cost-strategy-concept
+    - aku-diferenciacion-mayores-margenes-claim
+    - aku-liderazgo-coste-imitable-claim
+    - aku-atrapado-medio-claim
 
 sources:
   - raw/cursos/power-mba/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
@@ -42,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-liderazgo-en-coste-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-posicionamiento-concept]]
+**related** ↔ [[aku-liderazgo-en-coste-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-posicionamiento-concept]] · [[aku-best-cost-strategy-concept]] · [[aku-diferenciacion-mayores-margenes-claim]] · [[aku-liderazgo-coste-imitable-claim]] · [[aku-atrapado-medio-claim]]

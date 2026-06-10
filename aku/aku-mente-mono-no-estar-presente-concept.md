@@ -38,6 +38,8 @@ relations:
     - aku-la-felicidad-requiere-presencia-claim
     - aku-el-presente-es-todo-lo-que-hay-concept
     - aku-actua-sin-ira-y-con-vision-a-largo-plazo-y-dejaran-de-ser-errores-claim
+    - aku-descansos-un-minuto-method
+    - aku-single-tasking-foco-una-tarea-claim
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -51,4 +53,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-mente-de-mono-concept]]
-**related** ↔ [[aku-mindfulness-concept]] · [[aku-la-ansiedad-son-pensamientos-en-marcha-elige-la-paz-sobre-el-pensamiento-claim]] · [[aku-la-felicidad-requiere-presencia-claim]] · [[aku-el-presente-es-todo-lo-que-hay-concept]] · [[aku-actua-sin-ira-y-con-vision-a-largo-plazo-y-dejaran-de-ser-errores-claim]]
+**related** ↔ [[aku-mindfulness-concept]] · [[aku-la-ansiedad-son-pensamientos-en-marcha-elige-la-paz-sobre-el-pensamiento-claim]] · [[aku-la-felicidad-requiere-presencia-claim]] · [[aku-el-presente-es-todo-lo-que-hay-concept]] · [[aku-actua-sin-ira-y-con-vision-a-largo-plazo-y-dejaran-de-ser-errores-claim]] · [[aku-descansos-un-minuto-method]] · [[aku-single-tasking-foco-una-tarea-claim]]

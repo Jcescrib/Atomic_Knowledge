@@ -31,7 +31,17 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-activo-concept, aku-caja-bancos-concept, aku-clientes-partida-concept, aku-existencias-concept, aku-liquidez-concept, aku-fondo-de-maniobra-concept]
+  related:
+    - aku-activo-concept
+    - aku-caja-bancos-concept
+    - aku-clientes-partida-concept
+    - aku-existencias-concept
+    - aku-liquidez-concept
+    - aku-fondo-de-maniobra-concept
+    - aku-activo-no-corriente-concept
+    - aku-inmovilizado-financiero-concept
+    - aku-inmovilizado-intangible-concept
+    - aku-inmovilizado-material-concept
 
 sources:
   - raw/cursos/power-mba/09-01-01-balancedesituacion/09-01-01-balancedesituacion.md
@@ -44,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-activo-concept]] · [[aku-caja-bancos-concept]] · [[aku-clientes-partida-concept]] · [[aku-existencias-concept]] · [[aku-liquidez-concept]] · [[aku-fondo-de-maniobra-concept]]
+**related** ↔ [[aku-activo-concept]] · [[aku-caja-bancos-concept]] · [[aku-clientes-partida-concept]] · [[aku-existencias-concept]] · [[aku-liquidez-concept]] · [[aku-fondo-de-maniobra-concept]] · [[aku-activo-no-corriente-concept]] · [[aku-inmovilizado-financiero-concept]] · [[aku-inmovilizado-intangible-concept]] · [[aku-inmovilizado-material-concept]]

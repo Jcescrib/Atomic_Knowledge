@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-conversion-olvidada-claim
+    - aku-cac-payback-concept
+    - aku-cltv-cac-ratio-concept
 
 sources:
   - "raw/cursos/power-mba/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md"
@@ -46,4 +48,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-cltv-concept]] · [[aku-cac-concept]] · [[aku-cltv-minus-cac-concept]]
-**related** ↔ [[aku-conversion-olvidada-claim]]
+**related** ↔ [[aku-conversion-olvidada-claim]] · [[aku-cac-payback-concept]] · [[aku-cltv-cac-ratio-concept]]

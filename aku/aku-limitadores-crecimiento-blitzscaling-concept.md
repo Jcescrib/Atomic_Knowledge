@@ -37,6 +37,8 @@ relations:
     - aku-product-market-fit-concept
     - aku-etapas-organizacion-concept
     - aku-tu-negocio-se-rompe-cuando-funciona
+    - aku-blitzscaling-cuando-oportunidad-enorme-claim
+    - aku-winner-takes-all-go-to-market-claim
 
 sources:
   - raw/cursos/power-mba/4-5-blitzscaling/4-5-blitzscaling.md
@@ -49,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-product-market-fit-concept]] · [[aku-etapas-organizacion-concept]] · [[aku-tu-negocio-se-rompe-cuando-funciona]]
+**related** ↔ [[aku-product-market-fit-concept]] · [[aku-etapas-organizacion-concept]] · [[aku-tu-negocio-se-rompe-cuando-funciona]] · [[aku-blitzscaling-cuando-oportunidad-enorme-claim]] · [[aku-winner-takes-all-go-to-market-claim]]

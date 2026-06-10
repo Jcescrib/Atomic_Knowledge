@@ -41,6 +41,7 @@ relations:
     - aku-proposito-mision-concept
     - aku-barrera-marca-concept
     - aku-los-nombres-neologisticos-son-los-mas-escalables-claim
+    - aku-esencia-mas-que-logo-claim
 
 sources:
   - raw/cursos/power-mba/4-4-branding/4-4-branding.md
@@ -54,4 +55,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-marca-potente-beneficios-claim]] · [[aku-plan-de-marca-concept]]
-**related** ↔ [[aku-identidad-de-marca-concept]] · [[aku-brand-equity-concept]] · [[aku-proposito-mision-concept]] · [[aku-barrera-marca-concept]] · [[aku-los-nombres-neologisticos-son-los-mas-escalables-claim]]
+**related** ↔ [[aku-identidad-de-marca-concept]] · [[aku-brand-equity-concept]] · [[aku-proposito-mision-concept]] · [[aku-barrera-marca-concept]] · [[aku-los-nombres-neologisticos-son-los-mas-escalables-claim]] · [[aku-esencia-mas-que-logo-claim]]

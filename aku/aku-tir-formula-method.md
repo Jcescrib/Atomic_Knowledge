@@ -24,14 +24,18 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-tir-concept]
+  supported_by:
+    - aku-tir-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-van-concept
+    - aku-van-formula-method
+    - aku-van-tir-equivalencia-claim
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -45,3 +49,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-tir-concept]]
+
+**related** ↔ [[aku-van-concept]] · [[aku-van-formula-method]] · [[aku-van-tir-equivalencia-claim]]

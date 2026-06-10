@@ -31,7 +31,15 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-gastos-contables-concept, aku-activo-no-corriente-concept, aku-ebitda-concept]
+  related:
+    - aku-gastos-contables-concept
+    - aku-activo-no-corriente-concept
+    - aku-ebitda-concept
+    - aku-coste-mercancias-vendidas-concept
+    - aku-gastos-de-explotacion-concept
+    - aku-sueldos-y-salarios-concept
+    - aku-gastos-financieros-concept
+    - aku-provisiones-concept
 
 sources:
   - raw/cursos/power-mba/09-01-02-detalle-cuentas-estado-resultados/09-01-02-detalle-cuentas-estado-resultados.md
@@ -44,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-gastos-contables-concept]] · [[aku-activo-no-corriente-concept]] · [[aku-ebitda-concept]]
+**related** ↔ [[aku-gastos-contables-concept]] · [[aku-activo-no-corriente-concept]] · [[aku-ebitda-concept]] · [[aku-coste-mercancias-vendidas-concept]] · [[aku-gastos-de-explotacion-concept]] · [[aku-sueldos-y-salarios-concept]] · [[aku-gastos-financieros-concept]] · [[aku-provisiones-concept]]

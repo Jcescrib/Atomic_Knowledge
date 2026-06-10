@@ -33,6 +33,10 @@ relations:
   related:
     - aku-incluso-en-la-muerte-hay-good-claim
     - aku-buscar-fuera-de-ti-la-felicidad-es-la-delusion-fundamental-claim
+    - aku-ikigai-mision-concept
+    - aku-ikigai-pasion-concept
+    - aku-ikigai-profesion-concept
+    - aku-ikigai-vocacion-concept
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -47,4 +51,4 @@ status_note: ""
 
 **constrains** → [[aku-ikigai-concept]]
 
-**related** ↔ [[aku-incluso-en-la-muerte-hay-good-claim]] · [[aku-buscar-fuera-de-ti-la-felicidad-es-la-delusion-fundamental-claim]]
+**related** ↔ [[aku-incluso-en-la-muerte-hay-good-claim]] · [[aku-buscar-fuera-de-ti-la-felicidad-es-la-delusion-fundamental-claim]] · [[aku-ikigai-mision-concept]] · [[aku-ikigai-pasion-concept]] · [[aku-ikigai-profesion-concept]] · [[aku-ikigai-vocacion-concept]]

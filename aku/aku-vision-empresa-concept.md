@@ -36,6 +36,11 @@ relations:
   related:
     - aku-proposito-mision-concept
     - aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim
+    - aku-okr-concept
+    - aku-objetivos-vs-resultados-clave-concept
+    - aku-beneficios-okr-claim
+    - aku-ajuste-objetivos-tradicional-concept
+    - aku-revision-anual-falla-incertidumbre-claim
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -49,4 +54,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-cascada-estrategica-ejecucion-concept]]
-**related** ↔ [[aku-proposito-mision-concept]] · [[aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim]]
+**related** ↔ [[aku-proposito-mision-concept]] · [[aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim]] · [[aku-okr-concept]] · [[aku-objetivos-vs-resultados-clave-concept]] · [[aku-beneficios-okr-claim]] · [[aku-ajuste-objetivos-tradicional-concept]] · [[aku-revision-anual-falla-incertidumbre-claim]]

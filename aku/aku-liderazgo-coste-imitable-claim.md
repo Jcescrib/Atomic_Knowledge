@@ -24,14 +24,22 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-liderazgo-en-coste-concept]
+  supported_by:
+    - aku-liderazgo-en-coste-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-barreras-de-entrada-concept, aku-economias-de-escala-concept]
+  related:
+    - aku-barreras-de-entrada-concept
+    - aku-economias-de-escala-concept
+    - aku-best-cost-strategy-concept
+    - aku-estrategia-diferenciacion-concept
+    - aku-diferenciacion-mayores-margenes-claim
+    - aku-imposibilidad-pivotar-lowcost-a-diferenciacion-claim
+    - aku-atrapado-medio-claim
 
 sources:
   - raw/cursos/power-mba/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
@@ -45,4 +53,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-liderazgo-en-coste-concept]]
-**related** ↔ [[aku-barreras-de-entrada-concept]] · [[aku-economias-de-escala-concept]]
+**related** ↔ [[aku-barreras-de-entrada-concept]] · [[aku-economias-de-escala-concept]] · [[aku-best-cost-strategy-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-diferenciacion-mayores-margenes-claim]] · [[aku-imposibilidad-pivotar-lowcost-a-diferenciacion-claim]] · [[aku-atrapado-medio-claim]]

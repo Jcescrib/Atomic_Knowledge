@@ -41,6 +41,7 @@ relations:
     - aku-piramide-conversion-concept
     - aku-fase-escalar-concept
     - aku-validar-economia-clave-claim
+    - aku-problem-solution-fit-concept
 
 sources:
   - "raw/cursos/power-mba/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos.md"
@@ -55,4 +56,4 @@ status_note: ""
 
 **supported_by** ← [[aku-etapas-startup-concept]]
 
-**related** ↔ [[aku-canales-de-distribucion-concept]] · [[aku-piramide-conversion-concept]] · [[aku-fase-escalar-concept]] · [[aku-validar-economia-clave-claim]]
+**related** ↔ [[aku-canales-de-distribucion-concept]] · [[aku-piramide-conversion-concept]] · [[aku-fase-escalar-concept]] · [[aku-validar-economia-clave-claim]] · [[aku-problem-solution-fit-concept]]

@@ -25,13 +25,16 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-adblockers-concept]
+  supports:
+    - aku-adblockers-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-publicidad-nativa-concept]
+  related:
+    - aku-publicidad-nativa-concept
+    - aku-publicidad-invasiva-contraproducente-claim
 
 sources:
   - raw/cursos/power-mba/5-4-4-bloqueadores-de-publicidad/5-4-4-bloqueadores-de-publicidad.md
@@ -46,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-adblockers-concept]]
 
-**related** ↔ [[aku-publicidad-nativa-concept]]
+**related** ↔ [[aku-publicidad-nativa-concept]] · [[aku-publicidad-invasiva-contraproducente-claim]]

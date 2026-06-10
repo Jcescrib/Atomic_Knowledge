@@ -35,6 +35,9 @@ relations:
   related:
     - aku-commodity-concept
     - aku-rivalidad-reduce-rentabilidad-claim
+    - aku-oceano-azul-concept
+    - aku-innovacion-valor-concept
+    - aku-mas-valor-menos-coste-no-tradeoff-claim
 
 sources:
   - "raw/cursos/power-mba/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave.md"
@@ -48,4 +51,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-oceano-rojo-concept]]
-**related** ↔ [[aku-commodity-concept]] · [[aku-rivalidad-reduce-rentabilidad-claim]]
+**related** ↔ [[aku-commodity-concept]] · [[aku-rivalidad-reduce-rentabilidad-claim]] · [[aku-oceano-azul-concept]] · [[aku-innovacion-valor-concept]] · [[aku-mas-valor-menos-coste-no-tradeoff-claim]]

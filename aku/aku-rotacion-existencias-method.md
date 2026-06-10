@@ -35,6 +35,7 @@ relations:
   contradicts: []
   related:
     - aku-vender-agotado-cobrar-y-retrasar
+    - aku-rotacion-activo-method
 
 sources:
   - raw/cursos/power-mba/09-02-01-ratios-analisis-financieros/09-02-01-ratios-analisis-financieros.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supported_by** ← [[aku-coste-mercancias-vendidas-concept]] · [[aku-existencias-concept]]
 
-**related** ↔ [[aku-vender-agotado-cobrar-y-retrasar]]
+**related** ↔ [[aku-vender-agotado-cobrar-y-retrasar]] · [[aku-rotacion-activo-method]]

@@ -30,7 +30,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-cultura-corporativa-concept]
+  related:
+    - aku-cultura-corporativa-concept
+    - aku-arquetipos-cultura-concept
+    - aku-estructura-cultura-siguen-estrategia-claim
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -43,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cultura-corporativa-concept]]
+**related** ↔ [[aku-cultura-corporativa-concept]] · [[aku-arquetipos-cultura-concept]] · [[aku-estructura-cultura-siguen-estrategia-claim]]

@@ -33,7 +33,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-nicho-strategy-concept, aku-barreras-de-entrada-concept]
+  related:
+    - aku-nicho-strategy-concept
+    - aku-barreras-de-entrada-concept
+    - aku-segmentacion-especializada-coste-vs-diferenciacion-concept
 
 sources:
   - raw/cursos/power-mba/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-nicho-strategy-concept]] · [[aku-barreras-de-entrada-concept]]
+**related** ↔ [[aku-nicho-strategy-concept]] · [[aku-barreras-de-entrada-concept]] · [[aku-segmentacion-especializada-coste-vs-diferenciacion-concept]]

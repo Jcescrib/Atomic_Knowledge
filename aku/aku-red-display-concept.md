@@ -25,13 +25,22 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-canales-marketing-digital-concept, aku-clasificacion-display-por-movimiento-concept]
-  constrained_by: [aku-publicidad-invasiva-contraproducente-claim]
+  supports:
+    - aku-canales-marketing-digital-concept
+    - aku-clasificacion-display-por-movimiento-concept
+  constrained_by:
+    - aku-publicidad-invasiva-contraproducente-claim
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-programatica-concept, aku-publicidad-nativa-concept]
+  related:
+    - aku-programatica-concept
+    - aku-publicidad-nativa-concept
+    - aku-performance-marketing-concept
+    - aku-paid-social-concept
+    - aku-sem-paid-search-concept
+    - aku-publicidad-offline-concept
 
 sources:
   - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
@@ -46,4 +55,4 @@ status_note: ""
 
 **supports** → [[aku-canales-marketing-digital-concept]] · [[aku-clasificacion-display-por-movimiento-concept]]
 **constrained_by** ← [[aku-publicidad-invasiva-contraproducente-claim]]
-**related** ↔ [[aku-programatica-concept]] · [[aku-publicidad-nativa-concept]]
+**related** ↔ [[aku-programatica-concept]] · [[aku-publicidad-nativa-concept]] · [[aku-performance-marketing-concept]] · [[aku-paid-social-concept]] · [[aku-sem-paid-search-concept]] · [[aku-publicidad-offline-concept]]

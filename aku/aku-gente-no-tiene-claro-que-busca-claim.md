@@ -35,6 +35,10 @@ relations:
     - aku-customer-persona-concept
     - aku-propuesta-de-valor-concept
     - aku-segmentar-la-copy-por-necesidades-distintas-claim
+    - aku-cosas-importantes-concept
+    - aku-vete-a-beneficios-ultimos-claim
+    - aku-emocion-prevalece-razon-claim
+    - aku-competencia-amplia-concept
 
 sources:
   - "raw/cursos/power-mba/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a.md"
@@ -47,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-customer-persona-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-segmentar-la-copy-por-necesidades-distintas-claim]]
+**related** ↔ [[aku-customer-persona-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-segmentar-la-copy-por-necesidades-distintas-claim]] · [[aku-cosas-importantes-concept]] · [[aku-vete-a-beneficios-ultimos-claim]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-competencia-amplia-concept]]

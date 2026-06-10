@@ -39,6 +39,8 @@ relations:
     - aku-estrategia-diferenciacion-concept
     - aku-esencia-mas-que-logo-claim
     - aku-commanders-intent-concept
+    - aku-valores-marca-concept
+    - aku-atributos-marca-concept
 
 sources:
   - raw/cursos/power-mba/4-4-branding/4-4-branding.md
@@ -52,4 +54,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-proposito-mision-concept]]
-**related** ↔ [[aku-ventaja-competitiva-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-esencia-mas-que-logo-claim]] · [[aku-commanders-intent-concept]]
+**related** ↔ [[aku-ventaja-competitiva-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-esencia-mas-que-logo-claim]] · [[aku-commanders-intent-concept]] · [[aku-valores-marca-concept]] · [[aku-atributos-marca-concept]]

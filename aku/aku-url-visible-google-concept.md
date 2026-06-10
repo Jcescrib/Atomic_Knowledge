@@ -32,7 +32,15 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-anuncio-texto-google-ads-concept, aku-landing-page-concept]
+  related:
+    - aku-anuncio-texto-google-ads-concept
+    - aku-landing-page-concept
+    - aku-titulo-anuncio-google-concept
+    - aku-descripcion-anuncio-google-concept
+    - aku-extensiones-anuncio-google-concept
+    - aku-tipos-extensiones-google-concept
+    - aku-extensiones-mejoran-rendimiento-claim
+    - aku-relevancia-anuncio-landing-rendimiento-claim
 
 sources:
   - raw/cursos/power-mba/anuncios-de-texto-google-marketing/anuncios-de-texto-google-marketing.md
@@ -45,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-anuncio-texto-google-ads-concept]] · [[aku-landing-page-concept]]
+**related** ↔ [[aku-anuncio-texto-google-ads-concept]] · [[aku-landing-page-concept]] · [[aku-titulo-anuncio-google-concept]] · [[aku-descripcion-anuncio-google-concept]] · [[aku-extensiones-anuncio-google-concept]] · [[aku-tipos-extensiones-google-concept]] · [[aku-extensiones-mejoran-rendimiento-claim]] · [[aku-relevancia-anuncio-landing-rendimiento-claim]]

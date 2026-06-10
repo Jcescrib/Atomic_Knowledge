@@ -35,6 +35,11 @@ relations:
   contradicts: []
   related:
     - aku-sistemas-vs-metas-en-atomic-habits-concept
+    - aku-cascada-estrategica-ejecucion-concept
+    - aku-vision-empresa-concept
+    - aku-beneficios-okr-claim
+    - aku-ajuste-objetivos-tradicional-concept
+    - aku-revision-anual-falla-incertidumbre-claim
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -49,4 +54,4 @@ status_note: ""
 
 **supported_by** ← [[aku-okr-concept]]
 
-**related** ↔ [[aku-sistemas-vs-metas-en-atomic-habits-concept]]
+**related** ↔ [[aku-sistemas-vs-metas-en-atomic-habits-concept]] · [[aku-cascada-estrategica-ejecucion-concept]] · [[aku-vision-empresa-concept]] · [[aku-beneficios-okr-claim]] · [[aku-ajuste-objetivos-tradicional-concept]] · [[aku-revision-anual-falla-incertidumbre-claim]]

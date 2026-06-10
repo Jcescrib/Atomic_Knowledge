@@ -47,6 +47,7 @@ relations:
     - aku-wealth-activos-que-ganan-mientras-duermes-concept
     - aku-gross-profit-additional-customer-concept
     - aku-affiliate-ltgp-cac-method
+    - aku-cac-payback-concept
 
 sources:
   - "raw/cursos/power-mba/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md"
@@ -64,4 +65,4 @@ status_note: ""
 
 **supports** → [[aku-cltv-cac-dual-optimization]]
 
-**related** ↔ [[aku-cltv-cac-ratio-concept]] · [[aku-cltv-gross-margin-over-revenue]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-palancas-marketing-digital-concept]] · [[aku-formula-objetivos-marketing-method]] · [[aku-wealth-activos-que-ganan-mientras-duermes-concept]] · [[aku-gross-profit-additional-customer-concept]] · [[aku-affiliate-ltgp-cac-method]]
+**related** ↔ [[aku-cltv-cac-ratio-concept]] · [[aku-cltv-gross-margin-over-revenue]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-palancas-marketing-digital-concept]] · [[aku-formula-objetivos-marketing-method]] · [[aku-wealth-activos-que-ganan-mientras-duermes-concept]] · [[aku-gross-profit-additional-customer-concept]] · [[aku-affiliate-ltgp-cac-method]] · [[aku-cac-payback-concept]]

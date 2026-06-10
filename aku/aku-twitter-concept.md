@@ -31,7 +31,15 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-comparativa-redes-sociales-concept]
+  related:
+    - aku-comparativa-redes-sociales-concept
+    - aku-eleccion-red-social-segun-negocio-claim
+    - aku-facebook-concept
+    - aku-instagram-concept
+    - aku-linkedin-concept
+    - aku-pinterest-concept
+    - aku-tiktok-concept
+    - aku-youtube-concept
 
 sources:
   - raw/cursos/power-mba/12-3-tabla-comparativa-rrss/12-3-tabla-comparativa-rrss.md
@@ -44,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-comparativa-redes-sociales-concept]]
+**related** ↔ [[aku-comparativa-redes-sociales-concept]] · [[aku-eleccion-red-social-segun-negocio-claim]] · [[aku-facebook-concept]] · [[aku-instagram-concept]] · [[aku-linkedin-concept]] · [[aku-pinterest-concept]] · [[aku-tiktok-concept]] · [[aku-youtube-concept]]

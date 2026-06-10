@@ -44,6 +44,7 @@ relations:
     - aku-performance-marketing-concept
     - aku-branding-concept
     - aku-empezar-el-nombre-con-plosiva-mejora-el-recall-claim
+    - aku-brand-love-concept
 
 sources:
   - raw/cursos/power-mba/4-4-branding/4-4-branding.md
@@ -59,4 +60,4 @@ status_note: ""
 **supported_by** ← [[aku-brand-awareness-top-of-mind-concept]] · [[aku-brand-awareness-brand-recall-concept]] · [[aku-brand-awareness-brand-recognition-concept]] · [[aku-brand-awareness-unaware-concept]]
 
 **supports** → [[aku-brand-equity-concept]] · [[aku-gota-en-oceano-claim]]
-**related** ↔ [[aku-performance-marketing-concept]] · [[aku-branding-concept]] · [[aku-empezar-el-nombre-con-plosiva-mejora-el-recall-claim]]
+**related** ↔ [[aku-performance-marketing-concept]] · [[aku-branding-concept]] · [[aku-empezar-el-nombre-con-plosiva-mejora-el-recall-claim]] · [[aku-brand-love-concept]]

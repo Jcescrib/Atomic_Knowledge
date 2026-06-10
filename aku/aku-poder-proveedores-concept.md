@@ -26,13 +26,18 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-cinco-fuerzas-porter-concept]
+  supports:
+    - aku-cinco-fuerzas-porter-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-amenaza-sustitutivos-concept
+    - aku-poder-compradores-concept
+    - aku-rivalidad-competitiva-concept
+    - aku-rivalidad-reduce-rentabilidad-claim
 
 sources:
   - raw/cursos/power-mba/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
@@ -46,3 +51,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-cinco-fuerzas-porter-concept]]
+
+**related** ↔ [[aku-amenaza-sustitutivos-concept]] · [[aku-poder-compradores-concept]] · [[aku-rivalidad-competitiva-concept]] · [[aku-rivalidad-reduce-rentabilidad-claim]]

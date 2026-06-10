@@ -38,6 +38,8 @@ relations:
     - aku-bmc-concept
     - aku-canal-directo-concept
     - aku-valor-independiente-usuarios-modelo-lineal-claim
+    - aku-modelo-free-concept
+    - aku-modelo-freemium-concept
 
 sources:
   - "raw/cursos/power-mba/2-3-conceptos-clave-de-las-plataformas/2-3-conceptos-clave-de-las-plataformas.md"
@@ -50,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-bmc-concept]] · [[aku-canal-directo-concept]] · [[aku-valor-independiente-usuarios-modelo-lineal-claim]]
+**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-bmc-concept]] · [[aku-canal-directo-concept]] · [[aku-valor-independiente-usuarios-modelo-lineal-claim]] · [[aku-modelo-free-concept]] · [[aku-modelo-freemium-concept]]

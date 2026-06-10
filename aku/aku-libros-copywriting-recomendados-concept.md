@@ -29,6 +29,7 @@ relations:
   related:
     - aku-hacks-copywriting-concept
     - aku-leyes-persuasion-cialdini-concept
+    - aku-palabras-frases-persuasivas-concept
 sources:
   - raw/cursos/power-mba/20-3-libros-de-copywriting/20-3-libros-de-copywriting.md
 created: 2026-06-04
@@ -39,4 +40,4 @@ status_note: "Sustituido por taku-bibliografia-copywriting (reference)."
 
 ## Relaciones
 
-**related** ↔ [[aku-hacks-copywriting-concept]] · [[aku-leyes-persuasion-cialdini-concept]]
+**related** ↔ [[aku-hacks-copywriting-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-palabras-frases-persuasivas-concept]]

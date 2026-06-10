@@ -37,6 +37,7 @@ relations:
     - aku-diagnostico-estrategico-personal-concept
     - aku-objetivos-personales-concept
     - aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim
+    - aku-descubrir-fortalezas-feedback-externo-concept
 
 sources:
   - raw/cursos/power-mba/08-01-02-herramientasdedesarrollopersonal/08-01-02-herramientasdedesarrollopersonal.md
@@ -50,4 +51,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-fortalezas-debilidades-motivaciones-concept]]
-**related** ↔ [[aku-diagnostico-estrategico-personal-concept]] · [[aku-objetivos-personales-concept]] · [[aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim]]
+**related** ↔ [[aku-diagnostico-estrategico-personal-concept]] · [[aku-objetivos-personales-concept]] · [[aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim]] · [[aku-descubrir-fortalezas-feedback-externo-concept]]

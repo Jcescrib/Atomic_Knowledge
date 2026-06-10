@@ -26,13 +26,18 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-van-formula-method]
+  supports:
+    - aku-van-formula-method
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-tir-concept, aku-valor-actual-presente-concept, aku-van-tir-equivalencia-claim]
+  related:
+    - aku-tir-concept
+    - aku-valor-actual-presente-concept
+    - aku-van-tir-equivalencia-claim
+    - aku-tir-formula-method
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -46,4 +51,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-van-formula-method]]
-**related** ↔ [[aku-tir-concept]] · [[aku-valor-actual-presente-concept]] · [[aku-van-tir-equivalencia-claim]]
+**related** ↔ [[aku-tir-concept]] · [[aku-valor-actual-presente-concept]] · [[aku-van-tir-equivalencia-claim]] · [[aku-tir-formula-method]]

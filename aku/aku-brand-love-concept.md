@@ -25,13 +25,19 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-brand-equity-concept]
+  supports:
+    - aku-brand-equity-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-brand-awareness-concept
+    - aku-brand-awareness-unaware-concept
+    - aku-brand-awareness-brand-recognition-concept
+    - aku-brand-awareness-brand-recall-concept
+    - aku-brand-awareness-top-of-mind-concept
 
 sources:
   - raw/cursos/power-mba/4-4-branding/4-4-branding.md
@@ -45,3 +51,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-brand-equity-concept]]
+
+**related** ↔ [[aku-brand-awareness-concept]] · [[aku-brand-awareness-unaware-concept]] · [[aku-brand-awareness-brand-recognition-concept]] · [[aku-brand-awareness-brand-recall-concept]] · [[aku-brand-awareness-top-of-mind-concept]]

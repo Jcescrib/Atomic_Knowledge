@@ -38,6 +38,9 @@ relations:
   related:
     - aku-falso-positivo-validation-concept
     - aku-asumir-equivocarse-claim
+    - aku-lean-startup-method-concept
+    - aku-beneficios-lean-startup-claim
+    - aku-innovar-vs-competir-concept
 
 sources:
   - "raw/cursos/power-mba/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md"
@@ -52,4 +55,4 @@ status_note: ""
 
 **supports** → [[aku-hipotesis-concept]]
 
-**related** ↔ [[aku-falso-positivo-validation-concept]] · [[aku-asumir-equivocarse-claim]]
+**related** ↔ [[aku-falso-positivo-validation-concept]] · [[aku-asumir-equivocarse-claim]] · [[aku-lean-startup-method-concept]] · [[aku-beneficios-lean-startup-claim]] · [[aku-innovar-vs-competir-concept]]

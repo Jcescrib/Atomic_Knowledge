@@ -23,14 +23,21 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-clasificacion-display-por-movimiento-concept]
+  supported_by:
+    - aku-clasificacion-display-por-movimiento-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-display-video-in-stream-concept]
+  related:
+    - aku-display-video-in-stream-concept
+    - aku-robapaginas-concept
+    - aku-banner-display-concept
+    - aku-formatos-flotantes-concept
+    - aku-incentivized-ads-concept
+    - aku-adaptacion-display-a-movil-claim
 
 sources:
   - raw/cursos/power-mba/5-4-3-formatos-de-anuncios-display/5-4-3-formatos-de-anuncios-display.md
@@ -44,4 +51,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-clasificacion-display-por-movimiento-concept]]
-**related** ↔ [[aku-display-video-in-stream-concept]]
+**related** ↔ [[aku-display-video-in-stream-concept]] · [[aku-robapaginas-concept]] · [[aku-banner-display-concept]] · [[aku-formatos-flotantes-concept]] · [[aku-incentivized-ads-concept]] · [[aku-adaptacion-display-a-movil-claim]]

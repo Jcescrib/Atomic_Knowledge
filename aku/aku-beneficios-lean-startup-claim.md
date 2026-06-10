@@ -35,6 +35,8 @@ relations:
   contradicts: []
   related:
     - aku-innovar-vs-competir-concept
+    - aku-asumir-equivocarse-claim
+    - aku-no-dar-supuesto-hipotesis-claim
 
 sources:
   - "raw/cursos/power-mba/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md"
@@ -49,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-lean-startup-method-concept]]
 
-**related** ↔ [[aku-innovar-vs-competir-concept]]
+**related** ↔ [[aku-innovar-vs-competir-concept]] · [[aku-asumir-equivocarse-claim]] · [[aku-no-dar-supuesto-hipotesis-claim]]

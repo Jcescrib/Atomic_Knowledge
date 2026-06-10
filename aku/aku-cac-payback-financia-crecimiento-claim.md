@@ -38,6 +38,11 @@ relations:
     - aku-motor-crecimiento-pago-concept
     - aku-cac-payback-concept
     - aku-money-model-concept
+    - aku-coeficiente-viralidad-concept
+    - aku-motor-crecimiento-concept
+    - aku-motor-crecimiento-sticky-concept
+    - aku-motor-crecimiento-viral-concept
+    - aku-viral-bajo-cltv-compatible-claim
 
 sources:
   - "raw/cursos/power-mba/2-2-1-tiposmotorescrecimiento/2-2-1-tiposmotorescrecimiento.md"
@@ -50,6 +55,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-motor-crecimiento-pago-concept]] · [[aku-cac-payback-concept]] · [[aku-money-model-concept]]
+**related** ↔ [[aku-motor-crecimiento-pago-concept]] · [[aku-cac-payback-concept]] · [[aku-money-model-concept]] · [[aku-coeficiente-viralidad-concept]] · [[aku-motor-crecimiento-concept]] · [[aku-motor-crecimiento-sticky-concept]] · [[aku-motor-crecimiento-viral-concept]] · [[aku-viral-bajo-cltv-compatible-claim]]
 
 **supported_by** ← [[aku-client-financed-acquisition-concept]] · [[aku-money-model-rompe-cash-bottleneck]]

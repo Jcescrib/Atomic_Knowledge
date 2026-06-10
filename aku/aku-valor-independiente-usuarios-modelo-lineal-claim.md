@@ -38,6 +38,9 @@ relations:
     - aku-free-bootstrap-plataforma-claim
     - aku-virtuous-cycle-of-price-claim
     - aku-referral-growth-exponential-claim
+    - aku-modelo-plataforma-concept
+    - aku-modelo-free-concept
+    - aku-modelo-freemium-concept
 
 sources:
   - "raw/cursos/power-mba/2-3-conceptos-clave-de-las-plataformas/2-3-conceptos-clave-de-las-plataformas.md"
@@ -50,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelo-lineal-concept]] · [[aku-network-effect-concept]] · [[aku-free-bootstrap-plataforma-claim]] · [[aku-virtuous-cycle-of-price-claim]] · [[aku-referral-growth-exponential-claim]]
+**related** ↔ [[aku-modelo-lineal-concept]] · [[aku-network-effect-concept]] · [[aku-free-bootstrap-plataforma-claim]] · [[aku-virtuous-cycle-of-price-claim]] · [[aku-referral-growth-exponential-claim]] · [[aku-modelo-plataforma-concept]] · [[aku-modelo-free-concept]] · [[aku-modelo-freemium-concept]]

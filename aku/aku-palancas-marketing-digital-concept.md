@@ -27,13 +27,24 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-conversion-olvidada-claim]
+  supports:
+    - aku-conversion-olvidada-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-objetivos-negocio-concept, aku-cltv-concept, aku-cac-concept, aku-cltv-minus-cac-concept, aku-formula-objetivos-marketing-method, aku-calidad-vs-cantidad-trafico-concept, aku-cro-concept, aku-power-funnel-concept]
+  related:
+    - aku-objetivos-negocio-concept
+    - aku-cltv-concept
+    - aku-cac-concept
+    - aku-cltv-minus-cac-concept
+    - aku-formula-objetivos-marketing-method
+    - aku-calidad-vs-cantidad-trafico-concept
+    - aku-cro-concept
+    - aku-power-funnel-concept
+    - aku-atribucion-concept
+    - aku-funnel-corto-vs-largo-concept
 
 sources:
   - raw/cursos/power-mba/5-3-visi-on-estrat-egica/5-3-visi-on-estrat-egica.md
@@ -48,4 +59,4 @@ status_note: ""
 
 **supports** → [[aku-conversion-olvidada-claim]]
 
-**related** ↔ [[aku-objetivos-negocio-concept]] · [[aku-cltv-concept]] · [[aku-cac-concept]] · [[aku-cltv-minus-cac-concept]] · [[aku-formula-objetivos-marketing-method]] · [[aku-calidad-vs-cantidad-trafico-concept]] · [[aku-cro-concept]] · [[aku-power-funnel-concept]]
+**related** ↔ [[aku-objetivos-negocio-concept]] · [[aku-cltv-concept]] · [[aku-cac-concept]] · [[aku-cltv-minus-cac-concept]] · [[aku-formula-objetivos-marketing-method]] · [[aku-calidad-vs-cantidad-trafico-concept]] · [[aku-cro-concept]] · [[aku-power-funnel-concept]] · [[aku-atribucion-concept]] · [[aku-funnel-corto-vs-largo-concept]]

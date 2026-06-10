@@ -28,7 +28,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-costes-fijos-variables-economias-escala-concept
+    - aku-flujos-de-ingresos-concept
 sources:
   - raw/cursos/power-mba/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc.md
 created: 2026-06-03
@@ -40,3 +42,5 @@ status_note: ""
 ## Relaciones
 
 **constrains** → [[aku-estructura-de-costes-concept]]
+
+**related** ↔ [[aku-costes-fijos-variables-economias-escala-concept]] · [[aku-flujos-de-ingresos-concept]]

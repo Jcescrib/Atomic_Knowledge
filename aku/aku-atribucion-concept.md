@@ -33,7 +33,18 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-cac-concept, aku-canales-de-distribucion-concept, aku-power-funnel-concept, aku-performance-marketing-concept, aku-canales-marketing-digital-concept, aku-publicidad-offline-concept, aku-codigos-utm-concept]
+  related:
+    - aku-cac-concept
+    - aku-canales-de-distribucion-concept
+    - aku-power-funnel-concept
+    - aku-performance-marketing-concept
+    - aku-canales-marketing-digital-concept
+    - aku-publicidad-offline-concept
+    - aku-codigos-utm-concept
+    - aku-conversion-olvidada-claim
+    - aku-funnel-corto-vs-largo-concept
+    - aku-objetivos-negocio-concept
+    - aku-palancas-marketing-digital-concept
 
 sources:
   - raw/cursos/power-mba/5-3-visi-on-estrat-egica/5-3-visi-on-estrat-egica.md
@@ -46,4 +57,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cac-concept]] · [[aku-canales-de-distribucion-concept]] · [[aku-power-funnel-concept]] · [[aku-performance-marketing-concept]] · [[aku-canales-marketing-digital-concept]] · [[aku-publicidad-offline-concept]] · [[aku-codigos-utm-concept]]
+**related** ↔ [[aku-cac-concept]] · [[aku-canales-de-distribucion-concept]] · [[aku-power-funnel-concept]] · [[aku-performance-marketing-concept]] · [[aku-canales-marketing-digital-concept]] · [[aku-publicidad-offline-concept]] · [[aku-codigos-utm-concept]] · [[aku-conversion-olvidada-claim]] · [[aku-funnel-corto-vs-largo-concept]] · [[aku-objetivos-negocio-concept]] · [[aku-palancas-marketing-digital-concept]]

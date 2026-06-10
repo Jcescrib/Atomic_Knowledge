@@ -30,6 +30,10 @@ relations:
   contradicts: []
   related:
     - aku-segmentar-la-copy-por-necesidades-distintas-claim
+    - aku-plan-medicion-estrategias-concept
+    - aku-plan-medicion-kpis-concept
+    - aku-plan-medicion-metas-concept
+    - aku-plan-medicion-objetivos-concept
 sources:
   - raw/cursos/power-mba/15-1-plantilla-plan-de-medici-on-xlsx/15-1-plantilla-plan-de-medici-on-xlsx.md
 created: 2026-06-04
@@ -42,4 +46,4 @@ status_note: ""
 
 **supported_by** ← [[aku-plan-de-medicion-concept]]
 
-**related** ↔ [[aku-segmentar-la-copy-por-necesidades-distintas-claim]]
+**related** ↔ [[aku-segmentar-la-copy-por-necesidades-distintas-claim]] · [[aku-plan-medicion-estrategias-concept]] · [[aku-plan-medicion-kpis-concept]] · [[aku-plan-medicion-metas-concept]] · [[aku-plan-medicion-objetivos-concept]]

@@ -36,6 +36,13 @@ relations:
     - aku-delivery-vehicles-concept
     - aku-delivery-cube-concept
     - aku-pagar-afiliados-forever-no-cap-claim
+    - aku-lead-magnet-calculadora-concept
+    - aku-lead-magnet-concurso-sorteo-concept
+    - aku-lead-magnet-descuento-cupon-concept
+    - aku-lead-magnet-plantilla-template-concept
+    - aku-lead-magnet-prueba-producto-concept
+    - aku-lead-magnet-resumen-visita-concept
+    - aku-lead-magnet-ubicaciones-claim
 
 sources:
   - raw/cursos/power-mba/5-5-2-ejemplos-por-tipos-de-lead-magnets/5-5-2-ejemplos-por-tipos-de-lead-magnets.md
@@ -50,4 +57,4 @@ status_note: ""
 
 **supported_by** ← [[aku-lead-magnet-concept]]
 
-**related** ↔ [[aku-delivery-vehicles-concept]] · [[aku-delivery-cube-concept]] · [[aku-pagar-afiliados-forever-no-cap-claim]]
+**related** ↔ [[aku-delivery-vehicles-concept]] · [[aku-delivery-cube-concept]] · [[aku-pagar-afiliados-forever-no-cap-claim]] · [[aku-lead-magnet-calculadora-concept]] · [[aku-lead-magnet-concurso-sorteo-concept]] · [[aku-lead-magnet-descuento-cupon-concept]] · [[aku-lead-magnet-plantilla-template-concept]] · [[aku-lead-magnet-prueba-producto-concept]] · [[aku-lead-magnet-resumen-visita-concept]] · [[aku-lead-magnet-ubicaciones-claim]]

@@ -35,6 +35,8 @@ relations:
   contradicts: []
   related:
     - aku-gestionar-stress-detach-y-perspectiva-method
+    - aku-mbti-concept
+    - aku-test-personalidad-solo-preferencias-claim
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -49,4 +51,4 @@ status_note: ""
 
 **supported_by** ← [[aku-tests-personalidad-concept]]
 
-**related** ↔ [[aku-gestionar-stress-detach-y-perspectiva-method]]
+**related** ↔ [[aku-gestionar-stress-detach-y-perspectiva-method]] · [[aku-mbti-concept]] · [[aku-test-personalidad-solo-preferencias-claim]]

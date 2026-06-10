@@ -34,7 +34,17 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-pitch-deck-one-liner-concept
+    - aku-pitch-deck-problema-concept
+    - aku-pitch-deck-solucion-concept
+    - aku-pitch-deck-producto-concept
+    - aku-pitch-deck-mercado-tamano-concept
+    - aku-pitch-deck-competencia-concept
+    - aku-pitch-deck-modelo-negocio-concept
+    - aku-pitch-deck-traccion-concept
+    - aku-pitch-deck-equipo-concept
+    - aku-pitch-deck-financials-concept
 
 sources:
   - raw/cursos/power-mba/6-3-3-estructura-del-pitch-deck/6-3-3-estructura-del-pitch-deck.md
@@ -48,3 +58,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-pitch-deck-concept]]
+
+**related** ↔ [[aku-pitch-deck-one-liner-concept]] · [[aku-pitch-deck-problema-concept]] · [[aku-pitch-deck-solucion-concept]] · [[aku-pitch-deck-producto-concept]] · [[aku-pitch-deck-mercado-tamano-concept]] · [[aku-pitch-deck-competencia-concept]] · [[aku-pitch-deck-modelo-negocio-concept]] · [[aku-pitch-deck-traccion-concept]] · [[aku-pitch-deck-equipo-concept]] · [[aku-pitch-deck-financials-concept]]

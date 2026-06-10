@@ -47,6 +47,8 @@ relations:
     - aku-herramientas-creacion-contenido-rrss-concept
     - aku-audiencia-activo-compuesto-claim
     - aku-content-nutre-toda-publicidad-claim
+    - aku-outbound-marketing-concept
+    - aku-email-marketing-concept
 
 sources:
   - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
@@ -65,4 +67,4 @@ status_note: ""
 
 **constrained_by** ← [[aku-define-publico-objetivo-antes-de-generar-contenido-claim]] · [[aku-aportar-valor-es-clave-del-contenido-claim]] · [[aku-titulos-llamativos-cortos-evita-clickbait-claim]] · [[aku-regularidad-importa-mas-que-frecuencia-claim]] · [[aku-agrupa-contenido-en-series-tematicas-claim]] · [[aku-aprende-que-contenido-funciona-y-replica-claim]] · [[aku-inspirate-en-contenido-de-calidad-de-otros-claim]]
 
-**related** ↔ [[aku-inbound-marketing-concept]] · [[aku-canales-marketing-digital-concept]] · [[aku-herramientas-creacion-contenido-rrss-concept]] · [[aku-audiencia-activo-compuesto-claim]] · [[aku-content-nutre-toda-publicidad-claim]]
+**related** ↔ [[aku-inbound-marketing-concept]] · [[aku-canales-marketing-digital-concept]] · [[aku-herramientas-creacion-contenido-rrss-concept]] · [[aku-audiencia-activo-compuesto-claim]] · [[aku-content-nutre-toda-publicidad-claim]] · [[aku-outbound-marketing-concept]] · [[aku-email-marketing-concept]]

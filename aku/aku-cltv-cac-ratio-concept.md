@@ -42,6 +42,7 @@ relations:
     - aku-cltv-minus-cac-concept
     - aku-ltgp-cac-3-a-1-claim
     - aku-validar-economia-clave-claim
+    - aku-cltv-cac-dual-optimization
 
 sources:
   - "raw/cursos/power-mba/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md"
@@ -58,6 +59,6 @@ status_note: ""
 
 **supported_by** ← [[aku-cltv-concept]] · [[aku-cac-concept]]
 
-**related** ↔ [[aku-cac-payback-concept]] · [[aku-cltv-minus-cac-concept]] · [[aku-ltgp-cac-3-a-1-claim]] · [[aku-validar-economia-clave-claim]]
+**related** ↔ [[aku-cac-payback-concept]] · [[aku-cltv-minus-cac-concept]] · [[aku-ltgp-cac-3-a-1-claim]] · [[aku-validar-economia-clave-claim]] · [[aku-cltv-cac-dual-optimization]]
 
 **supports** → [[aku-payout-afiliados-tiers-concept]]

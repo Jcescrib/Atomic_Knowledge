@@ -41,6 +41,8 @@ relations:
   contradicts: []
   related:
     - aku-construye-habitos-que-encajen-con-tu-personalidad-big-five-concept
+    - aku-cuando-aplicar-tests-personalidad-concept
+    - aku-test-personalidad-solo-preferencias-claim
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -56,4 +58,4 @@ status_note: ""
 
 **supported_by** ← [[aku-tests-personalidad-concept]]
 
-**related** ↔ [[aku-construye-habitos-que-encajen-con-tu-personalidad-big-five-concept]]
+**related** ↔ [[aku-construye-habitos-que-encajen-con-tu-personalidad-big-five-concept]] · [[aku-cuando-aplicar-tests-personalidad-concept]] · [[aku-test-personalidad-solo-preferencias-claim]]

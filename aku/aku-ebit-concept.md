@@ -25,13 +25,18 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-margen-ebit-method]
+  supports:
+    - aku-margen-ebit-method
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-ebitda-concept, aku-beneficio-neto-concept, aku-gastos-financieros-concept]
+  related:
+    - aku-ebitda-concept
+    - aku-beneficio-neto-concept
+    - aku-gastos-financieros-concept
+    - aku-margen-bruto-concept
 
 sources:
   - raw/cursos/power-mba/09-02-01-ratios-analisis-financieros/09-02-01-ratios-analisis-financieros.md
@@ -45,4 +50,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-margen-ebit-method]]
-**related** ↔ [[aku-ebitda-concept]] · [[aku-beneficio-neto-concept]] · [[aku-gastos-financieros-concept]]
+**related** ↔ [[aku-ebitda-concept]] · [[aku-beneficio-neto-concept]] · [[aku-gastos-financieros-concept]] · [[aku-margen-bruto-concept]]

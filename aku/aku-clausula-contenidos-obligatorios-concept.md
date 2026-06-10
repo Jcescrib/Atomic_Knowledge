@@ -25,14 +25,24 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-clausulas-contrato-influencers-concept]
+  supported_by:
+    - aku-clausulas-contrato-influencers-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-clausula-briefing-concept
+    - aku-clausula-contenidos-relacionados-concept
+    - aku-clausula-envio-resultados-influencer-concept
+    - aku-clausula-exclusividad-influencer-concept
+    - aku-clausula-extension-contenidos-concept
+    - aku-clausula-formato-contenidos-concept
+    - aku-clausula-periodicidad-calendario-concept
+    - aku-clausula-previsualizacion-aprobacion-concept
+    - aku-clausula-remuneracion-influencer-concept
 
 sources:
   - raw/cursos/power-mba/14-03-cl-ausulas-de-un-contrato-con-influencers/14-03-cl-ausulas-de-un-contrato-con-influencers.md
@@ -46,3 +56,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-clausulas-contrato-influencers-concept]]
+
+**related** ↔ [[aku-clausula-briefing-concept]] · [[aku-clausula-contenidos-relacionados-concept]] · [[aku-clausula-envio-resultados-influencer-concept]] · [[aku-clausula-exclusividad-influencer-concept]] · [[aku-clausula-extension-contenidos-concept]] · [[aku-clausula-formato-contenidos-concept]] · [[aku-clausula-periodicidad-calendario-concept]] · [[aku-clausula-previsualizacion-aprobacion-concept]] · [[aku-clausula-remuneracion-influencer-concept]]

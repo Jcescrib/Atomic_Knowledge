@@ -44,6 +44,8 @@ relations:
     - aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim
     - aku-stress-bueno-y-malo-cortisol-claim
     - aku-power-nap-pies-elevados-method
+    - aku-liderazgo-concept
+    - aku-autoliderazgo-prerequisito-claim
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -58,4 +60,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-tres-capas-liderazgo-concept]] · [[aku-disciplina-se-extiende-a-todo-claim]]
-**related** ↔ [[aku-mindfulness-concept]] · [[aku-ikigai-concept]] · [[aku-minimalismo-digital-concept]] · [[aku-diagnostico-estrategico-personal-concept]] · [[aku-the-evaluation-concept]] · [[aku-evaluation-health-concept]] · [[aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim]] · [[aku-stress-bueno-y-malo-cortisol-claim]] · [[aku-power-nap-pies-elevados-method]]
+**related** ↔ [[aku-mindfulness-concept]] · [[aku-ikigai-concept]] · [[aku-minimalismo-digital-concept]] · [[aku-diagnostico-estrategico-personal-concept]] · [[aku-the-evaluation-concept]] · [[aku-evaluation-health-concept]] · [[aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim]] · [[aku-stress-bueno-y-malo-cortisol-claim]] · [[aku-power-nap-pies-elevados-method]] · [[aku-liderazgo-concept]] · [[aku-autoliderazgo-prerequisito-claim]]

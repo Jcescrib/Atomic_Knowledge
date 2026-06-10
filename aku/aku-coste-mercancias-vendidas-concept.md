@@ -26,13 +26,22 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-rotacion-existencias-method]
+  supports:
+    - aku-rotacion-existencias-method
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-gastos-contables-concept, aku-existencias-concept, aku-margen-bruto-concept]
+  related:
+    - aku-gastos-contables-concept
+    - aku-existencias-concept
+    - aku-margen-bruto-concept
+    - aku-gastos-de-explotacion-concept
+    - aku-sueldos-y-salarios-concept
+    - aku-gastos-financieros-concept
+    - aku-amortizacion-concept
+    - aku-provisiones-concept
 
 sources:
   - raw/cursos/power-mba/09-01-02-detalle-cuentas-estado-resultados/09-01-02-detalle-cuentas-estado-resultados.md
@@ -46,4 +55,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-rotacion-existencias-method]]
-**related** ↔ [[aku-gastos-contables-concept]] · [[aku-existencias-concept]] · [[aku-margen-bruto-concept]]
+**related** ↔ [[aku-gastos-contables-concept]] · [[aku-existencias-concept]] · [[aku-margen-bruto-concept]] · [[aku-gastos-de-explotacion-concept]] · [[aku-sueldos-y-salarios-concept]] · [[aku-gastos-financieros-concept]] · [[aku-amortizacion-concept]] · [[aku-provisiones-concept]]

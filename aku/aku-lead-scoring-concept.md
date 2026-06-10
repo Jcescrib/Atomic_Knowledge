@@ -35,6 +35,9 @@ relations:
     - aku-lead-nurturing-concept
     - aku-marketing-automation-concept
     - aku-prioritize-and-execute-concept
+    - aku-estados-lead-funnel-concept
+    - aku-lead-concept
+    - aku-nurturing-segun-complejidad-claim
 
 sources:
   - raw/cursos/power-mba/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-lead-nurturing-concept]] · [[aku-marketing-automation-concept]] · [[aku-prioritize-and-execute-concept]]
+**related** ↔ [[aku-lead-nurturing-concept]] · [[aku-marketing-automation-concept]] · [[aku-prioritize-and-execute-concept]] · [[aku-estados-lead-funnel-concept]] · [[aku-lead-concept]] · [[aku-nurturing-segun-complejidad-claim]]

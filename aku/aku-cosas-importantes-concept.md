@@ -44,6 +44,8 @@ relations:
     - aku-dolor-es-el-pitch-claim
     - aku-dream-outcome-concept
     - aku-vete-a-beneficios-ultimos-claim
+    - aku-gente-no-tiene-claro-que-busca-claim
+    - aku-competencia-amplia-concept
 
 sources:
   - "raw/cursos/power-mba/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a.md"
@@ -56,4 +58,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-beneficio-emocional-concept]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-propuesta-de-valor-concept]] · [[aku-conversacion-mente-cliente-concept]] · [[aku-dolor-es-el-pitch-claim]] · [[aku-dream-outcome-concept]] · [[aku-vete-a-beneficios-ultimos-claim]]
+**related** ↔ [[aku-beneficio-emocional-concept]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-propuesta-de-valor-concept]] · [[aku-conversacion-mente-cliente-concept]] · [[aku-dolor-es-el-pitch-claim]] · [[aku-dream-outcome-concept]] · [[aku-vete-a-beneficios-ultimos-claim]] · [[aku-gente-no-tiene-claro-que-busca-claim]] · [[aku-competencia-amplia-concept]]

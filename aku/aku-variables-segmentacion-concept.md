@@ -41,6 +41,7 @@ relations:
     - aku-importancia-segmentacion-claim
     - aku-segmentos-vs-personas-concept
     - aku-customer-persona-dimensiones-analisis-concept
+    - aku-early-adopter-concept
 
 sources:
   - "raw/cursos/power-mba/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md"
@@ -53,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-segmentos-de-clientes-concept]] · [[aku-customer-persona-concept]] · [[aku-importancia-segmentacion-claim]] · [[aku-segmentos-vs-personas-concept]] · [[aku-customer-persona-dimensiones-analisis-concept]]
+**related** ↔ [[aku-segmentos-de-clientes-concept]] · [[aku-customer-persona-concept]] · [[aku-importancia-segmentacion-claim]] · [[aku-segmentos-vs-personas-concept]] · [[aku-customer-persona-dimensiones-analisis-concept]] · [[aku-early-adopter-concept]]

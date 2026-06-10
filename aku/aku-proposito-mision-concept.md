@@ -43,6 +43,7 @@ relations:
     - aku-ikigai-concept
     - aku-mejores-lideres-mision-no-ego-claim
     - aku-commanders-intent-concept
+    - aku-atributos-marca-concept
 
 sources:
   - raw/cursos/power-mba/4-4-branding/4-4-branding.md
@@ -57,4 +58,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-circulo-dorado-concept]] · [[aku-plan-de-marca-concept]] · [[aku-cascada-estrategica-ejecucion-concept]]
-**related** ↔ [[aku-valores-marca-concept]] · [[aku-marca-concept]] · [[aku-vision-empresa-concept]] · [[aku-ikigai-concept]] · [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-commanders-intent-concept]]
+**related** ↔ [[aku-valores-marca-concept]] · [[aku-marca-concept]] · [[aku-vision-empresa-concept]] · [[aku-ikigai-concept]] · [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-commanders-intent-concept]] · [[aku-atributos-marca-concept]]

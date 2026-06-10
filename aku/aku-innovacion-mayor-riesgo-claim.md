@@ -26,11 +26,21 @@ relations:
   supported_by: []
   supports: []
   constrained_by: []
-  constrains: [aku-riesgo-modelo-concept]
+  constrains:
+    - aku-riesgo-modelo-concept
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-innovar-vs-competir-concept, aku-perfil-modelo-innovador-vs-menos-innovador-concept]
+  related:
+    - aku-innovar-vs-competir-concept
+    - aku-perfil-modelo-innovador-vs-menos-innovador-concept
+    - aku-implicaciones-modelo-negocio-concept
+    - aku-conocimientos-habilidades-modelo-concept
+    - aku-contactos-modelo-concept
+    - aku-financiacion-necesaria-modelo-concept
+    - aku-ingresos-punto-muerto-modelo-concept
+    - aku-potencial-modelo-concept
+    - aku-primeros-pasos-modelo-concept
 
 sources:
   - raw/cursos/power-mba/6-1-01-fit-entre-tu-proyecto-y-tu/6-1-01-fit-entre-tu-proyecto-y-tu.md
@@ -45,4 +55,4 @@ status_note: ""
 
 **constrains** → [[aku-riesgo-modelo-concept]]
 
-**related** ↔ [[aku-innovar-vs-competir-concept]] · [[aku-perfil-modelo-innovador-vs-menos-innovador-concept]]
+**related** ↔ [[aku-innovar-vs-competir-concept]] · [[aku-perfil-modelo-innovador-vs-menos-innovador-concept]] · [[aku-implicaciones-modelo-negocio-concept]] · [[aku-conocimientos-habilidades-modelo-concept]] · [[aku-contactos-modelo-concept]] · [[aku-financiacion-necesaria-modelo-concept]] · [[aku-ingresos-punto-muerto-modelo-concept]] · [[aku-potencial-modelo-concept]] · [[aku-primeros-pasos-modelo-concept]]

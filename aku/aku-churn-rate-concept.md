@@ -44,6 +44,9 @@ relations:
     - aku-referral-growth-exponential-claim
     - aku-continuity-offer-concept
     - aku-cohort-cap-concept
+    - aku-cltv-gross-margin-over-revenue
+    - aku-cltv-transactional-formula
+    - aku-arpu-concept
 
 sources:
   - "raw/cursos/power-mba/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md"
@@ -60,4 +63,4 @@ status_note: ""
 
 **supports** → [[aku-cltv-subscription-formula]]
 
-**related** ↔ [[aku-cltv-concept]] · [[aku-motor-crecimiento-sticky-concept]] · [[aku-metricas-accionables-concept]] · [[aku-fidelizacion-vs-retencion-concept]] · [[aku-lifetime-concept]] · [[aku-referral-growth-exponential-claim]] · [[aku-continuity-offer-concept]] · [[aku-cohort-cap-concept]]
+**related** ↔ [[aku-cltv-concept]] · [[aku-motor-crecimiento-sticky-concept]] · [[aku-metricas-accionables-concept]] · [[aku-fidelizacion-vs-retencion-concept]] · [[aku-lifetime-concept]] · [[aku-referral-growth-exponential-claim]] · [[aku-continuity-offer-concept]] · [[aku-cohort-cap-concept]] · [[aku-cltv-gross-margin-over-revenue]] · [[aku-cltv-transactional-formula]] · [[aku-arpu-concept]]

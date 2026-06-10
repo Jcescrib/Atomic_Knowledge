@@ -33,6 +33,12 @@ relations:
   contradicts: []
   related:
     - aku-giveaway-offer-concept
+    - aku-robapaginas-concept
+    - aku-banner-display-concept
+    - aku-formatos-flotantes-concept
+    - aku-display-video-in-stream-concept
+    - aku-display-video-out-stream-concept
+    - aku-adaptacion-display-a-movil-claim
 
 sources:
   - raw/cursos/power-mba/5-4-3-formatos-de-anuncios-display/5-4-3-formatos-de-anuncios-display.md
@@ -47,4 +53,4 @@ status_note: ""
 
 **supported_by** ← [[aku-clasificacion-display-por-movimiento-concept]]
 
-**related** ↔ [[aku-giveaway-offer-concept]]
+**related** ↔ [[aku-giveaway-offer-concept]] · [[aku-robapaginas-concept]] · [[aku-banner-display-concept]] · [[aku-formatos-flotantes-concept]] · [[aku-display-video-in-stream-concept]] · [[aku-display-video-out-stream-concept]] · [[aku-adaptacion-display-a-movil-claim]]

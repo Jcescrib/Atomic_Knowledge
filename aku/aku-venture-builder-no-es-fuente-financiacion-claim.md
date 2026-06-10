@@ -26,11 +26,15 @@ relations:
   supported_by: []
   supports: []
   constrained_by: []
-  constrains: [aku-venture-builder-concept]
+  constrains:
+    - aku-venture-builder-concept
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-fuentes-financiacion-concept]
+  related:
+    - aku-fuentes-financiacion-concept
+    - aku-media-4-equity-concept
+    - aku-socio-industrial-concept
 
 sources:
   - raw/cursos/power-mba/6-3-01-fuentes-financiacion-quien-ok/6-3-01-fuentes-financiacion-quien-ok.md
@@ -45,4 +49,4 @@ status_note: ""
 
 **constrains** → [[aku-venture-builder-concept]]
 
-**related** ↔ [[aku-fuentes-financiacion-concept]]
+**related** ↔ [[aku-fuentes-financiacion-concept]] · [[aku-media-4-equity-concept]] · [[aku-socio-industrial-concept]]

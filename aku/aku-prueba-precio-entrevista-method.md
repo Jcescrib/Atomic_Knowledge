@@ -36,6 +36,9 @@ relations:
   related:
     - aku-falso-positivo-validation-concept
     - aku-empezar-cobrar-cuando-refieren-claim
+    - aku-explorar-alternativas-actuales-method
+    - aku-desglosar-propuesta-valor-componentes-method
+    - aku-validar-mensajes-comunicacion-method
 
 sources:
   - "raw/cursos/power-mba/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos.md"
@@ -50,4 +53,4 @@ status_note: ""
 
 **supported_by** ← [[aku-entrevista-problem-solution-concept]]
 
-**related** ↔ [[aku-falso-positivo-validation-concept]] · [[aku-empezar-cobrar-cuando-refieren-claim]]
+**related** ↔ [[aku-falso-positivo-validation-concept]] · [[aku-empezar-cobrar-cuando-refieren-claim]] · [[aku-explorar-alternativas-actuales-method]] · [[aku-desglosar-propuesta-valor-componentes-method]] · [[aku-validar-mensajes-comunicacion-method]]

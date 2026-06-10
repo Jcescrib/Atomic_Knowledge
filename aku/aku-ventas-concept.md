@@ -26,13 +26,25 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-margen-bruto-sobre-ventas-method, aku-margen-ebitda-method, aku-margen-ebit-method, aku-margen-neto-method, aku-rotacion-activo-method, aku-ev-ventas-method]
+  supports:
+    - aku-margen-bruto-sobre-ventas-method
+    - aku-margen-ebitda-method
+    - aku-margen-ebit-method
+    - aku-margen-neto-method
+    - aku-rotacion-activo-method
+    - aku-ev-ventas-method
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-ingresos-contables-concept, aku-multiplo-concept]
+  related:
+    - aku-ingresos-contables-concept
+    - aku-multiplo-concept
+    - aku-ingresos-prestaciones-servicios-concept
+    - aku-ingresos-por-arrendamientos-concept
+    - aku-ingresos-financieros-concept
+    - aku-subvenciones-concept
 
 sources:
   - raw/cursos/power-mba/09-01-02-detalle-cuentas-estado-resultados/09-01-02-detalle-cuentas-estado-resultados.md
@@ -46,4 +58,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-margen-bruto-sobre-ventas-method]] · [[aku-margen-ebitda-method]] · [[aku-margen-ebit-method]] · [[aku-margen-neto-method]] · [[aku-rotacion-activo-method]] · [[aku-ev-ventas-method]]
-**related** ↔ [[aku-ingresos-contables-concept]] · [[aku-multiplo-concept]]
+**related** ↔ [[aku-ingresos-contables-concept]] · [[aku-multiplo-concept]] · [[aku-ingresos-prestaciones-servicios-concept]] · [[aku-ingresos-por-arrendamientos-concept]] · [[aku-ingresos-financieros-concept]] · [[aku-subvenciones-concept]]

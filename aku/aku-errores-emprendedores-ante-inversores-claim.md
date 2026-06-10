@@ -30,7 +30,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-levantar-financiacion-como-ventas-claim, aku-criterios-inversion-concept]
+  related:
+    - aku-levantar-financiacion-como-ventas-claim
+    - aku-criterios-inversion-concept
+    - aku-proceso-analisis-inversion-concept
 
 sources:
   - raw/cursos/power-mba/6-3-1-vender-tu-proyecto/6-3-1-vender-tu-proyecto.md
@@ -43,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-levantar-financiacion-como-ventas-claim]] · [[aku-criterios-inversion-concept]]
+**related** ↔ [[aku-levantar-financiacion-como-ventas-claim]] · [[aku-criterios-inversion-concept]] · [[aku-proceso-analisis-inversion-concept]]

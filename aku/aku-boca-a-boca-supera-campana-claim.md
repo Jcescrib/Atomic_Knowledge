@@ -35,6 +35,8 @@ relations:
     - aku-leyes-persuasion-cialdini-concept
     - aku-cialdini-prueba-social-concept
     - aku-referral-growth-exponential-claim
+    - aku-recomendacion-depende-producto-claim
+    - aku-viralizacion-coste-cercano-cero-claim
 
 sources:
   - raw/cursos/power-mba/5-8-1-conceptos-clave-recomendacion-y-viralizacion/5-8-1-conceptos-clave-recomendacion-y-viralizacion.md
@@ -48,4 +50,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-recomendacion-vs-viralizacion-concept]]
-**related** ↔ [[aku-leyes-persuasion-cialdini-concept]] · [[aku-cialdini-prueba-social-concept]] · [[aku-referral-growth-exponential-claim]]
+**related** ↔ [[aku-leyes-persuasion-cialdini-concept]] · [[aku-cialdini-prueba-social-concept]] · [[aku-referral-growth-exponential-claim]] · [[aku-recomendacion-depende-producto-claim]] · [[aku-viralizacion-coste-cercano-cero-claim]]

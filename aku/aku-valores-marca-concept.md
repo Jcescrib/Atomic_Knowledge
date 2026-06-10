@@ -27,13 +27,18 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-cascada-estrategica-ejecucion-concept]
+  supports:
+    - aku-cascada-estrategica-ejecucion-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-proposito-mision-concept, aku-atributos-marca-concept, aku-cialdini-simpatia-concept]
+  related:
+    - aku-proposito-mision-concept
+    - aku-atributos-marca-concept
+    - aku-cialdini-simpatia-concept
+    - aku-circulo-dorado-concept
 
 sources:
   - raw/cursos/power-mba/4-4-branding/4-4-branding.md
@@ -48,4 +53,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-cascada-estrategica-ejecucion-concept]]
-**related** ↔ [[aku-proposito-mision-concept]] · [[aku-atributos-marca-concept]] · [[aku-cialdini-simpatia-concept]]
+**related** ↔ [[aku-proposito-mision-concept]] · [[aku-atributos-marca-concept]] · [[aku-cialdini-simpatia-concept]] · [[aku-circulo-dorado-concept]]

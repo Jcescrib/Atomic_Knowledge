@@ -45,6 +45,7 @@ relations:
     - aku-test-de-humo-concept
     - aku-crowdfunding-validacion-concept
     - aku-lista-de-espera-concept
+    - aku-hipotesis-concept
 
 sources:
   - "raw/cursos/power-mba/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md"
@@ -59,4 +60,4 @@ status_note: ""
 
 **supported_by** ← [[aku-aprender-clientes-reales-claim]]
 
-**related** ↔ [[aku-lean-startup-method-concept]] · [[aku-build-measure-learn-concept]] · [[aku-mvp-concept]] · [[aku-mago-de-oz-mvp-concept]] · [[aku-test-de-humo-concept]] · [[aku-crowdfunding-validacion-concept]] · [[aku-lista-de-espera-concept]]
+**related** ↔ [[aku-lean-startup-method-concept]] · [[aku-build-measure-learn-concept]] · [[aku-mvp-concept]] · [[aku-mago-de-oz-mvp-concept]] · [[aku-test-de-humo-concept]] · [[aku-crowdfunding-validacion-concept]] · [[aku-lista-de-espera-concept]] · [[aku-hipotesis-concept]]

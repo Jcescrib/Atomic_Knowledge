@@ -35,6 +35,12 @@ relations:
     - aku-cialdini-reciprocidad-concept
     - aku-lead-magnet-concept
     - aku-inbound-marketing-concept
+    - aku-agrupa-contenido-en-series-tematicas-claim
+    - aku-aprende-que-contenido-funciona-y-replica-claim
+    - aku-define-publico-objetivo-antes-de-generar-contenido-claim
+    - aku-inspirate-en-contenido-de-calidad-de-otros-claim
+    - aku-regularidad-importa-mas-que-frecuencia-claim
+    - aku-titulos-llamativos-cortos-evita-clickbait-claim
 
 sources:
   - raw/cursos/power-mba/5-4-10-tips-para-la-generaci-on-de-contenidos/5-4-10-tips-para-la-generaci-on-de-contenidos.md
@@ -49,4 +55,4 @@ status_note: ""
 
 **constrains** → [[aku-content-marketing-concept]]
 
-**related** ↔ [[aku-cialdini-reciprocidad-concept]] · [[aku-lead-magnet-concept]] · [[aku-inbound-marketing-concept]]
+**related** ↔ [[aku-cialdini-reciprocidad-concept]] · [[aku-lead-magnet-concept]] · [[aku-inbound-marketing-concept]] · [[aku-agrupa-contenido-en-series-tematicas-claim]] · [[aku-aprende-que-contenido-funciona-y-replica-claim]] · [[aku-define-publico-objetivo-antes-de-generar-contenido-claim]] · [[aku-inspirate-en-contenido-de-calidad-de-otros-claim]] · [[aku-regularidad-importa-mas-que-frecuencia-claim]] · [[aku-titulos-llamativos-cortos-evita-clickbait-claim]]

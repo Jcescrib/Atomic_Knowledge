@@ -23,14 +23,17 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-ventas-concept, aku-activo-concept]
+  supported_by:
+    - aku-ventas-concept
+    - aku-activo-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-rotacion-existencias-method
 
 sources:
   - raw/cursos/power-mba/09-02-01-ratios-analisis-financieros/09-02-01-ratios-analisis-financieros.md
@@ -44,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-ventas-concept]] · [[aku-activo-concept]]
+
+**related** ↔ [[aku-rotacion-existencias-method]]

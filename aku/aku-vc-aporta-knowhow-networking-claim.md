@@ -22,14 +22,18 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-venture-capital-concept]
+  supported_by:
+    - aku-venture-capital-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-vc-busca-x10-claim
+    - aku-vc-no-invierte-en-seed-claim
+    - aku-portfolio-vc-10-20-exito-claim
 
 sources:
   - raw/cursos/power-mba/6-3-01-fuentes-financiacion-quien-ok/6-3-01-fuentes-financiacion-quien-ok.md
@@ -43,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-venture-capital-concept]]
+
+**related** ↔ [[aku-vc-busca-x10-claim]] · [[aku-vc-no-invierte-en-seed-claim]] · [[aku-portfolio-vc-10-20-exito-claim]]

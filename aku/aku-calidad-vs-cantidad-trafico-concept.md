@@ -33,7 +33,12 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-palancas-marketing-digital-concept, aku-power-funnel-concept, aku-parte-alta-funnel-condiciona-resto-claim]
+  related:
+    - aku-palancas-marketing-digital-concept
+    - aku-power-funnel-concept
+    - aku-parte-alta-funnel-condiciona-resto-claim
+    - aku-branding-concept
+    - aku-canales-marketing-digital-concept
 
 sources:
   - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
@@ -46,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-palancas-marketing-digital-concept]] · [[aku-power-funnel-concept]] · [[aku-parte-alta-funnel-condiciona-resto-claim]]
+**related** ↔ [[aku-palancas-marketing-digital-concept]] · [[aku-power-funnel-concept]] · [[aku-parte-alta-funnel-condiciona-resto-claim]] · [[aku-branding-concept]] · [[aku-canales-marketing-digital-concept]]

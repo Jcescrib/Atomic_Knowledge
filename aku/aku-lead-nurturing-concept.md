@@ -41,6 +41,7 @@ relations:
     - aku-email-marketing-concept
     - aku-solve-every-problem-claim
     - aku-resolver-cada-problema-percibido-claim
+    - aku-estados-lead-funnel-concept
 
 sources:
   - raw/cursos/power-mba/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google/5-5-1-conceptos-clave-captaci-on-y-nurturing-de-leads-documentos-de-google.md
@@ -53,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-lead-concept]] · [[aku-marketing-automation-concept]] · [[aku-nurturing-segun-complejidad-claim]] · [[aku-funnel-corto-vs-largo-concept]] · [[aku-lead-scoring-concept]] · [[aku-email-marketing-concept]] · [[aku-solve-every-problem-claim]] · [[aku-resolver-cada-problema-percibido-claim]]
+**related** ↔ [[aku-lead-concept]] · [[aku-marketing-automation-concept]] · [[aku-nurturing-segun-complejidad-claim]] · [[aku-funnel-corto-vs-largo-concept]] · [[aku-lead-scoring-concept]] · [[aku-email-marketing-concept]] · [[aku-solve-every-problem-claim]] · [[aku-resolver-cada-problema-percibido-claim]] · [[aku-estados-lead-funnel-concept]]

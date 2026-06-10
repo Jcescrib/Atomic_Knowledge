@@ -31,7 +31,14 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-liderazgo-en-coste-concept, aku-diferenciacion-mayores-margenes-claim, aku-margen-bruto-concept]
+  related:
+    - aku-liderazgo-en-coste-concept
+    - aku-diferenciacion-mayores-margenes-claim
+    - aku-margen-bruto-concept
+    - aku-margen-bruto-sobre-ventas-method
+    - aku-margen-ebitda-method
+    - aku-margen-ebit-method
+    - aku-margen-neto-method
 
 sources:
   - raw/cursos/power-mba/09-02-01-ratios-analisis-financieros/09-02-01-ratios-analisis-financieros.md
@@ -44,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-liderazgo-en-coste-concept]] · [[aku-diferenciacion-mayores-margenes-claim]] · [[aku-margen-bruto-concept]]
+**related** ↔ [[aku-liderazgo-en-coste-concept]] · [[aku-diferenciacion-mayores-margenes-claim]] · [[aku-margen-bruto-concept]] · [[aku-margen-bruto-sobre-ventas-method]] · [[aku-margen-ebitda-method]] · [[aku-margen-ebit-method]] · [[aku-margen-neto-method]]

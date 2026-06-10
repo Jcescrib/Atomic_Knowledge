@@ -33,6 +33,8 @@ relations:
   related:
     - aku-diagnostico-estrategico-personal-concept
     - aku-evaluation-professional-development-concept
+    - aku-claridad-objetivos-fortalezas-exito-claim
+    - aku-fortalezas-debilidades-motivaciones-concept
 
 sources:
   - raw/cursos/power-mba/08-01-01-diagnostico-desarrollo-personal/08-01-01-diagnostico-desarrollo-personal.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-diagnostico-estrategico-personal-concept]] · [[aku-evaluation-professional-development-concept]]
+**related** ↔ [[aku-diagnostico-estrategico-personal-concept]] · [[aku-evaluation-professional-development-concept]] · [[aku-claridad-objetivos-fortalezas-exito-claim]] · [[aku-fortalezas-debilidades-motivaciones-concept]]

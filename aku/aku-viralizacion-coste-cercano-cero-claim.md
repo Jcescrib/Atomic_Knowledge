@@ -27,11 +27,15 @@ relations:
   supported_by: []
   supports: []
   constrained_by: []
-  constrains: [aku-recomendacion-vs-viralizacion-concept]
+  constrains:
+    - aku-recomendacion-vs-viralizacion-concept
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-cac-concept]
+  related:
+    - aku-cac-concept
+    - aku-boca-a-boca-supera-campana-claim
+    - aku-recomendacion-depende-producto-claim
 
 sources:
   - raw/cursos/power-mba/5-8-1-conceptos-clave-recomendacion-y-viralizacion/5-8-1-conceptos-clave-recomendacion-y-viralizacion.md
@@ -45,4 +49,4 @@ status_note: ""
 ## Relaciones
 
 **constrains** → [[aku-recomendacion-vs-viralizacion-concept]]
-**related** ↔ [[aku-cac-concept]]
+**related** ↔ [[aku-cac-concept]] · [[aku-boca-a-boca-supera-campana-claim]] · [[aku-recomendacion-depende-producto-claim]]

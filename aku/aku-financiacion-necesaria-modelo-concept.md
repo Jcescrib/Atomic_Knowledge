@@ -25,14 +25,23 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-implicaciones-modelo-negocio-concept]
+  supported_by:
+    - aku-implicaciones-modelo-negocio-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-fuentes-financiacion-concept]
+  related:
+    - aku-fuentes-financiacion-concept
+    - aku-conocimientos-habilidades-modelo-concept
+    - aku-contactos-modelo-concept
+    - aku-ingresos-punto-muerto-modelo-concept
+    - aku-potencial-modelo-concept
+    - aku-primeros-pasos-modelo-concept
+    - aku-riesgo-modelo-concept
+    - aku-innovacion-mayor-riesgo-claim
 
 sources:
   - raw/cursos/power-mba/6-1-01-fit-entre-tu-proyecto-y-tu/6-1-01-fit-entre-tu-proyecto-y-tu.md
@@ -47,4 +56,4 @@ status_note: ""
 
 **supported_by** ← [[aku-implicaciones-modelo-negocio-concept]]
 
-**related** ↔ [[aku-fuentes-financiacion-concept]]
+**related** ↔ [[aku-fuentes-financiacion-concept]] · [[aku-conocimientos-habilidades-modelo-concept]] · [[aku-contactos-modelo-concept]] · [[aku-ingresos-punto-muerto-modelo-concept]] · [[aku-potencial-modelo-concept]] · [[aku-primeros-pasos-modelo-concept]] · [[aku-riesgo-modelo-concept]] · [[aku-innovacion-mayor-riesgo-claim]]

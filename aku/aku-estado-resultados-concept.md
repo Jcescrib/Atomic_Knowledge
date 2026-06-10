@@ -31,7 +31,12 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-ingresos-contables-concept, aku-gastos-contables-concept, aku-balance-situacion-concept, aku-beneficio-neto-concept]
+  related:
+    - aku-ingresos-contables-concept
+    - aku-gastos-contables-concept
+    - aku-balance-situacion-concept
+    - aku-beneficio-neto-concept
+    - aku-partidas-extraordinarias-concept
 
 sources:
   - raw/cursos/power-mba/09-01-02-detalle-cuentas-estado-resultados/09-01-02-detalle-cuentas-estado-resultados.md
@@ -44,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-ingresos-contables-concept]] · [[aku-gastos-contables-concept]] · [[aku-balance-situacion-concept]] · [[aku-beneficio-neto-concept]]
+**related** ↔ [[aku-ingresos-contables-concept]] · [[aku-gastos-contables-concept]] · [[aku-balance-situacion-concept]] · [[aku-beneficio-neto-concept]] · [[aku-partidas-extraordinarias-concept]]

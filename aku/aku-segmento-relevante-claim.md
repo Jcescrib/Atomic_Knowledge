@@ -31,7 +31,13 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-bmc-concept
+    - aku-bmc-cambio-bloque-desplaza-otros-claim
+    - aku-canales-de-distribucion-concept
+    - aku-canal-directo-concept
+    - aku-canal-indirecto-concept
+    - aku-relaciones-con-clientes-concept
 
 sources:
   - "raw/cursos/power-mba/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc.md"
@@ -45,3 +51,5 @@ status_note: ""
 ## Relaciones
 
 **constrains** → [[aku-segmentos-de-clientes-concept]]
+
+**related** ↔ [[aku-bmc-concept]] · [[aku-bmc-cambio-bloque-desplaza-otros-claim]] · [[aku-canales-de-distribucion-concept]] · [[aku-canal-directo-concept]] · [[aku-canal-indirecto-concept]] · [[aku-relaciones-con-clientes-concept]]

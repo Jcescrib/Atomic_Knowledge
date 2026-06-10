@@ -35,6 +35,10 @@ relations:
   contradicts: []
   related:
     - aku-ltgp-cac-3-a-1-claim
+    - aku-cltv-gross-margin-over-revenue
+    - aku-arpu-concept
+    - aku-lifetime-concept
+    - aku-churn-rate-concept
 
 sources:
   - "raw/cursos/power-mba/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md"
@@ -53,4 +57,4 @@ status_note: ""
 
 **breaks_context_of** → [[aku-cltv-subscription-formula]]
 
-**related** ↔ [[aku-ltgp-cac-3-a-1-claim]]
+**related** ↔ [[aku-ltgp-cac-3-a-1-claim]] · [[aku-cltv-gross-margin-over-revenue]] · [[aku-arpu-concept]] · [[aku-lifetime-concept]] · [[aku-churn-rate-concept]]

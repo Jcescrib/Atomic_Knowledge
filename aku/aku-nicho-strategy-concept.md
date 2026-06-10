@@ -54,6 +54,7 @@ relations:
     - aku-comparativa-mass-market-vs-nicho-concept
     - aku-tres-mercados-eternos-concept
     - aku-segmentar-la-copy-por-necesidades-distintas-claim
+    - aku-importancia-segmentacion-claim
 
 sources:
   - "raw/cursos/power-mba/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md"
@@ -71,4 +72,4 @@ status_note: ""
 
 **supports** → [[aku-estrategias-genericas-porter-concept]] · [[aku-segmentacion-especializada-coste-vs-diferenciacion-concept]]
 
-**related** ↔ [[aku-mass-market-strategy-concept]] · [[aku-segmentado-strategy-concept]] · [[aku-early-adopter-concept]] · [[aku-product-market-fit-concept]] · [[aku-riches-in-niches-pricing-claim]] · [[aku-commit-to-niche-claim]] · [[aku-ventajas-estrategia-nicho-claim]] · [[aku-posicionamiento-especialista-de-nicho-concept]] · [[aku-foco-early-adopters-match-brutal-claim]] · [[aku-comparativa-mass-market-vs-nicho-concept]] · [[aku-tres-mercados-eternos-concept]] · [[aku-segmentar-la-copy-por-necesidades-distintas-claim]]
+**related** ↔ [[aku-mass-market-strategy-concept]] · [[aku-segmentado-strategy-concept]] · [[aku-early-adopter-concept]] · [[aku-product-market-fit-concept]] · [[aku-riches-in-niches-pricing-claim]] · [[aku-commit-to-niche-claim]] · [[aku-ventajas-estrategia-nicho-claim]] · [[aku-posicionamiento-especialista-de-nicho-concept]] · [[aku-foco-early-adopters-match-brutal-claim]] · [[aku-comparativa-mass-market-vs-nicho-concept]] · [[aku-tres-mercados-eternos-concept]] · [[aku-segmentar-la-copy-por-necesidades-distintas-claim]] · [[aku-importancia-segmentacion-claim]]

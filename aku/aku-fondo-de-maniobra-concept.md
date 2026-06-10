@@ -25,13 +25,21 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-ratio-liquidez-method]
+  supports:
+    - aku-ratio-liquidez-method
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-necesidades-operativas-fondos-concept, aku-periodo-medio-maduracion-concept, aku-activo-corriente-concept, aku-pasivo-corriente-concept]
+  related:
+    - aku-necesidades-operativas-fondos-concept
+    - aku-periodo-medio-maduracion-concept
+    - aku-activo-corriente-concept
+    - aku-pasivo-corriente-concept
+    - aku-liquidez-concept
+    - aku-acid-test-method
+    - aku-ratio-tesoreria-method
 
 sources:
   - raw/cursos/power-mba/09-02-01-ratios-analisis-financieros/09-02-01-ratios-analisis-financieros.md
@@ -45,4 +53,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ratio-liquidez-method]]
-**related** ↔ [[aku-necesidades-operativas-fondos-concept]] · [[aku-periodo-medio-maduracion-concept]] · [[aku-activo-corriente-concept]] · [[aku-pasivo-corriente-concept]]
+**related** ↔ [[aku-necesidades-operativas-fondos-concept]] · [[aku-periodo-medio-maduracion-concept]] · [[aku-activo-corriente-concept]] · [[aku-pasivo-corriente-concept]] · [[aku-liquidez-concept]] · [[aku-acid-test-method]] · [[aku-ratio-tesoreria-method]]

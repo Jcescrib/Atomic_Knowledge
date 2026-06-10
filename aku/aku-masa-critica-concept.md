@@ -44,6 +44,8 @@ relations:
     - aku-factores-crecimiento-blitzscaling-concept
     - aku-blitzscaling-cuando-oportunidad-enorme-claim
     - aku-winner-takes-all-go-to-market-claim
+    - aku-network-effect-concept
+    - aku-circulo-vicioso-concept
 
 sources:
   - "raw/cursos/power-mba/2-3-conceptos-clave-de-las-plataformas/2-3-conceptos-clave-de-las-plataformas.md"
@@ -56,4 +58,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-circulo-virtuoso-concept]] · [[aku-huevo-gallina-concept]] · [[aku-free-bootstrap-plataforma-claim]] · [[aku-barreras-de-entrada-concept]] · [[aku-factores-crecimiento-blitzscaling-concept]] · [[aku-blitzscaling-cuando-oportunidad-enorme-claim]] · [[aku-winner-takes-all-go-to-market-claim]]
+**related** ↔ [[aku-modelo-plataforma-concept]] · [[aku-circulo-virtuoso-concept]] · [[aku-huevo-gallina-concept]] · [[aku-free-bootstrap-plataforma-claim]] · [[aku-barreras-de-entrada-concept]] · [[aku-factores-crecimiento-blitzscaling-concept]] · [[aku-blitzscaling-cuando-oportunidad-enorme-claim]] · [[aku-winner-takes-all-go-to-market-claim]] · [[aku-network-effect-concept]] · [[aku-circulo-vicioso-concept]]

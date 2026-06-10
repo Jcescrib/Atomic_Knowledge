@@ -26,11 +26,15 @@ relations:
   supported_by: []
   supports: []
   constrained_by: []
-  constrains: [aku-red-display-concept, aku-clasificacion-display-por-movimiento-concept]
+  constrains:
+    - aku-red-display-concept
+    - aku-clasificacion-display-por-movimiento-concept
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-adblockers-concept]
+  related:
+    - aku-adblockers-concept
+    - aku-anuncios-aceptables-concept
 
 sources:
   - raw/cursos/power-mba/5-4-4-bloqueadores-de-publicidad/5-4-4-bloqueadores-de-publicidad.md
@@ -44,4 +48,4 @@ status_note: ""
 ## Relaciones
 
 **constrains** → [[aku-red-display-concept]] · [[aku-clasificacion-display-por-movimiento-concept]]
-**related** ↔ [[aku-adblockers-concept]]
+**related** ↔ [[aku-adblockers-concept]] · [[aku-anuncios-aceptables-concept]]

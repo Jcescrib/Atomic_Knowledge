@@ -24,13 +24,21 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-fuentes-financiacion-concept]
+  supports:
+    - aku-fuentes-financiacion-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-venture-capital-concept, aku-fases-financiacion-concept, aku-perfil-modelo-innovador-vs-menos-innovador-concept]
+  related:
+    - aku-venture-capital-concept
+    - aku-fases-financiacion-concept
+    - aku-perfil-modelo-innovador-vs-menos-innovador-concept
+    - aku-bootstrapping-concept
+    - aku-fff-concept
+    - aku-incubadora-aceleradora-concept
+    - aku-equity-crowdfunding-concept
 
 sources:
   - raw/cursos/power-mba/6-3-01-fuentes-financiacion-quien-ok/6-3-01-fuentes-financiacion-quien-ok.md
@@ -44,4 +52,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-fuentes-financiacion-concept]]
-**related** ↔ [[aku-venture-capital-concept]] · [[aku-fases-financiacion-concept]] · [[aku-perfil-modelo-innovador-vs-menos-innovador-concept]]
+**related** ↔ [[aku-venture-capital-concept]] · [[aku-fases-financiacion-concept]] · [[aku-perfil-modelo-innovador-vs-menos-innovador-concept]] · [[aku-bootstrapping-concept]] · [[aku-fff-concept]] · [[aku-incubadora-aceleradora-concept]] · [[aku-equity-crowdfunding-concept]]

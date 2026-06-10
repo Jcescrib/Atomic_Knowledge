@@ -23,14 +23,18 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-liquidez-concept]
+  supported_by:
+    - aku-liquidez-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-ratio-liquidez-method
+    - aku-acid-test-method
+    - aku-fondo-de-maniobra-concept
 
 sources:
   - raw/cursos/power-mba/09-02-01-ratios-analisis-financieros/09-02-01-ratios-analisis-financieros.md
@@ -44,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-liquidez-concept]]
+
+**related** ↔ [[aku-ratio-liquidez-method]] · [[aku-acid-test-method]] · [[aku-fondo-de-maniobra-concept]]

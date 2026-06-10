@@ -20,14 +20,20 @@ human_certainty:
   method: ""
 epistemic_type: sourced
 relations:
-  supported_by: [aku-codigos-utm-concept]
+  supported_by:
+    - aku-codigos-utm-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-construccion-url-utm-method
+    - aku-utm-campaign-concept
+    - aku-utm-content-concept
+    - aku-utm-source-concept
+    - aku-utm-term-concept
 sources:
   - raw/cursos/power-mba/15-3-c-odigos-utm-google-analytics-pptx/15-3-c-odigos-utm-google-analytics-pptx.md
 created: 2026-06-04
@@ -39,3 +45,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-codigos-utm-concept]]
+
+**related** ↔ [[aku-construccion-url-utm-method]] · [[aku-utm-campaign-concept]] · [[aku-utm-content-concept]] · [[aku-utm-source-concept]] · [[aku-utm-term-concept]]

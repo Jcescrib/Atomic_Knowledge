@@ -34,6 +34,12 @@ relations:
   contradicts: []
   related:
     - aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept
+    - aku-formula-titulo-caso-exito-method
+    - aku-formula-titulo-como-lograr-objecion-method
+    - aku-formula-titulo-numero-sustantivo-adjetivo-method
+    - aku-formula-titulo-numero-trucos-resultado-objecion-method
+    - aku-formula-titulo-porque-resultado-method
+    - aku-formula-titulo-resultado-tiempo-objecion-method
 
 sources:
   - raw/cursos/power-mba/20-2-lista-de-f-ormulas-para-escribir-t-itulos-potentes/20-2-lista-de-f-ormulas-para-escribir-t-itulos-potentes.md
@@ -48,4 +54,4 @@ status_note: ""
 
 **supported_by** ← [[aku-formulas-titulos-potentes-concept]]
 
-**related** ↔ [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
+**related** ↔ [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]] · [[aku-formula-titulo-caso-exito-method]] · [[aku-formula-titulo-como-lograr-objecion-method]] · [[aku-formula-titulo-numero-sustantivo-adjetivo-method]] · [[aku-formula-titulo-numero-trucos-resultado-objecion-method]] · [[aku-formula-titulo-porque-resultado-method]] · [[aku-formula-titulo-resultado-tiempo-objecion-method]]

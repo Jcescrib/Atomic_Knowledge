@@ -31,7 +31,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-sinergias-desarrollo-productos-claim
 sources:
   - raw/cursos/power-mba/4-3-estrategias-de-crecimiento/4-3-estrategias-de-crecimiento.md
 created: 2026-06-03
@@ -44,3 +45,5 @@ status_note: ""
 
 **supported_by** ← [[aku-penetracion-mercado-concept]] · [[aku-desarrollo-productos-concept]] · [[aku-desarrollo-mercados-concept]] · [[aku-diversificacion-concept]]
 **supports** → [[aku-riesgo-ansoff-claim]]
+
+**related** ↔ [[aku-sinergias-desarrollo-productos-claim]]

@@ -21,14 +21,18 @@ human_certainty:
   method: ""
 epistemic_type: sourced
 relations:
-  supported_by: [aku-tipos-objetivos-google-analytics-concept]
+  supported_by:
+    - aku-tipos-objetivos-google-analytics-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-ga-objetivo-duracion-concept
+    - aku-ga-objetivo-engagement-concept
+    - aku-ga-objetivo-evento-concept
 sources:
   - raw/cursos/power-mba/15-4-tipos-de-objetivos-google-analytics-pptx/15-4-tipos-de-objetivos-google-analytics-pptx.md
 created: 2026-06-04
@@ -40,3 +44,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-tipos-objetivos-google-analytics-concept]]
+
+**related** ↔ [[aku-ga-objetivo-duracion-concept]] · [[aku-ga-objetivo-engagement-concept]] · [[aku-ga-objetivo-evento-concept]]

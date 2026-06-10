@@ -25,13 +25,15 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-integracion-vertical-adelante-concept]
+  supports:
+    - aku-integracion-vertical-adelante-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-conglomerados-concept
 
 sources:
   - raw/cursos/power-mba/4-3-estrategias-de-crecimiento/4-3-estrategias-de-crecimiento.md
@@ -45,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-integracion-vertical-adelante-concept]]
+
+**related** ↔ [[aku-conglomerados-concept]]

@@ -31,6 +31,10 @@ relations:
   contradicts: []
   related:
     - aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim
+    - aku-plan-medicion-estrategias-concept
+    - aku-plan-medicion-metas-concept
+    - aku-plan-medicion-objetivos-concept
+    - aku-plan-medicion-segmentos-concept
 sources:
   - raw/cursos/power-mba/15-1-plantilla-plan-de-medici-on-xlsx/15-1-plantilla-plan-de-medici-on-xlsx.md
 created: 2026-06-04
@@ -43,4 +47,4 @@ status_note: ""
 
 **supported_by** ← [[aku-plan-de-medicion-concept]]
 
-**related** ↔ [[aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim]]
+**related** ↔ [[aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim]] · [[aku-plan-medicion-estrategias-concept]] · [[aku-plan-medicion-metas-concept]] · [[aku-plan-medicion-objetivos-concept]] · [[aku-plan-medicion-segmentos-concept]]

@@ -36,6 +36,7 @@ relations:
     - aku-estrategia-diferenciacion-concept
     - aku-liderazgo-en-coste-concept
     - aku-alinear-las-caracteristicas-con-las-de-la-competencia-claim
+    - aku-factores-internos-recursos-capacidades-concept
 
 sources:
   - raw/cursos/power-mba/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-commodity-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-liderazgo-en-coste-concept]] · [[aku-alinear-las-caracteristicas-con-las-de-la-competencia-claim]]
+**related** ↔ [[aku-commodity-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-liderazgo-en-coste-concept]] · [[aku-alinear-las-caracteristicas-con-las-de-la-competencia-claim]] · [[aku-factores-internos-recursos-capacidades-concept]]

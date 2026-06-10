@@ -25,14 +25,18 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-pitch-deck-concept]
+  supported_by:
+    - aku-pitch-deck-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-pitch-deck-traccion-concept]
+  related:
+    - aku-pitch-deck-traccion-concept
+    - aku-pitch-deck-call-to-action-concept
+    - aku-pitch-deck-roadmap-concept
 
 sources:
   - raw/cursos/power-mba/6-3-3-estructura-del-pitch-deck/6-3-3-estructura-del-pitch-deck.md
@@ -47,4 +51,4 @@ status_note: ""
 
 **supported_by** ← [[aku-pitch-deck-concept]]
 
-**related** ↔ [[aku-pitch-deck-traccion-concept]]
+**related** ↔ [[aku-pitch-deck-traccion-concept]] · [[aku-pitch-deck-call-to-action-concept]] · [[aku-pitch-deck-roadmap-concept]]

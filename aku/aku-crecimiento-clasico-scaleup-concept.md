@@ -24,13 +24,17 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-tipos-estrategias-crecimiento-concept]
+  supports:
+    - aku-tipos-estrategias-crecimiento-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-fastscaling-concept]
+  related:
+    - aku-fastscaling-concept
+    - aku-blitzscaling-concept
+    - aku-crecimiento-clasico-startup-concept
 
 sources:
   - raw/cursos/power-mba/4-5-blitzscaling/4-5-blitzscaling.md
@@ -44,4 +48,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-tipos-estrategias-crecimiento-concept]]
-**related** ↔ [[aku-fastscaling-concept]]
+**related** ↔ [[aku-fastscaling-concept]] · [[aku-blitzscaling-concept]] · [[aku-crecimiento-clasico-startup-concept]]

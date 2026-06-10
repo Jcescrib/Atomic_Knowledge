@@ -32,7 +32,13 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-concordancia-palabras-clave-concept, aku-concordancia-amplia-concept, aku-concordancia-exacta-concept]
+  related:
+    - aku-concordancia-palabras-clave-concept
+    - aku-concordancia-amplia-concept
+    - aku-concordancia-exacta-concept
+    - aku-concordancia-frase-concept
+    - aku-concordancia-negativa-concept
+    - aku-modificador-concordancia-amplia-concept
 
 sources:
   - raw/cursos/power-mba/concordancia-de-palabras-google/concordancia-de-palabras-google.md
@@ -45,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-concordancia-palabras-clave-concept]] · [[aku-concordancia-amplia-concept]] · [[aku-concordancia-exacta-concept]]
+**related** ↔ [[aku-concordancia-palabras-clave-concept]] · [[aku-concordancia-amplia-concept]] · [[aku-concordancia-exacta-concept]] · [[aku-concordancia-frase-concept]] · [[aku-concordancia-negativa-concept]] · [[aku-modificador-concordancia-amplia-concept]]

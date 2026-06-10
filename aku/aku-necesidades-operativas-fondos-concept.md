@@ -25,13 +25,23 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-formula-nof-method]
+  supports:
+    - aku-formula-nof-method
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-fondo-de-maniobra-concept, aku-periodo-medio-maduracion-concept, aku-existencias-concept, aku-clientes-partida-concept, aku-proveedores-partida-concept]
+  related:
+    - aku-fondo-de-maniobra-concept
+    - aku-periodo-medio-maduracion-concept
+    - aku-existencias-concept
+    - aku-clientes-partida-concept
+    - aku-proveedores-partida-concept
+    - aku-ciclo-working-capital-dias-method
+    - aku-dias-de-existencias-concept
+    - aku-periodo-medio-cobro-concept
+    - aku-periodo-medio-pago-concept
 
 sources:
   - raw/cursos/power-mba/09-02-01-ratios-analisis-financieros/09-02-01-ratios-analisis-financieros.md
@@ -45,4 +55,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-formula-nof-method]]
-**related** ↔ [[aku-fondo-de-maniobra-concept]] · [[aku-periodo-medio-maduracion-concept]] · [[aku-existencias-concept]] · [[aku-clientes-partida-concept]] · [[aku-proveedores-partida-concept]]
+**related** ↔ [[aku-fondo-de-maniobra-concept]] · [[aku-periodo-medio-maduracion-concept]] · [[aku-existencias-concept]] · [[aku-clientes-partida-concept]] · [[aku-proveedores-partida-concept]] · [[aku-ciclo-working-capital-dias-method]] · [[aku-dias-de-existencias-concept]] · [[aku-periodo-medio-cobro-concept]] · [[aku-periodo-medio-pago-concept]]

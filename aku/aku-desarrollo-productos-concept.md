@@ -24,14 +24,20 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-sinergias-desarrollo-productos-claim]
-  supports: [aku-matriz-ansoff-concept]
+  supported_by:
+    - aku-sinergias-desarrollo-productos-claim
+  supports:
+    - aku-matriz-ansoff-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-penetracion-mercado-concept
+    - aku-desarrollo-mercados-concept
+    - aku-diversificacion-concept
+    - aku-riesgo-ansoff-claim
 
 sources:
   - raw/cursos/power-mba/4-3-estrategias-de-crecimiento/4-3-estrategias-de-crecimiento.md
@@ -47,3 +53,5 @@ status_note: ""
 **supported_by** ← [[aku-sinergias-desarrollo-productos-claim]]
 
 **supports** → [[aku-matriz-ansoff-concept]]
+
+**related** ↔ [[aku-penetracion-mercado-concept]] · [[aku-desarrollo-mercados-concept]] · [[aku-diversificacion-concept]] · [[aku-riesgo-ansoff-claim]]

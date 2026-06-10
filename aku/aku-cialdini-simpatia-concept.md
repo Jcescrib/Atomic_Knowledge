@@ -37,6 +37,12 @@ relations:
     - aku-valores-marca-concept
     - aku-48laws-32-play-to-peoples-fantasies-concept
     - aku-el-toque-ligero-en-el-antebrazo-aumenta-el-acuerdo-method
+    - aku-cialdini-reciprocidad-concept
+    - aku-cialdini-compromiso-consistencia-concept
+    - aku-cialdini-prueba-social-concept
+    - aku-cialdini-autoridad-concept
+    - aku-cialdini-escasez-concept
+    - aku-cialdini-pertenencia-concept
 
 sources:
   - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
@@ -50,4 +56,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-leyes-persuasion-cialdini-concept]]
-**related** ↔ [[aku-brandscript-storybrand-concept]] · [[aku-valores-marca-concept]] · [[aku-48laws-32-play-to-peoples-fantasies-concept]] · [[aku-el-toque-ligero-en-el-antebrazo-aumenta-el-acuerdo-method]]
+**related** ↔ [[aku-brandscript-storybrand-concept]] · [[aku-valores-marca-concept]] · [[aku-48laws-32-play-to-peoples-fantasies-concept]] · [[aku-el-toque-ligero-en-el-antebrazo-aumenta-el-acuerdo-method]] · [[aku-cialdini-reciprocidad-concept]] · [[aku-cialdini-compromiso-consistencia-concept]] · [[aku-cialdini-prueba-social-concept]] · [[aku-cialdini-autoridad-concept]] · [[aku-cialdini-escasez-concept]] · [[aku-cialdini-pertenencia-concept]]

@@ -33,7 +33,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-marketing-influencers-concept, aku-clausulas-contrato-influencers-concept]
+  related:
+    - aku-marketing-influencers-concept
+    - aku-clausulas-contrato-influencers-concept
+    - aku-cesion-uso-contenido-influencer-concept
 
 sources:
   - raw/cursos/power-mba/14-02-colaboraciones-pagadas-pptx/14-02-colaboraciones-pagadas-pptx.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-marketing-influencers-concept]] · [[aku-clausulas-contrato-influencers-concept]]
+**related** ↔ [[aku-marketing-influencers-concept]] · [[aku-clausulas-contrato-influencers-concept]] · [[aku-cesion-uso-contenido-influencer-concept]]

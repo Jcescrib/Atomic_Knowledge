@@ -39,6 +39,9 @@ relations:
     - aku-oceano-rojo-concept
     - aku-concentracion-sector-concept
     - aku-nunca-terminas-de-competir-al-final-compites-contigo-mismo-claim
+    - aku-amenaza-sustitutivos-concept
+    - aku-poder-compradores-concept
+    - aku-poder-proveedores-concept
 
 sources:
   - raw/cursos/power-mba/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
@@ -53,4 +56,4 @@ status_note: ""
 
 **supported_by** ← [[aku-barreras-de-salida-concept]]
 **supports** → [[aku-cinco-fuerzas-porter-concept]] · [[aku-rivalidad-reduce-rentabilidad-claim]]
-**related** ↔ [[aku-oceano-rojo-concept]] · [[aku-concentracion-sector-concept]] · [[aku-nunca-terminas-de-competir-al-final-compites-contigo-mismo-claim]]
+**related** ↔ [[aku-oceano-rojo-concept]] · [[aku-concentracion-sector-concept]] · [[aku-nunca-terminas-de-competir-al-final-compites-contigo-mismo-claim]] · [[aku-amenaza-sustitutivos-concept]] · [[aku-poder-compradores-concept]] · [[aku-poder-proveedores-concept]]

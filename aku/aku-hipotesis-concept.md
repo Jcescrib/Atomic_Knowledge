@@ -41,6 +41,8 @@ relations:
     - aku-build-measure-learn-concept
     - aku-mvp-concept
     - aku-entrevista-problem-solution-concept
+    - aku-aprendizaje-validado-concept
+    - aku-aprender-clientes-reales-claim
 
 sources:
   - "raw/cursos/power-mba/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md"
@@ -55,4 +57,4 @@ status_note: ""
 
 **supported_by** ← [[aku-no-dar-supuesto-hipotesis-claim]]
 
-**related** ↔ [[aku-lean-startup-method-concept]] · [[aku-build-measure-learn-concept]] · [[aku-mvp-concept]] · [[aku-entrevista-problem-solution-concept]]
+**related** ↔ [[aku-lean-startup-method-concept]] · [[aku-build-measure-learn-concept]] · [[aku-mvp-concept]] · [[aku-entrevista-problem-solution-concept]] · [[aku-aprendizaje-validado-concept]] · [[aku-aprender-clientes-reales-claim]]

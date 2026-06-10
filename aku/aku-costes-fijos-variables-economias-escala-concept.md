@@ -38,6 +38,8 @@ relations:
   contradicts: []
   related:
     - aku-economias-de-escala-concept
+    - aku-coste-prioridad-segun-estrategia-claim
+    - aku-flujos-de-ingresos-concept
 
 sources:
   - "raw/cursos/power-mba/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc.md"
@@ -52,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-estructura-de-costes-concept]]
 
-**related** ↔ [[aku-economias-de-escala-concept]]
+**related** ↔ [[aku-economias-de-escala-concept]] · [[aku-coste-prioridad-segun-estrategia-claim]] · [[aku-flujos-de-ingresos-concept]]

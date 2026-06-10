@@ -43,6 +43,9 @@ relations:
     - aku-modelo-lineal-concept
     - aku-pitch-deck-concept
     - aku-pitch-deck-modelo-negocio-concept
+    - aku-segmento-relevante-claim
+    - aku-canal-directo-concept
+    - aku-canal-indirecto-concept
 sources:
   - raw/cursos/power-mba/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc.md
 created: 2026-06-03
@@ -55,4 +58,4 @@ status_note: ""
 
 **constrained_by** ← [[aku-bmc-cambio-bloque-desplaza-otros-claim]]
 
-**related** ↔ [[aku-segmentos-de-clientes-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-canales-de-distribucion-concept]] · [[aku-relaciones-con-clientes-concept]] · [[aku-flujos-de-ingresos-concept]] · [[aku-recursos-clave-concept]] · [[aku-actividades-clave-concept]] · [[aku-ecosistema-alianzas-concept]] · [[aku-estructura-de-costes-concept]] · [[aku-modelo-plataforma-concept]] · [[aku-tam-sam-som-concept]] · [[aku-modelo-lineal-concept]] · [[aku-pitch-deck-concept]] · [[aku-pitch-deck-modelo-negocio-concept]]
+**related** ↔ [[aku-segmentos-de-clientes-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-canales-de-distribucion-concept]] · [[aku-relaciones-con-clientes-concept]] · [[aku-flujos-de-ingresos-concept]] · [[aku-recursos-clave-concept]] · [[aku-actividades-clave-concept]] · [[aku-ecosistema-alianzas-concept]] · [[aku-estructura-de-costes-concept]] · [[aku-modelo-plataforma-concept]] · [[aku-tam-sam-som-concept]] · [[aku-modelo-lineal-concept]] · [[aku-pitch-deck-concept]] · [[aku-pitch-deck-modelo-negocio-concept]] · [[aku-segmento-relevante-claim]] · [[aku-canal-directo-concept]] · [[aku-canal-indirecto-concept]]

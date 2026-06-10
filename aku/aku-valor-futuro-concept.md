@@ -24,13 +24,17 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-capitalizar-interes-simple-method, aku-capitalizar-interes-compuesto-method]
+  supports:
+    - aku-capitalizar-interes-simple-method
+    - aku-capitalizar-interes-compuesto-method
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-valor-actual-presente-concept]
+  related:
+    - aku-valor-actual-presente-concept
+    - aku-descontar-actualizar-method
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -44,4 +48,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-capitalizar-interes-simple-method]] · [[aku-capitalizar-interes-compuesto-method]]
-**related** ↔ [[aku-valor-actual-presente-concept]]
+**related** ↔ [[aku-valor-actual-presente-concept]] · [[aku-descontar-actualizar-method]]

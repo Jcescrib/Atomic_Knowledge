@@ -37,6 +37,8 @@ relations:
     - aku-complementar-habilidades-equipo-claim
     - aku-aprende-nuevas-habilidades-liderazgo-claim
     - aku-evaluation-character-leadership-concept
+    - aku-liderar-vs-gestionar-concept
+    - aku-mix-liderazgo-gestion-segun-trabajo-claim
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -49,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-tres-capas-liderazgo-concept]] · [[aku-tests-personalidad-concept]] · [[aku-complementar-habilidades-equipo-claim]] · [[aku-aprende-nuevas-habilidades-liderazgo-claim]] · [[aku-evaluation-character-leadership-concept]]
+**related** ↔ [[aku-tres-capas-liderazgo-concept]] · [[aku-tests-personalidad-concept]] · [[aku-complementar-habilidades-equipo-claim]] · [[aku-aprende-nuevas-habilidades-liderazgo-claim]] · [[aku-evaluation-character-leadership-concept]] · [[aku-liderar-vs-gestionar-concept]] · [[aku-mix-liderazgo-gestion-segun-trabajo-claim]]

@@ -38,6 +38,12 @@ relations:
   contradicts: []
   related:
     - aku-competencia-amplia-concept
+    - aku-matriz-rice-concept
+    - aku-eric-eliminar-method
+    - aku-eric-reducir-method
+    - aku-eric-incrementar-method
+    - aku-eric-crear-method
+    - aku-innovacion-valor-via-eric-claim
 
 sources:
   - "raw/cursos/power-mba/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave.md"
@@ -52,4 +58,4 @@ status_note: ""
 
 **supports** → [[aku-curva-valor-concept]]
 
-**related** ↔ [[aku-competencia-amplia-concept]]
+**related** ↔ [[aku-competencia-amplia-concept]] · [[aku-matriz-rice-concept]] · [[aku-eric-eliminar-method]] · [[aku-eric-reducir-method]] · [[aku-eric-incrementar-method]] · [[aku-eric-crear-method]] · [[aku-innovacion-valor-via-eric-claim]]

@@ -35,6 +35,9 @@ relations:
   contradicts: []
   related:
     - aku-competidor-es-externo-no-interno-claim
+    - aku-estructura-divisional-concept
+    - aku-estructura-matriz-concept
+    - aku-estructura-basada-proyectos-concept
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -49,4 +52,4 @@ status_note: ""
 
 **supported_by** ← [[aku-estructuras-organizacionales-concept]]
 
-**related** ↔ [[aku-competidor-es-externo-no-interno-claim]]
+**related** ↔ [[aku-competidor-es-externo-no-interno-claim]] · [[aku-estructura-divisional-concept]] · [[aku-estructura-matriz-concept]] · [[aku-estructura-basada-proyectos-concept]]

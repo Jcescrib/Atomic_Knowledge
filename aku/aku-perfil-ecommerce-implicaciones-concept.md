@@ -26,14 +26,19 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-implicaciones-modelo-negocio-concept]
+  supported_by:
+    - aku-implicaciones-modelo-negocio-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-ingresos-punto-muerto-modelo-concept]
+  related:
+    - aku-ingresos-punto-muerto-modelo-concept
+    - aku-perfil-marketplace-implicaciones-concept
+    - aku-perfil-modelo-innovador-vs-menos-innovador-concept
+    - aku-perfil-startup-vs-tradicional-concept
 
 sources:
   - raw/cursos/power-mba/6-1-01-fit-entre-tu-proyecto-y-tu/6-1-01-fit-entre-tu-proyecto-y-tu.md
@@ -48,4 +53,4 @@ status_note: ""
 
 **supported_by** ← [[aku-implicaciones-modelo-negocio-concept]]
 
-**related** ↔ [[aku-ingresos-punto-muerto-modelo-concept]]
+**related** ↔ [[aku-ingresos-punto-muerto-modelo-concept]] · [[aku-perfil-marketplace-implicaciones-concept]] · [[aku-perfil-modelo-innovador-vs-menos-innovador-concept]] · [[aku-perfil-startup-vs-tradicional-concept]]

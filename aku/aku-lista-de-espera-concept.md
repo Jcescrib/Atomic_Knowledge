@@ -35,6 +35,10 @@ relations:
     - aku-aprendizaje-validado-concept
     - aku-lead-magnet-concept
     - aku-hint-next-offer-early
+    - aku-test-de-humo-concept
+    - aku-publicidad-dirigida-mvp-concept
+    - aku-mago-de-oz-mvp-concept
+    - aku-crowdfunding-validacion-concept
 
 sources:
   - raw/cursos/power-mba/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md
@@ -48,4 +52,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-mvp-concept]]
-**related** ↔ [[aku-aprendizaje-validado-concept]] · [[aku-lead-magnet-concept]] · [[aku-hint-next-offer-early]]
+**related** ↔ [[aku-aprendizaje-validado-concept]] · [[aku-lead-magnet-concept]] · [[aku-hint-next-offer-early]] · [[aku-test-de-humo-concept]] · [[aku-publicidad-dirigida-mvp-concept]] · [[aku-mago-de-oz-mvp-concept]] · [[aku-crowdfunding-validacion-concept]]

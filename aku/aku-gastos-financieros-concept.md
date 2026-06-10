@@ -31,7 +31,16 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-gastos-contables-concept, aku-pasivo-concept, aku-ebit-concept, aku-escudo-fiscal-concept]
+  related:
+    - aku-gastos-contables-concept
+    - aku-pasivo-concept
+    - aku-ebit-concept
+    - aku-escudo-fiscal-concept
+    - aku-coste-mercancias-vendidas-concept
+    - aku-gastos-de-explotacion-concept
+    - aku-sueldos-y-salarios-concept
+    - aku-amortizacion-concept
+    - aku-provisiones-concept
 
 sources:
   - raw/cursos/power-mba/09-01-02-detalle-cuentas-estado-resultados/09-01-02-detalle-cuentas-estado-resultados.md
@@ -44,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-gastos-contables-concept]] · [[aku-pasivo-concept]] · [[aku-ebit-concept]] · [[aku-escudo-fiscal-concept]]
+**related** ↔ [[aku-gastos-contables-concept]] · [[aku-pasivo-concept]] · [[aku-ebit-concept]] · [[aku-escudo-fiscal-concept]] · [[aku-coste-mercancias-vendidas-concept]] · [[aku-gastos-de-explotacion-concept]] · [[aku-sueldos-y-salarios-concept]] · [[aku-amortizacion-concept]] · [[aku-provisiones-concept]]

@@ -24,14 +24,24 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-barreras-de-entrada-concept]
+  supported_by:
+    - aku-barreras-de-entrada-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-marca-concept, aku-marca-potente-beneficios-claim]
+  related:
+    - aku-marca-concept
+    - aku-marca-potente-beneficios-claim
+    - aku-barrera-economias-de-red-concept
+    - aku-barrera-patente-concept
+    - aku-barrera-acceso-recursos-preferenciales-concept
+    - aku-economias-de-escala-concept
+    - aku-costes-de-cambio-concept
+    - aku-barreras-de-salida-concept
+    - aku-barreras-entrada-aumentan-rentabilidad-claim
 
 sources:
   - raw/cursos/power-mba/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
@@ -45,4 +55,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-barreras-de-entrada-concept]]
-**related** ↔ [[aku-marca-concept]] · [[aku-marca-potente-beneficios-claim]]
+**related** ↔ [[aku-marca-concept]] · [[aku-marca-potente-beneficios-claim]] · [[aku-barrera-economias-de-red-concept]] · [[aku-barrera-patente-concept]] · [[aku-barrera-acceso-recursos-preferenciales-concept]] · [[aku-economias-de-escala-concept]] · [[aku-costes-de-cambio-concept]] · [[aku-barreras-de-salida-concept]] · [[aku-barreras-entrada-aumentan-rentabilidad-claim]]

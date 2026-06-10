@@ -32,7 +32,14 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-test-de-humo-concept, aku-performance-marketing-concept, aku-outbound-marketing-concept]
+  related:
+    - aku-test-de-humo-concept
+    - aku-performance-marketing-concept
+    - aku-outbound-marketing-concept
+    - aku-mvp-concept
+    - aku-mago-de-oz-mvp-concept
+    - aku-lista-de-espera-concept
+    - aku-crowdfunding-validacion-concept
 
 sources:
   - raw/cursos/power-mba/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md
@@ -45,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-test-de-humo-concept]] · [[aku-performance-marketing-concept]] · [[aku-outbound-marketing-concept]]
+**related** ↔ [[aku-test-de-humo-concept]] · [[aku-performance-marketing-concept]] · [[aku-outbound-marketing-concept]] · [[aku-mvp-concept]] · [[aku-mago-de-oz-mvp-concept]] · [[aku-lista-de-espera-concept]] · [[aku-crowdfunding-validacion-concept]]

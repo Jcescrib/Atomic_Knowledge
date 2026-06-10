@@ -34,6 +34,11 @@ relations:
   contradicts: []
   related:
     - aku-planning-process-estandarizado-concept
+    - aku-formato-contenido-blog-concept
+    - aku-formato-contenido-guia-ebook-concept
+    - aku-formato-contenido-white-paper-concept
+    - aku-formato-contenido-lista-tips-concept
+    - aku-formato-contenido-newsletter-concept
 
 sources:
   - raw/cursos/power-mba/5-4-9-marketing-de-contenidos-formatos-m-as-habituales/5-4-9-marketing-de-contenidos-formatos-m-as-habituales.md
@@ -48,4 +53,4 @@ status_note: ""
 
 **supported_by** ← [[aku-formatos-marketing-contenidos-concept]] · [[aku-lead-magnet-concept]]
 
-**related** ↔ [[aku-planning-process-estandarizado-concept]]
+**related** ↔ [[aku-planning-process-estandarizado-concept]] · [[aku-formato-contenido-blog-concept]] · [[aku-formato-contenido-guia-ebook-concept]] · [[aku-formato-contenido-white-paper-concept]] · [[aku-formato-contenido-lista-tips-concept]] · [[aku-formato-contenido-newsletter-concept]]

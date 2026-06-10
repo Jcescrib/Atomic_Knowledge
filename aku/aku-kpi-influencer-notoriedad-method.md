@@ -22,14 +22,18 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-medicion-resultados-influencers-concept]
+  supported_by:
+    - aku-medicion-resultados-influencers-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-kpi-influencer-accion-method
+    - aku-kpi-influencer-engagement-method
+    - aku-kpi-influencer-visita-method
 
 sources:
   - raw/cursos/power-mba/14-06-medici-on-resultados-influencers-pptx/14-06-medici-on-resultados-influencers-pptx.md
@@ -43,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-medicion-resultados-influencers-concept]]
+
+**related** ↔ [[aku-kpi-influencer-accion-method]] · [[aku-kpi-influencer-engagement-method]] · [[aku-kpi-influencer-visita-method]]

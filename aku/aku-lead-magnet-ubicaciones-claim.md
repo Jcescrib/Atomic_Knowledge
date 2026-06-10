@@ -34,6 +34,13 @@ relations:
   contradicts: []
   related:
     - aku-orden-new-placements-platforms-activity-concept
+    - aku-lead-magnet-calculadora-concept
+    - aku-lead-magnet-concurso-sorteo-concept
+    - aku-lead-magnet-curso-gratuito-concept
+    - aku-lead-magnet-descuento-cupon-concept
+    - aku-lead-magnet-plantilla-template-concept
+    - aku-lead-magnet-prueba-producto-concept
+    - aku-lead-magnet-resumen-visita-concept
 
 sources:
   - raw/cursos/power-mba/5-5-2-ejemplos-por-tipos-de-lead-magnets/5-5-2-ejemplos-por-tipos-de-lead-magnets.md
@@ -48,4 +55,4 @@ status_note: ""
 
 **supported_by** ← [[aku-lead-magnet-concept]]
 
-**related** ↔ [[aku-orden-new-placements-platforms-activity-concept]]
+**related** ↔ [[aku-orden-new-placements-platforms-activity-concept]] · [[aku-lead-magnet-calculadora-concept]] · [[aku-lead-magnet-concurso-sorteo-concept]] · [[aku-lead-magnet-curso-gratuito-concept]] · [[aku-lead-magnet-descuento-cupon-concept]] · [[aku-lead-magnet-plantilla-template-concept]] · [[aku-lead-magnet-prueba-producto-concept]] · [[aku-lead-magnet-resumen-visita-concept]]

@@ -32,7 +32,17 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-leyes-persuasion-cialdini-concept, aku-canales-marketing-digital-concept, aku-cialdini-prueba-social-concept, aku-paid-social-concept, aku-herramientas-marketing-influencers-concept, aku-colaboraciones-influencers-pagadas-vs-gratuitas-concept, aku-clausulas-contrato-influencers-concept, aku-medicion-resultados-influencers-concept]
+  related:
+    - aku-leyes-persuasion-cialdini-concept
+    - aku-canales-marketing-digital-concept
+    - aku-cialdini-prueba-social-concept
+    - aku-paid-social-concept
+    - aku-herramientas-marketing-influencers-concept
+    - aku-colaboraciones-influencers-pagadas-vs-gratuitas-concept
+    - aku-clausulas-contrato-influencers-concept
+    - aku-medicion-resultados-influencers-concept
+    - aku-seo-aso-concept
+    - aku-marketing-afiliados-concept
 
 sources:
   - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
@@ -45,4 +55,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-leyes-persuasion-cialdini-concept]] · [[aku-canales-marketing-digital-concept]] · [[aku-cialdini-prueba-social-concept]] · [[aku-paid-social-concept]] · [[aku-herramientas-marketing-influencers-concept]] · [[aku-colaboraciones-influencers-pagadas-vs-gratuitas-concept]] · [[aku-clausulas-contrato-influencers-concept]] · [[aku-medicion-resultados-influencers-concept]]
+**related** ↔ [[aku-leyes-persuasion-cialdini-concept]] · [[aku-canales-marketing-digital-concept]] · [[aku-cialdini-prueba-social-concept]] · [[aku-paid-social-concept]] · [[aku-herramientas-marketing-influencers-concept]] · [[aku-colaboraciones-influencers-pagadas-vs-gratuitas-concept]] · [[aku-clausulas-contrato-influencers-concept]] · [[aku-medicion-resultados-influencers-concept]] · [[aku-seo-aso-concept]] · [[aku-marketing-afiliados-concept]]

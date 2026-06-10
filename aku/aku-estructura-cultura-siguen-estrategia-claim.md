@@ -26,11 +26,15 @@ relations:
   supported_by: []
   supports: []
   constrained_by: []
-  constrains: [aku-cultura-corporativa-concept, aku-estructuras-organizacionales-concept]
+  constrains:
+    - aku-cultura-corporativa-concept
+    - aku-estructuras-organizacionales-concept
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-arquetipos-cultura-concept
+    - aku-cultura-saludable-ventaja-claim
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -44,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **constrains** → [[aku-cultura-corporativa-concept]] · [[aku-estructuras-organizacionales-concept]]
+
+**related** ↔ [[aku-arquetipos-cultura-concept]] · [[aku-cultura-saludable-ventaja-claim]]

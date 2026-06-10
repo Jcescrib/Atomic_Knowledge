@@ -24,14 +24,18 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-factores-crecimiento-blitzscaling-concept]
+  supported_by:
+    - aku-factores-crecimiento-blitzscaling-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-factor-crecimiento-distribucion-concept
+    - aku-factor-crecimiento-grandes-margenes-concept
+    - aku-factor-crecimiento-network-effects-concept
 
 sources:
   - raw/cursos/power-mba/4-5-blitzscaling/4-5-blitzscaling.md
@@ -45,3 +49,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-factores-crecimiento-blitzscaling-concept]]
+
+**related** ↔ [[aku-factor-crecimiento-distribucion-concept]] · [[aku-factor-crecimiento-grandes-margenes-concept]] · [[aku-factor-crecimiento-network-effects-concept]]

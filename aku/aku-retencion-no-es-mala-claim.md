@@ -35,6 +35,7 @@ relations:
   related:
     - aku-facilitar-cancelacion
     - aku-wins-rapidos-frecuentes-concept
+    - aku-fidelizacion-retencion-eleva-cltv-claim
 
 sources:
   - raw/cursos/power-mba/5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on/5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supported_by** ← [[aku-fidelizacion-vs-retencion-concept]]
 
-**related** ↔ [[aku-facilitar-cancelacion]] · [[aku-wins-rapidos-frecuentes-concept]]
+**related** ↔ [[aku-facilitar-cancelacion]] · [[aku-wins-rapidos-frecuentes-concept]] · [[aku-fidelizacion-retencion-eleva-cltv-claim]]

@@ -42,6 +42,8 @@ relations:
   related:
     - aku-variables-segmentacion-concept
     - aku-power-value-modelo-concept
+    - aku-segmentos-vs-personas-concept
+    - aku-early-adopter-concept
 
 sources:
   - "raw/cursos/power-mba/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md"
@@ -56,4 +58,4 @@ status_note: ""
 
 **supports** → [[aku-customer-persona-concept]]
 
-**related** ↔ [[aku-variables-segmentacion-concept]] · [[aku-power-value-modelo-concept]]
+**related** ↔ [[aku-variables-segmentacion-concept]] · [[aku-power-value-modelo-concept]] · [[aku-segmentos-vs-personas-concept]] · [[aku-early-adopter-concept]]

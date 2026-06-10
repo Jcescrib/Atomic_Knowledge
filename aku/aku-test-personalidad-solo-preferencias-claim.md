@@ -27,11 +27,14 @@ relations:
   supported_by: []
   supports: []
   constrained_by: []
-  constrains: [aku-tests-personalidad-concept]
+  constrains:
+    - aku-tests-personalidad-concept
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-mbti-concept
+    - aku-cuando-aplicar-tests-personalidad-concept
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -45,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **constrains** → [[aku-tests-personalidad-concept]]
+
+**related** ↔ [[aku-mbti-concept]] · [[aku-cuando-aplicar-tests-personalidad-concept]]

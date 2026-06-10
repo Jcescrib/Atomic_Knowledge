@@ -24,14 +24,22 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-palancas-marketing-digital-concept]
+  supported_by:
+    - aku-palancas-marketing-digital-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-cltv-cac-dual-optimization, aku-cac-concept, aku-cro-concept]
+  related:
+    - aku-cltv-cac-dual-optimization
+    - aku-cac-concept
+    - aku-cro-concept
+    - aku-atribucion-concept
+    - aku-funnel-corto-vs-largo-concept
+    - aku-objetivos-negocio-concept
+    - aku-power-funnel-concept
 
 sources:
   - raw/cursos/power-mba/5-3-visi-on-estrat-egica/5-3-visi-on-estrat-egica.md
@@ -45,4 +53,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-palancas-marketing-digital-concept]]
-**related** ↔ [[aku-cltv-cac-dual-optimization]] · [[aku-cac-concept]] · [[aku-cro-concept]]
+**related** ↔ [[aku-cltv-cac-dual-optimization]] · [[aku-cac-concept]] · [[aku-cro-concept]] · [[aku-atribucion-concept]] · [[aku-funnel-corto-vs-largo-concept]] · [[aku-objetivos-negocio-concept]] · [[aku-power-funnel-concept]]

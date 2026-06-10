@@ -37,6 +37,9 @@ relations:
     - aku-apalancamiento-financiero-concept
     - aku-equity-es-el-upside-deuda-es-downside-garantizado-concept
     - aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim
+    - aku-ratio-de-apalancamiento-method
+    - aku-apalancamiento-aumenta-riesgo-claim
+    - aku-apalancamiento-valoracion-optimo-claim
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -49,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-estructura-de-capital-concept]] · [[aku-roe-concept]] · [[aku-roa-concept]] · [[aku-apalancamiento-financiero-concept]] · [[aku-equity-es-el-upside-deuda-es-downside-garantizado-concept]] · [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]]
+**related** ↔ [[aku-estructura-de-capital-concept]] · [[aku-roe-concept]] · [[aku-roa-concept]] · [[aku-apalancamiento-financiero-concept]] · [[aku-equity-es-el-upside-deuda-es-downside-garantizado-concept]] · [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]] · [[aku-ratio-de-apalancamiento-method]] · [[aku-apalancamiento-aumenta-riesgo-claim]] · [[aku-apalancamiento-valoracion-optimo-claim]]

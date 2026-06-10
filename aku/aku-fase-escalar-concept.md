@@ -37,6 +37,8 @@ relations:
   contradicts: []
   related:
     - aku-fase-optimizar-canales-concept
+    - aku-problem-solution-fit-concept
+    - aku-validar-economia-clave-claim
 
 sources:
   - "raw/cursos/power-mba/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos.md"
@@ -51,4 +53,4 @@ status_note: ""
 
 **supported_by** ← [[aku-etapas-startup-concept]]
 
-**related** ↔ [[aku-fase-optimizar-canales-concept]]
+**related** ↔ [[aku-fase-optimizar-canales-concept]] · [[aku-problem-solution-fit-concept]] · [[aku-validar-economia-clave-claim]]

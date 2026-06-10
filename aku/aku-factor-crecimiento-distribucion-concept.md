@@ -34,6 +34,9 @@ relations:
   contradicts: []
   related:
     - aku-asignar-10-20-tech-nueva-claim
+    - aku-factor-crecimiento-grandes-margenes-concept
+    - aku-factor-crecimiento-network-effects-concept
+    - aku-factor-crecimiento-tamano-mercado-concept
 
 sources:
   - raw/cursos/power-mba/4-5-blitzscaling/4-5-blitzscaling.md
@@ -48,4 +51,4 @@ status_note: ""
 
 **supported_by** ← [[aku-factores-crecimiento-blitzscaling-concept]]
 
-**related** ↔ [[aku-asignar-10-20-tech-nueva-claim]]
+**related** ↔ [[aku-asignar-10-20-tech-nueva-claim]] · [[aku-factor-crecimiento-grandes-margenes-concept]] · [[aku-factor-crecimiento-network-effects-concept]] · [[aku-factor-crecimiento-tamano-mercado-concept]]

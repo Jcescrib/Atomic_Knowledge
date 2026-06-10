@@ -33,7 +33,13 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-formato-contenido-video-concept
+    - aku-formato-contenido-podcast-concept
+    - aku-formato-contenido-webinar-concept
+    - aku-formato-contenido-tutorial-concept
+    - aku-formato-contenido-infografia-concept
+    - aku-formato-contenido-musica-concept
 
 sources:
   - raw/cursos/power-mba/5-4-9-marketing-de-contenidos-formatos-m-as-habituales/5-4-9-marketing-de-contenidos-formatos-m-as-habituales.md
@@ -47,3 +53,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-formatos-marketing-contenidos-concept]]
+
+**related** ↔ [[aku-formato-contenido-video-concept]] · [[aku-formato-contenido-podcast-concept]] · [[aku-formato-contenido-webinar-concept]] · [[aku-formato-contenido-tutorial-concept]] · [[aku-formato-contenido-infografia-concept]] · [[aku-formato-contenido-musica-concept]]

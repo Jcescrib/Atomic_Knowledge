@@ -32,7 +32,17 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-comparativa-redes-sociales-concept, aku-herramientas-creacion-anuncios-facebook-concept, aku-regla-20-texto-facebook-ads-claim]
+  related:
+    - aku-comparativa-redes-sociales-concept
+    - aku-herramientas-creacion-anuncios-facebook-concept
+    - aku-regla-20-texto-facebook-ads-claim
+    - aku-eleccion-red-social-segun-negocio-claim
+    - aku-instagram-concept
+    - aku-linkedin-concept
+    - aku-pinterest-concept
+    - aku-tiktok-concept
+    - aku-twitter-concept
+    - aku-youtube-concept
 
 sources:
   - raw/cursos/power-mba/12-3-tabla-comparativa-rrss/12-3-tabla-comparativa-rrss.md
@@ -45,4 +55,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-comparativa-redes-sociales-concept]] · [[aku-herramientas-creacion-anuncios-facebook-concept]] · [[aku-regla-20-texto-facebook-ads-claim]]
+**related** ↔ [[aku-comparativa-redes-sociales-concept]] · [[aku-herramientas-creacion-anuncios-facebook-concept]] · [[aku-regla-20-texto-facebook-ads-claim]] · [[aku-eleccion-red-social-segun-negocio-claim]] · [[aku-instagram-concept]] · [[aku-linkedin-concept]] · [[aku-pinterest-concept]] · [[aku-tiktok-concept]] · [[aku-twitter-concept]] · [[aku-youtube-concept]]

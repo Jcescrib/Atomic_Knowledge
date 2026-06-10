@@ -35,6 +35,8 @@ relations:
     - aku-performance-marketing-concept
     - aku-publicidad-dirigida-mvp-concept
     - aku-cold-outreach-concept
+    - aku-content-marketing-concept
+    - aku-email-marketing-concept
 
 sources:
   - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-inbound-marketing-concept]] · [[aku-performance-marketing-concept]] · [[aku-publicidad-dirigida-mvp-concept]] · [[aku-cold-outreach-concept]]
+**related** ↔ [[aku-inbound-marketing-concept]] · [[aku-performance-marketing-concept]] · [[aku-publicidad-dirigida-mvp-concept]] · [[aku-cold-outreach-concept]] · [[aku-content-marketing-concept]] · [[aku-email-marketing-concept]]

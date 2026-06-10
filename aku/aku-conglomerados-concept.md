@@ -24,14 +24,17 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-diversificacion-concept]
+  supported_by:
+    - aku-diversificacion-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-integracion-vertical-adelante-concept
+    - aku-objetivos-integracion-vertical-adelante-claim
 
 sources:
   - raw/cursos/power-mba/4-3-estrategias-de-crecimiento/4-3-estrategias-de-crecimiento.md
@@ -45,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-diversificacion-concept]]
+
+**related** ↔ [[aku-integracion-vertical-adelante-concept]] · [[aku-objetivos-integracion-vertical-adelante-claim]]

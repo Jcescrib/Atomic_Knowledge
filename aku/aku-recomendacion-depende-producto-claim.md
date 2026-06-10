@@ -23,14 +23,18 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-recomendacion-vs-viralizacion-concept]
+  supported_by:
+    - aku-recomendacion-vs-viralizacion-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-product-market-fit-concept]
+  related:
+    - aku-product-market-fit-concept
+    - aku-boca-a-boca-supera-campana-claim
+    - aku-viralizacion-coste-cercano-cero-claim
 
 sources:
   - raw/cursos/power-mba/5-8-1-conceptos-clave-recomendacion-y-viralizacion/5-8-1-conceptos-clave-recomendacion-y-viralizacion.md
@@ -44,4 +48,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-recomendacion-vs-viralizacion-concept]]
-**related** ↔ [[aku-product-market-fit-concept]]
+**related** ↔ [[aku-product-market-fit-concept]] · [[aku-boca-a-boca-supera-campana-claim]] · [[aku-viralizacion-coste-cercano-cero-claim]]

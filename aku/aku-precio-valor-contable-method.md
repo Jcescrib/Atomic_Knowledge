@@ -38,6 +38,10 @@ relations:
   related:
     - aku-valoracion-por-activos-method
     - aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method
+    - aku-ev-ebitda-method
+    - aku-ev-ventas-method
+    - aku-per-method
+    - aku-precio-flujo-caja-method
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -51,4 +55,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-multiplo-concept]] · [[aku-equity-value-concept]]
-**related** ↔ [[aku-valoracion-por-activos-method]] · [[aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method]]
+**related** ↔ [[aku-valoracion-por-activos-method]] · [[aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method]] · [[aku-ev-ebitda-method]] · [[aku-ev-ventas-method]] · [[aku-per-method]] · [[aku-precio-flujo-caja-method]]

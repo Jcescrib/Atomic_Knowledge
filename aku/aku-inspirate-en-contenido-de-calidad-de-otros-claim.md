@@ -31,7 +31,13 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-agrupa-contenido-en-series-tematicas-claim
+    - aku-aportar-valor-es-clave-del-contenido-claim
+    - aku-aprende-que-contenido-funciona-y-replica-claim
+    - aku-define-publico-objetivo-antes-de-generar-contenido-claim
+    - aku-regularidad-importa-mas-que-frecuencia-claim
+    - aku-titulos-llamativos-cortos-evita-clickbait-claim
 
 sources:
   - raw/cursos/power-mba/5-4-10-tips-para-la-generaci-on-de-contenidos/5-4-10-tips-para-la-generaci-on-de-contenidos.md
@@ -45,3 +51,5 @@ status_note: ""
 ## Relaciones
 
 **constrains** → [[aku-content-marketing-concept]]
+
+**related** ↔ [[aku-agrupa-contenido-en-series-tematicas-claim]] · [[aku-aportar-valor-es-clave-del-contenido-claim]] · [[aku-aprende-que-contenido-funciona-y-replica-claim]] · [[aku-define-publico-objetivo-antes-de-generar-contenido-claim]] · [[aku-regularidad-importa-mas-que-frecuencia-claim]] · [[aku-titulos-llamativos-cortos-evita-clickbait-claim]]

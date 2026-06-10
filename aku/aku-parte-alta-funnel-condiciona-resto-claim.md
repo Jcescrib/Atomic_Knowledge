@@ -30,7 +30,11 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-branding-concept, aku-calidad-vs-cantidad-trafico-concept, aku-power-funnel-concept]
+  related:
+    - aku-branding-concept
+    - aku-calidad-vs-cantidad-trafico-concept
+    - aku-power-funnel-concept
+    - aku-canales-marketing-digital-concept
 
 sources:
   - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
@@ -43,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-branding-concept]] · [[aku-calidad-vs-cantidad-trafico-concept]] · [[aku-power-funnel-concept]]
+**related** ↔ [[aku-branding-concept]] · [[aku-calidad-vs-cantidad-trafico-concept]] · [[aku-power-funnel-concept]] · [[aku-canales-marketing-digital-concept]]

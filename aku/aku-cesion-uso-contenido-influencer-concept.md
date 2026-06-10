@@ -25,14 +25,16 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-clausulas-contrato-influencers-concept]
+  supported_by:
+    - aku-clausulas-contrato-influencers-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-colaboraciones-influencers-pagadas-vs-gratuitas-concept
 
 sources:
   - raw/cursos/power-mba/14-05-modelo-contrato-stories/14-05-modelo-contrato-stories.md
@@ -46,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-clausulas-contrato-influencers-concept]]
+
+**related** ↔ [[aku-colaboraciones-influencers-pagadas-vs-gratuitas-concept]]

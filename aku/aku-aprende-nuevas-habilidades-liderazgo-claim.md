@@ -35,6 +35,8 @@ relations:
     - aku-complementar-habilidades-equipo-claim
     - aku-autoconciencia-lider-carencias-claim
     - aku-specific-knowledge-no-se-ensena-pero-se-aprende-claim
+    - aku-liderar-vs-gestionar-concept
+    - aku-mix-liderazgo-gestion-segun-trabajo-claim
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -47,6 +49,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-complementar-habilidades-equipo-claim]] · [[aku-autoconciencia-lider-carencias-claim]] · [[aku-specific-knowledge-no-se-ensena-pero-se-aprende-claim]]
+**related** ↔ [[aku-complementar-habilidades-equipo-claim]] · [[aku-autoconciencia-lider-carencias-claim]] · [[aku-specific-knowledge-no-se-ensena-pero-se-aprende-claim]] · [[aku-liderar-vs-gestionar-concept]] · [[aku-mix-liderazgo-gestion-segun-trabajo-claim]]
 
 **supported_by** ← [[aku-lideres-nacen-y-se-hacen-claim]]

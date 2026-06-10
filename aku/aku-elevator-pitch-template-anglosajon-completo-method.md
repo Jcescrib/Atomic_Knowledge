@@ -40,6 +40,10 @@ relations:
   contradicts: []
   related:
     - aku-cuatro-indicadores-mercado-concept
+    - aku-elevator-pitch-bloques-adicionales-concept
+    - aku-elevator-pitch-template-3-lineas-method
+    - aku-elevator-pitch-template-mi-empresa-ha-creado-method
+    - aku-elevator-pitch-template-soy-ceo-method
 
 sources:
   - raw/cursos/power-mba/6-3-4-templates-elevator-pitch/6-3-4-templates-elevator-pitch.md
@@ -54,4 +58,4 @@ status_note: ""
 
 **supported_by** ← [[aku-elevator-pitch-concept]]
 
-**related** ↔ [[aku-cuatro-indicadores-mercado-concept]]
+**related** ↔ [[aku-cuatro-indicadores-mercado-concept]] · [[aku-elevator-pitch-bloques-adicionales-concept]] · [[aku-elevator-pitch-template-3-lineas-method]] · [[aku-elevator-pitch-template-mi-empresa-ha-creado-method]] · [[aku-elevator-pitch-template-soy-ceo-method]]

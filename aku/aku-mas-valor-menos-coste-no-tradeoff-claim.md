@@ -29,7 +29,10 @@ relations:
   breaks_context_of: []
   contradicts:
     - aku-atrapado-medio-claim
-  related: []
+  related:
+    - aku-oceano-azul-concept
+    - aku-oceano-rojo-concept
+    - aku-empresas-borregos-claim
 sources:
   - raw/cursos/power-mba/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave.md
 created: 2026-06-03
@@ -42,3 +45,5 @@ status_note: ""
 
 **supports** → [[aku-innovacion-valor-concept]]
 **contradicts** ↔ [[aku-atrapado-medio-claim]]
+
+**related** ↔ [[aku-oceano-azul-concept]] · [[aku-oceano-rojo-concept]] · [[aku-empresas-borregos-claim]]

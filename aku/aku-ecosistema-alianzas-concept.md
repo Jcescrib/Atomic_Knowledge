@@ -43,6 +43,7 @@ relations:
     - aku-crecimiento-organico-inorganico-concept
     - aku-alianza-estrategica-concept
     - aku-bonos-de-terceros-claim
+    - aku-propuesta-de-valor-concept
 
 sources:
   - "raw/cursos/power-mba/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc.md"
@@ -55,4 +56,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-bmc-concept]] · [[aku-recursos-clave-concept]] · [[aku-actividades-clave-concept]] · [[aku-canales-de-distribucion-concept]] · [[aku-crecimiento-organico-inorganico-concept]] · [[aku-alianza-estrategica-concept]] · [[aku-bonos-de-terceros-claim]]
+**related** ↔ [[aku-bmc-concept]] · [[aku-recursos-clave-concept]] · [[aku-actividades-clave-concept]] · [[aku-canales-de-distribucion-concept]] · [[aku-crecimiento-organico-inorganico-concept]] · [[aku-alianza-estrategica-concept]] · [[aku-bonos-de-terceros-claim]] · [[aku-propuesta-de-valor-concept]]

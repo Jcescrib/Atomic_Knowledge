@@ -34,6 +34,11 @@ relations:
   related:
     - aku-gastos-contables-concept
     - aku-coste-por-engaged-lead-payroll-method
+    - aku-coste-mercancias-vendidas-concept
+    - aku-gastos-de-explotacion-concept
+    - aku-gastos-financieros-concept
+    - aku-amortizacion-concept
+    - aku-provisiones-concept
 
 sources:
   - raw/cursos/power-mba/09-01-02-detalle-cuentas-estado-resultados/09-01-02-detalle-cuentas-estado-resultados.md
@@ -46,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-gastos-contables-concept]] · [[aku-coste-por-engaged-lead-payroll-method]]
+**related** ↔ [[aku-gastos-contables-concept]] · [[aku-coste-por-engaged-lead-payroll-method]] · [[aku-coste-mercancias-vendidas-concept]] · [[aku-gastos-de-explotacion-concept]] · [[aku-gastos-financieros-concept]] · [[aku-amortizacion-concept]] · [[aku-provisiones-concept]]

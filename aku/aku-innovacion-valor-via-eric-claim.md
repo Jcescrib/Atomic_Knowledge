@@ -39,6 +39,8 @@ relations:
     - aku-eric-incrementar-method
     - aku-eric-crear-method
     - aku-ampliar-gap-valor-precio-claim
+    - aku-curva-valor-concept
+    - aku-factores-competitivos-concept
 
 sources:
   - "raw/cursos/power-mba/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave/2-6-oceano-azul-como-crear-propuestas-de-valor-disruptivas-y-buscar-para-tu-oc-eano-azul-conceptos-clave.md"
@@ -51,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-innovacion-valor-concept]] · [[aku-matriz-rice-concept]] · [[aku-eric-reducir-method]] · [[aku-eric-eliminar-method]] · [[aku-eric-incrementar-method]] · [[aku-eric-crear-method]] · [[aku-ampliar-gap-valor-precio-claim]]
+**related** ↔ [[aku-innovacion-valor-concept]] · [[aku-matriz-rice-concept]] · [[aku-eric-reducir-method]] · [[aku-eric-eliminar-method]] · [[aku-eric-incrementar-method]] · [[aku-eric-crear-method]] · [[aku-ampliar-gap-valor-precio-claim]] · [[aku-curva-valor-concept]] · [[aku-factores-competitivos-concept]]

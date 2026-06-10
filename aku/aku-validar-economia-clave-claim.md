@@ -36,6 +36,9 @@ relations:
     - aku-product-market-fit-concept
     - aku-fase-optimizar-canales-concept
     - aku-bootstrapped-debe-captar-con-beneficio
+    - aku-etapas-startup-concept
+    - aku-problem-solution-fit-concept
+    - aku-fase-escalar-concept
 
 sources:
   - "raw/cursos/power-mba/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos.md"
@@ -48,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cltv-cac-ratio-concept]] · [[aku-product-market-fit-concept]] · [[aku-fase-optimizar-canales-concept]] · [[aku-bootstrapped-debe-captar-con-beneficio]]
+**related** ↔ [[aku-cltv-cac-ratio-concept]] · [[aku-product-market-fit-concept]] · [[aku-fase-optimizar-canales-concept]] · [[aku-bootstrapped-debe-captar-con-beneficio]] · [[aku-etapas-startup-concept]] · [[aku-problem-solution-fit-concept]] · [[aku-fase-escalar-concept]]

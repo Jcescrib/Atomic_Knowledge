@@ -38,6 +38,11 @@ relations:
     - aku-red-display-concept
     - aku-anuncios-aceptables-concept
     - aku-evitar-medios-que-muestren-un-emplazamiento-pagado-claim
+    - aku-performance-marketing-concept
+    - aku-paid-social-concept
+    - aku-sem-paid-search-concept
+    - aku-programatica-concept
+    - aku-publicidad-offline-concept
 
 sources:
   - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
@@ -51,4 +56,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-formatos-ubicaciones-publicidad-nativa-concept]]
-**related** ↔ [[aku-estilo-editorial-concept]] · [[aku-canales-marketing-digital-concept]] · [[aku-red-display-concept]] · [[aku-anuncios-aceptables-concept]] · [[aku-evitar-medios-que-muestren-un-emplazamiento-pagado-claim]]
+**related** ↔ [[aku-estilo-editorial-concept]] · [[aku-canales-marketing-digital-concept]] · [[aku-red-display-concept]] · [[aku-anuncios-aceptables-concept]] · [[aku-evitar-medios-que-muestren-un-emplazamiento-pagado-claim]] · [[aku-performance-marketing-concept]] · [[aku-paid-social-concept]] · [[aku-sem-paid-search-concept]] · [[aku-programatica-concept]] · [[aku-publicidad-offline-concept]]

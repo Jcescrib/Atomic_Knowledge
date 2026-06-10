@@ -26,14 +26,19 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-estructuras-organizacionales-concept]
+  supported_by:
+    - aku-estructuras-organizacionales-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-arquetipos-cultura-concept]
+  related:
+    - aku-arquetipos-cultura-concept
+    - aku-estructura-funcional-concept
+    - aku-estructura-divisional-concept
+    - aku-estructura-matriz-concept
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -48,4 +53,4 @@ status_note: ""
 
 **supported_by** ← [[aku-estructuras-organizacionales-concept]]
 
-**related** ↔ [[aku-arquetipos-cultura-concept]]
+**related** ↔ [[aku-arquetipos-cultura-concept]] · [[aku-estructura-funcional-concept]] · [[aku-estructura-divisional-concept]] · [[aku-estructura-matriz-concept]]

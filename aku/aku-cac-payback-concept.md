@@ -47,6 +47,8 @@ relations:
     - aku-cac-payback-financia-crecimiento-claim
     - aku-ltgp-cac-3-a-1-claim
     - aku-cac-similar-entre-competidores-claim
+    - aku-cltv-minus-cac-concept
+    - aku-cltv-cac-dual-optimization
 
 sources:
   - "raw/cursos/power-mba/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md"
@@ -62,4 +64,4 @@ status_note: ""
 
 **supported_by** ← [[aku-cltv-concept]] · [[aku-cac-concept]]
 
-**related** ↔ [[aku-cltv-cac-ratio-concept]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-motor-crecimiento-sticky-concept]] · [[aku-client-financed-acquisition-concept]] · [[aku-money-model-concept]] · [[aku-cac-payback-financia-crecimiento-claim]] · [[aku-ltgp-cac-3-a-1-claim]] · [[aku-cac-similar-entre-competidores-claim]]
+**related** ↔ [[aku-cltv-cac-ratio-concept]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-motor-crecimiento-sticky-concept]] · [[aku-client-financed-acquisition-concept]] · [[aku-money-model-concept]] · [[aku-cac-payback-financia-crecimiento-claim]] · [[aku-ltgp-cac-3-a-1-claim]] · [[aku-cac-similar-entre-competidores-claim]] · [[aku-cltv-minus-cac-concept]] · [[aku-cltv-cac-dual-optimization]]

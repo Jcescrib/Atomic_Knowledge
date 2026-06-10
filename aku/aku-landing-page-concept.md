@@ -34,6 +34,10 @@ relations:
     - aku-url-visible-google-concept
     - aku-relevancia-anuncio-landing-rendimiento-claim
     - aku-ux-compatibility-adaptarse-al-usuario-concept
+    - aku-ab-testing-concept
+    - aku-cuello-botella-funnel-concept
+    - aku-piramide-conversion-concept
+    - aku-proceso-cro-method
 sources:
   - raw/cursos/power-mba/5-6-1-conceptos-clave-conversi-on/5-6-1-conceptos-clave-conversi-on.md
   - "raw/cursos/power-mba/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md"
@@ -46,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cro-concept]] · [[aku-cta-concept]] · [[aku-test-de-humo-concept]] · [[aku-url-visible-google-concept]] · [[aku-relevancia-anuncio-landing-rendimiento-claim]] · [[aku-ux-compatibility-adaptarse-al-usuario-concept]]
+**related** ↔ [[aku-cro-concept]] · [[aku-cta-concept]] · [[aku-test-de-humo-concept]] · [[aku-url-visible-google-concept]] · [[aku-relevancia-anuncio-landing-rendimiento-claim]] · [[aku-ux-compatibility-adaptarse-al-usuario-concept]] · [[aku-ab-testing-concept]] · [[aku-cuello-botella-funnel-concept]] · [[aku-piramide-conversion-concept]] · [[aku-proceso-cro-method]]

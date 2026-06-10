@@ -24,14 +24,21 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-multiplo-concept, aku-enterprise-value-concept, aku-ventas-concept]
+  supported_by:
+    - aku-multiplo-concept
+    - aku-enterprise-value-concept
+    - aku-ventas-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-ev-ebitda-method
+    - aku-per-method
+    - aku-precio-flujo-caja-method
+    - aku-precio-valor-contable-method
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -45,3 +52,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-multiplo-concept]] · [[aku-enterprise-value-concept]] · [[aku-ventas-concept]]
+
+**related** ↔ [[aku-ev-ebitda-method]] · [[aku-per-method]] · [[aku-precio-flujo-caja-method]] · [[aku-precio-valor-contable-method]]

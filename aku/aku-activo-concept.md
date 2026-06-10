@@ -25,13 +25,19 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-rotacion-activo-method]
+  supports:
+    - aku-rotacion-activo-method
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-balance-situacion-concept, aku-activo-corriente-concept, aku-activo-no-corriente-concept]
+  related:
+    - aku-balance-situacion-concept
+    - aku-activo-corriente-concept
+    - aku-activo-no-corriente-concept
+    - aku-pasivo-concept
+    - aku-patrimonio-neto-concept
 
 sources:
   - raw/cursos/power-mba/09-01-01-balancedesituacion/09-01-01-balancedesituacion.md
@@ -45,4 +51,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-rotacion-activo-method]]
-**related** ↔ [[aku-balance-situacion-concept]] · [[aku-activo-corriente-concept]] · [[aku-activo-no-corriente-concept]]
+**related** ↔ [[aku-balance-situacion-concept]] · [[aku-activo-corriente-concept]] · [[aku-activo-no-corriente-concept]] · [[aku-pasivo-concept]] · [[aku-patrimonio-neto-concept]]

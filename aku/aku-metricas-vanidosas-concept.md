@@ -38,7 +38,8 @@ relations:
   breaks_context_of:
     - aku-metricas-accionables-concept
   contradicts: []
-  related: []
+  related:
+    - aku-product-market-fit-concept
 
 sources:
   - "raw/cursos/power-mba/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md"
@@ -54,3 +55,5 @@ status_note: ""
 **context_breaks_at** → [[aku-metricas-accionables-concept]]
 
 **breaks_context_of** → [[aku-metricas-accionables-concept]]
+
+**related** ↔ [[aku-product-market-fit-concept]]

@@ -25,13 +25,22 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-rivalidad-competitiva-concept]
+  supports:
+    - aku-rivalidad-competitiva-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-barreras-de-entrada-concept
+    - aku-barrera-economias-de-red-concept
+    - aku-barrera-marca-concept
+    - aku-barrera-patente-concept
+    - aku-barrera-acceso-recursos-preferenciales-concept
+    - aku-economias-de-escala-concept
+    - aku-costes-de-cambio-concept
+    - aku-barreras-entrada-aumentan-rentabilidad-claim
 
 sources:
   - raw/cursos/power-mba/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
@@ -45,3 +54,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-rivalidad-competitiva-concept]]
+
+**related** ↔ [[aku-barreras-de-entrada-concept]] · [[aku-barrera-economias-de-red-concept]] · [[aku-barrera-marca-concept]] · [[aku-barrera-patente-concept]] · [[aku-barrera-acceso-recursos-preferenciales-concept]] · [[aku-economias-de-escala-concept]] · [[aku-costes-de-cambio-concept]] · [[aku-barreras-entrada-aumentan-rentabilidad-claim]]

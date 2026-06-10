@@ -42,6 +42,7 @@ relations:
   related:
     - aku-analisis-pest-concept
     - aku-lleva-un-book-scouting-report-de-tu-competencia-method
+    - aku-rivalidad-reduce-rentabilidad-claim
 
 sources:
   - raw/cursos/power-mba/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
@@ -55,4 +56,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-amenaza-sustitutivos-concept]] · [[aku-barreras-de-entrada-concept]] · [[aku-poder-proveedores-concept]] · [[aku-poder-compradores-concept]] · [[aku-rivalidad-competitiva-concept]]
-**related** ↔ [[aku-analisis-pest-concept]] · [[aku-lleva-un-book-scouting-report-de-tu-competencia-method]]
+**related** ↔ [[aku-analisis-pest-concept]] · [[aku-lleva-un-book-scouting-report-de-tu-competencia-method]] · [[aku-rivalidad-reduce-rentabilidad-claim]]

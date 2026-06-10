@@ -42,6 +42,9 @@ relations:
     - aku-churn-rate-concept
     - aku-cac-payback-concept
     - aku-lifetime-discount-en-churn-point
+    - aku-cac-payback-financia-crecimiento-claim
+    - aku-coeficiente-viralidad-concept
+    - aku-viral-bajo-cltv-compatible-claim
 
 sources:
   - "raw/cursos/power-mba/2-2-1-tiposmotorescrecimiento/2-2-1-tiposmotorescrecimiento.md"
@@ -54,4 +57,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-motor-crecimiento-concept]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-motor-crecimiento-viral-concept]] · [[aku-churn-rate-concept]] · [[aku-cac-payback-concept]] · [[aku-lifetime-discount-en-churn-point]]
+**related** ↔ [[aku-motor-crecimiento-concept]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-motor-crecimiento-viral-concept]] · [[aku-churn-rate-concept]] · [[aku-cac-payback-concept]] · [[aku-lifetime-discount-en-churn-point]] · [[aku-cac-payback-financia-crecimiento-claim]] · [[aku-coeficiente-viralidad-concept]] · [[aku-viral-bajo-cltv-compatible-claim]]

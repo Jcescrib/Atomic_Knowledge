@@ -36,6 +36,8 @@ relations:
     - aku-coste-deuda-kd-concept
     - aku-gastos-financieros-concept
     - aku-equity-es-el-upside-deuda-es-downside-garantizado-concept
+    - aku-coste-fondos-propios-ke-concept
+    - aku-wacc-method
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-estructura-de-capital-concept]] · [[aku-coste-deuda-kd-concept]] · [[aku-gastos-financieros-concept]] · [[aku-equity-es-el-upside-deuda-es-downside-garantizado-concept]]
+**related** ↔ [[aku-estructura-de-capital-concept]] · [[aku-coste-deuda-kd-concept]] · [[aku-gastos-financieros-concept]] · [[aku-equity-es-el-upside-deuda-es-downside-garantizado-concept]] · [[aku-coste-fondos-propios-ke-concept]] · [[aku-wacc-method]]

@@ -31,6 +31,13 @@ relations:
   related:
     - aku-cuello-botella-funnel-concept
     - aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept
+    - aku-ga-usuarios-concept
+    - aku-ga-sesiones-concept
+    - aku-ga-paginas-vistas-concept
+    - aku-ga-paginas-vistas-unicas-concept
+    - aku-ga-paginas-por-sesion-method
+    - aku-ga-duracion-media-sesion-method
+    - aku-ga-bounce-rate-concept
 sources:
   - raw/cursos/power-mba/15-2-principales-m-etricas-google-analytics-pptx/15-2-principales-m-etricas-google-analytics-pptx.md
 created: 2026-06-04
@@ -43,4 +50,4 @@ status_note: ""
 
 **supported_by** ← [[aku-metricas-google-analytics-concept]]
 
-**related** ↔ [[aku-cuello-botella-funnel-concept]] · [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]
+**related** ↔ [[aku-cuello-botella-funnel-concept]] · [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]] · [[aku-ga-usuarios-concept]] · [[aku-ga-sesiones-concept]] · [[aku-ga-paginas-vistas-concept]] · [[aku-ga-paginas-vistas-unicas-concept]] · [[aku-ga-paginas-por-sesion-method]] · [[aku-ga-duracion-media-sesion-method]] · [[aku-ga-bounce-rate-concept]]

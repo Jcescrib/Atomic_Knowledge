@@ -38,6 +38,7 @@ relations:
     - aku-recursos-clave-concept
     - aku-actividades-clave-concept
     - aku-overload-principle-concept
+    - aku-mercados-apropiados-para-cada-ventaja-claim
 
 sources:
   - raw/cursos/power-mba/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
@@ -51,4 +52,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ventaja-competitiva-concept]]
-**related** ↔ [[aku-recursos-clave-concept]] · [[aku-actividades-clave-concept]] · [[aku-overload-principle-concept]]
+**related** ↔ [[aku-recursos-clave-concept]] · [[aku-actividades-clave-concept]] · [[aku-overload-principle-concept]] · [[aku-mercados-apropiados-para-cada-ventaja-claim]]

@@ -33,7 +33,11 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-elevator-pitch-bloques-adicionales-concept
+    - aku-elevator-pitch-template-3-lineas-method
+    - aku-elevator-pitch-template-anglosajon-completo-method
+    - aku-elevator-pitch-template-soy-ceo-method
 
 sources:
   - raw/cursos/power-mba/6-3-4-templates-elevator-pitch/6-3-4-templates-elevator-pitch.md
@@ -47,3 +51,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-elevator-pitch-concept]]
+
+**related** ↔ [[aku-elevator-pitch-bloques-adicionales-concept]] · [[aku-elevator-pitch-template-3-lineas-method]] · [[aku-elevator-pitch-template-anglosajon-completo-method]] · [[aku-elevator-pitch-template-soy-ceo-method]]

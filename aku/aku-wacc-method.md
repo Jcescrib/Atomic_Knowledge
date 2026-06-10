@@ -36,6 +36,7 @@ relations:
   contradicts: []
   related:
     - aku-equity-es-el-upside-deuda-es-downside-garantizado-concept
+    - aku-escudo-fiscal-concept
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supported_by** ← [[aku-estructura-de-capital-concept]] · [[aku-coste-fondos-propios-ke-concept]] · [[aku-coste-deuda-kd-concept]]
 
-**related** ↔ [[aku-equity-es-el-upside-deuda-es-downside-garantizado-concept]]
+**related** ↔ [[aku-equity-es-el-upside-deuda-es-downside-garantizado-concept]] · [[aku-escudo-fiscal-concept]]

@@ -31,7 +31,14 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-clasificacion-display-por-movimiento-concept]
+  related:
+    - aku-clasificacion-display-por-movimiento-concept
+    - aku-robapaginas-concept
+    - aku-banner-display-concept
+    - aku-formatos-flotantes-concept
+    - aku-incentivized-ads-concept
+    - aku-display-video-in-stream-concept
+    - aku-display-video-out-stream-concept
 
 sources:
   - raw/cursos/power-mba/5-4-3-formatos-de-anuncios-display/5-4-3-formatos-de-anuncios-display.md
@@ -44,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-clasificacion-display-por-movimiento-concept]]
+**related** ↔ [[aku-clasificacion-display-por-movimiento-concept]] · [[aku-robapaginas-concept]] · [[aku-banner-display-concept]] · [[aku-formatos-flotantes-concept]] · [[aku-incentivized-ads-concept]] · [[aku-display-video-in-stream-concept]] · [[aku-display-video-out-stream-concept]]

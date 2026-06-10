@@ -32,7 +32,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-herramientas-gestion-rrss-concept]
+  related:
+    - aku-herramientas-gestion-rrss-concept
+    - aku-escucha-social-concept
 
 sources:
   - raw/cursos/power-mba/12-2-herramientas-de-gesti-on-de-rrss/12-2-herramientas-de-gesti-on-de-rrss.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-herramientas-gestion-rrss-concept]]
+**related** ↔ [[aku-herramientas-gestion-rrss-concept]] · [[aku-escucha-social-concept]]

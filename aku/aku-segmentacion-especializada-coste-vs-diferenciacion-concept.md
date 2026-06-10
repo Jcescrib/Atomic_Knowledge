@@ -36,6 +36,7 @@ relations:
     - aku-liderazgo-en-coste-concept
     - aku-estrategia-diferenciacion-concept
     - aku-commit-to-niche-claim
+    - aku-ventajas-estrategia-nicho-claim
 
 sources:
   - raw/cursos/power-mba/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
@@ -49,4 +50,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-nicho-strategy-concept]]
-**related** ↔ [[aku-liderazgo-en-coste-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-commit-to-niche-claim]]
+**related** ↔ [[aku-liderazgo-en-coste-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-commit-to-niche-claim]] · [[aku-ventajas-estrategia-nicho-claim]]

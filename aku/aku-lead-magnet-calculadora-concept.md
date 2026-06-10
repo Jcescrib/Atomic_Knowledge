@@ -32,7 +32,14 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-lead-magnet-concurso-sorteo-concept
+    - aku-lead-magnet-curso-gratuito-concept
+    - aku-lead-magnet-descuento-cupon-concept
+    - aku-lead-magnet-plantilla-template-concept
+    - aku-lead-magnet-prueba-producto-concept
+    - aku-lead-magnet-resumen-visita-concept
+    - aku-lead-magnet-ubicaciones-claim
 
 sources:
   - raw/cursos/power-mba/5-5-2-ejemplos-por-tipos-de-lead-magnets/5-5-2-ejemplos-por-tipos-de-lead-magnets.md
@@ -46,3 +53,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-lead-magnet-concept]]
+
+**related** ↔ [[aku-lead-magnet-concurso-sorteo-concept]] · [[aku-lead-magnet-curso-gratuito-concept]] · [[aku-lead-magnet-descuento-cupon-concept]] · [[aku-lead-magnet-plantilla-template-concept]] · [[aku-lead-magnet-prueba-producto-concept]] · [[aku-lead-magnet-resumen-visita-concept]] · [[aku-lead-magnet-ubicaciones-claim]]

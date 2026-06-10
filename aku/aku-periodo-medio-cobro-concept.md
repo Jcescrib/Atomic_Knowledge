@@ -30,7 +30,13 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-periodo-medio-maduracion-concept]
+  related:
+    - aku-periodo-medio-maduracion-concept
+    - aku-necesidades-operativas-fondos-concept
+    - aku-formula-nof-method
+    - aku-ciclo-working-capital-dias-method
+    - aku-dias-de-existencias-concept
+    - aku-periodo-medio-pago-concept
 
 sources:
   - raw/cursos/power-mba/09-02-01-ratios-analisis-financieros/09-02-01-ratios-analisis-financieros.md
@@ -43,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-periodo-medio-maduracion-concept]]
+**related** ↔ [[aku-periodo-medio-maduracion-concept]] · [[aku-necesidades-operativas-fondos-concept]] · [[aku-formula-nof-method]] · [[aku-ciclo-working-capital-dias-method]] · [[aku-dias-de-existencias-concept]] · [[aku-periodo-medio-pago-concept]]

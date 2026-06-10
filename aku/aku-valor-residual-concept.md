@@ -31,7 +31,13 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-valor-actual-presente-concept, aku-free-cash-flow-concept]
+  related:
+    - aku-valor-actual-presente-concept
+    - aku-free-cash-flow-concept
+    - aku-valoracion-empresa-enfoques-concept
+    - aku-valoracion-por-activos-method
+    - aku-valoracion-por-multiplos-method
+    - aku-dcf-method
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -44,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-valor-actual-presente-concept]] · [[aku-free-cash-flow-concept]]
+**related** ↔ [[aku-valor-actual-presente-concept]] · [[aku-free-cash-flow-concept]] · [[aku-valoracion-empresa-enfoques-concept]] · [[aku-valoracion-por-activos-method]] · [[aku-valoracion-por-multiplos-method]] · [[aku-dcf-method]]

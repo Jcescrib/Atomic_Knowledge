@@ -35,6 +35,7 @@ relations:
   related:
     - aku-cltv-concept
     - aku-tres-formas-crecer-concept
+    - aku-retencion-no-es-mala-claim
 
 sources:
   - raw/cursos/power-mba/5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on/5-7-1-conceptos-clave-fidelizaci-on-y-retenci-on.md
@@ -48,4 +49,4 @@ status_note: ""
 ## Relaciones
 
 **constrains** → [[aku-fidelizacion-vs-retencion-concept]]
-**related** ↔ [[aku-cltv-concept]] · [[aku-tres-formas-crecer-concept]]
+**related** ↔ [[aku-cltv-concept]] · [[aku-tres-formas-crecer-concept]] · [[aku-retencion-no-es-mala-claim]]

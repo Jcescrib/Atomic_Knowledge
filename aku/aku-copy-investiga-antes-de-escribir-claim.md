@@ -22,14 +22,21 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-hacks-copywriting-concept]
+  supported_by:
+    - aku-hacks-copywriting-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-copy-objetivo-definido-claim
+    - aku-copy-incluir-titular-claim
+    - aku-copy-promesas-concretas-claim
+    - aku-copy-aportar-pruebas-claim
+    - aku-copy-incluir-cta-claim
+    - aku-copy-sin-florituras-claim
 
 sources:
   - raw/cursos/power-mba/18-info-hacks-copy/18-info-hacks-copy.md
@@ -43,3 +50,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-hacks-copywriting-concept]]
+
+**related** ↔ [[aku-copy-objetivo-definido-claim]] · [[aku-copy-incluir-titular-claim]] · [[aku-copy-promesas-concretas-claim]] · [[aku-copy-aportar-pruebas-claim]] · [[aku-copy-incluir-cta-claim]] · [[aku-copy-sin-florituras-claim]]

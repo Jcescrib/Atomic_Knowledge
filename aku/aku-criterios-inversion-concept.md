@@ -31,7 +31,13 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-venture-capital-concept, aku-pitch-deck-concept, aku-errores-emprendedores-ante-inversores-claim, aku-proceso-analisis-inversion-concept, aku-pitch-deck-financials-concept]
+  related:
+    - aku-venture-capital-concept
+    - aku-pitch-deck-concept
+    - aku-errores-emprendedores-ante-inversores-claim
+    - aku-proceso-analisis-inversion-concept
+    - aku-pitch-deck-financials-concept
+    - aku-levantar-financiacion-como-ventas-claim
 
 sources:
   - raw/cursos/power-mba/6-3-1-vender-tu-proyecto/6-3-1-vender-tu-proyecto.md
@@ -44,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-venture-capital-concept]] · [[aku-pitch-deck-concept]] · [[aku-errores-emprendedores-ante-inversores-claim]] · [[aku-proceso-analisis-inversion-concept]] · [[aku-pitch-deck-financials-concept]]
+**related** ↔ [[aku-venture-capital-concept]] · [[aku-pitch-deck-concept]] · [[aku-errores-emprendedores-ante-inversores-claim]] · [[aku-proceso-analisis-inversion-concept]] · [[aku-pitch-deck-financials-concept]] · [[aku-levantar-financiacion-como-ventas-claim]]

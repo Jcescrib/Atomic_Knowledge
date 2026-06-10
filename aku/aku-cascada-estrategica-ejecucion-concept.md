@@ -40,6 +40,10 @@ relations:
     - aku-cultura-corporativa-concept
     - aku-feedback-hacia-arriba-cadena-claim
     - aku-prioritize-and-execute-pasos-method
+    - aku-objetivos-vs-resultados-clave-concept
+    - aku-beneficios-okr-claim
+    - aku-ajuste-objetivos-tradicional-concept
+    - aku-revision-anual-falla-incertidumbre-claim
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -53,4 +57,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-proposito-mision-concept]] · [[aku-vision-empresa-concept]] · [[aku-valores-marca-concept]]
-**related** ↔ [[aku-okr-concept]] · [[aku-cultura-corporativa-concept]] · [[aku-feedback-hacia-arriba-cadena-claim]] · [[aku-prioritize-and-execute-pasos-method]]
+**related** ↔ [[aku-okr-concept]] · [[aku-cultura-corporativa-concept]] · [[aku-feedback-hacia-arriba-cadena-claim]] · [[aku-prioritize-and-execute-pasos-method]] · [[aku-objetivos-vs-resultados-clave-concept]] · [[aku-beneficios-okr-claim]] · [[aku-ajuste-objetivos-tradicional-concept]] · [[aku-revision-anual-falla-incertidumbre-claim]]

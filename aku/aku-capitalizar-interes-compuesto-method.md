@@ -36,6 +36,9 @@ relations:
   related:
     - aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim
     - aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim
+    - aku-capitalizar-interes-simple-method
+    - aku-descontar-actualizar-method
+    - aku-valor-actual-presente-concept
 
 sources:
   - raw/cursos/power-mba/09-03-01-conceptosclavefinanzas2/09-03-01-conceptosclavefinanzas2.md
@@ -50,6 +53,6 @@ status_note: ""
 
 **supported_by** ← [[aku-valor-futuro-concept]]
 
-**related** ↔ [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]] · [[aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim]]
+**related** ↔ [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]] · [[aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim]] · [[aku-capitalizar-interes-simple-method]] · [[aku-descontar-actualizar-method]] · [[aku-valor-actual-presente-concept]]
 
 **supports** → [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]] · [[aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim]]

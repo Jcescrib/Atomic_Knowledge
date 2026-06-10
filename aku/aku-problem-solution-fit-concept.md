@@ -46,6 +46,9 @@ relations:
     - aku-pitch-deck-concept
     - aku-problem-solution-cycle-concept
     - aku-bonos-gratis-crean-problemas-upsell
+    - aku-fase-optimizar-canales-concept
+    - aku-fase-escalar-concept
+    - aku-validar-economia-clave-claim
 
 sources:
   - "raw/cursos/power-mba/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos.md"
@@ -58,4 +61,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-product-market-fit-concept]] · [[aku-etapas-startup-concept]] · [[aku-entrevista-problem-solution-concept]] · [[aku-lean-startup-method-concept]] · [[aku-fases-financiacion-concept]] · [[aku-pitch-deck-concept]] · [[aku-problem-solution-cycle-concept]] · [[aku-bonos-gratis-crean-problemas-upsell]]
+**related** ↔ [[aku-product-market-fit-concept]] · [[aku-etapas-startup-concept]] · [[aku-entrevista-problem-solution-concept]] · [[aku-lean-startup-method-concept]] · [[aku-fases-financiacion-concept]] · [[aku-pitch-deck-concept]] · [[aku-problem-solution-cycle-concept]] · [[aku-bonos-gratis-crean-problemas-upsell]] · [[aku-fase-optimizar-canales-concept]] · [[aku-fase-escalar-concept]] · [[aku-validar-economia-clave-claim]]

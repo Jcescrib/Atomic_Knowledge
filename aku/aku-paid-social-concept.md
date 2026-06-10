@@ -36,6 +36,11 @@ relations:
     - aku-marketing-influencers-concept
     - aku-comparativa-redes-sociales-concept
     - aku-paid-ads-concept
+    - aku-performance-marketing-concept
+    - aku-programatica-concept
+    - aku-red-display-concept
+    - aku-publicidad-nativa-concept
+    - aku-publicidad-offline-concept
 
 sources:
   - raw/cursos/power-mba/5-4-1-atracci-on-y-branding/5-4-1-atracci-on-y-branding.md
@@ -49,4 +54,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-canales-marketing-digital-concept]]
-**related** ↔ [[aku-sem-paid-search-concept]] · [[aku-marketing-influencers-concept]] · [[aku-comparativa-redes-sociales-concept]] · [[aku-paid-ads-concept]]
+**related** ↔ [[aku-sem-paid-search-concept]] · [[aku-marketing-influencers-concept]] · [[aku-comparativa-redes-sociales-concept]] · [[aku-paid-ads-concept]] · [[aku-performance-marketing-concept]] · [[aku-programatica-concept]] · [[aku-red-display-concept]] · [[aku-publicidad-nativa-concept]] · [[aku-publicidad-offline-concept]]

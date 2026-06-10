@@ -41,6 +41,10 @@ relations:
     - aku-amenaza-sustitutivos-concept
     - aku-pitch-deck-competencia-concept
     - aku-competidor-es-externo-no-interno-claim
+    - aku-cosas-importantes-concept
+    - aku-vete-a-beneficios-ultimos-claim
+    - aku-emocion-prevalece-razon-claim
+    - aku-gente-no-tiene-claro-que-busca-claim
 
 sources:
   - "raw/cursos/power-mba/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a/2-5-propuesta-de-valor-propuestas-de-valor-conceptos-clave-a.md"
@@ -53,4 +57,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-propuesta-de-valor-concept]] · [[aku-factores-competitivos-concept]] · [[aku-amenaza-sustitutivos-concept]] · [[aku-pitch-deck-competencia-concept]] · [[aku-competidor-es-externo-no-interno-claim]]
+**related** ↔ [[aku-propuesta-de-valor-concept]] · [[aku-factores-competitivos-concept]] · [[aku-amenaza-sustitutivos-concept]] · [[aku-pitch-deck-competencia-concept]] · [[aku-competidor-es-externo-no-interno-claim]] · [[aku-cosas-importantes-concept]] · [[aku-vete-a-beneficios-ultimos-claim]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-gente-no-tiene-claro-que-busca-claim]]

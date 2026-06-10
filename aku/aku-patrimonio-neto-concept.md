@@ -31,7 +31,13 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-balance-situacion-concept, aku-capital-social-concept, aku-reservas-beneficios-no-distribuidos-concept, aku-ingresos-contables-concept]
+  related:
+    - aku-balance-situacion-concept
+    - aku-capital-social-concept
+    - aku-reservas-beneficios-no-distribuidos-concept
+    - aku-ingresos-contables-concept
+    - aku-activo-concept
+    - aku-pasivo-concept
 
 sources:
   - raw/cursos/power-mba/09-01-01-balancedesituacion/09-01-01-balancedesituacion.md
@@ -44,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-balance-situacion-concept]] · [[aku-capital-social-concept]] · [[aku-reservas-beneficios-no-distribuidos-concept]] · [[aku-ingresos-contables-concept]]
+**related** ↔ [[aku-balance-situacion-concept]] · [[aku-capital-social-concept]] · [[aku-reservas-beneficios-no-distribuidos-concept]] · [[aku-ingresos-contables-concept]] · [[aku-activo-concept]] · [[aku-pasivo-concept]]

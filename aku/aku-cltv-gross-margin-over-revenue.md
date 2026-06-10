@@ -32,6 +32,11 @@ relations:
   contradicts: []
   related:
     - aku-cltv-minus-cac-concept
+    - aku-cltv-subscription-formula
+    - aku-cltv-transactional-formula
+    - aku-arpu-concept
+    - aku-lifetime-concept
+    - aku-churn-rate-concept
 
 sources:
   - "raw/cursos/power-mba/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md"
@@ -47,4 +52,4 @@ status_note: ""
 
 **constrains** → [[aku-cltv-concept]]
 
-**related** ↔ [[aku-cltv-minus-cac-concept]]
+**related** ↔ [[aku-cltv-minus-cac-concept]] · [[aku-cltv-subscription-formula]] · [[aku-cltv-transactional-formula]] · [[aku-arpu-concept]] · [[aku-lifetime-concept]] · [[aku-churn-rate-concept]]

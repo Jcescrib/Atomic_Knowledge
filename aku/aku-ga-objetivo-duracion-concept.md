@@ -30,6 +30,9 @@ relations:
   contradicts: []
   related:
     - aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim
+    - aku-ga-objetivo-destino-concept
+    - aku-ga-objetivo-engagement-concept
+    - aku-ga-objetivo-evento-concept
 sources:
   - raw/cursos/power-mba/15-4-tipos-de-objetivos-google-analytics-pptx/15-4-tipos-de-objetivos-google-analytics-pptx.md
 created: 2026-06-04
@@ -42,4 +45,4 @@ status_note: ""
 
 **supported_by** ← [[aku-tipos-objetivos-google-analytics-concept]]
 
-**related** ↔ [[aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim]]
+**related** ↔ [[aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim]] · [[aku-ga-objetivo-destino-concept]] · [[aku-ga-objetivo-engagement-concept]] · [[aku-ga-objetivo-evento-concept]]

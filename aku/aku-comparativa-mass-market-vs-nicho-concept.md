@@ -42,6 +42,9 @@ relations:
     - aku-nicho-strategy-concept
     - aku-segmentado-strategy-concept
     - aku-commit-to-niche-claim
+    - aku-nicho-recomendado-lanzamiento-claim
+    - aku-foco-early-adopters-match-brutal-claim
+    - aku-importancia-segmentacion-claim
 
 sources:
   - "raw/cursos/power-mba/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md"
@@ -54,4 +57,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-mass-market-strategy-concept]] · [[aku-nicho-strategy-concept]] · [[aku-segmentado-strategy-concept]] · [[aku-commit-to-niche-claim]]
+**related** ↔ [[aku-mass-market-strategy-concept]] · [[aku-nicho-strategy-concept]] · [[aku-segmentado-strategy-concept]] · [[aku-commit-to-niche-claim]] · [[aku-nicho-recomendado-lanzamiento-claim]] · [[aku-foco-early-adopters-match-brutal-claim]] · [[aku-importancia-segmentacion-claim]]

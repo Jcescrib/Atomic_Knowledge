@@ -31,6 +31,11 @@ relations:
     - aku-mas-valor-menos-coste-no-tradeoff-claim
   related:
     - aku-best-cost-strategy-concept
+    - aku-liderazgo-en-coste-concept
+    - aku-estrategia-diferenciacion-concept
+    - aku-diferenciacion-mayores-margenes-claim
+    - aku-liderazgo-coste-imitable-claim
+    - aku-imposibilidad-pivotar-lowcost-a-diferenciacion-claim
 sources:
   - raw/cursos/power-mba/4-2-2-estrategias-competitivas/4-2-2-estrategias-competitivas.md
 created: 2026-06-03
@@ -44,4 +49,4 @@ status_note: "Contradice a aku-mas-valor-menos-coste-no-tradeoff-claim (océano 
 **supported_by** ← [[aku-estrategias-genericas-porter-concept]]
 **contradicts** ↔ [[aku-mas-valor-menos-coste-no-tradeoff-claim]]
 
-**related** ↔ [[aku-best-cost-strategy-concept]]
+**related** ↔ [[aku-best-cost-strategy-concept]] · [[aku-liderazgo-en-coste-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-diferenciacion-mayores-margenes-claim]] · [[aku-liderazgo-coste-imitable-claim]] · [[aku-imposibilidad-pivotar-lowcost-a-diferenciacion-claim]]

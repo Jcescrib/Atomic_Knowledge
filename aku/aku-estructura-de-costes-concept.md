@@ -44,6 +44,7 @@ relations:
   related:
     - aku-bmc-concept
     - aku-gastos-contables-concept
+    - aku-flujos-de-ingresos-concept
 
 sources:
   - "raw/cursos/power-mba/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc.md"
@@ -60,4 +61,4 @@ status_note: ""
 
 **constrained_by** ← [[aku-coste-prioridad-segun-estrategia-claim]]
 
-**related** ↔ [[aku-bmc-concept]] · [[aku-gastos-contables-concept]]
+**related** ↔ [[aku-bmc-concept]] · [[aku-gastos-contables-concept]] · [[aku-flujos-de-ingresos-concept]]

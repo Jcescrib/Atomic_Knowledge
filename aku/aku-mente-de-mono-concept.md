@@ -38,6 +38,8 @@ relations:
     - aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept
     - aku-iluminacion-es-el-espacio-entre-tus-pensamientos-concept
     - aku-la-mente-es-un-musculo-que-puedes-reprogramar-con-consciencia-claim
+    - aku-descansos-un-minuto-method
+    - aku-single-tasking-foco-una-tarea-claim
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -51,4 +53,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-mente-mono-no-estar-presente-concept]]
-**related** ↔ [[aku-mindfulness-concept]] · [[aku-la-meditacion-revela-cuan-fuera-de-control-esta-tu-mente-y-en-la-separacion-hay-liberacion-claim]] · [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-iluminacion-es-el-espacio-entre-tus-pensamientos-concept]] · [[aku-la-mente-es-un-musculo-que-puedes-reprogramar-con-consciencia-claim]]
+**related** ↔ [[aku-mindfulness-concept]] · [[aku-la-meditacion-revela-cuan-fuera-de-control-esta-tu-mente-y-en-la-separacion-hay-liberacion-claim]] · [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-iluminacion-es-el-espacio-entre-tus-pensamientos-concept]] · [[aku-la-mente-es-un-musculo-que-puedes-reprogramar-con-consciencia-claim]] · [[aku-descansos-un-minuto-method]] · [[aku-single-tasking-foco-una-tarea-claim]]

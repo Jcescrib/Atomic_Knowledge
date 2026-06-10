@@ -27,14 +27,22 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-marca-concept, aku-posicionamiento-concept, aku-proposito-mision-concept]
+  supported_by:
+    - aku-marca-concept
+    - aku-posicionamiento-concept
+    - aku-proposito-mision-concept
   supports: []
-  constrained_by: [aku-errores-marca-90-empresas-claim]
+  constrained_by:
+    - aku-errores-marca-90-empresas-claim
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-propuesta-de-valor-concept, aku-identidad-de-marca-concept, aku-canales-de-distribucion-concept]
+  related:
+    - aku-propuesta-de-valor-concept
+    - aku-identidad-de-marca-concept
+    - aku-canales-de-distribucion-concept
+    - aku-gota-en-oceano-claim
 
 sources:
   - raw/cursos/power-mba/4-4-branding/4-4-branding.md
@@ -50,4 +58,4 @@ status_note: ""
 **supported_by** ← [[aku-marca-concept]] · [[aku-posicionamiento-concept]] · [[aku-proposito-mision-concept]]
 
 **constrained_by** ← [[aku-errores-marca-90-empresas-claim]]
-**related** ↔ [[aku-propuesta-de-valor-concept]] · [[aku-identidad-de-marca-concept]] · [[aku-canales-de-distribucion-concept]]
+**related** ↔ [[aku-propuesta-de-valor-concept]] · [[aku-identidad-de-marca-concept]] · [[aku-canales-de-distribucion-concept]] · [[aku-gota-en-oceano-claim]]

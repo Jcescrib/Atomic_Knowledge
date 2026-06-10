@@ -40,6 +40,8 @@ relations:
     - aku-objetivos-negocio-concept
     - aku-ajuste-objetivos-tradicional-concept
     - aku-objetivos-alineados-organizacion-claim
+    - aku-vision-empresa-concept
+    - aku-revision-anual-falla-incertidumbre-claim
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -54,4 +56,4 @@ status_note: ""
 
 **supports** → [[aku-objetivos-vs-resultados-clave-concept]]
 **constrained_by** ← [[aku-beneficios-okr-claim]]
-**related** ↔ [[aku-cascada-estrategica-ejecucion-concept]] · [[aku-objetivos-negocio-concept]] · [[aku-ajuste-objetivos-tradicional-concept]] · [[aku-objetivos-alineados-organizacion-claim]]
+**related** ↔ [[aku-cascada-estrategica-ejecucion-concept]] · [[aku-objetivos-negocio-concept]] · [[aku-ajuste-objetivos-tradicional-concept]] · [[aku-objetivos-alineados-organizacion-claim]] · [[aku-vision-empresa-concept]] · [[aku-revision-anual-falla-incertidumbre-claim]]

@@ -36,6 +36,12 @@ relations:
     - aku-variables-segmentacion-concept
     - aku-segmentos-de-clientes-concept
     - aku-segmentar-la-copy-por-necesidades-distintas-claim
+    - aku-comparativa-mass-market-vs-nicho-concept
+    - aku-mass-market-strategy-concept
+    - aku-segmentado-strategy-concept
+    - aku-nicho-strategy-concept
+    - aku-nicho-recomendado-lanzamiento-claim
+    - aku-foco-early-adopters-match-brutal-claim
 
 sources:
   - "raw/cursos/power-mba/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md"
@@ -48,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-variables-segmentacion-concept]] · [[aku-segmentos-de-clientes-concept]] · [[aku-segmentar-la-copy-por-necesidades-distintas-claim]]
+**related** ↔ [[aku-variables-segmentacion-concept]] · [[aku-segmentos-de-clientes-concept]] · [[aku-segmentar-la-copy-por-necesidades-distintas-claim]] · [[aku-comparativa-mass-market-vs-nicho-concept]] · [[aku-mass-market-strategy-concept]] · [[aku-segmentado-strategy-concept]] · [[aku-nicho-strategy-concept]] · [[aku-nicho-recomendado-lanzamiento-claim]] · [[aku-foco-early-adopters-match-brutal-claim]]

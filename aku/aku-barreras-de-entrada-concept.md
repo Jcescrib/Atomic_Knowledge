@@ -26,14 +26,31 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-costes-de-cambio-concept, aku-economias-de-escala-concept]
-  supports: [aku-cinco-fuerzas-porter-concept, aku-barreras-entrada-aumentan-rentabilidad-claim, aku-barrera-economias-de-red-concept, aku-barrera-marca-concept, aku-barrera-patente-concept, aku-barrera-acceso-recursos-preferenciales-concept]
+  supported_by:
+    - aku-costes-de-cambio-concept
+    - aku-economias-de-escala-concept
+  supports:
+    - aku-cinco-fuerzas-porter-concept
+    - aku-barreras-entrada-aumentan-rentabilidad-claim
+    - aku-barrera-economias-de-red-concept
+    - aku-barrera-marca-concept
+    - aku-barrera-patente-concept
+    - aku-barrera-acceso-recursos-preferenciales-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-network-effect-concept, aku-masa-critica-concept, aku-ventaja-competitiva-concept, aku-liderazgo-en-coste-concept, aku-liderazgo-coste-imitable-claim, aku-integracion-vertical-adelante-concept, aku-marca-potente-beneficios-claim, aku-ventajas-estrategia-nicho-claim]
+  related:
+    - aku-network-effect-concept
+    - aku-masa-critica-concept
+    - aku-ventaja-competitiva-concept
+    - aku-liderazgo-en-coste-concept
+    - aku-liderazgo-coste-imitable-claim
+    - aku-integracion-vertical-adelante-concept
+    - aku-marca-potente-beneficios-claim
+    - aku-ventajas-estrategia-nicho-claim
+    - aku-barreras-de-salida-concept
 
 sources:
   - raw/cursos/power-mba/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
@@ -48,4 +65,4 @@ status_note: ""
 
 **supported_by** ← [[aku-costes-de-cambio-concept]] · [[aku-economias-de-escala-concept]]
 **supports** → [[aku-cinco-fuerzas-porter-concept]] · [[aku-barreras-entrada-aumentan-rentabilidad-claim]] · [[aku-barrera-economias-de-red-concept]] · [[aku-barrera-marca-concept]] · [[aku-barrera-patente-concept]] · [[aku-barrera-acceso-recursos-preferenciales-concept]]
-**related** ↔ [[aku-network-effect-concept]] · [[aku-masa-critica-concept]] · [[aku-ventaja-competitiva-concept]] · [[aku-liderazgo-en-coste-concept]] · [[aku-liderazgo-coste-imitable-claim]] · [[aku-integracion-vertical-adelante-concept]] · [[aku-marca-potente-beneficios-claim]] · [[aku-ventajas-estrategia-nicho-claim]]
+**related** ↔ [[aku-network-effect-concept]] · [[aku-masa-critica-concept]] · [[aku-ventaja-competitiva-concept]] · [[aku-liderazgo-en-coste-concept]] · [[aku-liderazgo-coste-imitable-claim]] · [[aku-integracion-vertical-adelante-concept]] · [[aku-marca-potente-beneficios-claim]] · [[aku-ventajas-estrategia-nicho-claim]] · [[aku-barreras-de-salida-concept]]

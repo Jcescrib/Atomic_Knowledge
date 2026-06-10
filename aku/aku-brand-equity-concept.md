@@ -25,14 +25,21 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-brand-awareness-concept, aku-brand-love-concept]
+  supported_by:
+    - aku-brand-awareness-concept
+    - aku-brand-love-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-marca-concept]
+  related:
+    - aku-marca-concept
+    - aku-brand-awareness-unaware-concept
+    - aku-brand-awareness-brand-recognition-concept
+    - aku-brand-awareness-brand-recall-concept
+    - aku-brand-awareness-top-of-mind-concept
 
 sources:
   - raw/cursos/power-mba/4-4-branding/4-4-branding.md
@@ -46,4 +53,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-brand-awareness-concept]] · [[aku-brand-love-concept]]
-**related** ↔ [[aku-marca-concept]]
+**related** ↔ [[aku-marca-concept]] · [[aku-brand-awareness-unaware-concept]] · [[aku-brand-awareness-brand-recognition-concept]] · [[aku-brand-awareness-brand-recall-concept]] · [[aku-brand-awareness-top-of-mind-concept]]

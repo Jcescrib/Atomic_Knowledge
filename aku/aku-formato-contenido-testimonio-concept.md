@@ -35,6 +35,9 @@ relations:
   related:
     - aku-cialdini-prueba-social-concept
     - aku-barter-descuento-por-publicidad
+    - aku-formato-contenido-encuesta-concept
+    - aku-formato-contenido-test-quiz-concept
+    - aku-formato-contenido-caso-exito-concept
 
 sources:
   - raw/cursos/power-mba/5-4-9-marketing-de-contenidos-formatos-m-as-habituales/5-4-9-marketing-de-contenidos-formatos-m-as-habituales.md
@@ -49,4 +52,4 @@ status_note: ""
 
 **supported_by** ← [[aku-formatos-marketing-contenidos-concept]]
 
-**related** ↔ [[aku-cialdini-prueba-social-concept]] · [[aku-barter-descuento-por-publicidad]]
+**related** ↔ [[aku-cialdini-prueba-social-concept]] · [[aku-barter-descuento-por-publicidad]] · [[aku-formato-contenido-encuesta-concept]] · [[aku-formato-contenido-test-quiz-concept]] · [[aku-formato-contenido-caso-exito-concept]]

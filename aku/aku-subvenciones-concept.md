@@ -31,7 +31,12 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-ingresos-contables-concept]
+  related:
+    - aku-ingresos-contables-concept
+    - aku-ventas-concept
+    - aku-ingresos-prestaciones-servicios-concept
+    - aku-ingresos-por-arrendamientos-concept
+    - aku-ingresos-financieros-concept
 
 sources:
   - raw/cursos/power-mba/09-01-02-detalle-cuentas-estado-resultados/09-01-02-detalle-cuentas-estado-resultados.md
@@ -44,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-ingresos-contables-concept]]
+**related** ↔ [[aku-ingresos-contables-concept]] · [[aku-ventas-concept]] · [[aku-ingresos-prestaciones-servicios-concept]] · [[aku-ingresos-por-arrendamientos-concept]] · [[aku-ingresos-financieros-concept]]

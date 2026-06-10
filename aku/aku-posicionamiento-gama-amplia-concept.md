@@ -24,13 +24,21 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-posicionamiento-concept]
+  supports:
+    - aku-posicionamiento-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-posicionamiento-especialista-de-nicho-concept]
+  related:
+    - aku-posicionamiento-especialista-de-nicho-concept
+    - aku-posicionamiento-apoyarse-en-atributo-concept
+    - aku-posicionamiento-comunicacion-disruptiva-concept
+    - aku-posicionamiento-mas-barato-concept
+    - aku-posicionamiento-mas-premium-concept
+    - aku-posicionamiento-sector-comoditizado-concept
+    - aku-posicionamiento-ser-el-primero-concept
 
 sources:
   - raw/cursos/power-mba/4-4-branding/4-4-branding.md
@@ -45,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-posicionamiento-concept]]
 
-**related** ↔ [[aku-posicionamiento-especialista-de-nicho-concept]]
+**related** ↔ [[aku-posicionamiento-especialista-de-nicho-concept]] · [[aku-posicionamiento-apoyarse-en-atributo-concept]] · [[aku-posicionamiento-comunicacion-disruptiva-concept]] · [[aku-posicionamiento-mas-barato-concept]] · [[aku-posicionamiento-mas-premium-concept]] · [[aku-posicionamiento-sector-comoditizado-concept]] · [[aku-posicionamiento-ser-el-primero-concept]]

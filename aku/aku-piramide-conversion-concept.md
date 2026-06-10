@@ -33,7 +33,15 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-cro-concept, aku-tipos-objetivos-google-analytics-concept, aku-fase-optimizar-canales-concept, aku-ga-bounce-rate-concept]
+  related:
+    - aku-cro-concept
+    - aku-tipos-objetivos-google-analytics-concept
+    - aku-fase-optimizar-canales-concept
+    - aku-ga-bounce-rate-concept
+    - aku-ab-testing-concept
+    - aku-cuello-botella-funnel-concept
+    - aku-landing-page-concept
+    - aku-proceso-cro-method
 
 sources:
   - raw/cursos/power-mba/5-6-1-conceptos-clave-conversi-on/5-6-1-conceptos-clave-conversi-on.md
@@ -46,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cro-concept]] · [[aku-tipos-objetivos-google-analytics-concept]] · [[aku-fase-optimizar-canales-concept]] · [[aku-ga-bounce-rate-concept]]
+**related** ↔ [[aku-cro-concept]] · [[aku-tipos-objetivos-google-analytics-concept]] · [[aku-fase-optimizar-canales-concept]] · [[aku-ga-bounce-rate-concept]] · [[aku-ab-testing-concept]] · [[aku-cuello-botella-funnel-concept]] · [[aku-landing-page-concept]] · [[aku-proceso-cro-method]]

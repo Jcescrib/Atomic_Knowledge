@@ -24,13 +24,18 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-crecimiento-organico-inorganico-concept]
+  supports:
+    - aku-crecimiento-organico-inorganico-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-adquisicion-concept]
+  related:
+    - aku-adquisicion-concept
+    - aku-crecimiento-inorganico-rapido-claim
+    - aku-joint-venture-concept
+    - aku-alianza-estrategica-concept
 
 sources:
   - raw/cursos/power-mba/4-3-estrategias-de-crecimiento/4-3-estrategias-de-crecimiento.md
@@ -44,4 +49,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-crecimiento-organico-inorganico-concept]]
-**related** ↔ [[aku-adquisicion-concept]]
+**related** ↔ [[aku-adquisicion-concept]] · [[aku-crecimiento-inorganico-rapido-claim]] · [[aku-joint-venture-concept]] · [[aku-alianza-estrategica-concept]]

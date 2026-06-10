@@ -33,6 +33,12 @@ relations:
   related:
     - aku-delivery-vehicles-concept
     - aku-delivery-cube-concept
+    - aku-formato-contenido-vlog-concept
+    - aku-formato-contenido-podcast-concept
+    - aku-formato-contenido-webinar-concept
+    - aku-formato-contenido-tutorial-concept
+    - aku-formato-contenido-infografia-concept
+    - aku-formato-contenido-musica-concept
 
 sources:
   - raw/cursos/power-mba/5-4-9-marketing-de-contenidos-formatos-m-as-habituales/5-4-9-marketing-de-contenidos-formatos-m-as-habituales.md
@@ -47,4 +53,4 @@ status_note: ""
 
 **supported_by** ← [[aku-formatos-marketing-contenidos-concept]]
 
-**related** ↔ [[aku-delivery-vehicles-concept]] · [[aku-delivery-cube-concept]]
+**related** ↔ [[aku-delivery-vehicles-concept]] · [[aku-delivery-cube-concept]] · [[aku-formato-contenido-vlog-concept]] · [[aku-formato-contenido-podcast-concept]] · [[aku-formato-contenido-webinar-concept]] · [[aku-formato-contenido-tutorial-concept]] · [[aku-formato-contenido-infografia-concept]] · [[aku-formato-contenido-musica-concept]]

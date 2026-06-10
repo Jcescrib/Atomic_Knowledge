@@ -31,7 +31,11 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-identidad-de-marca-concept, aku-circulo-dorado-concept]
+  related:
+    - aku-identidad-de-marca-concept
+    - aku-circulo-dorado-concept
+    - aku-marca-concept
+    - aku-marca-potente-beneficios-claim
 
 sources:
   - raw/cursos/power-mba/4-4-branding/4-4-branding.md
@@ -44,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-identidad-de-marca-concept]] · [[aku-circulo-dorado-concept]]
+**related** ↔ [[aku-identidad-de-marca-concept]] · [[aku-circulo-dorado-concept]] · [[aku-marca-concept]] · [[aku-marca-potente-beneficios-claim]]

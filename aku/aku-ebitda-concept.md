@@ -26,13 +26,20 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-margen-ebitda-method, aku-ev-ebitda-method]
+  supports:
+    - aku-margen-ebitda-method
+    - aku-ev-ebitda-method
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-ebit-concept, aku-amortizacion-concept, aku-margen-bruto-concept, aku-multiplo-concept]
+  related:
+    - aku-ebit-concept
+    - aku-amortizacion-concept
+    - aku-margen-bruto-concept
+    - aku-multiplo-concept
+    - aku-beneficio-neto-concept
 
 sources:
   - raw/cursos/power-mba/09-02-01-ratios-analisis-financieros/09-02-01-ratios-analisis-financieros.md
@@ -46,4 +53,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-margen-ebitda-method]] · [[aku-ev-ebitda-method]]
-**related** ↔ [[aku-ebit-concept]] · [[aku-amortizacion-concept]] · [[aku-margen-bruto-concept]] · [[aku-multiplo-concept]]
+**related** ↔ [[aku-ebit-concept]] · [[aku-amortizacion-concept]] · [[aku-margen-bruto-concept]] · [[aku-multiplo-concept]] · [[aku-beneficio-neto-concept]]

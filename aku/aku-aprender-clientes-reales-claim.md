@@ -36,6 +36,7 @@ relations:
   contradicts: []
   related:
     - aku-falso-positivo-validation-concept
+    - aku-hipotesis-concept
 
 sources:
   - "raw/cursos/power-mba/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md"
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-aprendizaje-validado-concept]]
 
-**related** ↔ [[aku-falso-positivo-validation-concept]]
+**related** ↔ [[aku-falso-positivo-validation-concept]] · [[aku-hipotesis-concept]]

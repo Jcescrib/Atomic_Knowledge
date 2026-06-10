@@ -22,14 +22,23 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-nueve-principios-blitzscaling-concept]
+  supported_by:
+    - aku-nueve-principios-blitzscaling-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-blitz-acepta-el-caos-claim
+    - aku-blitz-consigue-demasiada-financiacion-claim
+    - aku-blitz-contrata-rapido-claim
+    - aku-blitz-crea-cultura-fuerte-claim
+    - aku-blitz-haz-cosas-que-no-escalen-claim
+    - aku-blitz-ignora-a-tus-clientes-claim
+    - aku-blitz-lanza-producto-aunque-averguence-claim
+    - aku-blitz-no-resuelvas-todos-problemas-claim
 
 sources:
   - raw/cursos/power-mba/4-5-blitzscaling/4-5-blitzscaling.md
@@ -43,3 +52,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-nueve-principios-blitzscaling-concept]]
+
+**related** ↔ [[aku-blitz-acepta-el-caos-claim]] · [[aku-blitz-consigue-demasiada-financiacion-claim]] · [[aku-blitz-contrata-rapido-claim]] · [[aku-blitz-crea-cultura-fuerte-claim]] · [[aku-blitz-haz-cosas-que-no-escalen-claim]] · [[aku-blitz-ignora-a-tus-clientes-claim]] · [[aku-blitz-lanza-producto-aunque-averguence-claim]] · [[aku-blitz-no-resuelvas-todos-problemas-claim]]

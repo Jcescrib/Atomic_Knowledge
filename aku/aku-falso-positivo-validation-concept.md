@@ -42,6 +42,9 @@ relations:
     - aku-aprender-clientes-reales-claim
     - aku-no-dar-supuesto-hipotesis-claim
     - aku-prueba-precio-entrevista-method
+    - aku-explorar-alternativas-actuales-method
+    - aku-desglosar-propuesta-valor-componentes-method
+    - aku-validar-mensajes-comunicacion-method
 
 sources:
   - "raw/cursos/power-mba/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos.md"
@@ -56,4 +59,4 @@ status_note: ""
 
 **constrains** → [[aku-entrevista-problem-solution-concept]]
 
-**related** ↔ [[aku-aprender-clientes-reales-claim]] · [[aku-no-dar-supuesto-hipotesis-claim]] · [[aku-prueba-precio-entrevista-method]]
+**related** ↔ [[aku-aprender-clientes-reales-claim]] · [[aku-no-dar-supuesto-hipotesis-claim]] · [[aku-prueba-precio-entrevista-method]] · [[aku-explorar-alternativas-actuales-method]] · [[aku-desglosar-propuesta-valor-componentes-method]] · [[aku-validar-mensajes-comunicacion-method]]

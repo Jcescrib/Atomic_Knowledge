@@ -41,6 +41,8 @@ relations:
     - aku-flujos-de-ingresos-concept
     - aku-free-bootstrap-plataforma-claim
     - aku-buy-x-get-y-free-concept
+    - aku-modelo-lineal-concept
+    - aku-valor-independiente-usuarios-modelo-lineal-claim
 
 sources:
   - "raw/cursos/power-mba/2-3-conceptos-clave-de-las-plataformas/2-3-conceptos-clave-de-las-plataformas.md"
@@ -53,4 +55,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelo-free-concept]] · [[aku-modelo-plataforma-concept]] · [[aku-flujos-de-ingresos-concept]] · [[aku-free-bootstrap-plataforma-claim]] · [[aku-buy-x-get-y-free-concept]]
+**related** ↔ [[aku-modelo-free-concept]] · [[aku-modelo-plataforma-concept]] · [[aku-flujos-de-ingresos-concept]] · [[aku-free-bootstrap-plataforma-claim]] · [[aku-buy-x-get-y-free-concept]] · [[aku-modelo-lineal-concept]] · [[aku-valor-independiente-usuarios-modelo-lineal-claim]]

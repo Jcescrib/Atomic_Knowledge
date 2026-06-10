@@ -38,6 +38,8 @@ relations:
     - aku-cltv-subscription-formula
     - aku-lifetime-discount-en-churn-point
     - aku-attraction-a-continuity-con-renovacion
+    - aku-cltv-gross-margin-over-revenue
+    - aku-cltv-transactional-formula
 
 sources:
   - raw/cursos/power-mba/2-2-motores-de-crecimiento-proncipales-m-etricas/2-2-motores-de-crecimiento-proncipales-m-etricas.md
@@ -51,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-churn-rate-concept]] · [[aku-cltv-concept]] · [[aku-arpu-concept]] · [[aku-cltv-subscription-formula]] · [[aku-lifetime-discount-en-churn-point]] · [[aku-attraction-a-continuity-con-renovacion]]
+**related** ↔ [[aku-churn-rate-concept]] · [[aku-cltv-concept]] · [[aku-arpu-concept]] · [[aku-cltv-subscription-formula]] · [[aku-lifetime-discount-en-churn-point]] · [[aku-attraction-a-continuity-con-renovacion]] · [[aku-cltv-gross-margin-over-revenue]] · [[aku-cltv-transactional-formula]]

@@ -43,6 +43,11 @@ relations:
     - aku-free-bootstrap-plataforma-claim
     - aku-la-interconectividad-construye-la-infeccion-dentro-de-la-red-claim
     - aku-las-epidemias-virales-se-originan-en-micronetworks-claim
+    - aku-cac-payback-financia-crecimiento-claim
+    - aku-motor-crecimiento-concept
+    - aku-motor-crecimiento-pago-concept
+    - aku-motor-crecimiento-sticky-concept
+    - aku-viral-bajo-cltv-compatible-claim
 
 sources:
   - "raw/cursos/power-mba/2-2-1-tiposmotorescrecimiento/2-2-1-tiposmotorescrecimiento.md"
@@ -56,4 +61,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-motor-crecimiento-viral-concept]] · [[aku-network-effect-concept]] · [[aku-recomendacion-vs-viralizacion-concept]] · [[aku-referral-growth-exponential-claim]] · [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]] · [[aku-free-bootstrap-plataforma-claim]] · [[aku-la-interconectividad-construye-la-infeccion-dentro-de-la-red-claim]] · [[aku-las-epidemias-virales-se-originan-en-micronetworks-claim]]
+**related** ↔ [[aku-motor-crecimiento-viral-concept]] · [[aku-network-effect-concept]] · [[aku-recomendacion-vs-viralizacion-concept]] · [[aku-referral-growth-exponential-claim]] · [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]] · [[aku-free-bootstrap-plataforma-claim]] · [[aku-la-interconectividad-construye-la-infeccion-dentro-de-la-red-claim]] · [[aku-las-epidemias-virales-se-originan-en-micronetworks-claim]] · [[aku-cac-payback-financia-crecimiento-claim]] · [[aku-motor-crecimiento-concept]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-motor-crecimiento-sticky-concept]] · [[aku-viral-bajo-cltv-compatible-claim]]

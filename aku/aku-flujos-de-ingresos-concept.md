@@ -43,6 +43,9 @@ relations:
     - aku-ingresos-contables-concept
     - aku-bonos-terceros-revenue-streams-claim
     - aku-ltgp-concept
+    - aku-estructura-de-costes-concept
+    - aku-costes-fijos-variables-economias-escala-concept
+    - aku-coste-prioridad-segun-estrategia-claim
 
 sources:
   - "raw/cursos/power-mba/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc.md"
@@ -57,4 +60,4 @@ status_note: ""
 
 **constrained_by** ← [[aku-segmentos-de-clientes-concept]]
 
-**related** ↔ [[aku-bmc-concept]] · [[aku-modelo-free-concept]] · [[aku-modelo-freemium-concept]] · [[aku-ingresos-contables-concept]] · [[aku-bonos-terceros-revenue-streams-claim]] · [[aku-ltgp-concept]]
+**related** ↔ [[aku-bmc-concept]] · [[aku-modelo-free-concept]] · [[aku-modelo-freemium-concept]] · [[aku-ingresos-contables-concept]] · [[aku-bonos-terceros-revenue-streams-claim]] · [[aku-ltgp-concept]] · [[aku-estructura-de-costes-concept]] · [[aku-costes-fijos-variables-economias-escala-concept]] · [[aku-coste-prioridad-segun-estrategia-claim]]

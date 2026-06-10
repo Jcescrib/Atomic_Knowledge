@@ -40,6 +40,11 @@ relations:
     - aku-marketplace-concept
     - aku-on-demand-platform-concept
     - aku-integracion-vertical-adelante-concept
+    - aku-bmc-concept
+    - aku-bmc-cambio-bloque-desplaza-otros-claim
+    - aku-segmentos-de-clientes-concept
+    - aku-segmento-relevante-claim
+    - aku-relaciones-con-clientes-concept
 
 sources:
   - "raw/cursos/power-mba/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc.md"
@@ -52,4 +57,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-canales-de-distribucion-concept]] · [[aku-canal-directo-concept]] · [[aku-marketplace-concept]] · [[aku-on-demand-platform-concept]] · [[aku-integracion-vertical-adelante-concept]]
+**related** ↔ [[aku-canales-de-distribucion-concept]] · [[aku-canal-directo-concept]] · [[aku-marketplace-concept]] · [[aku-on-demand-platform-concept]] · [[aku-integracion-vertical-adelante-concept]] · [[aku-bmc-concept]] · [[aku-bmc-cambio-bloque-desplaza-otros-claim]] · [[aku-segmentos-de-clientes-concept]] · [[aku-segmento-relevante-claim]] · [[aku-relaciones-con-clientes-concept]]

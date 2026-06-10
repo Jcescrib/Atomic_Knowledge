@@ -37,6 +37,9 @@ relations:
     - aku-atribucion-concept
     - aku-canales-marketing-digital-concept
     - aku-fase-optimizar-canales-concept
+    - aku-bmc-cambio-bloque-desplaza-otros-claim
+    - aku-segmento-relevante-claim
+    - aku-relaciones-con-clientes-concept
 sources:
   - raw/cursos/power-mba/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc/2-1-an-alisis-de-un-modelo-de-negocio-innovacion-bmc.md
 created: 2026-06-03
@@ -49,4 +52,4 @@ status_note: ""
 
 **constrained_by** ← [[aku-segmentos-de-clientes-concept]]
 
-**related** ↔ [[aku-bmc-concept]] · [[aku-canal-directo-concept]] · [[aku-canal-indirecto-concept]] · [[aku-ecosistema-alianzas-concept]] · [[aku-plan-de-marca-concept]] · [[aku-atribucion-concept]] · [[aku-canales-marketing-digital-concept]] · [[aku-fase-optimizar-canales-concept]]
+**related** ↔ [[aku-bmc-concept]] · [[aku-canal-directo-concept]] · [[aku-canal-indirecto-concept]] · [[aku-ecosistema-alianzas-concept]] · [[aku-plan-de-marca-concept]] · [[aku-atribucion-concept]] · [[aku-canales-marketing-digital-concept]] · [[aku-fase-optimizar-canales-concept]] · [[aku-bmc-cambio-bloque-desplaza-otros-claim]] · [[aku-segmento-relevante-claim]] · [[aku-relaciones-con-clientes-concept]]

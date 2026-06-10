@@ -34,6 +34,8 @@ relations:
   contradicts: []
   related:
     - aku-evaluation-character-leadership-concept
+    - aku-liderazgo-concept
+    - aku-autoevaluacion-cuerpo-mente-alma-concept
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -50,4 +52,4 @@ status_note: ""
 
 **supported_by** ← [[aku-mind-control-controla-tu-propia-mente-concept]] · [[aku-self-discipline-viene-de-dentro-concept]]
 
-**related** ↔ [[aku-evaluation-character-leadership-concept]]
+**related** ↔ [[aku-evaluation-character-leadership-concept]] · [[aku-liderazgo-concept]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]]

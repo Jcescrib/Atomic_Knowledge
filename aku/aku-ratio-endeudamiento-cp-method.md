@@ -23,14 +23,18 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: [aku-solvencia-concept]
+  supported_by:
+    - aku-solvencia-concept
   supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-ratio-solvencia-method
+    - aku-ratio-endeudamiento-method
+    - aku-ratio-endeudamiento-lp-method
 
 sources:
   - raw/cursos/power-mba/09-02-01-ratios-analisis-financieros/09-02-01-ratios-analisis-financieros.md
@@ -44,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-solvencia-concept]]
+
+**related** ↔ [[aku-ratio-solvencia-method]] · [[aku-ratio-endeudamiento-method]] · [[aku-ratio-endeudamiento-lp-method]]

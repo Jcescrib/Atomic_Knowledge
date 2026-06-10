@@ -27,13 +27,17 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-cro-concept]
+  supports:
+    - aku-cro-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-user-testing-remoto-mapas-calor-concept]
+  related:
+    - aku-user-testing-remoto-mapas-calor-concept
+    - aku-herramientas-analitica-que-pasa-concept
+    - aku-plataformas-analiticas-medicion-conversiones-concept
 
 sources:
   - raw/cursos/power-mba/5-6-2-tabla-herramientas-2/5-6-2-tabla-herramientas-2.md
@@ -47,4 +51,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-cro-concept]]
-**related** ↔ [[aku-user-testing-remoto-mapas-calor-concept]]
+**related** ↔ [[aku-user-testing-remoto-mapas-calor-concept]] · [[aku-herramientas-analitica-que-pasa-concept]] · [[aku-plataformas-analiticas-medicion-conversiones-concept]]

@@ -51,6 +51,7 @@ relations:
     - aku-segmentos-de-clientes-concept
     - aku-free-bootstrap-plataforma-claim
     - aku-clasificados-concept
+    - aku-valor-independiente-usuarios-modelo-lineal-claim
 
 sources:
   - "raw/cursos/power-mba/2-3-conceptos-clave-de-las-plataformas/2-3-conceptos-clave-de-las-plataformas.md"
@@ -63,4 +64,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelo-lineal-concept]] · [[aku-network-effect-concept]] · [[aku-masa-critica-concept]] · [[aku-circulo-virtuoso-concept]] · [[aku-circulo-vicioso-concept]] · [[aku-huevo-gallina-concept]] · [[aku-marketplace-concept]] · [[aku-on-demand-platform-concept]] · [[aku-content-platform-concept]] · [[aku-modelo-free-concept]] · [[aku-modelo-freemium-concept]] · [[aku-bmc-concept]] · [[aku-segmentos-de-clientes-concept]] · [[aku-free-bootstrap-plataforma-claim]] · [[aku-clasificados-concept]]
+**related** ↔ [[aku-modelo-lineal-concept]] · [[aku-network-effect-concept]] · [[aku-masa-critica-concept]] · [[aku-circulo-virtuoso-concept]] · [[aku-circulo-vicioso-concept]] · [[aku-huevo-gallina-concept]] · [[aku-marketplace-concept]] · [[aku-on-demand-platform-concept]] · [[aku-content-platform-concept]] · [[aku-modelo-free-concept]] · [[aku-modelo-freemium-concept]] · [[aku-bmc-concept]] · [[aku-segmentos-de-clientes-concept]] · [[aku-free-bootstrap-plataforma-claim]] · [[aku-clasificados-concept]] · [[aku-valor-independiente-usuarios-modelo-lineal-claim]]

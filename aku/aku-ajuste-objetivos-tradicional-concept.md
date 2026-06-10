@@ -27,12 +27,18 @@ epistemic_type: sourced
 relations:
   supported_by: []
   supports: []
-  constrained_by: [aku-revision-anual-falla-incertidumbre-claim]
+  constrained_by:
+    - aku-revision-anual-falla-incertidumbre-claim
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-okr-concept]
+  related:
+    - aku-okr-concept
+    - aku-cascada-estrategica-ejecucion-concept
+    - aku-vision-empresa-concept
+    - aku-objetivos-vs-resultados-clave-concept
+    - aku-beneficios-okr-claim
 
 sources:
   - raw/cursos/power-mba/7-2-1-recurso-liderar-a-otros/7-2-1-recurso-liderar-a-otros.md
@@ -46,4 +52,4 @@ status_note: ""
 ## Relaciones
 
 **constrained_by** ← [[aku-revision-anual-falla-incertidumbre-claim]]
-**related** ↔ [[aku-okr-concept]]
+**related** ↔ [[aku-okr-concept]] · [[aku-cascada-estrategica-ejecucion-concept]] · [[aku-vision-empresa-concept]] · [[aku-objetivos-vs-resultados-clave-concept]] · [[aku-beneficios-okr-claim]]

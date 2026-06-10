@@ -33,6 +33,9 @@ relations:
   contradicts: []
   related:
     - aku-delivery-cube-concept
+    - aku-formato-contenido-encuesta-concept
+    - aku-formato-contenido-test-quiz-concept
+    - aku-formato-contenido-testimonio-concept
 
 sources:
   - raw/cursos/power-mba/5-4-9-marketing-de-contenidos-formatos-m-as-habituales/5-4-9-marketing-de-contenidos-formatos-m-as-habituales.md
@@ -47,4 +50,4 @@ status_note: ""
 
 **supported_by** ← [[aku-formatos-marketing-contenidos-concept]]
 
-**related** ↔ [[aku-delivery-cube-concept]]
+**related** ↔ [[aku-delivery-cube-concept]] · [[aku-formato-contenido-encuesta-concept]] · [[aku-formato-contenido-test-quiz-concept]] · [[aku-formato-contenido-testimonio-concept]]

@@ -35,6 +35,12 @@ relations:
     - aku-fidelizacion-vs-retencion-concept
     - aku-48laws-27-play-on-need-to-believe-concept
     - aku-unete-a-una-cultura-donde-tu-conducta-deseada-sea-lo-normal-method
+    - aku-cialdini-reciprocidad-concept
+    - aku-cialdini-compromiso-consistencia-concept
+    - aku-cialdini-prueba-social-concept
+    - aku-cialdini-autoridad-concept
+    - aku-cialdini-simpatia-concept
+    - aku-cialdini-escasez-concept
 
 sources:
   - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
@@ -48,4 +54,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-leyes-persuasion-cialdini-concept]]
-**related** ↔ [[aku-fidelizacion-vs-retencion-concept]] · [[aku-48laws-27-play-on-need-to-believe-concept]] · [[aku-unete-a-una-cultura-donde-tu-conducta-deseada-sea-lo-normal-method]]
+**related** ↔ [[aku-fidelizacion-vs-retencion-concept]] · [[aku-48laws-27-play-on-need-to-believe-concept]] · [[aku-unete-a-una-cultura-donde-tu-conducta-deseada-sea-lo-normal-method]] · [[aku-cialdini-reciprocidad-concept]] · [[aku-cialdini-compromiso-consistencia-concept]] · [[aku-cialdini-prueba-social-concept]] · [[aku-cialdini-autoridad-concept]] · [[aku-cialdini-simpatia-concept]] · [[aku-cialdini-escasez-concept]]

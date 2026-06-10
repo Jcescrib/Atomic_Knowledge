@@ -25,13 +25,24 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-liderazgo-en-coste-concept, aku-barreras-de-entrada-concept]
+  supports:
+    - aku-liderazgo-en-coste-concept
+    - aku-barreras-de-entrada-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-liderazgo-coste-imitable-claim, aku-costes-fijos-variables-economias-escala-concept]
+  related:
+    - aku-liderazgo-coste-imitable-claim
+    - aku-costes-fijos-variables-economias-escala-concept
+    - aku-barrera-economias-de-red-concept
+    - aku-barrera-marca-concept
+    - aku-barrera-patente-concept
+    - aku-barrera-acceso-recursos-preferenciales-concept
+    - aku-costes-de-cambio-concept
+    - aku-barreras-de-salida-concept
+    - aku-barreras-entrada-aumentan-rentabilidad-claim
 
 sources:
   - raw/cursos/power-mba/4-1-an-alisis-de-un-sector/4-1-an-alisis-de-un-sector.md
@@ -46,4 +57,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-liderazgo-en-coste-concept]] · [[aku-barreras-de-entrada-concept]]
-**related** ↔ [[aku-liderazgo-coste-imitable-claim]] · [[aku-costes-fijos-variables-economias-escala-concept]]
+**related** ↔ [[aku-liderazgo-coste-imitable-claim]] · [[aku-costes-fijos-variables-economias-escala-concept]] · [[aku-barrera-economias-de-red-concept]] · [[aku-barrera-marca-concept]] · [[aku-barrera-patente-concept]] · [[aku-barrera-acceso-recursos-preferenciales-concept]] · [[aku-costes-de-cambio-concept]] · [[aku-barreras-de-salida-concept]] · [[aku-barreras-entrada-aumentan-rentabilidad-claim]]

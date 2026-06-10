@@ -41,6 +41,8 @@ relations:
     - aku-decisiveness-amid-uncertainty-concept
     - aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim
     - aku-humildad-asumir-errores-claim
+    - aku-beneficios-lean-startup-claim
+    - aku-innovar-vs-competir-concept
 
 sources:
   - "raw/cursos/power-mba/3-0-1-lean-startup-lean-startup-recursos/3-0-1-lean-startup-lean-startup-recursos.md"
@@ -55,4 +57,4 @@ status_note: ""
 
 **supports** → [[aku-lean-startup-method-concept]]
 
-**related** ↔ [[aku-no-dar-supuesto-hipotesis-claim]] · [[aku-iterative-decision-making-method]] · [[aku-no-hay-solucion-100-correcta-claim]] · [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim]] · [[aku-humildad-asumir-errores-claim]]
+**related** ↔ [[aku-no-dar-supuesto-hipotesis-claim]] · [[aku-iterative-decision-making-method]] · [[aku-no-hay-solucion-100-correcta-claim]] · [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim]] · [[aku-humildad-asumir-errores-claim]] · [[aku-beneficios-lean-startup-claim]] · [[aku-innovar-vs-competir-concept]]

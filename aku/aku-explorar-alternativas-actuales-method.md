@@ -35,6 +35,10 @@ relations:
   contradicts: []
   related:
     - aku-problem-solution-cycle-concept
+    - aku-desglosar-propuesta-valor-componentes-method
+    - aku-validar-mensajes-comunicacion-method
+    - aku-prueba-precio-entrevista-method
+    - aku-falso-positivo-validation-concept
 
 sources:
   - "raw/cursos/power-mba/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos/3-0-2-probando-modelos-de-negocio-testing-business-models-recursos.md"
@@ -49,4 +53,4 @@ status_note: ""
 
 **supported_by** ← [[aku-entrevista-problem-solution-concept]]
 
-**related** ↔ [[aku-problem-solution-cycle-concept]]
+**related** ↔ [[aku-problem-solution-cycle-concept]] · [[aku-desglosar-propuesta-valor-componentes-method]] · [[aku-validar-mensajes-comunicacion-method]] · [[aku-prueba-precio-entrevista-method]] · [[aku-falso-positivo-validation-concept]]

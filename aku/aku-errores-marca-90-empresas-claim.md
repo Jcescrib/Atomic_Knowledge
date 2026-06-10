@@ -27,11 +27,13 @@ relations:
   supported_by: []
   supports: []
   constrained_by: []
-  constrains: [aku-plan-de-marca-concept]
+  constrains:
+    - aku-plan-de-marca-concept
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-gota-en-oceano-claim
 
 sources:
   - raw/cursos/power-mba/4-4-branding/4-4-branding.md
@@ -45,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 **constrains** → [[aku-plan-de-marca-concept]]
+
+**related** ↔ [[aku-gota-en-oceano-claim]]
