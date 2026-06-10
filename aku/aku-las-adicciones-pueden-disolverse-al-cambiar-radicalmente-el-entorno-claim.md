@@ -35,6 +35,9 @@ relations:
   related:
     - aku-el-contexto-es-el-cue-un-espacio-un-uso-concept
     - aku-azucar-es-adictivo-como-droga-claim
+    - aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim
+    - aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim
+    - aku-las-personas-disciplinadas-estructuran-su-entorno-para-no-necesitar-fuerza-de-voluntad-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-contexto-es-el-cue-un-espacio-un-uso-concept]] · [[aku-azucar-es-adictivo-como-droga-claim]]
+**related** ↔ [[aku-el-contexto-es-el-cue-un-espacio-un-uso-concept]] · [[aku-azucar-es-adictivo-como-droga-claim]] · [[aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim]] · [[aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim]] · [[aku-las-personas-disciplinadas-estructuran-su-entorno-para-no-necesitar-fuerza-de-voluntad-claim]]

@@ -41,6 +41,8 @@ relations:
     - aku-solo-sostienes-limites-que-puedes-hacer-cumplir-claim
     - aku-continuity-rewards-mejor-que-castigo
     - aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim
+    - aku-el-castigo-inmediato-reduce-el-mal-habito-claim
+    - aku-commitment-device-method
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -53,4 +55,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method]] · [[aku-accountability-bajo-tu-nombre-concept]] · [[aku-compartir-objetivos-compromiso-claim]] · [[aku-ponlo-todo-por-escrito-la-palabra-no-vale-nada-claim]] · [[aku-solo-sostienes-limites-que-puedes-hacer-cumplir-claim]] · [[aku-continuity-rewards-mejor-que-castigo]] · [[aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim]]
+**related** ↔ [[aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method]] · [[aku-accountability-bajo-tu-nombre-concept]] · [[aku-compartir-objetivos-compromiso-claim]] · [[aku-ponlo-todo-por-escrito-la-palabra-no-vale-nada-claim]] · [[aku-solo-sostienes-limites-que-puedes-hacer-cumplir-claim]] · [[aku-continuity-rewards-mejor-que-castigo]] · [[aku-no-es-lo-que-predicas-sino-lo-que-toleras-claim]] · [[aku-el-castigo-inmediato-reduce-el-mal-habito-claim]] · [[aku-commitment-device-method]]

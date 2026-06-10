@@ -36,6 +36,9 @@ relations:
     - aku-felicidad-es-satisfaccion-el-exito-viene-de-la-insatisfaccion-claim
     - aku-lideres-nunca-satisfechos-mejora-continua-claim
     - aku-la-comodidad-con-el-miedo-mata-la-ambicion-claim
+    - aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim
+    - aku-cada-conducta-tiene-un-craving-de-superficie-y-un-motivo-profundo-concept
+    - aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -48,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-deseo-es-la-diferencia-entre-donde-estas-y-donde-quieres-estar-claim]] · [[aku-todo-pensamiento-positivo-contiene-uno-negativo-por-dualidad-claim]] · [[aku-felicidad-es-satisfaccion-el-exito-viene-de-la-insatisfaccion-claim]] · [[aku-lideres-nunca-satisfechos-mejora-continua-claim]] · [[aku-la-comodidad-con-el-miedo-mata-la-ambicion-claim]]
+**related** ↔ [[aku-el-deseo-es-la-diferencia-entre-donde-estas-y-donde-quieres-estar-claim]] · [[aku-todo-pensamiento-positivo-contiene-uno-negativo-por-dualidad-claim]] · [[aku-felicidad-es-satisfaccion-el-exito-viene-de-la-insatisfaccion-claim]] · [[aku-lideres-nunca-satisfechos-mejora-continua-claim]] · [[aku-la-comodidad-con-el-miedo-mata-la-ambicion-claim]] · [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]] · [[aku-cada-conducta-tiene-un-craving-de-superficie-y-un-motivo-profundo-concept]] · [[aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim]]

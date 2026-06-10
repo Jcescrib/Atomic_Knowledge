@@ -35,6 +35,9 @@ relations:
   related:
     - aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method
     - aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept
+    - aku-el-entorno-es-la-mano-invisible-que-moldea-la-conducta-claim
+    - aku-el-contexto-es-el-cue-un-espacio-un-uso-concept
+    - aku-prime-tu-entorno-para-el-uso-futuro-method
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method]] · [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]
+**related** ↔ [[aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method]] · [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]] · [[aku-el-entorno-es-la-mano-invisible-que-moldea-la-conducta-claim]] · [[aku-el-contexto-es-el-cue-un-espacio-un-uso-concept]] · [[aku-prime-tu-entorno-para-el-uso-futuro-method]]

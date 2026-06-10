@@ -41,6 +41,9 @@ relations:
     - aku-plan-medicion-objetivos-concept
     - aku-trabajador-apalancado-rinde-1000x-y-el-juicio-supera-las-horas-claim
     - aku-ga-objetivo-duracion-concept
+    - aku-sistemas-vs-metas-en-atomic-habits-concept
+    - aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim
+    - aku-tus-resultados-son-una-medida-rezagada-de-tus-habitos-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -53,4 +56,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habit-tracker-no-rompas-la-cadena-method]] · [[aku-plan-medicion-metas-concept]] · [[aku-plan-medicion-kpis-concept]] · [[aku-plan-de-medicion-concept]] · [[aku-plan-medicion-objetivos-concept]] · [[aku-trabajador-apalancado-rinde-1000x-y-el-juicio-supera-las-horas-claim]] · [[aku-ga-objetivo-duracion-concept]]
+**related** ↔ [[aku-habit-tracker-no-rompas-la-cadena-method]] · [[aku-plan-medicion-metas-concept]] · [[aku-plan-medicion-kpis-concept]] · [[aku-plan-de-medicion-concept]] · [[aku-plan-medicion-objetivos-concept]] · [[aku-trabajador-apalancado-rinde-1000x-y-el-juicio-supera-las-horas-claim]] · [[aku-ga-objetivo-duracion-concept]] · [[aku-sistemas-vs-metas-en-atomic-habits-concept]] · [[aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim]] · [[aku-tus-resultados-son-una-medida-rezagada-de-tus-habitos-claim]]

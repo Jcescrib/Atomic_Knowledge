@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim
+    - aku-sistemas-vs-metas-en-atomic-habits-concept
+    - aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim]]
+**related** ↔ [[aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim]] · [[aku-sistemas-vs-metas-en-atomic-habits-concept]] · [[aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim]]

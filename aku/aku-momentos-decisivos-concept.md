@@ -35,6 +35,9 @@ relations:
   contradicts: []
   related:
     - aku-two-minute-rule-method
+    - aku-implementation-intention-method
+    - aku-habit-stacking-method
+    - aku-mucha-gente-cree-que-le-falta-motivacion-cuando-le-falta-claridad-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-two-minute-rule-method]]
+**related** ↔ [[aku-two-minute-rule-method]] · [[aku-implementation-intention-method]] · [[aku-habit-stacking-method]] · [[aku-mucha-gente-cree-que-le-falta-motivacion-cuando-le-falta-claridad-claim]]

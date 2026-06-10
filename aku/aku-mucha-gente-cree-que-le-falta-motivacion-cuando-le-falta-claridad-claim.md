@@ -36,6 +36,8 @@ relations:
     - aku-implementation-intention-method
     - aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim
     - aku-adaptar-las-palabras-al-escenario-claim
+    - aku-habit-stacking-method
+    - aku-momentos-decisivos-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-implementation-intention-method]] · [[aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim]] · [[aku-adaptar-las-palabras-al-escenario-claim]]
+**related** ↔ [[aku-implementation-intention-method]] · [[aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim]] · [[aku-adaptar-las-palabras-al-escenario-claim]] · [[aku-habit-stacking-method]] · [[aku-momentos-decisivos-concept]]

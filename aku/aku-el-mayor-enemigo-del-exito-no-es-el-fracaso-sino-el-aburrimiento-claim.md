@@ -36,6 +36,8 @@ relations:
   related:
     - aku-enamorate-del-aburrimiento-los-profesionales-aparecen-sin-importar-el-animo-claim
     - aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim
+    - aku-goldilocks-rule-dificultad-justo-manejable-concept
+    - aku-habitos-mas-practica-deliberada-igual-maestria-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-enamorate-del-aburrimiento-los-profesionales-aparecen-sin-importar-el-animo-claim]] · [[aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim]]
+**related** ↔ [[aku-enamorate-del-aburrimiento-los-profesionales-aparecen-sin-importar-el-animo-claim]] · [[aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim]] · [[aku-goldilocks-rule-dificultad-justo-manejable-concept]] · [[aku-habitos-mas-practica-deliberada-igual-maestria-concept]]

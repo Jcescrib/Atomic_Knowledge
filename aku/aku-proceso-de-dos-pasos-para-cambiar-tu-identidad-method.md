@@ -34,6 +34,13 @@ relations:
   related:
     - aku-habitos-basados-en-la-identidad-vs-en-resultados-concept
     - aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method
+    - aku-tres-capas-del-cambio-de-conducta-concept
+    - aku-el-cambio-de-conducta-duradero-es-cambio-de-identidad-claim
+    - aku-tu-identidad-emerge-de-tus-habitos-claim
+    - aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim
+    - aku-debes-editar-y-expandir-tu-identidad-continuamente-claim
+    - aku-manten-tu-identidad-pequena-y-flexible-para-poder-crecer-claim
+    - aku-los-incentivos-inician-un-habito-la-identidad-lo-sostiene-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -46,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habitos-basados-en-la-identidad-vs-en-resultados-concept]] · [[aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method]]
+**related** ↔ [[aku-habitos-basados-en-la-identidad-vs-en-resultados-concept]] · [[aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method]] · [[aku-tres-capas-del-cambio-de-conducta-concept]] · [[aku-el-cambio-de-conducta-duradero-es-cambio-de-identidad-claim]] · [[aku-tu-identidad-emerge-de-tus-habitos-claim]] · [[aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim]] · [[aku-debes-editar-y-expandir-tu-identidad-continuamente-claim]] · [[aku-manten-tu-identidad-pequena-y-flexible-para-poder-crecer-claim]] · [[aku-los-incentivos-inician-un-habito-la-identidad-lo-sostiene-claim]]

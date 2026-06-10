@@ -38,6 +38,8 @@ relations:
     - aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept
     - aku-post-operational-debrief-method
     - aku-lideres-nunca-satisfechos-mejora-continua-claim
+    - aku-habit-tracker-no-rompas-la-cadena-method
+    - aku-never-miss-twice-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -50,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-debes-editar-y-expandir-tu-identidad-continuamente-claim]] · [[aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept]] · [[aku-post-operational-debrief-method]] · [[aku-lideres-nunca-satisfechos-mejora-continua-claim]]
+**related** ↔ [[aku-debes-editar-y-expandir-tu-identidad-continuamente-claim]] · [[aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept]] · [[aku-post-operational-debrief-method]] · [[aku-lideres-nunca-satisfechos-mejora-continua-claim]] · [[aku-habit-tracker-no-rompas-la-cadena-method]] · [[aku-never-miss-twice-claim]]

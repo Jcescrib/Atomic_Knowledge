@@ -35,6 +35,10 @@ relations:
     - aku-motivaciones-desde-experiencias-pasadas-concept
     - aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim
     - aku-autoevaluacion-honesta-you-vs-you-claim
+    - aku-el-deseo-es-la-diferencia-entre-donde-estas-y-donde-quieres-estar-claim
+    - aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim
+    - aku-cada-conducta-tiene-un-craving-de-superficie-y-un-motivo-profundo-concept
+    - aku-el-sufrimiento-impulsa-el-progreso-el-deseo-de-cambiar-de-estado-mueve-a-actuar-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-intenciones-no-importan-importan-las-acciones-claim]] · [[aku-motivaciones-desde-experiencias-pasadas-concept]] · [[aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim]] · [[aku-autoevaluacion-honesta-you-vs-you-claim]]
+**related** ↔ [[aku-intenciones-no-importan-importan-las-acciones-claim]] · [[aku-motivaciones-desde-experiencias-pasadas-concept]] · [[aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim]] · [[aku-autoevaluacion-honesta-you-vs-you-claim]] · [[aku-el-deseo-es-la-diferencia-entre-donde-estas-y-donde-quieres-estar-claim]] · [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]] · [[aku-cada-conducta-tiene-un-craving-de-superficie-y-un-motivo-profundo-concept]] · [[aku-el-sufrimiento-impulsa-el-progreso-el-deseo-de-cambiar-de-estado-mueve-a-actuar-claim]]

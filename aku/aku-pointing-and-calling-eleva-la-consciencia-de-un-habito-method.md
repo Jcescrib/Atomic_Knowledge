@@ -35,6 +35,10 @@ relations:
   contradicts: []
   related:
     - aku-el-cambio-de-conducta-siempre-empieza-con-la-consciencia-claim
+    - aku-habits-scorecard-method
+    - aku-no-necesitas-ser-consciente-del-cue-para-que-un-habito-empiece-claim
+    - aku-el-cerebro-es-una-maquina-de-prediccion-que-codifica-cues-claim
+    - aku-la-causa-de-tus-habitos-es-la-prediccion-que-los-precede-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-cambio-de-conducta-siempre-empieza-con-la-consciencia-claim]]
+**related** ↔ [[aku-el-cambio-de-conducta-siempre-empieza-con-la-consciencia-claim]] · [[aku-habits-scorecard-method]] · [[aku-no-necesitas-ser-consciente-del-cue-para-que-un-habito-empiece-claim]] · [[aku-el-cerebro-es-una-maquina-de-prediccion-que-codifica-cues-claim]] · [[aku-la-causa-de-tus-habitos-es-la-prediccion-que-los-precede-claim]]

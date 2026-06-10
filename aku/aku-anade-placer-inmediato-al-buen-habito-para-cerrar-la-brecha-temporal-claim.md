@@ -37,6 +37,7 @@ relations:
     - aku-cardinal-rule-lo-recompensado-se-repite-lo-castigado-se-evita-concept
     - aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim
     - aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim
+    - aku-entorno-de-recompensa-inmediata-vs-diferida-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cardinal-rule-lo-recompensado-se-repite-lo-castigado-se-evita-concept]] · [[aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim]] · [[aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim]]
+**related** ↔ [[aku-cardinal-rule-lo-recompensado-se-repite-lo-castigado-se-evita-concept]] · [[aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim]] · [[aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim]] · [[aku-entorno-de-recompensa-inmediata-vs-diferida-concept]]

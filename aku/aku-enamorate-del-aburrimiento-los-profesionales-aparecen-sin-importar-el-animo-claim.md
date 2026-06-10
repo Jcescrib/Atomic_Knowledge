@@ -37,6 +37,8 @@ relations:
     - aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim
     - aku-el-mayor-enemigo-del-exito-no-es-el-fracaso-sino-el-aburrimiento-claim
     - aku-el-trabajo-duro-es-el-rasgo-comun-a-quienes-se-mantienen-arriba-claim
+    - aku-goldilocks-rule-dificultad-justo-manejable-concept
+    - aku-habitos-mas-practica-deliberada-igual-maestria-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -49,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-cuentes-con-motivacion-cuenta-disciplina-claim]] · [[aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim]] · [[aku-el-mayor-enemigo-del-exito-no-es-el-fracaso-sino-el-aburrimiento-claim]] · [[aku-el-trabajo-duro-es-el-rasgo-comun-a-quienes-se-mantienen-arriba-claim]]
+**related** ↔ [[aku-no-cuentes-con-motivacion-cuenta-disciplina-claim]] · [[aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim]] · [[aku-el-mayor-enemigo-del-exito-no-es-el-fracaso-sino-el-aburrimiento-claim]] · [[aku-el-trabajo-duro-es-el-rasgo-comun-a-quienes-se-mantienen-arriba-claim]] · [[aku-goldilocks-rule-dificultad-justo-manejable-concept]] · [[aku-habitos-mas-practica-deliberada-igual-maestria-concept]]

@@ -38,6 +38,11 @@ relations:
     - aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim
     - aku-autoevaluacion-honesta-you-vs-you-claim
     - aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept
+    - aku-el-cambio-de-conducta-siempre-empieza-con-la-consciencia-claim
+    - aku-pointing-and-calling-eleva-la-consciencia-de-un-habito-method
+    - aku-no-necesitas-ser-consciente-del-cue-para-que-un-habito-empiece-claim
+    - aku-el-cerebro-es-una-maquina-de-prediccion-que-codifica-cues-claim
+    - aku-la-causa-de-tus-habitos-es-la-prediccion-que-los-precede-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -50,4 +55,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim]] · [[aku-prime-tu-entorno-para-el-uso-futuro-method]] · [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-autoevaluacion-honesta-you-vs-you-claim]] · [[aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept]]
+**related** ↔ [[aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim]] · [[aku-prime-tu-entorno-para-el-uso-futuro-method]] · [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-autoevaluacion-honesta-you-vs-you-claim]] · [[aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept]] · [[aku-el-cambio-de-conducta-siempre-empieza-con-la-consciencia-claim]] · [[aku-pointing-and-calling-eleva-la-consciencia-de-un-habito-method]] · [[aku-no-necesitas-ser-consciente-del-cue-para-que-un-habito-empiece-claim]] · [[aku-el-cerebro-es-una-maquina-de-prediccion-que-codifica-cues-claim]] · [[aku-la-causa-de-tus-habitos-es-la-prediccion-que-los-precede-claim]]

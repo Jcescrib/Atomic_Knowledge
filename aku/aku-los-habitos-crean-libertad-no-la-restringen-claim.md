@@ -36,6 +36,11 @@ relations:
     - aku-discipline-equals-freedom-concept
     - aku-disciplina-da-libertad-de-maniobra-claim
     - aku-aceptar-que-todo-depende-de-ti-es-liberador-claim
+    - aku-habit-loop-cue-craving-response-reward-concept
+    - aku-cuatro-leyes-del-cambio-de-conducta-concept
+    - aku-todo-habito-resuelve-un-problema-recurrente-con-minimo-esfuerzo-claim
+    - aku-no-hay-buenos-ni-malos-habitos-solo-habitos-efectivos-claim
+    - aku-los-habitos-se-forman-por-frecuencia-no-por-tiempo-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -48,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habito-concept]] · [[aku-discipline-equals-freedom-concept]] · [[aku-disciplina-da-libertad-de-maniobra-claim]] · [[aku-aceptar-que-todo-depende-de-ti-es-liberador-claim]]
+**related** ↔ [[aku-habito-concept]] · [[aku-discipline-equals-freedom-concept]] · [[aku-disciplina-da-libertad-de-maniobra-claim]] · [[aku-aceptar-que-todo-depende-de-ti-es-liberador-claim]] · [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-cuatro-leyes-del-cambio-de-conducta-concept]] · [[aku-todo-habito-resuelve-un-problema-recurrente-con-minimo-esfuerzo-claim]] · [[aku-no-hay-buenos-ni-malos-habitos-solo-habitos-efectivos-claim]] · [[aku-los-habitos-se-forman-por-frecuencia-no-por-tiempo-claim]]

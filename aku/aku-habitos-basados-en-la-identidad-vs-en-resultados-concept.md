@@ -41,6 +41,10 @@ relations:
     - aku-proceso-de-dos-pasos-para-cambiar-tu-identidad-method
     - aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim
     - aku-the-path-concept
+    - aku-tu-identidad-emerge-de-tus-habitos-claim
+    - aku-debes-editar-y-expandir-tu-identidad-continuamente-claim
+    - aku-manten-tu-identidad-pequena-y-flexible-para-poder-crecer-claim
+    - aku-los-incentivos-inician-un-habito-la-identidad-lo-sostiene-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -53,4 +57,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim]] · [[aku-tres-capas-del-cambio-de-conducta-concept]] · [[aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim]] · [[aku-el-cambio-de-conducta-duradero-es-cambio-de-identidad-claim]] · [[aku-proceso-de-dos-pasos-para-cambiar-tu-identidad-method]] · [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-the-path-concept]]
+**related** ↔ [[aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim]] · [[aku-tres-capas-del-cambio-de-conducta-concept]] · [[aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim]] · [[aku-el-cambio-de-conducta-duradero-es-cambio-de-identidad-claim]] · [[aku-proceso-de-dos-pasos-para-cambiar-tu-identidad-method]] · [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-the-path-concept]] · [[aku-tu-identidad-emerge-de-tus-habitos-claim]] · [[aku-debes-editar-y-expandir-tu-identidad-continuamente-claim]] · [[aku-manten-tu-identidad-pequena-y-flexible-para-poder-crecer-claim]] · [[aku-los-incentivos-inician-un-habito-la-identidad-lo-sostiene-claim]]

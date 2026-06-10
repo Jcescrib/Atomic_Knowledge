@@ -39,6 +39,13 @@ relations:
     - aku-di-a-tus-amigos-que-eres-feliz-para-conformarte-a-ello-claim
     - aku-para-ser-honesto-habla-sin-identidad-las-etiquetas-te-atan-claim
     - aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim
+    - aku-tres-capas-del-cambio-de-conducta-concept
+    - aku-el-cambio-de-conducta-duradero-es-cambio-de-identidad-claim
+    - aku-tu-identidad-emerge-de-tus-habitos-claim
+    - aku-proceso-de-dos-pasos-para-cambiar-tu-identidad-method
+    - aku-debes-editar-y-expandir-tu-identidad-continuamente-claim
+    - aku-manten-tu-identidad-pequena-y-flexible-para-poder-crecer-claim
+    - aku-los-incentivos-inician-un-habito-la-identidad-lo-sostiene-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -51,4 +58,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habits-scorecard-method]] · [[aku-two-minute-rule-method]] · [[aku-habit-tracker-no-rompas-la-cadena-method]] · [[aku-habitos-basados-en-la-identidad-vs-en-resultados-concept]] · [[aku-di-a-tus-amigos-que-eres-feliz-para-conformarte-a-ello-claim]] · [[aku-para-ser-honesto-habla-sin-identidad-las-etiquetas-te-atan-claim]] · [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]]
+**related** ↔ [[aku-habits-scorecard-method]] · [[aku-two-minute-rule-method]] · [[aku-habit-tracker-no-rompas-la-cadena-method]] · [[aku-habitos-basados-en-la-identidad-vs-en-resultados-concept]] · [[aku-di-a-tus-amigos-que-eres-feliz-para-conformarte-a-ello-claim]] · [[aku-para-ser-honesto-habla-sin-identidad-las-etiquetas-te-atan-claim]] · [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-tres-capas-del-cambio-de-conducta-concept]] · [[aku-el-cambio-de-conducta-duradero-es-cambio-de-identidad-claim]] · [[aku-tu-identidad-emerge-de-tus-habitos-claim]] · [[aku-proceso-de-dos-pasos-para-cambiar-tu-identidad-method]] · [[aku-debes-editar-y-expandir-tu-identidad-continuamente-claim]] · [[aku-manten-tu-identidad-pequena-y-flexible-para-poder-crecer-claim]] · [[aku-los-incentivos-inician-un-habito-la-identidad-lo-sostiene-claim]]

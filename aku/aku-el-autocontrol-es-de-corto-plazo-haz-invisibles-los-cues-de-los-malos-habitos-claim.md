@@ -37,6 +37,8 @@ relations:
     - aku-el-contexto-es-el-cue-un-espacio-un-uso-concept
     - aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim
     - aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept
+    - aku-las-personas-disciplinadas-estructuran-su-entorno-para-no-necesitar-fuerza-de-voluntad-claim
+    - aku-las-adicciones-pueden-disolverse-al-cambiar-radicalmente-el-entorno-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -49,6 +51,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-contexto-es-el-cue-un-espacio-un-uso-concept]] · [[aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim]] · [[aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept]]
+**related** ↔ [[aku-el-contexto-es-el-cue-un-espacio-un-uso-concept]] · [[aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim]] · [[aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept]] · [[aku-las-personas-disciplinadas-estructuran-su-entorno-para-no-necesitar-fuerza-de-voluntad-claim]] · [[aku-las-adicciones-pueden-disolverse-al-cambiar-radicalmente-el-entorno-claim]]
 
 **supports** → [[aku-cuatro-leyes-del-cambio-de-conducta-concept]]

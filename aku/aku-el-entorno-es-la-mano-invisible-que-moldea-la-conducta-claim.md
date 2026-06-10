@@ -37,6 +37,10 @@ relations:
     - aku-toda-actividad-de-pantalla-resta-felicidad-claim
     - aku-no-hay-soluciones-permanentes-en-un-sistema-dinamico-claim
     - aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept
+    - aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method
+    - aku-la-vision-es-el-mayor-catalizador-de-la-conducta-claim
+    - aku-el-contexto-es-el-cue-un-espacio-un-uso-concept
+    - aku-prime-tu-entorno-para-el-uso-futuro-method
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -49,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-teoria-de-los-cinco-chimpances-concept]] · [[aku-toda-actividad-de-pantalla-resta-felicidad-claim]] · [[aku-no-hay-soluciones-permanentes-en-un-sistema-dinamico-claim]] · [[aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept]]
+**related** ↔ [[aku-teoria-de-los-cinco-chimpances-concept]] · [[aku-toda-actividad-de-pantalla-resta-felicidad-claim]] · [[aku-no-hay-soluciones-permanentes-en-un-sistema-dinamico-claim]] · [[aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept]] · [[aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method]] · [[aku-la-vision-es-el-mayor-catalizador-de-la-conducta-claim]] · [[aku-el-contexto-es-el-cue-un-espacio-un-uso-concept]] · [[aku-prime-tu-entorno-para-el-uso-futuro-method]]

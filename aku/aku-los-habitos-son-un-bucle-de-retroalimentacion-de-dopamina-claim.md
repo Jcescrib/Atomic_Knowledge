@@ -35,6 +35,8 @@ relations:
   related:
     - aku-habit-loop-cue-craving-response-reward-concept
     - aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept
+    - aku-la-dopamina-se-libera-al-anticipar-la-recompensa-no-solo-al-recibirla-claim
+    - aku-estimulos-supernormales-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept]]
+**related** ↔ [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept]] · [[aku-la-dopamina-se-libera-al-anticipar-la-recompensa-no-solo-al-recibirla-claim]] · [[aku-estimulos-supernormales-concept]]

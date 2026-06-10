@@ -39,6 +39,8 @@ relations:
     - aku-automatiza-tus-habitos-con-tecnologia-y-decisiones-unicas-method
     - aku-la-vision-es-el-mayor-catalizador-de-la-conducta-claim
     - aku-apetito-vs-hambre-concept
+    - aku-el-entorno-es-la-mano-invisible-que-moldea-la-conducta-claim
+    - aku-prime-tu-entorno-para-el-uso-futuro-method
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -51,6 +53,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept]] · [[aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method]] · [[aku-automatiza-tus-habitos-con-tecnologia-y-decisiones-unicas-method]] · [[aku-la-vision-es-el-mayor-catalizador-de-la-conducta-claim]] · [[aku-apetito-vs-hambre-concept]]
+**related** ↔ [[aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept]] · [[aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method]] · [[aku-automatiza-tus-habitos-con-tecnologia-y-decisiones-unicas-method]] · [[aku-la-vision-es-el-mayor-catalizador-de-la-conducta-claim]] · [[aku-apetito-vs-hambre-concept]] · [[aku-el-entorno-es-la-mano-invisible-que-moldea-la-conducta-claim]] · [[aku-prime-tu-entorno-para-el-uso-futuro-method]]
 
 **supported_by** ← [[aku-el-contexto-es-el-cue-un-espacio-un-uso-concept]]

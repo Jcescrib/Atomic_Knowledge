@@ -35,6 +35,8 @@ relations:
     - aku-tu-curriculum-real-es-tu-catalogo-de-sufrimiento-claim
     - aku-thread-of-why-conectar-al-individuo-claim
     - aku-la-motivacion-es-relativa-encuentra-la-cosa-en-la-que-te-metes-claim
+    - aku-temptation-bundling-method
+    - aku-reencuadra-tus-habitos-de-have-to-a-get-to-method
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-tu-curriculum-real-es-tu-catalogo-de-sufrimiento-claim]] · [[aku-thread-of-why-conectar-al-individuo-claim]] · [[aku-la-motivacion-es-relativa-encuentra-la-cosa-en-la-que-te-metes-claim]]
+**related** ↔ [[aku-tu-curriculum-real-es-tu-catalogo-de-sufrimiento-claim]] · [[aku-thread-of-why-conectar-al-individuo-claim]] · [[aku-la-motivacion-es-relativa-encuentra-la-cosa-en-la-que-te-metes-claim]] · [[aku-temptation-bundling-method]] · [[aku-reencuadra-tus-habitos-de-have-to-a-get-to-method]]

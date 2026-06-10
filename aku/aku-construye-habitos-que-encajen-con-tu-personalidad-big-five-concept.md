@@ -38,6 +38,8 @@ relations:
     - aku-lee-lo-que-amas-hasta-que-ames-leer-claim
     - aku-mbti-concept
     - aku-lideres-nacen-y-se-hacen-claim
+    - aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim
+    - aku-explore-exploit-trade-off-method
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -50,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim]] · [[aku-lee-lo-que-amas-hasta-que-ames-leer-claim]] · [[aku-mbti-concept]] · [[aku-lideres-nacen-y-se-hacen-claim]]
+**related** ↔ [[aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim]] · [[aku-lee-lo-que-amas-hasta-que-ames-leer-claim]] · [[aku-mbti-concept]] · [[aku-lideres-nacen-y-se-hacen-claim]] · [[aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim]] · [[aku-explore-exploit-trade-off-method]]

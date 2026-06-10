@@ -39,6 +39,10 @@ relations:
     - aku-decide-despacio-actua-rapido-y-deja-que-el-acto-dure-decadas-claim
     - aku-entrenamiento-realismo-fundamentos-repeticion-method
     - aku-paso-agresivo-hacia-el-miedo-claim
+    - aku-ley-del-minimo-esfuerzo-concept
+    - aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method
+    - aku-two-minute-rule-method
+    - aku-automatiza-tus-habitos-con-tecnologia-y-decisiones-unicas-method
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -51,4 +55,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-impaciencia-con-las-acciones-paciencia-con-los-resultados-claim]] · [[aku-haz-algo-fisico-cada-dia-el-mejor-ejercicio-es-el-que-haras-cada-dia-claim]] · [[aku-decide-despacio-actua-rapido-y-deja-que-el-acto-dure-decadas-claim]] · [[aku-entrenamiento-realismo-fundamentos-repeticion-method]] · [[aku-paso-agresivo-hacia-el-miedo-claim]]
+**related** ↔ [[aku-impaciencia-con-las-acciones-paciencia-con-los-resultados-claim]] · [[aku-haz-algo-fisico-cada-dia-el-mejor-ejercicio-es-el-que-haras-cada-dia-claim]] · [[aku-decide-despacio-actua-rapido-y-deja-que-el-acto-dure-decadas-claim]] · [[aku-entrenamiento-realismo-fundamentos-repeticion-method]] · [[aku-paso-agresivo-hacia-el-miedo-claim]] · [[aku-ley-del-minimo-esfuerzo-concept]] · [[aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method]] · [[aku-two-minute-rule-method]] · [[aku-automatiza-tus-habitos-con-tecnologia-y-decisiones-unicas-method]]

@@ -35,6 +35,11 @@ relations:
     - aku-habit-loop-cue-craving-response-reward-concept
     - aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim
     - aku-el-exito-demasiado-facil-y-rapido-afianza-los-viejos-habitos-claim
+    - aku-el-cambio-de-conducta-siempre-empieza-con-la-consciencia-claim
+    - aku-habits-scorecard-method
+    - aku-pointing-and-calling-eleva-la-consciencia-de-un-habito-method
+    - aku-el-cerebro-es-una-maquina-de-prediccion-que-codifica-cues-claim
+    - aku-la-causa-de-tus-habitos-es-la-prediccion-que-los-precede-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-el-exito-demasiado-facil-y-rapido-afianza-los-viejos-habitos-claim]]
+**related** ↔ [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-el-exito-demasiado-facil-y-rapido-afianza-los-viejos-habitos-claim]] · [[aku-el-cambio-de-conducta-siempre-empieza-con-la-consciencia-claim]] · [[aku-habits-scorecard-method]] · [[aku-pointing-and-calling-eleva-la-consciencia-de-un-habito-method]] · [[aku-el-cerebro-es-una-maquina-de-prediccion-que-codifica-cues-claim]] · [[aku-la-causa-de-tus-habitos-es-la-prediccion-que-los-precede-claim]]

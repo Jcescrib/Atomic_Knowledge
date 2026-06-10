@@ -34,6 +34,10 @@ relations:
   related:
     - aku-habits-scorecard-method
     - aku-no-hay-espacio-para-el-exito-y-los-suckers-alejate-del-entorno-toxico-claim
+    - aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method
+    - aku-el-entorno-es-la-mano-invisible-que-moldea-la-conducta-claim
+    - aku-la-vision-es-el-mayor-catalizador-de-la-conducta-claim
+    - aku-el-contexto-es-el-cue-un-espacio-un-uso-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -46,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habits-scorecard-method]] · [[aku-no-hay-espacio-para-el-exito-y-los-suckers-alejate-del-entorno-toxico-claim]]
+**related** ↔ [[aku-habits-scorecard-method]] · [[aku-no-hay-espacio-para-el-exito-y-los-suckers-alejate-del-entorno-toxico-claim]] · [[aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method]] · [[aku-el-entorno-es-la-mano-invisible-que-moldea-la-conducta-claim]] · [[aku-la-vision-es-el-mayor-catalizador-de-la-conducta-claim]] · [[aku-el-contexto-es-el-cue-un-espacio-un-uso-concept]]

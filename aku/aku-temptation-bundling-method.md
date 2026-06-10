@@ -36,6 +36,8 @@ relations:
   related:
     - aku-habit-stacking-method
     - aku-cuatro-leyes-del-cambio-de-conducta-concept
+    - aku-reencuadra-tus-habitos-de-have-to-a-get-to-method
+    - aku-con-un-porque-suficientemente-grande-superas-cualquier-como-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habit-stacking-method]] · [[aku-cuatro-leyes-del-cambio-de-conducta-concept]]
+**related** ↔ [[aku-habit-stacking-method]] · [[aku-cuatro-leyes-del-cambio-de-conducta-concept]] · [[aku-reencuadra-tus-habitos-de-have-to-a-get-to-method]] · [[aku-con-un-porque-suficientemente-grande-superas-cualquier-como-claim]]

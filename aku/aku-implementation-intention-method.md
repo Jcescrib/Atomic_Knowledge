@@ -39,6 +39,7 @@ relations:
     - aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method
     - aku-planning-process-estandarizado-concept
     - aku-contingency-planning-anticipar-method
+    - aku-momentos-decisivos-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cuatro-leyes-del-cambio-de-conducta-concept]] · [[aku-habit-stacking-method]] · [[aku-mucha-gente-cree-que-le-falta-motivacion-cuando-le-falta-claridad-claim]] · [[aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method]] · [[aku-planning-process-estandarizado-concept]] · [[aku-contingency-planning-anticipar-method]]
+**related** ↔ [[aku-cuatro-leyes-del-cambio-de-conducta-concept]] · [[aku-habit-stacking-method]] · [[aku-mucha-gente-cree-que-le-falta-motivacion-cuando-le-falta-claridad-claim]] · [[aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method]] · [[aku-planning-process-estandarizado-concept]] · [[aku-contingency-planning-anticipar-method]] · [[aku-momentos-decisivos-concept]]

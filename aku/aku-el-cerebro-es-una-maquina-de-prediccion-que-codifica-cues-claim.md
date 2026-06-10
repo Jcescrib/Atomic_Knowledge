@@ -37,6 +37,10 @@ relations:
     - aku-habit-loop-cue-craving-response-reward-concept
     - aku-modelos-mentales-concept
     - aku-las-amenazas-captan-la-atencion-alta-activacion-claim
+    - aku-el-cambio-de-conducta-siempre-empieza-con-la-consciencia-claim
+    - aku-habits-scorecard-method
+    - aku-pointing-and-calling-eleva-la-consciencia-de-un-habito-method
+    - aku-no-necesitas-ser-consciente-del-cue-para-que-un-habito-empiece-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -49,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-causa-de-tus-habitos-es-la-prediccion-que-los-precede-claim]] · [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-modelos-mentales-concept]] · [[aku-las-amenazas-captan-la-atencion-alta-activacion-claim]]
+**related** ↔ [[aku-la-causa-de-tus-habitos-es-la-prediccion-que-los-precede-claim]] · [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-modelos-mentales-concept]] · [[aku-las-amenazas-captan-la-atencion-alta-activacion-claim]] · [[aku-el-cambio-de-conducta-siempre-empieza-con-la-consciencia-claim]] · [[aku-habits-scorecard-method]] · [[aku-pointing-and-calling-eleva-la-consciencia-de-un-habito-method]] · [[aku-no-necesitas-ser-consciente-del-cue-para-que-un-habito-empiece-claim]]

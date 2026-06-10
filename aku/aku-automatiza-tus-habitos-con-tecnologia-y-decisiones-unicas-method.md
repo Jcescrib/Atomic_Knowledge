@@ -36,6 +36,10 @@ relations:
   related:
     - aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method
     - aku-friccion-flywheel-concept
+    - aku-ley-del-minimo-esfuerzo-concept
+    - aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method
+    - aku-motion-vs-action-concept
+    - aku-two-minute-rule-method
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -48,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method]] · [[aku-friccion-flywheel-concept]]
+**related** ↔ [[aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method]] · [[aku-friccion-flywheel-concept]] · [[aku-ley-del-minimo-esfuerzo-concept]] · [[aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method]] · [[aku-motion-vs-action-concept]] · [[aku-two-minute-rule-method]]

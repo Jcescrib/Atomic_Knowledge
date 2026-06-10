@@ -35,6 +35,7 @@ relations:
   related:
     - aku-imitamos-los-habitos-de-tres-grupos-cercanos-muchos-poderosos-concept
     - aku-cialdini-pertenencia-concept
+    - aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-imitamos-los-habitos-de-tres-grupos-cercanos-muchos-poderosos-concept]] · [[aku-cialdini-pertenencia-concept]]
+**related** ↔ [[aku-imitamos-los-habitos-de-tres-grupos-cercanos-muchos-poderosos-concept]] · [[aku-cialdini-pertenencia-concept]] · [[aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim]]

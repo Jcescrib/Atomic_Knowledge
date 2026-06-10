@@ -39,6 +39,7 @@ relations:
     - aku-anade-placer-inmediato-al-buen-habito-para-cerrar-la-brecha-temporal-claim
     - aku-el-castigo-inmediato-reduce-el-mal-habito-claim
     - aku-mostrar-el-unboxing-del-producto-claim
+    - aku-entorno-de-recompensa-inmediata-vs-diferida-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-cuatro-leyes-del-cambio-de-conducta-concept]] · [[aku-anade-placer-inmediato-al-buen-habito-para-cerrar-la-brecha-temporal-claim]] · [[aku-el-castigo-inmediato-reduce-el-mal-habito-claim]] · [[aku-mostrar-el-unboxing-del-producto-claim]]
+**related** ↔ [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-cuatro-leyes-del-cambio-de-conducta-concept]] · [[aku-anade-placer-inmediato-al-buen-habito-para-cerrar-la-brecha-temporal-claim]] · [[aku-el-castigo-inmediato-reduce-el-mal-habito-claim]] · [[aku-mostrar-el-unboxing-del-producto-claim]] · [[aku-entorno-de-recompensa-inmediata-vs-diferida-concept]]

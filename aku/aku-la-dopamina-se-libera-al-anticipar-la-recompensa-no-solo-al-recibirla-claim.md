@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim
+    - aku-los-habitos-son-un-bucle-de-retroalimentacion-de-dopamina-claim
+    - aku-estimulos-supernormales-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]]
+**related** ↔ [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]] · [[aku-los-habitos-son-un-bucle-de-retroalimentacion-de-dopamina-claim]] · [[aku-estimulos-supernormales-concept]]

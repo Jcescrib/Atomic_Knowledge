@@ -39,6 +39,8 @@ relations:
     - aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim
     - aku-el-estado-neutral-es-un-estado-de-perfeccion-como-el-de-los-ninos-claim
     - aku-la-mayor-parte-del-sufrimiento-viene-de-la-evitacion-claim
+    - aku-cada-conducta-tiene-un-craving-de-superficie-y-un-motivo-profundo-concept
+    - aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -51,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]] · [[aku-el-sufrimiento-impulsa-el-progreso-el-deseo-de-cambiar-de-estado-mueve-a-actuar-claim]] · [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]] · [[aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim]] · [[aku-el-estado-neutral-es-un-estado-de-perfeccion-como-el-de-los-ninos-claim]] · [[aku-la-mayor-parte-del-sufrimiento-viene-de-la-evitacion-claim]]
+**related** ↔ [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]] · [[aku-el-sufrimiento-impulsa-el-progreso-el-deseo-de-cambiar-de-estado-mueve-a-actuar-claim]] · [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]] · [[aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim]] · [[aku-el-estado-neutral-es-un-estado-de-perfeccion-como-el-de-los-ninos-claim]] · [[aku-la-mayor-parte-del-sufrimiento-viene-de-la-evitacion-claim]] · [[aku-cada-conducta-tiene-un-craving-de-superficie-y-un-motivo-profundo-concept]] · [[aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim]]

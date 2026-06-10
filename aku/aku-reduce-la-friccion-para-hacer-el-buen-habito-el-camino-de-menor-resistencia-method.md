@@ -38,6 +38,10 @@ relations:
     - aku-not-feeling-it-go-anyway-claim
     - aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim
     - aku-home-gym-equipo-basico-concept
+    - aku-ley-del-minimo-esfuerzo-concept
+    - aku-motion-vs-action-concept
+    - aku-two-minute-rule-method
+    - aku-automatiza-tus-habitos-con-tecnologia-y-decisiones-unicas-method
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -50,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method]] · [[aku-camino-de-menor-resistencia-claim]] · [[aku-not-feeling-it-go-anyway-claim]] · [[aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim]] · [[aku-home-gym-equipo-basico-concept]]
+**related** ↔ [[aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method]] · [[aku-camino-de-menor-resistencia-claim]] · [[aku-not-feeling-it-go-anyway-claim]] · [[aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim]] · [[aku-home-gym-equipo-basico-concept]] · [[aku-ley-del-minimo-esfuerzo-concept]] · [[aku-motion-vs-action-concept]] · [[aku-two-minute-rule-method]] · [[aku-automatiza-tus-habitos-con-tecnologia-y-decisiones-unicas-method]]

@@ -34,6 +34,11 @@ relations:
   related:
     - aku-habito-concept
     - aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim
+    - aku-habit-loop-cue-craving-response-reward-concept
+    - aku-cuatro-leyes-del-cambio-de-conducta-concept
+    - aku-todo-habito-resuelve-un-problema-recurrente-con-minimo-esfuerzo-claim
+    - aku-los-habitos-crean-libertad-no-la-restringen-claim
+    - aku-los-habitos-se-forman-por-frecuencia-no-por-tiempo-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -46,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habito-concept]] · [[aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim]]
+**related** ↔ [[aku-habito-concept]] · [[aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim]] · [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-cuatro-leyes-del-cambio-de-conducta-concept]] · [[aku-todo-habito-resuelve-un-problema-recurrente-con-minimo-esfuerzo-claim]] · [[aku-los-habitos-crean-libertad-no-la-restringen-claim]] · [[aku-los-habitos-se-forman-por-frecuencia-no-por-tiempo-claim]]

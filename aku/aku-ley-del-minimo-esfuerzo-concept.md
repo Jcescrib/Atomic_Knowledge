@@ -35,6 +35,10 @@ relations:
   contradicts: []
   related:
     - aku-camino-de-menor-resistencia-claim
+    - aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method
+    - aku-motion-vs-action-concept
+    - aku-two-minute-rule-method
+    - aku-automatiza-tus-habitos-con-tecnologia-y-decisiones-unicas-method
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -47,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-camino-de-menor-resistencia-claim]]
+**related** ↔ [[aku-camino-de-menor-resistencia-claim]] · [[aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method]] · [[aku-motion-vs-action-concept]] · [[aku-two-minute-rule-method]] · [[aku-automatiza-tus-habitos-con-tecnologia-y-decisiones-unicas-method]]

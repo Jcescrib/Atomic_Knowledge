@@ -34,6 +34,8 @@ relations:
   contradicts: []
   related:
     - aku-habitos-mas-practica-deliberada-igual-maestria-concept
+    - aku-el-mayor-enemigo-del-exito-no-es-el-fracaso-sino-el-aburrimiento-claim
+    - aku-enamorate-del-aburrimiento-los-profesionales-aparecen-sin-importar-el-animo-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habitos-mas-practica-deliberada-igual-maestria-concept]]
+**related** ↔ [[aku-habitos-mas-practica-deliberada-igual-maestria-concept]] · [[aku-el-mayor-enemigo-del-exito-no-es-el-fracaso-sino-el-aburrimiento-claim]] · [[aku-enamorate-del-aburrimiento-los-profesionales-aparecen-sin-importar-el-animo-claim]]

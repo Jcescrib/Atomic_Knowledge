@@ -37,6 +37,8 @@ relations:
     - aku-habitos-mas-practica-deliberada-igual-maestria-concept
     - aku-lideres-nunca-satisfechos-mejora-continua-claim
     - aku-mejorar-mas-dificil-al-crecer-capacidad-claim
+    - aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim
+    - aku-plateau-of-latent-potential-valley-of-disappointment-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -49,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habito-atomico-concept]] · [[aku-habitos-mas-practica-deliberada-igual-maestria-concept]] · [[aku-lideres-nunca-satisfechos-mejora-continua-claim]] · [[aku-mejorar-mas-dificil-al-crecer-capacidad-claim]]
+**related** ↔ [[aku-habito-atomico-concept]] · [[aku-habitos-mas-practica-deliberada-igual-maestria-concept]] · [[aku-lideres-nunca-satisfechos-mejora-continua-claim]] · [[aku-mejorar-mas-dificil-al-crecer-capacidad-claim]] · [[aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim]] · [[aku-plateau-of-latent-potential-valley-of-disappointment-concept]]
