@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-copy-sin-florituras-claim
+    - aku-information-overload-7-mas-menos-2-concept
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-ux-focus-guiar-la-atencion-concept]]
 
-**related** ↔ [[aku-copy-sin-florituras-claim]]
+**related** ↔ [[aku-copy-sin-florituras-claim]] · [[aku-information-overload-7-mas-menos-2-concept]]
