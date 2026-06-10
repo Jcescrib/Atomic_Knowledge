@@ -34,6 +34,8 @@ relations:
   related:
     - aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept
     - aku-perceptual-fluency-la-forma-visual-de-la-letra-significa-concept
+    - aku-blending-los-sonidos-adquieren-significado-por-mezcla-concept
+    - aku-fonestemas-grupos-de-sonido-con-significado-concept
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -52,7 +54,7 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-grupo-1-vs-grupo-2-de-fonemas-concept]]
 
-**related** ↔ [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]] · [[aku-perceptual-fluency-la-forma-visual-de-la-letra-significa-concept]]
+**related** ↔ [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]] · [[aku-perceptual-fluency-la-forma-visual-de-la-letra-significa-concept]] · [[aku-blending-los-sonidos-adquieren-significado-por-mezcla-concept]] · [[aku-fonestemas-grupos-de-sonido-con-significado-concept]]
 
 **constrained_by** ← [[aku-el-lenguaje-necesita-simbolismo-y-arbitrariedad-claim]]
 

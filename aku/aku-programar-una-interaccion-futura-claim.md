@@ -31,6 +31,9 @@ relations:
   related:
     - aku-leyes-persuasion-cialdini-concept
     - aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim
+    - aku-evitar-la-terminologia-de-negociacion-claim
+    - aku-emparejar-los-nombres-en-la-invitacion-de-calendario-claim
+    - aku-enmarcar-la-info-de-venta-como-info-de-formacion-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -49,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
-**related** ↔ [[aku-leyes-persuasion-cialdini-concept]] · [[aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim]]
+**related** ↔ [[aku-leyes-persuasion-cialdini-concept]] · [[aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim]] · [[aku-evitar-la-terminologia-de-negociacion-claim]] · [[aku-emparejar-los-nombres-en-la-invitacion-de-calendario-claim]] · [[aku-enmarcar-la-info-de-venta-como-info-de-formacion-claim]]

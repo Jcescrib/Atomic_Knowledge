@@ -31,6 +31,7 @@ relations:
   related:
     - aku-fuentes-altas-transmiten-ligereza-y-lujo-claim
     - aku-los-colores-oscuros-parecen-pesados-claim
+    - aku-lineas-finas-y-altas-en-fuentes-transmiten-belleza-claim
 
 sources:
   - raw/libros/kolenda/font-psychology-by-nick-kolenda/font-psychology-by-nick-kolenda.md
@@ -45,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]
 
-**related** ↔ [[aku-fuentes-altas-transmiten-ligereza-y-lujo-claim]] · [[aku-los-colores-oscuros-parecen-pesados-claim]]
+**related** ↔ [[aku-fuentes-altas-transmiten-ligereza-y-lujo-claim]] · [[aku-los-colores-oscuros-parecen-pesados-claim]] · [[aku-lineas-finas-y-altas-en-fuentes-transmiten-belleza-claim]]

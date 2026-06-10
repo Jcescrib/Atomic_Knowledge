@@ -31,6 +31,8 @@ relations:
   contradicts: []
   related:
     - aku-hacer-que-el-precio-de-oferta-se-vea-distinto-contrast-fluency-claim
+    - aku-reducir-el-color-en-anuncios-llenos-de-texto-claim
+    - aku-reducir-el-color-para-eventos-distantes-en-el-tiempo-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -49,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]] · [[aku-the-tangled-mind-la-cognicion-es-corporal-embodied-concept]]
 
-**related** ↔ [[aku-hacer-que-el-precio-de-oferta-se-vea-distinto-contrast-fluency-claim]]
+**related** ↔ [[aku-hacer-que-el-precio-de-oferta-se-vea-distinto-contrast-fluency-claim]] · [[aku-reducir-el-color-en-anuncios-llenos-de-texto-claim]] · [[aku-reducir-el-color-para-eventos-distantes-en-el-tiempo-claim]]

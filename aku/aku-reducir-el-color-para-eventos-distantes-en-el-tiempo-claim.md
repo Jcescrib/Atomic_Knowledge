@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-los-colores-desaturados-grayscale-transmiten-lujo-claim
+    - aku-reducir-el-color-en-anuncios-llenos-de-texto-claim
+    - aku-retratar-el-problema-en-escala-de-grises-contrast-fluency-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -49,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-los-colores-desaturados-grayscale-transmiten-lujo-claim]]
+**related** ↔ [[aku-los-colores-desaturados-grayscale-transmiten-lujo-claim]] · [[aku-reducir-el-color-en-anuncios-llenos-de-texto-claim]] · [[aku-retratar-el-problema-en-escala-de-grises-contrast-fluency-claim]]

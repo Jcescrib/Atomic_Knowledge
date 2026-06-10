@@ -28,7 +28,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-minimizar-la-dependencia-de-calculo-y-memoria-claim
+    - aku-acercar-las-interacciones-frecuentes-al-usuario-fitts-claim
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -42,3 +44,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ux-effort-minimizar-el-esfuerzo-concept]]
+
+**related** ↔ [[aku-minimizar-la-dependencia-de-calculo-y-memoria-claim]] · [[aku-acercar-las-interacciones-frecuentes-al-usuario-fitts-claim]]

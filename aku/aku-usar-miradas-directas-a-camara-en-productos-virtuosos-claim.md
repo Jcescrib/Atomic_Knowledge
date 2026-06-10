@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-la-mirada-eye-gaze-capta-la-atencion-claim
+    - aku-elegir-modelos-que-se-parezcan-a-cada-segmento-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-la-mirada-eye-gaze-capta-la-atencion-claim]]
+**related** ↔ [[aku-la-mirada-eye-gaze-capta-la-atencion-claim]] · [[aku-elegir-modelos-que-se-parezcan-a-cada-segmento-claim]]

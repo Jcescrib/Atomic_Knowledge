@@ -28,7 +28,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-prevenir-errores-restringiendo-las-entradas-claim
+    - aku-monitorizar-senales-tipicas-de-error-poka-yoke-claim
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -42,3 +44,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ux-errors-prevenir-y-recuperar-errores-concept]]
+
+**related** ↔ [[aku-prevenir-errores-restringiendo-las-entradas-claim]] · [[aku-monitorizar-senales-tipicas-de-error-poka-yoke-claim]]

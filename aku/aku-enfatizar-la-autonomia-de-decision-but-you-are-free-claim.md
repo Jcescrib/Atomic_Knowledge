@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-enmarcar-la-info-de-venta-como-info-de-formacion-claim
+    - aku-describir-los-beneficios-indirectamente-claim
+    - aku-mencionar-inconvenientes-argumento-bilateral-claim
 
 sources:
   - raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -44,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
 
-**related** ↔ [[aku-enmarcar-la-info-de-venta-como-info-de-formacion-claim]]
+**related** ↔ [[aku-enmarcar-la-info-de-venta-como-info-de-formacion-claim]] · [[aku-describir-los-beneficios-indirectamente-claim]] · [[aku-mencionar-inconvenientes-argumento-bilateral-claim]]

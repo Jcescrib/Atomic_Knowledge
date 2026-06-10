@@ -30,6 +30,10 @@ relations:
   contradicts: []
   related:
     - aku-la-capacidad-de-movimiento-de-una-forma-capta-la-atencion-claim
+    - aku-el-motion-onset-capta-la-atencion-claim
+    - aku-el-movimiento-animado-impredecible-capta-la-atencion-claim
+    - aku-el-movimiento-biologico-capta-la-atencion-claim
+    - aku-el-movimiento-looming-capta-la-atencion-claim
 
 sources:
   - raw/libros/kolenda/visual-attention-by-nick-kolenda/visual-attention-by-nick-kolenda.md
@@ -49,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept]]
 
-**related** ↔ [[aku-la-capacidad-de-movimiento-de-una-forma-capta-la-atencion-claim]]
+**related** ↔ [[aku-la-capacidad-de-movimiento-de-una-forma-capta-la-atencion-claim]] · [[aku-el-motion-onset-capta-la-atencion-claim]] · [[aku-el-movimiento-animado-impredecible-capta-la-atencion-claim]] · [[aku-el-movimiento-biologico-capta-la-atencion-claim]] · [[aku-el-movimiento-looming-capta-la-atencion-claim]]

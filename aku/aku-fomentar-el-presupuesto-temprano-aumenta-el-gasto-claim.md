@@ -28,7 +28,11 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-cobrar-antes-de-que-el-cliente-consuma-claim
+    - aku-quitar-el-simbolo-de-moneda-reduce-el-dolor-de-pagar-claim
+    - aku-crear-un-medio-de-pago-separado-reduce-el-dolor-de-pagar-claim
+    - aku-ofrecer-descuentos-hacia-el-final-del-mes-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -42,3 +46,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
+
+**related** ↔ [[aku-cobrar-antes-de-que-el-cliente-consuma-claim]] · [[aku-quitar-el-simbolo-de-moneda-reduce-el-dolor-de-pagar-claim]] · [[aku-crear-un-medio-de-pago-separado-reduce-el-dolor-de-pagar-claim]] · [[aku-ofrecer-descuentos-hacia-el-final-del-mes-claim]]

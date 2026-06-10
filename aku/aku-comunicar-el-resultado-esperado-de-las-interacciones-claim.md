@@ -31,6 +31,8 @@ relations:
   contradicts: []
   related:
     - aku-cumplir-las-expectativas-del-usuario-consistencia-claim
+    - aku-indicar-que-elementos-son-interactivos-affordance-claim
+    - aku-dar-feedback-durante-y-tras-las-interacciones-claim
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -45,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-ux-understanding-comunicar-con-claridad-concept]] · [[aku-ux-cinco-guidelines-de-usabilidad-concept]]
 
-**related** ↔ [[aku-cumplir-las-expectativas-del-usuario-consistencia-claim]]
+**related** ↔ [[aku-cumplir-las-expectativas-del-usuario-consistencia-claim]] · [[aku-indicar-que-elementos-son-interactivos-affordance-claim]] · [[aku-dar-feedback-durante-y-tras-las-interacciones-claim]]

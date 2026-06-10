@@ -34,6 +34,10 @@ relations:
   contradicts: []
   related:
     - aku-landing-page-concept
+    - aku-ux-focus-guiar-la-atencion-concept
+    - aku-ux-understanding-comunicar-con-claridad-concept
+    - aku-ux-effort-minimizar-el-esfuerzo-concept
+    - aku-ux-errors-prevenir-y-recuperar-errores-concept
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -50,4 +54,4 @@ status_note: ""
 
 **supported_by** ← [[aku-extender-las-areas-clicables-y-rutas-de-cursor-claim]] · [[aku-adaptarse-a-la-habilidad-o-conocimiento-del-usuario-claim]] · [[aku-adaptarse-al-objetivo-o-workflow-del-usuario-claim]] · [[aku-maximizar-la-accesibilidad-de-la-interfaz-claim]]
 
-**related** ↔ [[aku-landing-page-concept]]
+**related** ↔ [[aku-landing-page-concept]] · [[aku-ux-focus-guiar-la-atencion-concept]] · [[aku-ux-understanding-comunicar-con-claridad-concept]] · [[aku-ux-effort-minimizar-el-esfuerzo-concept]] · [[aku-ux-errors-prevenir-y-recuperar-errores-concept]]

@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-regla-20-texto-facebook-ads-claim
+    - aku-reducir-el-color-para-eventos-distantes-en-el-tiempo-claim
+    - aku-retratar-el-problema-en-escala-de-grises-contrast-fluency-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -44,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-regla-20-texto-facebook-ads-claim]]
+**related** ↔ [[aku-regla-20-texto-facebook-ads-claim]] · [[aku-reducir-el-color-para-eventos-distantes-en-el-tiempo-claim]] · [[aku-retratar-el-problema-en-escala-de-grises-contrast-fluency-claim]]

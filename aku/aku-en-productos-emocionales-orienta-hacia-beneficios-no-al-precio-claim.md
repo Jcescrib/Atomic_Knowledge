@@ -31,6 +31,7 @@ relations:
   contradicts: []
   related:
     - aku-coste-percibido-amplio-concept
+    - aku-enfatiza-tiempo-y-uso-en-vez-de-dinero-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -50,6 +51,6 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-coste-percibido-amplio-concept]]
+**related** ↔ [[aku-coste-percibido-amplio-concept]] · [[aku-enfatiza-tiempo-y-uso-en-vez-de-dinero-claim]]
 
 **supported_by** ← [[aku-muestra-el-producto-antes-del-precio-en-productos-emocionales-claim]]

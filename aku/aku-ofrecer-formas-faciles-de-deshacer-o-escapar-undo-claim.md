@@ -28,7 +28,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-ayudar-al-usuario-a-resolver-el-error-claim
+    - aku-evitar-decir-tu-en-los-mensajes-de-error-claim
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -42,3 +44,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ux-errors-prevenir-y-recuperar-errores-concept]]
+
+**related** ↔ [[aku-ayudar-al-usuario-a-resolver-el-error-claim]] · [[aku-evitar-decir-tu-en-los-mensajes-de-error-claim]]

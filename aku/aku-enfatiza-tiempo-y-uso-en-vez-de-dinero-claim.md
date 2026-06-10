@@ -28,7 +28,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-en-productos-emocionales-orienta-hacia-beneficios-no-al-precio-claim
+    - aku-muestra-el-producto-antes-del-precio-en-productos-emocionales-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -42,3 +44,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
+
+**related** ↔ [[aku-en-productos-emocionales-orienta-hacia-beneficios-no-al-precio-claim]] · [[aku-muestra-el-producto-antes-del-precio-en-productos-emocionales-claim]]

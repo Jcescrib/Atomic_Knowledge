@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-construir-nombres-descriptivos-method
+    - aku-construir-nombres-neologisticos-method
+    - aku-construir-nombres-deviant-method
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -49,4 +51,4 @@ status_note: ""
 
 **supported_by** ← [[aku-los-nombres-deben-contener-un-beneficio-positivo-claim]]
 
-**related** ↔ [[aku-construir-nombres-descriptivos-method]]
+**related** ↔ [[aku-construir-nombres-descriptivos-method]] · [[aku-construir-nombres-neologisticos-method]] · [[aku-construir-nombres-deviant-method]]

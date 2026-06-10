@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-habito-concept
+    - aku-haz-tu-estimulo-similar-a-lo-que-el-objetivo-monitorea-goal-directed-claim
 
 sources:
   - raw/libros/kolenda/visual-attention-by-nick-kolenda/visual-attention-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept]]
 
-**related** ↔ [[aku-habito-concept]]
+**related** ↔ [[aku-habito-concept]] · [[aku-haz-tu-estimulo-similar-a-lo-que-el-objetivo-monitorea-goal-directed-claim]]

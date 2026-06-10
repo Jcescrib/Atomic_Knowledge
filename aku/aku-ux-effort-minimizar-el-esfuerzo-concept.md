@@ -37,7 +37,11 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-ux-focus-guiar-la-atencion-concept
+    - aku-ux-understanding-comunicar-con-claridad-concept
+    - aku-ux-errors-prevenir-y-recuperar-errores-concept
+    - aku-ux-compatibility-adaptarse-al-usuario-concept
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -53,3 +57,5 @@ status_note: ""
 **supports** → [[aku-ux-cinco-guidelines-de-usabilidad-concept]]
 
 **supported_by** ← [[aku-ayudar-al-usuario-a-elegir-opciones-choice-overload-claim]] · [[aku-minimizar-los-perjuicios-de-la-espera-claim]] · [[aku-minimizar-la-dependencia-de-calculo-y-memoria-claim]] · [[aku-minimizar-las-tareas-redundantes-claim]] · [[aku-acercar-las-interacciones-frecuentes-al-usuario-fitts-claim]] · [[aku-guiar-al-usuario-hacia-su-objetivo-claim]] · [[aku-empezar-el-progreso-por-encima-de-cero-endowed-progress-claim]] · [[aku-recomendar-una-opcion-por-defecto-claim]] · [[aku-los-colores-frios-reducen-la-percepcion-de-espera-claim]]
+
+**related** ↔ [[aku-ux-focus-guiar-la-atencion-concept]] · [[aku-ux-understanding-comunicar-con-claridad-concept]] · [[aku-ux-errors-prevenir-y-recuperar-errores-concept]] · [[aku-ux-compatibility-adaptarse-al-usuario-concept]]

@@ -31,6 +31,7 @@ relations:
   related:
     - aku-fuentes-redondeadas-transmiten-comodidad-y-suavidad-claim
     - aku-envases-angulares-parecen-masculinos-y-picantes-claim
+    - aku-texturas-rugosas-parecen-masculinas-claim
 
 sources:
   - raw/libros/kolenda/packaging-psychology-by-nick-kolenda/packaging-psychology-by-nick-kolenda.md
@@ -45,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-packaging-psychology-el-envase-comunica-por-heuristicas-visuales-concept]]
 
-**related** ↔ [[aku-fuentes-redondeadas-transmiten-comodidad-y-suavidad-claim]] · [[aku-envases-angulares-parecen-masculinos-y-picantes-claim]]
+**related** ↔ [[aku-fuentes-redondeadas-transmiten-comodidad-y-suavidad-claim]] · [[aku-envases-angulares-parecen-masculinos-y-picantes-claim]] · [[aku-texturas-rugosas-parecen-masculinas-claim]]

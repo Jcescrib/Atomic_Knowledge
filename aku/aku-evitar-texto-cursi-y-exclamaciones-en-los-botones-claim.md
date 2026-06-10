@@ -32,6 +32,10 @@ relations:
     - aku-eliminar-los-signos-de-exclamacion-claim
     - aku-cuidar-el-flujo-fonetico-de-las-palabras-claim
     - aku-describir-el-siguiente-paso-concreto-en-el-boton-claim
+    - aku-traer-los-botones-al-primer-plano-claim
+    - aku-mostrar-una-afirmacion-positiva-cerca-del-boton-claim
+    - aku-mencionar-las-palabras-click-o-tap-cerca-del-boton-claim
+    - aku-mostrar-opciones-de-rechazo-feas-claim
 
 sources:
   - raw/libros/kolenda/ecommerce-psychology-by-nick-kolenda/ecommerce-psychology-by-nick-kolenda.md
@@ -46,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]
 
-**related** ↔ [[aku-eliminar-los-signos-de-exclamacion-claim]] · [[aku-cuidar-el-flujo-fonetico-de-las-palabras-claim]] · [[aku-describir-el-siguiente-paso-concreto-en-el-boton-claim]]
+**related** ↔ [[aku-eliminar-los-signos-de-exclamacion-claim]] · [[aku-cuidar-el-flujo-fonetico-de-las-palabras-claim]] · [[aku-describir-el-siguiente-paso-concreto-en-el-boton-claim]] · [[aku-traer-los-botones-al-primer-plano-claim]] · [[aku-mostrar-una-afirmacion-positiva-cerca-del-boton-claim]] · [[aku-mencionar-las-palabras-click-o-tap-cerca-del-boton-claim]] · [[aku-mostrar-opciones-de-rechazo-feas-claim]]

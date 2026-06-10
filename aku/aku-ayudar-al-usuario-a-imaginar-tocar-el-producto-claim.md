@@ -34,6 +34,8 @@ relations:
     - aku-traer-los-botones-al-primer-plano-claim
     - aku-elegir-palabras-faciles-de-imaginar-claim
     - aku-mencionar-las-palabras-click-o-tap-cerca-del-boton-claim
+    - aku-mostrar-el-unboxing-del-producto-claim
+    - aku-insertar-la-foto-del-usuario-en-la-interfaz-claim
 
 sources:
   - raw/libros/kolenda/ecommerce-psychology-by-nick-kolenda/ecommerce-psychology-by-nick-kolenda.md
@@ -52,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]] · [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]] · [[aku-imagine-reading-this-book-la-simulacion-mental-guia-las-decisiones-concept]]
 
-**related** ↔ [[aku-traer-los-botones-al-primer-plano-claim]] · [[aku-elegir-palabras-faciles-de-imaginar-claim]] · [[aku-mencionar-las-palabras-click-o-tap-cerca-del-boton-claim]]
+**related** ↔ [[aku-traer-los-botones-al-primer-plano-claim]] · [[aku-elegir-palabras-faciles-de-imaginar-claim]] · [[aku-mencionar-las-palabras-click-o-tap-cerca-del-boton-claim]] · [[aku-mostrar-el-unboxing-del-producto-claim]] · [[aku-insertar-la-foto-del-usuario-en-la-interfaz-claim]]

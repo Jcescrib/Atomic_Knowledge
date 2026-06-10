@@ -29,7 +29,14 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-censurar-los-tacos-en-las-resenas-claim
+    - aku-corregir-las-erratas-en-las-resenas-claim
+    - aku-mostrar-nombres-reales-en-las-resenas-claim
+    - aku-premiar-las-resenas-con-fotos-o-video-claim
+    - aku-mostrar-prueba-de-consumo-compra-verificada-en-las-resenas-claim
+    - aku-mostrar-resenas-imperfectas-claim
+    - aku-pedir-valoracion-en-multiples-dimensiones-en-las-resenas-claim
 
 sources:
   - raw/libros/kolenda/ecommerce-psychology-by-nick-kolenda/ecommerce-psychology-by-nick-kolenda.md
@@ -43,3 +50,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]] · [[aku-insertar-contenido-persuasivo-en-las-resenas-claim]]
+
+**related** ↔ [[aku-censurar-los-tacos-en-las-resenas-claim]] · [[aku-corregir-las-erratas-en-las-resenas-claim]] · [[aku-mostrar-nombres-reales-en-las-resenas-claim]] · [[aku-premiar-las-resenas-con-fotos-o-video-claim]] · [[aku-mostrar-prueba-de-consumo-compra-verificada-en-las-resenas-claim]] · [[aku-mostrar-resenas-imperfectas-claim]] · [[aku-pedir-valoracion-en-multiples-dimensiones-en-las-resenas-claim]]

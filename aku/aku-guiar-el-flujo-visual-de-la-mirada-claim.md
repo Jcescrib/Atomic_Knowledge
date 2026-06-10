@@ -31,6 +31,11 @@ relations:
   contradicts: []
   related:
     - aku-anadir-senales-sensoriales-para-captar-atencion-claim
+    - aku-crear-un-punto-de-entrada-visual-claim
+    - aku-agrupar-elementos-similares-por-proximidad-gestalt-claim
+    - aku-eliminar-elementos-innecesarios-data-ink-claim
+    - aku-comunicar-las-secciones-ocultas-del-diseno-claim
+    - aku-mostrar-los-cambios-sin-interrumpir-al-usuario-claim
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -45,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-ux-focus-guiar-la-atencion-concept]] · [[aku-ux-cinco-guidelines-de-usabilidad-concept]]
 
-**related** ↔ [[aku-anadir-senales-sensoriales-para-captar-atencion-claim]]
+**related** ↔ [[aku-anadir-senales-sensoriales-para-captar-atencion-claim]] · [[aku-crear-un-punto-de-entrada-visual-claim]] · [[aku-agrupar-elementos-similares-por-proximidad-gestalt-claim]] · [[aku-eliminar-elementos-innecesarios-data-ink-claim]] · [[aku-comunicar-las-secciones-ocultas-del-diseno-claim]] · [[aku-mostrar-los-cambios-sin-interrumpir-al-usuario-claim]]

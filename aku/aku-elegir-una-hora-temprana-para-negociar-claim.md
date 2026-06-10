@@ -31,6 +31,9 @@ relations:
   related:
     - aku-colocar-la-opcion-objetivo-primera-o-ultima-claim
     - aku-depletion-principle-concept
+    - aku-elegir-un-dia-con-buen-tiempo-para-negociar-claim
+    - aku-dar-al-rival-una-silla-baja-y-blanda-claim
+    - aku-llevar-cafe-y-pasteles-a-la-negociacion-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -45,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
-**related** ↔ [[aku-colocar-la-opcion-objetivo-primera-o-ultima-claim]] · [[aku-depletion-principle-concept]]
+**related** ↔ [[aku-colocar-la-opcion-objetivo-primera-o-ultima-claim]] · [[aku-depletion-principle-concept]] · [[aku-elegir-un-dia-con-buen-tiempo-para-negociar-claim]] · [[aku-dar-al-rival-una-silla-baja-y-blanda-claim]] · [[aku-llevar-cafe-y-pasteles-a-la-negociacion-claim]]

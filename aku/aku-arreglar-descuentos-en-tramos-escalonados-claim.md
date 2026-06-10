@@ -30,6 +30,9 @@ relations:
   contradicts: []
   related:
     - aku-extraer-esfuerzo-antes-de-elecciones-emocionales-claim
+    - aku-dar-dos-descuentos-en-orden-ascendente-claim
+    - aku-retirar-los-descuentos-gradualmente-claim
+    - aku-dar-una-razon-para-el-descuento-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -44,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-extraer-esfuerzo-antes-de-elecciones-emocionales-claim]]
+**related** ↔ [[aku-extraer-esfuerzo-antes-de-elecciones-emocionales-claim]] · [[aku-dar-dos-descuentos-en-orden-ascendente-claim]] · [[aku-retirar-los-descuentos-gradualmente-claim]] · [[aku-dar-una-razon-para-el-descuento-claim]]

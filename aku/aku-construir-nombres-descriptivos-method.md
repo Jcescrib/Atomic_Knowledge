@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-construir-nombres-asociativos-method
+    - aku-construir-nombres-neologisticos-method
+    - aku-construir-nombres-deviant-method
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -44,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
 
-**related** ↔ [[aku-construir-nombres-asociativos-method]]
+**related** ↔ [[aku-construir-nombres-asociativos-method]] · [[aku-construir-nombres-neologisticos-method]] · [[aku-construir-nombres-deviant-method]]

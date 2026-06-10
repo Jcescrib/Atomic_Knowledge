@@ -31,6 +31,7 @@ relations:
   related:
     - aku-el-castigo-inmediato-reduce-el-mal-habito-claim
     - aku-usar-marcos-positivos-no-negativos-claim
+    - aku-usar-anuncios-positivos-para-ser-recordado-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -45,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-el-castigo-inmediato-reduce-el-mal-habito-claim]] · [[aku-usar-marcos-positivos-no-negativos-claim]]
+**related** ↔ [[aku-el-castigo-inmediato-reduce-el-mal-habito-claim]] · [[aku-usar-marcos-positivos-no-negativos-claim]] · [[aku-usar-anuncios-positivos-para-ser-recordado-claim]]

@@ -29,7 +29,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-ofrecer-formas-faciles-de-deshacer-o-escapar-undo-claim
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -43,3 +44,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ux-errors-prevenir-y-recuperar-errores-concept]] · [[aku-ayudar-al-usuario-a-resolver-el-error-claim]]
+
+**related** ↔ [[aku-ofrecer-formas-faciles-de-deshacer-o-escapar-undo-claim]]

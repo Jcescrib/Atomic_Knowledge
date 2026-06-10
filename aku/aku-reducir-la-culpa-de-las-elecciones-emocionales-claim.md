@@ -35,6 +35,7 @@ relations:
     - aku-extraer-esfuerzo-antes-de-elecciones-emocionales-claim
     - aku-anadir-mas-atributos-a-las-descripciones-de-productos-emocionales-claim
     - aku-aislar-las-opciones-emocionales-claim
+    - aku-usar-lenguaje-asertivo-en-productos-emocionales-claim
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -53,6 +54,6 @@ status_note: ""
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]] · [[aku-la-escala-de-decision-equilibra-cuatro-conductas-concept]]
 
-**related** ↔ [[aku-atribuir-el-descuento-al-producto-emocional-del-bundle-claim]] · [[aku-extraer-esfuerzo-antes-de-elecciones-emocionales-claim]] · [[aku-anadir-mas-atributos-a-las-descripciones-de-productos-emocionales-claim]] · [[aku-aislar-las-opciones-emocionales-claim]]
+**related** ↔ [[aku-atribuir-el-descuento-al-producto-emocional-del-bundle-claim]] · [[aku-extraer-esfuerzo-antes-de-elecciones-emocionales-claim]] · [[aku-anadir-mas-atributos-a-las-descripciones-de-productos-emocionales-claim]] · [[aku-aislar-las-opciones-emocionales-claim]] · [[aku-usar-lenguaje-asertivo-en-productos-emocionales-claim]]
 
 **supported_by** ← [[aku-ofrecer-incentivos-de-caridad-en-productos-emocionales-claim]]

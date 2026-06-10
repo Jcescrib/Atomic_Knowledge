@@ -34,7 +34,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-construir-nombres-asociativos-method
+    - aku-construir-nombres-descriptivos-method
+    - aku-construir-nombres-deviant-method
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -50,3 +53,5 @@ status_note: ""
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-los-nombres-neologisticos-son-los-mas-protegibles-trademark-claim]]
 
 **supported_by** ← [[aku-grupo-1-vs-grupo-2-de-fonemas-concept]] · [[aku-empezar-el-nombre-con-plosiva-mejora-el-recall-claim]] · [[aku-ordenar-las-consonantes-de-delante-hacia-atras-inward-claim]] · [[aku-terminar-el-nombre-con-fonema-de-genero-claim]] · [[aku-el-acento-silabico-determina-sustantivo-vs-verbo-claim]]
+
+**related** ↔ [[aku-construir-nombres-asociativos-method]] · [[aku-construir-nombres-descriptivos-method]] · [[aku-construir-nombres-deviant-method]]

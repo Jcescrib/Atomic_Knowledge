@@ -28,7 +28,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-los-nombres-deben-contener-un-beneficio-positivo-claim
+    - aku-los-nombres-memorables-tienen-congruencia-moderada-claim
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -46,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
+
+**related** ↔ [[aku-los-nombres-deben-contener-un-beneficio-positivo-claim]] · [[aku-los-nombres-memorables-tienen-congruencia-moderada-claim]]

@@ -30,6 +30,9 @@ relations:
   contradicts: []
   related:
     - aku-empezar-el-nombre-con-plosiva-mejora-el-recall-claim
+    - aku-anadir-espacio-entre-precio-original-y-de-oferta-claim
+    - aku-colocar-el-precio-de-oferta-debajo-del-original-claim
+    - aku-hacer-que-el-precio-de-oferta-se-vea-distinto-contrast-fluency-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -44,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-empezar-el-nombre-con-plosiva-mejora-el-recall-claim]]
+**related** ↔ [[aku-empezar-el-nombre-con-plosiva-mejora-el-recall-claim]] · [[aku-anadir-espacio-entre-precio-original-y-de-oferta-claim]] · [[aku-colocar-el-precio-de-oferta-debajo-del-original-claim]] · [[aku-hacer-que-el-precio-de-oferta-se-vea-distinto-contrast-fluency-claim]]

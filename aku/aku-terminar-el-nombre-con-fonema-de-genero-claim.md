@@ -31,6 +31,8 @@ relations:
   contradicts: []
   related:
     - aku-los-fonemas-anteriores-evocan-lo-femenino-claim
+    - aku-empezar-el-nombre-con-plosiva-mejora-el-recall-claim
+    - aku-ordenar-las-consonantes-de-delante-hacia-atras-inward-claim
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -45,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-construir-nombres-neologisticos-method]]
 
-**related** ↔ [[aku-los-fonemas-anteriores-evocan-lo-femenino-claim]]
+**related** ↔ [[aku-los-fonemas-anteriores-evocan-lo-femenino-claim]] · [[aku-empezar-el-nombre-con-plosiva-mejora-el-recall-claim]] · [[aku-ordenar-las-consonantes-de-delante-hacia-atras-inward-claim]]

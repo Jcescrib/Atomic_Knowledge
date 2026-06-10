@@ -28,7 +28,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-retratar-acciones-con-verbos-imperfectos-claim
 
 sources:
   - raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -53,3 +54,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
+
+**related** ↔ [[aku-retratar-acciones-con-verbos-imperfectos-claim]]

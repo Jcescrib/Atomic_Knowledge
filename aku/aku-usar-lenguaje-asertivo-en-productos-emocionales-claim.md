@@ -33,6 +33,7 @@ relations:
     - aku-anadir-mas-atributos-a-las-descripciones-de-productos-emocionales-claim
     - aku-ofrecer-incentivos-de-caridad-en-productos-emocionales-claim
     - aku-extraer-esfuerzo-antes-de-elecciones-emocionales-claim
+    - aku-reducir-la-culpa-de-las-elecciones-emocionales-claim
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -51,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
 
-**related** ↔ [[aku-aislar-las-opciones-emocionales-claim]] · [[aku-anadir-mas-atributos-a-las-descripciones-de-productos-emocionales-claim]] · [[aku-ofrecer-incentivos-de-caridad-en-productos-emocionales-claim]] · [[aku-extraer-esfuerzo-antes-de-elecciones-emocionales-claim]]
+**related** ↔ [[aku-aislar-las-opciones-emocionales-claim]] · [[aku-anadir-mas-atributos-a-las-descripciones-de-productos-emocionales-claim]] · [[aku-ofrecer-incentivos-de-caridad-en-productos-emocionales-claim]] · [[aku-extraer-esfuerzo-antes-de-elecciones-emocionales-claim]] · [[aku-reducir-la-culpa-de-las-elecciones-emocionales-claim]]

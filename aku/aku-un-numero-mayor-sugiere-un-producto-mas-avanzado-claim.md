@@ -33,6 +33,11 @@ relations:
     - aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim
     - aku-cuatro-upsells-concept
     - aku-los-numeros-en-el-nombre-implican-atributos-del-producto-claim
+    - aku-los-nombres-alfanumericos-funcionan-en-productos-tecnicos-y-formulados-claim
+    - aku-los-numeros-redondos-en-el-nombre-se-prefieren-claim
+    - aku-usar-numeros-compuestos-no-primos-en-el-nombre-claim
+    - aku-los-numeros-aliterados-en-el-nombre-funcionan-mejor-claim
+    - aku-mantener-el-numero-del-nombre-simple-claim
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -47,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
 
-**related** ↔ [[aku-exponer-a-cualquier-numero-alto-eleva-el-precio-de-referencia-claim]] · [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]] · [[aku-cuatro-upsells-concept]] · [[aku-los-numeros-en-el-nombre-implican-atributos-del-producto-claim]]
+**related** ↔ [[aku-exponer-a-cualquier-numero-alto-eleva-el-precio-de-referencia-claim]] · [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]] · [[aku-cuatro-upsells-concept]] · [[aku-los-numeros-en-el-nombre-implican-atributos-del-producto-claim]] · [[aku-los-nombres-alfanumericos-funcionan-en-productos-tecnicos-y-formulados-claim]] · [[aku-los-numeros-redondos-en-el-nombre-se-prefieren-claim]] · [[aku-usar-numeros-compuestos-no-primos-en-el-nombre-claim]] · [[aku-los-numeros-aliterados-en-el-nombre-funcionan-mejor-claim]] · [[aku-mantener-el-numero-del-nombre-simple-claim]]

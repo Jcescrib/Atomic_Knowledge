@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-mostrar-precios-en-rojo-a-los-hombres-claim
+    - aku-el-rojo-refuerza-la-atraccion-social-claim
 
 sources:
   - raw/libros/kolenda/color-psychology2/color-psychology2.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept]]
 
-**related** ↔ [[aku-mostrar-precios-en-rojo-a-los-hombres-claim]]
+**related** ↔ [[aku-mostrar-precios-en-rojo-a-los-hombres-claim]] · [[aku-el-rojo-refuerza-la-atraccion-social-claim]]

@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-la-novedad-capta-la-atencion-claim
+    - aku-agrandar-las-palabras-emocionales-claim
+    - aku-anadir-elementos-de-la-atencion-top-down-del-espectador-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -44,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-la-novedad-capta-la-atencion-claim]]
+**related** ↔ [[aku-la-novedad-capta-la-atencion-claim]] · [[aku-agrandar-las-palabras-emocionales-claim]] · [[aku-anadir-elementos-de-la-atencion-top-down-del-espectador-claim]]

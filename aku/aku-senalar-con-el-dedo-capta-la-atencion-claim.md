@@ -31,6 +31,8 @@ relations:
   related:
     - aku-la-orientacion-del-cuerpo-capta-la-atencion-claim
     - aku-la-mirada-eye-gaze-capta-la-atencion-claim
+    - aku-las-flechas-captan-la-atencion-claim
+    - aku-las-palabras-direccionales-captan-la-atencion-claim
 
 sources:
   - raw/libros/kolenda/visual-attention-by-nick-kolenda/visual-attention-by-nick-kolenda.md
@@ -49,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept]]
 
-**related** ↔ [[aku-la-orientacion-del-cuerpo-capta-la-atencion-claim]] · [[aku-la-mirada-eye-gaze-capta-la-atencion-claim]]
+**related** ↔ [[aku-la-orientacion-del-cuerpo-capta-la-atencion-claim]] · [[aku-la-mirada-eye-gaze-capta-la-atencion-claim]] · [[aku-las-flechas-captan-la-atencion-claim]] · [[aku-las-palabras-direccionales-captan-la-atencion-claim]]

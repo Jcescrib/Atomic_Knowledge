@@ -31,6 +31,9 @@ relations:
   related:
     - aku-the-tangled-mind-la-cognicion-es-corporal-embodied-concept
     - aku-buoyancy-principle-concept
+    - aku-elegir-un-dia-con-buen-tiempo-para-negociar-claim
+    - aku-elegir-una-hora-temprana-para-negociar-claim
+    - aku-llevar-cafe-y-pasteles-a-la-negociacion-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -49,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
-**related** ↔ [[aku-the-tangled-mind-la-cognicion-es-corporal-embodied-concept]] · [[aku-buoyancy-principle-concept]]
+**related** ↔ [[aku-the-tangled-mind-la-cognicion-es-corporal-embodied-concept]] · [[aku-buoyancy-principle-concept]] · [[aku-elegir-un-dia-con-buen-tiempo-para-negociar-claim]] · [[aku-elegir-una-hora-temprana-para-negociar-claim]] · [[aku-llevar-cafe-y-pasteles-a-la-negociacion-claim]]

@@ -29,7 +29,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-activar-una-mentalidad-de-cual-elegir-which-to-choose-claim
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -47,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]] · [[aku-simulation-fluency-simulamos-resultado-menos-proceso-concept]]
+
+**related** ↔ [[aku-activar-una-mentalidad-de-cual-elegir-which-to-choose-claim]]

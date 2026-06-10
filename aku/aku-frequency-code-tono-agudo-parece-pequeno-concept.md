@@ -28,7 +28,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-kinesthetic-fluency-la-articulacion-bucal-significa-concept
+    - aku-facial-feedback-los-fonemas-que-fuerzan-sonrisa-generan-afecto-concept
+    - aku-perceptual-fluency-la-forma-visual-de-la-letra-significa-concept
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -42,3 +45,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
+
+**related** ↔ [[aku-kinesthetic-fluency-la-articulacion-bucal-significa-concept]] · [[aku-facial-feedback-los-fonemas-que-fuerzan-sonrisa-generan-afecto-concept]] · [[aku-perceptual-fluency-la-forma-visual-de-la-letra-significa-concept]]

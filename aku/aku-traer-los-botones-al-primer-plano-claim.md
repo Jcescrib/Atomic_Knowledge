@@ -32,6 +32,10 @@ relations:
     - aku-esquema-de-color-complementario-claim
     - aku-describir-el-siguiente-paso-concreto-en-el-boton-claim
     - aku-ayudar-al-usuario-a-imaginar-tocar-el-producto-claim
+    - aku-mostrar-una-afirmacion-positiva-cerca-del-boton-claim
+    - aku-mencionar-las-palabras-click-o-tap-cerca-del-boton-claim
+    - aku-evitar-texto-cursi-y-exclamaciones-en-los-botones-claim
+    - aku-mostrar-opciones-de-rechazo-feas-claim
 
 sources:
   - raw/libros/kolenda/ecommerce-psychology-by-nick-kolenda/ecommerce-psychology-by-nick-kolenda.md
@@ -50,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]
 
-**related** ↔ [[aku-esquema-de-color-complementario-claim]] · [[aku-describir-el-siguiente-paso-concreto-en-el-boton-claim]] · [[aku-ayudar-al-usuario-a-imaginar-tocar-el-producto-claim]]
+**related** ↔ [[aku-esquema-de-color-complementario-claim]] · [[aku-describir-el-siguiente-paso-concreto-en-el-boton-claim]] · [[aku-ayudar-al-usuario-a-imaginar-tocar-el-producto-claim]] · [[aku-mostrar-una-afirmacion-positiva-cerca-del-boton-claim]] · [[aku-mencionar-las-palabras-click-o-tap-cerca-del-boton-claim]] · [[aku-evitar-texto-cursi-y-exclamaciones-en-los-botones-claim]] · [[aku-mostrar-opciones-de-rechazo-feas-claim]]

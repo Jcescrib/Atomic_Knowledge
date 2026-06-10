@@ -37,6 +37,10 @@ relations:
   contradicts: []
   related:
     - aku-perception-is-reality-value-claim
+    - aku-ux-focus-guiar-la-atencion-concept
+    - aku-ux-effort-minimizar-el-esfuerzo-concept
+    - aku-ux-errors-prevenir-y-recuperar-errores-concept
+    - aku-ux-compatibility-adaptarse-al-usuario-concept
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -53,4 +57,4 @@ status_note: ""
 
 **supported_by** ← [[aku-indicar-que-elementos-son-interactivos-affordance-claim]] · [[aku-dar-feedback-durante-y-tras-las-interacciones-claim]] · [[aku-comunicar-en-terminos-relativos-claim]] · [[aku-ayudar-al-usuario-a-ubicarse-en-la-interfaz-claim]] · [[aku-disenar-para-el-escaneo-scannability-claim]] · [[aku-comunicar-el-resultado-esperado-de-las-interacciones-claim]] · [[aku-cumplir-las-expectativas-del-usuario-consistencia-claim]]
 
-**related** ↔ [[aku-perception-is-reality-value-claim]]
+**related** ↔ [[aku-perception-is-reality-value-claim]] · [[aku-ux-focus-guiar-la-atencion-concept]] · [[aku-ux-effort-minimizar-el-esfuerzo-concept]] · [[aku-ux-errors-prevenir-y-recuperar-errores-concept]] · [[aku-ux-compatibility-adaptarse-al-usuario-concept]]

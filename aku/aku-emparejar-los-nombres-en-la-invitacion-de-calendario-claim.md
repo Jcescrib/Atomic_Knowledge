@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-evitar-la-terminologia-de-negociacion-claim
+    - aku-programar-una-interaccion-futura-claim
+    - aku-enmarcar-la-info-de-venta-como-info-de-formacion-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -44,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
-**related** ↔ [[aku-evitar-la-terminologia-de-negociacion-claim]]
+**related** ↔ [[aku-evitar-la-terminologia-de-negociacion-claim]] · [[aku-programar-una-interaccion-futura-claim]] · [[aku-enmarcar-la-info-de-venta-como-info-de-formacion-claim]]

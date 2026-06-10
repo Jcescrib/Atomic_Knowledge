@@ -31,6 +31,8 @@ relations:
   related:
     - aku-haz-tu-estimulo-similar-a-lo-que-el-objetivo-monitorea-goal-directed-claim
     - aku-callout-cocktail-party-claim
+    - aku-inyectar-algo-absurdo-o-sin-sentido-en-el-anuncio-claim
+    - aku-agrandar-las-palabras-emocionales-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -49,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-haz-tu-estimulo-similar-a-lo-que-el-objetivo-monitorea-goal-directed-claim]] · [[aku-callout-cocktail-party-claim]]
+**related** ↔ [[aku-haz-tu-estimulo-similar-a-lo-que-el-objetivo-monitorea-goal-directed-claim]] · [[aku-callout-cocktail-party-claim]] · [[aku-inyectar-algo-absurdo-o-sin-sentido-en-el-anuncio-claim]] · [[aku-agrandar-las-palabras-emocionales-claim]]

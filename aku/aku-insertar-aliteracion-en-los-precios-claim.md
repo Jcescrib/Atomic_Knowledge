@@ -32,6 +32,9 @@ relations:
     - aku-secuenciar-palabras-en-orden-alfabetico-claim
     - aku-rimar-el-eslogan-o-la-llamada-a-la-accion-claim
     - aku-los-numeros-aliterados-en-el-nombre-funcionan-mejor-claim
+    - aku-elegir-precios-con-menos-silabas-claim
+    - aku-quitar-la-coma-de-los-precios-claim
+    - aku-mostrar-dos-multiplos-del-precio-cerca-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -46,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-secuenciar-palabras-en-orden-alfabetico-claim]] · [[aku-rimar-el-eslogan-o-la-llamada-a-la-accion-claim]] · [[aku-los-numeros-aliterados-en-el-nombre-funcionan-mejor-claim]]
+**related** ↔ [[aku-secuenciar-palabras-en-orden-alfabetico-claim]] · [[aku-rimar-el-eslogan-o-la-llamada-a-la-accion-claim]] · [[aku-los-numeros-aliterados-en-el-nombre-funcionan-mejor-claim]] · [[aku-elegir-precios-con-menos-silabas-claim]] · [[aku-quitar-la-coma-de-los-precios-claim]] · [[aku-mostrar-dos-multiplos-del-precio-cerca-claim]]

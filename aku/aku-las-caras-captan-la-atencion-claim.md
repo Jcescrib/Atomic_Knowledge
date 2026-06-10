@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-las-partes-del-cuerpo-realistas-captan-la-atencion-claim
+    - aku-los-cuerpos-humanos-captan-la-atencion-claim
 
 sources:
   - raw/libros/kolenda/visual-attention-by-nick-kolenda/visual-attention-by-nick-kolenda.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept]]
 
-**related** ↔ [[aku-las-partes-del-cuerpo-realistas-captan-la-atencion-claim]]
+**related** ↔ [[aku-las-partes-del-cuerpo-realistas-captan-la-atencion-claim]] · [[aku-los-cuerpos-humanos-captan-la-atencion-claim]]

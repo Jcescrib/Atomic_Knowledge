@@ -28,7 +28,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-separar-cada-ganancia-en-componentes-individuales-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -42,3 +43,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
+
+**related** ↔ [[aku-separar-cada-ganancia-en-componentes-individuales-claim]]

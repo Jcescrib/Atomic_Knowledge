@@ -28,7 +28,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-empezar-cada-frase-con-el-objeto-previo-claim
+    - aku-distribuir-palabras-semanticamente-relacionadas-claim
+    - aku-restringir-a-una-sola-interpretacion-claim
 
 sources:
   - raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -42,3 +45,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
+
+**related** ↔ [[aku-empezar-cada-frase-con-el-objeto-previo-claim]] · [[aku-distribuir-palabras-semanticamente-relacionadas-claim]] · [[aku-restringir-a-una-sola-interpretacion-claim]]

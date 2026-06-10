@@ -32,6 +32,8 @@ relations:
     - aku-reemplazar-beneficios-vagos-por-ejemplos-concretos-claim
     - aku-ayudar-al-usuario-a-imaginar-tocar-el-producto-claim
     - aku-ofrecer-aplicaciones-relevantes-del-producto-claim
+    - aku-terminar-las-frases-con-una-imagen-concreta-claim
+    - aku-sumergir-al-lector-en-la-conducta-hipotetica-if-then-claim
 
 sources:
   - raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -46,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
 
-**related** ↔ [[aku-reemplazar-beneficios-vagos-por-ejemplos-concretos-claim]] · [[aku-ayudar-al-usuario-a-imaginar-tocar-el-producto-claim]] · [[aku-ofrecer-aplicaciones-relevantes-del-producto-claim]]
+**related** ↔ [[aku-reemplazar-beneficios-vagos-por-ejemplos-concretos-claim]] · [[aku-ayudar-al-usuario-a-imaginar-tocar-el-producto-claim]] · [[aku-ofrecer-aplicaciones-relevantes-del-producto-claim]] · [[aku-terminar-las-frases-con-una-imagen-concreta-claim]] · [[aku-sumergir-al-lector-en-la-conducta-hipotetica-if-then-claim]]

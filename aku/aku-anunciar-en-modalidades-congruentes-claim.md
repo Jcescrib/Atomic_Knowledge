@@ -31,6 +31,8 @@ relations:
   related:
     - aku-display-video-in-stream-concept
     - aku-inmersar-al-espectador-en-perspectiva-de-primera-persona-claim
+    - aku-anunciar-en-el-mismo-dominio-tematico-claim
+    - aku-terminar-los-anuncios-ilustrando-el-siguiente-paso-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -45,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-display-video-in-stream-concept]] · [[aku-inmersar-al-espectador-en-perspectiva-de-primera-persona-claim]]
+**related** ↔ [[aku-display-video-in-stream-concept]] · [[aku-inmersar-al-espectador-en-perspectiva-de-primera-persona-claim]] · [[aku-anunciar-en-el-mismo-dominio-tematico-claim]] · [[aku-terminar-los-anuncios-ilustrando-el-siguiente-paso-claim]]

@@ -28,7 +28,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-insertar-un-bloqueo-a-la-derecha-del-anuncio-claim
+    - aku-posicionar-las-imagenes-a-la-izquierda-del-anuncio-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -42,3 +44,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
+
+**related** ↔ [[aku-insertar-un-bloqueo-a-la-derecha-del-anuncio-claim]] · [[aku-posicionar-las-imagenes-a-la-izquierda-del-anuncio-claim]]

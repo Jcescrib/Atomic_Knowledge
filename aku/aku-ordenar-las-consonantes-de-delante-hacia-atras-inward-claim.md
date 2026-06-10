@@ -31,6 +31,8 @@ relations:
   contradicts: []
   related:
     - aku-the-tangled-mind-la-cognicion-es-corporal-embodied-concept
+    - aku-empezar-el-nombre-con-plosiva-mejora-el-recall-claim
+    - aku-terminar-el-nombre-con-fonema-de-genero-claim
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -49,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-construir-nombres-neologisticos-method]]
 
-**related** ↔ [[aku-the-tangled-mind-la-cognicion-es-corporal-embodied-concept]]
+**related** ↔ [[aku-the-tangled-mind-la-cognicion-es-corporal-embodied-concept]] · [[aku-empezar-el-nombre-con-plosiva-mejora-el-recall-claim]] · [[aku-terminar-el-nombre-con-fonema-de-genero-claim]]

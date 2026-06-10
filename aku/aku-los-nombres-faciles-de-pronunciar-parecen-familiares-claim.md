@@ -31,6 +31,7 @@ relations:
   related:
     - aku-los-nombres-disfluentes-parecen-mas-avanzados-o-arriesgados-claim
     - aku-el-nombre-debe-seguir-siendo-brandable-al-abreviarse-claim
+    - aku-elegir-nombres-con-pocas-variantes-de-escritura-claim
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -45,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
 
-**related** ↔ [[aku-los-nombres-disfluentes-parecen-mas-avanzados-o-arriesgados-claim]] · [[aku-el-nombre-debe-seguir-siendo-brandable-al-abreviarse-claim]]
+**related** ↔ [[aku-los-nombres-disfluentes-parecen-mas-avanzados-o-arriesgados-claim]] · [[aku-el-nombre-debe-seguir-siendo-brandable-al-abreviarse-claim]] · [[aku-elegir-nombres-con-pocas-variantes-de-escritura-claim]]

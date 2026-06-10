@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-dividir-el-precio-en-unidades-mas-pequenas-partitioned-prices-claim
+    - aku-ofrecer-el-precio-en-cuotas-claim
+    - aku-separar-el-coste-de-envio-del-precio-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -44,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-dividir-el-precio-en-unidades-mas-pequenas-partitioned-prices-claim]]
+**related** ↔ [[aku-dividir-el-precio-en-unidades-mas-pequenas-partitioned-prices-claim]] · [[aku-ofrecer-el-precio-en-cuotas-claim]] · [[aku-separar-el-coste-de-envio-del-precio-claim]]

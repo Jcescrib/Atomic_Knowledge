@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-posicionar-precios-arriba-o-a-la-izquierda-claim
+    - aku-elegir-colores-claros-y-naturales-para-productos-sanos-claim
 
 sources:
   - raw/libros/kolenda/packaging-psychology-by-nick-kolenda/packaging-psychology-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-packaging-psychology-el-envase-comunica-por-heuristicas-visuales-concept]]
 
-**related** ↔ [[aku-posicionar-precios-arriba-o-a-la-izquierda-claim]]
+**related** ↔ [[aku-posicionar-precios-arriba-o-a-la-izquierda-claim]] · [[aku-elegir-colores-claros-y-naturales-para-productos-sanos-claim]]

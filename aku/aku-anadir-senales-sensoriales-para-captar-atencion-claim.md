@@ -32,6 +32,7 @@ relations:
   related:
     - aku-guiar-el-flujo-visual-de-la-mirada-claim
     - aku-colocar-la-opcion-objetivo-en-el-centro-claim
+    - aku-primar-la-eleccion-con-diseno-visual-semantic-priming-claim
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -46,6 +47,6 @@ status_note: ""
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
 
-**related** ↔ [[aku-guiar-el-flujo-visual-de-la-mirada-claim]] · [[aku-colocar-la-opcion-objetivo-en-el-centro-claim]]
+**related** ↔ [[aku-guiar-el-flujo-visual-de-la-mirada-claim]] · [[aku-colocar-la-opcion-objetivo-en-el-centro-claim]] · [[aku-primar-la-eleccion-con-diseno-visual-semantic-priming-claim]]
 
 **supported_by** ← [[aku-el-color-capta-la-atencion-claim]]

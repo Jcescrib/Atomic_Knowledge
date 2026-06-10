@@ -31,6 +31,10 @@ relations:
   contradicts: []
   related:
     - aku-mostrar-una-afirmacion-positiva-cerca-del-boton-claim
+    - aku-traer-los-botones-al-primer-plano-claim
+    - aku-mencionar-las-palabras-click-o-tap-cerca-del-boton-claim
+    - aku-describir-el-siguiente-paso-concreto-en-el-boton-claim
+    - aku-evitar-texto-cursi-y-exclamaciones-en-los-botones-claim
 
 sources:
   - raw/libros/kolenda/ecommerce-psychology-by-nick-kolenda/ecommerce-psychology-by-nick-kolenda.md
@@ -45,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]] · [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]
 
-**related** ↔ [[aku-mostrar-una-afirmacion-positiva-cerca-del-boton-claim]]
+**related** ↔ [[aku-mostrar-una-afirmacion-positiva-cerca-del-boton-claim]] · [[aku-traer-los-botones-al-primer-plano-claim]] · [[aku-mencionar-las-palabras-click-o-tap-cerca-del-boton-claim]] · [[aku-describir-el-siguiente-paso-concreto-en-el-boton-claim]] · [[aku-evitar-texto-cursi-y-exclamaciones-en-los-botones-claim]]

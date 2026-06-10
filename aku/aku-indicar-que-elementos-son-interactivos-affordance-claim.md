@@ -28,7 +28,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-dar-feedback-durante-y-tras-las-interacciones-claim
+    - aku-comunicar-el-resultado-esperado-de-las-interacciones-claim
+    - aku-cumplir-las-expectativas-del-usuario-consistencia-claim
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -42,3 +45,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ux-understanding-comunicar-con-claridad-concept]]
+
+**related** ↔ [[aku-dar-feedback-durante-y-tras-las-interacciones-claim]] · [[aku-comunicar-el-resultado-esperado-de-las-interacciones-claim]] · [[aku-cumplir-las-expectativas-del-usuario-consistencia-claim]]

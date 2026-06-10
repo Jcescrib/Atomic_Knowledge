@@ -31,6 +31,7 @@ relations:
   related:
     - aku-reducir-el-color-para-eventos-distantes-en-el-tiempo-claim
     - aku-primar-la-eleccion-con-diseno-visual-semantic-priming-claim
+    - aku-los-colores-calidos-y-saturados-estimulan-el-azul-relaja-claim
 
 sources:
   - raw/libros/kolenda/color-psychology2/color-psychology2.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept]]
 
-**related** ↔ [[aku-reducir-el-color-para-eventos-distantes-en-el-tiempo-claim]] · [[aku-primar-la-eleccion-con-diseno-visual-semantic-priming-claim]]
+**related** ↔ [[aku-reducir-el-color-para-eventos-distantes-en-el-tiempo-claim]] · [[aku-primar-la-eleccion-con-diseno-visual-semantic-priming-claim]] · [[aku-los-colores-calidos-y-saturados-estimulan-el-azul-relaja-claim]]

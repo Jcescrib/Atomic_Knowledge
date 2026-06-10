@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-quitar-la-coma-de-los-precios-claim
+    - aku-el-acento-silabico-determina-sustantivo-vs-verbo-claim
+    - aku-los-sustantivos-concretos-hacen-el-nombre-mas-memorable-claim
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -44,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
 
-**related** ↔ [[aku-quitar-la-coma-de-los-precios-claim]]
+**related** ↔ [[aku-quitar-la-coma-de-los-precios-claim]] · [[aku-el-acento-silabico-determina-sustantivo-vs-verbo-claim]] · [[aku-los-sustantivos-concretos-hacen-el-nombre-mas-memorable-claim]]

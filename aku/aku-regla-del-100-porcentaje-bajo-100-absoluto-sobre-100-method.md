@@ -30,6 +30,9 @@ relations:
   contradicts: []
   related:
     - aku-mencionar-el-incremento-desde-el-precio-de-oferta-claim
+    - aku-ofrecer-descuentos-con-digitos-derechos-bajos-claim
+    - aku-ofrecer-descuentos-en-numeros-redondos-claim
+    - aku-reducir-todos-los-digitos-en-el-precio-de-oferta-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -44,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-mencionar-el-incremento-desde-el-precio-de-oferta-claim]]
+**related** ↔ [[aku-mencionar-el-incremento-desde-el-precio-de-oferta-claim]] · [[aku-ofrecer-descuentos-con-digitos-derechos-bajos-claim]] · [[aku-ofrecer-descuentos-en-numeros-redondos-claim]] · [[aku-reducir-todos-los-digitos-en-el-precio-de-oferta-claim]]

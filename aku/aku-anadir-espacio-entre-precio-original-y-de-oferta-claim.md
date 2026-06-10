@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-hacer-que-el-precio-de-oferta-se-vea-distinto-contrast-fluency-claim
+    - aku-colocar-el-precio-de-oferta-debajo-del-original-claim
+    - aku-colocar-el-numero-mayor-a-la-izquierda-principio-de-sustraccion-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -44,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-hacer-que-el-precio-de-oferta-se-vea-distinto-contrast-fluency-claim]]
+**related** ↔ [[aku-hacer-que-el-precio-de-oferta-se-vea-distinto-contrast-fluency-claim]] · [[aku-colocar-el-precio-de-oferta-debajo-del-original-claim]] · [[aku-colocar-el-numero-mayor-a-la-izquierda-principio-de-sustraccion-claim]]

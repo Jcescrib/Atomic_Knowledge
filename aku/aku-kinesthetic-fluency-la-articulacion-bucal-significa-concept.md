@@ -31,6 +31,9 @@ relations:
   contradicts: []
   related:
     - aku-the-tangled-mind-la-cognicion-es-corporal-embodied-concept
+    - aku-frequency-code-tono-agudo-parece-pequeno-concept
+    - aku-facial-feedback-los-fonemas-que-fuerzan-sonrisa-generan-afecto-concept
+    - aku-perceptual-fluency-la-forma-visual-de-la-letra-significa-concept
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -45,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-sound-symbolism-los-sonidos-tienen-significado-concept]]
 
-**related** ↔ [[aku-the-tangled-mind-la-cognicion-es-corporal-embodied-concept]]
+**related** ↔ [[aku-the-tangled-mind-la-cognicion-es-corporal-embodied-concept]] · [[aku-frequency-code-tono-agudo-parece-pequeno-concept]] · [[aku-facial-feedback-los-fonemas-que-fuerzan-sonrisa-generan-afecto-concept]] · [[aku-perceptual-fluency-la-forma-visual-de-la-letra-significa-concept]]

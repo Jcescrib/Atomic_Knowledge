@@ -30,6 +30,9 @@ relations:
   contradicts: []
   related:
     - aku-pricing-bonus-based-urgency-concept
+    - aku-dar-dos-descuentos-en-orden-ascendente-claim
+    - aku-arreglar-descuentos-en-tramos-escalonados-claim
+    - aku-dar-una-razon-para-el-descuento-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -48,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-pricing-bonus-based-urgency-concept]]
+**related** ↔ [[aku-pricing-bonus-based-urgency-concept]] · [[aku-dar-dos-descuentos-en-orden-ascendente-claim]] · [[aku-arreglar-descuentos-en-tramos-escalonados-claim]] · [[aku-dar-una-razon-para-el-descuento-claim]]

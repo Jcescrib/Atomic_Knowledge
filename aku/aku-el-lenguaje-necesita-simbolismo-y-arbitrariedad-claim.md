@@ -29,7 +29,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-blending-los-sonidos-adquieren-significado-por-mezcla-concept
+    - aku-fonestemas-grupos-de-sonido-con-significado-concept
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -45,3 +47,5 @@ status_note: ""
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
 
 **constrains** → [[aku-sound-symbolism-los-sonidos-tienen-significado-concept]]
+
+**related** ↔ [[aku-blending-los-sonidos-adquieren-significado-por-mezcla-concept]] · [[aku-fonestemas-grupos-de-sonido-con-significado-concept]]

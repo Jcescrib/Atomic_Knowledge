@@ -28,7 +28,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-fuentes-bold-transmiten-poder-y-masculinidad-claim
+    - aku-fuentes-rectas-transmiten-estabilidad-claim
 
 sources:
   - raw/libros/kolenda/font-psychology-by-nick-kolenda/font-psychology-by-nick-kolenda.md
@@ -42,3 +44,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]
+
+**related** ↔ [[aku-fuentes-bold-transmiten-poder-y-masculinidad-claim]] · [[aku-fuentes-rectas-transmiten-estabilidad-claim]]

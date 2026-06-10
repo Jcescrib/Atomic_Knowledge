@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-ajustar-la-distancia-entre-palabras-claim
+    - aku-mostrar-precios-en-fuente-pequena-claim
+    - aku-posicionar-precios-arriba-o-a-la-izquierda-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -44,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-ajustar-la-distancia-entre-palabras-claim]]
+**related** ↔ [[aku-ajustar-la-distancia-entre-palabras-claim]] · [[aku-mostrar-precios-en-fuente-pequena-claim]] · [[aku-posicionar-precios-arriba-o-a-la-izquierda-claim]]

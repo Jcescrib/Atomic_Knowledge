@@ -34,6 +34,7 @@ relations:
     - aku-imagine-reading-this-book-la-simulacion-mental-guia-las-decisiones-concept
     - aku-ecuacion-valor-claim
     - aku-reencuadra-tus-habitos-de-have-to-a-get-to-method
+    - aku-la-escala-de-decision-equilibra-cuatro-conductas-concept
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -59,6 +60,6 @@ status_note: ""
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]] · [[aku-primar-la-capacidad-del-rival-de-ejecutar-el-trato-claim]]
 
-**related** ↔ [[aku-imagine-reading-this-book-la-simulacion-mental-guia-las-decisiones-concept]] · [[aku-ecuacion-valor-claim]] · [[aku-reencuadra-tus-habitos-de-have-to-a-get-to-method]]
+**related** ↔ [[aku-imagine-reading-this-book-la-simulacion-mental-guia-las-decisiones-concept]] · [[aku-ecuacion-valor-claim]] · [[aku-reencuadra-tus-habitos-de-have-to-a-get-to-method]] · [[aku-la-escala-de-decision-equilibra-cuatro-conductas-concept]]
 
 **supported_by** ← [[aku-gamificar-la-eleccion-experiencial-vs-instrumental-claim]]

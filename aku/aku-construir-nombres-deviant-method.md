@@ -29,7 +29,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-construir-nombres-neologisticos-method
+    - aku-construir-nombres-asociativos-method
+    - aku-construir-nombres-descriptivos-method
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -45,3 +48,5 @@ status_note: ""
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
 
 **supported_by** ← [[aku-los-sustantivos-concretos-hacen-el-nombre-mas-memorable-claim]]
+
+**related** ↔ [[aku-construir-nombres-neologisticos-method]] · [[aku-construir-nombres-asociativos-method]] · [[aku-construir-nombres-descriptivos-method]]

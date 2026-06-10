@@ -31,6 +31,7 @@ relations:
   related:
     - aku-los-colores-frios-reducen-la-percepcion-de-espera-claim
     - aku-minimizar-los-perjuicios-de-la-espera-claim
+    - aku-los-colores-desaturados-grayscale-transmiten-lujo-claim
 
 sources:
   - raw/libros/kolenda/color-psychology2/color-psychology2.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept]]
 
-**related** ↔ [[aku-los-colores-frios-reducen-la-percepcion-de-espera-claim]] · [[aku-minimizar-los-perjuicios-de-la-espera-claim]]
+**related** ↔ [[aku-los-colores-frios-reducen-la-percepcion-de-espera-claim]] · [[aku-minimizar-los-perjuicios-de-la-espera-claim]] · [[aku-los-colores-desaturados-grayscale-transmiten-lujo-claim]]

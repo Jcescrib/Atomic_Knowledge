@@ -29,7 +29,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-adaptarse-a-la-habilidad-o-conocimiento-del-usuario-claim
+    - aku-adaptarse-al-objetivo-o-workflow-del-usuario-claim
+    - aku-maximizar-la-accesibilidad-de-la-interfaz-claim
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -43,3 +46,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ux-compatibility-adaptarse-al-usuario-concept]] · [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]
+
+**related** ↔ [[aku-adaptarse-a-la-habilidad-o-conocimiento-del-usuario-claim]] · [[aku-adaptarse-al-objetivo-o-workflow-del-usuario-claim]] · [[aku-maximizar-la-accesibilidad-de-la-interfaz-claim]]

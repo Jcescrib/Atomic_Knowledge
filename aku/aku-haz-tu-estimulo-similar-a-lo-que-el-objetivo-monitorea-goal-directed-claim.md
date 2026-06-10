@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-anadir-elementos-de-la-atencion-top-down-del-espectador-claim
+    - aku-se-capta-mas-atencion-con-baja-carga-cognitiva-sin-meta-activa-claim
 
 sources:
   - raw/libros/kolenda/visual-attention-by-nick-kolenda/visual-attention-by-nick-kolenda.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept]]
 
-**related** ↔ [[aku-anadir-elementos-de-la-atencion-top-down-del-espectador-claim]]
+**related** ↔ [[aku-anadir-elementos-de-la-atencion-top-down-del-espectador-claim]] · [[aku-se-capta-mas-atencion-con-baja-carga-cognitiva-sin-meta-activa-claim]]

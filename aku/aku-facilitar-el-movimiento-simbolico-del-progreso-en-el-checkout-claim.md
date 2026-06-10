@@ -30,6 +30,9 @@ relations:
   contradicts: []
   related:
     - aku-recomendar-una-opcion-genera-momentum-claim
+    - aku-ocultar-los-enlaces-de-salida-en-el-checkout-claim
+    - aku-oscurecer-el-borde-superior-de-la-interfaz-claim
+    - aku-reducir-la-saliencia-de-las-opciones-competidoras-tras-comprar-claim
 
 sources:
   - raw/libros/kolenda/ecommerce-psychology-by-nick-kolenda/ecommerce-psychology-by-nick-kolenda.md
@@ -50,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]
 
-**related** ↔ [[aku-recomendar-una-opcion-genera-momentum-claim]]
+**related** ↔ [[aku-recomendar-una-opcion-genera-momentum-claim]] · [[aku-ocultar-los-enlaces-de-salida-en-el-checkout-claim]] · [[aku-oscurecer-el-borde-superior-de-la-interfaz-claim]] · [[aku-reducir-la-saliencia-de-las-opciones-competidoras-tras-comprar-claim]]

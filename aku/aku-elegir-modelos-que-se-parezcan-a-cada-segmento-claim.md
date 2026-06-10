@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-customer-persona-concept
+    - aku-usar-miradas-directas-a-camara-en-productos-virtuosos-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-customer-persona-concept]]
+**related** ↔ [[aku-customer-persona-concept]] · [[aku-usar-miradas-directas-a-camara-en-productos-virtuosos-claim]]

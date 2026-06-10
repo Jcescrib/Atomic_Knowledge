@@ -31,6 +31,8 @@ relations:
   related:
     - aku-cardinal-rule-lo-recompensado-se-repite-lo-castigado-se-evita-concept
     - aku-mostrar-una-afirmacion-positiva-cerca-del-boton-claim
+    - aku-ayudar-al-usuario-a-imaginar-tocar-el-producto-claim
+    - aku-insertar-la-foto-del-usuario-en-la-interfaz-claim
 
 sources:
   - raw/libros/kolenda/ecommerce-psychology-by-nick-kolenda/ecommerce-psychology-by-nick-kolenda.md
@@ -49,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]
 
-**related** ↔ [[aku-cardinal-rule-lo-recompensado-se-repite-lo-castigado-se-evita-concept]] · [[aku-mostrar-una-afirmacion-positiva-cerca-del-boton-claim]]
+**related** ↔ [[aku-cardinal-rule-lo-recompensado-se-repite-lo-castigado-se-evita-concept]] · [[aku-mostrar-una-afirmacion-positiva-cerca-del-boton-claim]] · [[aku-ayudar-al-usuario-a-imaginar-tocar-el-producto-claim]] · [[aku-insertar-la-foto-del-usuario-en-la-interfaz-claim]]

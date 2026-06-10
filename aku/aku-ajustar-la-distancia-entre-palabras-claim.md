@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-agrupar-palabras-de-tamano-pequeno-junto-al-precio-claim
+    - aku-cuidar-el-flujo-fonetico-de-las-palabras-claim
+    - aku-secuenciar-palabras-en-orden-alfabetico-claim
 
 sources:
   - raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -48,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
 
-**related** ↔ [[aku-agrupar-palabras-de-tamano-pequeno-junto-al-precio-claim]]
+**related** ↔ [[aku-agrupar-palabras-de-tamano-pequeno-junto-al-precio-claim]] · [[aku-cuidar-el-flujo-fonetico-de-las-palabras-claim]] · [[aku-secuenciar-palabras-en-orden-alfabetico-claim]]

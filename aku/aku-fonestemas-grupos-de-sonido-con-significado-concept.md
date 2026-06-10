@@ -29,7 +29,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-sound-symbolism-los-sonidos-tienen-significado-concept
+    - aku-el-lenguaje-necesita-simbolismo-y-arbitrariedad-claim
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -43,3 +45,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-blending-los-sonidos-adquieren-significado-por-mezcla-concept]]
+
+**related** ↔ [[aku-sound-symbolism-los-sonidos-tienen-significado-concept]] · [[aku-el-lenguaje-necesita-simbolismo-y-arbitrariedad-claim]]

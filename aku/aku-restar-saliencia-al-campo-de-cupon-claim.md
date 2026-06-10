@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-describir-los-costes-del-producto-aumenta-la-percepcion-de-justicia-claim
+    - aku-restringir-la-cantidad-de-productos-de-estatus-escasez-claim
 
 sources:
   - raw/libros/kolenda/ecommerce-psychology-by-nick-kolenda/ecommerce-psychology-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]
 
-**related** ↔ [[aku-describir-los-costes-del-producto-aumenta-la-percepcion-de-justicia-claim]]
+**related** ↔ [[aku-describir-los-costes-del-producto-aumenta-la-percepcion-de-justicia-claim]] · [[aku-restringir-la-cantidad-de-productos-de-estatus-escasez-claim]]

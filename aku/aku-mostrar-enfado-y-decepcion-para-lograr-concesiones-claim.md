@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-las-negociaciones-no-son-personales-muevete-por-estrategia-no-emocion-claim
+    - aku-evitar-disclaimers-y-lenguaje-debil-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
-**related** ↔ [[aku-las-negociaciones-no-son-personales-muevete-por-estrategia-no-emocion-claim]]
+**related** ↔ [[aku-las-negociaciones-no-son-personales-muevete-por-estrategia-no-emocion-claim]] · [[aku-evitar-disclaimers-y-lenguaje-debil-claim]]

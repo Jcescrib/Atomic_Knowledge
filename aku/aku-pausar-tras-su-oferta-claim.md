@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-48laws-04-always-say-less-than-necessary-concept
+    - aku-siempre-contraofertar-su-primera-oferta-claim
+    - aku-anadir-una-contingencia-simple-a-tu-oferta-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -48,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
-**related** ↔ [[aku-48laws-04-always-say-less-than-necessary-concept]]
+**related** ↔ [[aku-48laws-04-always-say-less-than-necessary-concept]] · [[aku-siempre-contraofertar-su-primera-oferta-claim]] · [[aku-anadir-una-contingencia-simple-a-tu-oferta-claim]]

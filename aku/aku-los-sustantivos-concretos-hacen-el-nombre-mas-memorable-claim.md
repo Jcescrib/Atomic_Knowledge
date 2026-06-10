@@ -29,7 +29,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-nombres-cortos-para-productos-pequenos-largos-para-grandes-claim
+    - aku-el-acento-silabico-determina-sustantivo-vs-verbo-claim
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -43,3 +45,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-construir-nombres-deviant-method]]
+
+**related** ↔ [[aku-nombres-cortos-para-productos-pequenos-largos-para-grandes-claim]] · [[aku-el-acento-silabico-determina-sustantivo-vs-verbo-claim]]

@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-dar-dos-descuentos-en-orden-ascendente-claim
+    - aku-mostrar-un-balance-visual-de-equidad-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
-**related** ↔ [[aku-dar-dos-descuentos-en-orden-ascendente-claim]]
+**related** ↔ [[aku-dar-dos-descuentos-en-orden-ascendente-claim]] · [[aku-mostrar-un-balance-visual-de-equidad-claim]]

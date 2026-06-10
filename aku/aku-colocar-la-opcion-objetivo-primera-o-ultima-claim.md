@@ -31,6 +31,7 @@ relations:
   related:
     - aku-elegir-una-hora-temprana-para-negociar-claim
     - aku-disenar-para-el-escaneo-scannability-claim
+    - aku-colocar-la-opcion-objetivo-en-el-centro-claim
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -45,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
 
-**related** ↔ [[aku-elegir-una-hora-temprana-para-negociar-claim]] · [[aku-disenar-para-el-escaneo-scannability-claim]]
+**related** ↔ [[aku-elegir-una-hora-temprana-para-negociar-claim]] · [[aku-disenar-para-el-escaneo-scannability-claim]] · [[aku-colocar-la-opcion-objetivo-en-el-centro-claim]]

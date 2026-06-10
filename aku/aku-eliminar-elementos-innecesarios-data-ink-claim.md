@@ -31,6 +31,11 @@ relations:
   related:
     - aku-copy-sin-florituras-claim
     - aku-information-overload-7-mas-menos-2-concept
+    - aku-crear-un-punto-de-entrada-visual-claim
+    - aku-guiar-el-flujo-visual-de-la-mirada-claim
+    - aku-agrupar-elementos-similares-por-proximidad-gestalt-claim
+    - aku-comunicar-las-secciones-ocultas-del-diseno-claim
+    - aku-mostrar-los-cambios-sin-interrumpir-al-usuario-claim
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -45,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-ux-focus-guiar-la-atencion-concept]]
 
-**related** ↔ [[aku-copy-sin-florituras-claim]] · [[aku-information-overload-7-mas-menos-2-concept]]
+**related** ↔ [[aku-copy-sin-florituras-claim]] · [[aku-information-overload-7-mas-menos-2-concept]] · [[aku-crear-un-punto-de-entrada-visual-claim]] · [[aku-guiar-el-flujo-visual-de-la-mirada-claim]] · [[aku-agrupar-elementos-similares-por-proximidad-gestalt-claim]] · [[aku-comunicar-las-secciones-ocultas-del-diseno-claim]] · [[aku-mostrar-los-cambios-sin-interrumpir-al-usuario-claim]]

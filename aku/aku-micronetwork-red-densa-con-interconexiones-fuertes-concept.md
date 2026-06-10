@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-motor-crecimiento-viral-concept
+    - aku-usa-maven-groups-para-promover-contenido-claim
 
 sources:
   - raw/libros/kolenda/pages-viral-marketing/pages-viral-marketing.md
@@ -47,6 +48,6 @@ status_note: ""
 
 **supports** → [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]]
 
-**related** ↔ [[aku-motor-crecimiento-viral-concept]]
+**related** ↔ [[aku-motor-crecimiento-viral-concept]] · [[aku-usa-maven-groups-para-promover-contenido-claim]]
 
 **supported_by** ← [[aku-las-epidemias-virales-se-originan-en-micronetworks-claim]] · [[aku-la-interconectividad-construye-la-infeccion-dentro-de-la-red-claim]] · [[aku-target-un-microsegmento-y-escala-hacia-fuera-claim]]

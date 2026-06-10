@@ -29,7 +29,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-los-nombres-deben-contener-un-beneficio-positivo-claim
+    - aku-los-nombres-persuasivos-son-ligeramente-irrelevantes-u-shaped-claim
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -49,3 +51,5 @@ status_note: ""
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
 
 **constrains** → [[aku-matriz-de-nombres-wording-x-relevance-concept]]
+
+**related** ↔ [[aku-los-nombres-deben-contener-un-beneficio-positivo-claim]] · [[aku-los-nombres-persuasivos-son-ligeramente-irrelevantes-u-shaped-claim]]

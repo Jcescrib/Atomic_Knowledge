@@ -29,7 +29,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-nombres-cortos-para-productos-pequenos-largos-para-grandes-claim
+    - aku-los-sustantivos-concretos-hacen-el-nombre-mas-memorable-claim
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -43,3 +45,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-construir-nombres-neologisticos-method]]
+
+**related** ↔ [[aku-nombres-cortos-para-productos-pequenos-largos-para-grandes-claim]] · [[aku-los-sustantivos-concretos-hacen-el-nombre-mas-memorable-claim]]

@@ -28,7 +28,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-disenar-para-el-escaneo-scannability-claim
+    - aku-ayudar-al-usuario-a-ubicarse-en-la-interfaz-claim
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -42,3 +44,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ux-understanding-comunicar-con-claridad-concept]]
+
+**related** ↔ [[aku-disenar-para-el-escaneo-scannability-claim]] · [[aku-ayudar-al-usuario-a-ubicarse-en-la-interfaz-claim]]

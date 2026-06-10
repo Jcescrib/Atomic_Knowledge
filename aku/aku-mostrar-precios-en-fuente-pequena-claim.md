@@ -31,6 +31,8 @@ relations:
   related:
     - aku-que-los-rasgos-linguisticos-reflejen-el-mensaje-claim
     - aku-quitar-la-coma-de-los-precios-claim
+    - aku-posicionar-precios-arriba-o-a-la-izquierda-claim
+    - aku-agrupar-palabras-de-tamano-pequeno-junto-al-precio-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -45,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-que-los-rasgos-linguisticos-reflejen-el-mensaje-claim]] · [[aku-quitar-la-coma-de-los-precios-claim]]
+**related** ↔ [[aku-que-los-rasgos-linguisticos-reflejen-el-mensaje-claim]] · [[aku-quitar-la-coma-de-los-precios-claim]] · [[aku-posicionar-precios-arriba-o-a-la-izquierda-claim]] · [[aku-agrupar-palabras-de-tamano-pequeno-junto-al-precio-claim]]

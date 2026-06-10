@@ -28,7 +28,12 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-crear-un-punto-de-entrada-visual-claim
+    - aku-guiar-el-flujo-visual-de-la-mirada-claim
+    - aku-agrupar-elementos-similares-por-proximidad-gestalt-claim
+    - aku-eliminar-elementos-innecesarios-data-ink-claim
+    - aku-comunicar-las-secciones-ocultas-del-diseno-claim
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -42,3 +47,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ux-focus-guiar-la-atencion-concept]]
+
+**related** ↔ [[aku-crear-un-punto-de-entrada-visual-claim]] · [[aku-guiar-el-flujo-visual-de-la-mirada-claim]] · [[aku-agrupar-elementos-similares-por-proximidad-gestalt-claim]] · [[aku-eliminar-elementos-innecesarios-data-ink-claim]] · [[aku-comunicar-las-secciones-ocultas-del-diseno-claim]]

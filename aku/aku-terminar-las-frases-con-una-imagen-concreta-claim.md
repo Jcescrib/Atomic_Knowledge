@@ -30,6 +30,9 @@ relations:
   contradicts: []
   related:
     - aku-hacks-copywriting-concept
+    - aku-elegir-palabras-faciles-de-imaginar-claim
+    - aku-sumergir-al-lector-en-la-conducta-hipotetica-if-then-claim
+    - aku-ofrecer-aplicaciones-relevantes-del-producto-claim
 
 sources:
   - raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -48,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
 
-**related** ↔ [[aku-hacks-copywriting-concept]]
+**related** ↔ [[aku-hacks-copywriting-concept]] · [[aku-elegir-palabras-faciles-de-imaginar-claim]] · [[aku-sumergir-al-lector-en-la-conducta-hipotetica-if-then-claim]] · [[aku-ofrecer-aplicaciones-relevantes-del-producto-claim]]

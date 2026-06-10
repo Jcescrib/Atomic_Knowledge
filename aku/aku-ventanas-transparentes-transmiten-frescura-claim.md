@@ -28,7 +28,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-el-vidrio-parece-mejor-que-el-plastico-claim
+    - aku-envases-mate-parecen-mas-sanos-claim
 
 sources:
   - raw/libros/kolenda/packaging-psychology-by-nick-kolenda/packaging-psychology-by-nick-kolenda.md
@@ -42,3 +44,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-packaging-psychology-el-envase-comunica-por-heuristicas-visuales-concept]]
+
+**related** ↔ [[aku-el-vidrio-parece-mejor-que-el-plastico-claim]] · [[aku-envases-mate-parecen-mas-sanos-claim]]

@@ -28,7 +28,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-envases-altos-parecen-mas-grandes-claim
+    - aku-envases-anchos-parecen-mas-pesados-claim
+    - aku-envases-altos-parecen-sanos-y-lujosos-claim
 
 sources:
   - raw/libros/kolenda/packaging-psychology-by-nick-kolenda/packaging-psychology-by-nick-kolenda.md
@@ -47,3 +50,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-packaging-psychology-el-envase-comunica-por-heuristicas-visuales-concept]]
+
+**related** ↔ [[aku-envases-altos-parecen-mas-grandes-claim]] · [[aku-envases-anchos-parecen-mas-pesados-claim]] · [[aku-envases-altos-parecen-sanos-y-lujosos-claim]]

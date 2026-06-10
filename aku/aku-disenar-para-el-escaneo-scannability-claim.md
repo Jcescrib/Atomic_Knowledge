@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-colocar-la-opcion-objetivo-primera-o-ultima-claim
+    - aku-comunicar-en-terminos-relativos-claim
+    - aku-ayudar-al-usuario-a-ubicarse-en-la-interfaz-claim
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -44,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-ux-understanding-comunicar-con-claridad-concept]]
 
-**related** ↔ [[aku-colocar-la-opcion-objetivo-primera-o-ultima-claim]]
+**related** ↔ [[aku-colocar-la-opcion-objetivo-primera-o-ultima-claim]] · [[aku-comunicar-en-terminos-relativos-claim]] · [[aku-ayudar-al-usuario-a-ubicarse-en-la-interfaz-claim]]

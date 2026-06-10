@@ -28,7 +28,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-usar-visuales-en-las-etapas-tempranas-de-eleccion-claim
+    - aku-recomendar-una-opcion-genera-momentum-claim
 
 sources:
   - raw/libros/kolenda/ecommerce-psychology-by-nick-kolenda/ecommerce-psychology-by-nick-kolenda.md
@@ -47,3 +49,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]
+
+**related** ↔ [[aku-usar-visuales-en-las-etapas-tempranas-de-eleccion-claim]] · [[aku-recomendar-una-opcion-genera-momentum-claim]]

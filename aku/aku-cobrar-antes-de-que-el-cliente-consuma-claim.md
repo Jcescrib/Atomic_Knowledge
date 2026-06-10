@@ -32,6 +32,9 @@ relations:
     - aku-crear-un-medio-de-pago-separado-reduce-el-dolor-de-pagar-claim
     - aku-seesaw-downselling-concept
     - aku-periodo-medio-maduracion-concept
+    - aku-quitar-el-simbolo-de-moneda-reduce-el-dolor-de-pagar-claim
+    - aku-fomentar-el-presupuesto-temprano-aumenta-el-gasto-claim
+    - aku-ofrecer-descuentos-hacia-el-final-del-mes-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -50,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-crear-un-medio-de-pago-separado-reduce-el-dolor-de-pagar-claim]] · [[aku-seesaw-downselling-concept]] · [[aku-periodo-medio-maduracion-concept]]
+**related** ↔ [[aku-crear-un-medio-de-pago-separado-reduce-el-dolor-de-pagar-claim]] · [[aku-seesaw-downselling-concept]] · [[aku-periodo-medio-maduracion-concept]] · [[aku-quitar-el-simbolo-de-moneda-reduce-el-dolor-de-pagar-claim]] · [[aku-fomentar-el-presupuesto-temprano-aumenta-el-gasto-claim]] · [[aku-ofrecer-descuentos-hacia-el-final-del-mes-claim]]

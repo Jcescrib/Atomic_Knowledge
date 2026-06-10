@@ -31,6 +31,8 @@ relations:
   related:
     - aku-esquema-de-color-complementario-claim
     - aku-comunicar-el-resultado-esperado-de-las-interacciones-claim
+    - aku-indicar-que-elementos-son-interactivos-affordance-claim
+    - aku-dar-feedback-durante-y-tras-las-interacciones-claim
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -45,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-ux-understanding-comunicar-con-claridad-concept]]
 
-**related** ↔ [[aku-esquema-de-color-complementario-claim]] · [[aku-comunicar-el-resultado-esperado-de-las-interacciones-claim]]
+**related** ↔ [[aku-esquema-de-color-complementario-claim]] · [[aku-comunicar-el-resultado-esperado-de-las-interacciones-claim]] · [[aku-indicar-que-elementos-son-interactivos-affordance-claim]] · [[aku-dar-feedback-durante-y-tras-las-interacciones-claim]]

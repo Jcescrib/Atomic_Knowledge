@@ -34,7 +34,11 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-ux-understanding-comunicar-con-claridad-concept
+    - aku-ux-effort-minimizar-el-esfuerzo-concept
+    - aku-ux-errors-prevenir-y-recuperar-errores-concept
+    - aku-ux-compatibility-adaptarse-al-usuario-concept
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -50,3 +54,5 @@ status_note: ""
 **supports** → [[aku-ux-cinco-guidelines-de-usabilidad-concept]]
 
 **supported_by** ← [[aku-crear-un-punto-de-entrada-visual-claim]] · [[aku-guiar-el-flujo-visual-de-la-mirada-claim]] · [[aku-agrupar-elementos-similares-por-proximidad-gestalt-claim]] · [[aku-eliminar-elementos-innecesarios-data-ink-claim]] · [[aku-comunicar-las-secciones-ocultas-del-diseno-claim]] · [[aku-mostrar-los-cambios-sin-interrumpir-al-usuario-claim]]
+
+**related** ↔ [[aku-ux-understanding-comunicar-con-claridad-concept]] · [[aku-ux-effort-minimizar-el-esfuerzo-concept]] · [[aku-ux-errors-prevenir-y-recuperar-errores-concept]] · [[aku-ux-compatibility-adaptarse-al-usuario-concept]]

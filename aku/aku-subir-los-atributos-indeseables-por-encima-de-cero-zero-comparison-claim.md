@@ -31,6 +31,7 @@ relations:
   contradicts: []
   related:
     - aku-precio-alto-aumenta-valor-percibido-claim
+    - aku-alinear-las-caracteristicas-con-las-de-la-competencia-claim
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]] · [[aku-evaluamos-por-comparaciones-relativas-context-effects-concept]]
 
-**related** ↔ [[aku-precio-alto-aumenta-valor-percibido-claim]]
+**related** ↔ [[aku-precio-alto-aumenta-valor-percibido-claim]] · [[aku-alinear-las-caracteristicas-con-las-de-la-competencia-claim]]

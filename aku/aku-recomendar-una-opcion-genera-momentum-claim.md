@@ -31,6 +31,8 @@ relations:
   related:
     - aku-facilitar-el-movimiento-simbolico-del-progreso-en-el-checkout-claim
     - aku-recomendar-una-opcion-por-defecto-claim
+    - aku-disponer-los-productos-horizontalmente-para-explorar-claim
+    - aku-usar-visuales-en-las-etapas-tempranas-de-eleccion-claim
 
 sources:
   - raw/libros/kolenda/ecommerce-psychology-by-nick-kolenda/ecommerce-psychology-by-nick-kolenda.md
@@ -45,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]
 
-**related** ↔ [[aku-facilitar-el-movimiento-simbolico-del-progreso-en-el-checkout-claim]] · [[aku-recomendar-una-opcion-por-defecto-claim]]
+**related** ↔ [[aku-facilitar-el-movimiento-simbolico-del-progreso-en-el-checkout-claim]] · [[aku-recomendar-una-opcion-por-defecto-claim]] · [[aku-disponer-los-productos-horizontalmente-para-explorar-claim]] · [[aku-usar-visuales-en-las-etapas-tempranas-de-eleccion-claim]]

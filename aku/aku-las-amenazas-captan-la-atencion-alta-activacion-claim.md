@@ -31,6 +31,9 @@ relations:
   related:
     - aku-el-cerebro-es-una-maquina-de-prediccion-que-codifica-cues-claim
     - aku-usar-anuncios-positivos-para-ser-recordado-claim
+    - aku-los-animales-captan-la-atencion-claim
+    - aku-los-estimulos-sexuales-captan-la-atencion-claim
+    - aku-la-novedad-capta-la-atencion-claim
 
 sources:
   - raw/libros/kolenda/visual-attention-by-nick-kolenda/visual-attention-by-nick-kolenda.md
@@ -51,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept]]
 
-**related** ↔ [[aku-el-cerebro-es-una-maquina-de-prediccion-que-codifica-cues-claim]] · [[aku-usar-anuncios-positivos-para-ser-recordado-claim]]
+**related** ↔ [[aku-el-cerebro-es-una-maquina-de-prediccion-que-codifica-cues-claim]] · [[aku-usar-anuncios-positivos-para-ser-recordado-claim]] · [[aku-los-animales-captan-la-atencion-claim]] · [[aku-los-estimulos-sexuales-captan-la-atencion-claim]] · [[aku-la-novedad-capta-la-atencion-claim]]

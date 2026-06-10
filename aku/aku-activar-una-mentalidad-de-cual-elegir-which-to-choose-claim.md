@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept
+    - aku-gamificar-la-eleccion-experiencial-vs-instrumental-claim
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
 
-**related** ↔ [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]
+**related** ↔ [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]] · [[aku-gamificar-la-eleccion-experiencial-vs-instrumental-claim]]

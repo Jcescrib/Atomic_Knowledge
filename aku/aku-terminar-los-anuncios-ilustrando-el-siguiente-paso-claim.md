@@ -31,6 +31,8 @@ relations:
   related:
     - aku-mencionar-las-palabras-click-o-tap-cerca-del-boton-claim
     - aku-inmersar-al-espectador-en-perspectiva-de-primera-persona-claim
+    - aku-anunciar-en-el-mismo-dominio-tematico-claim
+    - aku-anunciar-en-modalidades-congruentes-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -45,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-mencionar-las-palabras-click-o-tap-cerca-del-boton-claim]] · [[aku-inmersar-al-espectador-en-perspectiva-de-primera-persona-claim]]
+**related** ↔ [[aku-mencionar-las-palabras-click-o-tap-cerca-del-boton-claim]] · [[aku-inmersar-al-espectador-en-perspectiva-de-primera-persona-claim]] · [[aku-anunciar-en-el-mismo-dominio-tematico-claim]] · [[aku-anunciar-en-modalidades-congruentes-claim]]

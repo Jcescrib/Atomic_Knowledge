@@ -31,6 +31,7 @@ relations:
   related:
     - aku-los-colores-oscuros-parecen-pesados-claim
     - aku-primar-la-eleccion-con-diseno-visual-semantic-priming-claim
+    - aku-colocar-productos-pesados-abajo-o-a-la-derecha-claim
 
 sources:
   - raw/libros/kolenda/packaging-psychology-by-nick-kolenda/packaging-psychology-by-nick-kolenda.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-packaging-psychology-el-envase-comunica-por-heuristicas-visuales-concept]]
 
-**related** ↔ [[aku-los-colores-oscuros-parecen-pesados-claim]] · [[aku-primar-la-eleccion-con-diseno-visual-semantic-priming-claim]]
+**related** ↔ [[aku-los-colores-oscuros-parecen-pesados-claim]] · [[aku-primar-la-eleccion-con-diseno-visual-semantic-priming-claim]] · [[aku-colocar-productos-pesados-abajo-o-a-la-derecha-claim]]

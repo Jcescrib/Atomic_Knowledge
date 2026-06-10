@@ -34,6 +34,8 @@ relations:
     - aku-la-gente-siempre-responde-a-un-competidor-correr-hacia-la-pelea-atrae-miradas-claim
     - aku-la-orientacion-del-cuerpo-capta-la-atencion-claim
     - aku-senalar-con-el-dedo-capta-la-atencion-claim
+    - aku-las-flechas-captan-la-atencion-claim
+    - aku-las-palabras-direccionales-captan-la-atencion-claim
 
 sources:
   - raw/libros/kolenda/visual-attention-by-nick-kolenda/visual-attention-by-nick-kolenda.md
@@ -52,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept]]
 
-**related** ↔ [[aku-colocar-la-opcion-objetivo-en-el-centro-claim]] · [[aku-usar-miradas-directas-a-camara-en-productos-virtuosos-claim]] · [[aku-la-gente-siempre-responde-a-un-competidor-correr-hacia-la-pelea-atrae-miradas-claim]] · [[aku-la-orientacion-del-cuerpo-capta-la-atencion-claim]] · [[aku-senalar-con-el-dedo-capta-la-atencion-claim]]
+**related** ↔ [[aku-colocar-la-opcion-objetivo-en-el-centro-claim]] · [[aku-usar-miradas-directas-a-camara-en-productos-virtuosos-claim]] · [[aku-la-gente-siempre-responde-a-un-competidor-correr-hacia-la-pelea-atrae-miradas-claim]] · [[aku-la-orientacion-del-cuerpo-capta-la-atencion-claim]] · [[aku-senalar-con-el-dedo-capta-la-atencion-claim]] · [[aku-las-flechas-captan-la-atencion-claim]] · [[aku-las-palabras-direccionales-captan-la-atencion-claim]]

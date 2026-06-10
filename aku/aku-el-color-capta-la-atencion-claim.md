@@ -35,6 +35,7 @@ relations:
     - aku-las-preferencias-de-color-vienen-de-la-evolucion-y-la-valencia-ecologica-claim
     - aku-preferencia-evolutiva-por-colores-calidos-claim
     - aku-el-tamano-contrastante-capta-la-atencion-claim
+    - aku-la-desalineacion-de-orientacion-capta-la-atencion-claim
 
 sources:
   - raw/libros/kolenda/visual-attention-by-nick-kolenda/visual-attention-by-nick-kolenda.md
@@ -54,4 +55,4 @@ status_note: ""
 
 **supports** → [[aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept]] · [[aku-anadir-senales-sensoriales-para-captar-atencion-claim]] · [[aku-crear-un-punto-de-entrada-visual-claim]]
 
-**related** ↔ [[aku-los-colores-saturados-parecen-mas-grandes-claim]] · [[aku-las-preferencias-de-color-vienen-de-la-evolucion-y-la-valencia-ecologica-claim]] · [[aku-preferencia-evolutiva-por-colores-calidos-claim]] · [[aku-el-tamano-contrastante-capta-la-atencion-claim]]
+**related** ↔ [[aku-los-colores-saturados-parecen-mas-grandes-claim]] · [[aku-las-preferencias-de-color-vienen-de-la-evolucion-y-la-valencia-ecologica-claim]] · [[aku-preferencia-evolutiva-por-colores-calidos-claim]] · [[aku-el-tamano-contrastante-capta-la-atencion-claim]] · [[aku-la-desalineacion-de-orientacion-capta-la-atencion-claim]]

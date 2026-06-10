@@ -30,6 +30,9 @@ relations:
   contradicts: []
   related:
     - aku-crear-un-medio-de-pago-separado-reduce-el-dolor-de-pagar-claim
+    - aku-cobrar-antes-de-que-el-cliente-consuma-claim
+    - aku-fomentar-el-presupuesto-temprano-aumenta-el-gasto-claim
+    - aku-ofrecer-descuentos-hacia-el-final-del-mes-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -44,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-crear-un-medio-de-pago-separado-reduce-el-dolor-de-pagar-claim]]
+**related** ↔ [[aku-crear-un-medio-de-pago-separado-reduce-el-dolor-de-pagar-claim]] · [[aku-cobrar-antes-de-que-el-cliente-consuma-claim]] · [[aku-fomentar-el-presupuesto-temprano-aumenta-el-gasto-claim]] · [[aku-ofrecer-descuentos-hacia-el-final-del-mes-claim]]

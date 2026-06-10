@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept
+    - aku-buscar-medios-con-emociones-congruentes-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept]]
+**related** ↔ [[aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept]] · [[aku-buscar-medios-con-emociones-congruentes-claim]]

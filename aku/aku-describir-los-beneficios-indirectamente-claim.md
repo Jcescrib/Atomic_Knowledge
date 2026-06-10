@@ -28,7 +28,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-enfatizar-la-autonomia-de-decision-but-you-are-free-claim
+    - aku-mencionar-inconvenientes-argumento-bilateral-claim
 
 sources:
   - raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -42,3 +44,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
+
+**related** ↔ [[aku-enfatizar-la-autonomia-de-decision-but-you-are-free-claim]] · [[aku-mencionar-inconvenientes-argumento-bilateral-claim]]

@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-posicionar-precios-arriba-o-a-la-izquierda-claim
+    - aku-insertar-un-bloqueo-a-la-derecha-del-anuncio-claim
+    - aku-mover-el-logo-en-las-variaciones-del-anuncio-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -48,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-posicionar-precios-arriba-o-a-la-izquierda-claim]]
+**related** ↔ [[aku-posicionar-precios-arriba-o-a-la-izquierda-claim]] · [[aku-insertar-un-bloqueo-a-la-derecha-del-anuncio-claim]] · [[aku-mover-el-logo-en-las-variaciones-del-anuncio-claim]]

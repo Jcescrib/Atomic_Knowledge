@@ -28,7 +28,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-facilitar-el-movimiento-simbolico-del-progreso-en-el-checkout-claim
+    - aku-ocultar-los-enlaces-de-salida-en-el-checkout-claim
+    - aku-reducir-la-saliencia-de-las-opciones-competidoras-tras-comprar-claim
 
 sources:
   - raw/libros/kolenda/ecommerce-psychology-by-nick-kolenda/ecommerce-psychology-by-nick-kolenda.md
@@ -47,3 +50,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]
+
+**related** ↔ [[aku-facilitar-el-movimiento-simbolico-del-progreso-en-el-checkout-claim]] · [[aku-ocultar-los-enlaces-de-salida-en-el-checkout-claim]] · [[aku-reducir-la-saliencia-de-las-opciones-competidoras-tras-comprar-claim]]

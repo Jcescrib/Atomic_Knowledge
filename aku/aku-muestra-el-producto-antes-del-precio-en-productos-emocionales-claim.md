@@ -33,6 +33,7 @@ relations:
     - aku-aislar-las-opciones-emocionales-claim
     - aku-emocion-prevalece-razon-claim
     - aku-beneficio-funcional-concept
+    - aku-enfatiza-tiempo-y-uso-en-vez-de-dinero-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]] · [[aku-en-productos-emocionales-orienta-hacia-beneficios-no-al-precio-claim]]
 
-**related** ↔ [[aku-aislar-las-opciones-emocionales-claim]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-beneficio-funcional-concept]]
+**related** ↔ [[aku-aislar-las-opciones-emocionales-claim]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-beneficio-funcional-concept]] · [[aku-enfatiza-tiempo-y-uso-en-vez-de-dinero-claim]]

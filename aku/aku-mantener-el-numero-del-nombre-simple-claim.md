@@ -32,6 +32,11 @@ relations:
     - aku-simplicidad-permite-ajuste-rapido-claim
     - aku-simple-law-of-combat-concept
     - aku-los-numeros-redondos-en-el-nombre-se-prefieren-claim
+    - aku-los-nombres-alfanumericos-funcionan-en-productos-tecnicos-y-formulados-claim
+    - aku-los-numeros-en-el-nombre-implican-atributos-del-producto-claim
+    - aku-un-numero-mayor-sugiere-un-producto-mas-avanzado-claim
+    - aku-usar-numeros-compuestos-no-primos-en-el-nombre-claim
+    - aku-los-numeros-aliterados-en-el-nombre-funcionan-mejor-claim
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -46,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
 
-**related** ↔ [[aku-simplicidad-permite-ajuste-rapido-claim]] · [[aku-simple-law-of-combat-concept]] · [[aku-los-numeros-redondos-en-el-nombre-se-prefieren-claim]]
+**related** ↔ [[aku-simplicidad-permite-ajuste-rapido-claim]] · [[aku-simple-law-of-combat-concept]] · [[aku-los-numeros-redondos-en-el-nombre-se-prefieren-claim]] · [[aku-los-nombres-alfanumericos-funcionan-en-productos-tecnicos-y-formulados-claim]] · [[aku-los-numeros-en-el-nombre-implican-atributos-del-producto-claim]] · [[aku-un-numero-mayor-sugiere-un-producto-mas-avanzado-claim]] · [[aku-usar-numeros-compuestos-no-primos-en-el-nombre-claim]] · [[aku-los-numeros-aliterados-en-el-nombre-funcionan-mejor-claim]]

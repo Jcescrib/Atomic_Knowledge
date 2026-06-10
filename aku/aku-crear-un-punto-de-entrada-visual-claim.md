@@ -31,6 +31,11 @@ relations:
   contradicts: []
   related:
     - aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept
+    - aku-guiar-el-flujo-visual-de-la-mirada-claim
+    - aku-agrupar-elementos-similares-por-proximidad-gestalt-claim
+    - aku-eliminar-elementos-innecesarios-data-ink-claim
+    - aku-comunicar-las-secciones-ocultas-del-diseno-claim
+    - aku-mostrar-los-cambios-sin-interrumpir-al-usuario-claim
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -45,6 +50,6 @@ status_note: ""
 
 **supports** → [[aku-ux-focus-guiar-la-atencion-concept]]
 
-**related** ↔ [[aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept]]
+**related** ↔ [[aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept]] · [[aku-guiar-el-flujo-visual-de-la-mirada-claim]] · [[aku-agrupar-elementos-similares-por-proximidad-gestalt-claim]] · [[aku-eliminar-elementos-innecesarios-data-ink-claim]] · [[aku-comunicar-las-secciones-ocultas-del-diseno-claim]] · [[aku-mostrar-los-cambios-sin-interrumpir-al-usuario-claim]]
 
 **supported_by** ← [[aku-el-color-capta-la-atencion-claim]]

@@ -31,6 +31,9 @@ relations:
   related:
     - aku-downsell-offer-concept
     - aku-virtuous-cycle-of-price-claim
+    - aku-distinguir-visualmente-la-opcion-mas-cara-claim
+    - aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim
+    - aku-anadir-ligeras-diferencias-de-precio-en-el-surtido-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -53,4 +56,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-downsell-offer-concept]] · [[aku-virtuous-cycle-of-price-claim]]
+**related** ↔ [[aku-downsell-offer-concept]] · [[aku-virtuous-cycle-of-price-claim]] · [[aku-distinguir-visualmente-la-opcion-mas-cara-claim]] · [[aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim]] · [[aku-anadir-ligeras-diferencias-de-precio-en-el-surtido-claim]]

@@ -28,7 +28,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-elegir-una-hora-temprana-para-negociar-claim
+    - aku-dar-al-rival-una-silla-baja-y-blanda-claim
+    - aku-llevar-cafe-y-pasteles-a-la-negociacion-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -42,3 +45,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
+
+**related** ↔ [[aku-elegir-una-hora-temprana-para-negociar-claim]] · [[aku-dar-al-rival-una-silla-baja-y-blanda-claim]] · [[aku-llevar-cafe-y-pasteles-a-la-negociacion-claim]]

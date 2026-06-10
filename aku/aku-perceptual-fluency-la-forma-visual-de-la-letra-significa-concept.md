@@ -31,6 +31,9 @@ relations:
   related:
     - aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept
     - aku-sound-symbolism-los-sonidos-tienen-significado-concept
+    - aku-frequency-code-tono-agudo-parece-pequeno-concept
+    - aku-kinesthetic-fluency-la-articulacion-bucal-significa-concept
+    - aku-facial-feedback-los-fonemas-que-fuerzan-sonrisa-generan-afecto-concept
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -45,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
 
-**related** ↔ [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]] · [[aku-sound-symbolism-los-sonidos-tienen-significado-concept]]
+**related** ↔ [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]] · [[aku-sound-symbolism-los-sonidos-tienen-significado-concept]] · [[aku-frequency-code-tono-agudo-parece-pequeno-concept]] · [[aku-kinesthetic-fluency-la-articulacion-bucal-significa-concept]] · [[aku-facial-feedback-los-fonemas-que-fuerzan-sonrisa-generan-afecto-concept]]

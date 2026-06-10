@@ -31,6 +31,7 @@ relations:
   related:
     - aku-anunciar-en-modalidades-congruentes-claim
     - aku-terminar-los-anuncios-ilustrando-el-siguiente-paso-claim
+    - aku-anunciar-en-el-mismo-dominio-tematico-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -51,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-anunciar-en-modalidades-congruentes-claim]] · [[aku-terminar-los-anuncios-ilustrando-el-siguiente-paso-claim]]
+**related** ↔ [[aku-anunciar-en-modalidades-congruentes-claim]] · [[aku-terminar-los-anuncios-ilustrando-el-siguiente-paso-claim]] · [[aku-anunciar-en-el-mismo-dominio-tematico-claim]]

@@ -32,6 +32,11 @@ relations:
   contradicts: []
   related:
     - aku-beneficio-emocional-concept
+    - aku-los-nombres-descriptivos-maximizan-relevancia-claim
+    - aku-los-nombres-descriptivos-son-los-menos-distintivos-claim
+    - aku-los-nombres-neologisticos-son-los-mas-escalables-claim
+    - aku-los-nombres-neologisticos-son-los-mas-protegibles-trademark-claim
+    - aku-los-nonwords-son-mejores-para-seo-claim
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -50,6 +55,6 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-matriz-de-nombres-wording-x-relevance-concept]]
 
-**related** ↔ [[aku-beneficio-emocional-concept]]
+**related** ↔ [[aku-beneficio-emocional-concept]] · [[aku-los-nombres-descriptivos-maximizan-relevancia-claim]] · [[aku-los-nombres-descriptivos-son-los-menos-distintivos-claim]] · [[aku-los-nombres-neologisticos-son-los-mas-escalables-claim]] · [[aku-los-nombres-neologisticos-son-los-mas-protegibles-trademark-claim]] · [[aku-los-nonwords-son-mejores-para-seo-claim]]
 
 **constrains** → [[aku-nombre-deviant-concept]]

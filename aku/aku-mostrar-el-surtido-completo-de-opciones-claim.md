@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-ayudar-al-usuario-a-elegir-opciones-choice-overload-claim
+    - aku-dividir-los-atributos-importantes-en-mas-items-claim
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
 
-**related** ↔ [[aku-ayudar-al-usuario-a-elegir-opciones-choice-overload-claim]]
+**related** ↔ [[aku-ayudar-al-usuario-a-elegir-opciones-choice-overload-claim]] · [[aku-dividir-los-atributos-importantes-en-mas-items-claim]]

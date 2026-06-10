@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-el-color-capta-la-atencion-claim
+    - aku-la-desalineacion-de-orientacion-capta-la-atencion-claim
 
 sources:
   - raw/libros/kolenda/visual-attention-by-nick-kolenda/visual-attention-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept]]
 
-**related** ↔ [[aku-el-color-capta-la-atencion-claim]]
+**related** ↔ [[aku-el-color-capta-la-atencion-claim]] · [[aku-la-desalineacion-de-orientacion-capta-la-atencion-claim]]

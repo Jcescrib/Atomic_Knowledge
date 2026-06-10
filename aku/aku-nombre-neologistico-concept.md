@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-nombre-descriptivo-concept
+    - aku-nombre-asociativo-concept
+    - aku-nombre-deviant-concept
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -49,4 +51,4 @@ status_note: ""
 
 **constrained_by** ← [[aku-los-nombres-neologisticos-son-los-mas-escalables-claim]] · [[aku-los-nombres-neologisticos-son-los-mas-protegibles-trademark-claim]]
 
-**related** ↔ [[aku-nombre-descriptivo-concept]]
+**related** ↔ [[aku-nombre-descriptivo-concept]] · [[aku-nombre-asociativo-concept]] · [[aku-nombre-deviant-concept]]

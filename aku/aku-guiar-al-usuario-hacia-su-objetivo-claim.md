@@ -29,7 +29,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-ayudar-al-usuario-a-elegir-opciones-choice-overload-claim
+    - aku-recomendar-una-opcion-por-defecto-claim
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -45,3 +47,5 @@ status_note: ""
 **supports** → [[aku-ux-effort-minimizar-el-esfuerzo-concept]]
 
 **supported_by** ← [[aku-empezar-el-progreso-por-encima-de-cero-endowed-progress-claim]]
+
+**related** ↔ [[aku-ayudar-al-usuario-a-elegir-opciones-choice-overload-claim]] · [[aku-recomendar-una-opcion-por-defecto-claim]]

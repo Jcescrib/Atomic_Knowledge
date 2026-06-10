@@ -31,6 +31,7 @@ relations:
   related:
     - aku-las-preferencias-de-color-vienen-de-la-evolucion-y-la-valencia-ecologica-claim
     - aku-el-color-capta-la-atencion-claim
+    - aku-valencia-ecologica-preferimos-colores-de-experiencias-positivas-claim
 
 sources:
   - raw/libros/kolenda/color-psychology2/color-psychology2.md
@@ -45,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept]]
 
-**related** ↔ [[aku-las-preferencias-de-color-vienen-de-la-evolucion-y-la-valencia-ecologica-claim]] · [[aku-el-color-capta-la-atencion-claim]]
+**related** ↔ [[aku-las-preferencias-de-color-vienen-de-la-evolucion-y-la-valencia-ecologica-claim]] · [[aku-el-color-capta-la-atencion-claim]] · [[aku-valencia-ecologica-preferimos-colores-de-experiencias-positivas-claim]]
