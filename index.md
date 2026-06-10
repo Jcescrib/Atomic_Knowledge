@@ -61,7 +61,7 @@ _(none — fresh post-reset graph; the 2.1-BMC ingest was vacuous against the em
 - Decay/freshness: **ninguna** (todo `created` 2026-06-03, ≤1 día). I2 (related-only, 80 AKUs) disparará >14d (~2026-06-17); contradicción Porter↔océano-azul disparará >30d (~2026-07-03).
 - I3 — Sin axiom candidates (hub máximo: cinco-fuerzas-porter con 5 incoming `supports`, umbral 10).
 - I4 — Clusters de vocabulario `domain` ES/EN propuestos para normalización (estrategia/strategy, crecimiento/growth, metricas/metrics…) — propuesta, sin auto-merge.
-- 16 PDFs `5.6-nickkolenda` en `pending-reingestion`.
+- 16 PDFs `5.6-nickkolenda` en `pending-reingestion`. → **RESUELTO 2026-06-09**: cluster Kolenda completo **16/16** (384 AKUs `kolenda`, ingest capítulo a capítulo en modo máximo-exhaustivo). Ver `log.md` («✅ CLUSTER KOLENDA COMPLETO (16/16 libros)») y las 16 entradas `ingested: 2026-06-09` en `_meta/pipeline-manifest.yml`.
 
 Full report: `outputs/lint/2026-06-04.md` (gitignored).
 
