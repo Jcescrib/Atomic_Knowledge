@@ -38,6 +38,8 @@ relations:
     - aku-oferta-al-afiliado-concept
     - aku-ltgp-cac-3-a-1-claim
     - aku-payout-medio-menor-que-cac-maximo-claim
+    - aku-pagar-afiliados-forever-no-cap-claim
+    - aku-affiliate-ltgp-cac-method
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -50,6 +52,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-oferta-al-afiliado-concept]] · [[aku-ltgp-cac-3-a-1-claim]] · [[aku-payout-medio-menor-que-cac-maximo-claim]]
+**related** ↔ [[aku-oferta-al-afiliado-concept]] · [[aku-ltgp-cac-3-a-1-claim]] · [[aku-payout-medio-menor-que-cac-maximo-claim]] · [[aku-pagar-afiliados-forever-no-cap-claim]] · [[aku-affiliate-ltgp-cac-method]]
 
 **supported_by** ← [[aku-cltv-cac-ratio-concept]]

@@ -36,6 +36,15 @@ relations:
     - aku-win-your-money-back-concept
     - aku-pay-less-now-or-more-later-concept
     - aku-garantia-conditional-teeth-claim
+    - aku-reversion-riesgo-numero-uno-claim
+    - aku-garantia-unconditional-concept
+    - aku-garantia-conditional-concept
+    - aku-implied-guarantee-performance-concept
+    - aku-anti-guarantee-concept
+    - aku-garantia-tipo-segun-ticket-claim
+    - aku-garantia-matematica-claim
+    - aku-stacking-guarantees-claim
+    - aku-empezar-por-garantias-servicio-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -48,4 +57,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-garantia-reversion-riesgo-concept]] · [[aku-clientes-por-garantia-toxicos-claim]] · [[aku-win-your-money-back-concept]] · [[aku-pay-less-now-or-more-later-concept]] · [[aku-garantia-conditional-teeth-claim]]
+**related** ↔ [[aku-garantia-reversion-riesgo-concept]] · [[aku-clientes-por-garantia-toxicos-claim]] · [[aku-win-your-money-back-concept]] · [[aku-pay-less-now-or-more-later-concept]] · [[aku-garantia-conditional-teeth-claim]] · [[aku-reversion-riesgo-numero-uno-claim]] · [[aku-garantia-unconditional-concept]] · [[aku-garantia-conditional-concept]] · [[aku-implied-guarantee-performance-concept]] · [[aku-anti-guarantee-concept]] · [[aku-garantia-tipo-segun-ticket-claim]] · [[aku-garantia-matematica-claim]] · [[aku-stacking-guarantees-claim]] · [[aku-empezar-por-garantias-servicio-claim]]

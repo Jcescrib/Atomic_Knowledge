@@ -37,6 +37,9 @@ relations:
     - aku-empleados-lead-getters-concept
     - aku-entrenar-seguir-instrucciones-claim
     - aku-entrenamiento-realismo-fundamentos-repeticion-method
+    - aku-trade-40-horas-por-4-gestion-claim
+    - aku-internal-core-four-concept
+    - aku-negocio-sin-ti-es-activo-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -49,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-empleados-lead-getters-concept]] · [[aku-entrenar-seguir-instrucciones-claim]] · [[aku-entrenamiento-realismo-fundamentos-repeticion-method]]
+**related** ↔ [[aku-empleados-lead-getters-concept]] · [[aku-entrenar-seguir-instrucciones-claim]] · [[aku-entrenamiento-realismo-fundamentos-repeticion-method]] · [[aku-trade-40-horas-por-4-gestion-claim]] · [[aku-internal-core-four-concept]] · [[aku-negocio-sin-ti-es-activo-claim]]

@@ -34,6 +34,7 @@ relations:
   contradicts: []
   related:
     - aku-warm-outreach-concept
+    - aku-comunicacion-1a1-vs-1amuchos-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-core-four-concept]]
 
-**related** ↔ [[aku-warm-outreach-concept]]
+**related** ↔ [[aku-warm-outreach-concept]] · [[aku-comunicacion-1a1-vs-1amuchos-concept]]

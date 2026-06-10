@@ -40,6 +40,9 @@ relations:
     - aku-lead-magnet-curso-gratuito-concept
     - aku-formato-contenido-video-concept
     - aku-elegir-el-medio-de-comunicacion-adecuado-claim
+    - aku-trim-and-stack-concept
+    - aku-trim-and-stack-method
+    - aku-sales-fulfillment-continuum-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -52,4 +55,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-high-value-low-cost-one-to-many-claim]] · [[aku-tipos-lead-magnet-concept]] · [[aku-delivery-vehicles-concept]] · [[aku-formato-contenido-caso-exito-concept]] · [[aku-lead-magnet-curso-gratuito-concept]] · [[aku-formato-contenido-video-concept]] · [[aku-elegir-el-medio-de-comunicacion-adecuado-claim]]
+**related** ↔ [[aku-high-value-low-cost-one-to-many-claim]] · [[aku-tipos-lead-magnet-concept]] · [[aku-delivery-vehicles-concept]] · [[aku-formato-contenido-caso-exito-concept]] · [[aku-lead-magnet-curso-gratuito-concept]] · [[aku-formato-contenido-video-concept]] · [[aku-elegir-el-medio-de-comunicacion-adecuado-claim]] · [[aku-trim-and-stack-concept]] · [[aku-trim-and-stack-method]] · [[aku-sales-fulfillment-continuum-concept]]

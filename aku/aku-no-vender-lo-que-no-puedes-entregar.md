@@ -33,6 +33,8 @@ relations:
   related:
     - aku-money-model-concept
     - aku-intenciones-no-importan-importan-las-acciones-claim
+    - aku-dar-refund-siempre
+    - aku-reputacion-no-tiene-bankruptcy
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-money-model-concept]] · [[aku-intenciones-no-importan-importan-las-acciones-claim]]
+**related** ↔ [[aku-money-model-concept]] · [[aku-intenciones-no-importan-importan-las-acciones-claim]] · [[aku-dar-refund-siempre]] · [[aku-reputacion-no-tiene-bankruptcy]]

@@ -34,6 +34,9 @@ relations:
   related:
     - aku-core-four-concept
     - aku-capital-escala-mejor-que-las-personas-claim
+    - aku-lead-getters-apalancamiento-concept
+    - aku-cuatro-fortalezas-lead-getters-concept
+    - aku-cuatro-requisitos-plataforma-ads-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-core-four-concept]] · [[aku-capital-escala-mejor-que-las-personas-claim]]
+**related** ↔ [[aku-core-four-concept]] · [[aku-capital-escala-mejor-que-las-personas-claim]] · [[aku-lead-getters-apalancamiento-concept]] · [[aku-cuatro-fortalezas-lead-getters-concept]] · [[aku-cuatro-requisitos-plataforma-ads-concept]]

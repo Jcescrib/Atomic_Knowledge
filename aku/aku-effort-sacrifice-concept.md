@@ -37,6 +37,11 @@ relations:
     - aku-focus-bottom-value-equation-claim
     - aku-costes-ocultos-oferta-gratis-claim
     - aku-sacrificar-el-ego-coste-percibido-mayor-que-real-claim
+    - aku-dream-outcome-concept
+    - aku-perceived-likelihood-achievement-concept
+    - aku-time-delay-value-concept
+    - aku-perception-is-reality-value-claim
+    - aku-status-driver-compra-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -51,4 +56,4 @@ status_note: ""
 
 **supports** → [[aku-value-equation-concept]]
 
-**related** ↔ [[aku-coste-percibido-amplio-concept]] · [[aku-focus-bottom-value-equation-claim]] · [[aku-costes-ocultos-oferta-gratis-claim]] · [[aku-sacrificar-el-ego-coste-percibido-mayor-que-real-claim]]
+**related** ↔ [[aku-coste-percibido-amplio-concept]] · [[aku-focus-bottom-value-equation-claim]] · [[aku-costes-ocultos-oferta-gratis-claim]] · [[aku-sacrificar-el-ego-coste-percibido-mayor-que-real-claim]] · [[aku-dream-outcome-concept]] · [[aku-perceived-likelihood-achievement-concept]] · [[aku-time-delay-value-concept]] · [[aku-perception-is-reality-value-claim]] · [[aku-status-driver-compra-claim]]

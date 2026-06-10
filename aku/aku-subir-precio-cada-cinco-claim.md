@@ -32,6 +32,8 @@ relations:
   contradicts: []
   related:
     - aku-warm-outreach-concept
+    - aku-first-five-free-claim
+    - aku-empezar-cobrar-cuando-refieren-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -44,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-warm-outreach-concept]]
+**related** ↔ [[aku-warm-outreach-concept]] · [[aku-first-five-free-claim]] · [[aku-empezar-cobrar-cuando-refieren-claim]]

@@ -32,6 +32,11 @@ relations:
   contradicts: []
   related:
     - aku-cuatro-upsells-concept
+    - aku-rollover-upsell-concept
+    - aku-rollover-precio-4x-credito
+    - aku-rollover-urgencia-one-time
+    - aku-rollover-antes-de-refund
+    - aku-gift-card-play-method
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -44,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cuatro-upsells-concept]]
+**related** ↔ [[aku-cuatro-upsells-concept]] · [[aku-rollover-upsell-concept]] · [[aku-rollover-precio-4x-credito]] · [[aku-rollover-urgencia-one-time]] · [[aku-rollover-antes-de-refund]] · [[aku-gift-card-play-method]]

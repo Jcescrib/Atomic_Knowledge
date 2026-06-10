@@ -32,6 +32,14 @@ relations:
   contradicts: []
   related:
     - aku-money-model-concept
+    - aku-money-model-tres-etapas-concept
+    - aku-money-model-rompe-cash-bottleneck
+    - aku-bad-money-model-mata-negocio
+    - aku-bootstrapped-debe-captar-con-beneficio
+    - aku-todo-negocio-tiene-money-model
+    - aku-perfeccionar-una-oferta-a-la-vez
+    - aku-tu-negocio-se-rompe-cuando-funciona
+    - aku-crecimiento-multiplicativo-tres-palancas
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -44,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-money-model-concept]]
+**related** ↔ [[aku-money-model-concept]] · [[aku-money-model-tres-etapas-concept]] · [[aku-money-model-rompe-cash-bottleneck]] · [[aku-bad-money-model-mata-negocio]] · [[aku-bootstrapped-debe-captar-con-beneficio]] · [[aku-todo-negocio-tiene-money-model]] · [[aku-perfeccionar-una-oferta-a-la-vez]] · [[aku-tu-negocio-se-rompe-cuando-funciona]] · [[aku-crecimiento-multiplicativo-tres-palancas]]

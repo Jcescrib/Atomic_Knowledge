@@ -33,6 +33,10 @@ relations:
   related:
     - aku-grand-slam-offer-concept
     - aku-formula-objetivos-marketing-method
+    - aku-gso-cinco-pasos-method
+    - aku-categoria-de-uno-concept
+    - aku-bundle-tres-efectos-claim
+    - aku-offer-definicion-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -45,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-grand-slam-offer-concept]] · [[aku-formula-objetivos-marketing-method]]
+**related** ↔ [[aku-grand-slam-offer-concept]] · [[aku-formula-objetivos-marketing-method]] · [[aku-gso-cinco-pasos-method]] · [[aku-categoria-de-uno-concept]] · [[aku-bundle-tres-efectos-claim]] · [[aku-offer-definicion-concept]]

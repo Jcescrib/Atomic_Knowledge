@@ -40,6 +40,12 @@ relations:
     - aku-subir-los-atributos-indeseables-por-encima-de-cero-zero-comparison-claim
     - aku-concentracion-sector-concept
     - aku-monopolio-concept
+    - aku-ampliar-gap-valor-precio-claim
+    - aku-price-to-value-discrepancy-concept
+    - aku-compra-value-vs-price-driven-concept
+    - aku-clientes-invertidos-mejores-resultados-claim
+    - aku-profit-is-oxygen-claim
+    - aku-quien-necesita-menos-tiene-ventaja-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -52,4 +58,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-virtuous-cycle-of-price-claim]] · [[aku-categoria-de-uno-concept]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-cobrar-premium-decision-moral-claim]] · [[aku-reducir-costes-no-precio-claim]] · [[aku-subir-los-atributos-indeseables-por-encima-de-cero-zero-comparison-claim]] · [[aku-concentracion-sector-concept]] · [[aku-monopolio-concept]]
+**related** ↔ [[aku-virtuous-cycle-of-price-claim]] · [[aku-categoria-de-uno-concept]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-cobrar-premium-decision-moral-claim]] · [[aku-reducir-costes-no-precio-claim]] · [[aku-subir-los-atributos-indeseables-por-encima-de-cero-zero-comparison-claim]] · [[aku-concentracion-sector-concept]] · [[aku-monopolio-concept]] · [[aku-ampliar-gap-valor-precio-claim]] · [[aku-price-to-value-discrepancy-concept]] · [[aku-compra-value-vs-price-driven-concept]] · [[aku-clientes-invertidos-mejores-resultados-claim]] · [[aku-profit-is-oxygen-claim]] · [[aku-quien-necesita-menos-tiene-ventaja-claim]]

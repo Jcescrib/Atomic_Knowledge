@@ -32,6 +32,8 @@ relations:
   contradicts: []
   related:
     - aku-upsell-offer-concept
+    - aku-nombrar-feature-combinations
+    - aku-surprise-and-delight-bonos
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -44,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-upsell-offer-concept]]
+**related** ↔ [[aku-upsell-offer-concept]] · [[aku-nombrar-feature-combinations]] · [[aku-surprise-and-delight-bonos]]

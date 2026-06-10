@@ -37,6 +37,11 @@ relations:
     - aku-lead-getters-apalancamiento-concept
     - aku-recomendacion-vs-viralizacion-concept
     - aku-motor-crecimiento-viral-concept
+    - aku-referral-growth-exponential-claim
+    - aku-siete-formas-pedir-referidos-concept
+    - aku-tres-componentes-referral-program-concept
+    - aku-referir-es-riesgo-de-goodwill-claim
+    - aku-falta-referidos-producto-flojo-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -49,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-goodwill-genera-referidos-concept]] · [[aku-lead-getters-apalancamiento-concept]] · [[aku-recomendacion-vs-viralizacion-concept]] · [[aku-motor-crecimiento-viral-concept]]
+**related** ↔ [[aku-goodwill-genera-referidos-concept]] · [[aku-lead-getters-apalancamiento-concept]] · [[aku-recomendacion-vs-viralizacion-concept]] · [[aku-motor-crecimiento-viral-concept]] · [[aku-referral-growth-exponential-claim]] · [[aku-siete-formas-pedir-referidos-concept]] · [[aku-tres-componentes-referral-program-concept]] · [[aku-referir-es-riesgo-de-goodwill-claim]] · [[aku-falta-referidos-producto-flojo-claim]]

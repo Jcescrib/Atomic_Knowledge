@@ -35,6 +35,9 @@ relations:
   related:
     - aku-referral-growth-exponential-claim
     - aku-aprende-que-contenido-funciona-y-replica-claim
+    - aku-mejora-continua-producto-seis-pasos-concept
+    - aku-wins-rapidos-frecuentes-concept
+    - aku-vender-de-nuevo-retiene-y-refiere-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-referral-growth-exponential-claim]] · [[aku-aprende-que-contenido-funciona-y-replica-claim]]
+**related** ↔ [[aku-referral-growth-exponential-claim]] · [[aku-aprende-que-contenido-funciona-y-replica-claim]] · [[aku-mejora-continua-producto-seis-pasos-concept]] · [[aku-wins-rapidos-frecuentes-concept]] · [[aku-vender-de-nuevo-retiene-y-refiere-claim]]

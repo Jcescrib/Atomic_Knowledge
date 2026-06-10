@@ -39,6 +39,13 @@ relations:
     - aku-explorar-alternativas-actuales-method
     - aku-desglosar-propuesta-valor-componentes-method
     - aku-entrevista-problem-solution-concept
+    - aku-lead-magnet-hormozi-concept
+    - aku-lead-magnet-cuatro-funciones-claim
+    - aku-lead-magnet-siete-pasos-concept
+    - aku-lead-magnet-multiples-formatos-claim
+    - aku-lead-magnet-reduce-cac-claim
+    - aku-give-away-secrets-sell-implementation-claim
+    - aku-core-offer-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -53,4 +60,4 @@ status_note: ""
 
 **supports** → [[aku-lead-magnet-concept]]
 
-**related** ↔ [[aku-tipos-lead-magnet-concept]] · [[aku-problemas-a-soluciones-concept]] · [[aku-problem-solution-fit-concept]] · [[aku-explorar-alternativas-actuales-method]] · [[aku-desglosar-propuesta-valor-componentes-method]] · [[aku-entrevista-problem-solution-concept]]
+**related** ↔ [[aku-tipos-lead-magnet-concept]] · [[aku-problemas-a-soluciones-concept]] · [[aku-problem-solution-fit-concept]] · [[aku-explorar-alternativas-actuales-method]] · [[aku-desglosar-propuesta-valor-componentes-method]] · [[aku-entrevista-problem-solution-concept]] · [[aku-lead-magnet-hormozi-concept]] · [[aku-lead-magnet-cuatro-funciones-claim]] · [[aku-lead-magnet-siete-pasos-concept]] · [[aku-lead-magnet-multiples-formatos-claim]] · [[aku-lead-magnet-reduce-cac-claim]] · [[aku-give-away-secrets-sell-implementation-claim]] · [[aku-core-offer-concept]]

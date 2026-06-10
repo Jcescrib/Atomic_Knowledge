@@ -31,6 +31,7 @@ relations:
   contradicts: []
   related:
     - aku-buy-x-get-y-free-concept
+    - aku-hyper-buying-cycle-concept
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -43,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-buy-x-get-y-free-concept]]
+**related** ↔ [[aku-buy-x-get-y-free-concept]] · [[aku-hyper-buying-cycle-concept]]

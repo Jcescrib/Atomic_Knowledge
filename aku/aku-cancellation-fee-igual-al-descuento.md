@@ -32,6 +32,9 @@ relations:
   contradicts: []
   related:
     - aku-continuity-offer-concept
+    - aku-waived-fee-concept
+    - aku-waived-fee-start-y-stick
+    - aku-cancellation-fee-a-causa-odiada
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -44,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-continuity-offer-concept]]
+**related** ↔ [[aku-continuity-offer-concept]] · [[aku-waived-fee-concept]] · [[aku-waived-fee-start-y-stick]] · [[aku-cancellation-fee-a-causa-odiada]]

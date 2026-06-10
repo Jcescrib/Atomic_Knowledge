@@ -33,6 +33,11 @@ relations:
   contradicts: []
   related:
     - aku-magic-naming-concept
+    - aku-starving-crowd-concept
+    - aku-cuatro-indicadores-mercado-concept
+    - aku-tres-mercados-eternos-concept
+    - aku-mercado-oferta-persuasion-jerarquia-claim
+    - aku-commit-to-niche-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -45,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-magic-naming-concept]]
+**related** ↔ [[aku-magic-naming-concept]] · [[aku-starving-crowd-concept]] · [[aku-cuatro-indicadores-mercado-concept]] · [[aku-tres-mercados-eternos-concept]] · [[aku-mercado-oferta-persuasion-jerarquia-claim]] · [[aku-commit-to-niche-claim]]

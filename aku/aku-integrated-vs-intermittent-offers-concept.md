@@ -35,6 +35,8 @@ relations:
   related:
     - aku-core-four-concept
     - aku-display-video-in-stream-concept
+    - aku-give-ask-ratio-claim
+    - aku-give-ask-benchmarks-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-core-four-concept]] · [[aku-display-video-in-stream-concept]]
+**related** ↔ [[aku-core-four-concept]] · [[aku-display-video-in-stream-concept]] · [[aku-give-ask-ratio-claim]] · [[aku-give-ask-benchmarks-concept]]

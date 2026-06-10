@@ -35,6 +35,9 @@ relations:
     - aku-referral-growth-exponential-claim
     - aku-time-delay-value-concept
     - aku-retencion-no-es-mala-claim
+    - aku-mejora-continua-producto-seis-pasos-concept
+    - aku-replicar-acciones-mejores-clientes-concept
+    - aku-vender-de-nuevo-retiene-y-refiere-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-referral-growth-exponential-claim]] · [[aku-time-delay-value-concept]] · [[aku-retencion-no-es-mala-claim]]
+**related** ↔ [[aku-referral-growth-exponential-claim]] · [[aku-time-delay-value-concept]] · [[aku-retencion-no-es-mala-claim]] · [[aku-mejora-continua-producto-seis-pasos-concept]] · [[aku-replicar-acciones-mejores-clientes-concept]] · [[aku-vender-de-nuevo-retiene-y-refiere-claim]]

@@ -34,6 +34,16 @@ relations:
   related:
     - aku-cialdini-escasez-concept
     - aku-negotiation-tactics-influencia-psicologica-por-fase-concept
+    - aku-scarcity-limited-seats-concept
+    - aku-scarcity-limited-bonuses-concept
+    - aku-scarcity-never-available-again-concept
+    - aku-total-business-cap-concept
+    - aku-growth-rate-cap-concept
+    - aku-cohort-cap-concept
+    - aku-extreme-scarcity-1on1-claim
+    - aku-honest-scarcity-claim
+    - aku-cuando-sube-demanda-corta-oferta-claim
+    - aku-vender-menos-aumenta-demanda-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -48,4 +58,4 @@ status_note: ""
 
 **supports** → [[aku-tipos-y-tacticas-escasez-concept]]
 
-**related** ↔ [[aku-cialdini-escasez-concept]] · [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
+**related** ↔ [[aku-cialdini-escasez-concept]] · [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]] · [[aku-scarcity-limited-seats-concept]] · [[aku-scarcity-limited-bonuses-concept]] · [[aku-scarcity-never-available-again-concept]] · [[aku-total-business-cap-concept]] · [[aku-growth-rate-cap-concept]] · [[aku-cohort-cap-concept]] · [[aku-extreme-scarcity-1on1-claim]] · [[aku-honest-scarcity-claim]] · [[aku-cuando-sube-demanda-corta-oferta-claim]] · [[aku-vender-menos-aumenta-demanda-claim]]

@@ -36,6 +36,7 @@ relations:
     - aku-leyes-persuasion-cialdini-concept
     - aku-cialdini-compromiso-consistencia-concept
     - aku-describir-el-siguiente-paso-concreto-en-el-boton-claim
+    - aku-targeting-lookalike-filtros-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-paid-ads-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-cialdini-compromiso-consistencia-concept]] · [[aku-describir-el-siguiente-paso-concreto-en-el-boton-claim]]
+**related** ↔ [[aku-paid-ads-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-cialdini-compromiso-consistencia-concept]] · [[aku-describir-el-siguiente-paso-concreto-en-el-boton-claim]] · [[aku-targeting-lookalike-filtros-concept]]

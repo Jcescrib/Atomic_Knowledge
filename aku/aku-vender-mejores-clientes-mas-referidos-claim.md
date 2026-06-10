@@ -32,6 +32,11 @@ relations:
   contradicts: []
   related:
     - aku-referral-growth-exponential-claim
+    - aku-goodwill-genera-referidos-concept
+    - aku-goodwill-precio-valor-concept
+    - aku-seis-formas-mas-valor-referidos-concept
+    - aku-un-solo-cliente-thought-experiment-claim
+    - aku-bajar-expectativas-para-sobreentregar-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -44,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-referral-growth-exponential-claim]]
+**related** ↔ [[aku-referral-growth-exponential-claim]] · [[aku-goodwill-genera-referidos-concept]] · [[aku-goodwill-precio-valor-concept]] · [[aku-seis-formas-mas-valor-referidos-concept]] · [[aku-un-solo-cliente-thought-experiment-claim]] · [[aku-bajar-expectativas-para-sobreentregar-claim]]

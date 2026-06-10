@@ -35,6 +35,8 @@ relations:
   related:
     - aku-marketing-afiliados-concept
     - aku-recomendacion-vs-viralizacion-concept
+    - aku-afiliado-vs-referido-concept
+    - aku-afiliado-ideal-quien-tiene-mis-leads-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-marketing-afiliados-concept]] · [[aku-recomendacion-vs-viralizacion-concept]]
+**related** ↔ [[aku-marketing-afiliados-concept]] · [[aku-recomendacion-vs-viralizacion-concept]] · [[aku-afiliado-vs-referido-concept]] · [[aku-afiliado-ideal-quien-tiene-mis-leads-concept]]

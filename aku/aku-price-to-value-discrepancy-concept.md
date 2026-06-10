@@ -33,6 +33,13 @@ relations:
   contradicts: []
   related:
     - aku-ampliar-gap-valor-precio-claim
+    - aku-compra-value-vs-price-driven-concept
+    - aku-precio-alto-aumenta-valor-percibido-claim
+    - aku-clientes-invertidos-mejores-resultados-claim
+    - aku-cobrar-premium-decision-moral-claim
+    - aku-profit-is-oxygen-claim
+    - aku-virtuous-cycle-of-price-claim
+    - aku-quien-necesita-menos-tiene-ventaja-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -45,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-ampliar-gap-valor-precio-claim]]
+**related** ↔ [[aku-ampliar-gap-valor-precio-claim]] · [[aku-compra-value-vs-price-driven-concept]] · [[aku-precio-alto-aumenta-valor-percibido-claim]] · [[aku-clientes-invertidos-mejores-resultados-claim]] · [[aku-cobrar-premium-decision-moral-claim]] · [[aku-profit-is-oxygen-claim]] · [[aku-virtuous-cycle-of-price-claim]] · [[aku-quien-necesita-menos-tiene-ventaja-claim]]

@@ -31,6 +31,10 @@ relations:
   contradicts: []
   related:
     - aku-continuity-offer-concept
+    - aku-continuity-discount-concept
+    - aku-bulk-prepaid-upsell-continuity
+    - aku-reward-prepago-no-penalizar-interes
+    - aku-lifetime-discount-en-churn-point
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -43,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-continuity-offer-concept]]
+**related** ↔ [[aku-continuity-offer-concept]] · [[aku-continuity-discount-concept]] · [[aku-bulk-prepaid-upsell-continuity]] · [[aku-reward-prepago-no-penalizar-interes]] · [[aku-lifetime-discount-en-churn-point]]

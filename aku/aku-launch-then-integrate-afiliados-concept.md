@@ -33,6 +33,11 @@ relations:
   contradicts: []
   related:
     - aku-marketing-afiliados-concept
+    - aku-construir-affiliate-army-seis-pasos-concept
+    - aku-oferta-al-afiliado-concept
+    - aku-cualificar-afiliado-cliente-experto-concept
+    - aku-super-afiliado-niveles-concept
+    - aku-whisper-tease-shout-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -45,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-marketing-afiliados-concept]]
+**related** ↔ [[aku-marketing-afiliados-concept]] · [[aku-construir-affiliate-army-seis-pasos-concept]] · [[aku-oferta-al-afiliado-concept]] · [[aku-cualificar-afiliado-cliente-experto-concept]] · [[aku-super-afiliado-niveles-concept]] · [[aku-whisper-tease-shout-concept]]

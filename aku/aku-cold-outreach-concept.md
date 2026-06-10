@@ -42,6 +42,8 @@ relations:
     - aku-cold-personalizar-como-warm-claim
     - aku-asignar-10-20-tech-nueva-claim
     - aku-cold-outreach-benchmarks-method
+    - aku-volumen-cold-tres-palancas-concept
+    - aku-follow-up-volumen-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -54,4 +56,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-outbound-marketing-concept]] · [[aku-warm-outreach-concept]] · [[aku-big-fast-value-claim]] · [[aku-cold-outreach-numbers-game-claim]] · [[aku-cold-outreach-ventajas-claim]] · [[aku-construir-lista-tres-vias-concept]] · [[aku-cold-personalizar-como-warm-claim]] · [[aku-asignar-10-20-tech-nueva-claim]] · [[aku-cold-outreach-benchmarks-method]]
+**related** ↔ [[aku-outbound-marketing-concept]] · [[aku-warm-outreach-concept]] · [[aku-big-fast-value-claim]] · [[aku-cold-outreach-numbers-game-claim]] · [[aku-cold-outreach-ventajas-claim]] · [[aku-construir-lista-tres-vias-concept]] · [[aku-cold-personalizar-como-warm-claim]] · [[aku-asignar-10-20-tech-nueva-claim]] · [[aku-cold-outreach-benchmarks-method]] · [[aku-volumen-cold-tres-palancas-concept]] · [[aku-follow-up-volumen-claim]]

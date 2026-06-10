@@ -35,6 +35,10 @@ relations:
   related:
     - aku-upsell-offer-concept
     - aku-entender-primero-para-influir-claim
+    - aku-trial-with-penalty-concept
+    - aku-trial-penalty-card-y-commitment
+    - aku-trial-penalty-explicar-fees-tras-tarjeta
+    - aku-llamar-trial-with-penalty-just-trial
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -47,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-upsell-offer-concept]] · [[aku-entender-primero-para-influir-claim]]
+**related** ↔ [[aku-upsell-offer-concept]] · [[aku-entender-primero-para-influir-claim]] · [[aku-trial-with-penalty-concept]] · [[aku-trial-penalty-card-y-commitment]] · [[aku-trial-penalty-explicar-fees-tras-tarjeta]] · [[aku-llamar-trial-with-penalty-just-trial]]

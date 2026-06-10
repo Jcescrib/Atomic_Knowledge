@@ -35,6 +35,8 @@ relations:
   related:
     - aku-rule-of-100-claim
     - aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim
+    - aku-one-page-advertising-checklist-concept
+    - aku-high-roi-habit-stack-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-rule-of-100-claim]] · [[aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim]]
+**related** ↔ [[aku-rule-of-100-claim]] · [[aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim]] · [[aku-one-page-advertising-checklist-concept]] · [[aku-high-roi-habit-stack-concept]]

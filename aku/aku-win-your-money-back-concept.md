@@ -37,6 +37,9 @@ relations:
     - aku-garantia-condicional-acciones-claim
     - aku-win-money-back-criterios-tres-caracteristicas
     - aku-win-money-back-refund-rate-5pct
+    - aku-store-credit-en-vez-de-cash
+    - aku-aplicar-store-credit-a-plazo
+    - aku-make-everyone-a-winner
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -51,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-attraction-offer-concept]]
 
-**related** ↔ [[aku-garantia-condicional-acciones-claim]] · [[aku-win-money-back-criterios-tres-caracteristicas]] · [[aku-win-money-back-refund-rate-5pct]]
+**related** ↔ [[aku-garantia-condicional-acciones-claim]] · [[aku-win-money-back-criterios-tres-caracteristicas]] · [[aku-win-money-back-refund-rate-5pct]] · [[aku-store-credit-en-vez-de-cash]] · [[aku-aplicar-store-credit-a-plazo]] · [[aku-make-everyone-a-winner]]

@@ -34,6 +34,11 @@ relations:
   related:
     - aku-bonuses-stack-concept
     - aku-restringir-la-cantidad-de-productos-de-estatus-escasez-claim
+    - aku-bonos-amplian-discrepancia-valor-claim
+    - aku-bonos-eclipsan-core-claim
+    - aku-bonus-presentation-checklist-concept
+    - aku-bonus-vs-core-wow-factor-claim
+    - aku-pedir-de-nuevo-con-bono-reciprocidad-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -46,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-bonuses-stack-concept]] · [[aku-restringir-la-cantidad-de-productos-de-estatus-escasez-claim]]
+**related** ↔ [[aku-bonuses-stack-concept]] · [[aku-restringir-la-cantidad-de-productos-de-estatus-escasez-claim]] · [[aku-bonos-amplian-discrepancia-valor-claim]] · [[aku-bonos-eclipsan-core-claim]] · [[aku-bonus-presentation-checklist-concept]] · [[aku-bonus-vs-core-wow-factor-claim]] · [[aku-pedir-de-nuevo-con-bono-reciprocidad-claim]]

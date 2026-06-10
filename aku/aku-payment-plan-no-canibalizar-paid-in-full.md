@@ -32,6 +32,12 @@ relations:
   contradicts: []
   related:
     - aku-downsell-offer-concept
+    - aku-payment-plan-downsell-concept
+    - aku-payment-plan-siete-pasos-method
+    - aku-payment-plan-builtin-upsell
+    - aku-seesaw-downselling-concept
+    - aku-alternar-payment-y-feature-downsell
+    - aku-tarjeta-credito-reframe-decides-tu
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -44,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-downsell-offer-concept]]
+**related** ↔ [[aku-downsell-offer-concept]] · [[aku-payment-plan-downsell-concept]] · [[aku-payment-plan-siete-pasos-method]] · [[aku-payment-plan-builtin-upsell]] · [[aku-seesaw-downselling-concept]] · [[aku-alternar-payment-y-feature-downsell]] · [[aku-tarjeta-credito-reframe-decides-tu]]

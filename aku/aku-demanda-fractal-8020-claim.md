@@ -32,6 +32,9 @@ relations:
   contradicts: []
   related:
     - aku-vender-menos-aumenta-demanda-claim
+    - aku-marketing-influye-oferta-demanda-concept
+    - aku-deseo-viene-de-no-tener-claim
+    - aku-exploding-opportunity-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -44,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-vender-menos-aumenta-demanda-claim]]
+**related** ↔ [[aku-vender-menos-aumenta-demanda-claim]] · [[aku-marketing-influye-oferta-demanda-concept]] · [[aku-deseo-viene-de-no-tener-claim]] · [[aku-exploding-opportunity-concept]]

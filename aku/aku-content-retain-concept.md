@@ -35,6 +35,10 @@ relations:
   related:
     - aku-listas-steps-stories-concept
     - aku-estilo-editorial-concept
+    - aku-content-hook-concept
+    - aku-hook-topic-headline-format-concept
+    - aku-content-reward-valor-por-segundo-claim
+    - aku-short-vs-long-content-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -49,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-content-unit-concept]]
 
-**related** ↔ [[aku-listas-steps-stories-concept]] · [[aku-estilo-editorial-concept]]
+**related** ↔ [[aku-listas-steps-stories-concept]] · [[aku-estilo-editorial-concept]] · [[aku-content-hook-concept]] · [[aku-hook-topic-headline-format-concept]] · [[aku-content-reward-valor-por-segundo-claim]] · [[aku-short-vs-long-content-claim]]

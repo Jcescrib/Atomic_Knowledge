@@ -38,6 +38,9 @@ relations:
     - aku-tres-mercados-eternos-concept
     - aku-riches-in-niches-pricing-claim
     - aku-elevator-pitch-template-anglosajon-completo-method
+    - aku-mercado-oferta-persuasion-jerarquia-claim
+    - aku-commit-to-niche-claim
+    - aku-marketing-local-doble-filo-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -50,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-starving-crowd-concept]] · [[aku-customer-persona-concept]] · [[aku-tres-mercados-eternos-concept]] · [[aku-riches-in-niches-pricing-claim]] · [[aku-elevator-pitch-template-anglosajon-completo-method]]
+**related** ↔ [[aku-starving-crowd-concept]] · [[aku-customer-persona-concept]] · [[aku-tres-mercados-eternos-concept]] · [[aku-riches-in-niches-pricing-claim]] · [[aku-elevator-pitch-template-anglosajon-completo-method]] · [[aku-mercado-oferta-persuasion-jerarquia-claim]] · [[aku-commit-to-niche-claim]] · [[aku-marketing-local-doble-filo-claim]]

@@ -59,6 +59,7 @@ relations:
     - aku-attraction-a-continuity-con-renovacion
     - aku-dividir-el-precio-en-unidades-mas-pequenas-partitioned-prices-claim
     - aku-entorno-de-recompensa-inmediata-vs-diferida-concept
+    - aku-seguir-vendiendo-a-prepagados
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -75,4 +76,4 @@ status_note: ""
 
 **supports** → [[aku-cuatro-tipos-oferta-concept]]
 
-**related** ↔ [[aku-fidelizacion-vs-retencion-concept]] · [[aku-churn-rate-concept]] · [[aku-cltv-subscription-formula]] · [[aku-continuity-no-standalone]] · [[aku-anunciar-bono-no-membership]] · [[aku-bonos-fisicos-digital-y-viceversa]] · [[aku-titulos-como-bono]] · [[aku-continuity-pricing-standalone-ratio-method]] · [[aku-commitment-a-cambio-de-bono]] · [[aku-billing-cada-cuatro-semanas]] · [[aku-extender-termino-no-comer]] · [[aku-processing-fee-3pct]] · [[aku-dos-formas-de-pago]] · [[aku-lifetime-discount-en-churn-point]] · [[aku-cancellation-fee-igual-al-descuento]] · [[aku-facilitar-cancelacion]] · [[aku-exit-interview-salva-clientes]] · [[aku-waived-fee-start-y-stick]] · [[aku-cancellation-fee-a-causa-odiada]] · [[aku-continuity-rewards-mejor-que-castigo]] · [[aku-attraction-a-continuity-con-renovacion]] · [[aku-dividir-el-precio-en-unidades-mas-pequenas-partitioned-prices-claim]] · [[aku-entorno-de-recompensa-inmediata-vs-diferida-concept]]
+**related** ↔ [[aku-fidelizacion-vs-retencion-concept]] · [[aku-churn-rate-concept]] · [[aku-cltv-subscription-formula]] · [[aku-continuity-no-standalone]] · [[aku-anunciar-bono-no-membership]] · [[aku-bonos-fisicos-digital-y-viceversa]] · [[aku-titulos-como-bono]] · [[aku-continuity-pricing-standalone-ratio-method]] · [[aku-commitment-a-cambio-de-bono]] · [[aku-billing-cada-cuatro-semanas]] · [[aku-extender-termino-no-comer]] · [[aku-processing-fee-3pct]] · [[aku-dos-formas-de-pago]] · [[aku-lifetime-discount-en-churn-point]] · [[aku-cancellation-fee-igual-al-descuento]] · [[aku-facilitar-cancelacion]] · [[aku-exit-interview-salva-clientes]] · [[aku-waived-fee-start-y-stick]] · [[aku-cancellation-fee-a-causa-odiada]] · [[aku-continuity-rewards-mejor-que-castigo]] · [[aku-attraction-a-continuity-con-renovacion]] · [[aku-dividir-el-precio-en-unidades-mas-pequenas-partitioned-prices-claim]] · [[aku-entorno-de-recompensa-inmediata-vs-diferida-concept]] · [[aku-seguir-vendiendo-a-prepagados]]

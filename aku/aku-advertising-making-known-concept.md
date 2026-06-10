@@ -32,6 +32,10 @@ relations:
   contradicts: []
   related:
     - aku-core-four-concept
+    - aku-lead-contactable-hormozi-concept
+    - aku-engaged-lead-concept
+    - aku-engaged-leads-son-el-objetivo-claim
+    - aku-doblar-leads-dobla-negocio-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -44,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-core-four-concept]]
+**related** ↔ [[aku-core-four-concept]] · [[aku-lead-contactable-hormozi-concept]] · [[aku-engaged-lead-concept]] · [[aku-engaged-leads-son-el-objetivo-claim]] · [[aku-doblar-leads-dobla-negocio-claim]]

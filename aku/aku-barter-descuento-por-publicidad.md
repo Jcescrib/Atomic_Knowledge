@@ -35,6 +35,8 @@ relations:
   related:
     - aku-downsell-offer-concept
     - aku-formato-contenido-testimonio-concept
+    - aku-no-bajar-precio-mismo-producto-claim
+    - aku-nunca-negociar-precio
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-downsell-offer-concept]] · [[aku-formato-contenido-testimonio-concept]]
+**related** ↔ [[aku-downsell-offer-concept]] · [[aku-formato-contenido-testimonio-concept]] · [[aku-no-bajar-precio-mismo-producto-claim]] · [[aku-nunca-negociar-precio]]

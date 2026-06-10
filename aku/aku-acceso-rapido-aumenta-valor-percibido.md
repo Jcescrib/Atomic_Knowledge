@@ -33,6 +33,12 @@ relations:
   contradicts: []
   related:
     - aku-upsell-offer-concept
+    - aku-cuatro-upsells-concept
+    - aku-actually-do-the-upsell
+    - aku-upsell-mayor-beneficio-claim
+    - aku-upsell-mas-rentable-primero
+    - aku-integrar-upsells-en-entrega
+    - aku-hint-next-offer-early
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -45,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-upsell-offer-concept]]
+**related** ↔ [[aku-upsell-offer-concept]] · [[aku-cuatro-upsells-concept]] · [[aku-actually-do-the-upsell]] · [[aku-upsell-mayor-beneficio-claim]] · [[aku-upsell-mas-rentable-primero]] · [[aku-integrar-upsells-en-entrega]] · [[aku-hint-next-offer-early]]

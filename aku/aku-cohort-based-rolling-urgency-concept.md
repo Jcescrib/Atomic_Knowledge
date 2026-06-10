@@ -34,6 +34,9 @@ relations:
   related:
     - aku-grand-slam-offer-concept
     - aku-urgencia-concept
+    - aku-rolling-seasonal-urgency-concept
+    - aku-pricing-bonus-based-urgency-concept
+    - aku-deadlines-drive-decisions-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-grand-slam-offer-concept]] · [[aku-urgencia-concept]]
+**related** ↔ [[aku-grand-slam-offer-concept]] · [[aku-urgencia-concept]] · [[aku-rolling-seasonal-urgency-concept]] · [[aku-pricing-bonus-based-urgency-concept]] · [[aku-deadlines-drive-decisions-claim]]

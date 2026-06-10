@@ -32,6 +32,11 @@ relations:
   contradicts: []
   related:
     - aku-continuity-offer-concept
+    - aku-continuity-no-standalone
+    - aku-tres-continuity-offers-concept
+    - aku-continuity-rewards-mejor-que-castigo
+    - aku-attraction-a-continuity-con-renovacion
+    - aku-seguir-vendiendo-a-prepagados
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -44,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-continuity-offer-concept]]
+**related** ↔ [[aku-continuity-offer-concept]] · [[aku-continuity-no-standalone]] · [[aku-tres-continuity-offers-concept]] · [[aku-continuity-rewards-mejor-que-castigo]] · [[aku-attraction-a-continuity-con-renovacion]] · [[aku-seguir-vendiendo-a-prepagados]]

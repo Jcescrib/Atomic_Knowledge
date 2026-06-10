@@ -34,6 +34,8 @@ relations:
   related:
     - aku-warm-outreach-concept
     - aku-email-marketing-concept
+    - aku-warm-cold-audience-concept
+    - aku-core-four-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-warm-outreach-concept]] · [[aku-email-marketing-concept]]
+**related** ↔ [[aku-warm-outreach-concept]] · [[aku-email-marketing-concept]] · [[aku-warm-cold-audience-concept]] · [[aku-core-four-concept]]

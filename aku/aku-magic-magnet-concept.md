@@ -32,7 +32,11 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-magic-avatar-concept
+    - aku-magic-goal-concept
+    - aku-magic-interval-concept
+    - aku-magic-container-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -46,3 +50,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-magic-naming-concept]]
+
+**related** ↔ [[aku-magic-avatar-concept]] · [[aku-magic-goal-concept]] · [[aku-magic-interval-concept]] · [[aku-magic-container-concept]]

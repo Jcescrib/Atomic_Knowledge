@@ -33,6 +33,11 @@ relations:
   contradicts: []
   related:
     - aku-core-four-concept
+    - aku-audiencia-activo-compuesto-claim
+    - aku-depth-then-width-vs-width-then-depth-concept
+    - aku-puddles-ponds-lakes-oceans-claim
+    - aku-content-benchmarks-crecimiento-method
+    - aku-how-to-vs-how-i-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -45,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-core-four-concept]]
+**related** ↔ [[aku-core-four-concept]] · [[aku-audiencia-activo-compuesto-claim]] · [[aku-depth-then-width-vs-width-then-depth-concept]] · [[aku-puddles-ponds-lakes-oceans-claim]] · [[aku-content-benchmarks-crecimiento-method]] · [[aku-how-to-vs-how-i-claim]]

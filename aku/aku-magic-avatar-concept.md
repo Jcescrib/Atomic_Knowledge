@@ -33,6 +33,10 @@ relations:
   contradicts: []
   related:
     - aku-posicionamiento-concept
+    - aku-magic-magnet-concept
+    - aku-magic-goal-concept
+    - aku-magic-interval-concept
+    - aku-magic-container-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -47,4 +51,4 @@ status_note: ""
 
 **supported_by** ← [[aku-magic-naming-concept]]
 
-**related** ↔ [[aku-posicionamiento-concept]]
+**related** ↔ [[aku-posicionamiento-concept]] · [[aku-magic-magnet-concept]] · [[aku-magic-goal-concept]] · [[aku-magic-interval-concept]] · [[aku-magic-container-concept]]

@@ -37,6 +37,11 @@ relations:
     - aku-marketing-afiliados-concept
     - aku-lead-getters-apalancamiento-concept
     - aku-payout-afiliados-tiers-concept
+    - aku-construir-affiliate-army-seis-pasos-concept
+    - aku-cualificar-afiliado-cliente-experto-concept
+    - aku-launch-then-integrate-afiliados-concept
+    - aku-super-afiliado-niveles-concept
+    - aku-whisper-tease-shout-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -49,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-marketing-afiliados-concept]] · [[aku-lead-getters-apalancamiento-concept]] · [[aku-payout-afiliados-tiers-concept]]
+**related** ↔ [[aku-marketing-afiliados-concept]] · [[aku-lead-getters-apalancamiento-concept]] · [[aku-payout-afiliados-tiers-concept]] · [[aku-construir-affiliate-army-seis-pasos-concept]] · [[aku-cualificar-afiliado-cliente-experto-concept]] · [[aku-launch-then-integrate-afiliados-concept]] · [[aku-super-afiliado-niveles-concept]] · [[aku-whisper-tease-shout-concept]]

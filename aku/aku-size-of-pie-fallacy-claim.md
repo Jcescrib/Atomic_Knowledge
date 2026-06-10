@@ -34,6 +34,11 @@ relations:
   related:
     - aku-more-better-new-concept
     - aku-puddles-ponds-lakes-oceans-claim
+    - aku-tres-fases-escalar-ads-concept
+    - aku-presupuesto-test-ads-2x-method
+    - aku-presupuesto-desde-objetivo-clientes-method
+    - aku-volumen-test-size-suficiente-claim
+    - aku-ads-eficiencia-vs-alcance-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-more-better-new-concept]] · [[aku-puddles-ponds-lakes-oceans-claim]]
+**related** ↔ [[aku-more-better-new-concept]] · [[aku-puddles-ponds-lakes-oceans-claim]] · [[aku-tres-fases-escalar-ads-concept]] · [[aku-presupuesto-test-ads-2x-method]] · [[aku-presupuesto-desde-objetivo-clientes-method]] · [[aku-volumen-test-size-suficiente-claim]] · [[aku-ads-eficiencia-vs-alcance-claim]]

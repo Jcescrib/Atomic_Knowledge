@@ -36,6 +36,8 @@ relations:
     - aku-mercado-oferta-persuasion-jerarquia-claim
     - aku-cuatro-indicadores-mercado-concept
     - aku-tres-mercados-eternos-concept
+    - aku-commit-to-niche-claim
+    - aku-marketing-local-doble-filo-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cliente-buscando-vs-no-concept]] · [[aku-mercado-oferta-persuasion-jerarquia-claim]] · [[aku-cuatro-indicadores-mercado-concept]] · [[aku-tres-mercados-eternos-concept]]
+**related** ↔ [[aku-cliente-buscando-vs-no-concept]] · [[aku-mercado-oferta-persuasion-jerarquia-claim]] · [[aku-cuatro-indicadores-mercado-concept]] · [[aku-tres-mercados-eternos-concept]] · [[aku-commit-to-niche-claim]] · [[aku-marketing-local-doble-filo-claim]]

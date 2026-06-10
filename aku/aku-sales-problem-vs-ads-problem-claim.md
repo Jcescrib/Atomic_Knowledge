@@ -33,6 +33,7 @@ relations:
   related:
     - aku-paid-ads-concept
     - aku-diagnostico-sales-vs-ads-una-pregunta-method
+    - aku-diagnostico-cac-3x-industria-method
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-paid-ads-concept]] · [[aku-diagnostico-sales-vs-ads-una-pregunta-method]]
+**related** ↔ [[aku-paid-ads-concept]] · [[aku-diagnostico-sales-vs-ads-una-pregunta-method]] · [[aku-diagnostico-cac-3x-industria-method]]

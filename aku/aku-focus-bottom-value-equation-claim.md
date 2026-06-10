@@ -37,6 +37,10 @@ relations:
     - aku-value-equation-concept
     - aku-time-delay-value-concept
     - aku-effort-sacrifice-concept
+    - aku-dream-outcome-concept
+    - aku-perceived-likelihood-achievement-concept
+    - aku-perception-is-reality-value-claim
+    - aku-status-driver-compra-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -49,6 +53,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-value-equation-concept]] · [[aku-time-delay-value-concept]] · [[aku-effort-sacrifice-concept]]
+**related** ↔ [[aku-value-equation-concept]] · [[aku-time-delay-value-concept]] · [[aku-effort-sacrifice-concept]] · [[aku-dream-outcome-concept]] · [[aku-perceived-likelihood-achievement-concept]] · [[aku-perception-is-reality-value-claim]] · [[aku-status-driver-compra-claim]]
 
 **supports** → [[aku-reducir-costes-no-precio-claim]]

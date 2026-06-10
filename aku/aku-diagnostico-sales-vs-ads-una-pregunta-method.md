@@ -34,6 +34,7 @@ relations:
   related:
     - aku-empleados-lead-getters-concept
     - aku-sales-problem-vs-ads-problem-claim
+    - aku-diagnostico-cac-3x-industria-method
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-empleados-lead-getters-concept]] · [[aku-sales-problem-vs-ads-problem-claim]]
+**related** ↔ [[aku-empleados-lead-getters-concept]] · [[aku-sales-problem-vs-ads-problem-claim]] · [[aku-diagnostico-cac-3x-industria-method]]

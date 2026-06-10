@@ -35,6 +35,7 @@ relations:
   contradicts: []
   related:
     - aku-ads-eficiencia-vs-alcance-claim
+    - aku-landing-page-permiso-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-paid-ads-concept]]
 
-**related** ↔ [[aku-ads-eficiencia-vs-alcance-claim]]
+**related** ↔ [[aku-ads-eficiencia-vs-alcance-claim]] · [[aku-landing-page-permiso-concept]]

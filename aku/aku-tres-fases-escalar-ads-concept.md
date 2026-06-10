@@ -36,6 +36,10 @@ relations:
     - aku-paid-ads-concept
     - aku-ltgp-cac-3-a-1-claim
     - aku-presupuesto-test-ads-2x-method
+    - aku-presupuesto-desde-objetivo-clientes-method
+    - aku-volumen-test-size-suficiente-claim
+    - aku-ads-eficiencia-vs-alcance-claim
+    - aku-size-of-pie-fallacy-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -48,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-paid-ads-concept]] · [[aku-ltgp-cac-3-a-1-claim]] · [[aku-presupuesto-test-ads-2x-method]]
+**related** ↔ [[aku-paid-ads-concept]] · [[aku-ltgp-cac-3-a-1-claim]] · [[aku-presupuesto-test-ads-2x-method]] · [[aku-presupuesto-desde-objetivo-clientes-method]] · [[aku-volumen-test-size-suficiente-claim]] · [[aku-ads-eficiencia-vs-alcance-claim]] · [[aku-size-of-pie-fallacy-claim]]

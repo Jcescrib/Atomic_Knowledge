@@ -35,6 +35,9 @@ relations:
   related:
     - aku-core-four-concept
     - aku-lead-concept
+    - aku-rule-of-100-claim
+    - aku-open-to-goal-claim
+    - aku-high-roi-habit-stack-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-core-four-concept]] · [[aku-lead-concept]]
+**related** ↔ [[aku-core-four-concept]] · [[aku-lead-concept]] · [[aku-rule-of-100-claim]] · [[aku-open-to-goal-claim]] · [[aku-high-roi-habit-stack-concept]]

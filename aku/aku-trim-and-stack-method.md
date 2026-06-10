@@ -33,6 +33,11 @@ relations:
   contradicts: []
   related:
     - aku-grand-slam-offer-concept
+    - aku-delivery-vehicles-concept
+    - aku-delivery-cube-concept
+    - aku-trim-and-stack-concept
+    - aku-high-value-low-cost-one-to-many-claim
+    - aku-sales-fulfillment-continuum-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -45,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-grand-slam-offer-concept]]
+**related** ↔ [[aku-grand-slam-offer-concept]] · [[aku-delivery-vehicles-concept]] · [[aku-delivery-cube-concept]] · [[aku-trim-and-stack-concept]] · [[aku-high-value-low-cost-one-to-many-claim]] · [[aku-sales-fulfillment-continuum-concept]]

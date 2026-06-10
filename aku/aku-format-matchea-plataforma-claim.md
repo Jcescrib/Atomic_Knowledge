@@ -33,6 +33,8 @@ relations:
   related:
     - aku-core-four-concept
     - aku-content-platform-concept
+    - aku-cinco-categorias-topics-concept
+    - aku-siete-componentes-headline-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-core-four-concept]] · [[aku-content-platform-concept]]
+**related** ↔ [[aku-core-four-concept]] · [[aku-content-platform-concept]] · [[aku-cinco-categorias-topics-concept]] · [[aku-siete-componentes-headline-concept]]

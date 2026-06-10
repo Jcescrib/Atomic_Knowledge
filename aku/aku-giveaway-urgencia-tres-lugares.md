@@ -33,6 +33,10 @@ relations:
   contradicts: []
   related:
     - aku-giveaway-offer-concept
+    - aku-giveaway-seis-pasos-method
+    - aku-giveaway-descuento-10-30-margen
+    - aku-giveaway-dos-premios-doblan-leads
+    - aku-giveaway-fallo-grand-prize
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -45,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-giveaway-offer-concept]]
+**related** ↔ [[aku-giveaway-offer-concept]] · [[aku-giveaway-seis-pasos-method]] · [[aku-giveaway-descuento-10-30-margen]] · [[aku-giveaway-dos-premios-doblan-leads]] · [[aku-giveaway-fallo-grand-prize]]

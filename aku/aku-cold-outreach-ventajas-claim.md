@@ -33,6 +33,14 @@ relations:
   contradicts: []
   related:
     - aku-cold-outreach-concept
+    - aku-cold-outreach-numbers-game-claim
+    - aku-cold-outreach-benchmarks-method
+    - aku-construir-lista-tres-vias-concept
+    - aku-cold-personalizar-como-warm-claim
+    - aku-big-fast-value-claim
+    - aku-volumen-cold-tres-palancas-concept
+    - aku-follow-up-volumen-claim
+    - aku-asignar-10-20-tech-nueva-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -45,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cold-outreach-concept]]
+**related** ↔ [[aku-cold-outreach-concept]] · [[aku-cold-outreach-numbers-game-claim]] · [[aku-cold-outreach-benchmarks-method]] · [[aku-construir-lista-tres-vias-concept]] · [[aku-cold-personalizar-como-warm-claim]] · [[aku-big-fast-value-claim]] · [[aku-volumen-cold-tres-palancas-concept]] · [[aku-follow-up-volumen-claim]] · [[aku-asignar-10-20-tech-nueva-claim]]

@@ -36,6 +36,10 @@ relations:
   related:
     - aku-value-equation-concept
     - aku-vender-de-nuevo-retiene-y-refiere-claim
+    - aku-goodwill-precio-valor-concept
+    - aku-un-solo-cliente-thought-experiment-claim
+    - aku-vender-mejores-clientes-mas-referidos-claim
+    - aku-bajar-expectativas-para-sobreentregar-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -50,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-goodwill-genera-referidos-concept]]
 
-**related** ↔ [[aku-value-equation-concept]] · [[aku-vender-de-nuevo-retiene-y-refiere-claim]]
+**related** ↔ [[aku-value-equation-concept]] · [[aku-vender-de-nuevo-retiene-y-refiere-claim]] · [[aku-goodwill-precio-valor-concept]] · [[aku-un-solo-cliente-thought-experiment-claim]] · [[aku-vender-mejores-clientes-mas-referidos-claim]] · [[aku-bajar-expectativas-para-sobreentregar-claim]]

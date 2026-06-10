@@ -40,6 +40,8 @@ relations:
   related:
     - aku-money-model-tres-etapas-concept
     - aku-sinergia-principios-se-combinan-concept
+    - aku-mezclar-ofertas-sin-reglas
+    - aku-cien-formas-de-vender-no-cien-productos
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -56,4 +58,4 @@ status_note: ""
 
 **supports** → [[aku-money-model-concept]]
 
-**related** ↔ [[aku-money-model-tres-etapas-concept]] · [[aku-sinergia-principios-se-combinan-concept]]
+**related** ↔ [[aku-money-model-tres-etapas-concept]] · [[aku-sinergia-principios-se-combinan-concept]] · [[aku-mezclar-ofertas-sin-reglas]] · [[aku-cien-formas-de-vender-no-cien-productos]]

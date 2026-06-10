@@ -35,6 +35,9 @@ relations:
     - aku-more-better-new-concept
     - aku-cuello-botella-funnel-concept
     - aku-cro-concept
+    - aku-orden-new-placements-platforms-activity-concept
+    - aku-un-test-por-semana-por-plataforma-claim
+    - aku-many-sided-die-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-more-better-new-concept]] · [[aku-cuello-botella-funnel-concept]] · [[aku-cro-concept]]
+**related** ↔ [[aku-more-better-new-concept]] · [[aku-cuello-botella-funnel-concept]] · [[aku-cro-concept]] · [[aku-orden-new-placements-platforms-activity-concept]] · [[aku-un-test-por-semana-por-plataforma-claim]] · [[aku-many-sided-die-claim]]

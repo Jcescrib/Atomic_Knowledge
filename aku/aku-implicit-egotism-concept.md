@@ -35,6 +35,8 @@ relations:
     - aku-magic-naming-concept
     - aku-ajustar-los-numerales-al-nombre-o-cumpleanos-egotismo-implicito-claim
     - aku-naming-metodologia-cinco-pasos-concept
+    - aku-riches-in-niches-pricing-claim
+    - aku-dolor-es-el-pitch-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-magic-naming-concept]] · [[aku-ajustar-los-numerales-al-nombre-o-cumpleanos-egotismo-implicito-claim]] · [[aku-naming-metodologia-cinco-pasos-concept]]
+**related** ↔ [[aku-magic-naming-concept]] · [[aku-ajustar-los-numerales-al-nombre-o-cumpleanos-egotismo-implicito-claim]] · [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-riches-in-niches-pricing-claim]] · [[aku-dolor-es-el-pitch-claim]]

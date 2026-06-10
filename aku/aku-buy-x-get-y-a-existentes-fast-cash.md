@@ -31,6 +31,10 @@ relations:
   contradicts: []
   related:
     - aku-buy-x-get-y-free-concept
+    - aku-buy-x-get-y-reframe-precio
+    - aku-mas-gratis-que-pagado
+    - aku-free-stuff-puede-ser-distinto
+    - aku-subir-precios-antes-de-regalar
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -43,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-buy-x-get-y-free-concept]]
+**related** ↔ [[aku-buy-x-get-y-free-concept]] · [[aku-buy-x-get-y-reframe-precio]] · [[aku-mas-gratis-que-pagado]] · [[aku-free-stuff-puede-ser-distinto]] · [[aku-subir-precios-antes-de-regalar]]

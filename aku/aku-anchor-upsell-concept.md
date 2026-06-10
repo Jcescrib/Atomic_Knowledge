@@ -32,7 +32,14 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-menu-upsell-concept
+    - aku-unselling-concept
+    - aku-prescription-upsell-concept
+    - aku-ab-upsell-concept
+    - aku-anchor-the-gasp
+    - aku-anchor-no-fake
+    - aku-anchor-features-primarias-iguales
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -46,3 +53,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-cuatro-upsells-concept]]
+
+**related** ↔ [[aku-menu-upsell-concept]] · [[aku-unselling-concept]] · [[aku-prescription-upsell-concept]] · [[aku-ab-upsell-concept]] · [[aku-anchor-the-gasp]] · [[aku-anchor-no-fake]] · [[aku-anchor-features-primarias-iguales]]

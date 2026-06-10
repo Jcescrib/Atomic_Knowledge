@@ -34,6 +34,9 @@ relations:
     - aku-margen-bruto-concept
     - aku-cltv-minus-cac-concept
     - aku-arpu-concept
+    - aku-tres-formas-crecer-concept
+    - aku-grow-or-die-claim
+    - aku-ltgp-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-margen-bruto-concept]] · [[aku-cltv-minus-cac-concept]] · [[aku-arpu-concept]]
+**related** ↔ [[aku-margen-bruto-concept]] · [[aku-cltv-minus-cac-concept]] · [[aku-arpu-concept]] · [[aku-tres-formas-crecer-concept]] · [[aku-grow-or-die-claim]] · [[aku-ltgp-concept]]

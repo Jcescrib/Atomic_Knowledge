@@ -33,6 +33,10 @@ relations:
   related:
     - aku-grand-slam-offer-concept
     - aku-lead-nurturing-concept
+    - aku-problemas-a-soluciones-concept
+    - aku-listar-problemas-cuatro-drivers-method
+    - aku-problema-a-solucion-method
+    - aku-solve-every-problem-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -45,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-grand-slam-offer-concept]] · [[aku-lead-nurturing-concept]]
+**related** ↔ [[aku-grand-slam-offer-concept]] · [[aku-lead-nurturing-concept]] · [[aku-problemas-a-soluciones-concept]] · [[aku-listar-problemas-cuatro-drivers-method]] · [[aku-problema-a-solucion-method]] · [[aku-solve-every-problem-claim]]

@@ -34,6 +34,10 @@ relations:
   contradicts: []
   related:
     - aku-empleados-lead-getters-concept
+    - aku-trade-40-horas-por-4-gestion-claim
+    - aku-document-demonstrate-duplicate-concept
+    - aku-entrenar-seguir-instrucciones-claim
+    - aku-negocio-sin-ti-es-activo-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-empleados-lead-getters-concept]]
+**related** ↔ [[aku-empleados-lead-getters-concept]] · [[aku-trade-40-horas-por-4-gestion-claim]] · [[aku-document-demonstrate-duplicate-concept]] · [[aku-entrenar-seguir-instrucciones-claim]] · [[aku-negocio-sin-ti-es-activo-claim]]

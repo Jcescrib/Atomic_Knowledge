@@ -32,7 +32,18 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-reversion-riesgo-numero-uno-claim
+    - aku-garantia-unconditional-concept
+    - aku-garantia-conditional-concept
+    - aku-garantia-condicional-acciones-claim
+    - aku-garantia-conditional-teeth-claim
+    - aku-implied-guarantee-performance-concept
+    - aku-garantia-tipo-segun-ticket-claim
+    - aku-garantia-matematica-claim
+    - aku-stacking-guarantees-claim
+    - aku-clientes-por-garantia-toxicos-claim
+    - aku-empezar-por-garantias-servicio-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -46,3 +57,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-garantia-reversion-riesgo-concept]]
+
+**related** ↔ [[aku-reversion-riesgo-numero-uno-claim]] · [[aku-garantia-unconditional-concept]] · [[aku-garantia-conditional-concept]] · [[aku-garantia-condicional-acciones-claim]] · [[aku-garantia-conditional-teeth-claim]] · [[aku-implied-guarantee-performance-concept]] · [[aku-garantia-tipo-segun-ticket-claim]] · [[aku-garantia-matematica-claim]] · [[aku-stacking-guarantees-claim]] · [[aku-clientes-por-garantia-toxicos-claim]] · [[aku-empezar-por-garantias-servicio-claim]]

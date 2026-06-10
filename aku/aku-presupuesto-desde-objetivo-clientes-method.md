@@ -32,6 +32,11 @@ relations:
   contradicts: []
   related:
     - aku-paid-ads-concept
+    - aku-tres-fases-escalar-ads-concept
+    - aku-presupuesto-test-ads-2x-method
+    - aku-volumen-test-size-suficiente-claim
+    - aku-ads-eficiencia-vs-alcance-claim
+    - aku-size-of-pie-fallacy-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -44,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-paid-ads-concept]]
+**related** ↔ [[aku-paid-ads-concept]] · [[aku-tres-fases-escalar-ads-concept]] · [[aku-presupuesto-test-ads-2x-method]] · [[aku-volumen-test-size-suficiente-claim]] · [[aku-ads-eficiencia-vs-alcance-claim]] · [[aku-size-of-pie-fallacy-claim]]

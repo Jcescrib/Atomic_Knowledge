@@ -37,6 +37,13 @@ relations:
     - aku-delivery-cube-concept
     - aku-problem-solution-cycle-concept
     - aku-lead-magnet-prueba-producto-concept
+    - aku-lead-magnet-hormozi-concept
+    - aku-lead-magnet-cuatro-funciones-claim
+    - aku-lead-magnet-siete-pasos-concept
+    - aku-lead-magnet-multiples-formatos-claim
+    - aku-lead-magnet-reduce-cac-claim
+    - aku-give-away-secrets-sell-implementation-claim
+    - aku-core-offer-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -51,4 +58,4 @@ status_note: ""
 
 **supported_by** ← [[aku-lead-magnet-concept]]
 
-**related** ↔ [[aku-delivery-cube-concept]] · [[aku-problem-solution-cycle-concept]] · [[aku-lead-magnet-prueba-producto-concept]]
+**related** ↔ [[aku-delivery-cube-concept]] · [[aku-problem-solution-cycle-concept]] · [[aku-lead-magnet-prueba-producto-concept]] · [[aku-lead-magnet-hormozi-concept]] · [[aku-lead-magnet-cuatro-funciones-claim]] · [[aku-lead-magnet-siete-pasos-concept]] · [[aku-lead-magnet-multiples-formatos-claim]] · [[aku-lead-magnet-reduce-cac-claim]] · [[aku-give-away-secrets-sell-implementation-claim]] · [[aku-core-offer-concept]]

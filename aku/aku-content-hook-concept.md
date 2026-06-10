@@ -38,6 +38,10 @@ relations:
     - aku-formulas-titulos-potentes-concept
     - aku-whisper-tease-shout-concept
     - aku-copy-incluir-titular-claim
+    - aku-hook-topic-headline-format-concept
+    - aku-content-retain-concept
+    - aku-content-reward-valor-por-segundo-claim
+    - aku-short-vs-long-content-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -52,4 +56,4 @@ status_note: ""
 
 **supports** → [[aku-content-unit-concept]]
 
-**related** ↔ [[aku-formulas-titulos-potentes-concept]] · [[aku-whisper-tease-shout-concept]] · [[aku-copy-incluir-titular-claim]]
+**related** ↔ [[aku-formulas-titulos-potentes-concept]] · [[aku-whisper-tease-shout-concept]] · [[aku-copy-incluir-titular-claim]] · [[aku-hook-topic-headline-format-concept]] · [[aku-content-retain-concept]] · [[aku-content-reward-valor-por-segundo-claim]] · [[aku-short-vs-long-content-claim]]

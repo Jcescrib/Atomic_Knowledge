@@ -33,6 +33,11 @@ relations:
   related:
     - aku-continuity-offer-concept
     - aku-habit-contract-y-accountability-partner-method
+    - aku-continuity-no-standalone
+    - aku-tres-continuity-offers-concept
+    - aku-continuity-pricing-standalone-ratio-method
+    - aku-attraction-a-continuity-con-renovacion
+    - aku-seguir-vendiendo-a-prepagados
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -45,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-continuity-offer-concept]] · [[aku-habit-contract-y-accountability-partner-method]]
+**related** ↔ [[aku-continuity-offer-concept]] · [[aku-habit-contract-y-accountability-partner-method]] · [[aku-continuity-no-standalone]] · [[aku-tres-continuity-offers-concept]] · [[aku-continuity-pricing-standalone-ratio-method]] · [[aku-attraction-a-continuity-con-renovacion]] · [[aku-seguir-vendiendo-a-prepagados]]

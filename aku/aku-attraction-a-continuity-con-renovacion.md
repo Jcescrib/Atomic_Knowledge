@@ -34,6 +34,11 @@ relations:
   related:
     - aku-continuity-offer-concept
     - aku-lifetime-concept
+    - aku-continuity-no-standalone
+    - aku-tres-continuity-offers-concept
+    - aku-continuity-rewards-mejor-que-castigo
+    - aku-continuity-pricing-standalone-ratio-method
+    - aku-seguir-vendiendo-a-prepagados
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -46,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-continuity-offer-concept]] · [[aku-lifetime-concept]]
+**related** ↔ [[aku-continuity-offer-concept]] · [[aku-lifetime-concept]] · [[aku-continuity-no-standalone]] · [[aku-tres-continuity-offers-concept]] · [[aku-continuity-rewards-mejor-que-castigo]] · [[aku-continuity-pricing-standalone-ratio-method]] · [[aku-seguir-vendiendo-a-prepagados]]

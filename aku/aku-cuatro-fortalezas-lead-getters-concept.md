@@ -34,6 +34,8 @@ relations:
   related:
     - aku-marketing-afiliados-concept
     - aku-lead-getters-apalancamiento-concept
+    - aku-leverage-leads-por-tiempo-concept
+    - aku-cuatro-requisitos-plataforma-ads-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-marketing-afiliados-concept]] · [[aku-lead-getters-apalancamiento-concept]]
+**related** ↔ [[aku-marketing-afiliados-concept]] · [[aku-lead-getters-apalancamiento-concept]] · [[aku-leverage-leads-por-tiempo-concept]] · [[aku-cuatro-requisitos-plataforma-ads-concept]]

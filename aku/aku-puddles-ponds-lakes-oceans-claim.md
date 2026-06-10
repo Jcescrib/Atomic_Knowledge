@@ -34,6 +34,11 @@ relations:
     - aku-core-four-concept
     - aku-size-of-pie-fallacy-claim
     - aku-agrupa-contenido-en-series-tematicas-claim
+    - aku-audiencia-activo-compuesto-claim
+    - aku-depth-then-width-vs-width-then-depth-concept
+    - aku-content-benchmarks-crecimiento-method
+    - aku-siete-lecciones-contenido-concept
+    - aku-how-to-vs-how-i-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-core-four-concept]] · [[aku-size-of-pie-fallacy-claim]] · [[aku-agrupa-contenido-en-series-tematicas-claim]]
+**related** ↔ [[aku-core-four-concept]] · [[aku-size-of-pie-fallacy-claim]] · [[aku-agrupa-contenido-en-series-tematicas-claim]] · [[aku-audiencia-activo-compuesto-claim]] · [[aku-depth-then-width-vs-width-then-depth-concept]] · [[aku-content-benchmarks-crecimiento-method]] · [[aku-siete-lecciones-contenido-concept]] · [[aku-how-to-vs-how-i-claim]]

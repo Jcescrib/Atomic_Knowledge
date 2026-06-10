@@ -35,6 +35,10 @@ relations:
   related:
     - aku-starving-crowd-concept
     - aku-grand-slam-offer-concept
+    - aku-cuatro-indicadores-mercado-concept
+    - aku-tres-mercados-eternos-concept
+    - aku-commit-to-niche-claim
+    - aku-marketing-local-doble-filo-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -47,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-starving-crowd-concept]] · [[aku-grand-slam-offer-concept]]
+**related** ↔ [[aku-starving-crowd-concept]] · [[aku-grand-slam-offer-concept]] · [[aku-cuatro-indicadores-mercado-concept]] · [[aku-tres-mercados-eternos-concept]] · [[aku-commit-to-niche-claim]] · [[aku-marketing-local-doble-filo-claim]]

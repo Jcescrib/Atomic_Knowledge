@@ -35,6 +35,17 @@ relations:
     - aku-garantia-reversion-riesgo-concept
     - aku-palabras-frases-persuasivas-concept
     - aku-proceso-cro-method
+    - aku-garantia-unconditional-concept
+    - aku-garantia-conditional-concept
+    - aku-garantia-condicional-acciones-claim
+    - aku-garantia-conditional-teeth-claim
+    - aku-implied-guarantee-performance-concept
+    - aku-anti-guarantee-concept
+    - aku-garantia-tipo-segun-ticket-claim
+    - aku-garantia-matematica-claim
+    - aku-stacking-guarantees-claim
+    - aku-clientes-por-garantia-toxicos-claim
+    - aku-empezar-por-garantias-servicio-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -47,4 +58,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-garantia-reversion-riesgo-concept]] · [[aku-palabras-frases-persuasivas-concept]] · [[aku-proceso-cro-method]]
+**related** ↔ [[aku-garantia-reversion-riesgo-concept]] · [[aku-palabras-frases-persuasivas-concept]] · [[aku-proceso-cro-method]] · [[aku-garantia-unconditional-concept]] · [[aku-garantia-conditional-concept]] · [[aku-garantia-condicional-acciones-claim]] · [[aku-garantia-conditional-teeth-claim]] · [[aku-implied-guarantee-performance-concept]] · [[aku-anti-guarantee-concept]] · [[aku-garantia-tipo-segun-ticket-claim]] · [[aku-garantia-matematica-claim]] · [[aku-stacking-guarantees-claim]] · [[aku-clientes-por-garantia-toxicos-claim]] · [[aku-empezar-por-garantias-servicio-claim]]

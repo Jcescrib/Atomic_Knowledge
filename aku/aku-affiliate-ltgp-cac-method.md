@@ -33,6 +33,9 @@ relations:
   related:
     - aku-cltv-concept
     - aku-cltv-minus-cac-concept
+    - aku-payout-afiliados-tiers-concept
+    - aku-payout-medio-menor-que-cac-maximo-claim
+    - aku-pagar-afiliados-forever-no-cap-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -45,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cltv-concept]] · [[aku-cltv-minus-cac-concept]]
+**related** ↔ [[aku-cltv-concept]] · [[aku-cltv-minus-cac-concept]] · [[aku-payout-afiliados-tiers-concept]] · [[aku-payout-medio-menor-que-cac-maximo-claim]] · [[aku-pagar-afiliados-forever-no-cap-claim]]

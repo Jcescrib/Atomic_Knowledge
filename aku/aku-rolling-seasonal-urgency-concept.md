@@ -33,6 +33,9 @@ relations:
   contradicts: []
   related:
     - aku-urgencia-concept
+    - aku-cohort-based-rolling-urgency-concept
+    - aku-pricing-bonus-based-urgency-concept
+    - aku-deadlines-drive-decisions-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -45,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-urgencia-concept]]
+**related** ↔ [[aku-urgencia-concept]] · [[aku-cohort-based-rolling-urgency-concept]] · [[aku-pricing-bonus-based-urgency-concept]] · [[aku-deadlines-drive-decisions-claim]]

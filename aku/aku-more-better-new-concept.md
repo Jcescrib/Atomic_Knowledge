@@ -39,6 +39,7 @@ relations:
     - aku-size-of-pie-fallacy-claim
     - aku-un-test-por-semana-por-plataforma-claim
     - aku-orden-new-placements-platforms-activity-concept
+    - aku-many-sided-die-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-core-four-concept]] · [[aku-rule-of-100-claim]] · [[aku-constraint-mayor-drop-off-claim]] · [[aku-size-of-pie-fallacy-claim]] · [[aku-un-test-por-semana-por-plataforma-claim]] · [[aku-orden-new-placements-platforms-activity-concept]]
+**related** ↔ [[aku-core-four-concept]] · [[aku-rule-of-100-claim]] · [[aku-constraint-mayor-drop-off-claim]] · [[aku-size-of-pie-fallacy-claim]] · [[aku-un-test-por-semana-por-plataforma-claim]] · [[aku-orden-new-placements-platforms-activity-concept]] · [[aku-many-sided-die-claim]]

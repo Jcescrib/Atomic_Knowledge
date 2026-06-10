@@ -36,6 +36,9 @@ relations:
     - aku-empleados-lead-getters-concept
     - aku-cac-concept
     - aku-sueldos-y-salarios-concept
+    - aku-ltgp-cac-3-a-1-claim
+    - aku-client-financed-acquisition-concept
+    - aku-cac-similar-entre-competidores-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -48,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-empleados-lead-getters-concept]] · [[aku-cac-concept]] · [[aku-sueldos-y-salarios-concept]]
+**related** ↔ [[aku-empleados-lead-getters-concept]] · [[aku-cac-concept]] · [[aku-sueldos-y-salarios-concept]] · [[aku-ltgp-cac-3-a-1-claim]] · [[aku-client-financed-acquisition-concept]] · [[aku-cac-similar-entre-competidores-claim]]

@@ -36,6 +36,9 @@ relations:
     - aku-arpu-concept
     - aku-flujos-de-ingresos-concept
     - aku-margen-bruto-concept
+    - aku-tres-formas-crecer-concept
+    - aku-grow-or-die-claim
+    - aku-gross-profit-additional-customer-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -48,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cltv-concept]] · [[aku-arpu-concept]] · [[aku-flujos-de-ingresos-concept]] · [[aku-margen-bruto-concept]]
+**related** ↔ [[aku-cltv-concept]] · [[aku-arpu-concept]] · [[aku-flujos-de-ingresos-concept]] · [[aku-margen-bruto-concept]] · [[aku-tres-formas-crecer-concept]] · [[aku-grow-or-die-claim]] · [[aku-gross-profit-additional-customer-concept]]

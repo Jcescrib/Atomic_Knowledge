@@ -34,6 +34,10 @@ relations:
   related:
     - aku-value-equation-concept
     - aku-high-value-low-cost-one-to-many-claim
+    - aku-delivery-vehicles-concept
+    - aku-delivery-cube-concept
+    - aku-trim-and-stack-method
+    - aku-sales-fulfillment-continuum-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -46,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-value-equation-concept]] · [[aku-high-value-low-cost-one-to-many-claim]]
+**related** ↔ [[aku-value-equation-concept]] · [[aku-high-value-low-cost-one-to-many-claim]] · [[aku-delivery-vehicles-concept]] · [[aku-delivery-cube-concept]] · [[aku-trim-and-stack-method]] · [[aku-sales-fulfillment-continuum-concept]]

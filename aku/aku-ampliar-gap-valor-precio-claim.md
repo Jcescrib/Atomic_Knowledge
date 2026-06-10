@@ -42,6 +42,12 @@ relations:
     - aku-price-to-value-discrepancy-concept
     - aku-innovacion-valor-via-eric-claim
     - aku-innovacion-valor-concept
+    - aku-compra-value-vs-price-driven-concept
+    - aku-precio-alto-aumenta-valor-percibido-claim
+    - aku-clientes-invertidos-mejores-resultados-claim
+    - aku-cobrar-premium-decision-moral-claim
+    - aku-profit-is-oxygen-claim
+    - aku-quien-necesita-menos-tiene-ventaja-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -54,4 +60,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-ecuacion-valor-claim]] · [[aku-reducir-costes-no-precio-claim]] · [[aku-virtuous-cycle-of-price-claim]] · [[aku-bonuses-stack-concept]] · [[aku-goodwill-genera-referidos-concept]] · [[aku-no-bajar-precio-mismo-producto-claim]] · [[aku-price-to-value-discrepancy-concept]] · [[aku-innovacion-valor-via-eric-claim]] · [[aku-innovacion-valor-concept]]
+**related** ↔ [[aku-ecuacion-valor-claim]] · [[aku-reducir-costes-no-precio-claim]] · [[aku-virtuous-cycle-of-price-claim]] · [[aku-bonuses-stack-concept]] · [[aku-goodwill-genera-referidos-concept]] · [[aku-no-bajar-precio-mismo-producto-claim]] · [[aku-price-to-value-discrepancy-concept]] · [[aku-innovacion-valor-via-eric-claim]] · [[aku-innovacion-valor-concept]] · [[aku-compra-value-vs-price-driven-concept]] · [[aku-precio-alto-aumenta-valor-percibido-claim]] · [[aku-clientes-invertidos-mejores-resultados-claim]] · [[aku-cobrar-premium-decision-moral-claim]] · [[aku-profit-is-oxygen-claim]] · [[aku-quien-necesita-menos-tiene-ventaja-claim]]

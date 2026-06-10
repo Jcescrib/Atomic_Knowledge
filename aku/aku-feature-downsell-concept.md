@@ -32,7 +32,11 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-feature-downsell-quitar-de-mayor-a-menor-valor
+    - aku-feature-downsell-clientes-actuales
+    - aku-feature-downsell-guarantees
+    - aku-free-orientation-dfy-a-diy
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -46,3 +50,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-tres-downsells-concept]]
+
+**related** ↔ [[aku-feature-downsell-quitar-de-mayor-a-menor-valor]] · [[aku-feature-downsell-clientes-actuales]] · [[aku-feature-downsell-guarantees]] · [[aku-free-orientation-dfy-a-diy]]

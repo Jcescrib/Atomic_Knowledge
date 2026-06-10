@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-usar-agencias-para-aprender-claim
+    - aku-agencia-concept
+    - aku-diez-criterios-buena-agencia-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-usar-agencias-para-aprender-claim]]
+**related** ↔ [[aku-usar-agencias-para-aprender-claim]] · [[aku-agencia-concept]] · [[aku-diez-criterios-buena-agencia-concept]]

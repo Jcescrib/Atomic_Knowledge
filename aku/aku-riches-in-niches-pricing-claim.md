@@ -36,6 +36,8 @@ relations:
     - aku-commit-to-niche-claim
     - aku-segmentado-strategy-concept
     - aku-mass-market-strategy-concept
+    - aku-implicit-egotism-concept
+    - aku-dolor-es-el-pitch-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-nicho-strategy-concept]] · [[aku-cuatro-indicadores-mercado-concept]] · [[aku-commit-to-niche-claim]] · [[aku-segmentado-strategy-concept]] · [[aku-mass-market-strategy-concept]]
+**related** ↔ [[aku-nicho-strategy-concept]] · [[aku-cuatro-indicadores-mercado-concept]] · [[aku-commit-to-niche-claim]] · [[aku-segmentado-strategy-concept]] · [[aku-mass-market-strategy-concept]] · [[aku-implicit-egotism-concept]] · [[aku-dolor-es-el-pitch-claim]]

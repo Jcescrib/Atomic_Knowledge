@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-deseo-viene-de-no-tener-claim
+    - aku-demanda-fractal-8020-claim
+    - aku-exploding-opportunity-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-deseo-viene-de-no-tener-claim]]
+**related** ↔ [[aku-deseo-viene-de-no-tener-claim]] · [[aku-demanda-fractal-8020-claim]] · [[aku-exploding-opportunity-concept]]

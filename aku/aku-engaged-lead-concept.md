@@ -34,6 +34,10 @@ relations:
   related:
     - aku-lead-concept
     - aku-estados-lead-funnel-concept
+    - aku-advertising-making-known-concept
+    - aku-lead-contactable-hormozi-concept
+    - aku-engaged-leads-son-el-objetivo-claim
+    - aku-doblar-leads-dobla-negocio-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-lead-concept]] · [[aku-estados-lead-funnel-concept]]
+**related** ↔ [[aku-lead-concept]] · [[aku-estados-lead-funnel-concept]] · [[aku-advertising-making-known-concept]] · [[aku-lead-contactable-hormozi-concept]] · [[aku-engaged-leads-son-el-objetivo-claim]] · [[aku-doblar-leads-dobla-negocio-claim]]

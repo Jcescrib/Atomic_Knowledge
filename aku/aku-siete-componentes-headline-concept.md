@@ -32,6 +32,8 @@ relations:
   related:
     - aku-core-four-concept
     - aku-formulas-titulos-potentes-concept
+    - aku-cinco-categorias-topics-concept
+    - aku-format-matchea-plataforma-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -44,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-core-four-concept]] · [[aku-formulas-titulos-potentes-concept]]
+**related** ↔ [[aku-core-four-concept]] · [[aku-formulas-titulos-potentes-concept]] · [[aku-cinco-categorias-topics-concept]] · [[aku-format-matchea-plataforma-claim]]

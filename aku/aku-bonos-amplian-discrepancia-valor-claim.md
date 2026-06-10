@@ -32,6 +32,11 @@ relations:
   contradicts: []
   related:
     - aku-bonuses-stack-concept
+    - aku-bonos-eclipsan-core-claim
+    - aku-bonos-escasez-urgencia-claim
+    - aku-bonus-presentation-checklist-concept
+    - aku-bonus-vs-core-wow-factor-claim
+    - aku-pedir-de-nuevo-con-bono-reciprocidad-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -44,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-bonuses-stack-concept]]
+**related** ↔ [[aku-bonuses-stack-concept]] · [[aku-bonos-eclipsan-core-claim]] · [[aku-bonos-escasez-urgencia-claim]] · [[aku-bonus-presentation-checklist-concept]] · [[aku-bonus-vs-core-wow-factor-claim]] · [[aku-pedir-de-nuevo-con-bono-reciprocidad-claim]]

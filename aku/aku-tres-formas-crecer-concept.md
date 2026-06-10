@@ -34,6 +34,9 @@ relations:
     - aku-grand-slam-offer-concept
     - aku-arpu-concept
     - aku-fidelizacion-retencion-eleva-cltv-claim
+    - aku-grow-or-die-claim
+    - aku-gross-profit-additional-customer-concept
+    - aku-ltgp-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-grand-slam-offer-concept]] · [[aku-arpu-concept]] · [[aku-fidelizacion-retencion-eleva-cltv-claim]]
+**related** ↔ [[aku-grand-slam-offer-concept]] · [[aku-arpu-concept]] · [[aku-fidelizacion-retencion-eleva-cltv-claim]] · [[aku-grow-or-die-claim]] · [[aku-gross-profit-additional-customer-concept]] · [[aku-ltgp-concept]]

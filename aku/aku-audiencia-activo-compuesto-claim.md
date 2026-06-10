@@ -37,6 +37,11 @@ relations:
     - aku-content-unit-concept
     - aku-give-ask-ratio-claim
     - aku-regularidad-importa-mas-que-frecuencia-claim
+    - aku-depth-then-width-vs-width-then-depth-concept
+    - aku-puddles-ponds-lakes-oceans-claim
+    - aku-content-benchmarks-crecimiento-method
+    - aku-siete-lecciones-contenido-concept
+    - aku-how-to-vs-how-i-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -49,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-content-marketing-concept]] · [[aku-core-four-concept]] · [[aku-content-unit-concept]] · [[aku-give-ask-ratio-claim]] · [[aku-regularidad-importa-mas-que-frecuencia-claim]]
+**related** ↔ [[aku-content-marketing-concept]] · [[aku-core-four-concept]] · [[aku-content-unit-concept]] · [[aku-give-ask-ratio-claim]] · [[aku-regularidad-importa-mas-que-frecuencia-claim]] · [[aku-depth-then-width-vs-width-then-depth-concept]] · [[aku-puddles-ponds-lakes-oceans-claim]] · [[aku-content-benchmarks-crecimiento-method]] · [[aku-siete-lecciones-contenido-concept]] · [[aku-how-to-vs-how-i-claim]]

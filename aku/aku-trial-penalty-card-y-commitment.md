@@ -34,6 +34,10 @@ relations:
   related:
     - aku-downsell-offer-concept
     - aku-leyes-persuasion-cialdini-concept
+    - aku-trial-with-penalty-concept
+    - aku-trial-penalty-explicar-fees-tras-tarjeta
+    - aku-trial-penalty-upsell-tres-escenarios
+    - aku-llamar-trial-with-penalty-just-trial
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -46,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-downsell-offer-concept]] · [[aku-leyes-persuasion-cialdini-concept]]
+**related** ↔ [[aku-downsell-offer-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-trial-with-penalty-concept]] · [[aku-trial-penalty-explicar-fees-tras-tarjeta]] · [[aku-trial-penalty-upsell-tres-escenarios]] · [[aku-llamar-trial-with-penalty-just-trial]]

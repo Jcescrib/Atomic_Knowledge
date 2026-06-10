@@ -33,6 +33,10 @@ relations:
   contradicts: []
   related:
     - aku-referral-growth-exponential-claim
+    - aku-pedir-referidos-como-oferta-claim
+    - aku-siete-formas-pedir-referidos-concept
+    - aku-referir-es-riesgo-de-goodwill-claim
+    - aku-falta-referidos-producto-flojo-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -45,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-referral-growth-exponential-claim]]
+**related** ↔ [[aku-referral-growth-exponential-claim]] · [[aku-pedir-referidos-como-oferta-claim]] · [[aku-siete-formas-pedir-referidos-concept]] · [[aku-referir-es-riesgo-de-goodwill-claim]] · [[aku-falta-referidos-producto-flojo-claim]]

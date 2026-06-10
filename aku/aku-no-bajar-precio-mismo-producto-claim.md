@@ -35,6 +35,8 @@ relations:
   related:
     - aku-downsell-offer-concept
     - aku-ampliar-gap-valor-precio-claim
+    - aku-nunca-negociar-precio
+    - aku-barter-descuento-por-publicidad
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-downsell-offer-concept]] · [[aku-ampliar-gap-valor-precio-claim]]
+**related** ↔ [[aku-downsell-offer-concept]] · [[aku-ampliar-gap-valor-precio-claim]] · [[aku-nunca-negociar-precio]] · [[aku-barter-descuento-por-publicidad]]

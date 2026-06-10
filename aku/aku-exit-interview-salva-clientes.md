@@ -33,6 +33,7 @@ relations:
   contradicts: []
   related:
     - aku-continuity-offer-concept
+    - aku-facilitar-cancelacion
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-continuity-offer-concept]]
+**related** ↔ [[aku-continuity-offer-concept]] · [[aku-facilitar-cancelacion]]

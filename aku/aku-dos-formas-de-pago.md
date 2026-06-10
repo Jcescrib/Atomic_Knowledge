@@ -32,6 +32,11 @@ relations:
   contradicts: []
   related:
     - aku-continuity-offer-concept
+    - aku-billing-cada-cuatro-semanas
+    - aku-billing-cadence-reduce-churn
+    - aku-alinear-cobros-con-nominas
+    - aku-processing-fee-3pct
+    - aku-card-on-file-concept
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -44,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-continuity-offer-concept]]
+**related** ↔ [[aku-continuity-offer-concept]] · [[aku-billing-cada-cuatro-semanas]] · [[aku-billing-cadence-reduce-churn]] · [[aku-alinear-cobros-con-nominas]] · [[aku-processing-fee-3pct]] · [[aku-card-on-file-concept]]

@@ -38,6 +38,8 @@ relations:
   contradicts: []
   related:
     - aku-pay-less-now-or-more-later-concept
+    - aku-no-significa-este-no-todos
+    - aku-hard-selling-producto-debil
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -52,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-downsell-offer-concept]] · [[aku-payment-plan-downsell-concept]] · [[aku-trial-with-penalty-concept]] · [[aku-feature-downsell-concept]]
 
-**related** ↔ [[aku-pay-less-now-or-more-later-concept]]
+**related** ↔ [[aku-pay-less-now-or-more-later-concept]] · [[aku-no-significa-este-no-todos]] · [[aku-hard-selling-producto-debil]]

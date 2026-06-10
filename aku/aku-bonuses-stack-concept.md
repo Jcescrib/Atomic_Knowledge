@@ -46,6 +46,7 @@ relations:
     - aku-bonos-escasez-urgencia-claim
     - aku-bonos-terceros-revenue-streams-claim
     - aku-bonus-vs-core-wow-factor-claim
+    - aku-pedir-de-nuevo-con-bono-reciprocidad-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -58,4 +59,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cialdini-reciprocidad-concept]] · [[aku-ampliar-gap-valor-precio-claim]] · [[aku-bonos-de-terceros-claim]] · [[aku-cuatro-upsells-concept]] · [[aku-tres-continuity-offers-concept]] · [[aku-pricing-bonus-based-urgency-concept]] · [[aku-bonos-amplian-discrepancia-valor-claim]] · [[aku-bonus-presentation-checklist-concept]] · [[aku-bonos-eclipsan-core-claim]] · [[aku-bonos-escasez-urgencia-claim]] · [[aku-bonos-terceros-revenue-streams-claim]] · [[aku-bonus-vs-core-wow-factor-claim]]
+**related** ↔ [[aku-cialdini-reciprocidad-concept]] · [[aku-ampliar-gap-valor-precio-claim]] · [[aku-bonos-de-terceros-claim]] · [[aku-cuatro-upsells-concept]] · [[aku-tres-continuity-offers-concept]] · [[aku-pricing-bonus-based-urgency-concept]] · [[aku-bonos-amplian-discrepancia-valor-claim]] · [[aku-bonus-presentation-checklist-concept]] · [[aku-bonos-eclipsan-core-claim]] · [[aku-bonos-escasez-urgencia-claim]] · [[aku-bonos-terceros-revenue-streams-claim]] · [[aku-bonus-vs-core-wow-factor-claim]] · [[aku-pedir-de-nuevo-con-bono-reciprocidad-claim]]

@@ -33,6 +33,11 @@ relations:
   related:
     - aku-core-four-concept
     - aku-sin-propiedad-tus-inputs-estan-atados-a-tus-outputs-claim
+    - aku-audiencia-activo-compuesto-claim
+    - aku-depth-then-width-vs-width-then-depth-concept
+    - aku-puddles-ponds-lakes-oceans-claim
+    - aku-siete-lecciones-contenido-concept
+    - aku-how-to-vs-how-i-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -45,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-core-four-concept]] · [[aku-sin-propiedad-tus-inputs-estan-atados-a-tus-outputs-claim]]
+**related** ↔ [[aku-core-four-concept]] · [[aku-sin-propiedad-tus-inputs-estan-atados-a-tus-outputs-claim]] · [[aku-audiencia-activo-compuesto-claim]] · [[aku-depth-then-width-vs-width-then-depth-concept]] · [[aku-puddles-ponds-lakes-oceans-claim]] · [[aku-siete-lecciones-contenido-concept]] · [[aku-how-to-vs-how-i-claim]]

@@ -32,7 +32,11 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-anunciar-bono-no-membership
+    - aku-commitment-a-cambio-de-bono
+    - aku-bonos-fisicos-digital-y-viceversa
+    - aku-titulos-como-bono
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -46,3 +50,5 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-tres-continuity-offers-concept]]
+
+**related** ↔ [[aku-anunciar-bono-no-membership]] · [[aku-commitment-a-cambio-de-bono]] · [[aku-bonos-fisicos-digital-y-viceversa]] · [[aku-titulos-como-bono]]

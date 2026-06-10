@@ -37,6 +37,12 @@ relations:
     - aku-status-posicion-en-jerarquia-social-concept
     - aku-wealth-activos-que-ganan-mientras-duermes-concept
     - aku-status-pivot-concept
+    - aku-value-equation-concept
+    - aku-perceived-likelihood-achievement-concept
+    - aku-time-delay-value-concept
+    - aku-effort-sacrifice-concept
+    - aku-focus-bottom-value-equation-claim
+    - aku-perception-is-reality-value-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -49,4 +55,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-dream-outcome-concept]] · [[aku-what-who-when-framework-concept]] · [[aku-vete-a-beneficios-ultimos-claim]] · [[aku-status-posicion-en-jerarquia-social-concept]] · [[aku-wealth-activos-que-ganan-mientras-duermes-concept]] · [[aku-status-pivot-concept]]
+**related** ↔ [[aku-dream-outcome-concept]] · [[aku-what-who-when-framework-concept]] · [[aku-vete-a-beneficios-ultimos-claim]] · [[aku-status-posicion-en-jerarquia-social-concept]] · [[aku-wealth-activos-que-ganan-mientras-duermes-concept]] · [[aku-status-pivot-concept]] · [[aku-value-equation-concept]] · [[aku-perceived-likelihood-achievement-concept]] · [[aku-time-delay-value-concept]] · [[aku-effort-sacrifice-concept]] · [[aku-focus-bottom-value-equation-claim]] · [[aku-perception-is-reality-value-claim]]

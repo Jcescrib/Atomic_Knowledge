@@ -40,6 +40,8 @@ relations:
     - aku-money-model-tres-etapas-concept
     - aku-motor-crecimiento-pago-concept
     - aku-motor-crecimiento-concept
+    - aku-cac-similar-entre-competidores-claim
+    - aku-coste-por-engaged-lead-payroll-method
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -52,6 +54,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cac-payback-concept]] · [[aku-ltgp-cac-3-a-1-claim]] · [[aku-money-model-concept]] · [[aku-money-model-tres-etapas-concept]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-motor-crecimiento-concept]]
+**related** ↔ [[aku-cac-payback-concept]] · [[aku-ltgp-cac-3-a-1-claim]] · [[aku-money-model-concept]] · [[aku-money-model-tres-etapas-concept]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-motor-crecimiento-concept]] · [[aku-cac-similar-entre-competidores-claim]] · [[aku-coste-por-engaged-lead-payroll-method]]
 
 **supports** → [[aku-cac-payback-financia-crecimiento-claim]]

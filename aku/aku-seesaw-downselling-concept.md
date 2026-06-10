@@ -34,6 +34,12 @@ relations:
   related:
     - aku-downsell-offer-concept
     - aku-cobrar-antes-de-que-el-cliente-consuma-claim
+    - aku-payment-plan-downsell-concept
+    - aku-payment-plan-siete-pasos-method
+    - aku-payment-plan-builtin-upsell
+    - aku-payment-plan-no-canibalizar-paid-in-full
+    - aku-alternar-payment-y-feature-downsell
+    - aku-tarjeta-credito-reframe-decides-tu
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -46,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-downsell-offer-concept]] · [[aku-cobrar-antes-de-que-el-cliente-consuma-claim]]
+**related** ↔ [[aku-downsell-offer-concept]] · [[aku-cobrar-antes-de-que-el-cliente-consuma-claim]] · [[aku-payment-plan-downsell-concept]] · [[aku-payment-plan-siete-pasos-method]] · [[aku-payment-plan-builtin-upsell]] · [[aku-payment-plan-no-canibalizar-paid-in-full]] · [[aku-alternar-payment-y-feature-downsell]] · [[aku-tarjeta-credito-reframe-decides-tu]]

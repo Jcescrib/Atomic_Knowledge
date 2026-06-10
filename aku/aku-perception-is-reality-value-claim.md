@@ -35,6 +35,12 @@ relations:
     - aku-value-equation-concept
     - aku-methods-step1-moldear-la-percepcion-concept
     - aku-ux-understanding-comunicar-con-claridad-concept
+    - aku-dream-outcome-concept
+    - aku-perceived-likelihood-achievement-concept
+    - aku-time-delay-value-concept
+    - aku-effort-sacrifice-concept
+    - aku-focus-bottom-value-equation-claim
+    - aku-status-driver-compra-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -47,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-value-equation-concept]] · [[aku-methods-step1-moldear-la-percepcion-concept]] · [[aku-ux-understanding-comunicar-con-claridad-concept]]
+**related** ↔ [[aku-value-equation-concept]] · [[aku-methods-step1-moldear-la-percepcion-concept]] · [[aku-ux-understanding-comunicar-con-claridad-concept]] · [[aku-dream-outcome-concept]] · [[aku-perceived-likelihood-achievement-concept]] · [[aku-time-delay-value-concept]] · [[aku-effort-sacrifice-concept]] · [[aku-focus-bottom-value-equation-claim]] · [[aku-status-driver-compra-claim]]

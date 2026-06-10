@@ -35,6 +35,8 @@ relations:
     - aku-more-better-new-concept
     - aku-open-to-goal-claim
     - aku-volumen-test-size-suficiente-claim
+    - aku-one-page-advertising-checklist-concept
+    - aku-high-roi-habit-stack-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-more-better-new-concept]] · [[aku-open-to-goal-claim]] · [[aku-volumen-test-size-suficiente-claim]]
+**related** ↔ [[aku-more-better-new-concept]] · [[aku-open-to-goal-claim]] · [[aku-volumen-test-size-suficiente-claim]] · [[aku-one-page-advertising-checklist-concept]] · [[aku-high-roi-habit-stack-concept]]

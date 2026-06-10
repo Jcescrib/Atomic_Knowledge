@@ -34,6 +34,7 @@ relations:
   related:
     - aku-core-four-concept
     - aku-give-ask-ratio-claim
+    - aku-integrated-vs-intermittent-offers-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-core-four-concept]] · [[aku-give-ask-ratio-claim]]
+**related** ↔ [[aku-core-four-concept]] · [[aku-give-ask-ratio-claim]] · [[aku-integrated-vs-intermittent-offers-concept]]

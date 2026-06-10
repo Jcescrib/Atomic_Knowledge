@@ -33,6 +33,9 @@ relations:
   related:
     - aku-referral-growth-exponential-claim
     - aku-seis-formas-mas-valor-referidos-concept
+    - aku-mejora-continua-producto-seis-pasos-concept
+    - aku-replicar-acciones-mejores-clientes-concept
+    - aku-wins-rapidos-frecuentes-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -45,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-referral-growth-exponential-claim]] · [[aku-seis-formas-mas-valor-referidos-concept]]
+**related** ↔ [[aku-referral-growth-exponential-claim]] · [[aku-seis-formas-mas-valor-referidos-concept]] · [[aku-mejora-continua-producto-seis-pasos-concept]] · [[aku-replicar-acciones-mejores-clientes-concept]] · [[aku-wins-rapidos-frecuentes-concept]]

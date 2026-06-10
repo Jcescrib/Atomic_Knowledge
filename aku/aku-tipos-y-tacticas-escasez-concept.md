@@ -48,6 +48,7 @@ relations:
     - aku-crear-percepcion-de-demanda-y-exclusividad-enciende-la-demanda-real-claim
     - aku-leyes-persuasion-cialdini-concept
     - aku-palabras-frases-persuasivas-concept
+    - aku-cuando-sube-demanda-corta-oferta-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -62,4 +63,4 @@ status_note: ""
 
 **supported_by** ← [[aku-cialdini-escasez-concept]] · [[aku-fear-of-loss-claim]]
 
-**related** ↔ [[aku-vender-menos-aumenta-demanda-claim]] · [[aku-urgencia-concept]] · [[aku-scarcity-limited-seats-concept]] · [[aku-scarcity-limited-bonuses-concept]] · [[aku-scarcity-never-available-again-concept]] · [[aku-total-business-cap-concept]] · [[aku-growth-rate-cap-concept]] · [[aku-cohort-cap-concept]] · [[aku-honest-scarcity-claim]] · [[aku-extreme-scarcity-1on1-claim]] · [[aku-crear-percepcion-de-demanda-y-exclusividad-enciende-la-demanda-real-claim]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-palabras-frases-persuasivas-concept]]
+**related** ↔ [[aku-vender-menos-aumenta-demanda-claim]] · [[aku-urgencia-concept]] · [[aku-scarcity-limited-seats-concept]] · [[aku-scarcity-limited-bonuses-concept]] · [[aku-scarcity-never-available-again-concept]] · [[aku-total-business-cap-concept]] · [[aku-growth-rate-cap-concept]] · [[aku-cohort-cap-concept]] · [[aku-honest-scarcity-claim]] · [[aku-extreme-scarcity-1on1-claim]] · [[aku-crear-percepcion-de-demanda-y-exclusividad-enciende-la-demanda-real-claim]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-palabras-frases-persuasivas-concept]] · [[aku-cuando-sube-demanda-corta-oferta-claim]]

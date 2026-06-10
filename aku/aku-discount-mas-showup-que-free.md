@@ -31,6 +31,7 @@ relations:
   contradicts: []
   related:
     - aku-attraction-offer-concept
+    - aku-mas-y-mejor-gratis-vende
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -43,4 +44,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-attraction-offer-concept]]
+**related** ↔ [[aku-attraction-offer-concept]] · [[aku-mas-y-mejor-gratis-vende]]

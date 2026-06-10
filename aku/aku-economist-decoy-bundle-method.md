@@ -34,6 +34,9 @@ relations:
     - aku-decoy-offer-concept
     - aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim
     - aku-sacrificio-real-vs-decoy-concept
+    - aku-decoy-permiso-para-vender-premium
+    - aku-decoy-surprise-benefit
+    - aku-decoy-pricing-tres-opciones-method
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-decoy-offer-concept]] · [[aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim]] · [[aku-sacrificio-real-vs-decoy-concept]]
+**related** ↔ [[aku-decoy-offer-concept]] · [[aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim]] · [[aku-sacrificio-real-vs-decoy-concept]] · [[aku-decoy-permiso-para-vender-premium]] · [[aku-decoy-surprise-benefit]] · [[aku-decoy-pricing-tres-opciones-method]]

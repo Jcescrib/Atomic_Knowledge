@@ -35,6 +35,10 @@ relations:
     - aku-continuity-offer-concept
     - aku-lifetime-concept
     - aku-motor-crecimiento-sticky-concept
+    - aku-continuity-discount-concept
+    - aku-bulk-prepaid-upsell-continuity
+    - aku-extender-termino-no-comer
+    - aku-reward-prepago-no-penalizar-interes
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -47,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-continuity-offer-concept]] · [[aku-lifetime-concept]] · [[aku-motor-crecimiento-sticky-concept]]
+**related** ↔ [[aku-continuity-offer-concept]] · [[aku-lifetime-concept]] · [[aku-motor-crecimiento-sticky-concept]] · [[aku-continuity-discount-concept]] · [[aku-bulk-prepaid-upsell-continuity]] · [[aku-extender-termino-no-comer]] · [[aku-reward-prepago-no-penalizar-interes]]

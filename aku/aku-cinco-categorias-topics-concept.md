@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-core-four-concept
+    - aku-siete-componentes-headline-concept
+    - aku-format-matchea-plataforma-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-core-four-concept]]
+**related** ↔ [[aku-core-four-concept]] · [[aku-siete-componentes-headline-concept]] · [[aku-format-matchea-plataforma-claim]]

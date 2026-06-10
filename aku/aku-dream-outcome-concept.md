@@ -39,6 +39,11 @@ relations:
     - aku-status-driver-compra-claim
     - aku-magic-naming-concept
     - aku-emocion-prevalece-razon-claim
+    - aku-perceived-likelihood-achievement-concept
+    - aku-time-delay-value-concept
+    - aku-effort-sacrifice-concept
+    - aku-focus-bottom-value-equation-claim
+    - aku-perception-is-reality-value-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -53,4 +58,4 @@ status_note: ""
 
 **supports** → [[aku-value-equation-concept]]
 
-**related** ↔ [[aku-beneficio-emocional-concept]] · [[aku-cosas-importantes-concept]] · [[aku-status-driver-compra-claim]] · [[aku-magic-naming-concept]] · [[aku-emocion-prevalece-razon-claim]]
+**related** ↔ [[aku-beneficio-emocional-concept]] · [[aku-cosas-importantes-concept]] · [[aku-status-driver-compra-claim]] · [[aku-magic-naming-concept]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-perceived-likelihood-achievement-concept]] · [[aku-time-delay-value-concept]] · [[aku-effort-sacrifice-concept]] · [[aku-focus-bottom-value-equation-claim]] · [[aku-perception-is-reality-value-claim]]

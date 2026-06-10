@@ -39,6 +39,14 @@ relations:
     - aku-cuatro-tipos-oferta-concept
     - aku-client-financed-acquisition-concept
     - aku-cac-concept
+    - aku-money-model-rompe-cash-bottleneck
+    - aku-bad-money-model-mata-negocio
+    - aku-bootstrapped-debe-captar-con-beneficio
+    - aku-todo-negocio-tiene-money-model
+    - aku-no-arrancar-con-money-model-completo
+    - aku-perfeccionar-una-oferta-a-la-vez
+    - aku-tu-negocio-se-rompe-cuando-funciona
+    - aku-crecimiento-multiplicativo-tres-palancas
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -53,4 +61,4 @@ status_note: ""
 
 **supports** → [[aku-money-model-concept]]
 
-**related** ↔ [[aku-cuatro-tipos-oferta-concept]] · [[aku-client-financed-acquisition-concept]] · [[aku-cac-concept]]
+**related** ↔ [[aku-cuatro-tipos-oferta-concept]] · [[aku-client-financed-acquisition-concept]] · [[aku-cac-concept]] · [[aku-money-model-rompe-cash-bottleneck]] · [[aku-bad-money-model-mata-negocio]] · [[aku-bootstrapped-debe-captar-con-beneficio]] · [[aku-todo-negocio-tiene-money-model]] · [[aku-no-arrancar-con-money-model-completo]] · [[aku-perfeccionar-una-oferta-a-la-vez]] · [[aku-tu-negocio-se-rompe-cuando-funciona]] · [[aku-crecimiento-multiplicativo-tres-palancas]]

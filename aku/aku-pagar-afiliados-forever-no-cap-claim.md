@@ -33,6 +33,9 @@ relations:
   related:
     - aku-marketing-afiliados-concept
     - aku-lead-magnet-curso-gratuito-concept
+    - aku-payout-afiliados-tiers-concept
+    - aku-payout-medio-menor-que-cac-maximo-claim
+    - aku-affiliate-ltgp-cac-method
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -45,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-marketing-afiliados-concept]] · [[aku-lead-magnet-curso-gratuito-concept]]
+**related** ↔ [[aku-marketing-afiliados-concept]] · [[aku-lead-magnet-curso-gratuito-concept]] · [[aku-payout-afiliados-tiers-concept]] · [[aku-payout-medio-menor-que-cac-maximo-claim]] · [[aku-affiliate-ltgp-cac-method]]

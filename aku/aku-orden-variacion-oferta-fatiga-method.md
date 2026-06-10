@@ -34,6 +34,8 @@ relations:
   related:
     - aku-magic-naming-concept
     - aku-dar-dos-descuentos-en-orden-ascendente-claim
+    - aku-ofertas-fatigan-rebranding-claim
+    - aku-offers-fatigue-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-magic-naming-concept]] · [[aku-dar-dos-descuentos-en-orden-ascendente-claim]]
+**related** ↔ [[aku-magic-naming-concept]] · [[aku-dar-dos-descuentos-en-orden-ascendente-claim]] · [[aku-ofertas-fatigan-rebranding-claim]] · [[aku-offers-fatigue-claim]]

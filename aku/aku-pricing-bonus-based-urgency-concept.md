@@ -35,6 +35,9 @@ relations:
     - aku-bonuses-stack-concept
     - aku-urgencia-concept
     - aku-retirar-los-descuentos-gradualmente-claim
+    - aku-cohort-based-rolling-urgency-concept
+    - aku-rolling-seasonal-urgency-concept
+    - aku-deadlines-drive-decisions-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-bonuses-stack-concept]] · [[aku-urgencia-concept]] · [[aku-retirar-los-descuentos-gradualmente-claim]]
+**related** ↔ [[aku-bonuses-stack-concept]] · [[aku-urgencia-concept]] · [[aku-retirar-los-descuentos-gradualmente-claim]] · [[aku-cohort-based-rolling-urgency-concept]] · [[aku-rolling-seasonal-urgency-concept]] · [[aku-deadlines-drive-decisions-claim]]

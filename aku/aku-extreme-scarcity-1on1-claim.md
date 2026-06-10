@@ -32,6 +32,16 @@ relations:
   contradicts: []
   related:
     - aku-tipos-y-tacticas-escasez-concept
+    - aku-scarcity-limited-seats-concept
+    - aku-scarcity-limited-bonuses-concept
+    - aku-scarcity-never-available-again-concept
+    - aku-total-business-cap-concept
+    - aku-growth-rate-cap-concept
+    - aku-cohort-cap-concept
+    - aku-honest-scarcity-claim
+    - aku-fear-of-loss-claim
+    - aku-cuando-sube-demanda-corta-oferta-claim
+    - aku-vender-menos-aumenta-demanda-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -44,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-tipos-y-tacticas-escasez-concept]]
+**related** ↔ [[aku-tipos-y-tacticas-escasez-concept]] · [[aku-scarcity-limited-seats-concept]] · [[aku-scarcity-limited-bonuses-concept]] · [[aku-scarcity-never-available-again-concept]] · [[aku-total-business-cap-concept]] · [[aku-growth-rate-cap-concept]] · [[aku-cohort-cap-concept]] · [[aku-honest-scarcity-claim]] · [[aku-fear-of-loss-claim]] · [[aku-cuando-sube-demanda-corta-oferta-claim]] · [[aku-vender-menos-aumenta-demanda-claim]]

@@ -31,6 +31,10 @@ relations:
   contradicts: []
   related:
     - aku-win-your-money-back-concept
+    - aku-win-money-back-criterios-tres-caracteristicas
+    - aku-store-credit-en-vez-de-cash
+    - aku-aplicar-store-credit-a-plazo
+    - aku-make-everyone-a-winner
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -43,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-win-your-money-back-concept]]
+**related** ↔ [[aku-win-your-money-back-concept]] · [[aku-win-money-back-criterios-tres-caracteristicas]] · [[aku-store-credit-en-vez-de-cash]] · [[aku-aplicar-store-credit-a-plazo]] · [[aku-make-everyone-a-winner]]

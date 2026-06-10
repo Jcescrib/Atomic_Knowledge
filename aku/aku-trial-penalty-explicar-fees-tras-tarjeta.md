@@ -32,6 +32,10 @@ relations:
   contradicts: []
   related:
     - aku-downsell-offer-concept
+    - aku-trial-with-penalty-concept
+    - aku-trial-penalty-card-y-commitment
+    - aku-trial-penalty-upsell-tres-escenarios
+    - aku-llamar-trial-with-penalty-just-trial
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -44,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-downsell-offer-concept]]
+**related** ↔ [[aku-downsell-offer-concept]] · [[aku-trial-with-penalty-concept]] · [[aku-trial-penalty-card-y-commitment]] · [[aku-trial-penalty-upsell-tres-escenarios]] · [[aku-llamar-trial-with-penalty-just-trial]]

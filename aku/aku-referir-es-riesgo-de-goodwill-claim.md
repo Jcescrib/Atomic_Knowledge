@@ -34,6 +34,10 @@ relations:
   related:
     - aku-referral-growth-exponential-claim
     - aku-recomendacion-vs-viralizacion-concept
+    - aku-pedir-referidos-como-oferta-claim
+    - aku-siete-formas-pedir-referidos-concept
+    - aku-tres-componentes-referral-program-concept
+    - aku-falta-referidos-producto-flojo-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-referral-growth-exponential-claim]] · [[aku-recomendacion-vs-viralizacion-concept]]
+**related** ↔ [[aku-referral-growth-exponential-claim]] · [[aku-recomendacion-vs-viralizacion-concept]] · [[aku-pedir-referidos-como-oferta-claim]] · [[aku-siete-formas-pedir-referidos-concept]] · [[aku-tres-componentes-referral-program-concept]] · [[aku-falta-referidos-producto-flojo-claim]]

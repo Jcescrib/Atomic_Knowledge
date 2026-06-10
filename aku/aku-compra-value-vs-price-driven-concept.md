@@ -37,6 +37,14 @@ relations:
     - aku-grand-slam-offer-concept
     - aku-precios-redondos-en-compras-de-conveniencia-claim
     - aku-precios-redondos-en-compras-emocionales-claim
+    - aku-ampliar-gap-valor-precio-claim
+    - aku-price-to-value-discrepancy-concept
+    - aku-precio-alto-aumenta-valor-percibido-claim
+    - aku-clientes-invertidos-mejores-resultados-claim
+    - aku-cobrar-premium-decision-moral-claim
+    - aku-profit-is-oxygen-claim
+    - aku-virtuous-cycle-of-price-claim
+    - aku-quien-necesita-menos-tiene-ventaja-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -49,4 +57,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-commodity-concept]] · [[aku-diferenciacion-mayores-margenes-claim]] · [[aku-grand-slam-offer-concept]] · [[aku-precios-redondos-en-compras-de-conveniencia-claim]] · [[aku-precios-redondos-en-compras-emocionales-claim]]
+**related** ↔ [[aku-commodity-concept]] · [[aku-diferenciacion-mayores-margenes-claim]] · [[aku-grand-slam-offer-concept]] · [[aku-precios-redondos-en-compras-de-conveniencia-claim]] · [[aku-precios-redondos-en-compras-emocionales-claim]] · [[aku-ampliar-gap-valor-precio-claim]] · [[aku-price-to-value-discrepancy-concept]] · [[aku-precio-alto-aumenta-valor-percibido-claim]] · [[aku-clientes-invertidos-mejores-resultados-claim]] · [[aku-cobrar-premium-decision-moral-claim]] · [[aku-profit-is-oxygen-claim]] · [[aku-virtuous-cycle-of-price-claim]] · [[aku-quien-necesita-menos-tiene-ventaja-claim]]

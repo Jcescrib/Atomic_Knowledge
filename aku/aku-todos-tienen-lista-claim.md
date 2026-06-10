@@ -32,6 +32,13 @@ relations:
   contradicts: []
   related:
     - aku-warm-outreach-concept
+    - aku-warm-outreach-diez-pasos-concept
+    - aku-warm-outreach-100-al-dia-claim
+    - aku-warm-outreach-benchmarks-method
+    - aku-warm-outreach-money-math-method
+    - aku-aca-framework-concept
+    - aku-preguntar-si-conocen-no-vender-claim
+    - aku-nueve-word-email-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -44,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-warm-outreach-concept]]
+**related** ↔ [[aku-warm-outreach-concept]] · [[aku-warm-outreach-diez-pasos-concept]] · [[aku-warm-outreach-100-al-dia-claim]] · [[aku-warm-outreach-benchmarks-method]] · [[aku-warm-outreach-money-math-method]] · [[aku-aca-framework-concept]] · [[aku-preguntar-si-conocen-no-vender-claim]] · [[aku-nueve-word-email-claim]]

@@ -39,6 +39,11 @@ relations:
   contradicts: []
   related:
     - aku-bonuses-stack-concept
+    - aku-continuity-no-standalone
+    - aku-continuity-rewards-mejor-que-castigo
+    - aku-continuity-pricing-standalone-ratio-method
+    - aku-attraction-a-continuity-con-renovacion
+    - aku-seguir-vendiendo-a-prepagados
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -53,4 +58,4 @@ status_note: ""
 
 **supports** → [[aku-continuity-offer-concept]] · [[aku-continuity-bonus-concept]] · [[aku-continuity-discount-concept]] · [[aku-waived-fee-concept]]
 
-**related** ↔ [[aku-bonuses-stack-concept]]
+**related** ↔ [[aku-bonuses-stack-concept]] · [[aku-continuity-no-standalone]] · [[aku-continuity-rewards-mejor-que-castigo]] · [[aku-continuity-pricing-standalone-ratio-method]] · [[aku-attraction-a-continuity-con-renovacion]] · [[aku-seguir-vendiendo-a-prepagados]]

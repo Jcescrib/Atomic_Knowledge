@@ -32,6 +32,10 @@ relations:
   contradicts: []
   related:
     - aku-continuity-offer-concept
+    - aku-continuity-bonus-concept
+    - aku-anunciar-bono-no-membership
+    - aku-commitment-a-cambio-de-bono
+    - aku-titulos-como-bono
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -44,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-continuity-offer-concept]]
+**related** ↔ [[aku-continuity-offer-concept]] · [[aku-continuity-bonus-concept]] · [[aku-anunciar-bono-no-membership]] · [[aku-commitment-a-cambio-de-bono]] · [[aku-titulos-como-bono]]

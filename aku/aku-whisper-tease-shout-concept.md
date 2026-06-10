@@ -35,6 +35,11 @@ relations:
   related:
     - aku-what-who-when-framework-concept
     - aku-content-hook-concept
+    - aku-construir-affiliate-army-seis-pasos-concept
+    - aku-oferta-al-afiliado-concept
+    - aku-cualificar-afiliado-cliente-experto-concept
+    - aku-launch-then-integrate-afiliados-concept
+    - aku-super-afiliado-niveles-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -47,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-what-who-when-framework-concept]] · [[aku-content-hook-concept]]
+**related** ↔ [[aku-what-who-when-framework-concept]] · [[aku-content-hook-concept]] · [[aku-construir-affiliate-army-seis-pasos-concept]] · [[aku-oferta-al-afiliado-concept]] · [[aku-cualificar-afiliado-cliente-experto-concept]] · [[aku-launch-then-integrate-afiliados-concept]] · [[aku-super-afiliado-niveles-concept]]

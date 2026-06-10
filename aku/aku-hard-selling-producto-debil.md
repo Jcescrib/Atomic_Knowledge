@@ -33,6 +33,9 @@ relations:
   related:
     - aku-money-model-concept
     - aku-vender-una-accion-concept
+    - aku-downsell-offer-concept
+    - aku-tres-downsells-concept
+    - aku-no-significa-este-no-todos
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -45,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-money-model-concept]] · [[aku-vender-una-accion-concept]]
+**related** ↔ [[aku-money-model-concept]] · [[aku-vender-una-accion-concept]] · [[aku-downsell-offer-concept]] · [[aku-tres-downsells-concept]] · [[aku-no-significa-este-no-todos]]

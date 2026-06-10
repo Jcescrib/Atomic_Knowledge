@@ -33,6 +33,9 @@ relations:
   contradicts: []
   related:
     - aku-urgencia-concept
+    - aku-marketing-influye-oferta-demanda-concept
+    - aku-deseo-viene-de-no-tener-claim
+    - aku-demanda-fractal-8020-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -45,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-urgencia-concept]]
+**related** ↔ [[aku-urgencia-concept]] · [[aku-marketing-influye-oferta-demanda-concept]] · [[aku-deseo-viene-de-no-tener-claim]] · [[aku-demanda-fractal-8020-claim]]

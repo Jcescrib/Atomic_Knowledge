@@ -34,6 +34,11 @@ relations:
   related:
     - aku-paid-ads-concept
     - aku-targeting-lookalike-filtros-concept
+    - aku-tres-fases-escalar-ads-concept
+    - aku-presupuesto-test-ads-2x-method
+    - aku-presupuesto-desde-objetivo-clientes-method
+    - aku-volumen-test-size-suficiente-claim
+    - aku-size-of-pie-fallacy-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-paid-ads-concept]] · [[aku-targeting-lookalike-filtros-concept]]
+**related** ↔ [[aku-paid-ads-concept]] · [[aku-targeting-lookalike-filtros-concept]] · [[aku-tres-fases-escalar-ads-concept]] · [[aku-presupuesto-test-ads-2x-method]] · [[aku-presupuesto-desde-objetivo-clientes-method]] · [[aku-volumen-test-size-suficiente-claim]] · [[aku-size-of-pie-fallacy-claim]]

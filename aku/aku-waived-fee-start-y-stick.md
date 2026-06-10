@@ -34,6 +34,9 @@ relations:
   related:
     - aku-continuity-offer-concept
     - aku-leyes-persuasion-cialdini-concept
+    - aku-waived-fee-concept
+    - aku-cancellation-fee-igual-al-descuento
+    - aku-cancellation-fee-a-causa-odiada
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-continuity-offer-concept]] · [[aku-leyes-persuasion-cialdini-concept]]
+**related** ↔ [[aku-continuity-offer-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-waived-fee-concept]] · [[aku-cancellation-fee-igual-al-descuento]] · [[aku-cancellation-fee-a-causa-odiada]]

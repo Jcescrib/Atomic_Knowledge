@@ -34,6 +34,8 @@ relations:
   related:
     - aku-marketing-afiliados-concept
     - aku-payout-afiliados-tiers-concept
+    - aku-pagar-afiliados-forever-no-cap-claim
+    - aku-affiliate-ltgp-cac-method
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-marketing-afiliados-concept]] · [[aku-payout-afiliados-tiers-concept]]
+**related** ↔ [[aku-marketing-afiliados-concept]] · [[aku-payout-afiliados-tiers-concept]] · [[aku-pagar-afiliados-forever-no-cap-claim]] · [[aku-affiliate-ltgp-cac-method]]

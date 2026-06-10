@@ -34,6 +34,10 @@ relations:
   related:
     - aku-core-four-concept
     - aku-explore-exploit-trade-off-method
+    - aku-more-better-new-concept
+    - aku-constraint-mayor-drop-off-claim
+    - aku-orden-new-placements-platforms-activity-concept
+    - aku-un-test-por-semana-por-plataforma-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-core-four-concept]] · [[aku-explore-exploit-trade-off-method]]
+**related** ↔ [[aku-core-four-concept]] · [[aku-explore-exploit-trade-off-method]] · [[aku-more-better-new-concept]] · [[aku-constraint-mayor-drop-off-claim]] · [[aku-orden-new-placements-platforms-activity-concept]] · [[aku-un-test-por-semana-por-plataforma-claim]]

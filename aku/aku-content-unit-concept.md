@@ -36,6 +36,8 @@ relations:
   related:
     - aku-audiencia-activo-compuesto-claim
     - aku-content-reward-valor-por-segundo-claim
+    - aku-hook-topic-headline-format-concept
+    - aku-short-vs-long-content-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -50,4 +52,4 @@ status_note: ""
 
 **supported_by** ← [[aku-content-hook-concept]] · [[aku-content-retain-concept]]
 
-**related** ↔ [[aku-audiencia-activo-compuesto-claim]] · [[aku-content-reward-valor-por-segundo-claim]]
+**related** ↔ [[aku-audiencia-activo-compuesto-claim]] · [[aku-content-reward-valor-por-segundo-claim]] · [[aku-hook-topic-headline-format-concept]] · [[aku-short-vs-long-content-claim]]

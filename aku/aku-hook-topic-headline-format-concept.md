@@ -34,6 +34,11 @@ relations:
   related:
     - aku-core-four-concept
     - aku-copy-incluir-titular-claim
+    - aku-content-unit-concept
+    - aku-content-hook-concept
+    - aku-content-retain-concept
+    - aku-content-reward-valor-por-segundo-claim
+    - aku-short-vs-long-content-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -46,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-core-four-concept]] · [[aku-copy-incluir-titular-claim]]
+**related** ↔ [[aku-core-four-concept]] · [[aku-copy-incluir-titular-claim]] · [[aku-content-unit-concept]] · [[aku-content-hook-concept]] · [[aku-content-retain-concept]] · [[aku-content-reward-valor-por-segundo-claim]] · [[aku-short-vs-long-content-claim]]

@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-pay-less-now-or-more-later-concept
+    - aku-pay-later-card-on-file-bajo-riesgo
+    - aku-pay-less-vs-trial-penalty-aplicacion
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-pay-less-now-or-more-later-concept]]
+**related** ↔ [[aku-pay-less-now-or-more-later-concept]] · [[aku-pay-later-card-on-file-bajo-riesgo]] · [[aku-pay-less-vs-trial-penalty-aplicacion]]

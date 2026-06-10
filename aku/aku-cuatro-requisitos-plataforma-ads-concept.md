@@ -32,6 +32,9 @@ relations:
   contradicts: []
   related:
     - aku-paid-ads-concept
+    - aku-leverage-leads-por-tiempo-concept
+    - aku-lead-getters-apalancamiento-concept
+    - aku-cuatro-fortalezas-lead-getters-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -44,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-paid-ads-concept]]
+**related** ↔ [[aku-paid-ads-concept]] · [[aku-leverage-leads-por-tiempo-concept]] · [[aku-lead-getters-apalancamiento-concept]] · [[aku-cuatro-fortalezas-lead-getters-concept]]

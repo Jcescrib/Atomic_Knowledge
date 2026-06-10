@@ -35,6 +35,9 @@ relations:
     - aku-core-four-concept
     - aku-more-better-new-concept
     - aku-lead-magnet-ubicaciones-claim
+    - aku-constraint-mayor-drop-off-claim
+    - aku-un-test-por-semana-por-plataforma-claim
+    - aku-many-sided-die-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-core-four-concept]] · [[aku-more-better-new-concept]] · [[aku-lead-magnet-ubicaciones-claim]]
+**related** ↔ [[aku-core-four-concept]] · [[aku-more-better-new-concept]] · [[aku-lead-magnet-ubicaciones-claim]] · [[aku-constraint-mayor-drop-off-claim]] · [[aku-un-test-por-semana-por-plataforma-claim]] · [[aku-many-sided-die-claim]]

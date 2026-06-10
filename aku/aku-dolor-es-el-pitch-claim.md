@@ -36,6 +36,8 @@ relations:
     - aku-entender-primero-para-influir-claim
     - aku-problema-resuelto-concept
     - aku-pitch-deck-problema-concept
+    - aku-riches-in-niches-pricing-claim
+    - aku-implicit-egotism-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-conversacion-mente-cliente-concept]] · [[aku-cosas-importantes-concept]] · [[aku-entender-primero-para-influir-claim]] · [[aku-problema-resuelto-concept]] · [[aku-pitch-deck-problema-concept]]
+**related** ↔ [[aku-conversacion-mente-cliente-concept]] · [[aku-cosas-importantes-concept]] · [[aku-entender-primero-para-influir-claim]] · [[aku-problema-resuelto-concept]] · [[aku-pitch-deck-problema-concept]] · [[aku-riches-in-niches-pricing-claim]] · [[aku-implicit-egotism-concept]]

@@ -36,6 +36,11 @@ relations:
     - aku-fast-beats-free-claim
     - aku-focus-bottom-value-equation-claim
     - aku-wins-rapidos-frecuentes-concept
+    - aku-dream-outcome-concept
+    - aku-perceived-likelihood-achievement-concept
+    - aku-effort-sacrifice-concept
+    - aku-perception-is-reality-value-claim
+    - aku-status-driver-compra-claim
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -50,4 +55,4 @@ status_note: ""
 
 **supports** → [[aku-value-equation-concept]]
 
-**related** ↔ [[aku-fast-beats-free-claim]] · [[aku-focus-bottom-value-equation-claim]] · [[aku-wins-rapidos-frecuentes-concept]]
+**related** ↔ [[aku-fast-beats-free-claim]] · [[aku-focus-bottom-value-equation-claim]] · [[aku-wins-rapidos-frecuentes-concept]] · [[aku-dream-outcome-concept]] · [[aku-perceived-likelihood-achievement-concept]] · [[aku-effort-sacrifice-concept]] · [[aku-perception-is-reality-value-claim]] · [[aku-status-driver-compra-claim]]

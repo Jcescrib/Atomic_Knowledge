@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-paid-ads-concept
+    - aku-diagnostico-sales-vs-ads-una-pregunta-method
+    - aku-sales-problem-vs-ads-problem-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-paid-ads-concept]]
+**related** ↔ [[aku-paid-ads-concept]] · [[aku-diagnostico-sales-vs-ads-una-pregunta-method]] · [[aku-sales-problem-vs-ads-problem-claim]]

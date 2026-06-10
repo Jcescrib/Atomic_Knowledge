@@ -51,6 +51,7 @@ relations:
     - aku-payment-plan-builtin-upsell
     - aku-trial-penalty-upsell-tres-escenarios
     - aku-bulk-prepaid-upsell-continuity
+    - aku-hint-next-offer-early
 
 sources:
   - raw/libros/hormozi/100m-money-models/100m-money-models.md
@@ -67,4 +68,4 @@ status_note: ""
 
 **supports** → [[aku-cuatro-tipos-oferta-concept]]
 
-**related** ↔ [[aku-money-model-concept]] · [[aku-upsell-mayor-beneficio-claim]] · [[aku-actually-do-the-upsell]] · [[aku-upsell-mas-rentable-primero]] · [[aku-surprise-and-delight-bonos]] · [[aku-hyper-buying-cycle-concept]] · [[aku-bonos-gratis-crean-problemas-upsell]] · [[aku-acceso-rapido-aumenta-valor-percibido]] · [[aku-nombrar-bundles-de-upsell]] · [[aku-integrar-upsells-en-entrega]] · [[aku-bamfam-concept]] · [[aku-cobrar-por-garantias-warranties]] · [[aku-vender-agotado-cobrar-y-retrasar]] · [[aku-payment-plan-builtin-upsell]] · [[aku-trial-penalty-upsell-tres-escenarios]] · [[aku-bulk-prepaid-upsell-continuity]]
+**related** ↔ [[aku-money-model-concept]] · [[aku-upsell-mayor-beneficio-claim]] · [[aku-actually-do-the-upsell]] · [[aku-upsell-mas-rentable-primero]] · [[aku-surprise-and-delight-bonos]] · [[aku-hyper-buying-cycle-concept]] · [[aku-bonos-gratis-crean-problemas-upsell]] · [[aku-acceso-rapido-aumenta-valor-percibido]] · [[aku-nombrar-bundles-de-upsell]] · [[aku-integrar-upsells-en-entrega]] · [[aku-bamfam-concept]] · [[aku-cobrar-por-garantias-warranties]] · [[aku-vender-agotado-cobrar-y-retrasar]] · [[aku-payment-plan-builtin-upsell]] · [[aku-trial-penalty-upsell-tres-escenarios]] · [[aku-bulk-prepaid-upsell-continuity]] · [[aku-hint-next-offer-early]]

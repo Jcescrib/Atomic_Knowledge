@@ -35,6 +35,11 @@ relations:
   related:
     - aku-core-four-concept
     - aku-eleccion-red-social-segun-negocio-claim
+    - aku-audiencia-activo-compuesto-claim
+    - aku-puddles-ponds-lakes-oceans-claim
+    - aku-content-benchmarks-crecimiento-method
+    - aku-siete-lecciones-contenido-concept
+    - aku-how-to-vs-how-i-claim
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -47,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-core-four-concept]] · [[aku-eleccion-red-social-segun-negocio-claim]]
+**related** ↔ [[aku-core-four-concept]] · [[aku-eleccion-red-social-segun-negocio-claim]] · [[aku-audiencia-activo-compuesto-claim]] · [[aku-puddles-ponds-lakes-oceans-claim]] · [[aku-content-benchmarks-crecimiento-method]] · [[aku-siete-lecciones-contenido-concept]] · [[aku-how-to-vs-how-i-claim]]
