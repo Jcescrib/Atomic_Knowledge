@@ -1485,8 +1485,8 @@ sources:
       Libro 1 corpus Jocko (Willink & Babin, 2015). source-tag: jocko. PDF 289 págs
       → MinerU (-b pipeline -l latin). Estructura: 12 capítulos en 3 partes (Winning
       the War Within / Laws of Combat / Sustaining Victory), cada uno con vignette de
-      combate SEAL + principio de liderazgo + aplicación a negocio. Pendiente FASE 2
-      ingesta hiper-exhaustiva.
+      combate SEAL + principio de liderazgo + aplicación a negocio. FASE 2 ingesta
+      hiper-exhaustiva COMPLETADA 2026-06-05 (libro completo, 133 AKUs; ver log).
 
   - original: "G:\\Mi unidad\\JOCKO\\The Dichotomy of Leadership -- Jocko Willink -- St_ Martin's Press -- a26752002ad9fa98a4b78c6bd3a55145 -- Anna’s Archive.pdf"
     name_slug: "dichotomy-of-leadership"
@@ -1507,7 +1507,7 @@ sources:
       equals-freedom, default-agresivo-proactivo, lider-y-seguidor, humilde-no-pasivo,
       atento-detalle-no-obsesionado, detach-tactico-estrategico → +0.10 confianza c/u,
       2ª fuente). El catálogo de dicotomías creado en EO cap12 se desarrolla aquí.
-      verify_graph 1218 AKUs / 0 errores. PENDIENTE FASE 2 ingesta hiper-exhaustiva.
+      verify_graph 1218 AKUs / 0 errores. FASE 2 hiper-exhaustiva COMPLETADA 2026-06-05 (ver log).
 
   - original: "G:\\Mi unidad\\JOCKO\\Discipline equals freedom _ field manual -- Jocko Willink -- First edition, New York, 2017 -- St_ Martin's Press, -- isbn13 9781250156952 -- 12e026df2aff6d732f0e6486d90930bf -- Anna’s Archive.epub"
     name_slug: "discipline-equals-freedom"
@@ -1528,7 +1528,7 @@ sources:
       0.60→0.70 con 3ª fuente). Parte 1 (Thoughts): mindset de disciplina/voluntad.
       Parte 2 (Actions): entrenamiento, sueño, artes marciales, defensa personal,
       nutrición/ayuno. Las series de ejercicios → method-AKU + TAKU (no AKU por ejercicio).
-      verify_graph 1280 AKUs / 0 errores. PENDIENTE FASE 2 ingesta hiper-exhaustiva.
+      verify_graph 1280 AKUs / 0 errores. FASE 2 hiper-exhaustiva COMPLETADA 2026-06-05 (ver log).
 
   - original: "G:\\Mi unidad\\JOCKO\\Leadership strategy and tactics _ field manual -- Jocko Willink -- ebook, 2020 -- St_ Martin’s Press -- isbn13 9781250226853 -- 2c4b89f9780fcc74c824be5367a69eea -- Anna’s Archive.epub"
     name_slug: "leadership-strategy-and-tactics"
@@ -1548,7 +1548,7 @@ sources:
       Parte 2 (Tactics: Becoming a Leader, Leadership Skills, Maneuvers, Communication).
       Gran densidad de integración cross-libro con EO/DoL/DEF (leadership-capital,
       play-the-long-game, subordinate-your-ego, etc.). verify_graph 1359 AKUs / 0 errores.
-      PENDIENTE FASE 2 ingesta hiper-exhaustiva.
+      FASE 2 hiper-exhaustiva COMPLETADA 2026-06-05 (ver log).
 
   - original: "G:\\Mi unidad\\JOCKO\\The 32 Principles _ Harnessing the Power of Jiu-Jitsu to -- Rener Gracie; Paul Volponi; Jocko Willink -- Penguin Random House LLC (Publisher -- isbn13 9781637743669 -- 5169366a78a816c380f0a99c2d2d635f -- Anna’s Ar.epub"
     name_slug: "32-principles"
