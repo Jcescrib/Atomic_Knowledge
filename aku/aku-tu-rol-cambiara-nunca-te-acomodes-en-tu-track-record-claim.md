@@ -24,13 +24,21 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-evolucionar-o-morir-concept]
+  supports:
+    - aku-evolucionar-o-morir-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-aunque-tu-rol-cambie-aun-puedes-impactar-con-otros-metodos-claim, aku-el-exito-demasiado-facil-y-rapido-afianza-los-viejos-habitos-claim]
+  related:
+    - aku-aunque-tu-rol-cambie-aun-puedes-impactar-con-otros-metodos-claim
+    - aku-el-exito-demasiado-facil-y-rapido-afianza-los-viejos-habitos-claim
+    - aku-evolucionar-mas-alla-del-rol-asignado-crea-nuevos-modelos-de-exito-claim
+    - aku-cambia-con-tu-cultura-y-audiencia-construye-para-su-evolucion-claim
+    - aku-quedarse-anclado-en-una-epoca-o-mentalidad-te-envejece-prematuramente-claim
+    - aku-una-vez-consigues-lo-que-perseguias-rara-vez-te-satisface-perseguir-fuerza-a-evolucionar-claim
+    - aku-cambiar-de-opinion-ante-una-perspectiva-nueva-es-evolucion-no-debilidad-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -44,4 +52,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-evolucionar-o-morir-concept]]
-**related** ↔ [[aku-aunque-tu-rol-cambie-aun-puedes-impactar-con-otros-metodos-claim]] · [[aku-el-exito-demasiado-facil-y-rapido-afianza-los-viejos-habitos-claim]]
+**related** ↔ [[aku-aunque-tu-rol-cambie-aun-puedes-impactar-con-otros-metodos-claim]] · [[aku-el-exito-demasiado-facil-y-rapido-afianza-los-viejos-habitos-claim]] · [[aku-evolucionar-mas-alla-del-rol-asignado-crea-nuevos-modelos-de-exito-claim]] · [[aku-cambia-con-tu-cultura-y-audiencia-construye-para-su-evolucion-claim]] · [[aku-quedarse-anclado-en-una-epoca-o-mentalidad-te-envejece-prematuramente-claim]] · [[aku-una-vez-consigues-lo-que-perseguias-rara-vez-te-satisface-perseguir-fuerza-a-evolucionar-claim]] · [[aku-cambiar-de-opinion-ante-una-perspectiva-nueva-es-evolucion-no-debilidad-claim]]

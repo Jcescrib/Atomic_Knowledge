@@ -35,6 +35,12 @@ relations:
     - aku-tu-rol-cambiara-nunca-te-acomodes-en-tu-track-record-claim
     - aku-quedarse-anclado-en-una-epoca-o-mentalidad-te-envejece-prematuramente-claim
     - aku-no-necesitas-ser-consciente-del-cue-para-que-un-habito-empiece-claim
+    - aku-evolucionar-o-morir-concept
+    - aku-aunque-tu-rol-cambie-aun-puedes-impactar-con-otros-metodos-claim
+    - aku-evolucionar-mas-alla-del-rol-asignado-crea-nuevos-modelos-de-exito-claim
+    - aku-cambia-con-tu-cultura-y-audiencia-construye-para-su-evolucion-claim
+    - aku-una-vez-consigues-lo-que-perseguias-rara-vez-te-satisface-perseguir-fuerza-a-evolucionar-claim
+    - aku-cambiar-de-opinion-ante-una-perspectiva-nueva-es-evolucion-no-debilidad-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -47,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-tu-rol-cambiara-nunca-te-acomodes-en-tu-track-record-claim]] · [[aku-quedarse-anclado-en-una-epoca-o-mentalidad-te-envejece-prematuramente-claim]] · [[aku-no-necesitas-ser-consciente-del-cue-para-que-un-habito-empiece-claim]]
+**related** ↔ [[aku-tu-rol-cambiara-nunca-te-acomodes-en-tu-track-record-claim]] · [[aku-quedarse-anclado-en-una-epoca-o-mentalidad-te-envejece-prematuramente-claim]] · [[aku-no-necesitas-ser-consciente-del-cue-para-que-un-habito-empiece-claim]] · [[aku-evolucionar-o-morir-concept]] · [[aku-aunque-tu-rol-cambie-aun-puedes-impactar-con-otros-metodos-claim]] · [[aku-evolucionar-mas-alla-del-rol-asignado-crea-nuevos-modelos-de-exito-claim]] · [[aku-cambia-con-tu-cultura-y-audiencia-construye-para-su-evolucion-claim]] · [[aku-una-vez-consigues-lo-que-perseguias-rara-vez-te-satisface-perseguir-fuerza-a-evolucionar-claim]] · [[aku-cambiar-de-opinion-ante-una-perspectiva-nueva-es-evolucion-no-debilidad-claim]]

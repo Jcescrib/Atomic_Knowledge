@@ -36,6 +36,9 @@ relations:
     - aku-apuesta-solo-a-cosas-seguras-la-unica-100-segura-eres-tu-mismo-claim
     - aku-aggressive-not-reckless-concept
     - aku-valiente-no-temerario-concept
+    - aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method
+    - aku-ponlo-todo-por-escrito-la-palabra-no-vale-nada-claim
+    - aku-depender-de-otros-para-entender-tus-negocios-es-una-posicion-peligrosa-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -48,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-confia-en-tu-instinto-por-encima-de-la-sola-instruccion-claim]] · [[aku-apuesta-solo-a-cosas-seguras-la-unica-100-segura-eres-tu-mismo-claim]] · [[aku-aggressive-not-reckless-concept]] · [[aku-valiente-no-temerario-concept]]
+**related** ↔ [[aku-confia-en-tu-instinto-por-encima-de-la-sola-instruccion-claim]] · [[aku-apuesta-solo-a-cosas-seguras-la-unica-100-segura-eres-tu-mismo-claim]] · [[aku-aggressive-not-reckless-concept]] · [[aku-valiente-no-temerario-concept]] · [[aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method]] · [[aku-ponlo-todo-por-escrito-la-palabra-no-vale-nada-claim]] · [[aku-depender-de-otros-para-entender-tus-negocios-es-una-posicion-peligrosa-claim]]

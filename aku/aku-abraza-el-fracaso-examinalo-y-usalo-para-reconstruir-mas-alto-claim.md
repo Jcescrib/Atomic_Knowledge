@@ -24,13 +24,19 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept]
+  supports:
+    - aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-lo-que-determina-el-resultado-no-es-el-fracaso-sino-tu-respuesta-claim]
+  related:
+    - aku-lo-que-determina-el-resultado-no-es-el-fracaso-sino-tu-respuesta-claim
+    - aku-el-exito-se-construye-sobre-el-fracaso-repetido-y-la-introspeccion-claim
+    - aku-el-fracaso-temprano-produce-mas-exito-a-largo-plazo-claim
+    - aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim
+    - aku-admitir-que-no-lo-sabes-todo-es-el-requisito-para-crecer-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -44,4 +50,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept]]
-**related** ↔ [[aku-lo-que-determina-el-resultado-no-es-el-fracaso-sino-tu-respuesta-claim]]
+**related** ↔ [[aku-lo-que-determina-el-resultado-no-es-el-fracaso-sino-tu-respuesta-claim]] · [[aku-el-exito-se-construye-sobre-el-fracaso-repetido-y-la-introspeccion-claim]] · [[aku-el-fracaso-temprano-produce-mas-exito-a-largo-plazo-claim]] · [[aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim]] · [[aku-admitir-que-no-lo-sabes-todo-es-el-requisito-para-crecer-claim]]

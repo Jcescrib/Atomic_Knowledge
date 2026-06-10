@@ -34,6 +34,9 @@ relations:
     - aku-interiorizar-un-principio-requiere-multiples-ejemplos-claim
     - aku-48laws-01-never-outshine-the-master-concept
     - aku-riqueza-se-construye-apilando-muchas-cosas-pequenas-claim
+    - aku-expande-tu-mente-a-traves-de-un-circulo-diverso-y-mas-sabio-claim
+    - aku-lectura-como-herramienta-de-mejora-personal-claim
+    - aku-la-meditacion-con-mantra-baja-el-volumen-de-los-pensamientos-method
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-interiorizar-un-principio-requiere-multiples-ejemplos-claim]] · [[aku-48laws-01-never-outshine-the-master-concept]] · [[aku-riqueza-se-construye-apilando-muchas-cosas-pequenas-claim]]
+**related** ↔ [[aku-interiorizar-un-principio-requiere-multiples-ejemplos-claim]] · [[aku-48laws-01-never-outshine-the-master-concept]] · [[aku-riqueza-se-construye-apilando-muchas-cosas-pequenas-claim]] · [[aku-expande-tu-mente-a-traves-de-un-circulo-diverso-y-mas-sabio-claim]] · [[aku-lectura-como-herramienta-de-mejora-personal-claim]] · [[aku-la-meditacion-con-mantra-baja-el-volumen-de-los-pensamientos-method]]

@@ -31,7 +31,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-evolucionar-o-morir-concept]
+  related:
+    - aku-evolucionar-o-morir-concept
+    - aku-conecta-directamente-con-la-gente-no-a-traves-de-intermediarios-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -44,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-evolucionar-o-morir-concept]]
+**related** ↔ [[aku-evolucionar-o-morir-concept]] · [[aku-conecta-directamente-con-la-gente-no-a-traves-de-intermediarios-claim]]

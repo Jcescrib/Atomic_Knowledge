@@ -41,6 +41,10 @@ relations:
     - aku-no-bad-teams-only-bad-leaders-concept
     - aku-48laws-02-never-trust-friends-use-enemies-concept
     - aku-cada-miembro-es-el-mas-importante-claim
+    - aku-juzgar-el-caracter-es-decisivo-tambien-en-el-matrimonio-claim
+    - aku-no-confundas-lealtad-con-procedencia-claim
+    - aku-pregunta-de-cada-persona-hace-depositos-o-solo-retiros-claim
+    - aku-identifica-y-manten-distancia-de-quienes-te-arrastran-al-fondo-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -54,4 +58,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-un-error-de-contratacion-en-un-rol-critico-es-catastrofico-e-irreversible-claim]] · [[aku-equilibra-tu-crew-entre-veteranos-del-dia-uno-y-sangre-nueva-claim]] · [[aku-instila-y-exige-disciplina-tolerancia-cero-al-conflicto-interno-claim]] · [[aku-el-liderazgo-eficaz-adapta-la-tactica-a-cada-persona-claim]]
-**related** ↔ [[aku-la-traicion-duele-mas-que-el-robo-claim]] · [[aku-judgment-naval-concept]] · [[aku-no-bad-teams-only-bad-leaders-concept]] · [[aku-48laws-02-never-trust-friends-use-enemies-concept]] · [[aku-cada-miembro-es-el-mas-importante-claim]]
+**related** ↔ [[aku-la-traicion-duele-mas-que-el-robo-claim]] · [[aku-judgment-naval-concept]] · [[aku-no-bad-teams-only-bad-leaders-concept]] · [[aku-48laws-02-never-trust-friends-use-enemies-concept]] · [[aku-cada-miembro-es-el-mas-importante-claim]] · [[aku-juzgar-el-caracter-es-decisivo-tambien-en-el-matrimonio-claim]] · [[aku-no-confundas-lealtad-con-procedencia-claim]] · [[aku-pregunta-de-cada-persona-hace-depositos-o-solo-retiros-claim]] · [[aku-identifica-y-manten-distancia-de-quienes-te-arrastran-al-fondo-claim]]

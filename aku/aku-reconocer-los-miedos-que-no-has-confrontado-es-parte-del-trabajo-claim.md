@@ -35,6 +35,13 @@ relations:
     - aku-para-superar-un-miedo-reconocelo-y-planifica-superarlo-method
     - aku-status-pivot-concept
     - aku-cuantos-mas-secretos-tienes-menos-feliz-eres-claim
+    - aku-al-otro-lado-del-miedo-esta-la-libertad-claim
+    - aku-la-fearlessness-es-un-musculo-que-se-desarrolla-claim
+    - aku-la-comodidad-con-el-miedo-mata-la-ambicion-claim
+    - aku-el-miedo-que-interrumpe-tu-rutina-ya-te-domina-claim
+    - aku-descubrir-que-sobrevives-los-golpes-disuelve-el-miedo-claim
+    - aku-un-poco-de-miedo-y-paranoia-es-util-claim
+    - aku-el-exceso-de-confianza-antes-de-un-reto-te-hace-vulnerable-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -47,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-fearlessness-no-es-ausencia-de-miedo-concept]] · [[aku-para-superar-un-miedo-reconocelo-y-planifica-superarlo-method]] · [[aku-status-pivot-concept]] · [[aku-cuantos-mas-secretos-tienes-menos-feliz-eres-claim]]
+**related** ↔ [[aku-fearlessness-no-es-ausencia-de-miedo-concept]] · [[aku-para-superar-un-miedo-reconocelo-y-planifica-superarlo-method]] · [[aku-status-pivot-concept]] · [[aku-cuantos-mas-secretos-tienes-menos-feliz-eres-claim]] · [[aku-al-otro-lado-del-miedo-esta-la-libertad-claim]] · [[aku-la-fearlessness-es-un-musculo-que-se-desarrolla-claim]] · [[aku-la-comodidad-con-el-miedo-mata-la-ambicion-claim]] · [[aku-el-miedo-que-interrumpe-tu-rutina-ya-te-domina-claim]] · [[aku-descubrir-que-sobrevives-los-golpes-disuelve-el-miedo-claim]] · [[aku-un-poco-de-miedo-y-paranoia-es-util-claim]] · [[aku-el-exceso-de-confianza-antes-de-un-reto-te-hace-vulnerable-claim]]

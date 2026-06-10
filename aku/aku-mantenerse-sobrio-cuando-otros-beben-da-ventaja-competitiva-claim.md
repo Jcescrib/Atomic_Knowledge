@@ -34,6 +34,9 @@ relations:
     - aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim
     - aku-la-confianza-y-el-control-vienen-de-dentro-no-de-sustancias-externas-claim
     - aku-ventaja-competitiva-concept
+    - aku-el-foco-dirige-el-trabajo-duro-y-eliminar-distracciones-libera-potencial-claim
+    - aku-dormir-lo-suficiente-es-parte-del-hustle-no-su-enemigo-claim
+    - aku-cambiar-un-habito-comprometiendote-30-dias-y-enfocando-semana-a-semana-method
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim]] · [[aku-la-confianza-y-el-control-vienen-de-dentro-no-de-sustancias-externas-claim]] · [[aku-ventaja-competitiva-concept]]
+**related** ↔ [[aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim]] · [[aku-la-confianza-y-el-control-vienen-de-dentro-no-de-sustancias-externas-claim]] · [[aku-ventaja-competitiva-concept]] · [[aku-el-foco-dirige-el-trabajo-duro-y-eliminar-distracciones-libera-potencial-claim]] · [[aku-dormir-lo-suficiente-es-parte-del-hustle-no-su-enemigo-claim]] · [[aku-cambiar-un-habito-comprometiendote-30-dias-y-enfocando-semana-a-semana-method]]

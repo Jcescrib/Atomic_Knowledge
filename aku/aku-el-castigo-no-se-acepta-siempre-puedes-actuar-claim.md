@@ -30,7 +30,12 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-descubrir-que-sobrevives-los-golpes-disuelve-el-miedo-claim, aku-sacudete-el-golpe-y-sigue-no-te-instales-en-la-victima-claim]
+  related:
+    - aku-descubrir-que-sobrevives-los-golpes-disuelve-el-miedo-claim
+    - aku-sacudete-el-golpe-y-sigue-no-te-instales-en-la-victima-claim
+    - aku-mentalidad-de-hustler-lo-recupero-en-la-siguiente-claim
+    - aku-lo-que-determina-el-resultado-no-es-el-fracaso-sino-tu-respuesta-claim
+    - aku-recuperarte-de-un-desastre-descansa-limpia-la-energia-y-reconstruye-desde-abajo-method
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -43,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-descubrir-que-sobrevives-los-golpes-disuelve-el-miedo-claim]] · [[aku-sacudete-el-golpe-y-sigue-no-te-instales-en-la-victima-claim]]
+**related** ↔ [[aku-descubrir-que-sobrevives-los-golpes-disuelve-el-miedo-claim]] · [[aku-sacudete-el-golpe-y-sigue-no-te-instales-en-la-victima-claim]] · [[aku-mentalidad-de-hustler-lo-recupero-en-la-siguiente-claim]] · [[aku-lo-que-determina-el-resultado-no-es-el-fracaso-sino-tu-respuesta-claim]] · [[aku-recuperarte-de-un-desastre-descansa-limpia-la-energia-y-reconstruye-desde-abajo-method]]

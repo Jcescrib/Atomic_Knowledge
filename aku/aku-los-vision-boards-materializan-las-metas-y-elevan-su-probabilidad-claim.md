@@ -35,6 +35,9 @@ relations:
     - aku-hustlar-exige-definir-con-claridad-que-quieres-claim
     - aku-compartir-objetivos-compromiso-claim
     - aku-sistemas-vs-metas-en-atomic-habits-concept
+    - aku-tu-vision-debe-evolucionar-y-escalar-con-el-tiempo-claim
+    - aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim
+    - aku-passion-stance-concept
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-hustlar-exige-definir-con-claridad-que-quieres-claim]] · [[aku-compartir-objetivos-compromiso-claim]] · [[aku-sistemas-vs-metas-en-atomic-habits-concept]]
+**related** ↔ [[aku-hustlar-exige-definir-con-claridad-que-quieres-claim]] · [[aku-compartir-objetivos-compromiso-claim]] · [[aku-sistemas-vs-metas-en-atomic-habits-concept]] · [[aku-tu-vision-debe-evolucionar-y-escalar-con-el-tiempo-claim]] · [[aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim]] · [[aku-passion-stance-concept]]

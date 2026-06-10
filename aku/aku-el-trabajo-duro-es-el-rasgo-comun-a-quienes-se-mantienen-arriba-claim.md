@@ -34,6 +34,10 @@ relations:
   related:
     - aku-el-diferenciador-decisivo-es-estar-dispuesto-a-out-trabajar-a-todos-claim
     - aku-enamorate-del-aburrimiento-los-profesionales-aparecen-sin-importar-el-animo-claim
+    - aku-el-trabajo-duro-crea-felicidad-no-solo-exito-claim
+    - aku-hustlar-duro-es-prerrequisito-de-hustlar-inteligente-claim
+    - aku-la-pasion-no-el-talento-distingue-a-los-grandes-claim
+    - aku-la-depresion-por-la-falta-de-hustle-ajena-es-un-lujo-que-no-puedes-permitirte-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -47,4 +51,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-corazon-de-hustler-concept]]
-**related** ↔ [[aku-el-diferenciador-decisivo-es-estar-dispuesto-a-out-trabajar-a-todos-claim]] · [[aku-enamorate-del-aburrimiento-los-profesionales-aparecen-sin-importar-el-animo-claim]]
+**related** ↔ [[aku-el-diferenciador-decisivo-es-estar-dispuesto-a-out-trabajar-a-todos-claim]] · [[aku-enamorate-del-aburrimiento-los-profesionales-aparecen-sin-importar-el-animo-claim]] · [[aku-el-trabajo-duro-crea-felicidad-no-solo-exito-claim]] · [[aku-hustlar-duro-es-prerrequisito-de-hustlar-inteligente-claim]] · [[aku-la-pasion-no-el-talento-distingue-a-los-grandes-claim]] · [[aku-la-depresion-por-la-falta-de-hustle-ajena-es-un-lujo-que-no-puedes-permitirte-claim]]

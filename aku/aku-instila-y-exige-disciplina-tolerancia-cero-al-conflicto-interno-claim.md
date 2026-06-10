@@ -36,6 +36,10 @@ relations:
     - aku-hacer-respetar-las-reglas-exige-aplicar-las-consecuencias-aunque-rompa-una-relacion-claim
     - aku-pon-la-casa-en-orden-primero-los-problemas-internos-hunden-el-imperio-claim
     - aku-extreme-ownership-concept
+    - aku-equilibra-tu-crew-entre-veteranos-del-dia-uno-y-sangre-nueva-claim
+    - aku-renovar-el-crew-por-uno-mejor-es-legitimo-si-diste-oportunidades-y-no-funciono-claim
+    - aku-homeboy-complex-concept
+    - aku-rodearte-de-yes-men-impide-aprender-de-tus-errores-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -49,4 +53,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept]]
-**related** ↔ [[aku-hacer-respetar-las-reglas-exige-aplicar-las-consecuencias-aunque-rompa-una-relacion-claim]] · [[aku-pon-la-casa-en-orden-primero-los-problemas-internos-hunden-el-imperio-claim]] · [[aku-extreme-ownership-concept]]
+**related** ↔ [[aku-hacer-respetar-las-reglas-exige-aplicar-las-consecuencias-aunque-rompa-una-relacion-claim]] · [[aku-pon-la-casa-en-orden-primero-los-problemas-internos-hunden-el-imperio-claim]] · [[aku-extreme-ownership-concept]] · [[aku-equilibra-tu-crew-entre-veteranos-del-dia-uno-y-sangre-nueva-claim]] · [[aku-renovar-el-crew-por-uno-mejor-es-legitimo-si-diste-oportunidades-y-no-funciono-claim]] · [[aku-homeboy-complex-concept]] · [[aku-rodearte-de-yes-men-impide-aprender-de-tus-errores-claim]]

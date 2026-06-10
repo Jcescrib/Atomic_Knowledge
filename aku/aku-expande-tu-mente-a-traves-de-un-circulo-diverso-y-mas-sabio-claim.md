@@ -36,6 +36,10 @@ relations:
     - aku-prioriza-la-informacion-sobre-el-cheque-busca-salas-donde-otros-sepan-mas-claim
     - aku-admitir-que-no-lo-sabes-todo-es-el-requisito-para-crecer-claim
     - aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim
+    - aku-lectura-como-herramienta-de-mejora-personal-claim
+    - aku-interiorizar-un-principio-requiere-multiples-ejemplos-claim
+    - aku-un-principio-aplicado-con-constancia-genera-valor-desproporcionado-claim
+    - aku-la-meditacion-con-mantra-baja-el-volumen-de-los-pensamientos-method
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -49,4 +53,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-evolucionar-o-morir-concept]]
-**related** ↔ [[aku-prioriza-la-informacion-sobre-el-cheque-busca-salas-donde-otros-sepan-mas-claim]] · [[aku-admitir-que-no-lo-sabes-todo-es-el-requisito-para-crecer-claim]] · [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]]
+**related** ↔ [[aku-prioriza-la-informacion-sobre-el-cheque-busca-salas-donde-otros-sepan-mas-claim]] · [[aku-admitir-que-no-lo-sabes-todo-es-el-requisito-para-crecer-claim]] · [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]] · [[aku-lectura-como-herramienta-de-mejora-personal-claim]] · [[aku-interiorizar-un-principio-requiere-multiples-ejemplos-claim]] · [[aku-un-principio-aplicado-con-constancia-genera-valor-desproporcionado-claim]] · [[aku-la-meditacion-con-mantra-baja-el-volumen-de-los-pensamientos-method]]

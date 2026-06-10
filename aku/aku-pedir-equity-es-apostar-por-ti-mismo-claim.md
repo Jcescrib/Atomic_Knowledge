@@ -35,6 +35,9 @@ relations:
     - aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method
     - aku-apuesta-solo-a-cosas-seguras-la-unica-100-segura-eres-tu-mismo-claim
     - aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim
+    - aku-la-confianza-sin-miedo-viene-de-la-preparacion-claim
+    - aku-fake-it-till-you-make-it-proyecta-exito-antes-de-tenerlo-claim
+    - aku-ser-tu-mismo-es-tu-mayor-fuente-de-poder-presenta-tu-mejor-version-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-enfocate-en-el-potencial-a-largo-plazo-no-en-el-primer-cheque-claim]] · [[aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method]] · [[aku-apuesta-solo-a-cosas-seguras-la-unica-100-segura-eres-tu-mismo-claim]] · [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]]
+**related** ↔ [[aku-enfocate-en-el-potencial-a-largo-plazo-no-en-el-primer-cheque-claim]] · [[aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method]] · [[aku-apuesta-solo-a-cosas-seguras-la-unica-100-segura-eres-tu-mismo-claim]] · [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]] · [[aku-la-confianza-sin-miedo-viene-de-la-preparacion-claim]] · [[aku-fake-it-till-you-make-it-proyecta-exito-antes-de-tenerlo-claim]] · [[aku-ser-tu-mismo-es-tu-mayor-fuente-de-poder-presenta-tu-mejor-version-claim]]

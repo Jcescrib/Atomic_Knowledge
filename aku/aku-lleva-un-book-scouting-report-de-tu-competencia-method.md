@@ -35,6 +35,7 @@ relations:
   contradicts: []
   related:
     - aku-cinco-fuerzas-porter-concept
+    - aku-cataloga-momentos-de-referencia-como-tu-competencia-creativa-method
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-la-competencia-como-estrategia-if-we-cant-be-friends-concept]]
 
-**related** ↔ [[aku-cinco-fuerzas-porter-concept]]
+**related** ↔ [[aku-cinco-fuerzas-porter-concept]] · [[aku-cataloga-momentos-de-referencia-como-tu-competencia-creativa-method]]

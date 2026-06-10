@@ -24,13 +24,18 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-el-poder-de-la-percepcion-concept]
+  supports:
+    - aku-el-poder-de-la-percepcion-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-la-confianza-sin-miedo-viene-de-la-preparacion-claim
+    - aku-fake-it-till-you-make-it-proyecta-exito-antes-de-tenerlo-claim
+    - aku-apuesta-solo-a-cosas-seguras-la-unica-100-segura-eres-tu-mismo-claim
+    - aku-pedir-equity-es-apostar-por-ti-mismo-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -44,3 +49,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-el-poder-de-la-percepcion-concept]]
+
+**related** ↔ [[aku-la-confianza-sin-miedo-viene-de-la-preparacion-claim]] · [[aku-fake-it-till-you-make-it-proyecta-exito-antes-de-tenerlo-claim]] · [[aku-apuesta-solo-a-cosas-seguras-la-unica-100-segura-eres-tu-mismo-claim]] · [[aku-pedir-equity-es-apostar-por-ti-mismo-claim]]

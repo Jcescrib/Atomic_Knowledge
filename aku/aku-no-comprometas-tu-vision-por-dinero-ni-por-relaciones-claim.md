@@ -37,6 +37,10 @@ relations:
     - aku-los-mas-exitosos-empezaron-como-losers-fuera-del-rebano-claim
     - aku-48laws-20-do-not-commit-to-anyone-concept
     - aku-vision-empresa-concept
+    - aku-hustlar-exige-definir-con-claridad-que-quieres-claim
+    - aku-los-vision-boards-materializan-las-metas-y-elevan-su-probabilidad-claim
+    - aku-tu-vision-debe-evolucionar-y-escalar-con-el-tiempo-claim
+    - aku-passion-stance-concept
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -49,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-paciencia-es-una-fortaleza-negociadora-espera-el-deal-correcto-claim]] · [[aku-conformarse-delata-falta-de-confianza-en-tu-valor-y-los-depredadores-la-detectan-claim]] · [[aku-los-mas-exitosos-empezaron-como-losers-fuera-del-rebano-claim]] · [[aku-48laws-20-do-not-commit-to-anyone-concept]] · [[aku-vision-empresa-concept]]
+**related** ↔ [[aku-la-paciencia-es-una-fortaleza-negociadora-espera-el-deal-correcto-claim]] · [[aku-conformarse-delata-falta-de-confianza-en-tu-valor-y-los-depredadores-la-detectan-claim]] · [[aku-los-mas-exitosos-empezaron-como-losers-fuera-del-rebano-claim]] · [[aku-48laws-20-do-not-commit-to-anyone-concept]] · [[aku-vision-empresa-concept]] · [[aku-hustlar-exige-definir-con-claridad-que-quieres-claim]] · [[aku-los-vision-boards-materializan-las-metas-y-elevan-su-probabilidad-claim]] · [[aku-tu-vision-debe-evolucionar-y-escalar-con-el-tiempo-claim]] · [[aku-passion-stance-concept]]

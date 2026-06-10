@@ -24,13 +24,22 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-fearlessness-no-es-ausencia-de-miedo-concept]
+  supports:
+    - aku-fearlessness-no-es-ausencia-de-miedo-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-al-otro-lado-del-miedo-esta-la-libertad-claim
+    - aku-la-comodidad-con-el-miedo-mata-la-ambicion-claim
+    - aku-el-miedo-que-interrumpe-tu-rutina-ya-te-domina-claim
+    - aku-descubrir-que-sobrevives-los-golpes-disuelve-el-miedo-claim
+    - aku-para-superar-un-miedo-reconocelo-y-planifica-superarlo-method
+    - aku-reconocer-los-miedos-que-no-has-confrontado-es-parte-del-trabajo-claim
+    - aku-un-poco-de-miedo-y-paranoia-es-util-claim
+    - aku-el-exceso-de-confianza-antes-de-un-reto-te-hace-vulnerable-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -44,3 +53,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-fearlessness-no-es-ausencia-de-miedo-concept]]
+
+**related** ↔ [[aku-al-otro-lado-del-miedo-esta-la-libertad-claim]] · [[aku-la-comodidad-con-el-miedo-mata-la-ambicion-claim]] · [[aku-el-miedo-que-interrumpe-tu-rutina-ya-te-domina-claim]] · [[aku-descubrir-que-sobrevives-los-golpes-disuelve-el-miedo-claim]] · [[aku-para-superar-un-miedo-reconocelo-y-planifica-superarlo-method]] · [[aku-reconocer-los-miedos-que-no-has-confrontado-es-parte-del-trabajo-claim]] · [[aku-un-poco-de-miedo-y-paranoia-es-util-claim]] · [[aku-el-exceso-de-confianza-antes-de-un-reto-te-hace-vulnerable-claim]]

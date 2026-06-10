@@ -38,6 +38,10 @@ relations:
     - aku-tipos-y-tacticas-escasez-concept
     - aku-la-novedad-capta-la-atencion-claim
     - aku-pricing-psychology-el-precio-es-percepcion-concept
+    - aku-el-poder-de-la-percepcion-concept
+    - aku-la-percepcion-es-separable-de-la-realidad-y-puedes-usarla-a-tu-favor-claim
+    - aku-subvierte-las-expectativas-da-la-energia-opuesta-para-desarmar-claim
+    - aku-ser-una-cosa-segura-y-dejar-trabajar-con-la-realidad-desactiva-sospechas-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -50,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-fake-it-till-you-make-it-proyecta-exito-antes-de-tenerlo-claim]] · [[aku-act-like-you-dont-need-it-la-neediness-repele-la-inalcanzabilidad-atrae-claim]] · [[aku-cialdini-escasez-concept]] · [[aku-tipos-y-tacticas-escasez-concept]] · [[aku-la-novedad-capta-la-atencion-claim]] · [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
+**related** ↔ [[aku-fake-it-till-you-make-it-proyecta-exito-antes-de-tenerlo-claim]] · [[aku-act-like-you-dont-need-it-la-neediness-repele-la-inalcanzabilidad-atrae-claim]] · [[aku-cialdini-escasez-concept]] · [[aku-tipos-y-tacticas-escasez-concept]] · [[aku-la-novedad-capta-la-atencion-claim]] · [[aku-pricing-psychology-el-precio-es-percepcion-concept]] · [[aku-el-poder-de-la-percepcion-concept]] · [[aku-la-percepcion-es-separable-de-la-realidad-y-puedes-usarla-a-tu-favor-claim]] · [[aku-subvierte-las-expectativas-da-la-energia-opuesta-para-desarmar-claim]] · [[aku-ser-una-cosa-segura-y-dejar-trabajar-con-la-realidad-desactiva-sospechas-claim]]

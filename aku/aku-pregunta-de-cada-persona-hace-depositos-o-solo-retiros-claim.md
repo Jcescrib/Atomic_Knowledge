@@ -35,6 +35,11 @@ relations:
   related:
     - aku-haz-depositos-donde-estes-actitud-puntualidad-y-no-solo-monetarios-claim
     - aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim
+    - aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept
+    - aku-un-error-de-contratacion-en-un-rol-critico-es-catastrofico-e-irreversible-claim
+    - aku-juzgar-el-caracter-es-decisivo-tambien-en-el-matrimonio-claim
+    - aku-no-confundas-lealtad-con-procedencia-claim
+    - aku-identifica-y-manten-distancia-de-quienes-te-arrastran-al-fondo-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -48,4 +53,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept]]
-**related** ↔ [[aku-haz-depositos-donde-estes-actitud-puntualidad-y-no-solo-monetarios-claim]] · [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]]
+**related** ↔ [[aku-haz-depositos-donde-estes-actitud-puntualidad-y-no-solo-monetarios-claim]] · [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]] · [[aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept]] · [[aku-un-error-de-contratacion-en-un-rol-critico-es-catastrofico-e-irreversible-claim]] · [[aku-juzgar-el-caracter-es-decisivo-tambien-en-el-matrimonio-claim]] · [[aku-no-confundas-lealtad-con-procedencia-claim]] · [[aku-identifica-y-manten-distancia-de-quienes-te-arrastran-al-fondo-claim]]

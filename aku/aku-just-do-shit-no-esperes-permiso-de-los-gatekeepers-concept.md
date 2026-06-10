@@ -36,6 +36,8 @@ relations:
     - aku-probar-que-sabes-hacer-algo-te-da-apalancamiento-claim
     - aku-accountability-bajo-tu-nombre-concept
     - aku-trabaja-gratis-como-intern-para-ganar-acceso-y-extrae-el-maximo-claim
+    - aku-ofrece-valor-en-vez-de-pedir-un-puesto-claim
+    - aku-enfrentar-a-tu-competencia-de-frente-y-out-trabajarla-da-confianza-duradera-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-conecta-directamente-con-la-gente-no-a-traves-de-intermediarios-claim]] · [[aku-probar-que-sabes-hacer-algo-te-da-apalancamiento-claim]] · [[aku-accountability-bajo-tu-nombre-concept]] · [[aku-trabaja-gratis-como-intern-para-ganar-acceso-y-extrae-el-maximo-claim]]
+**related** ↔ [[aku-conecta-directamente-con-la-gente-no-a-traves-de-intermediarios-claim]] · [[aku-probar-que-sabes-hacer-algo-te-da-apalancamiento-claim]] · [[aku-accountability-bajo-tu-nombre-concept]] · [[aku-trabaja-gratis-como-intern-para-ganar-acceso-y-extrae-el-maximo-claim]] · [[aku-ofrece-valor-en-vez-de-pedir-un-puesto-claim]] · [[aku-enfrentar-a-tu-competencia-de-frente-y-out-trabajarla-da-confianza-duradera-claim]]

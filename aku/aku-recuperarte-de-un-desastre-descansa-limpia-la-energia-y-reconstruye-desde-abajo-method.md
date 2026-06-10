@@ -32,7 +32,12 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]
+  related:
+    - aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim
+    - aku-el-castigo-no-se-acepta-siempre-puedes-actuar-claim
+    - aku-mentalidad-de-hustler-lo-recupero-en-la-siguiente-claim
+    - aku-sacudete-el-golpe-y-sigue-no-te-instales-en-la-victima-claim
+    - aku-lo-que-determina-el-resultado-no-es-el-fracaso-sino-tu-respuesta-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -45,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]]
+**related** ↔ [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]] · [[aku-el-castigo-no-se-acepta-siempre-puedes-actuar-claim]] · [[aku-mentalidad-de-hustler-lo-recupero-en-la-siguiente-claim]] · [[aku-sacudete-el-golpe-y-sigue-no-te-instales-en-la-victima-claim]] · [[aku-lo-que-determina-el-resultado-no-es-el-fracaso-sino-tu-respuesta-claim]]

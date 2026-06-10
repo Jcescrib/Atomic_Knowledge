@@ -35,6 +35,13 @@ relations:
     - aku-los-que-dan-tienen-la-presencia-mas-fuerte-en-su-ausencia-conscious-capitalism-claim
     - aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept
     - aku-deja-de-preguntar-por-que-y-empieza-a-decir-wow-gratitud-por-la-abundancia-claim
+    - aku-el-entitlement-de-los-de-abajo-es-learned-helplessness-claim
+    - aku-el-entitlement-es-un-problema-cultural-no-de-edad-ni-raza-importa-hustle-claim
+    - aku-quien-culpa-a-otros-nunca-mira-su-propia-falta-de-hustle-claim
+    - aku-hacer-demasiado-por-alguien-le-crea-entitlement-y-resentimiento-claim
+    - aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim
+    - aku-aceptar-que-todo-depende-de-ti-es-liberador-claim
+    - aku-el-want-es-motivador-solo-si-lo-conviertes-en-trabajo-no-en-expectativa-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -47,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-los-que-dan-tienen-la-presencia-mas-fuerte-en-su-ausencia-conscious-capitalism-claim]] · [[aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept]] · [[aku-deja-de-preguntar-por-que-y-empieza-a-decir-wow-gratitud-por-la-abundancia-claim]]
+**related** ↔ [[aku-los-que-dan-tienen-la-presencia-mas-fuerte-en-su-ausencia-conscious-capitalism-claim]] · [[aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept]] · [[aku-deja-de-preguntar-por-que-y-empieza-a-decir-wow-gratitud-por-la-abundancia-claim]] · [[aku-el-entitlement-de-los-de-abajo-es-learned-helplessness-claim]] · [[aku-el-entitlement-es-un-problema-cultural-no-de-edad-ni-raza-importa-hustle-claim]] · [[aku-quien-culpa-a-otros-nunca-mira-su-propia-falta-de-hustle-claim]] · [[aku-hacer-demasiado-por-alguien-le-crea-entitlement-y-resentimiento-claim]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]] · [[aku-aceptar-que-todo-depende-de-ti-es-liberador-claim]] · [[aku-el-want-es-motivador-solo-si-lo-conviertes-en-trabajo-no-en-expectativa-claim]]

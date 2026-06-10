@@ -35,6 +35,12 @@ relations:
     - aku-llega-el-momento-de-cortar-el-cordon-con-el-pasado-para-no-estancarte-claim
     - aku-mentalidad-crab-in-the-barrel-concept
     - aku-distance-principle-concept
+    - aku-equilibra-tu-crew-entre-veteranos-del-dia-uno-y-sangre-nueva-claim
+    - aku-instila-y-exige-disciplina-tolerancia-cero-al-conflicto-interno-claim
+    - aku-hacer-respetar-las-reglas-exige-aplicar-las-consecuencias-aunque-rompa-una-relacion-claim
+    - aku-renovar-el-crew-por-uno-mejor-es-legitimo-si-diste-oportunidades-y-no-funciono-claim
+    - aku-pon-la-casa-en-orden-primero-los-problemas-internos-hunden-el-imperio-claim
+    - aku-rodearte-de-yes-men-impide-aprender-de-tus-errores-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -47,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-llega-el-momento-de-cortar-el-cordon-con-el-pasado-para-no-estancarte-claim]] · [[aku-mentalidad-crab-in-the-barrel-concept]] · [[aku-distance-principle-concept]]
+**related** ↔ [[aku-llega-el-momento-de-cortar-el-cordon-con-el-pasado-para-no-estancarte-claim]] · [[aku-mentalidad-crab-in-the-barrel-concept]] · [[aku-distance-principle-concept]] · [[aku-equilibra-tu-crew-entre-veteranos-del-dia-uno-y-sangre-nueva-claim]] · [[aku-instila-y-exige-disciplina-tolerancia-cero-al-conflicto-interno-claim]] · [[aku-hacer-respetar-las-reglas-exige-aplicar-las-consecuencias-aunque-rompa-una-relacion-claim]] · [[aku-renovar-el-crew-por-uno-mejor-es-legitimo-si-diste-oportunidades-y-no-funciono-claim]] · [[aku-pon-la-casa-en-orden-primero-los-problemas-internos-hunden-el-imperio-claim]] · [[aku-rodearte-de-yes-men-impide-aprender-de-tus-errores-claim]]

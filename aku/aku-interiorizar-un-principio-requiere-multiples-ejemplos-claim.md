@@ -30,7 +30,11 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-un-principio-aplicado-con-constancia-genera-valor-desproporcionado-claim, aku-lectura-como-herramienta-de-mejora-personal-claim]
+  related:
+    - aku-un-principio-aplicado-con-constancia-genera-valor-desproporcionado-claim
+    - aku-lectura-como-herramienta-de-mejora-personal-claim
+    - aku-expande-tu-mente-a-traves-de-un-circulo-diverso-y-mas-sabio-claim
+    - aku-la-meditacion-con-mantra-baja-el-volumen-de-los-pensamientos-method
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -43,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-un-principio-aplicado-con-constancia-genera-valor-desproporcionado-claim]] · [[aku-lectura-como-herramienta-de-mejora-personal-claim]]
+**related** ↔ [[aku-un-principio-aplicado-con-constancia-genera-valor-desproporcionado-claim]] · [[aku-lectura-como-herramienta-de-mejora-personal-claim]] · [[aku-expande-tu-mente-a-traves-de-un-circulo-diverso-y-mas-sabio-claim]] · [[aku-la-meditacion-con-mantra-baja-el-volumen-de-los-pensamientos-method]]

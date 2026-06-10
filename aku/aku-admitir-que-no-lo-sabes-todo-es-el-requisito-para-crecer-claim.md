@@ -34,6 +34,10 @@ relations:
     - aku-expande-tu-mente-a-traves-de-un-circulo-diverso-y-mas-sabio-claim
     - aku-cambiar-de-opinion-ante-una-perspectiva-nueva-es-evolucion-no-debilidad-claim
     - aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim
+    - aku-abraza-el-fracaso-examinalo-y-usalo-para-reconstruir-mas-alto-claim
+    - aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept
+    - aku-el-exito-se-construye-sobre-el-fracaso-repetido-y-la-introspeccion-claim
+    - aku-el-fracaso-temprano-produce-mas-exito-a-largo-plazo-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -46,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-expande-tu-mente-a-traves-de-un-circulo-diverso-y-mas-sabio-claim]] · [[aku-cambiar-de-opinion-ante-una-perspectiva-nueva-es-evolucion-no-debilidad-claim]] · [[aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim]]
+**related** ↔ [[aku-expande-tu-mente-a-traves-de-un-circulo-diverso-y-mas-sabio-claim]] · [[aku-cambiar-de-opinion-ante-una-perspectiva-nueva-es-evolucion-no-debilidad-claim]] · [[aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim]] · [[aku-abraza-el-fracaso-examinalo-y-usalo-para-reconstruir-mas-alto-claim]] · [[aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept]] · [[aku-el-exito-se-construye-sobre-el-fracaso-repetido-y-la-introspeccion-claim]] · [[aku-el-fracaso-temprano-produce-mas-exito-a-largo-plazo-claim]]

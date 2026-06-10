@@ -34,6 +34,9 @@ relations:
   related:
     - aku-conocer-tu-valor-y-extraer-el-maximo-concept
     - aku-habit-contract-y-accountability-partner-method
+    - aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method
+    - aku-depender-de-otros-para-entender-tus-negocios-es-una-posicion-peligrosa-claim
+    - aku-el-hustler-es-agresivo-pero-no-temerario-investiga-antes-de-apostar-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-conocer-tu-valor-y-extraer-el-maximo-concept]] · [[aku-habit-contract-y-accountability-partner-method]]
+**related** ↔ [[aku-conocer-tu-valor-y-extraer-el-maximo-concept]] · [[aku-habit-contract-y-accountability-partner-method]] · [[aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method]] · [[aku-depender-de-otros-para-entender-tus-negocios-es-una-posicion-peligrosa-claim]] · [[aku-el-hustler-es-agresivo-pero-no-temerario-investiga-antes-de-apostar-claim]]

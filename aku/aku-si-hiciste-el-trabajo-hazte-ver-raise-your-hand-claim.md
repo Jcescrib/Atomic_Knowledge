@@ -30,7 +30,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-la-confianza-sin-miedo-viene-de-la-preparacion-claim, aku-sobre-participar-por-miedo-a-quedar-atras-tambien-sabotea-claim]
+  related:
+    - aku-la-confianza-sin-miedo-viene-de-la-preparacion-claim
+    - aku-sobre-participar-por-miedo-a-quedar-atras-tambien-sabotea-claim
+    - aku-a-veces-hay-que-ser-firme-estableciendo-dominio-para-enviar-un-mensaje-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -43,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-confianza-sin-miedo-viene-de-la-preparacion-claim]] · [[aku-sobre-participar-por-miedo-a-quedar-atras-tambien-sabotea-claim]]
+**related** ↔ [[aku-la-confianza-sin-miedo-viene-de-la-preparacion-claim]] · [[aku-sobre-participar-por-miedo-a-quedar-atras-tambien-sabotea-claim]] · [[aku-a-veces-hay-que-ser-firme-estableciendo-dominio-para-enviar-un-mensaje-claim]]

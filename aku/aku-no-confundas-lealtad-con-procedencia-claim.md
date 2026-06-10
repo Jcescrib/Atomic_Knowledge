@@ -29,7 +29,13 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-equilibra-tu-crew-entre-veteranos-del-dia-uno-y-sangre-nueva-claim]
+  related:
+    - aku-equilibra-tu-crew-entre-veteranos-del-dia-uno-y-sangre-nueva-claim
+    - aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept
+    - aku-un-error-de-contratacion-en-un-rol-critico-es-catastrofico-e-irreversible-claim
+    - aku-juzgar-el-caracter-es-decisivo-tambien-en-el-matrimonio-claim
+    - aku-pregunta-de-cada-persona-hace-depositos-o-solo-retiros-claim
+    - aku-identifica-y-manten-distancia-de-quienes-te-arrastran-al-fondo-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -42,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-equilibra-tu-crew-entre-veteranos-del-dia-uno-y-sangre-nueva-claim]]
+**related** ↔ [[aku-equilibra-tu-crew-entre-veteranos-del-dia-uno-y-sangre-nueva-claim]] · [[aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept]] · [[aku-un-error-de-contratacion-en-un-rol-critico-es-catastrofico-e-irreversible-claim]] · [[aku-juzgar-el-caracter-es-decisivo-tambien-en-el-matrimonio-claim]] · [[aku-pregunta-de-cada-persona-hace-depositos-o-solo-retiros-claim]] · [[aku-identifica-y-manten-distancia-de-quienes-te-arrastran-al-fondo-claim]]

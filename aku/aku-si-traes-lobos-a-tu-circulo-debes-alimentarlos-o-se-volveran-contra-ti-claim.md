@@ -33,6 +33,9 @@ relations:
   related:
     - aku-pon-la-casa-en-orden-primero-los-problemas-internos-hunden-el-imperio-claim
     - aku-48laws-19-know-who-you-deal-with-concept
+    - aku-ayudar-es-bueno-pero-no-es-tu-responsabilidad-seguir-alimentando-a-quien-falla-claim
+    - aku-no-hay-espacio-para-el-exito-y-los-suckers-alejate-del-entorno-toxico-claim
+    - aku-no-dejes-que-el-ego-te-ciegue-ante-una-asociacion-que-te-lleva-mas-lejos-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -45,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-pon-la-casa-en-orden-primero-los-problemas-internos-hunden-el-imperio-claim]] · [[aku-48laws-19-know-who-you-deal-with-concept]]
+**related** ↔ [[aku-pon-la-casa-en-orden-primero-los-problemas-internos-hunden-el-imperio-claim]] · [[aku-48laws-19-know-who-you-deal-with-concept]] · [[aku-ayudar-es-bueno-pero-no-es-tu-responsabilidad-seguir-alimentando-a-quien-falla-claim]] · [[aku-no-hay-espacio-para-el-exito-y-los-suckers-alejate-del-entorno-toxico-claim]] · [[aku-no-dejes-que-el-ego-te-ciegue-ante-una-asociacion-que-te-lleva-mas-lejos-claim]]

@@ -30,7 +30,14 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-instila-y-exige-disciplina-tolerancia-cero-al-conflicto-interno-claim, aku-si-traes-lobos-a-tu-circulo-debes-alimentarlos-o-se-volveran-contra-ti-claim]
+  related:
+    - aku-instila-y-exige-disciplina-tolerancia-cero-al-conflicto-interno-claim
+    - aku-si-traes-lobos-a-tu-circulo-debes-alimentarlos-o-se-volveran-contra-ti-claim
+    - aku-equilibra-tu-crew-entre-veteranos-del-dia-uno-y-sangre-nueva-claim
+    - aku-hacer-respetar-las-reglas-exige-aplicar-las-consecuencias-aunque-rompa-una-relacion-claim
+    - aku-renovar-el-crew-por-uno-mejor-es-legitimo-si-diste-oportunidades-y-no-funciono-claim
+    - aku-homeboy-complex-concept
+    - aku-rodearte-de-yes-men-impide-aprender-de-tus-errores-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -43,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-instila-y-exige-disciplina-tolerancia-cero-al-conflicto-interno-claim]] · [[aku-si-traes-lobos-a-tu-circulo-debes-alimentarlos-o-se-volveran-contra-ti-claim]]
+**related** ↔ [[aku-instila-y-exige-disciplina-tolerancia-cero-al-conflicto-interno-claim]] · [[aku-si-traes-lobos-a-tu-circulo-debes-alimentarlos-o-se-volveran-contra-ti-claim]] · [[aku-equilibra-tu-crew-entre-veteranos-del-dia-uno-y-sangre-nueva-claim]] · [[aku-hacer-respetar-las-reglas-exige-aplicar-las-consecuencias-aunque-rompa-una-relacion-claim]] · [[aku-renovar-el-crew-por-uno-mejor-es-legitimo-si-diste-oportunidades-y-no-funciono-claim]] · [[aku-homeboy-complex-concept]] · [[aku-rodearte-de-yes-men-impide-aprender-de-tus-errores-claim]]

@@ -35,6 +35,9 @@ relations:
   related:
     - aku-crear-percepcion-de-demanda-y-exclusividad-enciende-la-demanda-real-claim
     - aku-cialdini-escasez-concept
+    - aku-la-percepcion-es-separable-de-la-realidad-y-puedes-usarla-a-tu-favor-claim
+    - aku-subvierte-las-expectativas-da-la-energia-opuesta-para-desarmar-claim
+    - aku-ser-una-cosa-segura-y-dejar-trabajar-con-la-realidad-desactiva-sospechas-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -48,4 +51,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-el-poder-de-la-percepcion-concept]]
-**related** ↔ [[aku-crear-percepcion-de-demanda-y-exclusividad-enciende-la-demanda-real-claim]] · [[aku-cialdini-escasez-concept]]
+**related** ↔ [[aku-crear-percepcion-de-demanda-y-exclusividad-enciende-la-demanda-real-claim]] · [[aku-cialdini-escasez-concept]] · [[aku-la-percepcion-es-separable-de-la-realidad-y-puedes-usarla-a-tu-favor-claim]] · [[aku-subvierte-las-expectativas-da-la-energia-opuesta-para-desarmar-claim]] · [[aku-ser-una-cosa-segura-y-dejar-trabajar-con-la-realidad-desactiva-sospechas-claim]]

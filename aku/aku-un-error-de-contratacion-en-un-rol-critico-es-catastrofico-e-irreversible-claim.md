@@ -25,13 +25,18 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept]
+  supports:
+    - aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-juzgar-el-caracter-es-decisivo-tambien-en-el-matrimonio-claim]
+  related:
+    - aku-juzgar-el-caracter-es-decisivo-tambien-en-el-matrimonio-claim
+    - aku-no-confundas-lealtad-con-procedencia-claim
+    - aku-pregunta-de-cada-persona-hace-depositos-o-solo-retiros-claim
+    - aku-identifica-y-manten-distancia-de-quienes-te-arrastran-al-fondo-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -45,4 +50,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept]]
-**related** ↔ [[aku-juzgar-el-caracter-es-decisivo-tambien-en-el-matrimonio-claim]]
+**related** ↔ [[aku-juzgar-el-caracter-es-decisivo-tambien-en-el-matrimonio-claim]] · [[aku-no-confundas-lealtad-con-procedencia-claim]] · [[aku-pregunta-de-cada-persona-hace-depositos-o-solo-retiros-claim]] · [[aku-identifica-y-manten-distancia-de-quienes-te-arrastran-al-fondo-claim]]

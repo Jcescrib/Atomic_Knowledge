@@ -36,6 +36,10 @@ relations:
     - aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept
     - aku-meditacion-es-apagar-a-la-sociedad-y-escucharte-y-adopta-muchas-formas-claim
     - aku-mejora-metodica-de-tu-baseline-de-felicidad-method
+    - aku-expande-tu-mente-a-traves-de-un-circulo-diverso-y-mas-sabio-claim
+    - aku-lectura-como-herramienta-de-mejora-personal-claim
+    - aku-interiorizar-un-principio-requiere-multiples-ejemplos-claim
+    - aku-un-principio-aplicado-con-constancia-genera-valor-desproporcionado-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -48,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-prioriza-la-informacion-sobre-el-cheque-busca-salas-donde-otros-sepan-mas-claim]] · [[aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept]] · [[aku-meditacion-es-apagar-a-la-sociedad-y-escucharte-y-adopta-muchas-formas-claim]] · [[aku-mejora-metodica-de-tu-baseline-de-felicidad-method]]
+**related** ↔ [[aku-prioriza-la-informacion-sobre-el-cheque-busca-salas-donde-otros-sepan-mas-claim]] · [[aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept]] · [[aku-meditacion-es-apagar-a-la-sociedad-y-escucharte-y-adopta-muchas-formas-claim]] · [[aku-mejora-metodica-de-tu-baseline-de-felicidad-method]] · [[aku-expande-tu-mente-a-traves-de-un-circulo-diverso-y-mas-sabio-claim]] · [[aku-lectura-como-herramienta-de-mejora-personal-claim]] · [[aku-interiorizar-un-principio-requiere-multiples-ejemplos-claim]] · [[aku-un-principio-aplicado-con-constancia-genera-valor-desproporcionado-claim]]

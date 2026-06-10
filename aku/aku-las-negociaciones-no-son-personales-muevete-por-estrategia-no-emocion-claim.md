@@ -36,6 +36,9 @@ relations:
     - aku-la-gente-siempre-responde-a-un-competidor-correr-hacia-la-pelea-atrae-miradas-claim
     - aku-detachment-default-high-port-claim
     - aku-mostrar-enfado-y-decepcion-para-lograr-concesiones-claim
+    - aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim
+    - aku-la-paciencia-es-una-fortaleza-negociadora-espera-el-deal-correcto-claim
+    - aku-una-sola-persona-interesada-ya-prueba-que-tu-idea-tiene-valor-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -48,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim]] · [[aku-la-gente-siempre-responde-a-un-competidor-correr-hacia-la-pelea-atrae-miradas-claim]] · [[aku-detachment-default-high-port-claim]] · [[aku-mostrar-enfado-y-decepcion-para-lograr-concesiones-claim]]
+**related** ↔ [[aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim]] · [[aku-la-gente-siempre-responde-a-un-competidor-correr-hacia-la-pelea-atrae-miradas-claim]] · [[aku-detachment-default-high-port-claim]] · [[aku-mostrar-enfado-y-decepcion-para-lograr-concesiones-claim]] · [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]] · [[aku-la-paciencia-es-una-fortaleza-negociadora-espera-el-deal-correcto-claim]] · [[aku-una-sola-persona-interesada-ya-prueba-que-tu-idea-tiene-valor-claim]]

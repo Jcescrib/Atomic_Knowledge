@@ -25,13 +25,19 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: [aku-conocer-tu-valor-y-extraer-el-maximo-concept]
+  supports:
+    - aku-conocer-tu-valor-y-extraer-el-maximo-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-a-veces-el-mejor-modo-de-extraer-valor-es-no-regatear-al-maximo-claim, aku-pedir-equity-es-apostar-por-ti-mismo-claim]
+  related:
+    - aku-a-veces-el-mejor-modo-de-extraer-valor-es-no-regatear-al-maximo-claim
+    - aku-pedir-equity-es-apostar-por-ti-mismo-claim
+    - aku-el-tiempo-es-el-gasto-mas-caro-e-irrecuperable-valoralo-sobre-el-cheque-claim
+    - aku-prioriza-la-informacion-sobre-el-cheque-busca-salas-donde-otros-sepan-mas-claim
+    - aku-no-inviertas-solo-por-un-cheque-sin-pasion-diluyes-tu-marca-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -45,4 +51,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-conocer-tu-valor-y-extraer-el-maximo-concept]]
-**related** ↔ [[aku-a-veces-el-mejor-modo-de-extraer-valor-es-no-regatear-al-maximo-claim]] · [[aku-pedir-equity-es-apostar-por-ti-mismo-claim]]
+**related** ↔ [[aku-a-veces-el-mejor-modo-de-extraer-valor-es-no-regatear-al-maximo-claim]] · [[aku-pedir-equity-es-apostar-por-ti-mismo-claim]] · [[aku-el-tiempo-es-el-gasto-mas-caro-e-irrecuperable-valoralo-sobre-el-cheque-claim]] · [[aku-prioriza-la-informacion-sobre-el-cheque-busca-salas-donde-otros-sepan-mas-claim]] · [[aku-no-inviertas-solo-por-un-cheque-sin-pasion-diluyes-tu-marca-claim]]

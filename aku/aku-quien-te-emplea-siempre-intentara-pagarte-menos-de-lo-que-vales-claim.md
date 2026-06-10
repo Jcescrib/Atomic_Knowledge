@@ -33,6 +33,9 @@ relations:
   contradicts: []
   related:
     - aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim
+    - aku-conformarse-delata-falta-de-confianza-en-tu-valor-y-los-depredadores-la-detectan-claim
+    - aku-pide-un-aumento-por-tu-contribucion-nunca-por-antiguedad-claim
+    - aku-a-veces-el-mejor-modo-de-extraer-valor-es-no-regatear-al-maximo-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -47,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-conocer-tu-valor-y-extraer-el-maximo-concept]]
 
-**related** ↔ [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]]
+**related** ↔ [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]] · [[aku-conformarse-delata-falta-de-confianza-en-tu-valor-y-los-depredadores-la-detectan-claim]] · [[aku-pide-un-aumento-por-tu-contribucion-nunca-por-antiguedad-claim]] · [[aku-a-veces-el-mejor-modo-de-extraer-valor-es-no-regatear-al-maximo-claim]]

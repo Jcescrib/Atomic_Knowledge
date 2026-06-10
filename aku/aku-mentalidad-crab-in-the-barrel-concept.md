@@ -35,6 +35,7 @@ relations:
     - aku-no-hay-espacio-para-el-exito-y-los-suckers-alejate-del-entorno-toxico-claim
     - aku-homeboy-complex-concept
     - aku-no-te-asocies-con-cinicos-ni-pesimistas-claim
+    - aku-el-odio-genera-conversacion-y-atencion-la-neutralidad-no-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-hay-espacio-para-el-exito-y-los-suckers-alejate-del-entorno-toxico-claim]] · [[aku-homeboy-complex-concept]] · [[aku-no-te-asocies-con-cinicos-ni-pesimistas-claim]]
+**related** ↔ [[aku-no-hay-espacio-para-el-exito-y-los-suckers-alejate-del-entorno-toxico-claim]] · [[aku-homeboy-complex-concept]] · [[aku-no-te-asocies-con-cinicos-ni-pesimistas-claim]] · [[aku-el-odio-genera-conversacion-y-atencion-la-neutralidad-no-claim]]

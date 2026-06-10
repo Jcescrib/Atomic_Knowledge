@@ -35,6 +35,13 @@ relations:
     - aku-accountability-bajo-tu-nombre-concept
     - aku-los-habitos-crean-libertad-no-la-restringen-claim
     - aku-apologizing-no-es-debilidad-claim
+    - aku-el-entitlement-de-los-de-abajo-es-learned-helplessness-claim
+    - aku-el-entitlement-es-un-problema-cultural-no-de-edad-ni-raza-importa-hustle-claim
+    - aku-quien-culpa-a-otros-nunca-mira-su-propia-falta-de-hustle-claim
+    - aku-hacer-demasiado-por-alguien-le-crea-entitlement-y-resentimiento-claim
+    - aku-presenciar-la-pobreza-real-cura-el-entitlement-y-reencuadra-la-gratitud-claim
+    - aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim
+    - aku-el-want-es-motivador-solo-si-lo-conviertes-en-trabajo-no-en-expectativa-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -49,4 +56,4 @@ status_note: ""
 
 **supports** → [[aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept]]
 
-**related** ↔ [[aku-accountability-bajo-tu-nombre-concept]] · [[aku-los-habitos-crean-libertad-no-la-restringen-claim]] · [[aku-apologizing-no-es-debilidad-claim]]
+**related** ↔ [[aku-accountability-bajo-tu-nombre-concept]] · [[aku-los-habitos-crean-libertad-no-la-restringen-claim]] · [[aku-apologizing-no-es-debilidad-claim]] · [[aku-el-entitlement-de-los-de-abajo-es-learned-helplessness-claim]] · [[aku-el-entitlement-es-un-problema-cultural-no-de-edad-ni-raza-importa-hustle-claim]] · [[aku-quien-culpa-a-otros-nunca-mira-su-propia-falta-de-hustle-claim]] · [[aku-hacer-demasiado-por-alguien-le-crea-entitlement-y-resentimiento-claim]] · [[aku-presenciar-la-pobreza-real-cura-el-entitlement-y-reencuadra-la-gratitud-claim]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]] · [[aku-el-want-es-motivador-solo-si-lo-conviertes-en-trabajo-no-en-expectativa-claim]]

@@ -34,6 +34,9 @@ relations:
   related:
     - aku-enfocate-en-el-potencial-a-largo-plazo-no-en-el-primer-cheque-claim
     - aku-give-ask-ratio-claim
+    - aku-conformarse-delata-falta-de-confianza-en-tu-valor-y-los-depredadores-la-detectan-claim
+    - aku-quien-te-emplea-siempre-intentara-pagarte-menos-de-lo-que-vales-claim
+    - aku-pide-un-aumento-por-tu-contribucion-nunca-por-antiguedad-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -47,4 +50,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-conocer-tu-valor-y-extraer-el-maximo-concept]]
-**related** ↔ [[aku-enfocate-en-el-potencial-a-largo-plazo-no-en-el-primer-cheque-claim]] · [[aku-give-ask-ratio-claim]]
+**related** ↔ [[aku-enfocate-en-el-potencial-a-largo-plazo-no-en-el-primer-cheque-claim]] · [[aku-give-ask-ratio-claim]] · [[aku-conformarse-delata-falta-de-confianza-en-tu-valor-y-los-depredadores-la-detectan-claim]] · [[aku-quien-te-emplea-siempre-intentara-pagarte-menos-de-lo-que-vales-claim]] · [[aku-pide-un-aumento-por-tu-contribucion-nunca-por-antiguedad-claim]]

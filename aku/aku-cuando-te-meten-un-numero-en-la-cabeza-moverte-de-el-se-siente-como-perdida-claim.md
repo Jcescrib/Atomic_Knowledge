@@ -39,6 +39,9 @@ relations:
     - aku-hacer-la-primera-oferta-anclaje-claim
     - aku-primar-la-capacidad-del-rival-de-ejecutar-el-trato-claim
     - aku-un-numero-mayor-sugiere-un-producto-mas-avanzado-claim
+    - aku-las-negociaciones-no-son-personales-muevete-por-estrategia-no-emocion-claim
+    - aku-la-paciencia-es-una-fortaleza-negociadora-espera-el-deal-correcto-claim
+    - aku-una-sola-persona-interesada-ya-prueba-que-tu-idea-tiene-valor-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -51,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-llega-el-momento-de-cortar-el-cordon-con-el-pasado-para-no-estancarte-claim]] · [[aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim]] · [[aku-exponer-a-cualquier-numero-alto-eleva-el-precio-de-referencia-claim]] · [[aku-pedir-un-rango-alto-y-preciso-claim]] · [[aku-hacer-la-primera-oferta-anclaje-claim]] · [[aku-primar-la-capacidad-del-rival-de-ejecutar-el-trato-claim]] · [[aku-un-numero-mayor-sugiere-un-producto-mas-avanzado-claim]]
+**related** ↔ [[aku-llega-el-momento-de-cortar-el-cordon-con-el-pasado-para-no-estancarte-claim]] · [[aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim]] · [[aku-exponer-a-cualquier-numero-alto-eleva-el-precio-de-referencia-claim]] · [[aku-pedir-un-rango-alto-y-preciso-claim]] · [[aku-hacer-la-primera-oferta-anclaje-claim]] · [[aku-primar-la-capacidad-del-rival-de-ejecutar-el-trato-claim]] · [[aku-un-numero-mayor-sugiere-un-producto-mas-avanzado-claim]] · [[aku-las-negociaciones-no-son-personales-muevete-por-estrategia-no-emocion-claim]] · [[aku-la-paciencia-es-una-fortaleza-negociadora-espera-el-deal-correcto-claim]] · [[aku-una-sola-persona-interesada-ya-prueba-que-tu-idea-tiene-valor-claim]]

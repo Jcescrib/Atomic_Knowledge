@@ -36,6 +36,10 @@ relations:
     - aku-el-toque-ligero-en-el-antebrazo-aumenta-el-acuerdo-method
     - aku-48laws-46-never-appear-too-perfect-concept
     - aku-inseguridad-admitir-no-ocultar-claim
+    - aku-la-percepcion-es-separable-de-la-realidad-y-puedes-usarla-a-tu-favor-claim
+    - aku-act-like-you-dont-need-it-la-neediness-repele-la-inalcanzabilidad-atrae-claim
+    - aku-crear-percepcion-de-demanda-y-exclusividad-enciende-la-demanda-real-claim
+    - aku-ser-una-cosa-segura-y-dejar-trabajar-con-la-realidad-desactiva-sospechas-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -49,4 +53,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-el-poder-de-la-percepcion-concept]]
-**related** ↔ [[aku-el-toque-ligero-en-el-antebrazo-aumenta-el-acuerdo-method]] · [[aku-48laws-46-never-appear-too-perfect-concept]] · [[aku-inseguridad-admitir-no-ocultar-claim]]
+**related** ↔ [[aku-el-toque-ligero-en-el-antebrazo-aumenta-el-acuerdo-method]] · [[aku-48laws-46-never-appear-too-perfect-concept]] · [[aku-inseguridad-admitir-no-ocultar-claim]] · [[aku-la-percepcion-es-separable-de-la-realidad-y-puedes-usarla-a-tu-favor-claim]] · [[aku-act-like-you-dont-need-it-la-neediness-repele-la-inalcanzabilidad-atrae-claim]] · [[aku-crear-percepcion-de-demanda-y-exclusividad-enciende-la-demanda-real-claim]] · [[aku-ser-una-cosa-segura-y-dejar-trabajar-con-la-realidad-desactiva-sospechas-claim]]

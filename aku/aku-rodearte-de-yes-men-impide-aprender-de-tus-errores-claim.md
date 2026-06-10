@@ -37,6 +37,12 @@ relations:
     - aku-cambiar-de-opinion-ante-una-perspectiva-nueva-es-evolucion-no-debilidad-claim
     - aku-humildad-es-la-cualidad-mas-importante-claim
     - aku-ego-nubla-todo-claim
+    - aku-equilibra-tu-crew-entre-veteranos-del-dia-uno-y-sangre-nueva-claim
+    - aku-instila-y-exige-disciplina-tolerancia-cero-al-conflicto-interno-claim
+    - aku-hacer-respetar-las-reglas-exige-aplicar-las-consecuencias-aunque-rompa-una-relacion-claim
+    - aku-renovar-el-crew-por-uno-mejor-es-legitimo-si-diste-oportunidades-y-no-funciono-claim
+    - aku-homeboy-complex-concept
+    - aku-pon-la-casa-en-orden-primero-los-problemas-internos-hunden-el-imperio-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -49,4 +55,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim]] · [[aku-un-jefe-que-grita-e-intimida-silencia-el-feedback-que-necesita-claim]] · [[aku-cambiar-de-opinion-ante-una-perspectiva-nueva-es-evolucion-no-debilidad-claim]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-ego-nubla-todo-claim]]
+**related** ↔ [[aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim]] · [[aku-un-jefe-que-grita-e-intimida-silencia-el-feedback-que-necesita-claim]] · [[aku-cambiar-de-opinion-ante-una-perspectiva-nueva-es-evolucion-no-debilidad-claim]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-ego-nubla-todo-claim]] · [[aku-equilibra-tu-crew-entre-veteranos-del-dia-uno-y-sangre-nueva-claim]] · [[aku-instila-y-exige-disciplina-tolerancia-cero-al-conflicto-interno-claim]] · [[aku-hacer-respetar-las-reglas-exige-aplicar-las-consecuencias-aunque-rompa-una-relacion-claim]] · [[aku-renovar-el-crew-por-uno-mejor-es-legitimo-si-diste-oportunidades-y-no-funciono-claim]] · [[aku-homeboy-complex-concept]] · [[aku-pon-la-casa-en-orden-primero-los-problemas-internos-hunden-el-imperio-claim]]

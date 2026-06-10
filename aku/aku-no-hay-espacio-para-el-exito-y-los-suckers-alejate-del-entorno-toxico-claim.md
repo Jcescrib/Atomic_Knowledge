@@ -36,6 +36,9 @@ relations:
     - aku-identifica-y-manten-distancia-de-quienes-te-arrastran-al-fondo-claim
     - aku-el-contexto-es-el-cue-un-espacio-un-uso-concept
     - aku-prime-tu-entorno-para-el-uso-futuro-method
+    - aku-si-traes-lobos-a-tu-circulo-debes-alimentarlos-o-se-volveran-contra-ti-claim
+    - aku-ayudar-es-bueno-pero-no-es-tu-responsabilidad-seguir-alimentando-a-quien-falla-claim
+    - aku-no-dejes-que-el-ego-te-ciegue-ante-una-asociacion-que-te-lleva-mas-lejos-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -48,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-mentalidad-crab-in-the-barrel-concept]] · [[aku-identifica-y-manten-distancia-de-quienes-te-arrastran-al-fondo-claim]] · [[aku-el-contexto-es-el-cue-un-espacio-un-uso-concept]] · [[aku-prime-tu-entorno-para-el-uso-futuro-method]]
+**related** ↔ [[aku-mentalidad-crab-in-the-barrel-concept]] · [[aku-identifica-y-manten-distancia-de-quienes-te-arrastran-al-fondo-claim]] · [[aku-el-contexto-es-el-cue-un-espacio-un-uso-concept]] · [[aku-prime-tu-entorno-para-el-uso-futuro-method]] · [[aku-si-traes-lobos-a-tu-circulo-debes-alimentarlos-o-se-volveran-contra-ti-claim]] · [[aku-ayudar-es-bueno-pero-no-es-tu-responsabilidad-seguir-alimentando-a-quien-falla-claim]] · [[aku-no-dejes-que-el-ego-te-ciegue-ante-una-asociacion-que-te-lleva-mas-lejos-claim]]

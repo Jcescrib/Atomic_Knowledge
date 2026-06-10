@@ -35,6 +35,8 @@ relations:
     - aku-el-liderazgo-eficaz-adapta-la-tactica-a-cada-persona-claim
     - aku-el-exceso-de-confianza-antes-de-un-reto-te-hace-vulnerable-claim
     - aku-lider-y-seguidor-concept
+    - aku-un-jefe-que-grita-e-intimida-silencia-el-feedback-que-necesita-claim
+    - aku-si-eres-el-whipping-boy-identifica-y-cambia-la-energia-que-proyectas-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-liderazgo-eficaz-adapta-la-tactica-a-cada-persona-claim]] · [[aku-el-exceso-de-confianza-antes-de-un-reto-te-hace-vulnerable-claim]] · [[aku-lider-y-seguidor-concept]]
+**related** ↔ [[aku-el-liderazgo-eficaz-adapta-la-tactica-a-cada-persona-claim]] · [[aku-el-exceso-de-confianza-antes-de-un-reto-te-hace-vulnerable-claim]] · [[aku-lider-y-seguidor-concept]] · [[aku-un-jefe-que-grita-e-intimida-silencia-el-feedback-que-necesita-claim]] · [[aku-si-eres-el-whipping-boy-identifica-y-cambia-la-energia-que-proyectas-claim]]

@@ -43,6 +43,11 @@ relations:
     - aku-48laws-06-court-attention-at-all-cost-concept
     - aku-48laws-02-never-trust-friends-use-enemies-concept
     - aku-48laws-39-stir-up-waters-to-catch-fish-concept
+    - aku-evita-la-competencia-amanada-y-no-te-dejes-encasillar-claim
+    - aku-puedes-fabricar-una-competencia-para-generar-buzz-claim
+    - aku-para-competir-bien-primero-hay-que-apreciar-la-grandeza-ajena-claim
+    - aku-nunca-terminas-de-competir-al-final-compites-contigo-mismo-claim
+    - aku-solo-te-superas-comparandote-con-los-mejores-no-con-inferiores-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -56,4 +61,4 @@ status_note: ""
 ## Relaciones
 
 **supported_by** ← [[aku-el-odio-genera-conversacion-y-atencion-la-neutralidad-no-claim]] · [[aku-un-mejor-oponente-te-hace-mejor-iron-sharpens-iron-claim]] · [[aku-enfrentar-a-tu-competencia-de-frente-y-out-trabajarla-da-confianza-duradera-claim]] · [[aku-la-gente-siempre-responde-a-un-competidor-correr-hacia-la-pelea-atrae-miradas-claim]] · [[aku-dicta-quien-es-tu-oponente-compite-contra-el-mejor-en-tu-terreno-claim]] · [[aku-lleva-un-book-scouting-report-de-tu-competencia-method]]
-**related** ↔ [[aku-no-mantengas-a-flote-a-competidores-inconsecuentes-desenganchate-claim]] · [[aku-48laws-15-crush-your-enemy-totally-concept]] · [[aku-48laws-06-court-attention-at-all-cost-concept]] · [[aku-48laws-02-never-trust-friends-use-enemies-concept]] · [[aku-48laws-39-stir-up-waters-to-catch-fish-concept]]
+**related** ↔ [[aku-no-mantengas-a-flote-a-competidores-inconsecuentes-desenganchate-claim]] · [[aku-48laws-15-crush-your-enemy-totally-concept]] · [[aku-48laws-06-court-attention-at-all-cost-concept]] · [[aku-48laws-02-never-trust-friends-use-enemies-concept]] · [[aku-48laws-39-stir-up-waters-to-catch-fish-concept]] · [[aku-evita-la-competencia-amanada-y-no-te-dejes-encasillar-claim]] · [[aku-puedes-fabricar-una-competencia-para-generar-buzz-claim]] · [[aku-para-competir-bien-primero-hay-que-apreciar-la-grandeza-ajena-claim]] · [[aku-nunca-terminas-de-competir-al-final-compites-contigo-mismo-claim]] · [[aku-solo-te-superas-comparandote-con-los-mejores-no-con-inferiores-claim]]

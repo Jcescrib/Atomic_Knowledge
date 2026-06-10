@@ -31,7 +31,13 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-corazon-de-hustler-concept, aku-la-pasion-no-el-talento-distingue-a-los-grandes-claim]
+  related:
+    - aku-corazon-de-hustler-concept
+    - aku-la-pasion-no-el-talento-distingue-a-los-grandes-claim
+    - aku-hustlar-exige-definir-con-claridad-que-quieres-claim
+    - aku-los-vision-boards-materializan-las-metas-y-elevan-su-probabilidad-claim
+    - aku-tu-vision-debe-evolucionar-y-escalar-con-el-tiempo-claim
+    - aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -44,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-corazon-de-hustler-concept]] · [[aku-la-pasion-no-el-talento-distingue-a-los-grandes-claim]]
+**related** ↔ [[aku-corazon-de-hustler-concept]] · [[aku-la-pasion-no-el-talento-distingue-a-los-grandes-claim]] · [[aku-hustlar-exige-definir-con-claridad-que-quieres-claim]] · [[aku-los-vision-boards-materializan-las-metas-y-elevan-su-probabilidad-claim]] · [[aku-tu-vision-debe-evolucionar-y-escalar-con-el-tiempo-claim]] · [[aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim]]

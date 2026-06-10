@@ -37,6 +37,12 @@ relations:
     - aku-evita-la-competencia-amanada-y-no-te-dejes-encasillar-claim
     - aku-posture-principle-concept
     - aku-controlar-timing-vence-rival-mas-rapido-claim
+    - aku-la-gente-siempre-responde-a-un-competidor-correr-hacia-la-pelea-atrae-miradas-claim
+    - aku-no-mantengas-a-flote-a-competidores-inconsecuentes-desenganchate-claim
+    - aku-para-competir-bien-primero-hay-que-apreciar-la-grandeza-ajena-claim
+    - aku-un-mejor-oponente-te-hace-mejor-iron-sharpens-iron-claim
+    - aku-nunca-terminas-de-competir-al-final-compites-contigo-mismo-claim
+    - aku-solo-te-superas-comparandote-con-los-mejores-no-con-inferiores-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -50,4 +56,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-la-competencia-como-estrategia-if-we-cant-be-friends-concept]]
-**related** ↔ [[aku-puedes-fabricar-una-competencia-para-generar-buzz-claim]] · [[aku-evita-la-competencia-amanada-y-no-te-dejes-encasillar-claim]] · [[aku-posture-principle-concept]] · [[aku-controlar-timing-vence-rival-mas-rapido-claim]]
+**related** ↔ [[aku-puedes-fabricar-una-competencia-para-generar-buzz-claim]] · [[aku-evita-la-competencia-amanada-y-no-te-dejes-encasillar-claim]] · [[aku-posture-principle-concept]] · [[aku-controlar-timing-vence-rival-mas-rapido-claim]] · [[aku-la-gente-siempre-responde-a-un-competidor-correr-hacia-la-pelea-atrae-miradas-claim]] · [[aku-no-mantengas-a-flote-a-competidores-inconsecuentes-desenganchate-claim]] · [[aku-para-competir-bien-primero-hay-que-apreciar-la-grandeza-ajena-claim]] · [[aku-un-mejor-oponente-te-hace-mejor-iron-sharpens-iron-claim]] · [[aku-nunca-terminas-de-competir-al-final-compites-contigo-mismo-claim]] · [[aku-solo-te-superas-comparandote-con-los-mejores-no-con-inferiores-claim]]

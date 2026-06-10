@@ -35,6 +35,10 @@ relations:
   related:
     - aku-crear-percepcion-de-demanda-y-exclusividad-enciende-la-demanda-real-claim
     - aku-48laws-37-create-compelling-spectacles-concept
+    - aku-la-confianza-sin-miedo-viene-de-la-preparacion-claim
+    - aku-ser-tu-mismo-es-tu-mayor-fuente-de-poder-presenta-tu-mejor-version-claim
+    - aku-apuesta-solo-a-cosas-seguras-la-unica-100-segura-eres-tu-mismo-claim
+    - aku-pedir-equity-es-apostar-por-ti-mismo-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -48,4 +52,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-el-poder-de-la-percepcion-concept]]
-**related** ↔ [[aku-crear-percepcion-de-demanda-y-exclusividad-enciende-la-demanda-real-claim]] · [[aku-48laws-37-create-compelling-spectacles-concept]]
+**related** ↔ [[aku-crear-percepcion-de-demanda-y-exclusividad-enciende-la-demanda-real-claim]] · [[aku-48laws-37-create-compelling-spectacles-concept]] · [[aku-la-confianza-sin-miedo-viene-de-la-preparacion-claim]] · [[aku-ser-tu-mismo-es-tu-mayor-fuente-de-poder-presenta-tu-mejor-version-claim]] · [[aku-apuesta-solo-a-cosas-seguras-la-unica-100-segura-eres-tu-mismo-claim]] · [[aku-pedir-equity-es-apostar-por-ti-mismo-claim]]

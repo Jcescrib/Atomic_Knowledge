@@ -37,6 +37,9 @@ relations:
     - aku-sacudete-el-golpe-y-sigue-no-te-instales-en-la-victima-claim
     - aku-cuatro-tipos-de-suerte-concept
     - aku-good-mindset-concept
+    - aku-el-castigo-no-se-acepta-siempre-puedes-actuar-claim
+    - aku-lo-que-determina-el-resultado-no-es-el-fracaso-sino-tu-respuesta-claim
+    - aku-recuperarte-de-un-desastre-descansa-limpia-la-energia-y-reconstruye-desde-abajo-method
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -50,4 +53,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-corazon-de-hustler-concept]]
-**related** ↔ [[aku-la-adversidad-temprana-forja-una-resiliencia-que-el-privilegio-no-da-claim]] · [[aku-sacudete-el-golpe-y-sigue-no-te-instales-en-la-victima-claim]] · [[aku-cuatro-tipos-de-suerte-concept]] · [[aku-good-mindset-concept]]
+**related** ↔ [[aku-la-adversidad-temprana-forja-una-resiliencia-que-el-privilegio-no-da-claim]] · [[aku-sacudete-el-golpe-y-sigue-no-te-instales-en-la-victima-claim]] · [[aku-cuatro-tipos-de-suerte-concept]] · [[aku-good-mindset-concept]] · [[aku-el-castigo-no-se-acepta-siempre-puedes-actuar-claim]] · [[aku-lo-que-determina-el-resultado-no-es-el-fracaso-sino-tu-respuesta-claim]] · [[aku-recuperarte-de-un-desastre-descansa-limpia-la-energia-y-reconstruye-desde-abajo-method]]

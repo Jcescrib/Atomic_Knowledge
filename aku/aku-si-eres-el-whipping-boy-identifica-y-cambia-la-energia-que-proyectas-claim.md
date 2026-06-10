@@ -31,7 +31,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-un-jefe-que-grita-e-intimida-silencia-el-feedback-que-necesita-claim]
+  related:
+    - aku-un-jefe-que-grita-e-intimida-silencia-el-feedback-que-necesita-claim
+    - aku-el-liderazgo-eficaz-adapta-la-tactica-a-cada-persona-claim
+    - aku-liderar-es-articular-la-oportunidad-que-ves-hasta-que-la-otra-persona-la-vea-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -44,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-un-jefe-que-grita-e-intimida-silencia-el-feedback-que-necesita-claim]]
+**related** ↔ [[aku-un-jefe-que-grita-e-intimida-silencia-el-feedback-que-necesita-claim]] · [[aku-el-liderazgo-eficaz-adapta-la-tactica-a-cada-persona-claim]] · [[aku-liderar-es-articular-la-oportunidad-que-ves-hasta-que-la-otra-persona-la-vea-claim]]

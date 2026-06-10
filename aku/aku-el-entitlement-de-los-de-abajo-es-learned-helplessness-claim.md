@@ -31,7 +31,15 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-el-entitlement-es-un-problema-cultural-no-de-edad-ni-raza-importa-hustle-claim]
+  related:
+    - aku-el-entitlement-es-un-problema-cultural-no-de-edad-ni-raza-importa-hustle-claim
+    - aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept
+    - aku-quien-culpa-a-otros-nunca-mira-su-propia-falta-de-hustle-claim
+    - aku-hacer-demasiado-por-alguien-le-crea-entitlement-y-resentimiento-claim
+    - aku-presenciar-la-pobreza-real-cura-el-entitlement-y-reencuadra-la-gratitud-claim
+    - aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim
+    - aku-aceptar-que-todo-depende-de-ti-es-liberador-claim
+    - aku-el-want-es-motivador-solo-si-lo-conviertes-en-trabajo-no-en-expectativa-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -44,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-entitlement-es-un-problema-cultural-no-de-edad-ni-raza-importa-hustle-claim]]
+**related** ↔ [[aku-el-entitlement-es-un-problema-cultural-no-de-edad-ni-raza-importa-hustle-claim]] · [[aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept]] · [[aku-quien-culpa-a-otros-nunca-mira-su-propia-falta-de-hustle-claim]] · [[aku-hacer-demasiado-por-alguien-le-crea-entitlement-y-resentimiento-claim]] · [[aku-presenciar-la-pobreza-real-cura-el-entitlement-y-reencuadra-la-gratitud-claim]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]] · [[aku-aceptar-que-todo-depende-de-ti-es-liberador-claim]] · [[aku-el-want-es-motivador-solo-si-lo-conviertes-en-trabajo-no-en-expectativa-claim]]

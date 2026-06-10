@@ -31,7 +31,12 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: [aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept]
+  related:
+    - aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept
+    - aku-abraza-el-fracaso-examinalo-y-usalo-para-reconstruir-mas-alto-claim
+    - aku-el-exito-se-construye-sobre-el-fracaso-repetido-y-la-introspeccion-claim
+    - aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim
+    - aku-admitir-que-no-lo-sabes-todo-es-el-requisito-para-crecer-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -44,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept]]
+**related** ↔ [[aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept]] · [[aku-abraza-el-fracaso-examinalo-y-usalo-para-reconstruir-mas-alto-claim]] · [[aku-el-exito-se-construye-sobre-el-fracaso-repetido-y-la-introspeccion-claim]] · [[aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim]] · [[aku-admitir-que-no-lo-sabes-todo-es-el-requisito-para-crecer-claim]]

@@ -35,6 +35,15 @@ relations:
     - aku-la-confianza-sin-miedo-viene-de-la-preparacion-claim
     - aku-balancing-praise-elogio-con-cautela-claim
     - aku-disease-of-victory-concept
+    - aku-al-otro-lado-del-miedo-esta-la-libertad-claim
+    - aku-fearlessness-no-es-ausencia-de-miedo-concept
+    - aku-la-fearlessness-es-un-musculo-que-se-desarrolla-claim
+    - aku-la-comodidad-con-el-miedo-mata-la-ambicion-claim
+    - aku-el-miedo-que-interrumpe-tu-rutina-ya-te-domina-claim
+    - aku-descubrir-que-sobrevives-los-golpes-disuelve-el-miedo-claim
+    - aku-para-superar-un-miedo-reconocelo-y-planifica-superarlo-method
+    - aku-reconocer-los-miedos-que-no-has-confrontado-es-parte-del-trabajo-claim
+    - aku-un-poco-de-miedo-y-paranoia-es-util-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -47,4 +56,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-liderar-es-articular-la-oportunidad-que-ves-hasta-que-la-otra-persona-la-vea-claim]] · [[aku-la-confianza-sin-miedo-viene-de-la-preparacion-claim]] · [[aku-balancing-praise-elogio-con-cautela-claim]] · [[aku-disease-of-victory-concept]]
+**related** ↔ [[aku-liderar-es-articular-la-oportunidad-que-ves-hasta-que-la-otra-persona-la-vea-claim]] · [[aku-la-confianza-sin-miedo-viene-de-la-preparacion-claim]] · [[aku-balancing-praise-elogio-con-cautela-claim]] · [[aku-disease-of-victory-concept]] · [[aku-al-otro-lado-del-miedo-esta-la-libertad-claim]] · [[aku-fearlessness-no-es-ausencia-de-miedo-concept]] · [[aku-la-fearlessness-es-un-musculo-que-se-desarrolla-claim]] · [[aku-la-comodidad-con-el-miedo-mata-la-ambicion-claim]] · [[aku-el-miedo-que-interrumpe-tu-rutina-ya-te-domina-claim]] · [[aku-descubrir-que-sobrevives-los-golpes-disuelve-el-miedo-claim]] · [[aku-para-superar-un-miedo-reconocelo-y-planifica-superarlo-method]] · [[aku-reconocer-los-miedos-que-no-has-confrontado-es-parte-del-trabajo-claim]] · [[aku-un-poco-de-miedo-y-paranoia-es-util-claim]]

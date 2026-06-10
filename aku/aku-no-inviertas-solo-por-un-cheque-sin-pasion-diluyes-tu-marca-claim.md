@@ -33,6 +33,9 @@ relations:
   related:
     - aku-la-pasion-no-el-talento-distingue-a-los-grandes-claim
     - aku-no-te-asocies-con-cinicos-ni-pesimistas-claim
+    - aku-enfocate-en-el-potencial-a-largo-plazo-no-en-el-primer-cheque-claim
+    - aku-el-tiempo-es-el-gasto-mas-caro-e-irrecuperable-valoralo-sobre-el-cheque-claim
+    - aku-prioriza-la-informacion-sobre-el-cheque-busca-salas-donde-otros-sepan-mas-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -45,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-pasion-no-el-talento-distingue-a-los-grandes-claim]] · [[aku-no-te-asocies-con-cinicos-ni-pesimistas-claim]]
+**related** ↔ [[aku-la-pasion-no-el-talento-distingue-a-los-grandes-claim]] · [[aku-no-te-asocies-con-cinicos-ni-pesimistas-claim]] · [[aku-enfocate-en-el-potencial-a-largo-plazo-no-en-el-primer-cheque-claim]] · [[aku-el-tiempo-es-el-gasto-mas-caro-e-irrecuperable-valoralo-sobre-el-cheque-claim]] · [[aku-prioriza-la-informacion-sobre-el-cheque-busca-salas-donde-otros-sepan-mas-claim]]
