@@ -34,6 +34,7 @@ relations:
   related:
     - aku-48laws-23-concentrate-your-forces-concept
     - aku-48laws-25-re-create-yourself-concept
+    - aku-48laws-01-never-outshine-the-master-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-23-concentrate-your-forces-concept]] · [[aku-48laws-25-re-create-yourself-concept]]
+**related** ↔ [[aku-48laws-23-concentrate-your-forces-concept]] · [[aku-48laws-25-re-create-yourself-concept]] · [[aku-48laws-01-never-outshine-the-master-concept]]

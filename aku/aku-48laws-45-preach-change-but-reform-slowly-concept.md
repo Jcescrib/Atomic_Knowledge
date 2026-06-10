@@ -34,6 +34,8 @@ relations:
   related:
     - aku-48laws-44-mirror-effect-concept
     - aku-48laws-46-never-appear-too-perfect-concept
+    - aku-48laws-22-use-the-surrender-tactic-concept
+    - aku-48laws-47-learn-when-to-stop-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-44-mirror-effect-concept]] · [[aku-48laws-46-never-appear-too-perfect-concept]]
+**related** ↔ [[aku-48laws-44-mirror-effect-concept]] · [[aku-48laws-46-never-appear-too-perfect-concept]] · [[aku-48laws-22-use-the-surrender-tactic-concept]] · [[aku-48laws-47-learn-when-to-stop-concept]]

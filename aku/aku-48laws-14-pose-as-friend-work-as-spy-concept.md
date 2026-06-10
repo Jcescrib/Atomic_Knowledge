@@ -35,6 +35,11 @@ relations:
     - aku-48laws-13-appeal-to-self-interest-concept
     - aku-48laws-15-crush-your-enemy-totally-concept
     - aku-hesitar-a-veces-es-prudente-claim
+    - aku-48laws-03-conceal-your-intentions-concept
+    - aku-48laws-12-selective-honesty-to-disarm-concept
+    - aku-48laws-21-play-a-sucker-to-catch-a-sucker-concept
+    - aku-48laws-31-control-the-options-concept
+    - aku-48laws-44-mirror-effect-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -47,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-13-appeal-to-self-interest-concept]] · [[aku-48laws-15-crush-your-enemy-totally-concept]] · [[aku-hesitar-a-veces-es-prudente-claim]]
+**related** ↔ [[aku-48laws-13-appeal-to-self-interest-concept]] · [[aku-48laws-15-crush-your-enemy-totally-concept]] · [[aku-hesitar-a-veces-es-prudente-claim]] · [[aku-48laws-03-conceal-your-intentions-concept]] · [[aku-48laws-12-selective-honesty-to-disarm-concept]] · [[aku-48laws-21-play-a-sucker-to-catch-a-sucker-concept]] · [[aku-48laws-31-control-the-options-concept]] · [[aku-48laws-44-mirror-effect-concept]]

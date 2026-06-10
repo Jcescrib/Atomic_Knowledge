@@ -35,6 +35,11 @@ relations:
     - aku-48laws-43-work-on-hearts-and-minds-concept
     - aku-48laws-45-preach-change-but-reform-slowly-concept
     - aku-reflect-and-diminish-method
+    - aku-48laws-03-conceal-your-intentions-concept
+    - aku-48laws-12-selective-honesty-to-disarm-concept
+    - aku-48laws-14-pose-as-friend-work-as-spy-concept
+    - aku-48laws-21-play-a-sucker-to-catch-a-sucker-concept
+    - aku-48laws-31-control-the-options-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -47,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-43-work-on-hearts-and-minds-concept]] · [[aku-48laws-45-preach-change-but-reform-slowly-concept]] · [[aku-reflect-and-diminish-method]]
+**related** ↔ [[aku-48laws-43-work-on-hearts-and-minds-concept]] · [[aku-48laws-45-preach-change-but-reform-slowly-concept]] · [[aku-reflect-and-diminish-method]] · [[aku-48laws-03-conceal-your-intentions-concept]] · [[aku-48laws-12-selective-honesty-to-disarm-concept]] · [[aku-48laws-14-pose-as-friend-work-as-spy-concept]] · [[aku-48laws-21-play-a-sucker-to-catch-a-sucker-concept]] · [[aku-48laws-31-control-the-options-concept]]

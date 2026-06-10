@@ -33,6 +33,9 @@ relations:
   related:
     - aku-48laws-07-get-others-to-do-the-work-take-credit-concept
     - aku-48laws-09-win-through-actions-not-argument-concept
+    - aku-48laws-11-keep-people-dependent-on-you-concept
+    - aku-48laws-13-appeal-to-self-interest-concept
+    - aku-48laws-33-discover-each-mans-thumbscrew-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -45,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-07-get-others-to-do-the-work-take-credit-concept]] · [[aku-48laws-09-win-through-actions-not-argument-concept]]
+**related** ↔ [[aku-48laws-07-get-others-to-do-the-work-take-credit-concept]] · [[aku-48laws-09-win-through-actions-not-argument-concept]] · [[aku-48laws-11-keep-people-dependent-on-you-concept]] · [[aku-48laws-13-appeal-to-self-interest-concept]] · [[aku-48laws-33-discover-each-mans-thumbscrew-concept]]

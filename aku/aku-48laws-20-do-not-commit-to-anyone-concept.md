@@ -35,6 +35,8 @@ relations:
     - aku-48laws-19-know-who-you-deal-with-concept
     - aku-48laws-21-play-a-sucker-to-catch-a-sucker-concept
     - aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim
+    - aku-48laws-18-isolation-is-dangerous-concept
+    - aku-48laws-48-assume-formlessness-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-19-know-who-you-deal-with-concept]] · [[aku-48laws-21-play-a-sucker-to-catch-a-sucker-concept]] · [[aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim]]
+**related** ↔ [[aku-48laws-19-know-who-you-deal-with-concept]] · [[aku-48laws-21-play-a-sucker-to-catch-a-sucker-concept]] · [[aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim]] · [[aku-48laws-18-isolation-is-dangerous-concept]] · [[aku-48laws-48-assume-formlessness-concept]]

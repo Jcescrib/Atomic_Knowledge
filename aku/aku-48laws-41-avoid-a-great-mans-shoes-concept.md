@@ -34,6 +34,8 @@ relations:
   related:
     - aku-48laws-40-despise-the-free-lunch-concept
     - aku-48laws-42-strike-the-shepherd-concept
+    - aku-48laws-19-know-who-you-deal-with-concept
+    - aku-48laws-38-think-as-you-like-behave-like-others-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-40-despise-the-free-lunch-concept]] · [[aku-48laws-42-strike-the-shepherd-concept]]
+**related** ↔ [[aku-48laws-40-despise-the-free-lunch-concept]] · [[aku-48laws-42-strike-the-shepherd-concept]] · [[aku-48laws-19-know-who-you-deal-with-concept]] · [[aku-48laws-38-think-as-you-like-behave-like-others-concept]]

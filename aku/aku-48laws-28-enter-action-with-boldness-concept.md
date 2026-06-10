@@ -34,6 +34,8 @@ relations:
     - aku-48laws-27-play-on-need-to-believe-concept
     - aku-48laws-29-plan-all-the-way-to-the-end-concept
     - aku-empezar-aqui-y-ahora-method
+    - aku-48laws-23-concentrate-your-forces-concept
+    - aku-48laws-35-master-the-art-of-timing-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-27-play-on-need-to-believe-concept]] · [[aku-48laws-29-plan-all-the-way-to-the-end-concept]] · [[aku-empezar-aqui-y-ahora-method]]
+**related** ↔ [[aku-48laws-27-play-on-need-to-believe-concept]] · [[aku-48laws-29-plan-all-the-way-to-the-end-concept]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-48laws-23-concentrate-your-forces-concept]] · [[aku-48laws-35-master-the-art-of-timing-concept]]

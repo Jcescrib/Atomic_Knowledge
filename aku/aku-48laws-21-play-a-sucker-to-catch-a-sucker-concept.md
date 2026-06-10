@@ -34,6 +34,11 @@ relations:
   related:
     - aku-48laws-20-do-not-commit-to-anyone-concept
     - aku-48laws-22-use-the-surrender-tactic-concept
+    - aku-48laws-03-conceal-your-intentions-concept
+    - aku-48laws-12-selective-honesty-to-disarm-concept
+    - aku-48laws-14-pose-as-friend-work-as-spy-concept
+    - aku-48laws-31-control-the-options-concept
+    - aku-48laws-44-mirror-effect-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -46,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-20-do-not-commit-to-anyone-concept]] · [[aku-48laws-22-use-the-surrender-tactic-concept]]
+**related** ↔ [[aku-48laws-20-do-not-commit-to-anyone-concept]] · [[aku-48laws-22-use-the-surrender-tactic-concept]] · [[aku-48laws-03-conceal-your-intentions-concept]] · [[aku-48laws-12-selective-honesty-to-disarm-concept]] · [[aku-48laws-14-pose-as-friend-work-as-spy-concept]] · [[aku-48laws-31-control-the-options-concept]] · [[aku-48laws-44-mirror-effect-concept]]

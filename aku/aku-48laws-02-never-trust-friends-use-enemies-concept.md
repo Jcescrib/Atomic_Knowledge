@@ -36,6 +36,9 @@ relations:
     - aku-48laws-03-conceal-your-intentions-concept
     - aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept
     - aku-la-competencia-como-estrategia-if-we-cant-be-friends-concept
+    - aku-48laws-15-crush-your-enemy-totally-concept
+    - aku-48laws-39-stir-up-waters-to-catch-fish-concept
+    - aku-48laws-42-strike-the-shepherd-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -48,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-01-never-outshine-the-master-concept]] · [[aku-48laws-03-conceal-your-intentions-concept]] · [[aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept]] · [[aku-la-competencia-como-estrategia-if-we-cant-be-friends-concept]]
+**related** ↔ [[aku-48laws-01-never-outshine-the-master-concept]] · [[aku-48laws-03-conceal-your-intentions-concept]] · [[aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept]] · [[aku-la-competencia-como-estrategia-if-we-cant-be-friends-concept]] · [[aku-48laws-15-crush-your-enemy-totally-concept]] · [[aku-48laws-39-stir-up-waters-to-catch-fish-concept]] · [[aku-48laws-42-strike-the-shepherd-concept]]

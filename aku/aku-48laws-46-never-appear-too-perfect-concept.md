@@ -36,6 +36,10 @@ relations:
     - aku-48laws-47-learn-when-to-stop-concept
     - aku-los-celos-son-inutiles-no-querrias-ser-otra-persona-al-100-claim
     - aku-subvierte-las-expectativas-da-la-energia-opuesta-para-desarmar-claim
+    - aku-48laws-05-guard-your-reputation-concept
+    - aku-48laws-26-keep-your-hands-clean-concept
+    - aku-48laws-30-make-accomplishments-seem-effortless-concept
+    - aku-48laws-34-be-royal-in-your-own-fashion-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -48,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-45-preach-change-but-reform-slowly-concept]] · [[aku-48laws-47-learn-when-to-stop-concept]] · [[aku-los-celos-son-inutiles-no-querrias-ser-otra-persona-al-100-claim]] · [[aku-subvierte-las-expectativas-da-la-energia-opuesta-para-desarmar-claim]]
+**related** ↔ [[aku-48laws-45-preach-change-but-reform-slowly-concept]] · [[aku-48laws-47-learn-when-to-stop-concept]] · [[aku-los-celos-son-inutiles-no-querrias-ser-otra-persona-al-100-claim]] · [[aku-subvierte-las-expectativas-da-la-energia-opuesta-para-desarmar-claim]] · [[aku-48laws-05-guard-your-reputation-concept]] · [[aku-48laws-26-keep-your-hands-clean-concept]] · [[aku-48laws-30-make-accomplishments-seem-effortless-concept]] · [[aku-48laws-34-be-royal-in-your-own-fashion-concept]]

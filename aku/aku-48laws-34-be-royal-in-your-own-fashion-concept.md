@@ -36,6 +36,10 @@ relations:
     - aku-48laws-35-master-the-art-of-timing-concept
     - aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim
     - aku-jefe-subestima-peso-de-su-posicion-claim
+    - aku-48laws-05-guard-your-reputation-concept
+    - aku-48laws-26-keep-your-hands-clean-concept
+    - aku-48laws-30-make-accomplishments-seem-effortless-concept
+    - aku-48laws-46-never-appear-too-perfect-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -48,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-33-discover-each-mans-thumbscrew-concept]] · [[aku-48laws-35-master-the-art-of-timing-concept]] · [[aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim]] · [[aku-jefe-subestima-peso-de-su-posicion-claim]]
+**related** ↔ [[aku-48laws-33-discover-each-mans-thumbscrew-concept]] · [[aku-48laws-35-master-the-art-of-timing-concept]] · [[aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim]] · [[aku-jefe-subestima-peso-de-su-posicion-claim]] · [[aku-48laws-05-guard-your-reputation-concept]] · [[aku-48laws-26-keep-your-hands-clean-concept]] · [[aku-48laws-30-make-accomplishments-seem-effortless-concept]] · [[aku-48laws-46-never-appear-too-perfect-concept]]

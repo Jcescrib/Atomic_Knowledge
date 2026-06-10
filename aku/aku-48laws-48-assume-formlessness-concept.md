@@ -35,6 +35,8 @@ relations:
     - aku-48laws-47-learn-when-to-stop-concept
     - aku-no-hay-soluciones-permanentes-en-un-sistema-dinamico-claim
     - aku-el-enemigo-tiene-voto-concept
+    - aku-48laws-18-isolation-is-dangerous-concept
+    - aku-48laws-20-do-not-commit-to-anyone-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-47-learn-when-to-stop-concept]] · [[aku-no-hay-soluciones-permanentes-en-un-sistema-dinamico-claim]] · [[aku-el-enemigo-tiene-voto-concept]]
+**related** ↔ [[aku-48laws-47-learn-when-to-stop-concept]] · [[aku-no-hay-soluciones-permanentes-en-un-sistema-dinamico-claim]] · [[aku-el-enemigo-tiene-voto-concept]] · [[aku-48laws-18-isolation-is-dangerous-concept]] · [[aku-48laws-20-do-not-commit-to-anyone-concept]]

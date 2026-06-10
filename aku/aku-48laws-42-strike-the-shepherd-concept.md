@@ -35,6 +35,9 @@ relations:
     - aku-48laws-41-avoid-a-great-mans-shoes-concept
     - aku-48laws-43-work-on-hearts-and-minds-concept
     - aku-no-yes-men-fomentar-pushback-claim
+    - aku-48laws-02-never-trust-friends-use-enemies-concept
+    - aku-48laws-15-crush-your-enemy-totally-concept
+    - aku-48laws-39-stir-up-waters-to-catch-fish-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-41-avoid-a-great-mans-shoes-concept]] · [[aku-48laws-43-work-on-hearts-and-minds-concept]] · [[aku-no-yes-men-fomentar-pushback-claim]]
+**related** ↔ [[aku-48laws-41-avoid-a-great-mans-shoes-concept]] · [[aku-48laws-43-work-on-hearts-and-minds-concept]] · [[aku-no-yes-men-fomentar-pushback-claim]] · [[aku-48laws-02-never-trust-friends-use-enemies-concept]] · [[aku-48laws-15-crush-your-enemy-totally-concept]] · [[aku-48laws-39-stir-up-waters-to-catch-fish-concept]]

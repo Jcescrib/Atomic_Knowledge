@@ -36,6 +36,8 @@ relations:
     - aku-48laws-48-assume-formlessness-concept
     - aku-el-ego-mas-dificil-es-el-propio-claim
     - aku-pride-fuerza-de-doble-filo-concept
+    - aku-48laws-22-use-the-surrender-tactic-concept
+    - aku-48laws-45-preach-change-but-reform-slowly-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-46-never-appear-too-perfect-concept]] · [[aku-48laws-48-assume-formlessness-concept]] · [[aku-el-ego-mas-dificil-es-el-propio-claim]] · [[aku-pride-fuerza-de-doble-filo-concept]]
+**related** ↔ [[aku-48laws-46-never-appear-too-perfect-concept]] · [[aku-48laws-48-assume-formlessness-concept]] · [[aku-el-ego-mas-dificil-es-el-propio-claim]] · [[aku-pride-fuerza-de-doble-filo-concept]] · [[aku-48laws-22-use-the-surrender-tactic-concept]] · [[aku-48laws-45-preach-change-but-reform-slowly-concept]]

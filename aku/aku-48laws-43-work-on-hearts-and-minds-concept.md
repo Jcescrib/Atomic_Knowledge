@@ -37,6 +37,8 @@ relations:
     - aku-48laws-44-mirror-effect-concept
     - aku-power-of-relationships-liderazgo-concept
     - aku-no-obligar-sino-liderar-claim
+    - aku-48laws-09-win-through-actions-not-argument-concept
+    - aku-48laws-27-play-on-need-to-believe-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -49,6 +51,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-42-strike-the-shepherd-concept]] · [[aku-48laws-44-mirror-effect-concept]] · [[aku-power-of-relationships-liderazgo-concept]] · [[aku-no-obligar-sino-liderar-claim]]
+**related** ↔ [[aku-48laws-42-strike-the-shepherd-concept]] · [[aku-48laws-44-mirror-effect-concept]] · [[aku-power-of-relationships-liderazgo-concept]] · [[aku-no-obligar-sino-liderar-claim]] · [[aku-48laws-09-win-through-actions-not-argument-concept]] · [[aku-48laws-27-play-on-need-to-believe-concept]]
 
 **contradicts** ↔ [[aku-liderazgo-vs-manipulacion-concept]]

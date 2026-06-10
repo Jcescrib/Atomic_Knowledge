@@ -35,6 +35,9 @@ relations:
     - aku-48laws-34-be-royal-in-your-own-fashion-concept
     - aku-48laws-36-disdain-what-you-cannot-have-concept
     - aku-grandes-personas-tienen-grandes-resultados-si-eres-paciente-claim
+    - aku-48laws-23-concentrate-your-forces-concept
+    - aku-48laws-28-enter-action-with-boldness-concept
+    - aku-48laws-29-plan-all-the-way-to-the-end-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-34-be-royal-in-your-own-fashion-concept]] · [[aku-48laws-36-disdain-what-you-cannot-have-concept]] · [[aku-grandes-personas-tienen-grandes-resultados-si-eres-paciente-claim]]
+**related** ↔ [[aku-48laws-34-be-royal-in-your-own-fashion-concept]] · [[aku-48laws-36-disdain-what-you-cannot-have-concept]] · [[aku-grandes-personas-tienen-grandes-resultados-si-eres-paciente-claim]] · [[aku-48laws-23-concentrate-your-forces-concept]] · [[aku-48laws-28-enter-action-with-boldness-concept]] · [[aku-48laws-29-plan-all-the-way-to-the-end-concept]]

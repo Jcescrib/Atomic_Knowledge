@@ -35,6 +35,8 @@ relations:
     - aku-48laws-18-isolation-is-dangerous-concept
     - aku-48laws-20-do-not-commit-to-anyone-concept
     - aku-si-traes-lobos-a-tu-circulo-debes-alimentarlos-o-se-volveran-contra-ti-claim
+    - aku-48laws-38-think-as-you-like-behave-like-others-concept
+    - aku-48laws-41-avoid-a-great-mans-shoes-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-18-isolation-is-dangerous-concept]] · [[aku-48laws-20-do-not-commit-to-anyone-concept]] · [[aku-si-traes-lobos-a-tu-circulo-debes-alimentarlos-o-se-volveran-contra-ti-claim]]
+**related** ↔ [[aku-48laws-18-isolation-is-dangerous-concept]] · [[aku-48laws-20-do-not-commit-to-anyone-concept]] · [[aku-si-traes-lobos-a-tu-circulo-debes-alimentarlos-o-se-volveran-contra-ti-claim]] · [[aku-48laws-38-think-as-you-like-behave-like-others-concept]] · [[aku-48laws-41-avoid-a-great-mans-shoes-concept]]

@@ -34,6 +34,7 @@ relations:
   related:
     - aku-48laws-39-stir-up-waters-to-catch-fish-concept
     - aku-48laws-41-avoid-a-great-mans-shoes-concept
+    - aku-48laws-10-avoid-the-unhappy-and-unlucky-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-39-stir-up-waters-to-catch-fish-concept]] · [[aku-48laws-41-avoid-a-great-mans-shoes-concept]]
+**related** ↔ [[aku-48laws-39-stir-up-waters-to-catch-fish-concept]] · [[aku-48laws-41-avoid-a-great-mans-shoes-concept]] · [[aku-48laws-10-avoid-the-unhappy-and-unlucky-concept]]

@@ -38,6 +38,9 @@ relations:
     - aku-cuando-gritar-casi-nunca-y-calculado-claim
     - aku-calmado-no-robotico-concept
     - aku-la-competencia-como-estrategia-if-we-cant-be-friends-concept
+    - aku-48laws-02-never-trust-friends-use-enemies-concept
+    - aku-48laws-15-crush-your-enemy-totally-concept
+    - aku-48laws-42-strike-the-shepherd-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -50,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-38-think-as-you-like-behave-like-others-concept]] · [[aku-48laws-40-despise-the-free-lunch-concept]] · [[aku-no-sobrerreaccionar-mantener-la-calma-claim]] · [[aku-cuando-gritar-casi-nunca-y-calculado-claim]] · [[aku-calmado-no-robotico-concept]] · [[aku-la-competencia-como-estrategia-if-we-cant-be-friends-concept]]
+**related** ↔ [[aku-48laws-38-think-as-you-like-behave-like-others-concept]] · [[aku-48laws-40-despise-the-free-lunch-concept]] · [[aku-no-sobrerreaccionar-mantener-la-calma-claim]] · [[aku-cuando-gritar-casi-nunca-y-calculado-claim]] · [[aku-calmado-no-robotico-concept]] · [[aku-la-competencia-como-estrategia-if-we-cant-be-friends-concept]] · [[aku-48laws-02-never-trust-friends-use-enemies-concept]] · [[aku-48laws-15-crush-your-enemy-totally-concept]] · [[aku-48laws-42-strike-the-shepherd-concept]]

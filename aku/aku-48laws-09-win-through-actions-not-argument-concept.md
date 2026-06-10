@@ -36,6 +36,8 @@ relations:
     - aku-48laws-10-avoid-the-unhappy-and-unlucky-concept
     - aku-intenciones-no-importan-importan-las-acciones-claim
     - aku-copy-aportar-pruebas-claim
+    - aku-48laws-27-play-on-need-to-believe-concept
+    - aku-48laws-43-work-on-hearts-and-minds-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-08-make-others-come-to-you-concept]] · [[aku-48laws-10-avoid-the-unhappy-and-unlucky-concept]] · [[aku-intenciones-no-importan-importan-las-acciones-claim]] · [[aku-copy-aportar-pruebas-claim]]
+**related** ↔ [[aku-48laws-08-make-others-come-to-you-concept]] · [[aku-48laws-10-avoid-the-unhappy-and-unlucky-concept]] · [[aku-intenciones-no-importan-importan-las-acciones-claim]] · [[aku-copy-aportar-pruebas-claim]] · [[aku-48laws-27-play-on-need-to-believe-concept]] · [[aku-48laws-43-work-on-hearts-and-minds-concept]]

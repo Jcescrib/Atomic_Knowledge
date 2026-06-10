@@ -34,6 +34,8 @@ relations:
   related:
     - aku-48laws-16-use-absence-to-increase-respect-concept
     - aku-48laws-18-isolation-is-dangerous-concept
+    - aku-48laws-04-always-say-less-than-necessary-concept
+    - aku-48laws-32-play-to-peoples-fantasies-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-16-use-absence-to-increase-respect-concept]] · [[aku-48laws-18-isolation-is-dangerous-concept]]
+**related** ↔ [[aku-48laws-16-use-absence-to-increase-respect-concept]] · [[aku-48laws-18-isolation-is-dangerous-concept]] · [[aku-48laws-04-always-say-less-than-necessary-concept]] · [[aku-48laws-32-play-to-peoples-fantasies-concept]]

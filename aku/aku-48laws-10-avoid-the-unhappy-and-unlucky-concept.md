@@ -35,6 +35,7 @@ relations:
     - aku-48laws-09-win-through-actions-not-argument-concept
     - aku-48laws-11-keep-people-dependent-on-you-concept
     - aku-teoria-de-los-cinco-chimpances-concept
+    - aku-48laws-40-despise-the-free-lunch-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-09-win-through-actions-not-argument-concept]] · [[aku-48laws-11-keep-people-dependent-on-you-concept]] · [[aku-teoria-de-los-cinco-chimpances-concept]]
+**related** ↔ [[aku-48laws-09-win-through-actions-not-argument-concept]] · [[aku-48laws-11-keep-people-dependent-on-you-concept]] · [[aku-teoria-de-los-cinco-chimpances-concept]] · [[aku-48laws-40-despise-the-free-lunch-concept]]

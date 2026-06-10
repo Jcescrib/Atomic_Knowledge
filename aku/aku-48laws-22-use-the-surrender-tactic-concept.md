@@ -35,6 +35,8 @@ relations:
     - aku-48laws-21-play-a-sucker-to-catch-a-sucker-concept
     - aku-48laws-23-concentrate-your-forces-concept
     - aku-instinto-de-rendirse-es-mentiroso-claim
+    - aku-48laws-45-preach-change-but-reform-slowly-concept
+    - aku-48laws-47-learn-when-to-stop-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-21-play-a-sucker-to-catch-a-sucker-concept]] · [[aku-48laws-23-concentrate-your-forces-concept]] · [[aku-instinto-de-rendirse-es-mentiroso-claim]]
+**related** ↔ [[aku-48laws-21-play-a-sucker-to-catch-a-sucker-concept]] · [[aku-48laws-23-concentrate-your-forces-concept]] · [[aku-instinto-de-rendirse-es-mentiroso-claim]] · [[aku-48laws-45-preach-change-but-reform-slowly-concept]] · [[aku-48laws-47-learn-when-to-stop-concept]]

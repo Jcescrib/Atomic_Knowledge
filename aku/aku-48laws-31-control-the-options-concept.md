@@ -34,6 +34,11 @@ relations:
     - aku-48laws-30-make-accomplishments-seem-effortless-concept
     - aku-48laws-32-play-to-peoples-fantasies-concept
     - aku-manejar-jefe-micromanager-indeciso-debil-method
+    - aku-48laws-03-conceal-your-intentions-concept
+    - aku-48laws-12-selective-honesty-to-disarm-concept
+    - aku-48laws-14-pose-as-friend-work-as-spy-concept
+    - aku-48laws-21-play-a-sucker-to-catch-a-sucker-concept
+    - aku-48laws-44-mirror-effect-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -46,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-30-make-accomplishments-seem-effortless-concept]] · [[aku-48laws-32-play-to-peoples-fantasies-concept]] · [[aku-manejar-jefe-micromanager-indeciso-debil-method]]
+**related** ↔ [[aku-48laws-30-make-accomplishments-seem-effortless-concept]] · [[aku-48laws-32-play-to-peoples-fantasies-concept]] · [[aku-manejar-jefe-micromanager-indeciso-debil-method]] · [[aku-48laws-03-conceal-your-intentions-concept]] · [[aku-48laws-12-selective-honesty-to-disarm-concept]] · [[aku-48laws-14-pose-as-friend-work-as-spy-concept]] · [[aku-48laws-21-play-a-sucker-to-catch-a-sucker-concept]] · [[aku-48laws-44-mirror-effect-concept]]

@@ -34,6 +34,8 @@ relations:
     - aku-48laws-31-control-the-options-concept
     - aku-48laws-33-discover-each-mans-thumbscrew-concept
     - aku-cialdini-simpatia-concept
+    - aku-48laws-04-always-say-less-than-necessary-concept
+    - aku-48laws-17-cultivate-unpredictability-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-31-control-the-options-concept]] · [[aku-48laws-33-discover-each-mans-thumbscrew-concept]] · [[aku-cialdini-simpatia-concept]]
+**related** ↔ [[aku-48laws-31-control-the-options-concept]] · [[aku-48laws-33-discover-each-mans-thumbscrew-concept]] · [[aku-cialdini-simpatia-concept]] · [[aku-48laws-04-always-say-less-than-necessary-concept]] · [[aku-48laws-17-cultivate-unpredictability-concept]]

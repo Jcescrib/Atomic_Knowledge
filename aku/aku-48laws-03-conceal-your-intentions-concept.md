@@ -36,6 +36,11 @@ relations:
     - aku-48laws-04-always-say-less-than-necessary-concept
     - aku-hesitar-a-veces-es-prudente-claim
     - aku-intenciones-no-importan-importan-las-acciones-claim
+    - aku-48laws-12-selective-honesty-to-disarm-concept
+    - aku-48laws-14-pose-as-friend-work-as-spy-concept
+    - aku-48laws-21-play-a-sucker-to-catch-a-sucker-concept
+    - aku-48laws-31-control-the-options-concept
+    - aku-48laws-44-mirror-effect-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -48,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-02-never-trust-friends-use-enemies-concept]] · [[aku-48laws-04-always-say-less-than-necessary-concept]] · [[aku-hesitar-a-veces-es-prudente-claim]] · [[aku-intenciones-no-importan-importan-las-acciones-claim]]
+**related** ↔ [[aku-48laws-02-never-trust-friends-use-enemies-concept]] · [[aku-48laws-04-always-say-less-than-necessary-concept]] · [[aku-hesitar-a-veces-es-prudente-claim]] · [[aku-intenciones-no-importan-importan-las-acciones-claim]] · [[aku-48laws-12-selective-honesty-to-disarm-concept]] · [[aku-48laws-14-pose-as-friend-work-as-spy-concept]] · [[aku-48laws-21-play-a-sucker-to-catch-a-sucker-concept]] · [[aku-48laws-31-control-the-options-concept]] · [[aku-48laws-44-mirror-effect-concept]]

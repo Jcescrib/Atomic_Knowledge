@@ -36,6 +36,8 @@ relations:
     - aku-48laws-26-keep-your-hands-clean-concept
     - aku-debes-editar-y-expandir-tu-identidad-continuamente-claim
     - aku-todos-tenemos-una-creencia-contraria-que-la-tribu-rechaza-claim
+    - aku-48laws-06-court-attention-at-all-cost-concept
+    - aku-48laws-37-create-compelling-spectacles-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-24-play-the-perfect-courtier-concept]] · [[aku-48laws-26-keep-your-hands-clean-concept]] · [[aku-debes-editar-y-expandir-tu-identidad-continuamente-claim]] · [[aku-todos-tenemos-una-creencia-contraria-que-la-tribu-rechaza-claim]]
+**related** ↔ [[aku-48laws-24-play-the-perfect-courtier-concept]] · [[aku-48laws-26-keep-your-hands-clean-concept]] · [[aku-debes-editar-y-expandir-tu-identidad-continuamente-claim]] · [[aku-todos-tenemos-una-creencia-contraria-que-la-tribu-rechaza-claim]] · [[aku-48laws-06-court-attention-at-all-cost-concept]] · [[aku-48laws-37-create-compelling-spectacles-concept]]

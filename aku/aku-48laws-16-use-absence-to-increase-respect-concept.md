@@ -37,6 +37,7 @@ relations:
     - aku-no-subas-tu-tren-de-vida-al-ganar-mas-claim
     - aku-liderazgo-indirecto-supera-al-directo-claim
     - aku-getting-people-to-listen-deja-que-hablen-claim
+    - aku-48laws-36-disdain-what-you-cannot-have-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-15-crush-your-enemy-totally-concept]] · [[aku-48laws-17-cultivate-unpredictability-concept]] · [[aku-no-subas-tu-tren-de-vida-al-ganar-mas-claim]] · [[aku-liderazgo-indirecto-supera-al-directo-claim]] · [[aku-getting-people-to-listen-deja-que-hablen-claim]]
+**related** ↔ [[aku-48laws-15-crush-your-enemy-totally-concept]] · [[aku-48laws-17-cultivate-unpredictability-concept]] · [[aku-no-subas-tu-tren-de-vida-al-ganar-mas-claim]] · [[aku-liderazgo-indirecto-supera-al-directo-claim]] · [[aku-getting-people-to-listen-deja-que-hablen-claim]] · [[aku-48laws-36-disdain-what-you-cannot-have-concept]]

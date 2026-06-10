@@ -33,6 +33,10 @@ relations:
   related:
     - aku-48laws-29-plan-all-the-way-to-the-end-concept
     - aku-48laws-31-control-the-options-concept
+    - aku-48laws-05-guard-your-reputation-concept
+    - aku-48laws-26-keep-your-hands-clean-concept
+    - aku-48laws-34-be-royal-in-your-own-fashion-concept
+    - aku-48laws-46-never-appear-too-perfect-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -45,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-29-plan-all-the-way-to-the-end-concept]] · [[aku-48laws-31-control-the-options-concept]]
+**related** ↔ [[aku-48laws-29-plan-all-the-way-to-the-end-concept]] · [[aku-48laws-31-control-the-options-concept]] · [[aku-48laws-05-guard-your-reputation-concept]] · [[aku-48laws-26-keep-your-hands-clean-concept]] · [[aku-48laws-34-be-royal-in-your-own-fashion-concept]] · [[aku-48laws-46-never-appear-too-perfect-concept]]

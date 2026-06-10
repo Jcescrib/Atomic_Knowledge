@@ -36,6 +36,8 @@ relations:
     - aku-48laws-39-stir-up-waters-to-catch-fish-concept
     - aku-conform-to-influence-claim
     - aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim
+    - aku-48laws-19-know-who-you-deal-with-concept
+    - aku-48laws-41-avoid-a-great-mans-shoes-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-37-create-compelling-spectacles-concept]] · [[aku-48laws-39-stir-up-waters-to-catch-fish-concept]] · [[aku-conform-to-influence-claim]] · [[aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim]]
+**related** ↔ [[aku-48laws-37-create-compelling-spectacles-concept]] · [[aku-48laws-39-stir-up-waters-to-catch-fish-concept]] · [[aku-conform-to-influence-claim]] · [[aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim]] · [[aku-48laws-19-know-who-you-deal-with-concept]] · [[aku-48laws-41-avoid-a-great-mans-shoes-concept]]

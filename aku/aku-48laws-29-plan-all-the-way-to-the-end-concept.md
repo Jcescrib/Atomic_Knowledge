@@ -36,6 +36,8 @@ relations:
     - aku-decide-despacio-actua-rapido-y-deja-que-el-acto-dure-decadas-claim
     - aku-plan-but-remain-flexible-concept
     - aku-decentralizar-proceso-planificacion-claim
+    - aku-48laws-23-concentrate-your-forces-concept
+    - aku-48laws-35-master-the-art-of-timing-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-28-enter-action-with-boldness-concept]] · [[aku-48laws-30-make-accomplishments-seem-effortless-concept]] · [[aku-decide-despacio-actua-rapido-y-deja-que-el-acto-dure-decadas-claim]] · [[aku-plan-but-remain-flexible-concept]] · [[aku-decentralizar-proceso-planificacion-claim]]
+**related** ↔ [[aku-48laws-28-enter-action-with-boldness-concept]] · [[aku-48laws-30-make-accomplishments-seem-effortless-concept]] · [[aku-decide-despacio-actua-rapido-y-deja-que-el-acto-dure-decadas-claim]] · [[aku-plan-but-remain-flexible-concept]] · [[aku-decentralizar-proceso-planificacion-claim]] · [[aku-48laws-23-concentrate-your-forces-concept]] · [[aku-48laws-35-master-the-art-of-timing-concept]]

@@ -37,6 +37,8 @@ relations:
     - aku-getting-people-to-listen-deja-que-hablen-claim
     - aku-pausar-tras-su-oferta-claim
     - aku-callado-no-silencioso-concept
+    - aku-48laws-17-cultivate-unpredictability-concept
+    - aku-48laws-32-play-to-peoples-fantasies-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -49,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-03-conceal-your-intentions-concept]] · [[aku-48laws-05-guard-your-reputation-concept]] · [[aku-getting-people-to-listen-deja-que-hablen-claim]] · [[aku-pausar-tras-su-oferta-claim]] · [[aku-callado-no-silencioso-concept]]
+**related** ↔ [[aku-48laws-03-conceal-your-intentions-concept]] · [[aku-48laws-05-guard-your-reputation-concept]] · [[aku-getting-people-to-listen-deja-que-hablen-claim]] · [[aku-pausar-tras-su-oferta-claim]] · [[aku-callado-no-silencioso-concept]] · [[aku-48laws-17-cultivate-unpredictability-concept]] · [[aku-48laws-32-play-to-peoples-fantasies-concept]]

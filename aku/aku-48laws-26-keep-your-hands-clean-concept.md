@@ -34,6 +34,10 @@ relations:
   related:
     - aku-48laws-25-re-create-yourself-concept
     - aku-48laws-27-play-on-need-to-believe-concept
+    - aku-48laws-05-guard-your-reputation-concept
+    - aku-48laws-30-make-accomplishments-seem-effortless-concept
+    - aku-48laws-34-be-royal-in-your-own-fashion-concept
+    - aku-48laws-46-never-appear-too-perfect-concept
 
 sources:
   - raw/libros/robert-greene/48-laws-of-power/48-laws-of-power.md
@@ -46,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-25-re-create-yourself-concept]] · [[aku-48laws-27-play-on-need-to-believe-concept]]
+**related** ↔ [[aku-48laws-25-re-create-yourself-concept]] · [[aku-48laws-27-play-on-need-to-believe-concept]] · [[aku-48laws-05-guard-your-reputation-concept]] · [[aku-48laws-30-make-accomplishments-seem-effortless-concept]] · [[aku-48laws-34-be-royal-in-your-own-fashion-concept]] · [[aku-48laws-46-never-appear-too-perfect-concept]]
