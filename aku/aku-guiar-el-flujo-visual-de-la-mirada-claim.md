@@ -23,6 +23,7 @@ relations:
   supported_by: []
   supports:
     - aku-ux-focus-guiar-la-atencion-concept
+    - aku-ux-cinco-guidelines-de-usabilidad-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -42,6 +43,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-ux-focus-guiar-la-atencion-concept]]
+**supports** → [[aku-ux-focus-guiar-la-atencion-concept]] · [[aku-ux-cinco-guidelines-de-usabilidad-concept]]
 
 **related** ↔ [[aku-anadir-senales-sensoriales-para-captar-atencion-claim]]

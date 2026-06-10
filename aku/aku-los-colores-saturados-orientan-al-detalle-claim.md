@@ -28,7 +28,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-los-colores-saturados-parecen-mas-cercanos-claim
 
 sources:
   - raw/libros/kolenda/color-psychology2/color-psychology2.md
@@ -47,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept]]
+
+**related** ↔ [[aku-los-colores-saturados-parecen-mas-cercanos-claim]]

@@ -20,7 +20,10 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-las-epidemias-virales-se-originan-en-micronetworks-claim
+    - aku-la-interconectividad-construye-la-infeccion-dentro-de-la-red-claim
+    - aku-target-un-microsegmento-y-escala-hacia-fuera-claim
   supports:
     - aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept
   constrained_by: []
@@ -45,3 +48,5 @@ status_note: ""
 **supports** → [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]]
 
 **related** ↔ [[aku-motor-crecimiento-viral-concept]]
+
+**supported_by** ← [[aku-las-epidemias-virales-se-originan-en-micronetworks-claim]] · [[aku-la-interconectividad-construye-la-infeccion-dentro-de-la-red-claim]] · [[aku-target-un-microsegmento-y-escala-hacia-fuera-claim]]

@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-cta-concept
+    - aku-los-colores-saturados-orientan-al-detalle-claim
 
 sources:
   - raw/libros/kolenda/color-psychology2/color-psychology2.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept]]
 
-**related** ↔ [[aku-cta-concept]]
+**related** ↔ [[aku-cta-concept]] · [[aku-los-colores-saturados-orientan-al-detalle-claim]]

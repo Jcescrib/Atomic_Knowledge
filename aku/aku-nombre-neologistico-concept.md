@@ -23,7 +23,10 @@ relations:
   supported_by: []
   supports:
     - aku-naming-metodologia-cinco-pasos-concept
-  constrained_by: []
+    - aku-matriz-de-nombres-wording-x-relevance-concept
+  constrained_by:
+    - aku-los-nombres-neologisticos-son-los-mas-escalables-claim
+    - aku-los-nombres-neologisticos-son-los-mas-protegibles-trademark-claim
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
@@ -41,4 +44,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
+**supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-matriz-de-nombres-wording-x-relevance-concept]]
+
+**constrained_by** ← [[aku-los-nombres-neologisticos-son-los-mas-escalables-claim]] · [[aku-los-nombres-neologisticos-son-los-mas-protegibles-trademark-claim]]

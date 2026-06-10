@@ -20,7 +20,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-el-color-capta-la-atencion-claim
   supports:
     - aku-choice-psychology-tres-mecanismos-de-decision-concept
   constrained_by: []
@@ -45,3 +46,5 @@ status_note: ""
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
 
 **related** ↔ [[aku-guiar-el-flujo-visual-de-la-mirada-claim]]
+
+**supported_by** ← [[aku-el-color-capta-la-atencion-claim]]

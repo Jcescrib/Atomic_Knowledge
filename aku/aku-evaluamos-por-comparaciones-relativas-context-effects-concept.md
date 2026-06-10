@@ -20,7 +20,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-subir-los-atributos-indeseables-por-encima-de-cero-zero-comparison-claim
   supports:
     - aku-choice-psychology-tres-mecanismos-de-decision-concept
   constrained_by: []
@@ -58,3 +59,5 @@ status_note: ""
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
 
 **related** ↔ [[aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim]] · [[aku-methods-step1-moldear-la-percepcion-concept]] · [[aku-decoy-offer-concept]]
+
+**supported_by** ← [[aku-subir-los-atributos-indeseables-por-encima-de-cero-zero-comparison-claim]]

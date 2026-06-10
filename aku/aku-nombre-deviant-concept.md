@@ -23,12 +23,16 @@ relations:
   supported_by: []
   supports:
     - aku-naming-metodologia-cinco-pasos-concept
-  constrained_by: []
+    - aku-matriz-de-nombres-wording-x-relevance-concept
+  constrained_by:
+    - aku-los-nombres-deviant-son-los-mas-emocionales-claim
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-nombre-descriptivo-concept
+    - aku-los-nombres-neologisticos-son-los-mas-protegibles-trademark-claim
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -41,4 +45,8 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
+**supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-matriz-de-nombres-wording-x-relevance-concept]]
+
+**related** ↔ [[aku-nombre-descriptivo-concept]] · [[aku-los-nombres-neologisticos-son-los-mas-protegibles-trademark-claim]]
+
+**constrained_by** ← [[aku-los-nombres-deviant-son-los-mas-emocionales-claim]]

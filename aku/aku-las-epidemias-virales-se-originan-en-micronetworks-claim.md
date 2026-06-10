@@ -20,9 +20,11 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-usa-maven-groups-para-promover-contenido-claim
   supports:
     - aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept
+    - aku-micronetwork-red-densa-con-interconexiones-fuertes-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -43,6 +45,8 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]]
+**supports** → [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]] · [[aku-micronetwork-red-densa-con-interconexiones-fuertes-concept]]
 
 **related** ↔ [[aku-motor-crecimiento-viral-concept]] · [[aku-coeficiente-viralidad-concept]]
+
+**supported_by** ← [[aku-usa-maven-groups-para-promover-contenido-claim]]

@@ -30,6 +30,10 @@ relations:
   contradicts: []
   related:
     - aku-muestra-el-producto-antes-del-precio-en-productos-emocionales-claim
+    - aku-reducir-la-culpa-de-las-elecciones-emocionales-claim
+    - aku-anadir-mas-atributos-a-las-descripciones-de-productos-emocionales-claim
+    - aku-ofrecer-incentivos-de-caridad-en-productos-emocionales-claim
+    - aku-usar-lenguaje-asertivo-en-productos-emocionales-claim
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -44,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
 
-**related** ↔ [[aku-muestra-el-producto-antes-del-precio-en-productos-emocionales-claim]]
+**related** ↔ [[aku-muestra-el-producto-antes-del-precio-en-productos-emocionales-claim]] · [[aku-reducir-la-culpa-de-las-elecciones-emocionales-claim]] · [[aku-anadir-mas-atributos-a-las-descripciones-de-productos-emocionales-claim]] · [[aku-ofrecer-incentivos-de-caridad-en-productos-emocionales-claim]] · [[aku-usar-lenguaje-asertivo-en-productos-emocionales-claim]]

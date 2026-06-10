@@ -23,6 +23,7 @@ relations:
   supported_by: []
   supports:
     - aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept
+    - aku-methods-proceso-de-persuasion-en-siete-pasos-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
+**supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]] · [[aku-methods-proceso-de-persuasion-en-siete-pasos-concept]]

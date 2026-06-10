@@ -23,6 +23,7 @@ relations:
   supported_by: []
   supports:
     - aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept
+    - aku-micronetwork-red-densa-con-interconexiones-fuertes-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -59,6 +60,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]]
+**supports** → [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]] · [[aku-micronetwork-red-densa-con-interconexiones-fuertes-concept]]
 
 **related** ↔ [[aku-mass-market-strategy-concept]] · [[aku-segmentado-strategy-concept]]

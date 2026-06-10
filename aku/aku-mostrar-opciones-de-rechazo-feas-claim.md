@@ -23,6 +23,7 @@ relations:
   supported_by: []
   supports:
     - aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept
+    - aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -41,4 +42,4 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]
+**supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]] · [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]

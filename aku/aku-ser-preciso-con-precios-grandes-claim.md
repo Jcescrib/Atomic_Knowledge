@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-pedir-un-rango-alto-y-preciso-claim
+    - aku-ofrecer-descuentos-en-numeros-redondos-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-pedir-un-rango-alto-y-preciso-claim]]
+**related** ↔ [[aku-pedir-un-rango-alto-y-preciso-claim]] · [[aku-ofrecer-descuentos-en-numeros-redondos-claim]]

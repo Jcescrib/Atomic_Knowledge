@@ -23,6 +23,7 @@ relations:
   supported_by: []
   supports:
     - aku-naming-metodologia-cinco-pasos-concept
+    - aku-grupo-1-vs-grupo-2-de-fonemas-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -46,6 +47,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
+**supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-grupo-1-vs-grupo-2-de-fonemas-concept]]
 
 **related** ↔ [[aku-fuentes-angulares-transmiten-formalidad-y-masculinidad-claim]]

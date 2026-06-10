@@ -23,6 +23,7 @@ relations:
   supported_by: []
   supports:
     - aku-choice-psychology-tres-mecanismos-de-decision-concept
+    - aku-la-escala-de-decision-equilibra-cuatro-conductas-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -30,6 +31,9 @@ relations:
   contradicts: []
   related:
     - aku-atribuir-el-descuento-al-producto-emocional-del-bundle-claim
+    - aku-extraer-esfuerzo-antes-de-elecciones-emocionales-claim
+    - aku-anadir-mas-atributos-a-las-descripciones-de-productos-emocionales-claim
+    - aku-aislar-las-opciones-emocionales-claim
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -46,6 +50,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
+**supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]] · [[aku-la-escala-de-decision-equilibra-cuatro-conductas-concept]]
 
-**related** ↔ [[aku-atribuir-el-descuento-al-producto-emocional-del-bundle-claim]]
+**related** ↔ [[aku-atribuir-el-descuento-al-producto-emocional-del-bundle-claim]] · [[aku-extraer-esfuerzo-antes-de-elecciones-emocionales-claim]] · [[aku-anadir-mas-atributos-a-las-descripciones-de-productos-emocionales-claim]] · [[aku-aislar-las-opciones-emocionales-claim]]

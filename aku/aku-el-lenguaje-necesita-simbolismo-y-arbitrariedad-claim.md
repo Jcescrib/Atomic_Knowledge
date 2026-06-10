@@ -24,7 +24,8 @@ relations:
   supports:
     - aku-naming-metodologia-cinco-pasos-concept
   constrained_by: []
-  constrains: []
+  constrains:
+    - aku-sound-symbolism-los-sonidos-tienen-significado-concept
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
@@ -42,3 +43,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
+
+**constrains** → [[aku-sound-symbolism-los-sonidos-tienen-significado-concept]]

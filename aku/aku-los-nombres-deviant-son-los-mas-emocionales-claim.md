@@ -23,8 +23,10 @@ relations:
   supported_by: []
   supports:
     - aku-naming-metodologia-cinco-pasos-concept
+    - aku-matriz-de-nombres-wording-x-relevance-concept
   constrained_by: []
-  constrains: []
+  constrains:
+    - aku-nombre-deviant-concept
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
@@ -46,6 +48,8 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
+**supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-matriz-de-nombres-wording-x-relevance-concept]]
 
 **related** ↔ [[aku-beneficio-emocional-concept]]
+
+**constrains** → [[aku-nombre-deviant-concept]]

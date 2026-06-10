@@ -29,7 +29,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-los-colores-calidos-y-saturados-estimulan-el-azul-relaja-claim
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -45,3 +46,5 @@ status_note: ""
 **supports** → [[aku-ux-effort-minimizar-el-esfuerzo-concept]]
 
 **supported_by** ← [[aku-los-colores-frios-reducen-la-percepcion-de-espera-claim]]
+
+**related** ↔ [[aku-los-colores-calidos-y-saturados-estimulan-el-azul-relaja-claim]]

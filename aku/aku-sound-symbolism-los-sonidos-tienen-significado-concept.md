@@ -20,11 +20,13 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-kinesthetic-fluency-la-articulacion-bucal-significa-concept
   supports:
     - aku-naming-metodologia-cinco-pasos-concept
     - aku-grupo-1-vs-grupo-2-de-fonemas-concept
-  constrained_by: []
+  constrained_by:
+    - aku-el-lenguaje-necesita-simbolismo-y-arbitrariedad-claim
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
@@ -50,3 +52,7 @@ status_note: ""
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-grupo-1-vs-grupo-2-de-fonemas-concept]]
 
 **related** ↔ [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]
+
+**constrained_by** ← [[aku-el-lenguaje-necesita-simbolismo-y-arbitrariedad-claim]]
+
+**supported_by** ← [[aku-kinesthetic-fluency-la-articulacion-bucal-significa-concept]]

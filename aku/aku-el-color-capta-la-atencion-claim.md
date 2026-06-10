@@ -23,6 +23,8 @@ relations:
   supported_by: []
   supports:
     - aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept
+    - aku-anadir-senales-sensoriales-para-captar-atencion-claim
+    - aku-crear-un-punto-de-entrada-visual-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -47,6 +49,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept]]
+**supports** → [[aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept]] · [[aku-anadir-senales-sensoriales-para-captar-atencion-claim]] · [[aku-crear-un-punto-de-entrada-visual-claim]]
 
 **related** ↔ [[aku-los-colores-saturados-parecen-mas-grandes-claim]]

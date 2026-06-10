@@ -28,7 +28,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-aislar-las-opciones-emocionales-claim
+    - aku-anadir-mas-atributos-a-las-descripciones-de-productos-emocionales-claim
+    - aku-ofrecer-incentivos-de-caridad-en-productos-emocionales-claim
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -46,3 +49,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
+
+**related** ↔ [[aku-aislar-las-opciones-emocionales-claim]] · [[aku-anadir-mas-atributos-a-las-descripciones-de-productos-emocionales-claim]] · [[aku-ofrecer-incentivos-de-caridad-en-productos-emocionales-claim]]

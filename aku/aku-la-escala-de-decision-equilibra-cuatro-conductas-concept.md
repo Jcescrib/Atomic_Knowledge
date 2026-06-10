@@ -20,7 +20,11 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-reducir-la-culpa-de-las-elecciones-emocionales-claim
+    - aku-anadir-mas-atributos-a-las-descripciones-de-productos-emocionales-claim
+    - aku-extraer-esfuerzo-antes-de-elecciones-emocionales-claim
+    - aku-ofrecer-incentivos-de-caridad-en-productos-emocionales-claim
   supports:
     - aku-choice-psychology-tres-mecanismos-de-decision-concept
   constrained_by: []
@@ -51,3 +55,5 @@ status_note: ""
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
 
 **related** ↔ [[aku-the-tangled-mind-la-cognicion-es-corporal-embodied-concept]]
+
+**supported_by** ← [[aku-reducir-la-culpa-de-las-elecciones-emocionales-claim]] · [[aku-anadir-mas-atributos-a-las-descripciones-de-productos-emocionales-claim]] · [[aku-extraer-esfuerzo-antes-de-elecciones-emocionales-claim]] · [[aku-ofrecer-incentivos-de-caridad-en-productos-emocionales-claim]]

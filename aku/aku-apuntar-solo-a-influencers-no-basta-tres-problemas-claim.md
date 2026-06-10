@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-herramientas-marketing-influencers-concept
+    - aku-la-interconectividad-construye-la-infeccion-dentro-de-la-red-claim
 
 sources:
   - raw/libros/kolenda/pages-viral-marketing/pages-viral-marketing.md
@@ -59,4 +60,4 @@ status_note: ""
 
 **supports** → [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]]
 
-**related** ↔ [[aku-herramientas-marketing-influencers-concept]]
+**related** ↔ [[aku-herramientas-marketing-influencers-concept]] · [[aku-la-interconectividad-construye-la-infeccion-dentro-de-la-red-claim]]

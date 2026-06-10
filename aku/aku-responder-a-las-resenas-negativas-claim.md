@@ -23,6 +23,7 @@ relations:
   supported_by: []
   supports:
     - aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept
+    - aku-insertar-contenido-persuasivo-en-las-resenas-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -41,4 +42,4 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]
+**supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]] · [[aku-insertar-contenido-persuasivo-en-las-resenas-claim]]

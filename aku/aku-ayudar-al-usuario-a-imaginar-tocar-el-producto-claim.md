@@ -23,6 +23,8 @@ relations:
   supported_by: []
   supports:
     - aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept
+    - aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept
+    - aku-imagine-reading-this-book-la-simulacion-mental-guia-las-decisiones-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]
+**supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]] · [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]] · [[aku-imagine-reading-this-book-la-simulacion-mental-guia-las-decisiones-concept]]

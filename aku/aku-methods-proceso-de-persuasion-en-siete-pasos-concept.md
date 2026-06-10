@@ -28,6 +28,7 @@ relations:
     - aku-methods-step5-optimizar-tu-mensaje-concept
     - aku-methods-step6-impulsar-su-momentum-concept
     - aku-methods-step7-sostener-su-cumplimiento-concept
+    - aku-anunciar-pronto-para-moldear-las-simulaciones-futuras-claim
   supports: []
   constrained_by: []
   constrains: []
@@ -49,6 +50,6 @@ status_note: "Fuente = stub de imagenes del audiolibro; anclado en Figure 0.1 (f
 
 ## Relaciones
 
-**supported_by** ← [[aku-methods-step1-moldear-la-percepcion-concept]] · [[aku-methods-step2-elicitar-actitudes-congruentes-concept]] · [[aku-methods-step3-activar-presion-social-concept]] · [[aku-methods-step4-habituar-tu-mensaje-concept]] · [[aku-methods-step5-optimizar-tu-mensaje-concept]] · [[aku-methods-step6-impulsar-su-momentum-concept]] · [[aku-methods-step7-sostener-su-cumplimiento-concept]]
+**supported_by** ← [[aku-methods-step1-moldear-la-percepcion-concept]] · [[aku-methods-step2-elicitar-actitudes-congruentes-concept]] · [[aku-methods-step3-activar-presion-social-concept]] · [[aku-methods-step4-habituar-tu-mensaje-concept]] · [[aku-methods-step5-optimizar-tu-mensaje-concept]] · [[aku-methods-step6-impulsar-su-momentum-concept]] · [[aku-methods-step7-sostener-su-cumplimiento-concept]] · [[aku-anunciar-pronto-para-moldear-las-simulaciones-futuras-claim]]
 
 **related** ↔ [[aku-leyes-persuasion-cialdini-concept]]

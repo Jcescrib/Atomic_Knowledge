@@ -28,7 +28,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-methods-step5-optimizar-tu-mensaje-concept
+    - aku-methods-step4-habituar-tu-mensaje-concept
+    - aku-methods-step2-elicitar-actitudes-congruentes-concept
 
 sources:
   - raw/libros/kolenda/audiobook-images-methods-of-persuasion/audiobook-images-methods-of-persuasion.md
@@ -43,3 +46,5 @@ status_note: "Fuente = stub de imagenes del audiolibro; anclado en Figure 0.1 (f
 ## Relaciones
 
 **supports** → [[aku-methods-proceso-de-persuasion-en-siete-pasos-concept]]
+
+**related** ↔ [[aku-methods-step5-optimizar-tu-mensaje-concept]] · [[aku-methods-step4-habituar-tu-mensaje-concept]] · [[aku-methods-step2-elicitar-actitudes-congruentes-concept]]

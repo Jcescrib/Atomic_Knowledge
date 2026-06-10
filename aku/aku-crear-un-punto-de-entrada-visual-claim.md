@@ -20,7 +20,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-el-color-capta-la-atencion-claim
   supports:
     - aku-ux-focus-guiar-la-atencion-concept
   constrained_by: []
@@ -45,3 +46,5 @@ status_note: ""
 **supports** → [[aku-ux-focus-guiar-la-atencion-concept]]
 
 **related** ↔ [[aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept]]
+
+**supported_by** ← [[aku-el-color-capta-la-atencion-claim]]

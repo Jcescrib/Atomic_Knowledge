@@ -31,6 +31,8 @@ relations:
   related:
     - aku-cialdini-compromiso-consistencia-concept
     - aku-leyes-persuasion-cialdini-concept
+    - aku-methods-step4-habituar-tu-mensaje-concept
+    - aku-methods-step5-optimizar-tu-mensaje-concept
 
 sources:
   - raw/libros/kolenda/audiobook-images-methods-of-persuasion/audiobook-images-methods-of-persuasion.md
@@ -46,4 +48,4 @@ status_note: "Fuente = stub de imagenes del audiolibro; anclado en Figure 0.1 (f
 
 **supports** → [[aku-methods-proceso-de-persuasion-en-siete-pasos-concept]]
 
-**related** ↔ [[aku-cialdini-compromiso-consistencia-concept]] · [[aku-leyes-persuasion-cialdini-concept]]
+**related** ↔ [[aku-cialdini-compromiso-consistencia-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-methods-step4-habituar-tu-mensaje-concept]] · [[aku-methods-step5-optimizar-tu-mensaje-concept]]

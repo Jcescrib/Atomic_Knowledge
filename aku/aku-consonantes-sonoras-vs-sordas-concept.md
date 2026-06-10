@@ -23,12 +23,15 @@ relations:
   supported_by: []
   supports:
     - aku-naming-metodologia-cinco-pasos-concept
+    - aku-los-fonemas-anteriores-evocan-lo-femenino-claim
+    - aku-los-fonemas-del-grupo-1-parecen-pequenos-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-grupo-1-vs-grupo-2-de-fonemas-concept
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -41,4 +44,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
+**supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-los-fonemas-anteriores-evocan-lo-femenino-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-pequenos-claim]]
+
+**related** ↔ [[aku-grupo-1-vs-grupo-2-de-fonemas-concept]]

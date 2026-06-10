@@ -23,6 +23,7 @@ relations:
   supported_by: []
   supports:
     - aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept
+    - aku-las-epidemias-virales-se-originan-en-micronetworks-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -42,6 +43,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]]
+**supports** → [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]] · [[aku-las-epidemias-virales-se-originan-en-micronetworks-claim]]
 
 **related** ↔ [[aku-construir-lista-tres-vias-concept]]

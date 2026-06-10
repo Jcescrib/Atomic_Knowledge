@@ -20,7 +20,15 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-los-nombres-neologisticos-son-los-mas-protegibles-trademark-claim
+    - aku-nombre-asociativo-concept
+    - aku-nombre-neologistico-concept
+    - aku-nombre-deviant-concept
+    - aku-nombre-descriptivo-concept
+    - aku-construir-nombres-asociativos-method
+    - aku-los-nombres-deviant-son-los-mas-emocionales-claim
+    - aku-los-nonwords-son-mejores-para-seo-claim
   supports:
     - aku-naming-metodologia-cinco-pasos-concept
   constrained_by: []
@@ -46,3 +54,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
+
+**supported_by** ← [[aku-los-nombres-neologisticos-son-los-mas-protegibles-trademark-claim]] · [[aku-nombre-asociativo-concept]] · [[aku-nombre-neologistico-concept]] · [[aku-nombre-deviant-concept]] · [[aku-nombre-descriptivo-concept]] · [[aku-construir-nombres-asociativos-method]] · [[aku-los-nombres-deviant-son-los-mas-emocionales-claim]] · [[aku-los-nonwords-son-mejores-para-seo-claim]]

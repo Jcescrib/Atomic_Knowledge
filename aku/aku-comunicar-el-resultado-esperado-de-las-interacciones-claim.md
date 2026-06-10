@@ -23,6 +23,7 @@ relations:
   supported_by: []
   supports:
     - aku-ux-understanding-comunicar-con-claridad-concept
+    - aku-ux-cinco-guidelines-de-usabilidad-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -41,4 +42,4 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-ux-understanding-comunicar-con-claridad-concept]]
+**supports** → [[aku-ux-understanding-comunicar-con-claridad-concept]] · [[aku-ux-cinco-guidelines-de-usabilidad-concept]]

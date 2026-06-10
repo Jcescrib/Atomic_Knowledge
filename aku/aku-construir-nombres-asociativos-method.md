@@ -24,6 +24,8 @@ relations:
     - aku-los-nombres-deben-contener-un-beneficio-positivo-claim
   supports:
     - aku-naming-metodologia-cinco-pasos-concept
+    - aku-nombre-asociativo-concept
+    - aku-matriz-de-nombres-wording-x-relevance-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -42,6 +44,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
+**supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-nombre-asociativo-concept]] · [[aku-matriz-de-nombres-wording-x-relevance-concept]]
 
 **supported_by** ← [[aku-los-nombres-deben-contener-un-beneficio-positivo-claim]]

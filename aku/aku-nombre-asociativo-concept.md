@@ -20,9 +20,11 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-construir-nombres-asociativos-method
   supports:
     - aku-naming-metodologia-cinco-pasos-concept
+    - aku-matriz-de-nombres-wording-x-relevance-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -41,4 +43,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
+**supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-matriz-de-nombres-wording-x-relevance-concept]]
+
+**supported_by** ← [[aku-construir-nombres-asociativos-method]]

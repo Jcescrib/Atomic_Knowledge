@@ -20,15 +20,20 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-construir-nombres-neologisticos-method
   supports:
     - aku-naming-metodologia-cinco-pasos-concept
+    - aku-matriz-de-nombres-wording-x-relevance-concept
   constrained_by: []
-  constrains: []
+  constrains:
+    - aku-nombre-neologistico-concept
+    - aku-nombre-descriptivo-concept
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-nombre-deviant-concept
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -45,4 +50,10 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
+**supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-matriz-de-nombres-wording-x-relevance-concept]]
+
+**constrains** → [[aku-nombre-neologistico-concept]] · [[aku-nombre-descriptivo-concept]]
+
+**related** ↔ [[aku-nombre-deviant-concept]]
+
+**supported_by** ← [[aku-construir-nombres-neologisticos-method]]

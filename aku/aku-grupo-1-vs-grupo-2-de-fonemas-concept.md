@@ -22,6 +22,11 @@ epistemic_type: sourced
 relations:
   supported_by:
     - aku-sound-symbolism-los-sonidos-tienen-significado-concept
+    - aku-los-fonemas-del-grupo-1-parecen-pequenos-claim
+    - aku-los-fonemas-del-grupo-1-parecen-sofisticados-claim
+    - aku-los-fonemas-del-grupo-1-parecen-brillantes-claim
+    - aku-los-fonemas-del-grupo-1-parecen-angulares-claim
+    - aku-los-fonemas-del-grupo-1-parecen-rapidos-claim
   supports:
     - aku-naming-metodologia-cinco-pasos-concept
     - aku-construir-nombres-neologisticos-method
@@ -30,7 +35,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-consonantes-sonoras-vs-sordas-concept
+    - aku-vocales-anteriores-vs-posteriores-concept
+    - aku-consonantes-fricativas-vs-oclusivas-concept
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -45,4 +53,6 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-construir-nombres-neologisticos-method]]
 
-**supported_by** ← [[aku-sound-symbolism-los-sonidos-tienen-significado-concept]]
+**supported_by** ← [[aku-sound-symbolism-los-sonidos-tienen-significado-concept]] · [[aku-los-fonemas-del-grupo-1-parecen-pequenos-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-sofisticados-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-brillantes-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-angulares-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-rapidos-claim]]
+
+**related** ↔ [[aku-consonantes-sonoras-vs-sordas-concept]] · [[aku-vocales-anteriores-vs-posteriores-concept]] · [[aku-consonantes-fricativas-vs-oclusivas-concept]]

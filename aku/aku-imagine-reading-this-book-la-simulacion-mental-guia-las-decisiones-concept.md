@@ -25,7 +25,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-ayudar-al-usuario-a-imaginar-tocar-el-producto-claim
   supports: []
   constrained_by: []
   constrains: []
@@ -53,3 +54,5 @@ status_note: "Fuente = PDF companion de figuras del audiolibro (sin prosa extrai
 ## Relaciones
 
 **related** ↔ [[aku-simulation-fluency-simulamos-resultado-menos-proceso-concept]] · [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]] · [[aku-primar-la-capacidad-del-rival-de-ejecutar-el-trato-claim]]
+
+**supported_by** ← [[aku-ayudar-al-usuario-a-imaginar-tocar-el-producto-claim]]

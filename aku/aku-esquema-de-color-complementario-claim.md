@@ -31,6 +31,10 @@ relations:
   related:
     - aku-esquemas-de-combinacion-de-color-monocromatico-a-tetradico-method
     - aku-cumplir-las-expectativas-del-usuario-consistencia-claim
+    - aku-esquema-de-color-triadico-claim
+    - aku-esquema-de-color-analogo-claim
+    - aku-esquema-de-color-tetradico-claim
+    - aku-traer-los-botones-al-primer-plano-claim
 
 sources:
   - raw/libros/kolenda/color-psychology2/color-psychology2.md
@@ -50,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept]]
 
-**related** ↔ [[aku-esquemas-de-combinacion-de-color-monocromatico-a-tetradico-method]] · [[aku-cumplir-las-expectativas-del-usuario-consistencia-claim]]
+**related** ↔ [[aku-esquemas-de-combinacion-de-color-monocromatico-a-tetradico-method]] · [[aku-cumplir-las-expectativas-del-usuario-consistencia-claim]] · [[aku-esquema-de-color-triadico-claim]] · [[aku-esquema-de-color-analogo-claim]] · [[aku-esquema-de-color-tetradico-claim]] · [[aku-traer-los-botones-al-primer-plano-claim]]

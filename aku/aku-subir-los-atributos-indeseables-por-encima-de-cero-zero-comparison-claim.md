@@ -23,6 +23,7 @@ relations:
   supported_by: []
   supports:
     - aku-choice-psychology-tres-mecanismos-de-decision-concept
+    - aku-evaluamos-por-comparaciones-relativas-context-effects-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -47,6 +48,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
+**supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]] · [[aku-evaluamos-por-comparaciones-relativas-context-effects-concept]]
 
 **related** ↔ [[aku-precio-alto-aumenta-valor-percibido-claim]]

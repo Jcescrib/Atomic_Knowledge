@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-hablar-suave-transfiere-el-poder-hacia-ti-claim
+    - aku-la-mirada-eye-gaze-capta-la-atencion-claim
+    - aku-las-flechas-captan-la-atencion-claim
 
 sources:
   - raw/libros/kolenda/visual-attention-by-nick-kolenda/visual-attention-by-nick-kolenda.md
@@ -44,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept]]
 
-**related** ↔ [[aku-hablar-suave-transfiere-el-poder-hacia-ti-claim]]
+**related** ↔ [[aku-hablar-suave-transfiere-el-poder-hacia-ti-claim]] · [[aku-la-mirada-eye-gaze-capta-la-atencion-claim]] · [[aku-las-flechas-captan-la-atencion-claim]]

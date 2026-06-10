@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-usar-precios-redondos-en-el-contexto-adecuado-claim
+    - aku-usar-numeros-compuestos-no-primos-en-el-nombre-claim
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
 
-**related** ↔ [[aku-usar-precios-redondos-en-el-contexto-adecuado-claim]]
+**related** ↔ [[aku-usar-precios-redondos-en-el-contexto-adecuado-claim]] · [[aku-usar-numeros-compuestos-no-primos-en-el-nombre-claim]]

@@ -23,6 +23,7 @@ relations:
   supported_by: []
   supports:
     - aku-naming-metodologia-cinco-pasos-concept
+    - aku-sound-symbolism-los-sonidos-tienen-significado-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -42,6 +43,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
+**supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-sound-symbolism-los-sonidos-tienen-significado-concept]]
 
 **related** ↔ [[aku-the-tangled-mind-la-cognicion-es-corporal-embodied-concept]]

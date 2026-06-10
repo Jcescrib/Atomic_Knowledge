@@ -23,6 +23,7 @@ relations:
   supported_by: []
   supports:
     - aku-choice-psychology-tres-mecanismos-de-decision-concept
+    - aku-simulation-fluency-simulamos-resultado-menos-proceso-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
+**supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]] · [[aku-simulation-fluency-simulamos-resultado-menos-proceso-concept]]

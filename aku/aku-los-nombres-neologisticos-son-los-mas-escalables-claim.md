@@ -24,7 +24,8 @@ relations:
   supports:
     - aku-naming-metodologia-cinco-pasos-concept
   constrained_by: []
-  constrains: []
+  constrains:
+    - aku-nombre-neologistico-concept
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
@@ -49,3 +50,5 @@ status_note: ""
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
 
 **related** ↔ [[aku-marca-concept]]
+
+**constrains** → [[aku-nombre-neologistico-concept]]
