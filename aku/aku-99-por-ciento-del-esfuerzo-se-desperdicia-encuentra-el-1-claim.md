@@ -33,6 +33,11 @@ relations:
   contradicts: []
   related:
     - aku-con-quien-y-en-que-trabajas-importa-mas-que-cuanto-claim
+    - aku-solo-se-logra-maestria-en-una-o-dos-cosas-claim
+    - aku-puedes-lograr-casi-cualquier-cosa-si-es-una-sola-y-la-quieres-mas-que-nada-claim
+    - aku-ten-un-solo-gran-deseo-a-la-vez-y-perfecciona-tus-deseos-claim
+    - aku-lo-mas-dificil-no-es-hacer-lo-que-quieres-sino-saber-que-quieres-claim
+    - aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-con-quien-y-en-que-trabajas-importa-mas-que-cuanto-claim]]
+**related** ↔ [[aku-con-quien-y-en-que-trabajas-importa-mas-que-cuanto-claim]] · [[aku-solo-se-logra-maestria-en-una-o-dos-cosas-claim]] · [[aku-puedes-lograr-casi-cualquier-cosa-si-es-una-sola-y-la-quieres-mas-que-nada-claim]] · [[aku-ten-un-solo-gran-deseo-a-la-vez-y-perfecciona-tus-deseos-claim]] · [[aku-lo-mas-dificil-no-es-hacer-lo-que-quieres-sino-saber-que-quieres-claim]] · [[aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim]]

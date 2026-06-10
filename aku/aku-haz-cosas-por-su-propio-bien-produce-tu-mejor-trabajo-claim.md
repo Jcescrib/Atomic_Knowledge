@@ -35,6 +35,10 @@ relations:
     - aku-encuentra-trabajo-que-se-sienta-como-juego-claim
     - aku-la-felicidad-es-una-habilidad-que-se-aprende-concept
     - aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim
+    - aku-escapa-la-competencia-mediante-autenticidad-claim
+    - aku-eres-irremplazable-encuentra-lo-que-mas-te-necesita-claim
+    - aku-se-el-mejor-del-mundo-redefiniendo-lo-que-haces-claim
+    - aku-para-una-contribucion-original-hay-que-estar-irracionalmente-obsesionado-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-encuentra-trabajo-que-se-sienta-como-juego-claim]] · [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim]]
+**related** ↔ [[aku-encuentra-trabajo-que-se-sienta-como-juego-claim]] · [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim]] · [[aku-escapa-la-competencia-mediante-autenticidad-claim]] · [[aku-eres-irremplazable-encuentra-lo-que-mas-te-necesita-claim]] · [[aku-se-el-mejor-del-mundo-redefiniendo-lo-que-haces-claim]] · [[aku-para-una-contribucion-original-hay-que-estar-irracionalmente-obsesionado-claim]]

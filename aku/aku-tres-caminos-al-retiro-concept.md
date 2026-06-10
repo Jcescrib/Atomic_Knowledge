@@ -35,6 +35,10 @@ relations:
   related:
     - aku-retiro-es-dejar-de-sacrificar-hoy-por-un-manana-imaginario-concept
     - aku-wealth-activos-que-ganan-mientras-duermes-concept
+    - aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim
+    - aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim
+    - aku-los-verdaderos-ganadores-salen-del-juego-por-completo-claim
+    - aku-la-vida-son-juegos-de-horizonte-creciente-baja-del-hedonic-treadmill-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,6 +51,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-retiro-es-dejar-de-sacrificar-hoy-por-un-manana-imaginario-concept]] · [[aku-wealth-activos-que-ganan-mientras-duermes-concept]]
+**related** ↔ [[aku-retiro-es-dejar-de-sacrificar-hoy-por-un-manana-imaginario-concept]] · [[aku-wealth-activos-que-ganan-mientras-duermes-concept]] · [[aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim]] · [[aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim]] · [[aku-los-verdaderos-ganadores-salen-del-juego-por-completo-claim]] · [[aku-la-vida-son-juegos-de-horizonte-creciente-baja-del-hedonic-treadmill-concept]]
 
 **supported_by** ← [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]]

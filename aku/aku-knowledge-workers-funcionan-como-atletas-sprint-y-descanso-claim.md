@@ -32,6 +32,12 @@ relations:
   contradicts: []
   related:
     - aku-armate-con-specific-knowledge-accountability-y-leverage-claim
+    - aku-mejores-trabajos-ni-decretados-ni-titulados-claim
+    - aku-desconexion-input-output-concept
+    - aku-con-quien-y-en-que-trabajas-importa-mas-que-cuanto-claim
+    - aku-encuentra-trabajo-que-se-sienta-como-juego-claim
+    - aku-decide-despacio-actua-rapido-y-deja-que-el-acto-dure-decadas-claim
+    - aku-necesitas-espacio-vacio-para-pensar-las-ideas-llegan-tras-el-aburrimiento-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]]
+**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-mejores-trabajos-ni-decretados-ni-titulados-claim]] · [[aku-desconexion-input-output-concept]] · [[aku-con-quien-y-en-que-trabajas-importa-mas-que-cuanto-claim]] · [[aku-encuentra-trabajo-que-se-sienta-como-juego-claim]] · [[aku-decide-despacio-actua-rapido-y-deja-que-el-acto-dure-decadas-claim]] · [[aku-necesitas-espacio-vacio-para-pensar-las-ideas-llegan-tras-el-aburrimiento-claim]]

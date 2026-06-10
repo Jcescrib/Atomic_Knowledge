@@ -36,6 +36,11 @@ relations:
     - aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim
     - aku-evaluation-health-concept
     - aku-tres-mercados-eternos-concept
+    - aku-la-felicidad-es-una-habilidad-que-se-aprende-concept
+    - aku-mejora-metodica-de-tu-baseline-de-felicidad-method
+    - aku-la-felicidad-es-un-juego-de-un-solo-jugador-concept
+    - aku-para-la-mente-el-placebo-es-100-efectivo-se-positivamente-inclinado-claim
+    - aku-di-a-tus-amigos-que-eres-feliz-para-conformarte-a-ello-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -48,6 +53,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim]] · [[aku-evaluation-health-concept]] · [[aku-tres-mercados-eternos-concept]]
+**related** ↔ [[aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim]] · [[aku-evaluation-health-concept]] · [[aku-tres-mercados-eternos-concept]] · [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-mejora-metodica-de-tu-baseline-de-felicidad-method]] · [[aku-la-felicidad-es-un-juego-de-un-solo-jugador-concept]] · [[aku-para-la-mente-el-placebo-es-100-efectivo-se-positivamente-inclinado-claim]] · [[aku-di-a-tus-amigos-que-eres-feliz-para-conformarte-a-ello-claim]]
 
 **supported_by** ← [[aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim]]

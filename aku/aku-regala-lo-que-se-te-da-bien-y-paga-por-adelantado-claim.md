@@ -33,6 +33,9 @@ relations:
   related:
     - aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim
     - aku-48laws-12-selective-honesty-to-disarm-concept
+    - aku-el-networking-de-negocios-es-perdida-de-tiempo-se-un-maker-claim
+    - aku-intenciones-no-importan-importan-las-acciones-claim
+    - aku-lo-mas-importante-de-una-empresa-es-su-red-de-alumni-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]] · [[aku-48laws-12-selective-honesty-to-disarm-concept]]
+**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]] · [[aku-48laws-12-selective-honesty-to-disarm-concept]] · [[aku-el-networking-de-negocios-es-perdida-de-tiempo-se-un-maker-claim]] · [[aku-intenciones-no-importan-importan-las-acciones-claim]] · [[aku-lo-mas-importante-de-una-empresa-es-su-red-de-alumni-claim]]

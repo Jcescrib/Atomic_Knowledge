@@ -33,6 +33,10 @@ relations:
   related:
     - aku-armate-con-specific-knowledge-accountability-y-leverage-claim
     - aku-48laws-35-master-the-art-of-timing-concept
+    - aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim
+    - aku-elige-juegos-largo-plazo-con-gente-largo-plazo-claim
+    - aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim
+    - aku-aplica-y-se-paciente-pero-no-lleves-la-cuenta-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-48laws-35-master-the-art-of-timing-concept]]
+**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-48laws-35-master-the-art-of-timing-concept]] · [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]] · [[aku-elige-juegos-largo-plazo-con-gente-largo-plazo-claim]] · [[aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim]] · [[aku-aplica-y-se-paciente-pero-no-lleves-la-cuenta-claim]]

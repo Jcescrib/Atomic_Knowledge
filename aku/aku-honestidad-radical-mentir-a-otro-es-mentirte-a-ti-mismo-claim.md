@@ -33,6 +33,10 @@ relations:
   related:
     - aku-no-puedes-ocultarte-de-ti-mismo-tus-valores-determinan-tu-autoestima-claim
     - aku-autoevaluacion-honesta-you-vs-you-claim
+    - aku-quien-presume-de-honesto-suele-ocultar-algo-claim
+    - aku-para-ser-honesto-habla-sin-identidad-las-etiquetas-te-atan-claim
+    - aku-cuantos-mas-secretos-tienes-menos-feliz-eres-claim
+    - aku-carisma-es-proyectar-confianza-y-amor-a-la-vez-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-puedes-ocultarte-de-ti-mismo-tus-valores-determinan-tu-autoestima-claim]] · [[aku-autoevaluacion-honesta-you-vs-you-claim]]
+**related** ↔ [[aku-no-puedes-ocultarte-de-ti-mismo-tus-valores-determinan-tu-autoestima-claim]] · [[aku-autoevaluacion-honesta-you-vs-you-claim]] · [[aku-quien-presume-de-honesto-suele-ocultar-algo-claim]] · [[aku-para-ser-honesto-habla-sin-identidad-las-etiquetas-te-atan-claim]] · [[aku-cuantos-mas-secretos-tienes-menos-feliz-eres-claim]] · [[aku-carisma-es-proyectar-confianza-y-amor-a-la-vez-concept]]

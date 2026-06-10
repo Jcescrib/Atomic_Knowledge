@@ -35,6 +35,9 @@ relations:
     - aku-debes-editar-y-expandir-tu-identidad-continuamente-claim
     - aku-48laws-48-assume-formlessness-concept
     - aku-el-entorno-es-la-mano-invisible-que-moldea-la-conducta-claim
+    - aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept
+    - aku-el-mayor-superpoder-es-la-capacidad-de-cambiarte-a-ti-mismo-claim
+    - aku-la-motivacion-es-relativa-encuentra-la-cosa-en-la-que-te-metes-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-debes-editar-y-expandir-tu-identidad-continuamente-claim]] · [[aku-48laws-48-assume-formlessness-concept]] · [[aku-el-entorno-es-la-mano-invisible-que-moldea-la-conducta-claim]]
+**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-debes-editar-y-expandir-tu-identidad-continuamente-claim]] · [[aku-48laws-48-assume-formlessness-concept]] · [[aku-el-entorno-es-la-mano-invisible-que-moldea-la-conducta-claim]] · [[aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept]] · [[aku-el-mayor-superpoder-es-la-capacidad-de-cambiarte-a-ti-mismo-claim]] · [[aku-la-motivacion-es-relativa-encuentra-la-cosa-en-la-que-te-metes-claim]]

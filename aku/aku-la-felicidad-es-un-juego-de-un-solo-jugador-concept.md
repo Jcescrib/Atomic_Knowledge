@@ -35,6 +35,11 @@ relations:
   related:
     - aku-la-vida-es-fundamentalmente-un-juego-de-un-solo-jugador-claim
     - aku-todos-los-marcadores-reales-son-internos-claim
+    - aku-la-felicidad-es-una-habilidad-que-se-aprende-concept
+    - aku-mejora-metodica-de-tu-baseline-de-felicidad-method
+    - aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method
+    - aku-para-la-mente-el-placebo-es-100-efectivo-se-positivamente-inclinado-claim
+    - aku-di-a-tus-amigos-que-eres-feliz-para-conformarte-a-ello-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-vida-es-fundamentalmente-un-juego-de-un-solo-jugador-claim]] · [[aku-todos-los-marcadores-reales-son-internos-claim]]
+**related** ↔ [[aku-la-vida-es-fundamentalmente-un-juego-de-un-solo-jugador-claim]] · [[aku-todos-los-marcadores-reales-son-internos-claim]] · [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-mejora-metodica-de-tu-baseline-de-felicidad-method]] · [[aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method]] · [[aku-para-la-mente-el-placebo-es-100-efectivo-se-positivamente-inclinado-claim]] · [[aku-di-a-tus-amigos-que-eres-feliz-para-conformarte-a-ello-claim]]

@@ -34,6 +34,7 @@ relations:
     - aku-cuatro-tipos-de-suerte-concept
     - aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept
     - aku-atribucion-sesgada-exito-fracaso-claim
+    - aku-construye-un-caracter-que-atrae-la-suerte-el-caracter-es-destino-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cuatro-tipos-de-suerte-concept]] · [[aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept]] · [[aku-atribucion-sesgada-exito-fracaso-claim]]
+**related** ↔ [[aku-cuatro-tipos-de-suerte-concept]] · [[aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept]] · [[aku-atribucion-sesgada-exito-fracaso-claim]] · [[aku-construye-un-caracter-que-atrae-la-suerte-el-caracter-es-destino-claim]]

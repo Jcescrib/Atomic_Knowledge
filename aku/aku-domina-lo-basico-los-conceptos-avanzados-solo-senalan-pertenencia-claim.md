@@ -33,6 +33,10 @@ relations:
   related:
     - aku-lee-los-originales-y-clasicos-para-una-base-solida-claim
     - aku-modelos-mentales-concept
+    - aku-las-fundaciones-importan-mas-que-la-profundidad-equivocada-claim
+    - aku-lega-a-tus-hijos-leer-matematicas-y-persuasion-claim
+    - aku-pensador-claro-mejor-que-listo-explica-a-un-nino-desde-los-fundamentos-claim
+    - aku-cuanto-mas-viejo-el-problema-mas-vieja-la-solucion-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-lee-los-originales-y-clasicos-para-una-base-solida-claim]] · [[aku-modelos-mentales-concept]]
+**related** ↔ [[aku-lee-los-originales-y-clasicos-para-una-base-solida-claim]] · [[aku-modelos-mentales-concept]] · [[aku-las-fundaciones-importan-mas-que-la-profundidad-equivocada-claim]] · [[aku-lega-a-tus-hijos-leer-matematicas-y-persuasion-claim]] · [[aku-pensador-claro-mejor-que-listo-explica-a-un-nino-desde-los-fundamentos-claim]] · [[aku-cuanto-mas-viejo-el-problema-mas-vieja-la-solucion-claim]]

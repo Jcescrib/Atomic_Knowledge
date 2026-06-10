@@ -33,6 +33,7 @@ relations:
   related:
     - aku-accountability-bajo-tu-nombre-concept
     - aku-quien-culpa-a-otros-nunca-mira-su-propia-falta-de-hustle-claim
+    - aku-fallar-en-publico-bajo-tu-nombre-da-poder-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-accountability-bajo-tu-nombre-concept]] · [[aku-quien-culpa-a-otros-nunca-mira-su-propia-falta-de-hustle-claim]]
+**related** ↔ [[aku-accountability-bajo-tu-nombre-concept]] · [[aku-quien-culpa-a-otros-nunca-mira-su-propia-falta-de-hustle-claim]] · [[aku-fallar-en-publico-bajo-tu-nombre-da-poder-claim]]

@@ -36,6 +36,11 @@ relations:
     - aku-content-benchmarks-crecimiento-method
     - aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim
     - aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method
+    - aku-busca-wealth-no-money-ni-status-claim
+    - aku-wealth-activos-que-ganan-mientras-duermes-concept
+    - aku-money-transfiere-tiempo-y-riqueza-concept
+    - aku-status-posicion-en-jerarquia-social-concept
+    - aku-equity-es-el-upside-deuda-es-downside-garantizado-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -48,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]] · [[aku-content-benchmarks-crecimiento-method]] · [[aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim]] · [[aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method]]
+**related** ↔ [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]] · [[aku-content-benchmarks-crecimiento-method]] · [[aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim]] · [[aku-due-diligence-de-equity-valoracion-vesting-y-abogado-method]] · [[aku-busca-wealth-no-money-ni-status-claim]] · [[aku-wealth-activos-que-ganan-mientras-duermes-concept]] · [[aku-money-transfiere-tiempo-y-riqueza-concept]] · [[aku-status-posicion-en-jerarquia-social-concept]] · [[aku-equity-es-el-upside-deuda-es-downside-garantizado-concept]]

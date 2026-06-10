@@ -34,6 +34,10 @@ relations:
   related:
     - aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim
     - aku-el-mayor-enemigo-del-exito-no-es-el-fracaso-sino-el-aburrimiento-claim
+    - aku-los-verdaderos-ganadores-salen-del-juego-por-completo-claim
+    - aku-la-vida-son-juegos-de-horizonte-creciente-baja-del-hedonic-treadmill-concept
+    - aku-retiro-es-dejar-de-sacrificar-hoy-por-un-manana-imaginario-concept
+    - aku-tres-caminos-al-retiro-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim]] · [[aku-el-mayor-enemigo-del-exito-no-es-el-fracaso-sino-el-aburrimiento-claim]]
+**related** ↔ [[aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim]] · [[aku-el-mayor-enemigo-del-exito-no-es-el-fracaso-sino-el-aburrimiento-claim]] · [[aku-los-verdaderos-ganadores-salen-del-juego-por-completo-claim]] · [[aku-la-vida-son-juegos-de-horizonte-creciente-baja-del-hedonic-treadmill-concept]] · [[aku-retiro-es-dejar-de-sacrificar-hoy-por-un-manana-imaginario-concept]] · [[aku-tres-caminos-al-retiro-concept]]

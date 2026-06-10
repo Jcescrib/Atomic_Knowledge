@@ -31,6 +31,9 @@ relations:
   contradicts: []
   related:
     - aku-empezar-aqui-y-ahora-method
+    - aku-impaciencia-con-las-acciones-paciencia-con-los-resultados-claim
+    - aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim
+    - aku-la-mayor-parte-del-sufrimiento-viene-de-la-evitacion-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-empezar-aqui-y-ahora-method]]
+**related** ↔ [[aku-empezar-aqui-y-ahora-method]] · [[aku-impaciencia-con-las-acciones-paciencia-con-los-resultados-claim]] · [[aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim]] · [[aku-la-mayor-parte-del-sufrimiento-viene-de-la-evitacion-claim]]

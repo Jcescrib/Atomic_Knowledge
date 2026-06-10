@@ -33,6 +33,7 @@ relations:
   related:
     - aku-nadie-te-valora-mas-de-lo-que-tu-te-valoras-claim
     - aku-armate-con-specific-knowledge-accountability-y-leverage-claim
+    - aku-optimiza-por-independencia-no-por-paga-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-nadie-te-valora-mas-de-lo-que-tu-te-valoras-claim]] · [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]]
+**related** ↔ [[aku-nadie-te-valora-mas-de-lo-que-tu-te-valoras-claim]] · [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-optimiza-por-independencia-no-por-paga-claim]]

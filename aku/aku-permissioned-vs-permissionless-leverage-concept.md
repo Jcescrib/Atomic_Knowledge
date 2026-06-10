@@ -34,6 +34,10 @@ relations:
   related:
     - aku-leverage-multiplicador-de-juicio-concept
     - aku-labor-es-la-peor-forma-de-leverage-claim
+    - aku-ahora-es-apalancado-vs-no-apalancado-claim
+    - aku-capital-escala-mejor-que-las-personas-claim
+    - aku-trabajador-apalancado-rinde-1000x-y-el-juicio-supera-las-horas-claim
+    - aku-la-direccion-importa-mas-que-la-velocidad-sobre-todo-con-leverage-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-leverage-multiplicador-de-juicio-concept]] · [[aku-labor-es-la-peor-forma-de-leverage-claim]]
+**related** ↔ [[aku-leverage-multiplicador-de-juicio-concept]] · [[aku-labor-es-la-peor-forma-de-leverage-claim]] · [[aku-ahora-es-apalancado-vs-no-apalancado-claim]] · [[aku-capital-escala-mejor-que-las-personas-claim]] · [[aku-trabajador-apalancado-rinde-1000x-y-el-juicio-supera-las-horas-claim]] · [[aku-la-direccion-importa-mas-que-la-velocidad-sobre-todo-con-leverage-claim]]

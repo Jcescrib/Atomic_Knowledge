@@ -31,6 +31,9 @@ relations:
   contradicts: []
   related:
     - aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim
+    - aku-la-vida-es-fundamentalmente-un-juego-de-un-solo-jugador-claim
+    - aku-los-tres-significados-de-la-vida-concept
+    - aku-abrazar-la-muerte-da-sentido-y-no-hay-legado-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]]
+**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]] · [[aku-la-vida-es-fundamentalmente-un-juego-de-un-solo-jugador-claim]] · [[aku-los-tres-significados-de-la-vida-concept]] · [[aku-abrazar-la-muerte-da-sentido-y-no-hay-legado-concept]]

@@ -32,6 +32,11 @@ relations:
   contradicts: []
   related:
     - aku-judgment-naval-concept
+    - aku-creacion-de-riqueza-etica-es-posible-claim
+    - aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim
+    - aku-hacer-dinero-es-habilidad-que-se-aprende-claim
+    - aku-no-hay-esquemas-para-hacerse-rico-rapido-claim
+    - aku-riqueza-es-entender-que-quien-cuando-no-solo-trabajo-duro-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-judgment-naval-concept]]
+**related** ↔ [[aku-judgment-naval-concept]] · [[aku-creacion-de-riqueza-etica-es-posible-claim]] · [[aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim]] · [[aku-hacer-dinero-es-habilidad-que-se-aprende-claim]] · [[aku-no-hay-esquemas-para-hacerse-rico-rapido-claim]] · [[aku-riqueza-es-entender-que-quien-cuando-no-solo-trabajo-duro-claim]]

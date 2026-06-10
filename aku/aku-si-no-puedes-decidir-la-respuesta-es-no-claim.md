@@ -34,6 +34,8 @@ relations:
   related:
     - aku-judgment-naval-concept
     - aku-entorno-de-recompensa-inmediata-vs-diferida-concept
+    - aku-tres-grandes-decisiones-donde-vives-con-quien-y-que-haces-claim
+    - aku-no-hay-adultos-todos-improvisan-encuentra-tu-camino-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-judgment-naval-concept]] · [[aku-entorno-de-recompensa-inmediata-vs-diferida-concept]]
+**related** ↔ [[aku-judgment-naval-concept]] · [[aku-entorno-de-recompensa-inmediata-vs-diferida-concept]] · [[aku-tres-grandes-decisiones-donde-vives-con-quien-y-que-haces-claim]] · [[aku-no-hay-adultos-todos-improvisan-encuentra-tu-camino-claim]]

@@ -35,6 +35,11 @@ relations:
     - aku-ensenar-con-no-a-incorporar-feedback-claim
     - aku-liderar-con-el-ejemplo-unica-forma-de-ensenar-claim
     - aku-cuestionarlo-todo-y-a-uno-mismo-method
+    - aku-leer-es-la-meta-habilidad-definitiva-canjeable-por-cualquier-otra-claim
+    - aku-ser-aprendiz-perpetuo-es-la-habilidad-clave-para-hacerse-rico-claim
+    - aku-leer-mas-rapido-que-escuchar-hacer-mas-rapido-que-ver-claim
+    - aku-no-esperes-por-ser-joven-solo-se-aprende-haciendo-claim
+    - aku-cinco-etapas-saber-entender-explicar-sentir-ser-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-pensador-claro-mejor-que-listo-explica-a-un-nino-desde-los-fundamentos-claim]] · [[aku-aprender-pensando-por-uno-mismo-descubre-mas-claim]] · [[aku-ensenar-con-no-a-incorporar-feedback-claim]] · [[aku-liderar-con-el-ejemplo-unica-forma-de-ensenar-claim]] · [[aku-cuestionarlo-todo-y-a-uno-mismo-method]]
+**related** ↔ [[aku-pensador-claro-mejor-que-listo-explica-a-un-nino-desde-los-fundamentos-claim]] · [[aku-aprender-pensando-por-uno-mismo-descubre-mas-claim]] · [[aku-ensenar-con-no-a-incorporar-feedback-claim]] · [[aku-liderar-con-el-ejemplo-unica-forma-de-ensenar-claim]] · [[aku-cuestionarlo-todo-y-a-uno-mismo-method]] · [[aku-leer-es-la-meta-habilidad-definitiva-canjeable-por-cualquier-otra-claim]] · [[aku-ser-aprendiz-perpetuo-es-la-habilidad-clave-para-hacerse-rico-claim]] · [[aku-leer-mas-rapido-que-escuchar-hacer-mas-rapido-que-ver-claim]] · [[aku-no-esperes-por-ser-joven-solo-se-aprende-haciendo-claim]] · [[aku-cinco-etapas-saber-entender-explicar-sentir-ser-concept]]

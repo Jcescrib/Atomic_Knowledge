@@ -33,6 +33,11 @@ relations:
   related:
     - aku-armate-con-specific-knowledge-accountability-y-leverage-claim
     - aku-lider-conoce-trabajos-y-pide-ayuda-claim
+    - aku-leer-es-la-meta-habilidad-definitiva-canjeable-por-cualquier-otra-claim
+    - aku-ser-aprendiz-perpetuo-es-la-habilidad-clave-para-hacerse-rico-claim
+    - aku-leer-mas-rapido-que-escuchar-hacer-mas-rapido-que-ver-claim
+    - aku-cinco-etapas-saber-entender-explicar-sentir-ser-concept
+    - aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-lider-conoce-trabajos-y-pide-ayuda-claim]]
+**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-lider-conoce-trabajos-y-pide-ayuda-claim]] · [[aku-leer-es-la-meta-habilidad-definitiva-canjeable-por-cualquier-otra-claim]] · [[aku-ser-aprendiz-perpetuo-es-la-habilidad-clave-para-hacerse-rico-claim]] · [[aku-leer-mas-rapido-que-escuchar-hacer-mas-rapido-que-ver-claim]] · [[aku-cinco-etapas-saber-entender-explicar-sentir-ser-concept]] · [[aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim]]

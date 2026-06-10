@@ -36,6 +36,11 @@ relations:
   related:
     - aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept
     - aku-mindfulness-concept
+    - aku-la-meditacion-es-ayuno-intermitente-para-la-mente-concept
+    - aku-la-meditacion-revela-cuan-fuera-de-control-esta-tu-mente-y-en-la-separacion-hay-liberacion-claim
+    - aku-meditacion-es-apagar-a-la-sociedad-y-escucharte-y-adopta-muchas-formas-claim
+    - aku-iluminacion-es-el-espacio-entre-tus-pensamientos-concept
+    - aku-la-ansiedad-son-pensamientos-en-marcha-elige-la-paz-sobre-el-pensamiento-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -48,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept]] · [[aku-mindfulness-concept]]
+**related** ↔ [[aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept]] · [[aku-mindfulness-concept]] · [[aku-la-meditacion-es-ayuno-intermitente-para-la-mente-concept]] · [[aku-la-meditacion-revela-cuan-fuera-de-control-esta-tu-mente-y-en-la-separacion-hay-liberacion-claim]] · [[aku-meditacion-es-apagar-a-la-sociedad-y-escucharte-y-adopta-muchas-formas-claim]] · [[aku-iluminacion-es-el-espacio-entre-tus-pensamientos-concept]] · [[aku-la-ansiedad-son-pensamientos-en-marcha-elige-la-paz-sobre-el-pensamiento-claim]]

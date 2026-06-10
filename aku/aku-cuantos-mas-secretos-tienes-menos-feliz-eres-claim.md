@@ -31,6 +31,10 @@ relations:
   related:
     - aku-no-puedes-ocultarte-de-ti-mismo-tus-valores-determinan-tu-autoestima-claim
     - aku-reconocer-los-miedos-que-no-has-confrontado-es-parte-del-trabajo-claim
+    - aku-honestidad-radical-mentir-a-otro-es-mentirte-a-ti-mismo-claim
+    - aku-quien-presume-de-honesto-suele-ocultar-algo-claim
+    - aku-para-ser-honesto-habla-sin-identidad-las-etiquetas-te-atan-claim
+    - aku-carisma-es-proyectar-confianza-y-amor-a-la-vez-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-puedes-ocultarte-de-ti-mismo-tus-valores-determinan-tu-autoestima-claim]] · [[aku-reconocer-los-miedos-que-no-has-confrontado-es-parte-del-trabajo-claim]]
+**related** ↔ [[aku-no-puedes-ocultarte-de-ti-mismo-tus-valores-determinan-tu-autoestima-claim]] · [[aku-reconocer-los-miedos-que-no-has-confrontado-es-parte-del-trabajo-claim]] · [[aku-honestidad-radical-mentir-a-otro-es-mentirte-a-ti-mismo-claim]] · [[aku-quien-presume-de-honesto-suele-ocultar-algo-claim]] · [[aku-para-ser-honesto-habla-sin-identidad-las-etiquetas-te-atan-claim]] · [[aku-carisma-es-proyectar-confianza-y-amor-a-la-vez-concept]]

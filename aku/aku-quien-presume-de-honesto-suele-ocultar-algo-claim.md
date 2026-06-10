@@ -32,6 +32,10 @@ relations:
   related:
     - aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim
     - aku-senales-de-confianza-desequilibrada-claim
+    - aku-honestidad-radical-mentir-a-otro-es-mentirte-a-ti-mismo-claim
+    - aku-para-ser-honesto-habla-sin-identidad-las-etiquetas-te-atan-claim
+    - aku-cuantos-mas-secretos-tienes-menos-feliz-eres-claim
+    - aku-carisma-es-proyectar-confianza-y-amor-a-la-vez-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]] · [[aku-senales-de-confianza-desequilibrada-claim]]
+**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]] · [[aku-senales-de-confianza-desequilibrada-claim]] · [[aku-honestidad-radical-mentir-a-otro-es-mentirte-a-ti-mismo-claim]] · [[aku-para-ser-honesto-habla-sin-identidad-las-etiquetas-te-atan-claim]] · [[aku-cuantos-mas-secretos-tienes-menos-feliz-eres-claim]] · [[aku-carisma-es-proyectar-confianza-y-amor-a-la-vez-concept]]

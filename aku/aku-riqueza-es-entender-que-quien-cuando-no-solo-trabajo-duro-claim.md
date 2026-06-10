@@ -34,6 +34,11 @@ relations:
   related:
     - aku-judgment-naval-concept
     - aku-volumen-test-size-suficiente-claim
+    - aku-creacion-de-riqueza-etica-es-posible-claim
+    - aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim
+    - aku-hacer-dinero-es-habilidad-que-se-aprende-claim
+    - aku-no-existe-la-habilidad-de-los-negocios-claim
+    - aku-no-hay-esquemas-para-hacerse-rico-rapido-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-judgment-naval-concept]] · [[aku-volumen-test-size-suficiente-claim]]
+**related** ↔ [[aku-judgment-naval-concept]] · [[aku-volumen-test-size-suficiente-claim]] · [[aku-creacion-de-riqueza-etica-es-posible-claim]] · [[aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim]] · [[aku-hacer-dinero-es-habilidad-que-se-aprende-claim]] · [[aku-no-existe-la-habilidad-de-los-negocios-claim]] · [[aku-no-hay-esquemas-para-hacerse-rico-rapido-claim]]

@@ -34,6 +34,9 @@ relations:
   related:
     - aku-cambiar-aceptar-o-dejar-concept
     - aku-el-deseo-es-la-diferencia-entre-donde-estas-y-donde-quieres-estar-claim
+    - aku-impaciencia-con-las-acciones-paciencia-con-los-resultados-claim
+    - aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim
+    - aku-si-hay-algo-que-quieres-hacer-luego-hazlo-ahora-no-hay-luego-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cambiar-aceptar-o-dejar-concept]] · [[aku-el-deseo-es-la-diferencia-entre-donde-estas-y-donde-quieres-estar-claim]]
+**related** ↔ [[aku-cambiar-aceptar-o-dejar-concept]] · [[aku-el-deseo-es-la-diferencia-entre-donde-estas-y-donde-quieres-estar-claim]] · [[aku-impaciencia-con-las-acciones-paciencia-con-los-resultados-claim]] · [[aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim]] · [[aku-si-hay-algo-que-quieres-hacer-luego-hazlo-ahora-no-hay-luego-claim]]

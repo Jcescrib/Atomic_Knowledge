@@ -32,6 +32,10 @@ relations:
   related:
     - aku-la-felicidad-es-una-habilidad-que-se-aprende-concept
     - aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim
+    - aku-mejora-metodica-de-tu-baseline-de-felicidad-method
+    - aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method
+    - aku-la-felicidad-es-un-juego-de-un-solo-jugador-concept
+    - aku-para-la-mente-el-placebo-es-100-efectivo-se-positivamente-inclinado-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim]]
+**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim]] · [[aku-mejora-metodica-de-tu-baseline-de-felicidad-method]] · [[aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method]] · [[aku-la-felicidad-es-un-juego-de-un-solo-jugador-concept]] · [[aku-para-la-mente-el-placebo-es-100-efectivo-se-positivamente-inclinado-claim]]

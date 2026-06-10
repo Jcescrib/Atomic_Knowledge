@@ -38,6 +38,8 @@ relations:
     - aku-expande-tu-mente-a-traves-de-un-circulo-diverso-y-mas-sabio-claim
     - aku-pregunta-de-cada-persona-hace-depositos-o-solo-retiros-claim
     - aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim
+    - aku-grandes-personas-tienen-grandes-resultados-si-eres-paciente-claim
+    - aku-aplica-y-se-paciente-pero-no-lleves-la-cuenta-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -50,6 +52,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-capitalizar-interes-compuesto-method]] · [[aku-elige-juegos-largo-plazo-con-gente-largo-plazo-claim]] · [[aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim]] · [[aku-expande-tu-mente-a-traves-de-un-circulo-diverso-y-mas-sabio-claim]] · [[aku-pregunta-de-cada-persona-hace-depositos-o-solo-retiros-claim]] · [[aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim]]
+**related** ↔ [[aku-capitalizar-interes-compuesto-method]] · [[aku-elige-juegos-largo-plazo-con-gente-largo-plazo-claim]] · [[aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim]] · [[aku-expande-tu-mente-a-traves-de-un-circulo-diverso-y-mas-sabio-claim]] · [[aku-pregunta-de-cada-persona-hace-depositos-o-solo-retiros-claim]] · [[aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim]] · [[aku-grandes-personas-tienen-grandes-resultados-si-eres-paciente-claim]] · [[aku-aplica-y-se-paciente-pero-no-lleves-la-cuenta-claim]]
 
 **supported_by** ← [[aku-capitalizar-interes-compuesto-method]]

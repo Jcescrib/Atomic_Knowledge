@@ -32,6 +32,9 @@ relations:
   contradicts: []
   related:
     - aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim
+    - aku-el-networking-de-negocios-es-perdida-de-tiempo-se-un-maker-claim
+    - aku-regala-lo-que-se-te-da-bien-y-paga-por-adelantado-claim
+    - aku-intenciones-no-importan-importan-las-acciones-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]]
+**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]] · [[aku-el-networking-de-negocios-es-perdida-de-tiempo-se-un-maker-claim]] · [[aku-regala-lo-que-se-te-da-bien-y-paga-por-adelantado-claim]] · [[aku-intenciones-no-importan-importan-las-acciones-claim]]

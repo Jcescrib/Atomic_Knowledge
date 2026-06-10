@@ -32,6 +32,11 @@ relations:
     - aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept
     - aku-check-the-ego-concept
     - aku-no-tomarse-las-cosas-personalmente-claim
+    - aku-el-ego-se-construye-en-las-primeras-dos-decadas-concept
+    - aku-memoria-e-identidad-son-cargas-del-pasado-que-impiden-vivir-el-presente-claim
+    - aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim
+    - aku-todos-los-marcadores-reales-son-internos-claim
+    - aku-todo-exito-real-es-interno-la-adaptacion-hedonica-borra-el-externo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept]] · [[aku-check-the-ego-concept]] · [[aku-no-tomarse-las-cosas-personalmente-claim]]
+**related** ↔ [[aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept]] · [[aku-check-the-ego-concept]] · [[aku-no-tomarse-las-cosas-personalmente-claim]] · [[aku-el-ego-se-construye-en-las-primeras-dos-decadas-concept]] · [[aku-memoria-e-identidad-son-cargas-del-pasado-que-impiden-vivir-el-presente-claim]] · [[aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim]] · [[aku-todos-los-marcadores-reales-son-internos-claim]] · [[aku-todo-exito-real-es-interno-la-adaptacion-hedonica-borra-el-externo-claim]]

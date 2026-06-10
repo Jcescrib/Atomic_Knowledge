@@ -33,6 +33,10 @@ relations:
   related:
     - aku-la-libertad-es-el-valor-supremo-claim
     - aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim
+    - aku-el-dinero-resuelve-problemas-de-dinero-no-te-hace-feliz-claim
+    - aku-no-subas-tu-tren-de-vida-al-ganar-mas-claim
+    - aku-vivir-muy-por-debajo-de-tus-medios-da-una-libertad-inimaginable-claim
+    - aku-la-persona-en-que-te-vuelves-para-ganar-dinero-es-ansiosa-y-no-se-apaga-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-libertad-es-el-valor-supremo-claim]] · [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]]
+**related** ↔ [[aku-la-libertad-es-el-valor-supremo-claim]] · [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]] · [[aku-el-dinero-resuelve-problemas-de-dinero-no-te-hace-feliz-claim]] · [[aku-no-subas-tu-tren-de-vida-al-ganar-mas-claim]] · [[aku-vivir-muy-por-debajo-de-tus-medios-da-una-libertad-inimaginable-claim]] · [[aku-la-persona-en-que-te-vuelves-para-ganar-dinero-es-ansiosa-y-no-se-apaga-claim]]

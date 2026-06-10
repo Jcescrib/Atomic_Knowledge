@@ -32,6 +32,12 @@ relations:
   related:
     - aku-99-por-ciento-del-esfuerzo-se-desperdicia-encuentra-el-1-claim
     - aku-judgment-naval-concept
+    - aku-mejores-trabajos-ni-decretados-ni-titulados-claim
+    - aku-desconexion-input-output-concept
+    - aku-knowledge-workers-funcionan-como-atletas-sprint-y-descanso-claim
+    - aku-encuentra-trabajo-que-se-sienta-como-juego-claim
+    - aku-decide-despacio-actua-rapido-y-deja-que-el-acto-dure-decadas-claim
+    - aku-necesitas-espacio-vacio-para-pensar-las-ideas-llegan-tras-el-aburrimiento-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-99-por-ciento-del-esfuerzo-se-desperdicia-encuentra-el-1-claim]] · [[aku-judgment-naval-concept]]
+**related** ↔ [[aku-99-por-ciento-del-esfuerzo-se-desperdicia-encuentra-el-1-claim]] · [[aku-judgment-naval-concept]] · [[aku-mejores-trabajos-ni-decretados-ni-titulados-claim]] · [[aku-desconexion-input-output-concept]] · [[aku-knowledge-workers-funcionan-como-atletas-sprint-y-descanso-claim]] · [[aku-encuentra-trabajo-que-se-sienta-como-juego-claim]] · [[aku-decide-despacio-actua-rapido-y-deja-que-el-acto-dure-decadas-claim]] · [[aku-necesitas-espacio-vacio-para-pensar-las-ideas-llegan-tras-el-aburrimiento-claim]]

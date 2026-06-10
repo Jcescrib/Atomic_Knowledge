@@ -33,6 +33,9 @@ relations:
   contradicts: []
   related:
     - aku-escapa-la-competencia-mediante-autenticidad-claim
+    - aku-se-el-mejor-del-mundo-redefiniendo-lo-que-haces-claim
+    - aku-para-una-contribucion-original-hay-que-estar-irracionalmente-obsesionado-claim
+    - aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-escapa-la-competencia-mediante-autenticidad-claim]]
+**related** ↔ [[aku-escapa-la-competencia-mediante-autenticidad-claim]] · [[aku-se-el-mejor-del-mundo-redefiniendo-lo-que-haces-claim]] · [[aku-para-una-contribucion-original-hay-que-estar-irracionalmente-obsesionado-claim]] · [[aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim]]

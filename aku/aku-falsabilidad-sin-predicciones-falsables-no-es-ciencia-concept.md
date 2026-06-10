@@ -35,6 +35,9 @@ relations:
     - aku-modelos-mentales-concept
     - aku-ciencia-es-el-estudio-de-la-verdad-y-las-matematicas-su-lenguaje-concept
     - aku-rational-buddhism-concept
+    - aku-ciencia-aguas-arriba-de-tecnologia-y-negocio-concept
+    - aku-technology-cosas-que-aun-no-funcionan-concept
+    - aku-las-ciencias-duras-explican-la-sociedad-evolucion-y-complejidad-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelos-mentales-concept]] · [[aku-ciencia-es-el-estudio-de-la-verdad-y-las-matematicas-su-lenguaje-concept]] · [[aku-rational-buddhism-concept]]
+**related** ↔ [[aku-modelos-mentales-concept]] · [[aku-ciencia-es-el-estudio-de-la-verdad-y-las-matematicas-su-lenguaje-concept]] · [[aku-rational-buddhism-concept]] · [[aku-ciencia-aguas-arriba-de-tecnologia-y-negocio-concept]] · [[aku-technology-cosas-que-aun-no-funcionan-concept]] · [[aku-las-ciencias-duras-explican-la-sociedad-evolucion-y-complejidad-claim]]

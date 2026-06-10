@@ -34,6 +34,8 @@ relations:
   related:
     - aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept
     - aku-el-sufrimiento-impulsa-el-progreso-el-deseo-de-cambiar-de-estado-mueve-a-actuar-claim
+    - aku-el-sufrimiento-es-el-momento-de-ver-la-realidad-como-es-concept
+    - aku-tu-curriculum-real-es-tu-catalogo-de-sufrimiento-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-el-sufrimiento-impulsa-el-progreso-el-deseo-de-cambiar-de-estado-mueve-a-actuar-claim]]
+**related** ↔ [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-el-sufrimiento-impulsa-el-progreso-el-deseo-de-cambiar-de-estado-mueve-a-actuar-claim]] · [[aku-el-sufrimiento-es-el-momento-de-ver-la-realidad-como-es-concept]] · [[aku-tu-curriculum-real-es-tu-catalogo-de-sufrimiento-claim]]

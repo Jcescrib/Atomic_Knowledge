@@ -37,6 +37,10 @@ relations:
     - aku-evita-los-juegos-de-estatus-te-vuelven-combativo-claim
     - aku-status-driver-compra-claim
     - aku-48laws-01-never-outshine-the-master-concept
+    - aku-busca-wealth-no-money-ni-status-claim
+    - aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim
+    - aku-sin-propiedad-tus-inputs-estan-atados-a-tus-outputs-claim
+    - aku-equity-es-el-upside-deuda-es-downside-garantizado-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -49,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-wealth-activos-que-ganan-mientras-duermes-concept]] · [[aku-money-transfiere-tiempo-y-riqueza-concept]] · [[aku-juegos-de-suma-positiva-vs-suma-cero-concept]] · [[aku-evita-los-juegos-de-estatus-te-vuelven-combativo-claim]] · [[aku-status-driver-compra-claim]] · [[aku-48laws-01-never-outshine-the-master-concept]]
+**related** ↔ [[aku-wealth-activos-que-ganan-mientras-duermes-concept]] · [[aku-money-transfiere-tiempo-y-riqueza-concept]] · [[aku-juegos-de-suma-positiva-vs-suma-cero-concept]] · [[aku-evita-los-juegos-de-estatus-te-vuelven-combativo-claim]] · [[aku-status-driver-compra-claim]] · [[aku-48laws-01-never-outshine-the-master-concept]] · [[aku-busca-wealth-no-money-ni-status-claim]] · [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]] · [[aku-sin-propiedad-tus-inputs-estan-atados-a-tus-outputs-claim]] · [[aku-equity-es-el-upside-deuda-es-downside-garantizado-concept]]

@@ -33,6 +33,10 @@ relations:
   contradicts: []
   related:
     - aku-modelos-mentales-concept
+    - aku-domina-lo-basico-los-conceptos-avanzados-solo-senalan-pertenencia-claim
+    - aku-las-fundaciones-importan-mas-que-la-profundidad-equivocada-claim
+    - aku-pensador-claro-mejor-que-listo-explica-a-un-nino-desde-los-fundamentos-claim
+    - aku-cuanto-mas-viejo-el-problema-mas-vieja-la-solucion-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelos-mentales-concept]]
+**related** ↔ [[aku-modelos-mentales-concept]] · [[aku-domina-lo-basico-los-conceptos-avanzados-solo-senalan-pertenencia-claim]] · [[aku-las-fundaciones-importan-mas-que-la-profundidad-equivocada-claim]] · [[aku-pensador-claro-mejor-que-listo-explica-a-un-nino-desde-los-fundamentos-claim]] · [[aku-cuanto-mas-viejo-el-problema-mas-vieja-la-solucion-claim]]

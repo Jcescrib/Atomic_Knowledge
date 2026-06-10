@@ -32,6 +32,10 @@ relations:
   contradicts: []
   related:
     - aku-la-libertad-es-el-valor-supremo-claim
+    - aku-el-dinero-resuelve-problemas-de-dinero-no-te-hace-feliz-claim
+    - aku-la-lujuria-por-el-dinero-es-un-pozo-sin-fondo-claim
+    - aku-no-subas-tu-tren-de-vida-al-ganar-mas-claim
+    - aku-vivir-muy-por-debajo-de-tus-medios-da-una-libertad-inimaginable-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-libertad-es-el-valor-supremo-claim]]
+**related** ↔ [[aku-la-libertad-es-el-valor-supremo-claim]] · [[aku-el-dinero-resuelve-problemas-de-dinero-no-te-hace-feliz-claim]] · [[aku-la-lujuria-por-el-dinero-es-un-pozo-sin-fondo-claim]] · [[aku-no-subas-tu-tren-de-vida-al-ganar-mas-claim]] · [[aku-vivir-muy-por-debajo-de-tus-medios-da-una-libertad-inimaginable-claim]]

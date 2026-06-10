@@ -38,6 +38,8 @@ relations:
     - aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim
     - aku-programar-una-interaccion-futura-claim
     - aku-48laws-05-guard-your-reputation-concept
+    - aku-grandes-personas-tienen-grandes-resultados-si-eres-paciente-claim
+    - aku-aplica-y-se-paciente-pero-no-lleves-la-cuenta-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -50,6 +52,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]] · [[aku-elige-juegos-largo-plazo-con-gente-largo-plazo-claim]] · [[aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim]] · [[aku-programar-una-interaccion-futura-claim]] · [[aku-48laws-05-guard-your-reputation-concept]]
+**related** ↔ [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]] · [[aku-elige-juegos-largo-plazo-con-gente-largo-plazo-claim]] · [[aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim]] · [[aku-programar-una-interaccion-futura-claim]] · [[aku-48laws-05-guard-your-reputation-concept]] · [[aku-grandes-personas-tienen-grandes-resultados-si-eres-paciente-claim]] · [[aku-aplica-y-se-paciente-pero-no-lleves-la-cuenta-claim]]
 
 **supported_by** ← [[aku-capitalizar-interes-compuesto-method]]

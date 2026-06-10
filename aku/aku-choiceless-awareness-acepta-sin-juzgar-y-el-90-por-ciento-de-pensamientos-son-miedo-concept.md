@@ -45,6 +45,8 @@ relations:
     - aku-mindfulness-concept
     - aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim
     - aku-un-poco-de-miedo-y-paranoia-es-util-claim
+    - aku-iluminacion-es-el-espacio-entre-tus-pensamientos-concept
+    - aku-la-ansiedad-son-pensamientos-en-marcha-elige-la-paz-sobre-el-pensamiento-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -57,4 +59,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-felicidad-requiere-presencia-claim]] · [[aku-meditar-60-min-60-dias-para-llegar-a-un-inbox-cero-mental-method]] · [[aku-rational-buddhism-concept]] · [[aku-la-meditacion-es-ayuno-intermitente-para-la-mente-concept]] · [[aku-la-meditacion-revela-cuan-fuera-de-control-esta-tu-mente-y-en-la-separacion-hay-liberacion-claim]] · [[aku-la-respiracion-es-la-puerta-al-sistema-nervioso-autonomo-concept]] · [[aku-meditacion-es-apagar-a-la-sociedad-y-escucharte-y-adopta-muchas-formas-claim]] · [[aku-el-cambio-de-conducta-siempre-empieza-con-la-consciencia-claim]] · [[aku-la-meditacion-con-mantra-baja-el-volumen-de-los-pensamientos-method]] · [[aku-mindfulness-concept]] · [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]] · [[aku-un-poco-de-miedo-y-paranoia-es-util-claim]]
+**related** ↔ [[aku-la-felicidad-requiere-presencia-claim]] · [[aku-meditar-60-min-60-dias-para-llegar-a-un-inbox-cero-mental-method]] · [[aku-rational-buddhism-concept]] · [[aku-la-meditacion-es-ayuno-intermitente-para-la-mente-concept]] · [[aku-la-meditacion-revela-cuan-fuera-de-control-esta-tu-mente-y-en-la-separacion-hay-liberacion-claim]] · [[aku-la-respiracion-es-la-puerta-al-sistema-nervioso-autonomo-concept]] · [[aku-meditacion-es-apagar-a-la-sociedad-y-escucharte-y-adopta-muchas-formas-claim]] · [[aku-el-cambio-de-conducta-siempre-empieza-con-la-consciencia-claim]] · [[aku-la-meditacion-con-mantra-baja-el-volumen-de-los-pensamientos-method]] · [[aku-mindfulness-concept]] · [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]] · [[aku-un-poco-de-miedo-y-paranoia-es-util-claim]] · [[aku-iluminacion-es-el-espacio-entre-tus-pensamientos-concept]] · [[aku-la-ansiedad-son-pensamientos-en-marcha-elige-la-paz-sobre-el-pensamiento-claim]]

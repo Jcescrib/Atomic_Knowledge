@@ -31,6 +31,11 @@ relations:
   contradicts: []
   related:
     - aku-cambiar-aceptar-o-dejar-concept
+    - aku-felicidad-es-paz-no-alegria-paz-en-reposo-y-felicidad-en-movimiento-concept
+    - aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept
+    - aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim
+    - aku-el-estado-neutral-es-un-estado-de-perfeccion-como-el-de-los-ninos-claim
+    - aku-felicidad-es-satisfaccion-el-exito-viene-de-la-insatisfaccion-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cambiar-aceptar-o-dejar-concept]]
+**related** ↔ [[aku-cambiar-aceptar-o-dejar-concept]] · [[aku-felicidad-es-paz-no-alegria-paz-en-reposo-y-felicidad-en-movimiento-concept]] · [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim]] · [[aku-el-estado-neutral-es-un-estado-de-perfeccion-como-el-de-los-ninos-claim]] · [[aku-felicidad-es-satisfaccion-el-exito-viene-de-la-insatisfaccion-claim]]

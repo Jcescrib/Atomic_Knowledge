@@ -32,6 +32,9 @@ relations:
   contradicts: []
   related:
     - aku-modelos-mentales-concept
+    - aku-las-creencias-tomadas-en-paquete-son-sospechosas-reevalua-desde-principios-claim
+    - aku-todos-tenemos-una-creencia-contraria-que-la-tribu-rechaza-claim
+    - aku-los-mas-exitosos-empezaron-como-losers-fuera-del-rebano-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelos-mentales-concept]]
+**related** ↔ [[aku-modelos-mentales-concept]] · [[aku-las-creencias-tomadas-en-paquete-son-sospechosas-reevalua-desde-principios-claim]] · [[aku-todos-tenemos-una-creencia-contraria-que-la-tribu-rechaza-claim]] · [[aku-los-mas-exitosos-empezaron-como-losers-fuera-del-rebano-claim]]

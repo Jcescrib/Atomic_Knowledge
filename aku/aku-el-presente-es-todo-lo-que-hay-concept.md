@@ -35,6 +35,8 @@ relations:
   related:
     - aku-la-felicidad-requiere-presencia-claim
     - aku-mente-mono-no-estar-presente-concept
+    - aku-deja-de-preguntar-por-que-y-empieza-a-decir-wow-gratitud-por-la-abundancia-claim
+    - aku-toda-actividad-de-pantalla-resta-felicidad-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-felicidad-requiere-presencia-claim]] · [[aku-mente-mono-no-estar-presente-concept]]
+**related** ↔ [[aku-la-felicidad-requiere-presencia-claim]] · [[aku-mente-mono-no-estar-presente-concept]] · [[aku-deja-de-preguntar-por-que-y-empieza-a-decir-wow-gratitud-por-la-abundancia-claim]] · [[aku-toda-actividad-de-pantalla-resta-felicidad-claim]]

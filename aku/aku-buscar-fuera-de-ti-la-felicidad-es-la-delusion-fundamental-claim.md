@@ -33,6 +33,8 @@ relations:
   related:
     - aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept
     - aku-proposito-personal-sostenibilidad-claim
+    - aku-cambiar-aceptar-o-dejar-concept
+    - aku-el-deseo-y-el-ego-nublan-la-realidad-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]] · [[aku-proposito-personal-sostenibilidad-claim]]
+**related** ↔ [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]] · [[aku-proposito-personal-sostenibilidad-claim]] · [[aku-cambiar-aceptar-o-dejar-concept]] · [[aku-el-deseo-y-el-ego-nublan-la-realidad-claim]]

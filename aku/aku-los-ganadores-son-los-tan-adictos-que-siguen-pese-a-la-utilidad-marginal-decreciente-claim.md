@@ -34,6 +34,10 @@ relations:
     - aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim
     - aku-la-felicidad-es-una-habilidad-que-se-aprende-concept
     - aku-enamorate-del-aburrimiento-los-profesionales-aparecen-sin-importar-el-animo-claim
+    - aku-los-verdaderos-ganadores-salen-del-juego-por-completo-claim
+    - aku-la-vida-son-juegos-de-horizonte-creciente-baja-del-hedonic-treadmill-concept
+    - aku-retiro-es-dejar-de-sacrificar-hoy-por-un-manana-imaginario-concept
+    - aku-tres-caminos-al-retiro-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim]] · [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-enamorate-del-aburrimiento-los-profesionales-aparecen-sin-importar-el-animo-claim]]
+**related** ↔ [[aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim]] · [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-enamorate-del-aburrimiento-los-profesionales-aparecen-sin-importar-el-animo-claim]] · [[aku-los-verdaderos-ganadores-salen-del-juego-por-completo-claim]] · [[aku-la-vida-son-juegos-de-horizonte-creciente-baja-del-hedonic-treadmill-concept]] · [[aku-retiro-es-dejar-de-sacrificar-hoy-por-un-manana-imaginario-concept]] · [[aku-tres-caminos-al-retiro-concept]]

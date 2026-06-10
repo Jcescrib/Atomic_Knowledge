@@ -32,6 +32,8 @@ relations:
   related:
     - aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim
     - aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim
+    - aku-trifecta-tiempo-salud-dinero-segun-la-edad-concept
+    - aku-no-eres-responsable-de-la-felicidad-de-otros-valora-tu-tiempo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim]] · [[aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim]]
+**related** ↔ [[aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim]] · [[aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim]] · [[aku-trifecta-tiempo-salud-dinero-segun-la-edad-concept]] · [[aku-no-eres-responsable-de-la-felicidad-de-otros-valora-tu-tiempo-claim]]

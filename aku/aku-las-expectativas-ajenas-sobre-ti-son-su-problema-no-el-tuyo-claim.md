@@ -31,6 +31,9 @@ relations:
   contradicts: []
   related:
     - aku-la-libertad-es-el-valor-supremo-claim
+    - aku-freedom-from-vs-freedom-to-concept
+    - aku-el-coraje-es-no-importarte-lo-que-piensen-los-demas-claim
+    - aku-elimina-el-deberia-de-tu-vida-es-culpa-y-programacion-social-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-libertad-es-el-valor-supremo-claim]]
+**related** ↔ [[aku-la-libertad-es-el-valor-supremo-claim]] · [[aku-freedom-from-vs-freedom-to-concept]] · [[aku-el-coraje-es-no-importarte-lo-que-piensen-los-demas-claim]] · [[aku-elimina-el-deberia-de-tu-vida-es-culpa-y-programacion-social-claim]]

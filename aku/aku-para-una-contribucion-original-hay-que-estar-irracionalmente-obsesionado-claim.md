@@ -31,6 +31,10 @@ relations:
   contradicts: []
   related:
     - aku-armate-con-specific-knowledge-accountability-y-leverage-claim
+    - aku-escapa-la-competencia-mediante-autenticidad-claim
+    - aku-eres-irremplazable-encuentra-lo-que-mas-te-necesita-claim
+    - aku-se-el-mejor-del-mundo-redefiniendo-lo-que-haces-claim
+    - aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]]
+**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-escapa-la-competencia-mediante-autenticidad-claim]] · [[aku-eres-irremplazable-encuentra-lo-que-mas-te-necesita-claim]] · [[aku-se-el-mejor-del-mundo-redefiniendo-lo-que-haces-claim]] · [[aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim]]

@@ -37,6 +37,9 @@ relations:
     - aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept
     - aku-ego-nubla-todo-claim
     - aku-satisfaccion-igual-liking-menos-wanting-las-expectativas-determinan-la-satisfaccion-claim
+    - aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept
+    - aku-buscar-fuera-de-ti-la-felicidad-es-la-delusion-fundamental-claim
+    - aku-cambiar-aceptar-o-dejar-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -49,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-ego-mas-dificil-es-el-propio-claim]] · [[aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim]] · [[aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept]] · [[aku-ego-nubla-todo-claim]] · [[aku-satisfaccion-igual-liking-menos-wanting-las-expectativas-determinan-la-satisfaccion-claim]]
+**related** ↔ [[aku-el-ego-mas-dificil-es-el-propio-claim]] · [[aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim]] · [[aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept]] · [[aku-ego-nubla-todo-claim]] · [[aku-satisfaccion-igual-liking-menos-wanting-las-expectativas-determinan-la-satisfaccion-claim]] · [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]] · [[aku-buscar-fuera-de-ti-la-felicidad-es-la-delusion-fundamental-claim]] · [[aku-cambiar-aceptar-o-dejar-concept]]

@@ -32,6 +32,8 @@ relations:
     - aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim
     - aku-mentalidad-crab-in-the-barrel-concept
     - aku-no-inviertas-solo-por-un-cheque-sin-pasion-diluyes-tu-marca-claim
+    - aku-elige-socios-con-integridad-sobre-todo-claim
+    - aku-principal-agent-problem-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]] · [[aku-mentalidad-crab-in-the-barrel-concept]] · [[aku-no-inviertas-solo-por-un-cheque-sin-pasion-diluyes-tu-marca-claim]]
+**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]] · [[aku-mentalidad-crab-in-the-barrel-concept]] · [[aku-no-inviertas-solo-por-un-cheque-sin-pasion-diluyes-tu-marca-claim]] · [[aku-elige-socios-con-integridad-sobre-todo-claim]] · [[aku-principal-agent-problem-concept]]

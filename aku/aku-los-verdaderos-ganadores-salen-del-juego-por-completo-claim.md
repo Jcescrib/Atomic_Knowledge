@@ -34,6 +34,11 @@ relations:
   related:
     - aku-cambiar-aceptar-o-dejar-concept
     - aku-sistemas-vs-metas-en-atomic-habits-concept
+    - aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim
+    - aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim
+    - aku-la-vida-son-juegos-de-horizonte-creciente-baja-del-hedonic-treadmill-concept
+    - aku-retiro-es-dejar-de-sacrificar-hoy-por-un-manana-imaginario-concept
+    - aku-tres-caminos-al-retiro-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cambiar-aceptar-o-dejar-concept]] · [[aku-sistemas-vs-metas-en-atomic-habits-concept]]
+**related** ↔ [[aku-cambiar-aceptar-o-dejar-concept]] · [[aku-sistemas-vs-metas-en-atomic-habits-concept]] · [[aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim]] · [[aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim]] · [[aku-la-vida-son-juegos-de-horizonte-creciente-baja-del-hedonic-treadmill-concept]] · [[aku-retiro-es-dejar-de-sacrificar-hoy-por-un-manana-imaginario-concept]] · [[aku-tres-caminos-al-retiro-concept]]

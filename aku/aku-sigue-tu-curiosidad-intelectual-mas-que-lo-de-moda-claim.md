@@ -32,6 +32,9 @@ relations:
   contradicts: []
   related:
     - aku-specific-knowledge-concept
+    - aku-specific-knowledge-es-lo-que-hacias-sin-esfuerzo-de-nino-claim
+    - aku-specific-knowledge-no-se-ensena-pero-se-aprende-claim
+    - aku-internet-amplia-el-espacio-de-carreras-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-specific-knowledge-concept]]
+**related** ↔ [[aku-specific-knowledge-concept]] · [[aku-specific-knowledge-es-lo-que-hacias-sin-esfuerzo-de-nino-claim]] · [[aku-specific-knowledge-no-se-ensena-pero-se-aprende-claim]] · [[aku-internet-amplia-el-espacio-de-carreras-claim]]

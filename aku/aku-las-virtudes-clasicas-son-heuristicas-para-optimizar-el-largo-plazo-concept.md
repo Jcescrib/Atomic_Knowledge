@@ -33,6 +33,9 @@ relations:
   contradicts: []
   related:
     - aku-judgment-naval-concept
+    - aku-la-sabiduria-es-descartar-vicios-y-volver-a-la-virtud-via-conocimiento-claim
+    - aku-no-puedes-ocultarte-de-ti-mismo-tus-valores-determinan-tu-autoestima-claim
+    - aku-elecciones-faciles-vida-dificil-elecciones-dificiles-vida-facil-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-judgment-naval-concept]]
+**related** ↔ [[aku-judgment-naval-concept]] · [[aku-la-sabiduria-es-descartar-vicios-y-volver-a-la-virtud-via-conocimiento-claim]] · [[aku-no-puedes-ocultarte-de-ti-mismo-tus-valores-determinan-tu-autoestima-claim]] · [[aku-elecciones-faciles-vida-dificil-elecciones-dificiles-vida-facil-claim]]

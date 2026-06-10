@@ -33,6 +33,9 @@ relations:
   related:
     - aku-modelos-mentales-concept
     - aku-boyd-belt-system-method
+    - aku-el-contrario-optimista-razona-desde-cero-y-es-la-especie-mas-rara-concept
+    - aku-todos-tenemos-una-creencia-contraria-que-la-tribu-rechaza-claim
+    - aku-los-mas-exitosos-empezaron-como-losers-fuera-del-rebano-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelos-mentales-concept]] · [[aku-boyd-belt-system-method]]
+**related** ↔ [[aku-modelos-mentales-concept]] · [[aku-boyd-belt-system-method]] · [[aku-el-contrario-optimista-razona-desde-cero-y-es-la-especie-mas-rara-concept]] · [[aku-todos-tenemos-una-creencia-contraria-que-la-tribu-rechaza-claim]] · [[aku-los-mas-exitosos-empezaron-como-losers-fuera-del-rebano-claim]]

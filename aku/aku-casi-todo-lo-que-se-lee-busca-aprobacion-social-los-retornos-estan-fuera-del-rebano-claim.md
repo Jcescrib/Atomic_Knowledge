@@ -35,6 +35,13 @@ relations:
   related:
     - aku-modelos-mentales-concept
     - aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim
+    - aku-amar-leer-es-un-superpoder-vivimos-en-la-era-de-alejandria-claim
+    - aku-lee-lo-que-amas-hasta-que-ames-leer-claim
+    - aku-lee-los-originales-y-clasicos-para-una-base-solida-claim
+    - aku-numero-de-libros-terminados-es-una-metrica-de-vanidad-claim
+    - aku-relee-los-grandes-libros-identifica-los-tuyos-claim
+    - aku-si-lo-escribieron-para-ganar-dinero-no-lo-leas-claim
+    - aku-leer-ciencia-mate-filosofia-una-hora-al-dia-te-eleva-en-siete-anos-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelos-mentales-concept]] · [[aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim]]
+**related** ↔ [[aku-modelos-mentales-concept]] · [[aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim]] · [[aku-amar-leer-es-un-superpoder-vivimos-en-la-era-de-alejandria-claim]] · [[aku-lee-lo-que-amas-hasta-que-ames-leer-claim]] · [[aku-lee-los-originales-y-clasicos-para-una-base-solida-claim]] · [[aku-numero-de-libros-terminados-es-una-metrica-de-vanidad-claim]] · [[aku-relee-los-grandes-libros-identifica-los-tuyos-claim]] · [[aku-si-lo-escribieron-para-ganar-dinero-no-lo-leas-claim]] · [[aku-leer-ciencia-mate-filosofia-una-hora-al-dia-te-eleva-en-siete-anos-claim]]

@@ -34,6 +34,9 @@ relations:
   contradicts: []
   related:
     - aku-falsabilidad-sin-predicciones-falsables-no-es-ciencia-concept
+    - aku-ciencia-aguas-arriba-de-tecnologia-y-negocio-concept
+    - aku-technology-cosas-que-aun-no-funcionan-concept
+    - aku-las-ciencias-duras-explican-la-sociedad-evolucion-y-complejidad-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-falsabilidad-sin-predicciones-falsables-no-es-ciencia-concept]]
+**related** ↔ [[aku-falsabilidad-sin-predicciones-falsables-no-es-ciencia-concept]] · [[aku-ciencia-aguas-arriba-de-tecnologia-y-negocio-concept]] · [[aku-technology-cosas-que-aun-no-funcionan-concept]] · [[aku-las-ciencias-duras-explican-la-sociedad-evolucion-y-complejidad-claim]]

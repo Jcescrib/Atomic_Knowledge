@@ -35,6 +35,9 @@ relations:
     - aku-la-libertad-es-el-valor-supremo-claim
     - aku-efecto-diderot-y-encadenamiento-de-conductas-concept
     - aku-48laws-16-use-absence-to-increase-respect-concept
+    - aku-el-dinero-resuelve-problemas-de-dinero-no-te-hace-feliz-claim
+    - aku-la-lujuria-por-el-dinero-es-un-pozo-sin-fondo-claim
+    - aku-la-persona-en-que-te-vuelves-para-ganar-dinero-es-ansiosa-y-no-se-apaga-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-vivir-muy-por-debajo-de-tus-medios-da-una-libertad-inimaginable-claim]] · [[aku-la-libertad-es-el-valor-supremo-claim]] · [[aku-efecto-diderot-y-encadenamiento-de-conductas-concept]] · [[aku-48laws-16-use-absence-to-increase-respect-concept]]
+**related** ↔ [[aku-vivir-muy-por-debajo-de-tus-medios-da-una-libertad-inimaginable-claim]] · [[aku-la-libertad-es-el-valor-supremo-claim]] · [[aku-efecto-diderot-y-encadenamiento-de-conductas-concept]] · [[aku-48laws-16-use-absence-to-increase-respect-concept]] · [[aku-el-dinero-resuelve-problemas-de-dinero-no-te-hace-feliz-claim]] · [[aku-la-lujuria-por-el-dinero-es-un-pozo-sin-fondo-claim]] · [[aku-la-persona-en-que-te-vuelves-para-ganar-dinero-es-ansiosa-y-no-se-apaga-claim]]

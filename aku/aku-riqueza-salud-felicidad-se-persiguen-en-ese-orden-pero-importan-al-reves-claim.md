@@ -34,6 +34,8 @@ relations:
     - aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept
     - aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim
     - aku-salud-amor-y-mision-en-ese-orden-nada-mas-importa-claim
+    - aku-trifecta-tiempo-salud-dinero-segun-la-edad-concept
+    - aku-no-eres-responsable-de-la-felicidad-de-otros-valora-tu-tiempo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method]] · [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim]] · [[aku-salud-amor-y-mision-en-ese-orden-nada-mas-importa-claim]]
+**related** ↔ [[aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method]] · [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim]] · [[aku-salud-amor-y-mision-en-ese-orden-nada-mas-importa-claim]] · [[aku-trifecta-tiempo-salud-dinero-segun-la-edad-concept]] · [[aku-no-eres-responsable-de-la-felicidad-de-otros-valora-tu-tiempo-claim]]

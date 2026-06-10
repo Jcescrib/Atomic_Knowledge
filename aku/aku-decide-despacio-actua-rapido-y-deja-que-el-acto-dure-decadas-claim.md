@@ -34,6 +34,12 @@ relations:
     - aku-48laws-29-plan-all-the-way-to-the-end-concept
     - aku-motion-vs-action-concept
     - aku-hesitacion-es-el-enemigo-claim
+    - aku-mejores-trabajos-ni-decretados-ni-titulados-claim
+    - aku-desconexion-input-output-concept
+    - aku-knowledge-workers-funcionan-como-atletas-sprint-y-descanso-claim
+    - aku-con-quien-y-en-que-trabajas-importa-mas-que-cuanto-claim
+    - aku-encuentra-trabajo-que-se-sienta-como-juego-claim
+    - aku-necesitas-espacio-vacio-para-pensar-las-ideas-llegan-tras-el-aburrimiento-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-judgment-naval-concept]] · [[aku-48laws-29-plan-all-the-way-to-the-end-concept]] · [[aku-motion-vs-action-concept]] · [[aku-hesitacion-es-el-enemigo-claim]]
+**related** ↔ [[aku-judgment-naval-concept]] · [[aku-48laws-29-plan-all-the-way-to-the-end-concept]] · [[aku-motion-vs-action-concept]] · [[aku-hesitacion-es-el-enemigo-claim]] · [[aku-mejores-trabajos-ni-decretados-ni-titulados-claim]] · [[aku-desconexion-input-output-concept]] · [[aku-knowledge-workers-funcionan-como-atletas-sprint-y-descanso-claim]] · [[aku-con-quien-y-en-que-trabajas-importa-mas-que-cuanto-claim]] · [[aku-encuentra-trabajo-que-se-sienta-como-juego-claim]] · [[aku-necesitas-espacio-vacio-para-pensar-las-ideas-llegan-tras-el-aburrimiento-claim]]

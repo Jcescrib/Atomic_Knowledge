@@ -31,6 +31,8 @@ relations:
   contradicts: []
   related:
     - aku-judgment-naval-concept
+    - aku-evita-el-riesgo-de-ruina-con-apuestas-racionalmente-optimistas-claim
+    - aku-inversion-buscar-evitar-errores-en-vez-de-acertar-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-judgment-naval-concept]]
+**related** ↔ [[aku-judgment-naval-concept]] · [[aku-evita-el-riesgo-de-ruina-con-apuestas-racionalmente-optimistas-claim]] · [[aku-inversion-buscar-evitar-errores-en-vez-de-acertar-concept]]

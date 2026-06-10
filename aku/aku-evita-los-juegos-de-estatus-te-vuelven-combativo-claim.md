@@ -33,6 +33,7 @@ relations:
   related:
     - aku-juegos-de-suma-positiva-vs-suma-cero-concept
     - aku-status-posicion-en-jerarquia-social-concept
+    - aku-juego-largo-plazo-suma-positiva-corto-plazo-suma-cero-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-juegos-de-suma-positiva-vs-suma-cero-concept]] · [[aku-status-posicion-en-jerarquia-social-concept]]
+**related** ↔ [[aku-juegos-de-suma-positiva-vs-suma-cero-concept]] · [[aku-status-posicion-en-jerarquia-social-concept]] · [[aku-juego-largo-plazo-suma-positiva-corto-plazo-suma-cero-claim]]

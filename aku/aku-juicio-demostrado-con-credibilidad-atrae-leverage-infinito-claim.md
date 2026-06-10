@@ -35,6 +35,9 @@ relations:
     - aku-fallar-en-publico-bajo-tu-nombre-da-poder-claim
     - aku-construye-un-caracter-que-atrae-la-suerte-el-caracter-es-destino-claim
     - aku-48laws-05-guard-your-reputation-concept
+    - aku-el-juicio-esta-infravalorado-claim
+    - aku-pequenas-diferencias-de-juicio-se-amplifican-con-leverage-claim
+    - aku-sabiduria-es-conocer-consecuencias-a-largo-plazo-juicio-es-aplicarla-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-judgment-naval-concept]] · [[aku-fallar-en-publico-bajo-tu-nombre-da-poder-claim]] · [[aku-construye-un-caracter-que-atrae-la-suerte-el-caracter-es-destino-claim]] · [[aku-48laws-05-guard-your-reputation-concept]]
+**related** ↔ [[aku-judgment-naval-concept]] · [[aku-fallar-en-publico-bajo-tu-nombre-da-poder-claim]] · [[aku-construye-un-caracter-que-atrae-la-suerte-el-caracter-es-destino-claim]] · [[aku-48laws-05-guard-your-reputation-concept]] · [[aku-el-juicio-esta-infravalorado-claim]] · [[aku-pequenas-diferencias-de-juicio-se-amplifican-con-leverage-claim]] · [[aku-sabiduria-es-conocer-consecuencias-a-largo-plazo-juicio-es-aplicarla-concept]]

@@ -32,6 +32,8 @@ relations:
   contradicts: []
   related:
     - aku-judgment-naval-concept
+    - aku-si-no-puedes-decidir-la-respuesta-es-no-claim
+    - aku-no-hay-adultos-todos-improvisan-encuentra-tu-camino-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-judgment-naval-concept]]
+**related** ↔ [[aku-judgment-naval-concept]] · [[aku-si-no-puedes-decidir-la-respuesta-es-no-claim]] · [[aku-no-hay-adultos-todos-improvisan-encuentra-tu-camino-claim]]

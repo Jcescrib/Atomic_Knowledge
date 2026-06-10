@@ -33,6 +33,10 @@ relations:
   related:
     - aku-armate-con-specific-knowledge-accountability-y-leverage-claim
     - aku-mente-mono-no-estar-presente-concept
+    - aku-la-mente-es-un-musculo-que-puedes-reprogramar-con-consciencia-claim
+    - aku-la-mente-debe-ser-sirviente-no-amo-claim
+    - aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept
+    - aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-mente-mono-no-estar-presente-concept]]
+**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-mente-mono-no-estar-presente-concept]] · [[aku-la-mente-es-un-musculo-que-puedes-reprogramar-con-consciencia-claim]] · [[aku-la-mente-debe-ser-sirviente-no-amo-claim]] · [[aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept]] · [[aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept]]

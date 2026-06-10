@@ -35,6 +35,9 @@ relations:
     - aku-judgment-naval-concept
     - aku-la-sabiduria-es-descartar-vicios-y-volver-a-la-virtud-via-conocimiento-claim
     - aku-no-hay-solucion-100-correcta-claim
+    - aku-el-juicio-esta-infravalorado-claim
+    - aku-pequenas-diferencias-de-juicio-se-amplifican-con-leverage-claim
+    - aku-juicio-demostrado-con-credibilidad-atrae-leverage-infinito-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-judgment-naval-concept]] · [[aku-la-sabiduria-es-descartar-vicios-y-volver-a-la-virtud-via-conocimiento-claim]] · [[aku-no-hay-solucion-100-correcta-claim]]
+**related** ↔ [[aku-judgment-naval-concept]] · [[aku-la-sabiduria-es-descartar-vicios-y-volver-a-la-virtud-via-conocimiento-claim]] · [[aku-no-hay-solucion-100-correcta-claim]] · [[aku-el-juicio-esta-infravalorado-claim]] · [[aku-pequenas-diferencias-de-juicio-se-amplifican-con-leverage-claim]] · [[aku-juicio-demostrado-con-credibilidad-atrae-leverage-infinito-claim]]

@@ -33,6 +33,11 @@ relations:
   contradicts: []
   related:
     - aku-modelos-mentales-concept
+    - aku-leer-es-la-meta-habilidad-definitiva-canjeable-por-cualquier-otra-claim
+    - aku-ser-aprendiz-perpetuo-es-la-habilidad-clave-para-hacerse-rico-claim
+    - aku-leer-mas-rapido-que-escuchar-hacer-mas-rapido-que-ver-claim
+    - aku-no-esperes-por-ser-joven-solo-se-aprende-haciendo-claim
+    - aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelos-mentales-concept]]
+**related** ↔ [[aku-modelos-mentales-concept]] · [[aku-leer-es-la-meta-habilidad-definitiva-canjeable-por-cualquier-otra-claim]] · [[aku-ser-aprendiz-perpetuo-es-la-habilidad-clave-para-hacerse-rico-claim]] · [[aku-leer-mas-rapido-que-escuchar-hacer-mas-rapido-que-ver-claim]] · [[aku-no-esperes-por-ser-joven-solo-se-aprende-haciendo-claim]] · [[aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim]]

@@ -33,6 +33,8 @@ relations:
   related:
     - aku-los-tres-significados-de-la-vida-concept
     - aku-con-un-porque-suficientemente-grande-superas-cualquier-como-claim
+    - aku-el-sufrimiento-es-el-momento-de-ver-la-realidad-como-es-concept
+    - aku-todo-pensamiento-positivo-contiene-uno-negativo-por-dualidad-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-los-tres-significados-de-la-vida-concept]] · [[aku-con-un-porque-suficientemente-grande-superas-cualquier-como-claim]]
+**related** ↔ [[aku-los-tres-significados-de-la-vida-concept]] · [[aku-con-un-porque-suficientemente-grande-superas-cualquier-como-claim]] · [[aku-el-sufrimiento-es-el-momento-de-ver-la-realidad-como-es-concept]] · [[aku-todo-pensamiento-positivo-contiene-uno-negativo-por-dualidad-claim]]

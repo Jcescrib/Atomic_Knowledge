@@ -32,6 +32,9 @@ relations:
   contradicts: []
   related:
     - aku-la-felicidad-es-un-juego-de-un-solo-jugador-concept
+    - aku-los-tres-significados-de-la-vida-concept
+    - aku-tener-un-hijo-responde-a-la-pregunta-del-sentido-de-la-vida-claim
+    - aku-abrazar-la-muerte-da-sentido-y-no-hay-legado-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-felicidad-es-un-juego-de-un-solo-jugador-concept]]
+**related** ↔ [[aku-la-felicidad-es-un-juego-de-un-solo-jugador-concept]] · [[aku-los-tres-significados-de-la-vida-concept]] · [[aku-tener-un-hijo-responde-a-la-pregunta-del-sentido-de-la-vida-claim]] · [[aku-abrazar-la-muerte-da-sentido-y-no-hay-legado-concept]]

@@ -31,6 +31,11 @@ relations:
   contradicts: []
   related:
     - aku-amar-leer-es-un-superpoder-vivimos-en-la-era-de-alejandria-claim
+    - aku-ser-aprendiz-perpetuo-es-la-habilidad-clave-para-hacerse-rico-claim
+    - aku-leer-mas-rapido-que-escuchar-hacer-mas-rapido-que-ver-claim
+    - aku-no-esperes-por-ser-joven-solo-se-aprende-haciendo-claim
+    - aku-cinco-etapas-saber-entender-explicar-sentir-ser-concept
+    - aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-amar-leer-es-un-superpoder-vivimos-en-la-era-de-alejandria-claim]]
+**related** ↔ [[aku-amar-leer-es-un-superpoder-vivimos-en-la-era-de-alejandria-claim]] · [[aku-ser-aprendiz-perpetuo-es-la-habilidad-clave-para-hacerse-rico-claim]] · [[aku-leer-mas-rapido-que-escuchar-hacer-mas-rapido-que-ver-claim]] · [[aku-no-esperes-por-ser-joven-solo-se-aprende-haciendo-claim]] · [[aku-cinco-etapas-saber-entender-explicar-sentir-ser-concept]] · [[aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim]]

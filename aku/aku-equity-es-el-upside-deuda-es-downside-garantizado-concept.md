@@ -44,6 +44,11 @@ relations:
     - aku-apalancamiento-aumenta-roe-claim
     - aku-cash-flow-accionistas-concept
     - aku-coste-fondos-propios-ke-concept
+    - aku-busca-wealth-no-money-ni-status-claim
+    - aku-wealth-activos-que-ganan-mientras-duermes-concept
+    - aku-money-transfiere-tiempo-y-riqueza-concept
+    - aku-status-posicion-en-jerarquia-social-concept
+    - aku-sin-propiedad-tus-inputs-estan-atados-a-tus-outputs-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -56,4 +61,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-equity-value-concept]] · [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]] · [[aku-estructura-de-capital-concept]] · [[aku-apalancamiento-aumenta-riesgo-claim]] · [[aku-apalancamiento-financiero-concept]] · [[aku-escudo-fiscal-concept]] · [[aku-ratio-de-apalancamiento-method]] · [[aku-roe-concept]] · [[aku-wacc-method]] · [[aku-apalancamiento-aumenta-roe-claim]] · [[aku-cash-flow-accionistas-concept]] · [[aku-coste-fondos-propios-ke-concept]]
+**related** ↔ [[aku-equity-value-concept]] · [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]] · [[aku-estructura-de-capital-concept]] · [[aku-apalancamiento-aumenta-riesgo-claim]] · [[aku-apalancamiento-financiero-concept]] · [[aku-escudo-fiscal-concept]] · [[aku-ratio-de-apalancamiento-method]] · [[aku-roe-concept]] · [[aku-wacc-method]] · [[aku-apalancamiento-aumenta-roe-claim]] · [[aku-cash-flow-accionistas-concept]] · [[aku-coste-fondos-propios-ke-concept]] · [[aku-busca-wealth-no-money-ni-status-claim]] · [[aku-wealth-activos-que-ganan-mientras-duermes-concept]] · [[aku-money-transfiere-tiempo-y-riqueza-concept]] · [[aku-status-posicion-en-jerarquia-social-concept]] · [[aku-sin-propiedad-tus-inputs-estan-atados-a-tus-outputs-claim]]

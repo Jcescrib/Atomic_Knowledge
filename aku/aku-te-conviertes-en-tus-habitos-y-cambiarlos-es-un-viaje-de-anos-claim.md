@@ -38,6 +38,10 @@ relations:
     - aku-cuatro-leyes-del-cambio-de-conducta-concept
     - aku-no-hay-buenos-ni-malos-habitos-solo-habitos-efectivos-claim
     - aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method
+    - aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method
+    - aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method
+    - aku-cuando-de-verdad-quieres-cambiar-cambias-intentar-es-aplazar-claim
+    - aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -50,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-tu-identidad-emerge-de-tus-habitos-claim]] · [[aku-anade-placer-inmediato-al-buen-habito-para-cerrar-la-brecha-temporal-claim]] · [[aku-cuatro-leyes-del-cambio-de-conducta-concept]] · [[aku-no-hay-buenos-ni-malos-habitos-solo-habitos-efectivos-claim]] · [[aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method]]
+**related** ↔ [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-tu-identidad-emerge-de-tus-habitos-claim]] · [[aku-anade-placer-inmediato-al-buen-habito-para-cerrar-la-brecha-temporal-claim]] · [[aku-cuatro-leyes-del-cambio-de-conducta-concept]] · [[aku-no-hay-buenos-ni-malos-habitos-solo-habitos-efectivos-claim]] · [[aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method]] · [[aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method]] · [[aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method]] · [[aku-cuando-de-verdad-quieres-cambiar-cambias-intentar-es-aplazar-claim]] · [[aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim]]

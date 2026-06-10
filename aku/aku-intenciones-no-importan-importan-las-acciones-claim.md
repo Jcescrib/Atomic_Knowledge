@@ -36,6 +36,9 @@ relations:
     - aku-48laws-09-win-through-actions-not-argument-concept
     - aku-48laws-03-conceal-your-intentions-concept
     - aku-no-vender-lo-que-no-puedes-entregar
+    - aku-el-networking-de-negocios-es-perdida-de-tiempo-se-un-maker-claim
+    - aku-regala-lo-que-se-te-da-bien-y-paga-por-adelantado-claim
+    - aku-lo-mas-importante-de-una-empresa-es-su-red-de-alumni-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -48,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-judgment-naval-concept]] · [[aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim]] · [[aku-48laws-09-win-through-actions-not-argument-concept]] · [[aku-48laws-03-conceal-your-intentions-concept]] · [[aku-no-vender-lo-que-no-puedes-entregar]]
+**related** ↔ [[aku-judgment-naval-concept]] · [[aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim]] · [[aku-48laws-09-win-through-actions-not-argument-concept]] · [[aku-48laws-03-conceal-your-intentions-concept]] · [[aku-no-vender-lo-que-no-puedes-entregar]] · [[aku-el-networking-de-negocios-es-perdida-de-tiempo-se-un-maker-claim]] · [[aku-regala-lo-que-se-te-da-bien-y-paga-por-adelantado-claim]] · [[aku-lo-mas-importante-de-una-empresa-es-su-red-de-alumni-claim]]

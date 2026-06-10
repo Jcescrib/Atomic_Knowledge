@@ -32,6 +32,7 @@ relations:
   related:
     - aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim
     - aku-imitamos-los-habitos-de-tres-grupos-cercanos-muchos-poderosos-concept
+    - aku-teoria-de-los-cinco-chimpances-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]] · [[aku-imitamos-los-habitos-de-tres-grupos-cercanos-muchos-poderosos-concept]]
+**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]] · [[aku-imitamos-los-habitos-de-tres-grupos-cercanos-muchos-poderosos-concept]] · [[aku-teoria-de-los-cinco-chimpances-concept]]

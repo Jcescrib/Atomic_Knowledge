@@ -33,6 +33,9 @@ relations:
     - aku-escapa-la-competencia-mediante-autenticidad-claim
     - aku-armate-con-specific-knowledge-accountability-y-leverage-claim
     - aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim
+    - aku-eres-irremplazable-encuentra-lo-que-mas-te-necesita-claim
+    - aku-para-una-contribucion-original-hay-que-estar-irracionalmente-obsesionado-claim
+    - aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-escapa-la-competencia-mediante-autenticidad-claim]] · [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim]]
+**related** ↔ [[aku-escapa-la-competencia-mediante-autenticidad-claim]] · [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim]] · [[aku-eres-irremplazable-encuentra-lo-que-mas-te-necesita-claim]] · [[aku-para-una-contribucion-original-hay-que-estar-irracionalmente-obsesionado-claim]] · [[aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim]]

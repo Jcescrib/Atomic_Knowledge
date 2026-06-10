@@ -36,6 +36,8 @@ relations:
     - aku-homeostasis-glucosa-insulina-concept
     - aku-dieta-paleo-fuel-concept
     - aku-azucar-es-adictivo-como-droga-claim
+    - aku-cuanto-mas-procesado-el-alimento-menos-comer-y-resta-antes-de-anadir-claim
+    - aku-los-sanos-cuidan-mas-que-comen-que-cuanto-comen-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-homeostasis-glucosa-insulina-concept]] · [[aku-dieta-paleo-fuel-concept]] · [[aku-azucar-es-adictivo-como-droga-claim]]
+**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-homeostasis-glucosa-insulina-concept]] · [[aku-dieta-paleo-fuel-concept]] · [[aku-azucar-es-adictivo-como-droga-claim]] · [[aku-cuanto-mas-procesado-el-alimento-menos-comer-y-resta-antes-de-anadir-claim]] · [[aku-los-sanos-cuidan-mas-que-comen-que-cuanto-comen-claim]]

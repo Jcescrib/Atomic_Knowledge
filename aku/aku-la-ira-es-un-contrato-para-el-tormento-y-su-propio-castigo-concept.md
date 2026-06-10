@@ -34,6 +34,7 @@ relations:
   related:
     - aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept
     - aku-deseo-viene-de-no-tener-claim
+    - aku-los-celos-son-inutiles-no-querrias-ser-otra-persona-al-100-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-deseo-viene-de-no-tener-claim]]
+**related** ↔ [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-deseo-viene-de-no-tener-claim]] · [[aku-los-celos-son-inutiles-no-querrias-ser-otra-persona-al-100-claim]]

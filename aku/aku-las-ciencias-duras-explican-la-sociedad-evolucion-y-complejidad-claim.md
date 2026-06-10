@@ -34,6 +34,10 @@ relations:
   contradicts: []
   related:
     - aku-modelos-mentales-concept
+    - aku-ciencia-aguas-arriba-de-tecnologia-y-negocio-concept
+    - aku-ciencia-es-el-estudio-de-la-verdad-y-las-matematicas-su-lenguaje-concept
+    - aku-technology-cosas-que-aun-no-funcionan-concept
+    - aku-falsabilidad-sin-predicciones-falsables-no-es-ciencia-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelos-mentales-concept]]
+**related** ↔ [[aku-modelos-mentales-concept]] · [[aku-ciencia-aguas-arriba-de-tecnologia-y-negocio-concept]] · [[aku-ciencia-es-el-estudio-de-la-verdad-y-las-matematicas-su-lenguaje-concept]] · [[aku-technology-cosas-que-aun-no-funcionan-concept]] · [[aku-falsabilidad-sin-predicciones-falsables-no-es-ciencia-concept]]

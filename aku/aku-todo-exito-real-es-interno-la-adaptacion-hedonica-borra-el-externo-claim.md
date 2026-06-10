@@ -33,6 +33,10 @@ relations:
   related:
     - aku-todos-los-marcadores-reales-son-internos-claim
     - aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept
+    - aku-el-ego-se-construye-en-las-primeras-dos-decadas-concept
+    - aku-memoria-e-identidad-son-cargas-del-pasado-que-impiden-vivir-el-presente-claim
+    - aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim
+    - aku-no-te-tomes-tan-en-serio-eres-un-mono-con-un-plan-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-todos-los-marcadores-reales-son-internos-claim]] · [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]]
+**related** ↔ [[aku-todos-los-marcadores-reales-son-internos-claim]] · [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-el-ego-se-construye-en-las-primeras-dos-decadas-concept]] · [[aku-memoria-e-identidad-son-cargas-del-pasado-que-impiden-vivir-el-presente-claim]] · [[aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim]] · [[aku-no-te-tomes-tan-en-serio-eres-un-mono-con-un-plan-claim]]

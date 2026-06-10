@@ -31,6 +31,9 @@ relations:
   contradicts: []
   related:
     - aku-sabiduria-es-conocer-consecuencias-a-largo-plazo-juicio-es-aplicarla-concept
+    - aku-las-virtudes-clasicas-son-heuristicas-para-optimizar-el-largo-plazo-concept
+    - aku-no-puedes-ocultarte-de-ti-mismo-tus-valores-determinan-tu-autoestima-claim
+    - aku-elecciones-faciles-vida-dificil-elecciones-dificiles-vida-facil-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-sabiduria-es-conocer-consecuencias-a-largo-plazo-juicio-es-aplicarla-concept]]
+**related** ↔ [[aku-sabiduria-es-conocer-consecuencias-a-largo-plazo-juicio-es-aplicarla-concept]] · [[aku-las-virtudes-clasicas-son-heuristicas-para-optimizar-el-largo-plazo-concept]] · [[aku-no-puedes-ocultarte-de-ti-mismo-tus-valores-determinan-tu-autoestima-claim]] · [[aku-elecciones-faciles-vida-dificil-elecciones-dificiles-vida-facil-claim]]

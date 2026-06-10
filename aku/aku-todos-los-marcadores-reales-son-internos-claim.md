@@ -33,6 +33,10 @@ relations:
   related:
     - aku-todo-exito-real-es-interno-la-adaptacion-hedonica-borra-el-externo-claim
     - aku-la-felicidad-es-un-juego-de-un-solo-jugador-concept
+    - aku-el-ego-se-construye-en-las-primeras-dos-decadas-concept
+    - aku-memoria-e-identidad-son-cargas-del-pasado-que-impiden-vivir-el-presente-claim
+    - aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim
+    - aku-no-te-tomes-tan-en-serio-eres-un-mono-con-un-plan-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-todo-exito-real-es-interno-la-adaptacion-hedonica-borra-el-externo-claim]] · [[aku-la-felicidad-es-un-juego-de-un-solo-jugador-concept]]
+**related** ↔ [[aku-todo-exito-real-es-interno-la-adaptacion-hedonica-borra-el-externo-claim]] · [[aku-la-felicidad-es-un-juego-de-un-solo-jugador-concept]] · [[aku-el-ego-se-construye-en-las-primeras-dos-decadas-concept]] · [[aku-memoria-e-identidad-son-cargas-del-pasado-que-impiden-vivir-el-presente-claim]] · [[aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim]] · [[aku-no-te-tomes-tan-en-serio-eres-un-mono-con-un-plan-claim]]

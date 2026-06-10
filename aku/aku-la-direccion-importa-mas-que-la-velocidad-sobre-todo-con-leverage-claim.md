@@ -33,6 +33,12 @@ relations:
   related:
     - aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim
     - aku-judgment-naval-concept
+    - aku-leverage-multiplicador-de-juicio-concept
+    - aku-permissioned-vs-permissionless-leverage-concept
+    - aku-ahora-es-apalancado-vs-no-apalancado-claim
+    - aku-labor-es-la-peor-forma-de-leverage-claim
+    - aku-capital-escala-mejor-que-las-personas-claim
+    - aku-trabajador-apalancado-rinde-1000x-y-el-juicio-supera-las-horas-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim]] · [[aku-judgment-naval-concept]]
+**related** ↔ [[aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim]] · [[aku-judgment-naval-concept]] · [[aku-leverage-multiplicador-de-juicio-concept]] · [[aku-permissioned-vs-permissionless-leverage-concept]] · [[aku-ahora-es-apalancado-vs-no-apalancado-claim]] · [[aku-labor-es-la-peor-forma-de-leverage-claim]] · [[aku-capital-escala-mejor-que-las-personas-claim]] · [[aku-trabajador-apalancado-rinde-1000x-y-el-juicio-supera-las-horas-claim]]

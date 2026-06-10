@@ -32,6 +32,9 @@ relations:
   related:
     - aku-la-libertad-es-el-valor-supremo-claim
     - aku-paso-agresivo-hacia-el-miedo-claim
+    - aku-freedom-from-vs-freedom-to-concept
+    - aku-elimina-el-deberia-de-tu-vida-es-culpa-y-programacion-social-claim
+    - aku-las-expectativas-ajenas-sobre-ti-son-su-problema-no-el-tuyo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-libertad-es-el-valor-supremo-claim]] · [[aku-paso-agresivo-hacia-el-miedo-claim]]
+**related** ↔ [[aku-la-libertad-es-el-valor-supremo-claim]] · [[aku-paso-agresivo-hacia-el-miedo-claim]] · [[aku-freedom-from-vs-freedom-to-concept]] · [[aku-elimina-el-deberia-de-tu-vida-es-culpa-y-programacion-social-claim]] · [[aku-las-expectativas-ajenas-sobre-ti-son-su-problema-no-el-tuyo-claim]]

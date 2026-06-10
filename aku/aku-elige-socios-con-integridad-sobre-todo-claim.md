@@ -32,6 +32,8 @@ relations:
   related:
     - aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim
     - aku-excepcion-resistir-ordenes-ilegales-inmorales-claim
+    - aku-no-te-asocies-con-cinicos-ni-pesimistas-claim
+    - aku-principal-agent-problem-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]] · [[aku-excepcion-resistir-ordenes-ilegales-inmorales-claim]]
+**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]] · [[aku-excepcion-resistir-ordenes-ilegales-inmorales-claim]] · [[aku-no-te-asocies-con-cinicos-ni-pesimistas-claim]] · [[aku-principal-agent-problem-concept]]

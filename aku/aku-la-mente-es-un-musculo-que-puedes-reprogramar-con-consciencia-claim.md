@@ -35,6 +35,10 @@ relations:
     - aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim
     - aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim
     - aku-mente-de-mono-concept
+    - aku-la-mente-debe-ser-sirviente-no-amo-claim
+    - aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept
+    - aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept
+    - aku-actua-sin-ira-y-con-vision-a-largo-plazo-y-dejaran-de-ser-errores-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]] · [[aku-mente-de-mono-concept]]
+**related** ↔ [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]] · [[aku-mente-de-mono-concept]] · [[aku-la-mente-debe-ser-sirviente-no-amo-claim]] · [[aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept]] · [[aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept]] · [[aku-actua-sin-ira-y-con-vision-a-largo-plazo-y-dejaran-de-ser-errores-claim]]

@@ -31,6 +31,10 @@ relations:
   contradicts: []
   related:
     - aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim
+    - aku-la-libertad-es-el-valor-supremo-claim
+    - aku-freedom-from-vs-freedom-to-concept
+    - aku-el-coraje-es-no-importarte-lo-que-piensen-los-demas-claim
+    - aku-las-expectativas-ajenas-sobre-ti-son-su-problema-no-el-tuyo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]]
+**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]] · [[aku-la-libertad-es-el-valor-supremo-claim]] · [[aku-freedom-from-vs-freedom-to-concept]] · [[aku-el-coraje-es-no-importarte-lo-que-piensen-los-demas-claim]] · [[aku-las-expectativas-ajenas-sobre-ti-son-su-problema-no-el-tuyo-claim]]

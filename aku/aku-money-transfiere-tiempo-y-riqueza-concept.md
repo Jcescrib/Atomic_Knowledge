@@ -34,6 +34,10 @@ relations:
   related:
     - aku-status-posicion-en-jerarquia-social-concept
     - aku-wealth-activos-que-ganan-mientras-duermes-concept
+    - aku-busca-wealth-no-money-ni-status-claim
+    - aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim
+    - aku-sin-propiedad-tus-inputs-estan-atados-a-tus-outputs-claim
+    - aku-equity-es-el-upside-deuda-es-downside-garantizado-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-status-posicion-en-jerarquia-social-concept]] · [[aku-wealth-activos-que-ganan-mientras-duermes-concept]]
+**related** ↔ [[aku-status-posicion-en-jerarquia-social-concept]] · [[aku-wealth-activos-que-ganan-mientras-duermes-concept]] · [[aku-busca-wealth-no-money-ni-status-claim]] · [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]] · [[aku-sin-propiedad-tus-inputs-estan-atados-a-tus-outputs-claim]] · [[aku-equity-es-el-upside-deuda-es-downside-garantizado-concept]]

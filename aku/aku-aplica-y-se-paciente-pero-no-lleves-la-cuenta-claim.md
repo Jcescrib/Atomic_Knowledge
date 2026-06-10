@@ -32,6 +32,10 @@ relations:
   contradicts: []
   related:
     - aku-armate-con-specific-knowledge-accountability-y-leverage-claim
+    - aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim
+    - aku-elige-juegos-largo-plazo-con-gente-largo-plazo-claim
+    - aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim
+    - aku-grandes-personas-tienen-grandes-resultados-si-eres-paciente-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]]
+**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]] · [[aku-elige-juegos-largo-plazo-con-gente-largo-plazo-claim]] · [[aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim]] · [[aku-grandes-personas-tienen-grandes-resultados-si-eres-paciente-claim]]

@@ -32,6 +32,8 @@ relations:
   contradicts: []
   related:
     - aku-judgment-naval-concept
+    - aku-modelos-mentales-concept
+    - aku-las-conclusiones-interesadas-exigen-un-liston-mas-alto-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-judgment-naval-concept]]
+**related** ↔ [[aku-judgment-naval-concept]] · [[aku-modelos-mentales-concept]] · [[aku-las-conclusiones-interesadas-exigen-un-liston-mas-alto-claim]]

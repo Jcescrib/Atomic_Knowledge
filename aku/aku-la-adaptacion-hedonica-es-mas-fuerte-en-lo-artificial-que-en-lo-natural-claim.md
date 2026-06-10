@@ -33,6 +33,9 @@ relations:
   related:
     - aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept
     - aku-estimulos-supernormales-concept
+    - aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept
+    - aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim
+    - aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]] · [[aku-estimulos-supernormales-concept]]
+**related** ↔ [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]] · [[aku-estimulos-supernormales-concept]] · [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim]] · [[aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept]]

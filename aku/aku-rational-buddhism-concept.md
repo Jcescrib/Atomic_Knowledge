@@ -36,6 +36,7 @@ relations:
   related:
     - aku-falsabilidad-sin-predicciones-falsables-no-es-ciencia-concept
     - aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept
+    - aku-la-atraccion-de-las-drogas-y-los-thrills-es-espiritual-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-falsabilidad-sin-predicciones-falsables-no-es-ciencia-concept]] · [[aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept]]
+**related** ↔ [[aku-falsabilidad-sin-predicciones-falsables-no-es-ciencia-concept]] · [[aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept]] · [[aku-la-atraccion-de-las-drogas-y-los-thrills-es-espiritual-claim]]

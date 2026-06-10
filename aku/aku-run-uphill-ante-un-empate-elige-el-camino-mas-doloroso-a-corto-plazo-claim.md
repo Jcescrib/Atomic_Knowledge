@@ -36,6 +36,9 @@ relations:
     - aku-elecciones-faciles-vida-dificil-elecciones-dificiles-vida-facil-claim
     - aku-entorno-de-recompensa-inmediata-vs-diferida-concept
     - aku-anade-placer-inmediato-al-buen-habito-para-cerrar-la-brecha-temporal-claim
+    - aku-impaciencia-con-las-acciones-paciencia-con-los-resultados-claim
+    - aku-la-mayor-parte-del-sufrimiento-viene-de-la-evitacion-claim
+    - aku-si-hay-algo-que-quieres-hacer-luego-hazlo-ahora-no-hay-luego-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -48,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-direccion-importa-mas-que-la-velocidad-sobre-todo-con-leverage-claim]] · [[aku-elecciones-faciles-vida-dificil-elecciones-dificiles-vida-facil-claim]] · [[aku-entorno-de-recompensa-inmediata-vs-diferida-concept]] · [[aku-anade-placer-inmediato-al-buen-habito-para-cerrar-la-brecha-temporal-claim]]
+**related** ↔ [[aku-la-direccion-importa-mas-que-la-velocidad-sobre-todo-con-leverage-claim]] · [[aku-elecciones-faciles-vida-dificil-elecciones-dificiles-vida-facil-claim]] · [[aku-entorno-de-recompensa-inmediata-vs-diferida-concept]] · [[aku-anade-placer-inmediato-al-buen-habito-para-cerrar-la-brecha-temporal-claim]] · [[aku-impaciencia-con-las-acciones-paciencia-con-los-resultados-claim]] · [[aku-la-mayor-parte-del-sufrimiento-viene-de-la-evitacion-claim]] · [[aku-si-hay-algo-que-quieres-hacer-luego-hazlo-ahora-no-hay-luego-claim]]

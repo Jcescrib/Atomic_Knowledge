@@ -34,6 +34,12 @@ relations:
   related:
     - aku-judgment-naval-concept
     - aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim
+    - aku-leverage-multiplicador-de-juicio-concept
+    - aku-permissioned-vs-permissionless-leverage-concept
+    - aku-ahora-es-apalancado-vs-no-apalancado-claim
+    - aku-labor-es-la-peor-forma-de-leverage-claim
+    - aku-capital-escala-mejor-que-las-personas-claim
+    - aku-la-direccion-importa-mas-que-la-velocidad-sobre-todo-con-leverage-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-judgment-naval-concept]] · [[aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim]]
+**related** ↔ [[aku-judgment-naval-concept]] · [[aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim]] · [[aku-leverage-multiplicador-de-juicio-concept]] · [[aku-permissioned-vs-permissionless-leverage-concept]] · [[aku-ahora-es-apalancado-vs-no-apalancado-claim]] · [[aku-labor-es-la-peor-forma-de-leverage-claim]] · [[aku-capital-escala-mejor-que-las-personas-claim]] · [[aku-la-direccion-importa-mas-que-la-velocidad-sobre-todo-con-leverage-claim]]

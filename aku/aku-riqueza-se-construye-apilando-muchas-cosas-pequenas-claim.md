@@ -34,6 +34,13 @@ relations:
     - aku-armate-con-specific-knowledge-accountability-y-leverage-claim
     - aku-overload-neutralizado-por-produccion-atricion-claim
     - aku-un-principio-aplicado-con-constancia-genera-valor-desproporcionado-claim
+    - aku-formula-de-la-riqueza-e-ingreso-de-naval-method
+    - aku-productize-yourself-concept
+    - aku-subir-la-escalera-de-leverage-accountability-specific-knowledge-crea-riqueza-claim
+    - aku-da-a-la-sociedad-lo-que-quiere-a-escala-claim
+    - aku-aprende-a-vender-y-a-construir-claim
+    - aku-earn-with-your-mind-not-your-time-claim
+    - aku-te-haces-rico-ahorrando-tiempo-para-ganar-dinero-no-gastando-tiempo-para-ahorrar-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-overload-neutralizado-por-produccion-atricion-claim]] · [[aku-un-principio-aplicado-con-constancia-genera-valor-desproporcionado-claim]]
+**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-overload-neutralizado-por-produccion-atricion-claim]] · [[aku-un-principio-aplicado-con-constancia-genera-valor-desproporcionado-claim]] · [[aku-formula-de-la-riqueza-e-ingreso-de-naval-method]] · [[aku-productize-yourself-concept]] · [[aku-subir-la-escalera-de-leverage-accountability-specific-knowledge-crea-riqueza-claim]] · [[aku-da-a-la-sociedad-lo-que-quiere-a-escala-claim]] · [[aku-aprende-a-vender-y-a-construir-claim]] · [[aku-earn-with-your-mind-not-your-time-claim]] · [[aku-te-haces-rico-ahorrando-tiempo-para-ganar-dinero-no-gastando-tiempo-para-ahorrar-claim]]

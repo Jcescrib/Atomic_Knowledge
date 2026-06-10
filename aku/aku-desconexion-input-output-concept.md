@@ -35,6 +35,12 @@ relations:
   contradicts: []
   related:
     - aku-leverage-multiplicador-de-juicio-concept
+    - aku-mejores-trabajos-ni-decretados-ni-titulados-claim
+    - aku-knowledge-workers-funcionan-como-atletas-sprint-y-descanso-claim
+    - aku-con-quien-y-en-que-trabajas-importa-mas-que-cuanto-claim
+    - aku-encuentra-trabajo-que-se-sienta-como-juego-claim
+    - aku-decide-despacio-actua-rapido-y-deja-que-el-acto-dure-decadas-claim
+    - aku-necesitas-espacio-vacio-para-pensar-las-ideas-llegan-tras-el-aburrimiento-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-leverage-multiplicador-de-juicio-concept]]
+**related** ↔ [[aku-leverage-multiplicador-de-juicio-concept]] · [[aku-mejores-trabajos-ni-decretados-ni-titulados-claim]] · [[aku-knowledge-workers-funcionan-como-atletas-sprint-y-descanso-claim]] · [[aku-con-quien-y-en-que-trabajas-importa-mas-que-cuanto-claim]] · [[aku-encuentra-trabajo-que-se-sienta-como-juego-claim]] · [[aku-decide-despacio-actua-rapido-y-deja-que-el-acto-dure-decadas-claim]] · [[aku-necesitas-espacio-vacio-para-pensar-las-ideas-llegan-tras-el-aburrimiento-claim]]

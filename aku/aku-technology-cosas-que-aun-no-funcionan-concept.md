@@ -34,6 +34,9 @@ relations:
   related:
     - aku-ciencia-aguas-arriba-de-tecnologia-y-negocio-concept
     - aku-armate-con-specific-knowledge-accountability-y-leverage-claim
+    - aku-ciencia-es-el-estudio-de-la-verdad-y-las-matematicas-su-lenguaje-concept
+    - aku-falsabilidad-sin-predicciones-falsables-no-es-ciencia-concept
+    - aku-las-ciencias-duras-explican-la-sociedad-evolucion-y-complejidad-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-ciencia-aguas-arriba-de-tecnologia-y-negocio-concept]] · [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]]
+**related** ↔ [[aku-ciencia-aguas-arriba-de-tecnologia-y-negocio-concept]] · [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-ciencia-es-el-estudio-de-la-verdad-y-las-matematicas-su-lenguaje-concept]] · [[aku-falsabilidad-sin-predicciones-falsables-no-es-ciencia-concept]] · [[aku-las-ciencias-duras-explican-la-sociedad-evolucion-y-complejidad-claim]]

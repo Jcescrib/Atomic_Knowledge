@@ -34,6 +34,10 @@ relations:
   related:
     - aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept
     - aku-el-deseo-es-la-diferencia-entre-donde-estas-y-donde-quieres-estar-claim
+    - aku-felicidad-es-paz-no-alegria-paz-en-reposo-y-felicidad-en-movimiento-concept
+    - aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim
+    - aku-persona-feliz-es-la-que-interpreta-sin-perder-su-paz-innata-claim
+    - aku-felicidad-es-satisfaccion-el-exito-viene-de-la-insatisfaccion-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-el-deseo-es-la-diferencia-entre-donde-estas-y-donde-quieres-estar-claim]]
+**related** ↔ [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-el-deseo-es-la-diferencia-entre-donde-estas-y-donde-quieres-estar-claim]] · [[aku-felicidad-es-paz-no-alegria-paz-en-reposo-y-felicidad-en-movimiento-concept]] · [[aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim]] · [[aku-persona-feliz-es-la-que-interpreta-sin-perder-su-paz-innata-claim]] · [[aku-felicidad-es-satisfaccion-el-exito-viene-de-la-insatisfaccion-claim]]

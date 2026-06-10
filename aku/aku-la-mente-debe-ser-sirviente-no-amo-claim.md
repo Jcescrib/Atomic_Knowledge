@@ -32,6 +32,9 @@ relations:
   contradicts: []
   related:
     - aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept
+    - aku-la-mente-es-un-musculo-que-puedes-reprogramar-con-consciencia-claim
+    - aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept
+    - aku-actua-sin-ira-y-con-vision-a-largo-plazo-y-dejaran-de-ser-errores-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept]]
+**related** ↔ [[aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept]] · [[aku-la-mente-es-un-musculo-que-puedes-reprogramar-con-consciencia-claim]] · [[aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept]] · [[aku-actua-sin-ira-y-con-vision-a-largo-plazo-y-dejaran-de-ser-errores-claim]]

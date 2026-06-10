@@ -34,6 +34,9 @@ relations:
     - aku-entrenamiento-fisico-cuerpo-y-mente-claim
     - aku-stress-bueno-y-malo-cortisol-claim
     - aku-calentamiento-progresivo-method
+    - aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim
+    - aku-mente-en-calma-cuerpo-sano-y-hogar-con-amor-no-se-compran-se-ganan-claim
+    - aku-salvate-a-ti-mismo-nadie-mas-te-hara-sano-ni-sabio-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-entrenamiento-fisico-cuerpo-y-mente-claim]] · [[aku-stress-bueno-y-malo-cortisol-claim]] · [[aku-calentamiento-progresivo-method]]
+**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-entrenamiento-fisico-cuerpo-y-mente-claim]] · [[aku-stress-bueno-y-malo-cortisol-claim]] · [[aku-calentamiento-progresivo-method]] · [[aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim]] · [[aku-mente-en-calma-cuerpo-sano-y-hogar-con-amor-no-se-compran-se-ganan-claim]] · [[aku-salvate-a-ti-mismo-nadie-mas-te-hara-sano-ni-sabio-claim]]

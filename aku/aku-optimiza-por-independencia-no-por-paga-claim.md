@@ -31,6 +31,8 @@ relations:
   contradicts: []
   related:
     - aku-la-libertad-es-el-valor-supremo-claim
+    - aku-aspirational-hourly-rate-method
+    - aku-nadie-te-valora-mas-de-lo-que-tu-te-valoras-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-libertad-es-el-valor-supremo-claim]]
+**related** ↔ [[aku-la-libertad-es-el-valor-supremo-claim]] · [[aku-aspirational-hourly-rate-method]] · [[aku-nadie-te-valora-mas-de-lo-que-tu-te-valoras-claim]]

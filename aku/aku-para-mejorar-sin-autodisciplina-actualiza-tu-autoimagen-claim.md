@@ -36,6 +36,10 @@ relations:
     - aku-las-personas-disciplinadas-estructuran-su-entorno-para-no-necesitar-fuerza-de-voluntad-claim
     - aku-no-mas-excusas-claim
     - aku-self-discipline-viene-de-dentro-concept
+    - aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim
+    - aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim
+    - aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method
+    - aku-cuando-de-verdad-quieres-cambiar-cambias-intentar-es-aplazar-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -48,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method]] · [[aku-habitos-basados-en-la-identidad-vs-en-resultados-concept]] · [[aku-48laws-34-be-royal-in-your-own-fashion-concept]] · [[aku-las-personas-disciplinadas-estructuran-su-entorno-para-no-necesitar-fuerza-de-voluntad-claim]] · [[aku-no-mas-excusas-claim]] · [[aku-self-discipline-viene-de-dentro-concept]]
+**related** ↔ [[aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method]] · [[aku-habitos-basados-en-la-identidad-vs-en-resultados-concept]] · [[aku-48laws-34-be-royal-in-your-own-fashion-concept]] · [[aku-las-personas-disciplinadas-estructuran-su-entorno-para-no-necesitar-fuerza-de-voluntad-claim]] · [[aku-no-mas-excusas-claim]] · [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim]] · [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method]] · [[aku-cuando-de-verdad-quieres-cambiar-cambias-intentar-es-aplazar-claim]]

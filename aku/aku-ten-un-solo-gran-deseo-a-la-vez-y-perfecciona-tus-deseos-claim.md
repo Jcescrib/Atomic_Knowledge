@@ -32,6 +32,11 @@ relations:
   contradicts: []
   related:
     - aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept
+    - aku-solo-se-logra-maestria-en-una-o-dos-cosas-claim
+    - aku-puedes-lograr-casi-cualquier-cosa-si-es-una-sola-y-la-quieres-mas-que-nada-claim
+    - aku-lo-mas-dificil-no-es-hacer-lo-que-quieres-sino-saber-que-quieres-claim
+    - aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim
+    - aku-99-por-ciento-del-esfuerzo-se-desperdicia-encuentra-el-1-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]]
+**related** ↔ [[aku-el-deseo-es-un-contrato-para-ser-infeliz-hasta-conseguirlo-concept]] · [[aku-solo-se-logra-maestria-en-una-o-dos-cosas-claim]] · [[aku-puedes-lograr-casi-cualquier-cosa-si-es-una-sola-y-la-quieres-mas-que-nada-claim]] · [[aku-lo-mas-dificil-no-es-hacer-lo-que-quieres-sino-saber-que-quieres-claim]] · [[aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim]] · [[aku-99-por-ciento-del-esfuerzo-se-desperdicia-encuentra-el-1-claim]]

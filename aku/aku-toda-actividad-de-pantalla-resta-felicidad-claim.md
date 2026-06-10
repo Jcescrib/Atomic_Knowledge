@@ -33,6 +33,9 @@ relations:
     - aku-la-felicidad-es-una-habilidad-que-se-aprende-concept
     - aku-minimalismo-digital-concept
     - aku-el-entorno-es-la-mano-invisible-que-moldea-la-conducta-claim
+    - aku-la-felicidad-requiere-presencia-claim
+    - aku-el-presente-es-todo-lo-que-hay-concept
+    - aku-deja-de-preguntar-por-que-y-empieza-a-decir-wow-gratitud-por-la-abundancia-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-minimalismo-digital-concept]] · [[aku-el-entorno-es-la-mano-invisible-que-moldea-la-conducta-claim]]
+**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-minimalismo-digital-concept]] · [[aku-el-entorno-es-la-mano-invisible-que-moldea-la-conducta-claim]] · [[aku-la-felicidad-requiere-presencia-claim]] · [[aku-el-presente-es-todo-lo-que-hay-concept]] · [[aku-deja-de-preguntar-por-que-y-empieza-a-decir-wow-gratitud-por-la-abundancia-claim]]

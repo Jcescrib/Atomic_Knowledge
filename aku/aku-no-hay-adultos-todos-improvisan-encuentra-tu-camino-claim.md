@@ -32,6 +32,8 @@ relations:
   contradicts: []
   related:
     - aku-los-tres-significados-de-la-vida-concept
+    - aku-tres-grandes-decisiones-donde-vives-con-quien-y-que-haces-claim
+    - aku-si-no-puedes-decidir-la-respuesta-es-no-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-los-tres-significados-de-la-vida-concept]]
+**related** ↔ [[aku-los-tres-significados-de-la-vida-concept]] · [[aku-tres-grandes-decisiones-donde-vives-con-quien-y-que-haces-claim]] · [[aku-si-no-puedes-decidir-la-respuesta-es-no-claim]]

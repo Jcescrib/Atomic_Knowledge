@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-aspirational-hourly-rate-method
+    - aku-optimiza-por-independencia-no-por-paga-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +45,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-aspirational-hourly-rate-method]]
+**related** ↔ [[aku-aspirational-hourly-rate-method]] · [[aku-optimiza-por-independencia-no-por-paga-claim]]

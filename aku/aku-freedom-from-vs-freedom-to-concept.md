@@ -36,6 +36,9 @@ relations:
     - aku-tres-capas-liderazgo-concept
     - aku-al-otro-lado-del-miedo-esta-la-libertad-claim
     - aku-discipline-equals-freedom-concept
+    - aku-el-coraje-es-no-importarte-lo-que-piensen-los-demas-claim
+    - aku-elimina-el-deberia-de-tu-vida-es-culpa-y-programacion-social-claim
+    - aku-las-expectativas-ajenas-sobre-ti-son-su-problema-no-el-tuyo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -48,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-libertad-es-el-valor-supremo-claim]] · [[aku-tres-capas-liderazgo-concept]] · [[aku-al-otro-lado-del-miedo-esta-la-libertad-claim]] · [[aku-discipline-equals-freedom-concept]]
+**related** ↔ [[aku-la-libertad-es-el-valor-supremo-claim]] · [[aku-tres-capas-liderazgo-concept]] · [[aku-al-otro-lado-del-miedo-esta-la-libertad-claim]] · [[aku-discipline-equals-freedom-concept]] · [[aku-el-coraje-es-no-importarte-lo-que-piensen-los-demas-claim]] · [[aku-elimina-el-deberia-de-tu-vida-es-culpa-y-programacion-social-claim]] · [[aku-las-expectativas-ajenas-sobre-ti-son-su-problema-no-el-tuyo-claim]]

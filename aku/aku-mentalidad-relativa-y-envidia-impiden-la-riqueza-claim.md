@@ -33,6 +33,10 @@ relations:
   related:
     - aku-creacion-de-riqueza-etica-es-posible-claim
     - aku-satisfaccion-igual-liking-menos-wanting-las-expectativas-determinan-la-satisfaccion-claim
+    - aku-hacer-dinero-es-habilidad-que-se-aprende-claim
+    - aku-no-existe-la-habilidad-de-los-negocios-claim
+    - aku-no-hay-esquemas-para-hacerse-rico-rapido-claim
+    - aku-riqueza-es-entender-que-quien-cuando-no-solo-trabajo-duro-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-creacion-de-riqueza-etica-es-posible-claim]] · [[aku-satisfaccion-igual-liking-menos-wanting-las-expectativas-determinan-la-satisfaccion-claim]]
+**related** ↔ [[aku-creacion-de-riqueza-etica-es-posible-claim]] · [[aku-satisfaccion-igual-liking-menos-wanting-las-expectativas-determinan-la-satisfaccion-claim]] · [[aku-hacer-dinero-es-habilidad-que-se-aprende-claim]] · [[aku-no-existe-la-habilidad-de-los-negocios-claim]] · [[aku-no-hay-esquemas-para-hacerse-rico-rapido-claim]] · [[aku-riqueza-es-entender-que-quien-cuando-no-solo-trabajo-duro-claim]]

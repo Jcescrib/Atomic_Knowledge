@@ -33,6 +33,8 @@ relations:
   contradicts: []
   related:
     - aku-cambiar-aceptar-o-dejar-concept
+    - aku-todo-pensamiento-positivo-contiene-uno-negativo-por-dualidad-claim
+    - aku-tu-curriculum-real-es-tu-catalogo-de-sufrimiento-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cambiar-aceptar-o-dejar-concept]]
+**related** ↔ [[aku-cambiar-aceptar-o-dejar-concept]] · [[aku-todo-pensamiento-positivo-contiene-uno-negativo-por-dualidad-claim]] · [[aku-tu-curriculum-real-es-tu-catalogo-de-sufrimiento-claim]]

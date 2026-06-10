@@ -36,6 +36,8 @@ relations:
     - aku-estimulos-supernormales-concept
     - aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim
     - aku-dieta-paleo-fuel-concept
+    - aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept
+    - aku-la-adaptacion-hedonica-es-mas-fuerte-en-lo-artificial-que-en-lo-natural-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-entorno-de-recompensa-inmediata-vs-diferida-concept]] · [[aku-estimulos-supernormales-concept]] · [[aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim]] · [[aku-dieta-paleo-fuel-concept]]
+**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-entorno-de-recompensa-inmediata-vs-diferida-concept]] · [[aku-estimulos-supernormales-concept]] · [[aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim]] · [[aku-dieta-paleo-fuel-concept]] · [[aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept]] · [[aku-la-adaptacion-hedonica-es-mas-fuerte-en-lo-artificial-que-en-lo-natural-claim]]

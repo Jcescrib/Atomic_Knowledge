@@ -48,6 +48,9 @@ relations:
     - aku-todo-pensamiento-positivo-contiene-uno-negativo-por-dualidad-claim
     - aku-mente-de-mono-concept
     - aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim
+    - aku-felicidad-es-paz-no-alegria-paz-en-reposo-y-felicidad-en-movimiento-concept
+    - aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim
+    - aku-persona-feliz-es-la-que-interpreta-sin-perder-su-paz-innata-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -60,4 +63,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-el-estado-neutral-es-un-estado-de-perfeccion-como-el-de-los-ninos-claim]] · [[aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept]] · [[aku-deja-de-preguntar-por-que-y-empieza-a-decir-wow-gratitud-por-la-abundancia-claim]] · [[aku-felicidad-es-satisfaccion-el-exito-viene-de-la-insatisfaccion-claim]] · [[aku-iluminacion-es-el-espacio-entre-tus-pensamientos-concept]] · [[aku-la-felicidad-requiere-presencia-claim]] · [[aku-la-ira-es-un-contrato-para-el-tormento-y-su-propio-castigo-concept]] · [[aku-no-puedes-ocultarte-de-ti-mismo-tus-valores-determinan-tu-autoestima-claim]] · [[aku-para-ser-honesto-habla-sin-identidad-las-etiquetas-te-atan-claim]] · [[aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim]] · [[aku-todo-exito-real-es-interno-la-adaptacion-hedonica-borra-el-externo-claim]] · [[aku-todo-pensamiento-positivo-contiene-uno-negativo-por-dualidad-claim]] · [[aku-mente-de-mono-concept]] · [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]]
+**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-el-estado-neutral-es-un-estado-de-perfeccion-como-el-de-los-ninos-claim]] · [[aku-awareness-vs-ego-eres-mas-que-tu-monkey-mind-concept]] · [[aku-deja-de-preguntar-por-que-y-empieza-a-decir-wow-gratitud-por-la-abundancia-claim]] · [[aku-felicidad-es-satisfaccion-el-exito-viene-de-la-insatisfaccion-claim]] · [[aku-iluminacion-es-el-espacio-entre-tus-pensamientos-concept]] · [[aku-la-felicidad-requiere-presencia-claim]] · [[aku-la-ira-es-un-contrato-para-el-tormento-y-su-propio-castigo-concept]] · [[aku-no-puedes-ocultarte-de-ti-mismo-tus-valores-determinan-tu-autoestima-claim]] · [[aku-para-ser-honesto-habla-sin-identidad-las-etiquetas-te-atan-claim]] · [[aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim]] · [[aku-todo-exito-real-es-interno-la-adaptacion-hedonica-borra-el-externo-claim]] · [[aku-todo-pensamiento-positivo-contiene-uno-negativo-por-dualidad-claim]] · [[aku-mente-de-mono-concept]] · [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]] · [[aku-felicidad-es-paz-no-alegria-paz-en-reposo-y-felicidad-en-movimiento-concept]] · [[aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim]] · [[aku-persona-feliz-es-la-que-interpreta-sin-perder-su-paz-innata-claim]]

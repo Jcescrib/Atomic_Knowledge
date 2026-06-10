@@ -32,6 +32,11 @@ relations:
   related:
     - aku-armate-con-specific-knowledge-accountability-y-leverage-claim
     - aku-la-esperanza-declina-con-la-experiencia-y-se-convierte-en-aceptacion-claim
+    - aku-creacion-de-riqueza-etica-es-posible-claim
+    - aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim
+    - aku-hacer-dinero-es-habilidad-que-se-aprende-claim
+    - aku-no-existe-la-habilidad-de-los-negocios-claim
+    - aku-riqueza-es-entender-que-quien-cuando-no-solo-trabajo-duro-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-la-esperanza-declina-con-la-experiencia-y-se-convierte-en-aceptacion-claim]]
+**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-la-esperanza-declina-con-la-experiencia-y-se-convierte-en-aceptacion-claim]] · [[aku-creacion-de-riqueza-etica-es-posible-claim]] · [[aku-mentalidad-relativa-y-envidia-impiden-la-riqueza-claim]] · [[aku-hacer-dinero-es-habilidad-que-se-aprende-claim]] · [[aku-no-existe-la-habilidad-de-los-negocios-claim]] · [[aku-riqueza-es-entender-que-quien-cuando-no-solo-trabajo-duro-claim]]

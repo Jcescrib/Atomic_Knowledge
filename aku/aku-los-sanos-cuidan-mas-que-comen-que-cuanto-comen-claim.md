@@ -35,6 +35,8 @@ relations:
     - aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept
     - aku-dieta-paleo-fuel-concept
     - aku-evaluation-health-concept
+    - aku-cuanto-mas-procesado-el-alimento-menos-comer-y-resta-antes-de-anadir-claim
+    - aku-la-grasa-sacia-el-azucar-da-hambre-y-su-combinacion-es-letal-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-dieta-paleo-fuel-concept]] · [[aku-evaluation-health-concept]]
+**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-dieta-paleo-fuel-concept]] · [[aku-evaluation-health-concept]] · [[aku-cuanto-mas-procesado-el-alimento-menos-comer-y-resta-antes-de-anadir-claim]] · [[aku-la-grasa-sacia-el-azucar-da-hambre-y-su-combinacion-es-letal-claim]]

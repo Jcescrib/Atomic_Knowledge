@@ -31,6 +31,9 @@ relations:
   contradicts: []
   related:
     - aku-la-felicidad-es-una-habilidad-que-se-aprende-concept
+    - aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept
+    - aku-no-hay-soluciones-permanentes-en-un-sistema-dinamico-claim
+    - aku-la-motivacion-es-relativa-encuentra-la-cosa-en-la-que-te-metes-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]]
+**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept]] · [[aku-no-hay-soluciones-permanentes-en-un-sistema-dinamico-claim]] · [[aku-la-motivacion-es-relativa-encuentra-la-cosa-en-la-que-te-metes-claim]]

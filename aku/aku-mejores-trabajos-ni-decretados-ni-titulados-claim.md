@@ -31,6 +31,12 @@ relations:
   contradicts: []
   related:
     - aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim
+    - aku-desconexion-input-output-concept
+    - aku-knowledge-workers-funcionan-como-atletas-sprint-y-descanso-claim
+    - aku-con-quien-y-en-que-trabajas-importa-mas-que-cuanto-claim
+    - aku-encuentra-trabajo-que-se-sienta-como-juego-claim
+    - aku-decide-despacio-actua-rapido-y-deja-que-el-acto-dure-decadas-claim
+    - aku-necesitas-espacio-vacio-para-pensar-las-ideas-llegan-tras-el-aburrimiento-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]]
+**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]] · [[aku-desconexion-input-output-concept]] · [[aku-knowledge-workers-funcionan-como-atletas-sprint-y-descanso-claim]] · [[aku-con-quien-y-en-que-trabajas-importa-mas-que-cuanto-claim]] · [[aku-encuentra-trabajo-que-se-sienta-como-juego-claim]] · [[aku-decide-despacio-actua-rapido-y-deja-que-el-acto-dure-decadas-claim]] · [[aku-necesitas-espacio-vacio-para-pensar-las-ideas-llegan-tras-el-aburrimiento-claim]]

@@ -34,6 +34,10 @@ relations:
   contradicts: []
   related:
     - aku-la-felicidad-es-una-habilidad-que-se-aprende-concept
+    - aku-la-felicidad-real-es-un-subproducto-de-la-paz-via-aceptacion-claim
+    - aku-la-unica-paz-interior-es-abandonar-la-idea-de-problemas-claim
+    - aku-se-encuentra-paz-cultivando-indiferencia-a-lo-que-no-controlas-claim
+    - aku-nosotros-somos-maleables-y-el-mundo-es-en-gran-parte-fijo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]]
+**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-la-felicidad-real-es-un-subproducto-de-la-paz-via-aceptacion-claim]] · [[aku-la-unica-paz-interior-es-abandonar-la-idea-de-problemas-claim]] · [[aku-se-encuentra-paz-cultivando-indiferencia-a-lo-que-no-controlas-claim]] · [[aku-nosotros-somos-maleables-y-el-mundo-es-en-gran-parte-fijo-claim]]

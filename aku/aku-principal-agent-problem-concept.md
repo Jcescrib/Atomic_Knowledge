@@ -34,6 +34,8 @@ relations:
   contradicts: []
   related:
     - aku-modelos-mentales-concept
+    - aku-elige-socios-con-integridad-sobre-todo-claim
+    - aku-no-te-asocies-con-cinicos-ni-pesimistas-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelos-mentales-concept]]
+**related** ↔ [[aku-modelos-mentales-concept]] · [[aku-elige-socios-con-integridad-sobre-todo-claim]] · [[aku-no-te-asocies-con-cinicos-ni-pesimistas-claim]]

@@ -38,6 +38,9 @@ relations:
     - aku-evaluation-health-concept
     - aku-dormir-lo-suficiente-es-parte-del-hustle-no-su-enemigo-claim
     - aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim
+    - aku-para-tener-paz-mental-primero-hay-que-tener-paz-del-cuerpo-claim
+    - aku-mente-en-calma-cuerpo-sano-y-hogar-con-amor-no-se-compran-se-ganan-claim
+    - aku-salvate-a-ti-mismo-nadie-mas-te-hara-sano-ni-sabio-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -50,6 +53,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim]] · [[aku-salud-amor-y-mision-en-ese-orden-nada-mas-importa-claim]] · [[aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim]] · [[aku-evaluation-health-concept]] · [[aku-dormir-lo-suficiente-es-parte-del-hustle-no-su-enemigo-claim]] · [[aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim]]
+**related** ↔ [[aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim]] · [[aku-salud-amor-y-mision-en-ese-orden-nada-mas-importa-claim]] · [[aku-riqueza-salud-felicidad-se-persiguen-en-ese-orden-pero-importan-al-reves-claim]] · [[aku-evaluation-health-concept]] · [[aku-dormir-lo-suficiente-es-parte-del-hustle-no-su-enemigo-claim]] · [[aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim]] · [[aku-para-tener-paz-mental-primero-hay-que-tener-paz-del-cuerpo-claim]] · [[aku-mente-en-calma-cuerpo-sano-y-hogar-con-amor-no-se-compran-se-ganan-claim]] · [[aku-salvate-a-ti-mismo-nadie-mas-te-hara-sano-ni-sabio-claim]]
 
 **supports** → [[aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method]]

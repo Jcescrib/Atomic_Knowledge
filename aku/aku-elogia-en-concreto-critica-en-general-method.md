@@ -32,6 +32,9 @@ relations:
   contradicts: []
   related:
     - aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim
+    - aku-evita-las-relaciones-conflictivas-e-insostenibles-claim
+    - aku-solo-relaciones-entre-iguales-no-jerarquicas-claim
+    - aku-el-amor-se-da-no-se-recibe-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]]
+**related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]] · [[aku-evita-las-relaciones-conflictivas-e-insostenibles-claim]] · [[aku-solo-relaciones-entre-iguales-no-jerarquicas-claim]] · [[aku-el-amor-se-da-no-se-recibe-claim]]

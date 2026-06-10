@@ -31,6 +31,9 @@ relations:
   contradicts: []
   related:
     - aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept
+    - aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim
+    - aku-para-tener-paz-mental-primero-hay-que-tener-paz-del-cuerpo-claim
+    - aku-salvate-a-ti-mismo-nadie-mas-te-hara-sano-ni-sabio-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]]
+**related** ↔ [[aku-vivimos-en-desajuste-evolutivo-con-el-mundo-moderno-concept]] · [[aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim]] · [[aku-para-tener-paz-mental-primero-hay-que-tener-paz-del-cuerpo-claim]] · [[aku-salvate-a-ti-mismo-nadie-mas-te-hara-sano-ni-sabio-claim]]

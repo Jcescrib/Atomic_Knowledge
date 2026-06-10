@@ -35,6 +35,10 @@ relations:
     - aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim
     - aku-modelos-mentales-concept
     - aku-conocimiento-es-el-arma-definitiva-claim
+    - aku-domina-lo-basico-los-conceptos-avanzados-solo-senalan-pertenencia-claim
+    - aku-las-fundaciones-importan-mas-que-la-profundidad-equivocada-claim
+    - aku-lega-a-tus-hijos-leer-matematicas-y-persuasion-claim
+    - aku-cuanto-mas-viejo-el-problema-mas-vieja-la-solucion-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim]] · [[aku-modelos-mentales-concept]] · [[aku-conocimiento-es-el-arma-definitiva-claim]]
+**related** ↔ [[aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim]] · [[aku-modelos-mentales-concept]] · [[aku-conocimiento-es-el-arma-definitiva-claim]] · [[aku-domina-lo-basico-los-conceptos-avanzados-solo-senalan-pertenencia-claim]] · [[aku-las-fundaciones-importan-mas-que-la-profundidad-equivocada-claim]] · [[aku-lega-a-tus-hijos-leer-matematicas-y-persuasion-claim]] · [[aku-cuanto-mas-viejo-el-problema-mas-vieja-la-solucion-claim]]

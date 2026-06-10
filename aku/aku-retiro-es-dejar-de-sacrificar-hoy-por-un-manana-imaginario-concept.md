@@ -33,6 +33,10 @@ relations:
   contradicts: []
   related:
     - aku-tres-caminos-al-retiro-concept
+    - aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim
+    - aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim
+    - aku-los-verdaderos-ganadores-salen-del-juego-por-completo-claim
+    - aku-la-vida-son-juegos-de-horizonte-creciente-baja-del-hedonic-treadmill-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -45,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-tres-caminos-al-retiro-concept]]
+**related** ↔ [[aku-tres-caminos-al-retiro-concept]] · [[aku-dominar-un-juego-con-grandes-recompensas-te-hace-seguir-jugando-de-mas-claim]] · [[aku-los-ganadores-son-los-tan-adictos-que-siguen-pese-a-la-utilidad-marginal-decreciente-claim]] · [[aku-los-verdaderos-ganadores-salen-del-juego-por-completo-claim]] · [[aku-la-vida-son-juegos-de-horizonte-creciente-baja-del-hedonic-treadmill-concept]]

@@ -37,6 +37,8 @@ relations:
     - aku-abrazar-la-muerte-da-sentido-y-no-hay-legado-concept
     - aku-no-hay-adultos-todos-improvisan-encuentra-tu-camino-claim
     - aku-tu-curriculum-real-es-tu-catalogo-de-sufrimiento-claim
+    - aku-la-vida-es-fundamentalmente-un-juego-de-un-solo-jugador-claim
+    - aku-tener-un-hijo-responde-a-la-pregunta-del-sentido-de-la-vida-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -49,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-abrazar-la-muerte-da-sentido-y-no-hay-legado-concept]] · [[aku-no-hay-adultos-todos-improvisan-encuentra-tu-camino-claim]] · [[aku-tu-curriculum-real-es-tu-catalogo-de-sufrimiento-claim]]
+**related** ↔ [[aku-abrazar-la-muerte-da-sentido-y-no-hay-legado-concept]] · [[aku-no-hay-adultos-todos-improvisan-encuentra-tu-camino-claim]] · [[aku-tu-curriculum-real-es-tu-catalogo-de-sufrimiento-claim]] · [[aku-la-vida-es-fundamentalmente-un-juego-de-un-solo-jugador-claim]] · [[aku-tener-un-hijo-responde-a-la-pregunta-del-sentido-de-la-vida-claim]]

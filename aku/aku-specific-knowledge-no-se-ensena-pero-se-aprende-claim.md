@@ -35,6 +35,9 @@ relations:
     - aku-specific-knowledge-concept
     - aku-aprende-nuevas-habilidades-liderazgo-claim
     - aku-liderar-con-el-ejemplo-unica-forma-de-ensenar-claim
+    - aku-specific-knowledge-es-lo-que-hacias-sin-esfuerzo-de-nino-claim
+    - aku-sigue-tu-curiosidad-intelectual-mas-que-lo-de-moda-claim
+    - aku-internet-amplia-el-espacio-de-carreras-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-specific-knowledge-concept]] · [[aku-aprende-nuevas-habilidades-liderazgo-claim]] · [[aku-liderar-con-el-ejemplo-unica-forma-de-ensenar-claim]]
+**related** ↔ [[aku-specific-knowledge-concept]] · [[aku-aprende-nuevas-habilidades-liderazgo-claim]] · [[aku-liderar-con-el-ejemplo-unica-forma-de-ensenar-claim]] · [[aku-specific-knowledge-es-lo-que-hacias-sin-esfuerzo-de-nino-claim]] · [[aku-sigue-tu-curiosidad-intelectual-mas-que-lo-de-moda-claim]] · [[aku-internet-amplia-el-espacio-de-carreras-claim]]

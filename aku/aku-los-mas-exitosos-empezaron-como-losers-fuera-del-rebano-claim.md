@@ -34,6 +34,9 @@ relations:
     - aku-modelos-mentales-concept
     - aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim
     - aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim
+    - aku-el-contrario-optimista-razona-desde-cero-y-es-la-especie-mas-rara-concept
+    - aku-las-creencias-tomadas-en-paquete-son-sospechosas-reevalua-desde-principios-claim
+    - aku-todos-tenemos-una-creencia-contraria-que-la-tribu-rechaza-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelos-mentales-concept]] · [[aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim]] · [[aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim]]
+**related** ↔ [[aku-modelos-mentales-concept]] · [[aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim]] · [[aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim]] · [[aku-el-contrario-optimista-razona-desde-cero-y-es-la-especie-mas-rara-concept]] · [[aku-las-creencias-tomadas-en-paquete-son-sospechosas-reevalua-desde-principios-claim]] · [[aku-todos-tenemos-una-creencia-contraria-que-la-tribu-rechaza-claim]]

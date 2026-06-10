@@ -34,6 +34,11 @@ relations:
     - aku-modelos-mentales-concept
     - aku-maestro-nunca-deja-de-aprender-humildad-claim
     - aku-aprender-pensando-por-uno-mismo-descubre-mas-claim
+    - aku-leer-es-la-meta-habilidad-definitiva-canjeable-por-cualquier-otra-claim
+    - aku-leer-mas-rapido-que-escuchar-hacer-mas-rapido-que-ver-claim
+    - aku-no-esperes-por-ser-joven-solo-se-aprende-haciendo-claim
+    - aku-cinco-etapas-saber-entender-explicar-sentir-ser-concept
+    - aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelos-mentales-concept]] · [[aku-maestro-nunca-deja-de-aprender-humildad-claim]] · [[aku-aprender-pensando-por-uno-mismo-descubre-mas-claim]]
+**related** ↔ [[aku-modelos-mentales-concept]] · [[aku-maestro-nunca-deja-de-aprender-humildad-claim]] · [[aku-aprender-pensando-por-uno-mismo-descubre-mas-claim]] · [[aku-leer-es-la-meta-habilidad-definitiva-canjeable-por-cualquier-otra-claim]] · [[aku-leer-mas-rapido-que-escuchar-hacer-mas-rapido-que-ver-claim]] · [[aku-no-esperes-por-ser-joven-solo-se-aprende-haciendo-claim]] · [[aku-cinco-etapas-saber-entender-explicar-sentir-ser-concept]] · [[aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim]]

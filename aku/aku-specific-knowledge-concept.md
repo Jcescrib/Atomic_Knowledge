@@ -40,6 +40,7 @@ relations:
     - aku-specific-knowledge-es-lo-que-hacias-sin-esfuerzo-de-nino-claim
     - aku-sigue-tu-curiosidad-intelectual-mas-que-lo-de-moda-claim
     - aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim
+    - aku-internet-amplia-el-espacio-de-carreras-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -52,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-productize-yourself-concept]] · [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-specific-knowledge-no-se-ensena-pero-se-aprende-claim]] · [[aku-specific-knowledge-es-lo-que-hacias-sin-esfuerzo-de-nino-claim]] · [[aku-sigue-tu-curiosidad-intelectual-mas-que-lo-de-moda-claim]] · [[aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim]]
+**related** ↔ [[aku-productize-yourself-concept]] · [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-specific-knowledge-no-se-ensena-pero-se-aprende-claim]] · [[aku-specific-knowledge-es-lo-que-hacias-sin-esfuerzo-de-nino-claim]] · [[aku-sigue-tu-curiosidad-intelectual-mas-que-lo-de-moda-claim]] · [[aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim]] · [[aku-internet-amplia-el-espacio-de-carreras-claim]]

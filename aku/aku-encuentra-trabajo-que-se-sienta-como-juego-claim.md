@@ -34,6 +34,12 @@ relations:
     - aku-escapa-la-competencia-mediante-autenticidad-claim
     - aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim
     - aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim
+    - aku-mejores-trabajos-ni-decretados-ni-titulados-claim
+    - aku-desconexion-input-output-concept
+    - aku-knowledge-workers-funcionan-como-atletas-sprint-y-descanso-claim
+    - aku-con-quien-y-en-que-trabajas-importa-mas-que-cuanto-claim
+    - aku-decide-despacio-actua-rapido-y-deja-que-el-acto-dure-decadas-claim
+    - aku-necesitas-espacio-vacio-para-pensar-las-ideas-llegan-tras-el-aburrimiento-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-escapa-la-competencia-mediante-autenticidad-claim]] · [[aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim]] · [[aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim]]
+**related** ↔ [[aku-escapa-la-competencia-mediante-autenticidad-claim]] · [[aku-haz-cosas-por-su-propio-bien-produce-tu-mejor-trabajo-claim]] · [[aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim]] · [[aku-mejores-trabajos-ni-decretados-ni-titulados-claim]] · [[aku-desconexion-input-output-concept]] · [[aku-knowledge-workers-funcionan-como-atletas-sprint-y-descanso-claim]] · [[aku-con-quien-y-en-que-trabajas-importa-mas-que-cuanto-claim]] · [[aku-decide-despacio-actua-rapido-y-deja-que-el-acto-dure-decadas-claim]] · [[aku-necesitas-espacio-vacio-para-pensar-las-ideas-llegan-tras-el-aburrimiento-claim]]

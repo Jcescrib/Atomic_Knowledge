@@ -31,6 +31,10 @@ relations:
   contradicts: []
   related:
     - aku-cambiar-aceptar-o-dejar-concept
+    - aku-la-felicidad-real-es-un-subproducto-de-la-paz-via-aceptacion-claim
+    - aku-se-encuentra-paz-cultivando-indiferencia-a-lo-que-no-controlas-claim
+    - aku-nosotros-somos-maleables-y-el-mundo-es-en-gran-parte-fijo-claim
+    - aku-la-realidad-es-neutral-y-la-felicidad-es-una-eleccion-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -43,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-cambiar-aceptar-o-dejar-concept]]
+**related** ↔ [[aku-cambiar-aceptar-o-dejar-concept]] · [[aku-la-felicidad-real-es-un-subproducto-de-la-paz-via-aceptacion-claim]] · [[aku-se-encuentra-paz-cultivando-indiferencia-a-lo-que-no-controlas-claim]] · [[aku-nosotros-somos-maleables-y-el-mundo-es-en-gran-parte-fijo-claim]] · [[aku-la-realidad-es-neutral-y-la-felicidad-es-una-eleccion-concept]]

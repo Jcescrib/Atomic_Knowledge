@@ -36,6 +36,10 @@ relations:
     - aku-redefinir-agotamiento-eleva-baseline-claim
     - aku-la-meditacion-con-mantra-baja-el-volumen-de-los-pensamientos-method
     - aku-minimalismo-digital-concept
+    - aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method
+    - aku-la-felicidad-es-un-juego-de-un-solo-jugador-concept
+    - aku-para-la-mente-el-placebo-es-100-efectivo-se-positivamente-inclinado-claim
+    - aku-di-a-tus-amigos-que-eres-feliz-para-conformarte-a-ello-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -48,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-redefinir-agotamiento-eleva-baseline-claim]] · [[aku-la-meditacion-con-mantra-baja-el-volumen-de-los-pensamientos-method]] · [[aku-minimalismo-digital-concept]]
+**related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-redefinir-agotamiento-eleva-baseline-claim]] · [[aku-la-meditacion-con-mantra-baja-el-volumen-de-los-pensamientos-method]] · [[aku-minimalismo-digital-concept]] · [[aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method]] · [[aku-la-felicidad-es-un-juego-de-un-solo-jugador-concept]] · [[aku-para-la-mente-el-placebo-es-100-efectivo-se-positivamente-inclinado-claim]] · [[aku-di-a-tus-amigos-que-eres-feliz-para-conformarte-a-ello-claim]]

@@ -32,6 +32,8 @@ relations:
   related:
     - aku-judgment-naval-concept
     - aku-atribucion-sesgada-exito-fracaso-claim
+    - aku-modelos-mentales-concept
+    - aku-los-sesgos-son-heuristicas-de-ahorro-de-tiempo-descartalos-en-decisiones-importantes-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -44,4 +46,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-judgment-naval-concept]] · [[aku-atribucion-sesgada-exito-fracaso-claim]]
+**related** ↔ [[aku-judgment-naval-concept]] · [[aku-atribucion-sesgada-exito-fracaso-claim]] · [[aku-modelos-mentales-concept]] · [[aku-los-sesgos-son-heuristicas-de-ahorro-de-tiempo-descartalos-en-decisiones-importantes-claim]]

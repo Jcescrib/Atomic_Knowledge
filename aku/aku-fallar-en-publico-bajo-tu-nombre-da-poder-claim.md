@@ -34,6 +34,7 @@ relations:
     - aku-accountability-bajo-tu-nombre-concept
     - aku-juicio-demostrado-con-credibilidad-atrae-leverage-infinito-claim
     - aku-el-exito-se-construye-sobre-el-fracaso-repetido-y-la-introspeccion-claim
+    - aku-el-riesgo-a-la-baja-de-fracasar-es-pequeno-asume-mas-accountability-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-accountability-bajo-tu-nombre-concept]] · [[aku-juicio-demostrado-con-credibilidad-atrae-leverage-infinito-claim]] · [[aku-el-exito-se-construye-sobre-el-fracaso-repetido-y-la-introspeccion-claim]]
+**related** ↔ [[aku-accountability-bajo-tu-nombre-concept]] · [[aku-juicio-demostrado-con-credibilidad-atrae-leverage-infinito-claim]] · [[aku-el-exito-se-construye-sobre-el-fracaso-repetido-y-la-introspeccion-claim]] · [[aku-el-riesgo-a-la-baja-de-fracasar-es-pequeno-asume-mas-accountability-claim]]

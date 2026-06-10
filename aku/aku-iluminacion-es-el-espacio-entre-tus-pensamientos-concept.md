@@ -34,6 +34,12 @@ relations:
     - aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept
     - aku-mente-de-mono-concept
     - aku-mindfulness-concept
+    - aku-la-meditacion-es-ayuno-intermitente-para-la-mente-concept
+    - aku-la-meditacion-revela-cuan-fuera-de-control-esta-tu-mente-y-en-la-separacion-hay-liberacion-claim
+    - aku-meditar-60-min-60-dias-para-llegar-a-un-inbox-cero-mental-method
+    - aku-meditacion-es-apagar-a-la-sociedad-y-escucharte-y-adopta-muchas-formas-claim
+    - aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept
+    - aku-la-ansiedad-son-pensamientos-en-marcha-elige-la-paz-sobre-el-pensamiento-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-mente-de-mono-concept]] · [[aku-mindfulness-concept]]
+**related** ↔ [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-mente-de-mono-concept]] · [[aku-mindfulness-concept]] · [[aku-la-meditacion-es-ayuno-intermitente-para-la-mente-concept]] · [[aku-la-meditacion-revela-cuan-fuera-de-control-esta-tu-mente-y-en-la-separacion-hay-liberacion-claim]] · [[aku-meditar-60-min-60-dias-para-llegar-a-un-inbox-cero-mental-method]] · [[aku-meditacion-es-apagar-a-la-sociedad-y-escucharte-y-adopta-muchas-formas-claim]] · [[aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept]] · [[aku-la-ansiedad-son-pensamientos-en-marcha-elige-la-paz-sobre-el-pensamiento-claim]]

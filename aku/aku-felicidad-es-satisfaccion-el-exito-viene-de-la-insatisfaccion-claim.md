@@ -34,6 +34,10 @@ relations:
     - aku-el-sufrimiento-impulsa-el-progreso-el-deseo-de-cambiar-de-estado-mueve-a-actuar-claim
     - aku-el-trabajo-duro-crea-felicidad-no-solo-exito-claim
     - aku-satisfaccion-igual-liking-menos-wanting-las-expectativas-determinan-la-satisfaccion-claim
+    - aku-felicidad-es-paz-no-alegria-paz-en-reposo-y-felicidad-en-movimiento-concept
+    - aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim
+    - aku-el-estado-neutral-es-un-estado-de-perfeccion-como-el-de-los-ninos-claim
+    - aku-persona-feliz-es-la-que-interpreta-sin-perder-su-paz-innata-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-el-sufrimiento-impulsa-el-progreso-el-deseo-de-cambiar-de-estado-mueve-a-actuar-claim]] · [[aku-el-trabajo-duro-crea-felicidad-no-solo-exito-claim]] · [[aku-satisfaccion-igual-liking-menos-wanting-las-expectativas-determinan-la-satisfaccion-claim]]
+**related** ↔ [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-el-sufrimiento-impulsa-el-progreso-el-deseo-de-cambiar-de-estado-mueve-a-actuar-claim]] · [[aku-el-trabajo-duro-crea-felicidad-no-solo-exito-claim]] · [[aku-satisfaccion-igual-liking-menos-wanting-las-expectativas-determinan-la-satisfaccion-claim]] · [[aku-felicidad-es-paz-no-alegria-paz-en-reposo-y-felicidad-en-movimiento-concept]] · [[aku-felicidad-es-ausencia-de-deseo-y-presencia-en-el-momento-claim]] · [[aku-el-estado-neutral-es-un-estado-de-perfeccion-como-el-de-los-ninos-claim]] · [[aku-persona-feliz-es-la-que-interpreta-sin-perder-su-paz-innata-claim]]

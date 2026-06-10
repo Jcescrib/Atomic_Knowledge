@@ -34,6 +34,7 @@ relations:
   related:
     - aku-juicio-demostrado-con-credibilidad-atrae-leverage-infinito-claim
     - aku-cuatro-tipos-de-suerte-concept
+    - aku-hacerse-rico-sin-suerte-es-ser-determinista-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-juicio-demostrado-con-credibilidad-atrae-leverage-infinito-claim]] · [[aku-cuatro-tipos-de-suerte-concept]]
+**related** ↔ [[aku-juicio-demostrado-con-credibilidad-atrae-leverage-infinito-claim]] · [[aku-cuatro-tipos-de-suerte-concept]] · [[aku-hacerse-rico-sin-suerte-es-ser-determinista-claim]]

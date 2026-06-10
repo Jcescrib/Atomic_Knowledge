@@ -34,6 +34,9 @@ relations:
   related:
     - aku-specific-knowledge-concept
     - aku-explore-exploit-trade-off-method
+    - aku-specific-knowledge-no-se-ensena-pero-se-aprende-claim
+    - aku-sigue-tu-curiosidad-intelectual-mas-que-lo-de-moda-claim
+    - aku-internet-amplia-el-espacio-de-carreras-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-specific-knowledge-concept]] · [[aku-explore-exploit-trade-off-method]]
+**related** ↔ [[aku-specific-knowledge-concept]] · [[aku-explore-exploit-trade-off-method]] · [[aku-specific-knowledge-no-se-ensena-pero-se-aprende-claim]] · [[aku-sigue-tu-curiosidad-intelectual-mas-que-lo-de-moda-claim]] · [[aku-internet-amplia-el-espacio-de-carreras-claim]]

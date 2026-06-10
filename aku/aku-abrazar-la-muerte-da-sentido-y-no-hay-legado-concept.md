@@ -35,6 +35,8 @@ relations:
   related:
     - aku-los-tres-significados-de-la-vida-concept
     - aku-cambiar-aceptar-o-dejar-concept
+    - aku-la-vida-es-fundamentalmente-un-juego-de-un-solo-jugador-claim
+    - aku-tener-un-hijo-responde-a-la-pregunta-del-sentido-de-la-vida-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-los-tres-significados-de-la-vida-concept]] · [[aku-cambiar-aceptar-o-dejar-concept]]
+**related** ↔ [[aku-los-tres-significados-de-la-vida-concept]] · [[aku-cambiar-aceptar-o-dejar-concept]] · [[aku-la-vida-es-fundamentalmente-un-juego-de-un-solo-jugador-claim]] · [[aku-tener-un-hijo-responde-a-la-pregunta-del-sentido-de-la-vida-claim]]
