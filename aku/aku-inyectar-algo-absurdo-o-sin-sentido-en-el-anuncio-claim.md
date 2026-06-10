@@ -32,6 +32,7 @@ relations:
     - aku-la-novedad-capta-la-atencion-claim
     - aku-agrandar-las-palabras-emocionales-claim
     - aku-anadir-elementos-de-la-atencion-top-down-del-espectador-claim
+    - aku-packaging-psychology-el-envase-comunica-por-heuristicas-visuales-concept
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -46,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-la-novedad-capta-la-atencion-claim]] · [[aku-agrandar-las-palabras-emocionales-claim]] · [[aku-anadir-elementos-de-la-atencion-top-down-del-espectador-claim]]
+**related** ↔ [[aku-la-novedad-capta-la-atencion-claim]] · [[aku-agrandar-las-palabras-emocionales-claim]] · [[aku-anadir-elementos-de-la-atencion-top-down-del-espectador-claim]] · [[aku-packaging-psychology-el-envase-comunica-por-heuristicas-visuales-concept]]

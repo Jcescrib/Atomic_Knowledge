@@ -39,6 +39,9 @@ relations:
     - aku-dar-al-rival-una-silla-baja-y-blanda-claim
     - aku-kinesthetic-fluency-la-articulacion-bucal-significa-concept
     - aku-ordenar-las-consonantes-de-delante-hacia-atras-inward-claim
+    - aku-llevar-cafe-y-pasteles-a-la-negociacion-claim
+    - aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept
+    - aku-el-rojo-refuerza-la-atraccion-social-claim
 
 sources:
   - raw/libros/kolenda/bonus-pdf/bonus-pdf.md
@@ -55,6 +58,6 @@ status_note: "Fuente = PDF companion de figuras del audiolibro (sin prosa extrai
 
 ## Relaciones
 
-**related** ↔ [[aku-la-escala-de-decision-equilibra-cuatro-conductas-concept]] · [[aku-dar-al-rival-una-silla-baja-y-blanda-claim]] · [[aku-kinesthetic-fluency-la-articulacion-bucal-significa-concept]] · [[aku-ordenar-las-consonantes-de-delante-hacia-atras-inward-claim]]
+**related** ↔ [[aku-la-escala-de-decision-equilibra-cuatro-conductas-concept]] · [[aku-dar-al-rival-una-silla-baja-y-blanda-claim]] · [[aku-kinesthetic-fluency-la-articulacion-bucal-significa-concept]] · [[aku-ordenar-las-consonantes-de-delante-hacia-atras-inward-claim]] · [[aku-llevar-cafe-y-pasteles-a-la-negociacion-claim]] · [[aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept]] · [[aku-el-rojo-refuerza-la-atraccion-social-claim]]
 
 **supported_by** ← [[aku-retratar-el-problema-en-escala-de-grises-contrast-fluency-claim]]

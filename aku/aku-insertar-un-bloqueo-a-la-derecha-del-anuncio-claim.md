@@ -31,6 +31,8 @@ relations:
   related:
     - aku-posicionar-las-imagenes-a-la-izquierda-del-anuncio-claim
     - aku-mover-el-logo-en-las-variaciones-del-anuncio-claim
+    - aku-posicionar-precios-arriba-o-a-la-izquierda-claim
+    - aku-colocar-numerales-bajos-tras-digitos-orientados-a-la-derecha-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -49,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-posicionar-las-imagenes-a-la-izquierda-del-anuncio-claim]] · [[aku-mover-el-logo-en-las-variaciones-del-anuncio-claim]]
+**related** ↔ [[aku-posicionar-las-imagenes-a-la-izquierda-del-anuncio-claim]] · [[aku-mover-el-logo-en-las-variaciones-del-anuncio-claim]] · [[aku-posicionar-precios-arriba-o-a-la-izquierda-claim]] · [[aku-colocar-numerales-bajos-tras-digitos-orientados-a-la-derecha-claim]]

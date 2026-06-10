@@ -32,6 +32,7 @@ relations:
   related:
     - aku-ayudar-al-usuario-a-elegir-opciones-choice-overload-claim
     - aku-recomendar-una-opcion-por-defecto-claim
+    - aku-facilitar-el-movimiento-simbolico-del-progreso-en-el-checkout-claim
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -46,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-ux-effort-minimizar-el-esfuerzo-concept]] · [[aku-guiar-al-usuario-hacia-su-objetivo-claim]]
 
-**related** ↔ [[aku-ayudar-al-usuario-a-elegir-opciones-choice-overload-claim]] · [[aku-recomendar-una-opcion-por-defecto-claim]]
+**related** ↔ [[aku-ayudar-al-usuario-a-elegir-opciones-choice-overload-claim]] · [[aku-recomendar-una-opcion-por-defecto-claim]] · [[aku-facilitar-el-movimiento-simbolico-del-progreso-en-el-checkout-claim]]

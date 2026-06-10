@@ -33,6 +33,9 @@ relations:
     - aku-dar-dos-descuentos-en-orden-ascendente-claim
     - aku-retirar-los-descuentos-gradualmente-claim
     - aku-dar-una-razon-para-el-descuento-claim
+    - aku-ayudar-al-usuario-a-imaginar-tocar-el-producto-claim
+    - aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept
+    - aku-elegir-palabras-faciles-de-imaginar-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -47,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-extraer-esfuerzo-antes-de-elecciones-emocionales-claim]] · [[aku-dar-dos-descuentos-en-orden-ascendente-claim]] · [[aku-retirar-los-descuentos-gradualmente-claim]] · [[aku-dar-una-razon-para-el-descuento-claim]]
+**related** ↔ [[aku-extraer-esfuerzo-antes-de-elecciones-emocionales-claim]] · [[aku-dar-dos-descuentos-en-orden-ascendente-claim]] · [[aku-retirar-los-descuentos-gradualmente-claim]] · [[aku-dar-una-razon-para-el-descuento-claim]] · [[aku-ayudar-al-usuario-a-imaginar-tocar-el-producto-claim]] · [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]] · [[aku-elegir-palabras-faciles-de-imaginar-claim]]

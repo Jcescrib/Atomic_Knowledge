@@ -32,6 +32,8 @@ relations:
     - aku-anunciar-en-modalidades-congruentes-claim
     - aku-terminar-los-anuncios-ilustrando-el-siguiente-paso-claim
     - aku-anunciar-en-el-mismo-dominio-tematico-claim
+    - aku-mostrar-el-unboxing-del-producto-claim
+    - aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -52,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-anunciar-en-modalidades-congruentes-claim]] · [[aku-terminar-los-anuncios-ilustrando-el-siguiente-paso-claim]] · [[aku-anunciar-en-el-mismo-dominio-tematico-claim]]
+**related** ↔ [[aku-anunciar-en-modalidades-congruentes-claim]] · [[aku-terminar-los-anuncios-ilustrando-el-siguiente-paso-claim]] · [[aku-anunciar-en-el-mismo-dominio-tematico-claim]] · [[aku-mostrar-el-unboxing-del-producto-claim]] · [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]

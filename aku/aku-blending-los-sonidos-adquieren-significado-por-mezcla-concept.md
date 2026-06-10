@@ -33,6 +33,7 @@ relations:
     - aku-grupo-1-vs-grupo-2-de-fonemas-concept
     - aku-sound-symbolism-los-sonidos-tienen-significado-concept
     - aku-el-lenguaje-necesita-simbolismo-y-arbitrariedad-claim
+    - aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -53,4 +54,4 @@ status_note: ""
 
 **supported_by** ← [[aku-fonestemas-grupos-de-sonido-con-significado-concept]]
 
-**related** ↔ [[aku-grupo-1-vs-grupo-2-de-fonemas-concept]] · [[aku-sound-symbolism-los-sonidos-tienen-significado-concept]] · [[aku-el-lenguaje-necesita-simbolismo-y-arbitrariedad-claim]]
+**related** ↔ [[aku-grupo-1-vs-grupo-2-de-fonemas-concept]] · [[aku-sound-symbolism-los-sonidos-tienen-significado-concept]] · [[aku-el-lenguaje-necesita-simbolismo-y-arbitrariedad-claim]] · [[aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept]]

@@ -33,6 +33,8 @@ relations:
     - aku-fuentes-cortas-vs-altas-transmiten-estabilidad-vs-ligereza-claim
     - aku-el-blanco-facilita-la-accion-y-el-oscuro-retiene-claim
     - aku-el-blanco-promueve-visibilidad-y-el-oscuro-la-oculta-claim
+    - aku-colocar-productos-pesados-abajo-o-a-la-derecha-claim
+    - aku-envases-anchos-parecen-mas-pesados-claim
 
 sources:
   - raw/libros/kolenda/color-psychology2/color-psychology2.md
@@ -51,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept]]
 
-**related** ↔ [[aku-elegir-colores-claros-y-naturales-para-productos-sanos-claim]] · [[aku-fuentes-cortas-vs-altas-transmiten-estabilidad-vs-ligereza-claim]] · [[aku-el-blanco-facilita-la-accion-y-el-oscuro-retiene-claim]] · [[aku-el-blanco-promueve-visibilidad-y-el-oscuro-la-oculta-claim]]
+**related** ↔ [[aku-elegir-colores-claros-y-naturales-para-productos-sanos-claim]] · [[aku-fuentes-cortas-vs-altas-transmiten-estabilidad-vs-ligereza-claim]] · [[aku-el-blanco-facilita-la-accion-y-el-oscuro-retiene-claim]] · [[aku-el-blanco-promueve-visibilidad-y-el-oscuro-la-oculta-claim]] · [[aku-colocar-productos-pesados-abajo-o-a-la-derecha-claim]] · [[aku-envases-anchos-parecen-mas-pesados-claim]]

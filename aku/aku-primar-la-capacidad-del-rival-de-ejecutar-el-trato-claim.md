@@ -34,6 +34,9 @@ relations:
     - aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim
     - aku-hacer-la-primera-oferta-anclaje-claim
     - aku-pedir-un-rango-alto-y-preciso-claim
+    - aku-primar-la-eleccion-con-diseno-visual-semantic-priming-claim
+    - aku-choice-psychology-tres-mecanismos-de-decision-concept
+    - aku-ayudar-al-usuario-a-imaginar-tocar-el-producto-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -50,4 +53,4 @@ status_note: ""
 
 **supported_by** ← [[aku-simulation-fluency-simulamos-resultado-menos-proceso-concept]]
 
-**related** ↔ [[aku-imagine-reading-this-book-la-simulacion-mental-guia-las-decisiones-concept]] · [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]] · [[aku-hacer-la-primera-oferta-anclaje-claim]] · [[aku-pedir-un-rango-alto-y-preciso-claim]]
+**related** ↔ [[aku-imagine-reading-this-book-la-simulacion-mental-guia-las-decisiones-concept]] · [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]] · [[aku-hacer-la-primera-oferta-anclaje-claim]] · [[aku-pedir-un-rango-alto-y-preciso-claim]] · [[aku-primar-la-eleccion-con-diseno-visual-semantic-priming-claim]] · [[aku-choice-psychology-tres-mecanismos-de-decision-concept]] · [[aku-ayudar-al-usuario-a-imaginar-tocar-el-producto-claim]]

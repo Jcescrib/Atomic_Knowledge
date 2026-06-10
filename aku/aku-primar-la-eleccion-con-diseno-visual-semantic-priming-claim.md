@@ -35,6 +35,7 @@ relations:
     - aku-elegir-colores-claros-y-naturales-para-productos-sanos-claim
     - aku-los-colores-desaturados-grayscale-transmiten-lujo-claim
     - aku-anadir-senales-sensoriales-para-captar-atencion-claim
+    - aku-primar-la-capacidad-del-rival-de-ejecutar-el-trato-claim
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
 
-**related** ↔ [[aku-el-priming-influye-en-la-conducta-claim]] · [[aku-identidad-de-marca-concept]] · [[aku-atributos-marca-concept]] · [[aku-elegir-colores-claros-y-naturales-para-productos-sanos-claim]] · [[aku-los-colores-desaturados-grayscale-transmiten-lujo-claim]] · [[aku-anadir-senales-sensoriales-para-captar-atencion-claim]]
+**related** ↔ [[aku-el-priming-influye-en-la-conducta-claim]] · [[aku-identidad-de-marca-concept]] · [[aku-atributos-marca-concept]] · [[aku-elegir-colores-claros-y-naturales-para-productos-sanos-claim]] · [[aku-los-colores-desaturados-grayscale-transmiten-lujo-claim]] · [[aku-anadir-senales-sensoriales-para-captar-atencion-claim]] · [[aku-primar-la-capacidad-del-rival-de-ejecutar-el-trato-claim]]

@@ -34,6 +34,9 @@ relations:
     - aku-elegir-un-dia-con-buen-tiempo-para-negociar-claim
     - aku-elegir-una-hora-temprana-para-negociar-claim
     - aku-dar-al-rival-una-silla-baja-y-blanda-claim
+    - aku-the-tangled-mind-la-cognicion-es-corporal-embodied-concept
+    - aku-el-priming-influye-en-la-conducta-claim
+    - aku-el-rojo-refuerza-la-atraccion-social-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -54,4 +57,4 @@ status_note: ""
 
 **supported_by** ← [[aku-cialdini-reciprocidad-concept]]
 
-**related** ↔ [[aku-leyes-persuasion-cialdini-concept]] · [[aku-elegir-un-dia-con-buen-tiempo-para-negociar-claim]] · [[aku-elegir-una-hora-temprana-para-negociar-claim]] · [[aku-dar-al-rival-una-silla-baja-y-blanda-claim]]
+**related** ↔ [[aku-leyes-persuasion-cialdini-concept]] · [[aku-elegir-un-dia-con-buen-tiempo-para-negociar-claim]] · [[aku-elegir-una-hora-temprana-para-negociar-claim]] · [[aku-dar-al-rival-una-silla-baja-y-blanda-claim]] · [[aku-the-tangled-mind-la-cognicion-es-corporal-embodied-concept]] · [[aku-el-priming-influye-en-la-conducta-claim]] · [[aku-el-rojo-refuerza-la-atraccion-social-claim]]

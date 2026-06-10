@@ -31,6 +31,7 @@ relations:
   related:
     - aku-los-colores-saturados-parecen-mas-cercanos-claim
     - aku-los-colores-saturados-parecen-mas-grandes-claim
+    - aku-reducir-el-color-en-anuncios-llenos-de-texto-claim
 
 sources:
   - raw/libros/kolenda/color-psychology2/color-psychology2.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept]]
 
-**related** ↔ [[aku-los-colores-saturados-parecen-mas-cercanos-claim]] · [[aku-los-colores-saturados-parecen-mas-grandes-claim]]
+**related** ↔ [[aku-los-colores-saturados-parecen-mas-cercanos-claim]] · [[aku-los-colores-saturados-parecen-mas-grandes-claim]] · [[aku-reducir-el-color-en-anuncios-llenos-de-texto-claim]]

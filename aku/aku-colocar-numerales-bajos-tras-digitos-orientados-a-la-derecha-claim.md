@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-reducir-el-digito-izquierdo-en-uno-charm-pricing-claim
+    - aku-insertar-un-bloqueo-a-la-derecha-del-anuncio-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-reducir-el-digito-izquierdo-en-uno-charm-pricing-claim]]
+**related** ↔ [[aku-reducir-el-digito-izquierdo-en-uno-charm-pricing-claim]] · [[aku-insertar-un-bloqueo-a-la-derecha-del-anuncio-claim]]

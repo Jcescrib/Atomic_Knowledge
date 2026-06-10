@@ -32,6 +32,7 @@ relations:
     - aku-envases-redondeados-parecen-dulces-y-femeninos-claim
     - aku-fuentes-angulares-transmiten-formalidad-y-masculinidad-claim
     - aku-envases-angulares-parecen-masculinos-y-picantes-claim
+    - aku-kinesthetic-fluency-la-articulacion-bucal-significa-concept
 
 sources:
   - raw/libros/kolenda/font-psychology-by-nick-kolenda/font-psychology-by-nick-kolenda.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]
 
-**related** ↔ [[aku-envases-redondeados-parecen-dulces-y-femeninos-claim]] · [[aku-fuentes-angulares-transmiten-formalidad-y-masculinidad-claim]] · [[aku-envases-angulares-parecen-masculinos-y-picantes-claim]]
+**related** ↔ [[aku-envases-redondeados-parecen-dulces-y-femeninos-claim]] · [[aku-fuentes-angulares-transmiten-formalidad-y-masculinidad-claim]] · [[aku-envases-angulares-parecen-masculinos-y-picantes-claim]] · [[aku-kinesthetic-fluency-la-articulacion-bucal-significa-concept]]

@@ -35,6 +35,7 @@ relations:
     - aku-evitar-texto-cursi-y-exclamaciones-en-los-botones-claim
     - aku-mencionar-las-palabras-click-o-tap-cerca-del-boton-claim
     - aku-mostrar-opciones-de-rechazo-feas-claim
+    - aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept
 
 sources:
   - raw/libros/kolenda/ecommerce-psychology-by-nick-kolenda/ecommerce-psychology-by-nick-kolenda.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]
 
-**related** ↔ [[aku-landing-page-permiso-concept]] · [[aku-mostrar-una-afirmacion-positiva-cerca-del-boton-claim]] · [[aku-traer-los-botones-al-primer-plano-claim]] · [[aku-evitar-texto-cursi-y-exclamaciones-en-los-botones-claim]] · [[aku-mencionar-las-palabras-click-o-tap-cerca-del-boton-claim]] · [[aku-mostrar-opciones-de-rechazo-feas-claim]]
+**related** ↔ [[aku-landing-page-permiso-concept]] · [[aku-mostrar-una-afirmacion-positiva-cerca-del-boton-claim]] · [[aku-traer-los-botones-al-primer-plano-claim]] · [[aku-evitar-texto-cursi-y-exclamaciones-en-los-botones-claim]] · [[aku-mencionar-las-palabras-click-o-tap-cerca-del-boton-claim]] · [[aku-mostrar-opciones-de-rechazo-feas-claim]] · [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]

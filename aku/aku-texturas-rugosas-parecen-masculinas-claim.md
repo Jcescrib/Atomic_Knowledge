@@ -33,6 +33,7 @@ relations:
     - aku-los-fonemas-anteriores-evocan-lo-femenino-claim
     - aku-envases-angulares-parecen-masculinos-y-picantes-claim
     - aku-envases-redondeados-parecen-dulces-y-femeninos-claim
+    - aku-grupo-1-vs-grupo-2-de-fonemas-concept
 
 sources:
   - raw/libros/kolenda/packaging-psychology-by-nick-kolenda/packaging-psychology-by-nick-kolenda.md
@@ -56,4 +57,4 @@ status_note: ""
 
 **supports** → [[aku-packaging-psychology-el-envase-comunica-por-heuristicas-visuales-concept]]
 
-**related** ↔ [[aku-fuentes-bold-transmiten-poder-y-masculinidad-claim]] · [[aku-los-fonemas-anteriores-evocan-lo-femenino-claim]] · [[aku-envases-angulares-parecen-masculinos-y-picantes-claim]] · [[aku-envases-redondeados-parecen-dulces-y-femeninos-claim]]
+**related** ↔ [[aku-fuentes-bold-transmiten-poder-y-masculinidad-claim]] · [[aku-los-fonemas-anteriores-evocan-lo-femenino-claim]] · [[aku-envases-angulares-parecen-masculinos-y-picantes-claim]] · [[aku-envases-redondeados-parecen-dulces-y-femeninos-claim]] · [[aku-grupo-1-vs-grupo-2-de-fonemas-concept]]

@@ -46,6 +46,8 @@ relations:
   contradicts: []
   related:
     - aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept
+    - aku-inyectar-algo-absurdo-o-sin-sentido-en-el-anuncio-claim
+    - aku-perceptual-fluency-la-forma-visual-de-la-letra-significa-concept
 
 sources:
   - raw/libros/kolenda/packaging-psychology-by-nick-kolenda/packaging-psychology-by-nick-kolenda.md
@@ -60,4 +62,4 @@ status_note: ""
 
 **supported_by** ← [[aku-envases-altos-parecen-mas-grandes-claim]] · [[aku-envases-altos-parecen-sanos-y-lujosos-claim]] · [[aku-envases-anchos-parecen-mas-pesados-claim]] · [[aku-envases-pequenos-parecen-densos-y-potentes-claim]] · [[aku-envases-redondeados-parecen-dulces-y-femeninos-claim]] · [[aku-mantener-la-forma-completa-del-envase-claim]] · [[aku-ventanas-transparentes-transmiten-frescura-claim]] · [[aku-quitar-el-envase-de-productos-frescos-claim]] · [[aku-envases-mate-parecen-mas-sanos-claim]] · [[aku-texturas-rugosas-parecen-masculinas-claim]] · [[aku-el-vidrio-parece-mejor-que-el-plastico-claim]] · [[aku-las-marcas-desconocidas-deben-invertir-en-packaging-claim]] · [[aku-mostrar-mas-unidades-de-producto-en-el-envase-claim]] · [[aku-mostrar-imagenes-realistas-en-productos-emocionales-claim]] · [[aku-colocar-productos-pesados-abajo-o-a-la-derecha-claim]] · [[aku-elegir-colores-claros-y-naturales-para-productos-sanos-claim]] · [[aku-envases-angulares-parecen-masculinos-y-picantes-claim]]
 
-**related** ↔ [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]
+**related** ↔ [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]] · [[aku-inyectar-algo-absurdo-o-sin-sentido-en-el-anuncio-claim]] · [[aku-perceptual-fluency-la-forma-visual-de-la-letra-significa-concept]]

@@ -40,6 +40,9 @@ relations:
     - aku-vocales-anteriores-vs-posteriores-concept
     - aku-consonantes-fricativas-vs-oclusivas-concept
     - aku-blending-los-sonidos-adquieren-significado-por-mezcla-concept
+    - aku-envases-redondeados-parecen-dulces-y-femeninos-claim
+    - aku-envases-angulares-parecen-masculinos-y-picantes-claim
+    - aku-texturas-rugosas-parecen-masculinas-claim
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -56,4 +59,4 @@ status_note: ""
 
 **supported_by** ← [[aku-sound-symbolism-los-sonidos-tienen-significado-concept]] · [[aku-los-fonemas-del-grupo-1-parecen-pequenos-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-sofisticados-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-brillantes-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-angulares-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-rapidos-claim]]
 
-**related** ↔ [[aku-consonantes-sonoras-vs-sordas-concept]] · [[aku-vocales-anteriores-vs-posteriores-concept]] · [[aku-consonantes-fricativas-vs-oclusivas-concept]] · [[aku-blending-los-sonidos-adquieren-significado-por-mezcla-concept]]
+**related** ↔ [[aku-consonantes-sonoras-vs-sordas-concept]] · [[aku-vocales-anteriores-vs-posteriores-concept]] · [[aku-consonantes-fricativas-vs-oclusivas-concept]] · [[aku-blending-los-sonidos-adquieren-significado-por-mezcla-concept]] · [[aku-envases-redondeados-parecen-dulces-y-femeninos-claim]] · [[aku-envases-angulares-parecen-masculinos-y-picantes-claim]] · [[aku-texturas-rugosas-parecen-masculinas-claim]]

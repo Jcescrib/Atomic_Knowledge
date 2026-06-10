@@ -32,6 +32,7 @@ relations:
   related:
     - aku-mercados-apropiados-para-cada-ventaja-claim
     - aku-subir-los-atributos-indeseables-por-encima-de-cero-zero-comparison-claim
+    - aku-anadir-ligeras-diferencias-de-precio-en-el-surtido-claim
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -46,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]] · [[aku-evaluamos-por-comparaciones-relativas-context-effects-concept]]
 
-**related** ↔ [[aku-mercados-apropiados-para-cada-ventaja-claim]] · [[aku-subir-los-atributos-indeseables-por-encima-de-cero-zero-comparison-claim]]
+**related** ↔ [[aku-mercados-apropiados-para-cada-ventaja-claim]] · [[aku-subir-los-atributos-indeseables-por-encima-de-cero-zero-comparison-claim]] · [[aku-anadir-ligeras-diferencias-de-precio-en-el-surtido-claim]]

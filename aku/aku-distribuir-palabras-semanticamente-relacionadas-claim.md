@@ -34,6 +34,7 @@ relations:
     - aku-empezar-cada-frase-con-el-objeto-previo-claim
     - aku-unir-frases-con-conectores-coherence-markers-claim
     - aku-restringir-a-una-sola-interpretacion-claim
+    - aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept
 
 sources:
   - raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
 
-**related** ↔ [[aku-anunciar-en-el-mismo-dominio-tematico-claim]] · [[aku-palabras-frases-persuasivas-concept]] · [[aku-empezar-cada-frase-con-el-objeto-previo-claim]] · [[aku-unir-frases-con-conectores-coherence-markers-claim]] · [[aku-restringir-a-una-sola-interpretacion-claim]]
+**related** ↔ [[aku-anunciar-en-el-mismo-dominio-tematico-claim]] · [[aku-palabras-frases-persuasivas-concept]] · [[aku-empezar-cada-frase-con-el-objeto-previo-claim]] · [[aku-unir-frases-con-conectores-coherence-markers-claim]] · [[aku-restringir-a-una-sola-interpretacion-claim]] · [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]

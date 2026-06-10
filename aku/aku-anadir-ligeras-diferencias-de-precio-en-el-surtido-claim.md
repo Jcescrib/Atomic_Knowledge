@@ -32,6 +32,7 @@ relations:
     - aku-mostrar-precios-altos-antes-que-bajos-claim
     - aku-distinguir-visualmente-la-opcion-mas-cara-claim
     - aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim
+    - aku-alinear-las-caracteristicas-con-las-de-la-competencia-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -46,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-mostrar-precios-altos-antes-que-bajos-claim]] · [[aku-distinguir-visualmente-la-opcion-mas-cara-claim]] · [[aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim]]
+**related** ↔ [[aku-mostrar-precios-altos-antes-que-bajos-claim]] · [[aku-distinguir-visualmente-la-opcion-mas-cara-claim]] · [[aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim]] · [[aku-alinear-las-caracteristicas-con-las-de-la-competencia-claim]]

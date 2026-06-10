@@ -37,6 +37,8 @@ relations:
     - aku-simulation-fluency-simulamos-resultado-menos-proceso-concept
     - aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept
     - aku-primar-la-capacidad-del-rival-de-ejecutar-el-trato-claim
+    - aku-choice-psychology-tres-mecanismos-de-decision-concept
+    - aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept
 
 sources:
   - raw/libros/kolenda/irtb-audiobook-pdf/irtb-audiobook-pdf.md
@@ -53,6 +55,6 @@ status_note: "Fuente = PDF companion de figuras del audiolibro (sin prosa extrai
 
 ## Relaciones
 
-**related** ↔ [[aku-simulation-fluency-simulamos-resultado-menos-proceso-concept]] · [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]] · [[aku-primar-la-capacidad-del-rival-de-ejecutar-el-trato-claim]]
+**related** ↔ [[aku-simulation-fluency-simulamos-resultado-menos-proceso-concept]] · [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]] · [[aku-primar-la-capacidad-del-rival-de-ejecutar-el-trato-claim]] · [[aku-choice-psychology-tres-mecanismos-de-decision-concept]] · [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
 **supported_by** ← [[aku-ayudar-al-usuario-a-imaginar-tocar-el-producto-claim]]

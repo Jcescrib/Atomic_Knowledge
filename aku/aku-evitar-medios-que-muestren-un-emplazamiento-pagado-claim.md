@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-publicidad-nativa-concept
+    - aku-enmarcar-la-info-de-venta-como-info-de-formacion-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-publicidad-nativa-concept]]
+**related** ↔ [[aku-publicidad-nativa-concept]] · [[aku-enmarcar-la-info-de-venta-como-info-de-formacion-claim]]

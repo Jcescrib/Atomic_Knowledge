@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-el-rojo-aumenta-la-agresividad-y-el-dominio-claim
+    - aku-llevar-cafe-y-pasteles-a-la-negociacion-claim
+    - aku-the-tangled-mind-la-cognicion-es-corporal-embodied-concept
 
 sources:
   - raw/libros/kolenda/color-psychology2/color-psychology2.md
@@ -48,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept]]
 
-**related** ↔ [[aku-el-rojo-aumenta-la-agresividad-y-el-dominio-claim]]
+**related** ↔ [[aku-el-rojo-aumenta-la-agresividad-y-el-dominio-claim]] · [[aku-llevar-cafe-y-pasteles-a-la-negociacion-claim]] · [[aku-the-tangled-mind-la-cognicion-es-corporal-embodied-concept]]

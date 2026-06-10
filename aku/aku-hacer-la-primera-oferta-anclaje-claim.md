@@ -34,6 +34,7 @@ relations:
     - aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim
     - aku-pedir-un-rango-alto-y-preciso-claim
     - aku-primar-la-capacidad-del-rival-de-ejecutar-el-trato-claim
+    - aku-un-numero-mayor-sugiere-un-producto-mas-avanzado-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -54,4 +55,4 @@ status_note: ""
 
 **supported_by** ← [[aku-anchor-principle-concept]]
 
-**related** ↔ [[aku-exponer-a-cualquier-numero-alto-eleva-el-precio-de-referencia-claim]] · [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]] · [[aku-pedir-un-rango-alto-y-preciso-claim]] · [[aku-primar-la-capacidad-del-rival-de-ejecutar-el-trato-claim]]
+**related** ↔ [[aku-exponer-a-cualquier-numero-alto-eleva-el-precio-de-referencia-claim]] · [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]] · [[aku-pedir-un-rango-alto-y-preciso-claim]] · [[aku-primar-la-capacidad-del-rival-de-ejecutar-el-trato-claim]] · [[aku-un-numero-mayor-sugiere-un-producto-mas-avanzado-claim]]

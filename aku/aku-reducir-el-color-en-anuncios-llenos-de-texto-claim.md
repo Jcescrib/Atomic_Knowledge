@@ -32,6 +32,7 @@ relations:
     - aku-regla-20-texto-facebook-ads-claim
     - aku-reducir-el-color-para-eventos-distantes-en-el-tiempo-claim
     - aku-retratar-el-problema-en-escala-de-grises-contrast-fluency-claim
+    - aku-los-colores-saturados-orientan-al-detalle-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -46,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-regla-20-texto-facebook-ads-claim]] · [[aku-reducir-el-color-para-eventos-distantes-en-el-tiempo-claim]] · [[aku-retratar-el-problema-en-escala-de-grises-contrast-fluency-claim]]
+**related** ↔ [[aku-regla-20-texto-facebook-ads-claim]] · [[aku-reducir-el-color-para-eventos-distantes-en-el-tiempo-claim]] · [[aku-retratar-el-problema-en-escala-de-grises-contrast-fluency-claim]] · [[aku-los-colores-saturados-orientan-al-detalle-claim]]

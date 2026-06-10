@@ -33,6 +33,7 @@ relations:
     - aku-posicionar-las-imagenes-a-la-izquierda-del-anuncio-claim
     - aku-mostrar-precios-en-fuente-pequena-claim
     - aku-agrupar-palabras-de-tamano-pequeno-junto-al-precio-claim
+    - aku-insertar-un-bloqueo-a-la-derecha-del-anuncio-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -52,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-colocar-productos-pesados-abajo-o-a-la-derecha-claim]] · [[aku-posicionar-las-imagenes-a-la-izquierda-del-anuncio-claim]] · [[aku-mostrar-precios-en-fuente-pequena-claim]] · [[aku-agrupar-palabras-de-tamano-pequeno-junto-al-precio-claim]]
+**related** ↔ [[aku-colocar-productos-pesados-abajo-o-a-la-derecha-claim]] · [[aku-posicionar-las-imagenes-a-la-izquierda-del-anuncio-claim]] · [[aku-mostrar-precios-en-fuente-pequena-claim]] · [[aku-agrupar-palabras-de-tamano-pequeno-junto-al-precio-claim]] · [[aku-insertar-un-bloqueo-a-la-derecha-del-anuncio-claim]]

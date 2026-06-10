@@ -33,6 +33,7 @@ relations:
     - aku-elegir-precios-con-menos-silabas-claim
     - aku-quitar-la-coma-de-los-precios-claim
     - aku-insertar-aliteracion-en-los-precios-claim
+    - aku-fuentes-complejas-o-dificiles-de-leer-transmiten-exclusividad-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -53,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-usar-numeros-compuestos-no-primos-en-el-nombre-claim]] · [[aku-elegir-precios-con-menos-silabas-claim]] · [[aku-quitar-la-coma-de-los-precios-claim]] · [[aku-insertar-aliteracion-en-los-precios-claim]]
+**related** ↔ [[aku-usar-numeros-compuestos-no-primos-en-el-nombre-claim]] · [[aku-elegir-precios-con-menos-silabas-claim]] · [[aku-quitar-la-coma-de-los-precios-claim]] · [[aku-insertar-aliteracion-en-los-precios-claim]] · [[aku-fuentes-complejas-o-dificiles-de-leer-transmiten-exclusividad-claim]]
