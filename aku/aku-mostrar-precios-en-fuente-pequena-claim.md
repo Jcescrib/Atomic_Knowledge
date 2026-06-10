@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-que-los-rasgos-linguisticos-reflejen-el-mensaje-claim
+    - aku-quitar-la-coma-de-los-precios-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-que-los-rasgos-linguisticos-reflejen-el-mensaje-claim]]
+**related** ↔ [[aku-que-los-rasgos-linguisticos-reflejen-el-mensaje-claim]] · [[aku-quitar-la-coma-de-los-precios-claim]]

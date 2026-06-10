@@ -29,7 +29,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-ordenar-los-terminos-por-importancia-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -45,3 +46,5 @@ status_note: ""
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
 **constrains** → [[aku-mentalidad-de-pastel-fijo-fixed-pie-concept]]
+
+**related** ↔ [[aku-ordenar-los-terminos-por-importancia-claim]]

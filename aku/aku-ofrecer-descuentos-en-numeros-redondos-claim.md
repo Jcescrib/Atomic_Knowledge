@@ -30,6 +30,9 @@ relations:
   contradicts: []
   related:
     - aku-ser-preciso-con-precios-grandes-claim
+    - aku-colocar-el-precio-de-oferta-debajo-del-original-claim
+    - aku-usar-precios-redondos-en-el-contexto-adecuado-claim
+    - aku-precios-redondos-en-compras-de-conveniencia-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -44,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-ser-preciso-con-precios-grandes-claim]]
+**related** ↔ [[aku-ser-preciso-con-precios-grandes-claim]] · [[aku-colocar-el-precio-de-oferta-debajo-del-original-claim]] · [[aku-usar-precios-redondos-en-el-contexto-adecuado-claim]] · [[aku-precios-redondos-en-compras-de-conveniencia-claim]]

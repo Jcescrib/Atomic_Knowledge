@@ -22,6 +22,7 @@ epistemic_type: sourced
 relations:
   supported_by:
     - aku-subir-los-atributos-indeseables-por-encima-de-cero-zero-comparison-claim
+    - aku-alinear-las-caracteristicas-con-las-de-la-competencia-claim
   supports:
     - aku-choice-psychology-tres-mecanismos-de-decision-concept
   constrained_by: []
@@ -60,4 +61,4 @@ status_note: ""
 
 **related** ↔ [[aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim]] · [[aku-methods-step1-moldear-la-percepcion-concept]] · [[aku-decoy-offer-concept]]
 
-**supported_by** ← [[aku-subir-los-atributos-indeseables-por-encima-de-cero-zero-comparison-claim]]
+**supported_by** ← [[aku-subir-los-atributos-indeseables-por-encima-de-cero-zero-comparison-claim]] · [[aku-alinear-las-caracteristicas-con-las-de-la-competencia-claim]]

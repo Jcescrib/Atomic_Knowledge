@@ -30,7 +30,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-nombre-descriptivo-concept
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -46,3 +47,5 @@ status_note: ""
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-matriz-de-nombres-wording-x-relevance-concept]]
 
 **supported_by** ← [[aku-construir-nombres-asociativos-method]]
+
+**related** ↔ [[aku-nombre-descriptivo-concept]]

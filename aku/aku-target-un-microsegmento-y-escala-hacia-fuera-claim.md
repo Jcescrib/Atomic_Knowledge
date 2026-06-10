@@ -32,6 +32,7 @@ relations:
   related:
     - aku-mass-market-strategy-concept
     - aku-segmentado-strategy-concept
+    - aku-usa-maven-groups-para-promover-contenido-claim
 
 sources:
   - raw/libros/kolenda/pages-viral-marketing/pages-viral-marketing.md
@@ -62,4 +63,4 @@ status_note: ""
 
 **supports** → [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]] · [[aku-micronetwork-red-densa-con-interconexiones-fuertes-concept]]
 
-**related** ↔ [[aku-mass-market-strategy-concept]] · [[aku-segmentado-strategy-concept]]
+**related** ↔ [[aku-mass-market-strategy-concept]] · [[aku-segmentado-strategy-concept]] · [[aku-usa-maven-groups-para-promover-contenido-claim]]

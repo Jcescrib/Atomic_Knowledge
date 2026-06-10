@@ -31,6 +31,7 @@ relations:
   contradicts: []
   related:
     - aku-colocar-la-opcion-objetivo-en-el-centro-claim
+    - aku-recomendar-una-opcion-genera-momentum-claim
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -45,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-ux-effort-minimizar-el-esfuerzo-concept]] · [[aku-ayudar-al-usuario-a-elegir-opciones-choice-overload-claim]]
 
-**related** ↔ [[aku-colocar-la-opcion-objetivo-en-el-centro-claim]]
+**related** ↔ [[aku-colocar-la-opcion-objetivo-en-el-centro-claim]] · [[aku-recomendar-una-opcion-genera-momentum-claim]]

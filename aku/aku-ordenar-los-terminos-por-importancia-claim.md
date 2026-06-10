@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-mentalidad-de-pastel-fijo-fixed-pie-concept
+    - aku-abordar-todos-los-terminos-relevantes-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
-**related** ↔ [[aku-mentalidad-de-pastel-fijo-fixed-pie-concept]]
+**related** ↔ [[aku-mentalidad-de-pastel-fijo-fixed-pie-concept]] · [[aku-abordar-todos-los-terminos-relevantes-claim]]

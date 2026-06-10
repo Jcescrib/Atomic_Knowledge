@@ -31,6 +31,7 @@ relations:
   related:
     - aku-eliminar-los-signos-de-exclamacion-claim
     - aku-cuidar-el-flujo-fonetico-de-las-palabras-claim
+    - aku-describir-el-siguiente-paso-concreto-en-el-boton-claim
 
 sources:
   - raw/libros/kolenda/ecommerce-psychology-by-nick-kolenda/ecommerce-psychology-by-nick-kolenda.md
@@ -45,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]
 
-**related** ↔ [[aku-eliminar-los-signos-de-exclamacion-claim]] · [[aku-cuidar-el-flujo-fonetico-de-las-palabras-claim]]
+**related** ↔ [[aku-eliminar-los-signos-de-exclamacion-claim]] · [[aku-cuidar-el-flujo-fonetico-de-las-palabras-claim]] · [[aku-describir-el-siguiente-paso-concreto-en-el-boton-claim]]

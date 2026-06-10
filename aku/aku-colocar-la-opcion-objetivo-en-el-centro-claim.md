@@ -31,6 +31,7 @@ relations:
   related:
     - aku-la-mirada-eye-gaze-capta-la-atencion-claim
     - aku-recomendar-una-opcion-por-defecto-claim
+    - aku-anadir-senales-sensoriales-para-captar-atencion-claim
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -45,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
 
-**related** ↔ [[aku-la-mirada-eye-gaze-capta-la-atencion-claim]] · [[aku-recomendar-una-opcion-por-defecto-claim]]
+**related** ↔ [[aku-la-mirada-eye-gaze-capta-la-atencion-claim]] · [[aku-recomendar-una-opcion-por-defecto-claim]] · [[aku-anadir-senales-sensoriales-para-captar-atencion-claim]]

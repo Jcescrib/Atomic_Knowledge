@@ -26,7 +26,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-retratar-el-problema-en-escala-de-grises-contrast-fluency-claim
   supports: []
   constrained_by: []
   constrains: []
@@ -55,3 +56,5 @@ status_note: "Fuente = PDF companion de figuras del audiolibro (sin prosa extrai
 ## Relaciones
 
 **related** ↔ [[aku-la-escala-de-decision-equilibra-cuatro-conductas-concept]] · [[aku-dar-al-rival-una-silla-baja-y-blanda-claim]] · [[aku-kinesthetic-fluency-la-articulacion-bucal-significa-concept]] · [[aku-ordenar-las-consonantes-de-delante-hacia-atras-inward-claim]]
+
+**supported_by** ← [[aku-retratar-el-problema-en-escala-de-grises-contrast-fluency-claim]]

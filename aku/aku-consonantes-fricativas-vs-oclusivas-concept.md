@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-grupo-1-vs-grupo-2-de-fonemas-concept
+    - aku-consonantes-sonoras-vs-sordas-concept
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
 
-**related** ↔ [[aku-grupo-1-vs-grupo-2-de-fonemas-concept]]
+**related** ↔ [[aku-grupo-1-vs-grupo-2-de-fonemas-concept]] · [[aku-consonantes-sonoras-vs-sordas-concept]]

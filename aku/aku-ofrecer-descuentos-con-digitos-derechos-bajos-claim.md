@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-giveaway-descuento-10-30-margen
+    - aku-reducir-todos-los-digitos-en-el-precio-de-oferta-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-giveaway-descuento-10-30-margen]]
+**related** ↔ [[aku-giveaway-descuento-10-30-margen]] · [[aku-reducir-todos-los-digitos-en-el-precio-de-oferta-claim]]

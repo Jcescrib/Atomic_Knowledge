@@ -29,7 +29,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-mostrar-una-afirmacion-positiva-cerca-del-boton-claim
 
 sources:
   - raw/libros/kolenda/ecommerce-psychology-by-nick-kolenda/ecommerce-psychology-by-nick-kolenda.md
@@ -43,3 +44,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]] · [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]
+
+**related** ↔ [[aku-mostrar-una-afirmacion-positiva-cerca-del-boton-claim]]

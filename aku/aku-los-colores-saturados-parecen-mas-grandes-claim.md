@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-el-color-capta-la-atencion-claim
+    - aku-los-colores-saturados-parecen-mas-cercanos-claim
+    - aku-hacer-que-el-precio-de-oferta-se-vea-distinto-contrast-fluency-claim
 
 sources:
   - raw/libros/kolenda/color-psychology2/color-psychology2.md
@@ -48,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept]]
 
-**related** ↔ [[aku-el-color-capta-la-atencion-claim]]
+**related** ↔ [[aku-el-color-capta-la-atencion-claim]] · [[aku-los-colores-saturados-parecen-mas-cercanos-claim]] · [[aku-hacer-que-el-precio-de-oferta-se-vea-distinto-contrast-fluency-claim]]

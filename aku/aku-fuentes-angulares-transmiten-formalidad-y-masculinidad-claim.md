@@ -31,6 +31,7 @@ relations:
   related:
     - aku-fuentes-redondeadas-transmiten-comodidad-y-suavidad-claim
     - aku-los-fonemas-del-grupo-1-parecen-angulares-claim
+    - aku-envases-angulares-parecen-masculinos-y-picantes-claim
 
 sources:
   - raw/libros/kolenda/font-psychology-by-nick-kolenda/font-psychology-by-nick-kolenda.md
@@ -45,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]
 
-**related** ↔ [[aku-fuentes-redondeadas-transmiten-comodidad-y-suavidad-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-angulares-claim]]
+**related** ↔ [[aku-fuentes-redondeadas-transmiten-comodidad-y-suavidad-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-angulares-claim]] · [[aku-envases-angulares-parecen-masculinos-y-picantes-claim]]

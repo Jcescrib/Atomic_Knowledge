@@ -28,7 +28,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-ofrecer-descuentos-con-digitos-derechos-bajos-claim
+    - aku-colocar-el-precio-de-oferta-debajo-del-original-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -46,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
+
+**related** ↔ [[aku-ofrecer-descuentos-con-digitos-derechos-bajos-claim]] · [[aku-colocar-el-precio-de-oferta-debajo-del-original-claim]]

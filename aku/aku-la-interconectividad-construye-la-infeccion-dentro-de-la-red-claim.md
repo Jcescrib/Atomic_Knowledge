@@ -34,6 +34,7 @@ relations:
     - aku-coeficiente-viralidad-concept
     - aku-apuntar-solo-a-influencers-no-basta-tres-problemas-claim
     - aku-elige-temas-y-segmentos-de-alta-interconectividad-verticales-claim
+    - aku-usa-maven-groups-para-promover-contenido-claim
 
 sources:
   - raw/libros/kolenda/pages-viral-marketing/pages-viral-marketing.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]] · [[aku-micronetwork-red-densa-con-interconexiones-fuertes-concept]]
 
-**related** ↔ [[aku-motor-crecimiento-viral-concept]] · [[aku-coeficiente-viralidad-concept]] · [[aku-apuntar-solo-a-influencers-no-basta-tres-problemas-claim]] · [[aku-elige-temas-y-segmentos-de-alta-interconectividad-verticales-claim]]
+**related** ↔ [[aku-motor-crecimiento-viral-concept]] · [[aku-coeficiente-viralidad-concept]] · [[aku-apuntar-solo-a-influencers-no-basta-tres-problemas-claim]] · [[aku-elige-temas-y-segmentos-de-alta-interconectividad-verticales-claim]] · [[aku-usa-maven-groups-para-promover-contenido-claim]]

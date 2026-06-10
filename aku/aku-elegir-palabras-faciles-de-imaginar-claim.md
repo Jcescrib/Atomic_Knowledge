@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-reemplazar-beneficios-vagos-por-ejemplos-concretos-claim
+    - aku-ayudar-al-usuario-a-imaginar-tocar-el-producto-claim
+    - aku-ofrecer-aplicaciones-relevantes-del-producto-claim
 
 sources:
   - raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -44,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
 
-**related** ↔ [[aku-reemplazar-beneficios-vagos-por-ejemplos-concretos-claim]]
+**related** ↔ [[aku-reemplazar-beneficios-vagos-por-ejemplos-concretos-claim]] · [[aku-ayudar-al-usuario-a-imaginar-tocar-el-producto-claim]] · [[aku-ofrecer-aplicaciones-relevantes-del-producto-claim]]

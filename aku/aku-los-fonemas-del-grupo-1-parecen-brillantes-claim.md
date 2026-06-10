@@ -33,6 +33,9 @@ relations:
     - aku-los-fonemas-anteriores-evocan-lo-femenino-claim
     - aku-los-fonemas-del-grupo-1-parecen-rapidos-claim
     - aku-los-fonemas-del-grupo-1-parecen-sofisticados-claim
+    - aku-los-fonemas-del-grupo-1-evocan-corto-plazo-claim
+    - aku-los-fonemas-del-grupo-1-parecen-angulares-claim
+    - aku-los-fonemas-del-grupo-1-parecen-pequenos-claim
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -47,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-grupo-1-vs-grupo-2-de-fonemas-concept]]
 
-**related** ↔ [[aku-los-fonemas-anteriores-evocan-lo-femenino-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-rapidos-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-sofisticados-claim]]
+**related** ↔ [[aku-los-fonemas-anteriores-evocan-lo-femenino-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-rapidos-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-sofisticados-claim]] · [[aku-los-fonemas-del-grupo-1-evocan-corto-plazo-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-angulares-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-pequenos-claim]]

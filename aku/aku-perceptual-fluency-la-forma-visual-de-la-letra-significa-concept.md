@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept
+    - aku-sound-symbolism-los-sonidos-tienen-significado-concept
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
 
-**related** ↔ [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]
+**related** ↔ [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]] · [[aku-sound-symbolism-los-sonidos-tienen-significado-concept]]

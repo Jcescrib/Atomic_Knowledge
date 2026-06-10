@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-insertar-aliteracion-en-los-precios-claim
+    - aku-secuenciar-palabras-en-orden-alfabetico-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-insertar-aliteracion-en-los-precios-claim]]
+**related** ↔ [[aku-insertar-aliteracion-en-los-precios-claim]] · [[aku-secuenciar-palabras-en-orden-alfabetico-claim]]

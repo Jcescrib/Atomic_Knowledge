@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-display-video-in-stream-concept
+    - aku-inmersar-al-espectador-en-perspectiva-de-primera-persona-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-display-video-in-stream-concept]]
+**related** ↔ [[aku-display-video-in-stream-concept]] · [[aku-inmersar-al-espectador-en-perspectiva-de-primera-persona-claim]]

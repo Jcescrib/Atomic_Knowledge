@@ -32,6 +32,7 @@ relations:
     - aku-exponer-a-cualquier-numero-alto-eleva-el-precio-de-referencia-claim
     - aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim
     - aku-cuatro-upsells-concept
+    - aku-los-numeros-en-el-nombre-implican-atributos-del-producto-claim
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -46,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
 
-**related** ↔ [[aku-exponer-a-cualquier-numero-alto-eleva-el-precio-de-referencia-claim]] · [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]] · [[aku-cuatro-upsells-concept]]
+**related** ↔ [[aku-exponer-a-cualquier-numero-alto-eleva-el-precio-de-referencia-claim]] · [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]] · [[aku-cuatro-upsells-concept]] · [[aku-los-numeros-en-el-nombre-implican-atributos-del-producto-claim]]

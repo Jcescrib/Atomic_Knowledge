@@ -23,6 +23,7 @@ relations:
   supported_by: []
   supports:
     - aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept
+    - aku-the-tangled-mind-la-cognicion-es-corporal-embodied-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -46,6 +47,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
+**supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]] · [[aku-the-tangled-mind-la-cognicion-es-corporal-embodied-concept]]
 
 **related** ↔ [[aku-hacer-que-el-precio-de-oferta-se-vea-distinto-contrast-fluency-claim]]

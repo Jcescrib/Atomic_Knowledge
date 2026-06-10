@@ -24,6 +24,7 @@ relations:
     - aku-los-colores-frios-reducen-la-percepcion-de-espera-claim
   supports:
     - aku-ux-effort-minimizar-el-esfuerzo-concept
+    - aku-ux-cinco-guidelines-de-usabilidad-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -43,7 +44,7 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-ux-effort-minimizar-el-esfuerzo-concept]]
+**supports** → [[aku-ux-effort-minimizar-el-esfuerzo-concept]] · [[aku-ux-cinco-guidelines-de-usabilidad-concept]]
 
 **supported_by** ← [[aku-los-colores-frios-reducen-la-percepcion-de-espera-claim]]
 

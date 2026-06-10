@@ -33,6 +33,7 @@ relations:
     - aku-cialdini-reciprocidad-concept
     - aku-methods-step6-impulsar-su-momentum-concept
     - aku-methods-step5-optimizar-tu-mensaje-concept
+    - aku-methods-step4-habituar-tu-mensaje-concept
 
 sources:
   - raw/libros/kolenda/audiobook-images-methods-of-persuasion/audiobook-images-methods-of-persuasion.md
@@ -50,4 +51,4 @@ status_note: "Fuente = stub de imagenes del audiolibro; anclado en Figure 0.1 (f
 
 **supported_by** ← [[aku-el-priming-influye-en-la-conducta-claim]]
 
-**related** ↔ [[aku-cialdini-reciprocidad-concept]] · [[aku-methods-step6-impulsar-su-momentum-concept]] · [[aku-methods-step5-optimizar-tu-mensaje-concept]]
+**related** ↔ [[aku-cialdini-reciprocidad-concept]] · [[aku-methods-step6-impulsar-su-momentum-concept]] · [[aku-methods-step5-optimizar-tu-mensaje-concept]] · [[aku-methods-step4-habituar-tu-mensaje-concept]]

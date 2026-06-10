@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-mayusculas-minusculas-y-caja-mixta-transmiten-poder-compasion-y-legibilidad-claim
+    - aku-la-caja-mixta-es-la-mas-legible-claim
 
 sources:
   - raw/libros/kolenda/font-psychology-by-nick-kolenda/font-psychology-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]
 
-**related** ↔ [[aku-mayusculas-minusculas-y-caja-mixta-transmiten-poder-compasion-y-legibilidad-claim]]
+**related** ↔ [[aku-mayusculas-minusculas-y-caja-mixta-transmiten-poder-compasion-y-legibilidad-claim]] · [[aku-la-caja-mixta-es-la-mas-legible-claim]]

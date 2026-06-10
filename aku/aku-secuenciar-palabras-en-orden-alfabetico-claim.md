@@ -30,6 +30,9 @@ relations:
   contradicts: []
   related:
     - aku-insertar-aliteracion-en-los-precios-claim
+    - aku-rimar-el-eslogan-o-la-llamada-a-la-accion-claim
+    - aku-eliminar-los-signos-de-exclamacion-claim
+    - aku-cuidar-el-flujo-fonetico-de-las-palabras-claim
 
 sources:
   - raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -44,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
 
-**related** ↔ [[aku-insertar-aliteracion-en-los-precios-claim]]
+**related** ↔ [[aku-insertar-aliteracion-en-los-precios-claim]] · [[aku-rimar-el-eslogan-o-la-llamada-a-la-accion-claim]] · [[aku-eliminar-los-signos-de-exclamacion-claim]] · [[aku-cuidar-el-flujo-fonetico-de-las-palabras-claim]]

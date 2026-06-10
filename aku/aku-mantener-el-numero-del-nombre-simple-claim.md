@@ -31,6 +31,7 @@ relations:
   related:
     - aku-simplicidad-permite-ajuste-rapido-claim
     - aku-simple-law-of-combat-concept
+    - aku-los-numeros-redondos-en-el-nombre-se-prefieren-claim
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -45,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
 
-**related** ↔ [[aku-simplicidad-permite-ajuste-rapido-claim]] · [[aku-simple-law-of-combat-concept]]
+**related** ↔ [[aku-simplicidad-permite-ajuste-rapido-claim]] · [[aku-simple-law-of-combat-concept]] · [[aku-los-numeros-redondos-en-el-nombre-se-prefieren-claim]]

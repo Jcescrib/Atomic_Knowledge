@@ -29,7 +29,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-cumplir-las-expectativas-del-usuario-consistencia-claim
 
 sources:
   - raw/libros/kolenda/user-experience2/user-experience2.md
@@ -43,3 +44,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ux-understanding-comunicar-con-claridad-concept]] · [[aku-ux-cinco-guidelines-de-usabilidad-concept]]
+
+**related** ↔ [[aku-cumplir-las-expectativas-del-usuario-consistencia-claim]]

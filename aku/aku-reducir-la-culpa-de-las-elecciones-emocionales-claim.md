@@ -20,7 +20,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-ofrecer-incentivos-de-caridad-en-productos-emocionales-claim
   supports:
     - aku-choice-psychology-tres-mecanismos-de-decision-concept
     - aku-la-escala-de-decision-equilibra-cuatro-conductas-concept
@@ -53,3 +54,5 @@ status_note: ""
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]] · [[aku-la-escala-de-decision-equilibra-cuatro-conductas-concept]]
 
 **related** ↔ [[aku-atribuir-el-descuento-al-producto-emocional-del-bundle-claim]] · [[aku-extraer-esfuerzo-antes-de-elecciones-emocionales-claim]] · [[aku-anadir-mas-atributos-a-las-descripciones-de-productos-emocionales-claim]] · [[aku-aislar-las-opciones-emocionales-claim]]
+
+**supported_by** ← [[aku-ofrecer-incentivos-de-caridad-en-productos-emocionales-claim]]

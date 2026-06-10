@@ -29,7 +29,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-describir-el-siguiente-paso-concreto-en-el-boton-claim
+    - aku-mostrar-opciones-de-rechazo-feas-claim
+    - aku-mostrar-el-unboxing-del-producto-claim
 
 sources:
   - raw/libros/kolenda/ecommerce-psychology-by-nick-kolenda/ecommerce-psychology-by-nick-kolenda.md
@@ -43,3 +46,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]] · [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
+
+**related** ↔ [[aku-describir-el-siguiente-paso-concreto-en-el-boton-claim]] · [[aku-mostrar-opciones-de-rechazo-feas-claim]] · [[aku-mostrar-el-unboxing-del-producto-claim]]

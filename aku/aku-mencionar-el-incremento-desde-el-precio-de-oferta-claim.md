@@ -28,7 +28,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-regla-del-100-porcentaje-bajo-100-absoluto-sobre-100-method
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -42,3 +43,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
+
+**related** ↔ [[aku-regla-del-100-porcentaje-bajo-100-absoluto-sobre-100-method]]

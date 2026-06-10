@@ -29,7 +29,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-mejorar-tus-batnas-antes-de-negociar-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -45,3 +46,5 @@ status_note: ""
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
 **supported_by** ← [[aku-batna-mejor-alternativa-a-un-acuerdo-negociado-concept]]
+
+**related** ↔ [[aku-mejorar-tus-batnas-antes-de-negociar-claim]]

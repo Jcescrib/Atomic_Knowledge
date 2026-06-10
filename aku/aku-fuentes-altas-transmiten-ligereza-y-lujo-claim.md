@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-fuentes-cortas-vs-altas-transmiten-estabilidad-vs-ligereza-claim
+    - aku-lineas-finas-y-altas-en-fuentes-transmiten-belleza-claim
 
 sources:
   - raw/libros/kolenda/font-psychology-by-nick-kolenda/font-psychology-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]
 
-**related** ↔ [[aku-fuentes-cortas-vs-altas-transmiten-estabilidad-vs-ligereza-claim]]
+**related** ↔ [[aku-fuentes-cortas-vs-altas-transmiten-estabilidad-vs-ligereza-claim]] · [[aku-lineas-finas-y-altas-en-fuentes-transmiten-belleza-claim]]

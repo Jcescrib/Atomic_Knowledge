@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-esquema-de-color-complementario-claim
+    - aku-describir-el-siguiente-paso-concreto-en-el-boton-claim
+    - aku-ayudar-al-usuario-a-imaginar-tocar-el-producto-claim
 
 sources:
   - raw/libros/kolenda/ecommerce-psychology-by-nick-kolenda/ecommerce-psychology-by-nick-kolenda.md
@@ -48,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]
 
-**related** ↔ [[aku-esquema-de-color-complementario-claim]]
+**related** ↔ [[aku-esquema-de-color-complementario-claim]] · [[aku-describir-el-siguiente-paso-concreto-en-el-boton-claim]] · [[aku-ayudar-al-usuario-a-imaginar-tocar-el-producto-claim]]

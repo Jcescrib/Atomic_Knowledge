@@ -28,7 +28,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-elegir-precios-con-menos-silabas-claim
+    - aku-mostrar-precios-en-fuente-pequena-claim
+    - aku-nombres-cortos-para-productos-pequenos-largos-para-grandes-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -42,3 +45,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
+
+**related** ↔ [[aku-elegir-precios-con-menos-silabas-claim]] · [[aku-mostrar-precios-en-fuente-pequena-claim]] · [[aku-nombres-cortos-para-productos-pequenos-largos-para-grandes-claim]]

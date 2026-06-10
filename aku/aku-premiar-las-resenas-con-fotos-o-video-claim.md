@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-insertar-contenido-persuasivo-en-las-resenas-claim
+    - aku-mostrar-nombres-reales-en-las-resenas-claim
+    - aku-mostrar-prueba-de-consumo-compra-verificada-en-las-resenas-claim
 
 sources:
   - raw/libros/kolenda/ecommerce-psychology-by-nick-kolenda/ecommerce-psychology-by-nick-kolenda.md
@@ -44,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]
 
-**related** ↔ [[aku-insertar-contenido-persuasivo-en-las-resenas-claim]]
+**related** ↔ [[aku-insertar-contenido-persuasivo-en-las-resenas-claim]] · [[aku-mostrar-nombres-reales-en-las-resenas-claim]] · [[aku-mostrar-prueba-de-consumo-compra-verificada-en-las-resenas-claim]]

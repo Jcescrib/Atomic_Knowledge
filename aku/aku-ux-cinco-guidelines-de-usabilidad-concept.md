@@ -29,6 +29,8 @@ relations:
     - aku-comunicar-el-resultado-esperado-de-las-interacciones-claim
     - aku-adaptarse-al-objetivo-o-workflow-del-usuario-claim
     - aku-guiar-el-flujo-visual-de-la-mirada-claim
+    - aku-adaptarse-a-la-habilidad-o-conocimiento-del-usuario-claim
+    - aku-minimizar-los-perjuicios-de-la-espera-claim
   supports: []
   constrained_by: []
   constrains: []
@@ -48,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-ux-focus-guiar-la-atencion-concept]] · [[aku-ux-understanding-comunicar-con-claridad-concept]] · [[aku-ux-effort-minimizar-el-esfuerzo-concept]] · [[aku-ux-errors-prevenir-y-recuperar-errores-concept]] · [[aku-ux-compatibility-adaptarse-al-usuario-concept]] · [[aku-comunicar-el-resultado-esperado-de-las-interacciones-claim]] · [[aku-adaptarse-al-objetivo-o-workflow-del-usuario-claim]] · [[aku-guiar-el-flujo-visual-de-la-mirada-claim]]
+**supported_by** ← [[aku-ux-focus-guiar-la-atencion-concept]] · [[aku-ux-understanding-comunicar-con-claridad-concept]] · [[aku-ux-effort-minimizar-el-esfuerzo-concept]] · [[aku-ux-errors-prevenir-y-recuperar-errores-concept]] · [[aku-ux-compatibility-adaptarse-al-usuario-concept]] · [[aku-comunicar-el-resultado-esperado-de-las-interacciones-claim]] · [[aku-adaptarse-al-objetivo-o-workflow-del-usuario-claim]] · [[aku-guiar-el-flujo-visual-de-la-mirada-claim]] · [[aku-adaptarse-a-la-habilidad-o-conocimiento-del-usuario-claim]] · [[aku-minimizar-los-perjuicios-de-la-espera-claim]]

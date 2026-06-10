@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-diversificar-palabras-sintaxis-y-emociones-claim
+    - aku-que-los-rasgos-linguisticos-reflejen-el-mensaje-claim
+    - aku-variar-las-emociones-del-contenido-claim
 
 sources:
   - raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -44,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
 
-**related** ↔ [[aku-diversificar-palabras-sintaxis-y-emociones-claim]]
+**related** ↔ [[aku-diversificar-palabras-sintaxis-y-emociones-claim]] · [[aku-que-los-rasgos-linguisticos-reflejen-el-mensaje-claim]] · [[aku-variar-las-emociones-del-contenido-claim]]

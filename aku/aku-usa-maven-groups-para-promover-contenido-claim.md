@@ -31,6 +31,9 @@ relations:
   contradicts: []
   related:
     - aku-construir-lista-tres-vias-concept
+    - aku-elige-temas-y-segmentos-de-alta-interconectividad-verticales-claim
+    - aku-la-interconectividad-construye-la-infeccion-dentro-de-la-red-claim
+    - aku-target-un-microsegmento-y-escala-hacia-fuera-claim
 
 sources:
   - raw/libros/kolenda/pages-viral-marketing/pages-viral-marketing.md
@@ -45,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]] · [[aku-las-epidemias-virales-se-originan-en-micronetworks-claim]]
 
-**related** ↔ [[aku-construir-lista-tres-vias-concept]]
+**related** ↔ [[aku-construir-lista-tres-vias-concept]] · [[aku-elige-temas-y-segmentos-de-alta-interconectividad-verticales-claim]] · [[aku-la-interconectividad-construye-la-infeccion-dentro-de-la-red-claim]] · [[aku-target-un-microsegmento-y-escala-hacia-fuera-claim]]

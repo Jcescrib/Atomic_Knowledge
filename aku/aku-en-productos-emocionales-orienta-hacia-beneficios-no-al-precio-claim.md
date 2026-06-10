@@ -20,7 +20,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-muestra-el-producto-antes-del-precio-en-productos-emocionales-claim
   supports:
     - aku-pricing-psychology-el-precio-es-percepcion-concept
   constrained_by: []
@@ -50,3 +51,5 @@ status_note: ""
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
 **related** ↔ [[aku-coste-percibido-amplio-concept]]
+
+**supported_by** ← [[aku-muestra-el-producto-antes-del-precio-en-productos-emocionales-claim]]

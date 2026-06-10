@@ -24,6 +24,7 @@ relations:
   supports:
     - aku-choice-psychology-tres-mecanismos-de-decision-concept
     - aku-la-escala-de-decision-equilibra-cuatro-conductas-concept
+    - aku-reducir-la-culpa-de-las-elecciones-emocionales-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -46,6 +47,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]] · [[aku-la-escala-de-decision-equilibra-cuatro-conductas-concept]]
+**supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]] · [[aku-la-escala-de-decision-equilibra-cuatro-conductas-concept]] · [[aku-reducir-la-culpa-de-las-elecciones-emocionales-claim]]
 
 **related** ↔ [[aku-anadir-mas-atributos-a-las-descripciones-de-productos-emocionales-claim]] · [[aku-extraer-esfuerzo-antes-de-elecciones-emocionales-claim]] · [[aku-aislar-las-opciones-emocionales-claim]] · [[aku-usar-lenguaje-asertivo-en-productos-emocionales-claim]]

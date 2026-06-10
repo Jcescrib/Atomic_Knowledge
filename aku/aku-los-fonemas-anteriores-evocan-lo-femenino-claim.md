@@ -36,6 +36,9 @@ relations:
     - aku-los-fonemas-del-grupo-1-evocan-corto-plazo-claim
     - aku-los-fonemas-del-grupo-1-parecen-brillantes-claim
     - aku-los-fonemas-del-grupo-1-parecen-rapidos-claim
+    - aku-los-fonemas-del-grupo-1-parecen-pequenos-claim
+    - aku-los-fonemas-del-grupo-1-parecen-sofisticados-claim
+    - aku-los-fonemas-del-grupo-1-parecen-angulares-claim
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -50,6 +53,6 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-vocales-anteriores-vs-posteriores-concept]]
 
-**related** ↔ [[aku-terminar-el-nombre-con-fonema-de-genero-claim]] · [[aku-texturas-rugosas-parecen-masculinas-claim]] · [[aku-los-fonemas-del-grupo-1-evocan-corto-plazo-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-brillantes-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-rapidos-claim]]
+**related** ↔ [[aku-terminar-el-nombre-con-fonema-de-genero-claim]] · [[aku-texturas-rugosas-parecen-masculinas-claim]] · [[aku-los-fonemas-del-grupo-1-evocan-corto-plazo-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-brillantes-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-rapidos-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-pequenos-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-sofisticados-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-angulares-claim]]
 
 **supported_by** ← [[aku-consonantes-sonoras-vs-sordas-concept]]

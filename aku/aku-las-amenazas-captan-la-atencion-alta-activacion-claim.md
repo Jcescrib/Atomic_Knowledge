@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-el-cerebro-es-una-maquina-de-prediccion-que-codifica-cues-claim
+    - aku-usar-anuncios-positivos-para-ser-recordado-claim
 
 sources:
   - raw/libros/kolenda/visual-attention-by-nick-kolenda/visual-attention-by-nick-kolenda.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept]]
 
-**related** ↔ [[aku-el-cerebro-es-una-maquina-de-prediccion-que-codifica-cues-claim]]
+**related** ↔ [[aku-el-cerebro-es-una-maquina-de-prediccion-que-codifica-cues-claim]] · [[aku-usar-anuncios-positivos-para-ser-recordado-claim]]

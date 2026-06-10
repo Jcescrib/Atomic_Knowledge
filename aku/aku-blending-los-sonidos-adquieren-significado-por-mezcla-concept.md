@@ -29,7 +29,8 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-grupo-1-vs-grupo-2-de-fonemas-concept
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -49,3 +50,5 @@ status_note: ""
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
 
 **supported_by** ← [[aku-fonestemas-grupos-de-sonido-con-significado-concept]]
+
+**related** ↔ [[aku-grupo-1-vs-grupo-2-de-fonemas-concept]]

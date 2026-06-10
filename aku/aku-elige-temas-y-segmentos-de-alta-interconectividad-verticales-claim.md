@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-la-interconectividad-construye-la-infeccion-dentro-de-la-red-claim
+    - aku-usa-maven-groups-para-promover-contenido-claim
+    - aku-apuntar-solo-a-influencers-no-basta-tres-problemas-claim
 
 sources:
   - raw/libros/kolenda/pages-viral-marketing/pages-viral-marketing.md
@@ -44,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]]
 
-**related** ↔ [[aku-la-interconectividad-construye-la-infeccion-dentro-de-la-red-claim]]
+**related** ↔ [[aku-la-interconectividad-construye-la-infeccion-dentro-de-la-red-claim]] · [[aku-usa-maven-groups-para-promover-contenido-claim]] · [[aku-apuntar-solo-a-influencers-no-basta-tres-problemas-claim]]

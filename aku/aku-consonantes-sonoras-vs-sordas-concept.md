@@ -32,6 +32,7 @@ relations:
   contradicts: []
   related:
     - aku-grupo-1-vs-grupo-2-de-fonemas-concept
+    - aku-consonantes-fricativas-vs-oclusivas-concept
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -46,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-los-fonemas-anteriores-evocan-lo-femenino-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-pequenos-claim]]
 
-**related** ↔ [[aku-grupo-1-vs-grupo-2-de-fonemas-concept]]
+**related** ↔ [[aku-grupo-1-vs-grupo-2-de-fonemas-concept]] · [[aku-consonantes-fricativas-vs-oclusivas-concept]]

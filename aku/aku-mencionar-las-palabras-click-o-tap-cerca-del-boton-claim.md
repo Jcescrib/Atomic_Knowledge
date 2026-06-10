@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-terminar-los-anuncios-ilustrando-el-siguiente-paso-claim
+    - aku-ayudar-al-usuario-a-imaginar-tocar-el-producto-claim
 
 sources:
   - raw/libros/kolenda/ecommerce-psychology-by-nick-kolenda/ecommerce-psychology-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]
 
-**related** ↔ [[aku-terminar-los-anuncios-ilustrando-el-siguiente-paso-claim]]
+**related** ↔ [[aku-terminar-los-anuncios-ilustrando-el-siguiente-paso-claim]] · [[aku-ayudar-al-usuario-a-imaginar-tocar-el-producto-claim]]

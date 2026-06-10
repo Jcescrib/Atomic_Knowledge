@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-evitar-texto-cursi-y-exclamaciones-en-los-botones-claim
+    - aku-secuenciar-palabras-en-orden-alfabetico-claim
 
 sources:
   - raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
 
-**related** ↔ [[aku-evitar-texto-cursi-y-exclamaciones-en-los-botones-claim]]
+**related** ↔ [[aku-evitar-texto-cursi-y-exclamaciones-en-los-botones-claim]] · [[aku-secuenciar-palabras-en-orden-alfabetico-claim]]

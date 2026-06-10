@@ -28,7 +28,9 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-ofrecer-descuentos-en-numeros-redondos-claim
+    - aku-reducir-todos-los-digitos-en-el-precio-de-oferta-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -46,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
+
+**related** ↔ [[aku-ofrecer-descuentos-en-numeros-redondos-claim]] · [[aku-reducir-todos-los-digitos-en-el-precio-de-oferta-claim]]

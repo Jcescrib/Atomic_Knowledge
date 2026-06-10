@@ -31,6 +31,8 @@ relations:
   related:
     - aku-herramientas-marketing-influencers-concept
     - aku-la-interconectividad-construye-la-infeccion-dentro-de-la-red-claim
+    - aku-las-epidemias-virales-se-originan-en-micronetworks-claim
+    - aku-elige-temas-y-segmentos-de-alta-interconectividad-verticales-claim
 
 sources:
   - raw/libros/kolenda/pages-viral-marketing/pages-viral-marketing.md
@@ -60,4 +62,4 @@ status_note: ""
 
 **supports** → [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]]
 
-**related** ↔ [[aku-herramientas-marketing-influencers-concept]] · [[aku-la-interconectividad-construye-la-infeccion-dentro-de-la-red-claim]]
+**related** ↔ [[aku-herramientas-marketing-influencers-concept]] · [[aku-la-interconectividad-construye-la-infeccion-dentro-de-la-red-claim]] · [[aku-las-epidemias-virales-se-originan-en-micronetworks-claim]] · [[aku-elige-temas-y-segmentos-de-alta-interconectividad-verticales-claim]]

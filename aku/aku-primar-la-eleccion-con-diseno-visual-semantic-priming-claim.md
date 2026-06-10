@@ -32,6 +32,8 @@ relations:
     - aku-el-priming-influye-en-la-conducta-claim
     - aku-identidad-de-marca-concept
     - aku-atributos-marca-concept
+    - aku-elegir-colores-claros-y-naturales-para-productos-sanos-claim
+    - aku-los-colores-desaturados-grayscale-transmiten-lujo-claim
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -46,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
 
-**related** ↔ [[aku-el-priming-influye-en-la-conducta-claim]] · [[aku-identidad-de-marca-concept]] · [[aku-atributos-marca-concept]]
+**related** ↔ [[aku-el-priming-influye-en-la-conducta-claim]] · [[aku-identidad-de-marca-concept]] · [[aku-atributos-marca-concept]] · [[aku-elegir-colores-claros-y-naturales-para-productos-sanos-claim]] · [[aku-los-colores-desaturados-grayscale-transmiten-lujo-claim]]

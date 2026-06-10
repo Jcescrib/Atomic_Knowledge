@@ -31,7 +31,8 @@ relations:
     - aku-los-nonwords-son-mejores-para-seo-claim
   supports:
     - aku-naming-metodologia-cinco-pasos-concept
-  constrained_by: []
+  constrained_by:
+    - aku-los-nombres-memorables-tienen-congruencia-moderada-claim
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
@@ -56,3 +57,5 @@ status_note: ""
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
 
 **supported_by** ← [[aku-los-nombres-neologisticos-son-los-mas-protegibles-trademark-claim]] · [[aku-nombre-asociativo-concept]] · [[aku-nombre-neologistico-concept]] · [[aku-nombre-deviant-concept]] · [[aku-nombre-descriptivo-concept]] · [[aku-construir-nombres-asociativos-method]] · [[aku-los-nombres-deviant-son-los-mas-emocionales-claim]] · [[aku-los-nonwords-son-mejores-para-seo-claim]]
+
+**constrained_by** ← [[aku-los-nombres-memorables-tienen-congruencia-moderada-claim]]

@@ -23,6 +23,7 @@ relations:
   supported_by: []
   supports:
     - aku-pricing-psychology-el-precio-es-percepcion-concept
+    - aku-en-productos-emocionales-orienta-hacia-beneficios-no-al-precio-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -44,6 +45,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
+**supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]] · [[aku-en-productos-emocionales-orienta-hacia-beneficios-no-al-precio-claim]]
 
 **related** ↔ [[aku-aislar-las-opciones-emocionales-claim]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-beneficio-funcional-concept]]

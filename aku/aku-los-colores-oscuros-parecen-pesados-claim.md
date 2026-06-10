@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-elegir-colores-claros-y-naturales-para-productos-sanos-claim
+    - aku-fuentes-cortas-vs-altas-transmiten-estabilidad-vs-ligereza-claim
 
 sources:
   - raw/libros/kolenda/color-psychology2/color-psychology2.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-color-psychology-el-significado-del-color-depende-del-contexto-y-la-experiencia-concept]]
 
-**related** ↔ [[aku-elegir-colores-claros-y-naturales-para-productos-sanos-claim]]
+**related** ↔ [[aku-elegir-colores-claros-y-naturales-para-productos-sanos-claim]] · [[aku-fuentes-cortas-vs-altas-transmiten-estabilidad-vs-ligereza-claim]]
