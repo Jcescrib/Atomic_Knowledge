@@ -34,6 +34,12 @@ aku_links:
     - id: aku-rivalidad-competitiva-concept
       link_validation: llm-proposed
       link_note: "Fuerza 5 (síntesis)."
+    - id: aku-lleva-un-book-scouting-report-de-tu-competencia-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cinco-fuerzas-porter-concept desde [50-cent] (cross-source)"
+    - id: aku-nunca-terminas-de-competir-al-final-compites-contigo-mismo-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-rivalidad-competitiva-concept desde [50-cent] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -120,5 +126,5 @@ sector en el que compite.
 
 ## Relaciones
 
-**justified_by** ← [[aku-cinco-fuerzas-porter-concept]] · [[aku-amenaza-sustitutivos-concept]] · [[aku-barreras-de-entrada-concept]] · [[aku-poder-proveedores-concept]] · [[aku-poder-compradores-concept]] · [[aku-rivalidad-competitiva-concept]]
+**justified_by** ← [[aku-cinco-fuerzas-porter-concept]] · [[aku-amenaza-sustitutivos-concept]] · [[aku-barreras-de-entrada-concept]] · [[aku-poder-proveedores-concept]] · [[aku-poder-compradores-concept]] · [[aku-rivalidad-competitiva-concept]] · [[aku-lleva-un-book-scouting-report-de-tu-competencia-method]] · [[aku-nunca-terminas-de-competir-al-final-compites-contigo-mismo-claim]]
 **complementary** ↔ [[taku-analisis-pest]] · [[taku-ciclo-vida-producto]] · [[taku-estrategia-oceano-azul]] · [[taku-estrategias-genericas-porter]]

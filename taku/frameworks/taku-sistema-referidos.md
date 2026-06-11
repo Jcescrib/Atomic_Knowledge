@@ -23,6 +23,24 @@ aku_links:
     - id: aku-referral-growth-exponential-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-recomendacion-vs-viralizacion-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-pedir-referidos-como-oferta-claim desde [power-mba] (cross-source)"
+    - id: aku-motor-crecimiento-viral-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-pedir-referidos-como-oferta-claim desde [power-mba] (cross-source)"
+    - id: aku-coeficiente-viralidad-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-referral-growth-exponential-claim desde [power-mba] (cross-source)"
+    - id: aku-boca-a-boca-supera-campana-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-referral-growth-exponential-claim desde [power-mba] (cross-source)"
+    - id: aku-valor-independiente-usuarios-modelo-lineal-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-referral-growth-exponential-claim desde [power-mba] (cross-source)"
+    - id: aku-churn-rate-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-referral-growth-exponential-claim desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -96,4 +114,4 @@ a las acciones que dan mejores resultados.
 
 ## Relaciones
 
-**justified_by** ← [[aku-goodwill-genera-referidos-concept]] · [[aku-seis-formas-mas-valor-referidos-concept]] · [[aku-pedir-referidos-como-oferta-claim]] · [[aku-referral-growth-exponential-claim]]
+**justified_by** ← [[aku-goodwill-genera-referidos-concept]] · [[aku-seis-formas-mas-valor-referidos-concept]] · [[aku-pedir-referidos-como-oferta-claim]] · [[aku-referral-growth-exponential-claim]] · [[aku-recomendacion-vs-viralizacion-concept]] · [[aku-motor-crecimiento-viral-concept]] · [[aku-coeficiente-viralidad-concept]] · [[aku-boca-a-boca-supera-campana-claim]] · [[aku-valor-independiente-usuarios-modelo-lineal-claim]] · [[aku-churn-rate-concept]]

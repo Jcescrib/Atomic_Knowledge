@@ -23,6 +23,21 @@ aku_links:
     - id: aku-valores-marca-concept
       link_validation: llm-proposed
       link_note: "Los valores: en qué cree la empresa y que guían las acciones."
+    - id: aku-feedback-hacia-arriba-cadena-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cascada-estrategica-ejecucion-concept desde [jocko] (cross-source)"
+    - id: aku-prioritize-and-execute-pasos-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cascada-estrategica-ejecucion-concept desde [jocko] (cross-source)"
+    - id: aku-commanders-intent-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-proposito-mision-concept desde [jocko] (cross-source)"
+    - id: aku-mejores-lideres-mision-no-ego-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-proposito-mision-concept desde [jocko] (cross-source)"
+    - id: aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-vision-empresa-concept desde [50-cent] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -99,5 +114,5 @@ se operacionalizan con OKR.
 
 ## Relaciones
 
-**justified_by** ← [[aku-cascada-estrategica-ejecucion-concept]] · [[aku-proposito-mision-concept]] · [[aku-vision-empresa-concept]] · [[aku-valores-marca-concept]]
+**justified_by** ← [[aku-cascada-estrategica-ejecucion-concept]] · [[aku-proposito-mision-concept]] · [[aku-vision-empresa-concept]] · [[aku-valores-marca-concept]] · [[aku-feedback-hacia-arriba-cadena-claim]] · [[aku-prioritize-and-execute-pasos-method]] · [[aku-commanders-intent-concept]] · [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim]]
 **complementary** ↔ [[taku-okr]] · [[taku-circulo-dorado]]

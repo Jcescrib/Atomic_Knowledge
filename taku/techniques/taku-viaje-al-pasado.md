@@ -17,6 +17,12 @@ aku_links:
     - id: aku-diagnostico-estrategico-personal-concept
       link_validation: llm-proposed
       link_note: "Herramienta del diagnóstico para conocer motivaciones."
+    - id: aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-motivaciones-desde-experiencias-pasadas-concept desde [james-clear] (cross-source)"
+    - id: aku-conocer-tu-valor-y-extraer-el-maximo-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-diagnostico-estrategico-personal-concept desde [50-cent] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -102,6 +108,6 @@ mirada ajena.
 
 ## Relaciones
 
-**justified_by** ← [[aku-motivaciones-desde-experiencias-pasadas-concept]] · [[aku-diagnostico-estrategico-personal-concept]]
+**justified_by** ← [[aku-motivaciones-desde-experiencias-pasadas-concept]] · [[aku-diagnostico-estrategico-personal-concept]] · [[aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim]] · [[aku-conocer-tu-valor-y-extraer-el-maximo-concept]]
 **precedes** → [[taku-email-descubre-tus-poderes]]
 **follows** ← [[taku-test-del-aeropuerto]]

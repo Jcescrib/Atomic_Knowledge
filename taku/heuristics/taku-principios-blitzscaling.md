@@ -24,6 +24,12 @@ aku_links:
     - id: aku-nueve-principios-blitzscaling-concept
       link_validation: llm-proposed
       link_note: "Paraguas que define los nueve principios de gestión contraintuitivos que esta heurística enumera y operacionaliza."
+    - id: aku-los-que-no-arriesgan-no-ganan-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-blitzscaling-concept desde [jocko] (cross-source)"
+    - id: aku-calcular-y-mitigar-riesgo-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-blitzscaling-concept desde [jocko] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -97,5 +103,5 @@ fastscaling o scale-up clásico).
 
 ## Relaciones
 
-**justified_by** ← [[aku-blitzscaling-concept]] · [[aku-etapas-organizacion-concept]] · [[aku-nueve-principios-blitzscaling-concept]]
+**justified_by** ← [[aku-blitzscaling-concept]] · [[aku-etapas-organizacion-concept]] · [[aku-nueve-principios-blitzscaling-concept]] · [[aku-los-que-no-arriesgan-no-ganan-claim]] · [[aku-calcular-y-mitigar-riesgo-claim]]
 **complementary** ↔ [[taku-blitzscaling]]

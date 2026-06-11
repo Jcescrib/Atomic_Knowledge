@@ -20,6 +20,30 @@ aku_links:
     - id: aku-el-ego-mas-dificil-es-el-propio-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-humildad-asumir-errores-claim desde [50-cent] (cross-source)"
+    - id: aku-asumir-equivocarse-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-humildad-asumir-errores-claim desde [power-mba] (cross-source)"
+    - id: aku-instila-y-exige-disciplina-tolerancia-cero-al-conflicto-interno-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-extreme-ownership-concept desde [50-cent] (cross-source)"
+    - id: aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-extreme-ownership-concept desde [50-cent] (cross-source)"
+    - id: aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-extreme-ownership-concept desde [50-cent] (cross-source)"
+    - id: aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-extreme-ownership-concept desde [50-cent] (cross-source)"
+    - id: aku-el-deseo-y-el-ego-nublan-la-realidad-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-el-ego-mas-dificil-es-el-propio-claim desde [naval] (cross-source)"
+    - id: aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-el-ego-mas-dificil-es-el-propio-claim desde [naval] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -90,4 +114,4 @@ Revisa si vuelves a perder el control de palabras/actos con esa persona.
 
 ## Relaciones
 
-**justified_by** ← [[aku-humildad-asumir-errores-claim]] · [[aku-extreme-ownership-concept]] · [[aku-el-ego-mas-dificil-es-el-propio-claim]]
+**justified_by** ← [[aku-humildad-asumir-errores-claim]] · [[aku-extreme-ownership-concept]] · [[aku-el-ego-mas-dificil-es-el-propio-claim]] · [[aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim]] · [[aku-asumir-equivocarse-claim]] · [[aku-instila-y-exige-disciplina-tolerancia-cero-al-conflicto-interno-claim]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]] · [[aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept]] · [[aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept]] · [[aku-el-deseo-y-el-ego-nublan-la-realidad-claim]] · [[aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim]]

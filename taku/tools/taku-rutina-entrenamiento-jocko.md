@@ -20,6 +20,15 @@ aku_links:
     - id: aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-para-tener-paz-mental-primero-hay-que-tener-paz-del-cuerpo-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-calentamiento-progresivo-method desde [naval] (cross-source)"
+    - id: aku-haz-algo-fisico-cada-dia-el-mejor-ejercicio-es-el-que-haras-cada-dia-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim desde [naval] (cross-source)"
+    - id: aku-habit-tracker-no-rompas-la-cadena-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim desde [james-clear] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -79,4 +88,4 @@ Sesión diaria predawn con el equipo del home gym; estiramiento 10-15 min como p
 
 ## Relaciones
 
-**justified_by** ← [[aku-estructura-workout-pull-push-lift-squat-method]] · [[aku-calentamiento-progresivo-method]] · [[aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim]]
+**justified_by** ← [[aku-estructura-workout-pull-push-lift-squat-method]] · [[aku-calentamiento-progresivo-method]] · [[aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim]] · [[aku-para-tener-paz-mental-primero-hay-que-tener-paz-del-cuerpo-claim]] · [[aku-haz-algo-fisico-cada-dia-el-mejor-ejercicio-es-el-que-haras-cada-dia-claim]] · [[aku-habit-tracker-no-rompas-la-cadena-method]]

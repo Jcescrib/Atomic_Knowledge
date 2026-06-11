@@ -17,6 +17,15 @@ aku_links:
     - id: aku-proposito-personal-sostenibilidad-claim
       link_validation: llm-proposed
       link_note: "Justifica por qué vivir según el propósito importa: felicidad y rendimiento sostenibles."
+    - id: aku-corazon-de-hustler-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-ikigai-concept desde [50-cent] (cross-source)"
+    - id: aku-buscar-fuera-de-ti-la-felicidad-es-la-delusion-fundamental-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-proposito-personal-sostenibilidad-claim desde [naval] (cross-source)"
+    - id: aku-incluso-en-la-muerte-hay-good-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-proposito-personal-sostenibilidad-claim desde [jocko] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -92,5 +101,5 @@ significado) y con la autoevaluación del área «Alma».
 
 ## Relaciones
 
-**justified_by** ← [[aku-ikigai-concept]] · [[aku-proposito-personal-sostenibilidad-claim]]
+**justified_by** ← [[aku-ikigai-concept]] · [[aku-proposito-personal-sostenibilidad-claim]] · [[aku-corazon-de-hustler-concept]] · [[aku-buscar-fuera-de-ti-la-felicidad-es-la-delusion-fundamental-claim]] · [[aku-incluso-en-la-muerte-hay-good-claim]]
 **complementary** ↔ [[taku-objetivos-personales]]

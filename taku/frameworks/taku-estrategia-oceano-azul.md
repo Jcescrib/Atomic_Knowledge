@@ -47,6 +47,15 @@ aku_links:
     - id: aku-mas-valor-menos-coste-no-tradeoff-claim
       link_validation: llm-proposed
       link_note: "Claim que rechaza el trade-off tradicional valor-coste."
+    - id: aku-grand-slam-offer-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-innovacion-valor-concept desde [hormozi] (cross-source)"
+    - id: aku-ampliar-gap-valor-precio-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-innovacion-valor-concept desde [hormozi] (cross-source)"
+    - id: aku-value-equation-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-matriz-rice-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -140,7 +149,7 @@ Estrategia formulada por Kim & Mauborgne (INSEAD, 1990; libro de 2005) para crea
 
 ## Relaciones
 
-**justified_by** ← [[aku-oceano-azul-concept]] · [[aku-oceano-rojo-concept]] · [[aku-innovacion-valor-concept]] · [[aku-curva-valor-concept]] · [[aku-matriz-rice-concept]] · [[aku-no-clientes-concept]] · [[aku-factores-competitivos-concept]] · [[aku-empresas-borregos-claim]] · [[aku-mas-valor-menos-coste-no-tradeoff-claim]]
+**justified_by** ← [[aku-oceano-azul-concept]] · [[aku-oceano-rojo-concept]] · [[aku-innovacion-valor-concept]] · [[aku-curva-valor-concept]] · [[aku-matriz-rice-concept]] · [[aku-no-clientes-concept]] · [[aku-factores-competitivos-concept]] · [[aku-empresas-borregos-claim]] · [[aku-mas-valor-menos-coste-no-tradeoff-claim]] · [[aku-grand-slam-offer-concept]] · [[aku-ampliar-gap-valor-precio-claim]] · [[aku-value-equation-concept]]
 
 **complementary** ↔ [[taku-power-value-modelo]] · [[taku-cinco-fuerzas-porter]] · [[taku-four-actions-eric]]
 **alternative_to** ↔ [[taku-estrategias-genericas-porter]]

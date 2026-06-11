@@ -17,6 +17,15 @@ aku_links:
     - id: aku-no-sobrerreaccionar-mantener-la-calma-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-reflect-and-diminish-method desde [james-clear] (cross-source)"
+    - id: aku-48laws-44-mirror-effect-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-reflect-and-diminish-method desde [robert-greene] (cross-source)"
+    - id: aku-48laws-39-stir-up-waters-to-catch-fish-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-no-sobrerreaccionar-mantener-la-calma-claim desde [robert-greene] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -80,4 +89,4 @@ Funciona con ira, tristeza, envidia e incluso humor (sonríe y luego reconduce a
 
 ## Relaciones
 
-**justified_by** ← [[aku-reflect-and-diminish-method]] · [[aku-no-sobrerreaccionar-mantener-la-calma-claim]]
+**justified_by** ← [[aku-reflect-and-diminish-method]] · [[aku-no-sobrerreaccionar-mantener-la-calma-claim]] · [[aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept]] · [[aku-48laws-44-mirror-effect-concept]] · [[aku-48laws-39-stir-up-waters-to-catch-fish-concept]]

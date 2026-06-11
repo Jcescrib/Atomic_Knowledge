@@ -37,6 +37,24 @@ aku_links:
     - id: aku-segmentos-de-clientes-concept
       link_validation: llm-proposed
       link_note: "Concepto base sobre el que las tres estrategias operan."
+    - id: aku-riches-in-niches-pricing-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-mass-market-strategy-concept desde [hormozi] (cross-source)"
+    - id: aku-target-un-microsegmento-y-escala-hacia-fuera-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-mass-market-strategy-concept desde [kolenda] (cross-source)"
+    - id: aku-segmentar-la-copy-por-necesidades-distintas-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-segmentado-strategy-concept desde [kolenda] (cross-source)"
+    - id: aku-commit-to-niche-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-nicho-strategy-concept desde [hormozi] (cross-source)"
+    - id: aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-segmentado-strategy-concept desde [kolenda] (cross-source)"
+    - id: aku-tres-mercados-eternos-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-nicho-strategy-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -124,4 +142,4 @@ Comparativa mass market vs nicho en 4 retos clave:
 
 ## Relaciones
 
-**justified_by** ← [[aku-mass-market-strategy-concept]] · [[aku-segmentado-strategy-concept]] · [[aku-nicho-strategy-concept]] · [[aku-nicho-recomendado-lanzamiento-claim]] · [[aku-segmentos-de-clientes-concept]]
+**justified_by** ← [[aku-mass-market-strategy-concept]] · [[aku-segmentado-strategy-concept]] · [[aku-nicho-strategy-concept]] · [[aku-nicho-recomendado-lanzamiento-claim]] · [[aku-segmentos-de-clientes-concept]] · [[aku-riches-in-niches-pricing-claim]] · [[aku-target-un-microsegmento-y-escala-hacia-fuera-claim]] · [[aku-segmentar-la-copy-por-necesidades-distintas-claim]] · [[aku-commit-to-niche-claim]] · [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]] · [[aku-tres-mercados-eternos-concept]]

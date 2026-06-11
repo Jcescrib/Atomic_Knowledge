@@ -17,6 +17,15 @@ aku_links:
     - id: aku-sueno-es-necesidad-7-9h-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-high-roi-habit-stack-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-sueno-es-necesidad-7-9h-claim desde [hormozi] (cross-source)"
+    - id: aku-dormir-lo-suficiente-es-parte-del-hustle-no-su-enemigo-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-sueno-es-necesidad-7-9h-claim desde [50-cent] (cross-source)"
+    - id: aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-sueno-es-necesidad-7-9h-claim desde [50-cent] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -78,4 +87,4 @@ Si el patrón se desajusta de forma recurrente, revisa carga de entrenamiento, c
 
 ## Relaciones
 
-**justified_by** ← [[aku-conciliar-sueno-temprano-pasos-method]] · [[aku-sueno-es-necesidad-7-9h-claim]]
+**justified_by** ← [[aku-conciliar-sueno-temprano-pasos-method]] · [[aku-sueno-es-necesidad-7-9h-claim]] · [[aku-high-roi-habit-stack-concept]] · [[aku-dormir-lo-suficiente-es-parte-del-hustle-no-su-enemigo-claim]] · [[aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim]]

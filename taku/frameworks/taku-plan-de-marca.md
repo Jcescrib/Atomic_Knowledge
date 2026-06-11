@@ -31,6 +31,18 @@ aku_links:
     - id: aku-brand-equity-concept
       link_validation: llm-proposed
       link_note: "El objetivo último: incrementar el valor de la marca."
+    - id: aku-los-nombres-neologisticos-son-los-mas-escalables-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-marca-concept desde [kolenda] (cross-source)"
+    - id: aku-commanders-intent-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-proposito-mision-concept desde [jocko] (cross-source)"
+    - id: aku-mejores-lideres-mision-no-ego-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-proposito-mision-concept desde [jocko] (cross-source)"
+    - id: aku-magic-avatar-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-posicionamiento-concept desde [hormozi] (cross-source)"
   constrained_by:
     - id: aku-esencia-mas-que-logo-claim
       link_validation: llm-proposed
@@ -111,6 +123,6 @@ acciones, confluyendo en «tu marca». Objetivo último: aumentar el brand equit
 
 ## Relaciones
 
-**justified_by** ← [[aku-plan-de-marca-concept]] · [[aku-marca-concept]] · [[aku-proposito-mision-concept]] · [[aku-posicionamiento-concept]] · [[aku-brand-equity-concept]]
+**justified_by** ← [[aku-plan-de-marca-concept]] · [[aku-marca-concept]] · [[aku-proposito-mision-concept]] · [[aku-posicionamiento-concept]] · [[aku-brand-equity-concept]] · [[aku-los-nombres-neologisticos-son-los-mas-escalables-claim]] · [[aku-commanders-intent-concept]] · [[aku-mejores-lideres-mision-no-ego-claim]] · [[aku-magic-avatar-concept]]
 **constrained_by** ← [[aku-esencia-mas-que-logo-claim]]
 **complementary** ↔ [[taku-circulo-dorado]] · [[taku-power-value-modelo]]

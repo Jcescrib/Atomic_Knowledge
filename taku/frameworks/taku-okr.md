@@ -20,6 +20,9 @@ aku_links:
     - id: aku-ajuste-objetivos-tradicional-concept
       link_validation: llm-proposed
       link_note: "El enfoque tradicional (plan de negocios + presupuesto) que el OKR sustituye/complementa."
+    - id: aku-objetivos-alineados-organizacion-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-okr-concept desde [jocko] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -96,5 +99,5 @@ ajuste de objetivos tradicional (plan de negocios + presupuesto).
 
 ## Relaciones
 
-**justified_by** ← [[aku-okr-concept]] · [[aku-revision-anual-falla-incertidumbre-claim]] · [[aku-ajuste-objetivos-tradicional-concept]]
+**justified_by** ← [[aku-okr-concept]] · [[aku-revision-anual-falla-incertidumbre-claim]] · [[aku-ajuste-objetivos-tradicional-concept]] · [[aku-objetivos-alineados-organizacion-claim]]
 **complementary** ↔ [[taku-mision-vision-valores]]

@@ -47,6 +47,30 @@ aku_links:
     - id: aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept
       link_validation: llm-proposed
       link_note: "Principio 9 — Avoid the entitlement trap."
+    - id: aku-48laws-02-never-trust-friends-use-enemies-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept desde [robert-greene] (cross-source)"
+    - id: aku-extreme-ownership-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept desde [jocko] (cross-source)"
+    - id: aku-calcular-y-mitigar-riesgo-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-fearlessness-no-es-ausencia-de-miedo-concept desde [jocko] (cross-source)"
+    - id: aku-paso-agresivo-hacia-el-miedo-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-fearlessness-no-es-ausencia-de-miedo-concept desde [jocko] (cross-source)"
+    - id: aku-instinto-de-rendirse-es-mentiroso-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-corazon-de-hustler-concept desde [jocko] (cross-source)"
+    - id: aku-ikigai-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-corazon-de-hustler-concept desde [power-mba] (cross-source)"
+    - id: aku-cada-miembro-es-el-mas-importante-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept desde [jocko] (cross-source)"
+    - id: aku-no-bad-teams-only-bad-leaders-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept desde [jocko] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -141,4 +165,4 @@ pendientes de aprobación humana.
 
 ## Relaciones
 
-**justified_by** ← [[aku-calle-y-negocios-comparten-principios-concept]] · [[aku-fearlessness-no-es-ausencia-de-miedo-concept]] · [[aku-corazon-de-hustler-concept]] · [[aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept]] · [[aku-conocer-tu-valor-y-extraer-el-maximo-concept]] · [[aku-evolucionar-o-morir-concept]] · [[aku-el-poder-de-la-percepcion-concept]] · [[aku-la-competencia-como-estrategia-if-we-cant-be-friends-concept]] · [[aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept]] · [[aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept]]
+**justified_by** ← [[aku-calle-y-negocios-comparten-principios-concept]] · [[aku-fearlessness-no-es-ausencia-de-miedo-concept]] · [[aku-corazon-de-hustler-concept]] · [[aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept]] · [[aku-conocer-tu-valor-y-extraer-el-maximo-concept]] · [[aku-evolucionar-o-morir-concept]] · [[aku-el-poder-de-la-percepcion-concept]] · [[aku-la-competencia-como-estrategia-if-we-cant-be-friends-concept]] · [[aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept]] · [[aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept]] · [[aku-48laws-02-never-trust-friends-use-enemies-concept]] · [[aku-extreme-ownership-concept]] · [[aku-calcular-y-mitigar-riesgo-claim]] · [[aku-paso-agresivo-hacia-el-miedo-claim]] · [[aku-instinto-de-rendirse-es-mentiroso-claim]] · [[aku-ikigai-concept]] · [[aku-cada-miembro-es-el-mas-importante-claim]] · [[aku-no-bad-teams-only-bad-leaders-concept]]

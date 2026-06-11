@@ -20,6 +20,30 @@ aku_links:
     - id: aku-autoliderazgo-prerequisito-claim
       link_validation: llm-proposed
       link_note: "Motiva la herramienta: sin autoliderazgo efectivo no se lidera a otros."
+    - id: aku-mind-control-controla-tu-propia-mente-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-tres-capas-liderazgo-concept desde [jocko] (cross-source)"
+    - id: aku-evaluation-character-leadership-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-tres-capas-liderazgo-concept desde [jocko] (cross-source)"
+    - id: aku-stress-bueno-y-malo-cortisol-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-autoevaluacion-cuerpo-mente-alma-concept desde [jocko] (cross-source)"
+    - id: aku-the-evaluation-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-autoevaluacion-cuerpo-mente-alma-concept desde [jocko] (cross-source)"
+    - id: aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-autoevaluacion-cuerpo-mente-alma-concept desde [50-cent] (cross-source)"
+    - id: aku-evaluation-health-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-autoevaluacion-cuerpo-mente-alma-concept desde [jocko] (cross-source)"
+    - id: aku-disciplina-se-extiende-a-todo-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-autoevaluacion-cuerpo-mente-alma-concept desde [jocko] (cross-source)"
+    - id: aku-power-nap-pies-elevados-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-autoevaluacion-cuerpo-mente-alma-concept desde [jocko] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -101,4 +125,4 @@ Mente, y prioriza recuperación del sueño y práctica de mindfulness.
 
 ## Relaciones
 
-**justified_by** ← [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-tres-capas-liderazgo-concept]] · [[aku-autoliderazgo-prerequisito-claim]]
+**justified_by** ← [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-tres-capas-liderazgo-concept]] · [[aku-autoliderazgo-prerequisito-claim]] · [[aku-mind-control-controla-tu-propia-mente-concept]] · [[aku-evaluation-character-leadership-concept]] · [[aku-stress-bueno-y-malo-cortisol-claim]] · [[aku-the-evaluation-concept]] · [[aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim]] · [[aku-evaluation-health-concept]] · [[aku-disciplina-se-extiende-a-todo-claim]] · [[aku-power-nap-pies-elevados-method]]

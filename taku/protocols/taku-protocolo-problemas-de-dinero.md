@@ -20,6 +20,21 @@ aku_links:
     - id: aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-disciplina-se-extiende-a-todo-claim desde [naval] (cross-source)"
+    - id: aku-tu-apariencia-fisica-comunica-disciplina-antes-de-hablar-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-disciplina-se-extiende-a-todo-claim desde [50-cent] (cross-source)"
+    - id: aku-autoevaluacion-cuerpo-mente-alma-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-disciplina-se-extiende-a-todo-claim desde [power-mba] (cross-source)"
+    - id: aku-lead-scoring-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-prioritize-and-execute-concept desde [power-mba] (cross-source)"
+    - id: aku-never-miss-twice-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim desde [james-clear] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -90,4 +105,4 @@ Revisión mensual obligatoria: real vs presupuesto, y ajuste.
 
 ## Relaciones
 
-**justified_by** ← [[aku-disciplina-se-extiende-a-todo-claim]] · [[aku-prioritize-and-execute-concept]] · [[aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim]]
+**justified_by** ← [[aku-disciplina-se-extiende-a-todo-claim]] · [[aku-prioritize-and-execute-concept]] · [[aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim]] · [[aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept]] · [[aku-tu-apariencia-fisica-comunica-disciplina-antes-de-hablar-claim]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-lead-scoring-concept]] · [[aku-never-miss-twice-claim]]

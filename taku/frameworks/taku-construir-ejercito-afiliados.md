@@ -23,6 +23,30 @@ aku_links:
     - id: aku-marketing-afiliados-concept
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-cltv-cac-ratio-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-payout-afiliados-tiers-concept desde [power-mba] (cross-source)"
+    - id: aku-launch-then-integrate-afiliados-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-marketing-afiliados-concept desde [hormozi] (cross-source)"
+    - id: aku-affiliate-hormozi-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-marketing-afiliados-concept desde [hormozi] (cross-source)"
+    - id: aku-construir-affiliate-army-seis-pasos-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-marketing-afiliados-concept desde [hormozi] (cross-source)"
+    - id: aku-agencia-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-marketing-afiliados-concept desde [hormozi] (cross-source)"
+    - id: aku-pagar-afiliados-forever-no-cap-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-marketing-afiliados-concept desde [hormozi] (cross-source)"
+    - id: aku-cuatro-fortalezas-lead-getters-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-marketing-afiliados-concept desde [hormozi] (cross-source)"
+    - id: aku-afiliado-ideal-quien-tiene-mis-leads-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-marketing-afiliados-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -99,4 +123,4 @@ cubre el coste de adquisición del afiliado.
 
 ## Relaciones
 
-**justified_by** ← [[aku-oferta-al-afiliado-concept]] · [[aku-payout-afiliados-tiers-concept]] · [[aku-whisper-tease-shout-concept]] · [[aku-marketing-afiliados-concept]]
+**justified_by** ← [[aku-oferta-al-afiliado-concept]] · [[aku-payout-afiliados-tiers-concept]] · [[aku-whisper-tease-shout-concept]] · [[aku-marketing-afiliados-concept]] · [[aku-cltv-cac-ratio-concept]] · [[aku-launch-then-integrate-afiliados-concept]] · [[aku-affiliate-hormozi-concept]] · [[aku-construir-affiliate-army-seis-pasos-concept]] · [[aku-agencia-concept]] · [[aku-pagar-afiliados-forever-no-cap-claim]] · [[aku-cuatro-fortalezas-lead-getters-concept]] · [[aku-afiliado-ideal-quien-tiene-mis-leads-concept]]

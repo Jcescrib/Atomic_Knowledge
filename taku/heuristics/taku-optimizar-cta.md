@@ -21,6 +21,27 @@ aku_links:
     - id: aku-vender-una-accion-concept
       link_validation: llm-proposed
       link_note: "El CTA es la materialización de «vender la acción»."
+    - id: aku-esquemas-de-combinacion-de-color-monocromatico-a-tetradico-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cta-concept desde [kolenda] (cross-source)"
+    - id: aku-los-colores-saturados-parecen-mas-cercanos-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cta-concept desde [kolenda] (cross-source)"
+    - id: aku-esquema-de-color-split-complementario-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cta-concept desde [kolenda] (cross-source)"
+    - id: aku-anuncio-callout-value-cta-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cta-concept desde [hormozi] (cross-source)"
+    - id: aku-cta-hormozi-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cta-concept desde [hormozi] (cross-source)"
+    - id: aku-reason-why-aumenta-accion-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cta-concept desde [hormozi] (cross-source)"
+    - id: aku-hard-selling-producto-debil
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-vender-una-accion-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -86,5 +107,5 @@ Ajustar por canal y dispositivo; validar siempre con A/B testing en vez de asumi
 
 ## Relaciones
 
-**justified_by** ← [[aku-cta-concept]] · [[aku-vender-una-accion-concept]]
+**justified_by** ← [[aku-cta-concept]] · [[aku-vender-una-accion-concept]] · [[aku-esquemas-de-combinacion-de-color-monocromatico-a-tetradico-method]] · [[aku-los-colores-saturados-parecen-mas-cercanos-claim]] · [[aku-esquema-de-color-split-complementario-claim]] · [[aku-anuncio-callout-value-cta-concept]] · [[aku-cta-hormozi-concept]] · [[aku-reason-why-aumenta-accion-claim]] · [[aku-hard-selling-producto-debil]]
 **complementary** ↔ [[taku-cro]]

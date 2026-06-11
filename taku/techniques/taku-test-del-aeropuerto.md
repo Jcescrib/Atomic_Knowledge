@@ -17,6 +17,18 @@ aku_links:
     - id: aku-diagnostico-estrategico-personal-concept
       link_validation: llm-proposed
       link_note: "Es la primera herramienta del diagnóstico estratégico personal (clarificar a dónde quieres llegar)."
+    - id: aku-eminently-qualified-human-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-objetivos-personales-concept desde [jocko] (cross-source)"
+    - id: aku-tu-vision-debe-evolucionar-y-escalar-con-el-tiempo-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-objetivos-personales-concept desde [50-cent] (cross-source)"
+    - id: aku-evaluation-relationship-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-objetivos-personales-concept desde [jocko] (cross-source)"
+    - id: aku-conocer-tu-valor-y-extraer-el-maximo-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-diagnostico-estrategico-personal-concept desde [50-cent] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -99,5 +111,5 @@ recurso original.
 
 ## Relaciones
 
-**justified_by** ← [[aku-objetivos-personales-concept]] · [[aku-diagnostico-estrategico-personal-concept]]
+**justified_by** ← [[aku-objetivos-personales-concept]] · [[aku-diagnostico-estrategico-personal-concept]] · [[aku-eminently-qualified-human-concept]] · [[aku-tu-vision-debe-evolucionar-y-escalar-con-el-tiempo-claim]] · [[aku-evaluation-relationship-concept]] · [[aku-conocer-tu-valor-y-extraer-el-maximo-concept]]
 **precedes** → [[taku-viaje-al-pasado]]

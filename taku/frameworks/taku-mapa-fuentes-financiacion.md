@@ -31,6 +31,9 @@ aku_links:
     - id: aku-venture-capital-concept
       link_validation: llm-proposed
       link_note: "Fuente de early-stage/growth con tracción."
+    - id: aku-free-bootstrap-plataforma-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-bootstrapping-concept desde [(unknown)] (cross-source)"
   constrained_by:
     - id: aku-vc-busca-x10-claim
       link_validation: llm-proposed
@@ -110,6 +113,6 @@ venture builder NO es una fuente para startups externas.
 
 ## Relaciones
 
-**justified_by** ← [[aku-fuentes-financiacion-concept]] · [[aku-fases-financiacion-concept]] · [[aku-bootstrapping-concept]] · [[aku-incubadora-aceleradora-concept]] · [[aku-venture-capital-concept]]
+**justified_by** ← [[aku-fuentes-financiacion-concept]] · [[aku-fases-financiacion-concept]] · [[aku-bootstrapping-concept]] · [[aku-incubadora-aceleradora-concept]] · [[aku-venture-capital-concept]] · [[aku-free-bootstrap-plataforma-claim]]
 **constrained_by** ← [[aku-vc-busca-x10-claim]]
 **complementary** ↔ [[taku-eleccion-proyecto-fit]]

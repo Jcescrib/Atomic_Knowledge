@@ -17,6 +17,18 @@ aku_links:
     - id: aku-estilos-autoritario-delegativo-concept
       link_validation: llm-proposed
       link_note: "El espectro autoritario↔delegativo y sus condiciones de encaje."
+    - id: aku-el-liderazgo-eficaz-adapta-la-tactica-a-cada-persona-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-liderazgo-situacional-concept desde [50-cent] (cross-source)"
+    - id: aku-liderazgo-indirecto-supera-al-directo-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-liderazgo-situacional-concept desde [jocko] (cross-source)"
+    - id: aku-everyone-same-everyone-different-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-liderazgo-situacional-concept desde [jocko] (cross-source)"
+    - id: aku-dar-ordenes-solo-commanders-intent-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-estilos-autoritario-delegativo-concept desde [jocko] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -91,5 +103,5 @@ Complementa la distinción liderar vs. gestionar al concretar cómo liderar pers
 
 ## Relaciones
 
-**justified_by** ← [[aku-liderazgo-situacional-concept]] · [[aku-estilos-autoritario-delegativo-concept]]
+**justified_by** ← [[aku-liderazgo-situacional-concept]] · [[aku-estilos-autoritario-delegativo-concept]] · [[aku-el-liderazgo-eficaz-adapta-la-tactica-a-cada-persona-claim]] · [[aku-liderazgo-indirecto-supera-al-directo-claim]] · [[aku-everyone-same-everyone-different-concept]] · [[aku-dar-ordenes-solo-commanders-intent-claim]]
 **complementary** ↔ [[taku-liderar-vs-gestionar]]

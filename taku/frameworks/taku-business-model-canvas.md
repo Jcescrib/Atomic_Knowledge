@@ -67,6 +67,18 @@ aku_links:
     - id: aku-coste-prioridad-segun-estrategia-claim
       link_validation: llm-proposed
       link_note: "Claim estratégico que prioriza (o no) la gestión del bloque costes."
+    - id: aku-value-equation-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-propuesta-de-valor-concept desde [hormozi] (cross-source)"
+    - id: aku-ltgp-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-flujos-de-ingresos-concept desde [hormozi] (cross-source)"
+    - id: aku-bonos-terceros-revenue-streams-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-flujos-de-ingresos-concept desde [hormozi] (cross-source)"
+    - id: aku-bonos-de-terceros-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-ecosistema-alianzas-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -166,4 +178,4 @@ El framework descansa en:
 
 ## Relaciones
 
-**justified_by** ← [[aku-bmc-concept]] · [[aku-segmentos-de-clientes-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-canales-de-distribucion-concept]] · [[aku-canal-directo-concept]] · [[aku-canal-indirecto-concept]] · [[aku-relaciones-con-clientes-concept]] · [[aku-flujos-de-ingresos-concept]] · [[aku-recursos-clave-concept]] · [[aku-actividades-clave-concept]] · [[aku-ecosistema-alianzas-concept]] · [[aku-estructura-de-costes-concept]] · [[aku-segmento-relevante-claim]] · [[aku-coste-prioridad-segun-estrategia-claim]]
+**justified_by** ← [[aku-bmc-concept]] · [[aku-segmentos-de-clientes-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-canales-de-distribucion-concept]] · [[aku-canal-directo-concept]] · [[aku-canal-indirecto-concept]] · [[aku-relaciones-con-clientes-concept]] · [[aku-flujos-de-ingresos-concept]] · [[aku-recursos-clave-concept]] · [[aku-actividades-clave-concept]] · [[aku-ecosistema-alianzas-concept]] · [[aku-estructura-de-costes-concept]] · [[aku-segmento-relevante-claim]] · [[aku-coste-prioridad-segun-estrategia-claim]] · [[aku-value-equation-concept]] · [[aku-ltgp-concept]] · [[aku-bonos-terceros-revenue-streams-claim]] · [[aku-bonos-de-terceros-claim]]

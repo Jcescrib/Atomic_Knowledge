@@ -23,6 +23,30 @@ aku_links:
     - id: aku-empezar-aqui-y-ahora-method
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-tres-capas-liderazgo-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-the-code-concept desde [power-mba] (cross-source)"
+    - id: aku-objetivos-personales-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-eminently-qualified-human-concept desde [power-mba] (cross-source)"
+    - id: aku-habitos-mas-practica-deliberada-igual-maestria-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-eminently-qualified-human-concept desde [james-clear] (cross-source)"
+    - id: aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-disciplina-se-extiende-a-todo-claim desde [naval] (cross-source)"
+    - id: aku-tu-apariencia-fisica-comunica-disciplina-antes-de-hablar-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-disciplina-se-extiende-a-todo-claim desde [50-cent] (cross-source)"
+    - id: aku-autoevaluacion-cuerpo-mente-alma-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-disciplina-se-extiende-a-todo-claim desde [power-mba] (cross-source)"
+    - id: aku-si-hay-algo-que-quieres-hacer-luego-hazlo-ahora-no-hay-luego-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-empezar-aqui-y-ahora-method desde [naval] (cross-source)"
+    - id: aku-48laws-28-enter-action-with-boldness-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-empezar-aqui-y-ahora-method desde [robert-greene] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -91,4 +115,4 @@ Revisa y ajusta el código a tu contexto; sube el listón a medida que tu capaci
 
 ## Relaciones
 
-**justified_by** ← [[aku-the-code-concept]] · [[aku-eminently-qualified-human-concept]] · [[aku-disciplina-se-extiende-a-todo-claim]] · [[aku-empezar-aqui-y-ahora-method]]
+**justified_by** ← [[aku-the-code-concept]] · [[aku-eminently-qualified-human-concept]] · [[aku-disciplina-se-extiende-a-todo-claim]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-tres-capas-liderazgo-concept]] · [[aku-objetivos-personales-concept]] · [[aku-habitos-mas-practica-deliberada-igual-maestria-concept]] · [[aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept]] · [[aku-tu-apariencia-fisica-comunica-disciplina-antes-de-hablar-claim]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-si-hay-algo-que-quieres-hacer-luego-hazlo-ahora-no-hay-luego-claim]] · [[aku-48laws-28-enter-action-with-boldness-concept]]

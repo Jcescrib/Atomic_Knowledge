@@ -26,6 +26,30 @@ aku_links:
     - id: aku-grand-slam-offer-concept
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-ecuacion-valor-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-value-equation-concept desde [power-mba] (cross-source)"
+    - id: aku-matriz-rice-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-value-equation-concept desde [power-mba] (cross-source)"
+    - id: aku-propuesta-de-valor-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-value-equation-concept desde [power-mba] (cross-source)"
+    - id: aku-conversacion-mente-cliente-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-problemas-a-soluciones-concept desde [power-mba] (cross-source)"
+    - id: aku-formato-contenido-video-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-delivery-cube-concept desde [power-mba] (cross-source)"
+    - id: aku-elegir-el-medio-de-comunicacion-adecuado-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-delivery-cube-concept desde [kolenda] (cross-source)"
+    - id: aku-lead-magnet-curso-gratuito-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-delivery-cube-concept desde [power-mba] (cross-source)"
+    - id: aku-formato-contenido-caso-exito-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-delivery-cube-concept desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-solve-every-problem-claim
       link_validation: llm-proposed
@@ -115,6 +139,6 @@ monetize flow, then add friction»: sobre-entrega al principio, luego sistematiz
 
 ## Relaciones
 
-**justified_by** ← [[aku-value-equation-concept]] · [[aku-problemas-a-soluciones-concept]] · [[aku-trim-and-stack-concept]] · [[aku-delivery-cube-concept]] · [[aku-grand-slam-offer-concept]]
+**justified_by** ← [[aku-value-equation-concept]] · [[aku-problemas-a-soluciones-concept]] · [[aku-trim-and-stack-concept]] · [[aku-delivery-cube-concept]] · [[aku-grand-slam-offer-concept]] · [[aku-ecuacion-valor-claim]] · [[aku-matriz-rice-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-conversacion-mente-cliente-concept]] · [[aku-formato-contenido-video-concept]] · [[aku-elegir-el-medio-de-comunicacion-adecuado-claim]] · [[aku-lead-magnet-curso-gratuito-concept]] · [[aku-formato-contenido-caso-exito-concept]]
 
 **constrained_by** ← [[aku-solve-every-problem-claim]] · [[aku-sales-fulfillment-continuum-concept]]

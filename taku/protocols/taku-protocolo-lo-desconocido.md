@@ -20,6 +20,12 @@ aku_links:
     - id: aku-prioritize-and-execute-concept
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-lean-startup-method-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-paso-pequeno-reevaluar-ante-incertidumbre-method desde [power-mba] (cross-source)"
+    - id: aku-lead-scoring-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-prioritize-and-execute-concept desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -90,4 +96,4 @@ Revisa en cada punto de fricción y cuando cambien las condiciones.
 
 ## Relaciones
 
-**justified_by** ← [[aku-paso-pequeno-reevaluar-ante-incertidumbre-method]] · [[aku-detach-tactico-estrategico-concept]] · [[aku-prioritize-and-execute-concept]]
+**justified_by** ← [[aku-paso-pequeno-reevaluar-ante-incertidumbre-method]] · [[aku-detach-tactico-estrategico-concept]] · [[aku-prioritize-and-execute-concept]] · [[aku-lean-startup-method-concept]] · [[aku-lead-scoring-concept]]

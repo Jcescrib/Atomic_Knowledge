@@ -26,6 +26,30 @@ aku_links:
     - id: aku-effort-sacrifice-concept
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-ecuacion-valor-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-value-equation-concept desde [power-mba] (cross-source)"
+    - id: aku-matriz-rice-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-value-equation-concept desde [power-mba] (cross-source)"
+    - id: aku-propuesta-de-valor-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-value-equation-concept desde [power-mba] (cross-source)"
+    - id: aku-cosas-importantes-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-dream-outcome-concept desde [power-mba] (cross-source)"
+    - id: aku-emocion-prevalece-razon-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-dream-outcome-concept desde [power-mba] (cross-source)"
+    - id: aku-beneficio-emocional-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-dream-outcome-concept desde [power-mba] (cross-source)"
+    - id: aku-copy-aportar-pruebas-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-perceived-likelihood-achievement-concept desde [power-mba] (cross-source)"
+    - id: aku-cialdini-autoridad-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-perceived-likelihood-achievement-concept desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-perception-is-reality-value-claim
       link_validation: llm-proposed
@@ -107,6 +131,6 @@ enorme diferencia de valor de mercado pese al mismo resultado prometido.
 
 ## Relaciones
 
-**justified_by** ← [[aku-value-equation-concept]] · [[aku-dream-outcome-concept]] · [[aku-perceived-likelihood-achievement-concept]] · [[aku-time-delay-value-concept]] · [[aku-effort-sacrifice-concept]]
+**justified_by** ← [[aku-value-equation-concept]] · [[aku-dream-outcome-concept]] · [[aku-perceived-likelihood-achievement-concept]] · [[aku-time-delay-value-concept]] · [[aku-effort-sacrifice-concept]] · [[aku-ecuacion-valor-claim]] · [[aku-matriz-rice-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-cosas-importantes-concept]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-beneficio-emocional-concept]] · [[aku-copy-aportar-pruebas-claim]] · [[aku-cialdini-autoridad-concept]]
 
 **constrained_by** ← [[aku-perception-is-reality-value-claim]]

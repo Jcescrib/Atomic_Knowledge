@@ -20,6 +20,30 @@ aku_links:
     - id: aku-tres-fases-escalar-ads-concept
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-cac-payback-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-client-financed-acquisition-concept desde [power-mba] (cross-source)"
+    - id: aku-cac-payback-financia-crecimiento-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-client-financed-acquisition-concept desde [power-mba] (cross-source)"
+    - id: aku-motor-crecimiento-pago-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-client-financed-acquisition-concept desde [power-mba] (cross-source)"
+    - id: aku-motor-crecimiento-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-client-financed-acquisition-concept desde [power-mba] (cross-source)"
+    - id: aku-metricas-accionables-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-ltgp-cac-3-a-1-claim desde [power-mba] (cross-source)"
+    - id: aku-cac-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-ltgp-cac-3-a-1-claim desde [power-mba] (cross-source)"
+    - id: aku-cltv-subscription-formula
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-ltgp-cac-3-a-1-claim desde [power-mba] (cross-source)"
+    - id: aku-cltv-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-ltgp-cac-3-a-1-claim desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-ads-eficiencia-vs-alcance-claim
       link_validation: llm-proposed
@@ -92,6 +116,6 @@ Order bumps, downsells, continuidad; medir LTGP (gross profit), no ingreso total
 
 ## Relaciones
 
-**justified_by** ← [[aku-client-financed-acquisition-concept]] · [[aku-ltgp-cac-3-a-1-claim]] · [[aku-tres-fases-escalar-ads-concept]]
+**justified_by** ← [[aku-client-financed-acquisition-concept]] · [[aku-ltgp-cac-3-a-1-claim]] · [[aku-tres-fases-escalar-ads-concept]] · [[aku-cac-payback-concept]] · [[aku-cac-payback-financia-crecimiento-claim]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-motor-crecimiento-concept]] · [[aku-metricas-accionables-concept]] · [[aku-cac-concept]] · [[aku-cltv-subscription-formula]] · [[aku-cltv-concept]]
 
 **constrained_by** ← [[aku-ads-eficiencia-vs-alcance-claim]]

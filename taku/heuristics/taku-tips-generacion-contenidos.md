@@ -32,6 +32,15 @@ aku_links:
     - id: aku-inspirate-en-contenido-de-calidad-de-otros-claim
       link_validation: llm-proposed
       link_note: "Inspirarse en contenido de calidad de referentes para elevar el propio."
+    - id: aku-audiencia-activo-compuesto-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-regularidad-importa-mas-que-frecuencia-claim desde [hormozi] (cross-source)"
+    - id: aku-puddles-ponds-lakes-oceans-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-agrupa-contenido-en-series-tematicas-claim desde [hormozi] (cross-source)"
+    - id: aku-replicar-acciones-mejores-clientes-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-aprende-que-contenido-funciona-y-replica-claim desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -96,4 +105,4 @@ Ajustar la frecuencia a la capacidad real de mantenerla con regularidad (mejor p
 
 ## Relaciones
 
-**justified_by** ← [[aku-define-publico-objetivo-antes-de-generar-contenido-claim]] · [[aku-aportar-valor-es-clave-del-contenido-claim]] · [[aku-titulos-llamativos-cortos-evita-clickbait-claim]] · [[aku-regularidad-importa-mas-que-frecuencia-claim]] · [[aku-agrupa-contenido-en-series-tematicas-claim]] · [[aku-aprende-que-contenido-funciona-y-replica-claim]] · [[aku-inspirate-en-contenido-de-calidad-de-otros-claim]]
+**justified_by** ← [[aku-define-publico-objetivo-antes-de-generar-contenido-claim]] · [[aku-aportar-valor-es-clave-del-contenido-claim]] · [[aku-titulos-llamativos-cortos-evita-clickbait-claim]] · [[aku-regularidad-importa-mas-que-frecuencia-claim]] · [[aku-agrupa-contenido-en-series-tematicas-claim]] · [[aku-aprende-que-contenido-funciona-y-replica-claim]] · [[aku-inspirate-en-contenido-de-calidad-de-otros-claim]] · [[aku-audiencia-activo-compuesto-claim]] · [[aku-puddles-ponds-lakes-oceans-claim]] · [[aku-replicar-acciones-mejores-clientes-concept]]

@@ -17,6 +17,9 @@ aku_links:
     - id: aku-rule-of-100-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-open-to-goal-claim desde [james-clear] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -80,4 +83,4 @@ poder pagar a otro → vuelve al paso 1 con «empleados» como nuevo target.
 
 ## Relaciones
 
-**justified_by** ← [[aku-open-to-goal-claim]] · [[aku-rule-of-100-claim]]
+**justified_by** ← [[aku-open-to-goal-claim]] · [[aku-rule-of-100-claim]] · [[aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim]]

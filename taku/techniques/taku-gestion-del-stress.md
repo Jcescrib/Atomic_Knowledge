@@ -17,6 +17,9 @@ aku_links:
     - id: aku-detach-tactico-estrategico-concept
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-cuando-aplicar-tests-personalidad-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-gestionar-stress-detach-y-perspectiva-method desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -81,4 +84,4 @@ Se combina con «destroyer mode» (equilibrio emoción/lógica) cuando hay que e
 
 ## Relaciones
 
-**justified_by** ← [[aku-gestionar-stress-detach-y-perspectiva-method]] · [[aku-detach-tactico-estrategico-concept]]
+**justified_by** ← [[aku-gestionar-stress-detach-y-perspectiva-method]] · [[aku-detach-tactico-estrategico-concept]] · [[aku-cuando-aplicar-tests-personalidad-concept]]

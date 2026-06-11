@@ -58,6 +58,21 @@ aku_links:
     - id: aku-modelo-freemium-concept
       link_validation: llm-proposed
       link_note: "Variante con capa pagada que monetiza un subconjunto de usuarios."
+    - id: aku-free-bootstrap-plataforma-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-modelo-plataforma-concept desde [(unknown)] (cross-source)"
+    - id: aku-virtuous-cycle-of-price-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-circulo-virtuoso-concept desde [hormozi] (cross-source)"
+    - id: aku-format-matchea-plataforma-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-content-platform-concept desde [hormozi] (cross-source)"
+    - id: aku-attraction-offer-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-modelo-free-concept desde [hormozi] (cross-source)"
+    - id: aku-buy-x-get-y-free-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-modelo-freemium-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -151,4 +166,4 @@ Marco que organiza los conceptos centrales del modelo de negocio de plataforma: 
 
 ## Relaciones
 
-**justified_by** ← [[aku-modelo-plataforma-concept]] · [[aku-modelo-lineal-concept]] · [[aku-network-effect-concept]] · [[aku-masa-critica-concept]] · [[aku-circulo-virtuoso-concept]] · [[aku-circulo-vicioso-concept]] · [[aku-huevo-gallina-concept]] · [[aku-marketplace-concept]] · [[aku-on-demand-platform-concept]] · [[aku-content-platform-concept]] · [[aku-modelo-free-concept]] · [[aku-modelo-freemium-concept]]
+**justified_by** ← [[aku-modelo-plataforma-concept]] · [[aku-modelo-lineal-concept]] · [[aku-network-effect-concept]] · [[aku-masa-critica-concept]] · [[aku-circulo-virtuoso-concept]] · [[aku-circulo-vicioso-concept]] · [[aku-huevo-gallina-concept]] · [[aku-marketplace-concept]] · [[aku-on-demand-platform-concept]] · [[aku-content-platform-concept]] · [[aku-modelo-free-concept]] · [[aku-modelo-freemium-concept]] · [[aku-free-bootstrap-plataforma-claim]] · [[aku-virtuous-cycle-of-price-claim]] · [[aku-format-matchea-plataforma-claim]] · [[aku-attraction-offer-concept]] · [[aku-buy-x-get-y-free-concept]]

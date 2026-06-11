@@ -20,6 +20,12 @@ aku_links:
     - id: aku-priorizar-3-4-contingencias-mas-probables-method
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-formato-contenido-checklist-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-planning-process-estandarizado-concept desde [power-mba] (cross-source)"
+    - id: aku-implementation-intention-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-planning-process-estandarizado-concept desde [james-clear] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -80,7 +86,7 @@ Operación SEAL o lanzamiento de proyecto: del análisis de misión al debrief p
 
 ## Relaciones
 
-**justified_by** ← [[aku-leaders-checklist-planning-method]] · [[aku-planning-process-estandarizado-concept]] · [[aku-priorizar-3-4-contingencias-mas-probables-method]]
+**justified_by** ← [[aku-leaders-checklist-planning-method]] · [[aku-planning-process-estandarizado-concept]] · [[aku-priorizar-3-4-contingencias-mas-probables-method]] · [[aku-formato-contenido-checklist-concept]] · [[aku-implementation-intention-method]]
 
 **complementary** ↔ [[taku-prioritize-and-execute]]
 

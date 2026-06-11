@@ -17,6 +17,27 @@ aku_links:
     - id: aku-mente-de-mono-concept
       link_validation: llm-proposed
       link_note: "Describe el problema (mente inquieta) que la práctica contrarresta."
+    - id: aku-iluminacion-es-el-espacio-entre-tus-pensamientos-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-mindfulness-concept desde [naval] (cross-source)"
+    - id: aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-mindfulness-concept desde [naval] (cross-source)"
+    - id: aku-meditar-60-min-60-dias-para-llegar-a-un-inbox-cero-mental-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-mindfulness-concept desde [naval] (cross-source)"
+    - id: aku-meditacion-es-apagar-a-la-sociedad-y-escucharte-y-adopta-muchas-formas-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-mindfulness-concept desde [naval] (cross-source)"
+    - id: aku-la-meditacion-revela-cuan-fuera-de-control-esta-tu-mente-y-en-la-separacion-hay-liberacion-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-mente-de-mono-concept desde [naval] (cross-source)"
+    - id: aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-mente-de-mono-concept desde [naval] (cross-source)"
+    - id: aku-la-mente-es-un-musculo-que-puedes-reprogramar-con-consciencia-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-mente-de-mono-concept desde [naval] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -99,5 +120,5 @@ periodos de práctica; complementa con minimalismo digital para reducir distracc
 
 ## Relaciones
 
-**justified_by** ← [[aku-mindfulness-concept]] · [[aku-mente-de-mono-concept]]
+**justified_by** ← [[aku-mindfulness-concept]] · [[aku-mente-de-mono-concept]] · [[aku-iluminacion-es-el-espacio-entre-tus-pensamientos-concept]] · [[aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept]] · [[aku-meditar-60-min-60-dias-para-llegar-a-un-inbox-cero-mental-method]] · [[aku-meditacion-es-apagar-a-la-sociedad-y-escucharte-y-adopta-muchas-formas-claim]] · [[aku-la-meditacion-revela-cuan-fuera-de-control-esta-tu-mente-y-en-la-separacion-hay-liberacion-claim]] · [[aku-felicidad-es-el-estado-por-defecto-cuando-no-falta-nada-concept]] · [[aku-la-mente-es-un-musculo-que-puedes-reprogramar-con-consciencia-claim]]
 **complementary** ↔ [[taku-deep-work]] · [[taku-apps-meditacion]]

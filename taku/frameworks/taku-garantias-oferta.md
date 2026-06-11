@@ -23,6 +23,12 @@ aku_links:
     - id: aku-implied-guarantee-performance-concept
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-marketing-afiliados-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-implied-guarantee-performance-concept desde [power-mba] (cross-source)"
+    - id: aku-incentivos-simples-pocas-metricas-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-implied-guarantee-performance-concept desde [jocko] (cross-source)"
   constrained_by:
     - id: aku-clientes-por-garantia-toxicos-claim
       link_validation: llm-proposed
@@ -101,6 +107,6 @@ de costes accesorios (hotel/airfare, ad spend); delayed second payment.
 
 ## Relaciones
 
-**justified_by** ← [[aku-garantia-reversion-riesgo-concept]] · [[aku-garantia-matematica-claim]] · [[aku-garantia-condicional-acciones-claim]] · [[aku-implied-guarantee-performance-concept]]
+**justified_by** ← [[aku-garantia-reversion-riesgo-concept]] · [[aku-garantia-matematica-claim]] · [[aku-garantia-condicional-acciones-claim]] · [[aku-implied-guarantee-performance-concept]] · [[aku-marketing-afiliados-concept]] · [[aku-incentivos-simples-pocas-metricas-method]]
 
 **constrained_by** ← [[aku-clientes-por-garantia-toxicos-claim]]

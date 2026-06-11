@@ -17,6 +17,18 @@ aku_links:
     - id: aku-dar-ordenes-solo-commanders-intent-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-liderazgo-situacional-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-liderazgo-indirecto-supera-al-directo-claim desde [power-mba] (cross-source)"
+    - id: aku-48laws-16-use-absence-to-increase-respect-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-liderazgo-indirecto-supera-al-directo-claim desde [robert-greene] (cross-source)"
+    - id: aku-estilos-autoritario-delegativo-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-dar-ordenes-solo-commanders-intent-claim desde [power-mba] (cross-source)"
+    - id: aku-48laws-07-get-others-to-do-the-work-take-credit-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-dar-ordenes-solo-commanders-intent-claim desde [robert-greene] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -68,4 +80,4 @@ Frases: «¿cómo crees que deberíamos ejecutar?» / «¿puedes explicarme por 
 
 ## Relaciones
 
-**justified_by** ← [[aku-liderazgo-indirecto-supera-al-directo-claim]] · [[aku-dar-ordenes-solo-commanders-intent-claim]]
+**justified_by** ← [[aku-liderazgo-indirecto-supera-al-directo-claim]] · [[aku-dar-ordenes-solo-commanders-intent-claim]] · [[aku-liderazgo-situacional-concept]] · [[aku-48laws-16-use-absence-to-increase-respect-concept]] · [[aku-estilos-autoritario-delegativo-concept]] · [[aku-48laws-07-get-others-to-do-the-work-take-credit-concept]]

@@ -17,6 +17,12 @@ aku_links:
     - id: aku-empleados-lead-getters-concept
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-entrenamiento-realismo-fundamentos-repeticion-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-document-demonstrate-duplicate-concept desde [jocko] (cross-source)"
+    - id: aku-estructuras-organizacionales-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-empleados-lead-getters-concept desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-negocio-sin-ti-es-activo-claim
       link_validation: llm-proposed
@@ -100,6 +106,6 @@ el checklist. Recalcula returns: payroll / engaged leads = coste por lead.
 
 ## Relaciones
 
-**justified_by** ← [[aku-document-demonstrate-duplicate-concept]] · [[aku-empleados-lead-getters-concept]]
+**justified_by** ← [[aku-document-demonstrate-duplicate-concept]] · [[aku-empleados-lead-getters-concept]] · [[aku-entrenamiento-realismo-fundamentos-repeticion-method]] · [[aku-estructuras-organizacionales-concept]]
 
 **constrained_by** ← [[aku-negocio-sin-ti-es-activo-claim]]

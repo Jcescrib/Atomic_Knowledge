@@ -60,6 +60,30 @@ aku_links:
     - id: aku-no-dar-supuesto-hipotesis-claim
       link_validation: llm-proposed
       link_note: "Anti-patrón estructural que el marco previene."
+    - id: aku-no-hay-solucion-100-correcta-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-lean-startup-method-concept desde [jocko] (cross-source)"
+    - id: aku-iterative-decision-making-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-innovar-vs-competir-concept desde [jocko] (cross-source)"
+    - id: aku-decisiveness-amid-uncertainty-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-innovar-vs-competir-concept desde [jocko] (cross-source)"
+    - id: aku-paso-pequeno-reevaluar-ante-incertidumbre-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-lean-startup-method-concept desde [jocko] (cross-source)"
+    - id: aku-billing-cadence-reduce-churn
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-metricas-accionables-concept desde [hormozi] (cross-source)"
+    - id: aku-ltgp-cac-3-a-1-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-metricas-accionables-concept desde [hormozi] (cross-source)"
+    - id: aku-lead-magnet-reduce-cac-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-metricas-accionables-concept desde [hormozi] (cross-source)"
+    - id: aku-humildad-asumir-errores-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-asumir-equivocarse-claim desde [jocko] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -158,6 +182,6 @@ Tres claims estructurales:
 
 ## Relaciones
 
-**justified_by** ← [[aku-lean-startup-method-concept]] · [[aku-innovar-vs-competir-concept]] · [[aku-build-measure-learn-concept]] · [[aku-hipotesis-concept]] · [[aku-mvp-concept]] · [[aku-aprendizaje-validado-concept]] · [[aku-product-market-fit-concept]] · [[aku-metricas-accionables-concept]] · [[aku-metricas-vanidosas-concept]] · [[aku-asumir-equivocarse-claim]] · [[aku-aprender-clientes-reales-claim]] · [[aku-no-dar-supuesto-hipotesis-claim]]
+**justified_by** ← [[aku-lean-startup-method-concept]] · [[aku-innovar-vs-competir-concept]] · [[aku-build-measure-learn-concept]] · [[aku-hipotesis-concept]] · [[aku-mvp-concept]] · [[aku-aprendizaje-validado-concept]] · [[aku-product-market-fit-concept]] · [[aku-metricas-accionables-concept]] · [[aku-metricas-vanidosas-concept]] · [[aku-asumir-equivocarse-claim]] · [[aku-aprender-clientes-reales-claim]] · [[aku-no-dar-supuesto-hipotesis-claim]] · [[aku-no-hay-solucion-100-correcta-claim]] · [[aku-iterative-decision-making-method]] · [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-paso-pequeno-reevaluar-ante-incertidumbre-method]] · [[aku-billing-cadence-reduce-churn]] · [[aku-ltgp-cac-3-a-1-claim]] · [[aku-lead-magnet-reduce-cac-claim]] · [[aku-humildad-asumir-errores-claim]]
 
 **precedes** → [[taku-blitzscaling]]

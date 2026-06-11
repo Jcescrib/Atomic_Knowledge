@@ -20,6 +20,21 @@ aku_links:
     - id: aku-complementar-habilidades-equipo-claim
       link_validation: llm-proposed
       link_note: "Cómo cubrir las habilidades que faltan: aprender o complementar con el equipo."
+    - id: aku-liderar-desde-frente-y-desde-atras-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-liderar-vs-gestionar-concept desde [jocko] (cross-source)"
+    - id: aku-medida-significativa-liderazgo-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-liderar-vs-gestionar-concept desde [jocko] (cross-source)"
+    - id: aku-leading-up-the-chain-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-liderar-vs-gestionar-concept desde [jocko] (cross-source)"
+    - id: aku-delegar-todo-para-liderar-no-pareciendo-vago-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-liderar-vs-gestionar-concept desde [jocko] (cross-source)"
+    - id: aku-lider-compensa-debilidades-con-el-equipo-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-complementar-habilidades-equipo-claim desde [jocko] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -93,5 +108,5 @@ personas.
 
 ## Relaciones
 
-**justified_by** ← [[aku-liderar-vs-gestionar-concept]] · [[aku-mix-liderazgo-gestion-segun-trabajo-claim]] · [[aku-complementar-habilidades-equipo-claim]]
+**justified_by** ← [[aku-liderar-vs-gestionar-concept]] · [[aku-mix-liderazgo-gestion-segun-trabajo-claim]] · [[aku-complementar-habilidades-equipo-claim]] · [[aku-liderar-desde-frente-y-desde-atras-concept]] · [[aku-medida-significativa-liderazgo-claim]] · [[aku-leading-up-the-chain-concept]] · [[aku-delegar-todo-para-liderar-no-pareciendo-vago-claim]] · [[aku-lider-compensa-debilidades-con-el-equipo-claim]]
 **complementary** ↔ [[taku-estilos-liderazgo-situacional]]

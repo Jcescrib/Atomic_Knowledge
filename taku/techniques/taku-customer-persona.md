@@ -33,6 +33,12 @@ aku_links:
     - id: aku-customer-persona-dimensiones-analisis-concept
       link_validation: llm-proposed
       link_note: "Las ~17 dimensiones de análisis que componen el perfil completo de la persona (los bloques «conocerle mejor» y «por qué nos compra» que la técnica recorre)."
+    - id: aku-cuatro-indicadores-mercado-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-customer-persona-concept desde [hormozi] (cross-source)"
+    - id: aku-elegir-modelos-que-se-parezcan-a-cada-segmento-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-customer-persona-concept desde [kolenda] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -119,4 +125,4 @@ Funciona porque [[aku-customer-persona-concept]] postula que pensar en una perso
 
 ## Relaciones
 
-**justified_by** ← [[aku-customer-persona-concept]] · [[aku-variables-segmentacion-concept]] · [[aku-segmentos-de-clientes-concept]] · [[aku-customer-persona-dimensiones-analisis-concept]]
+**justified_by** ← [[aku-customer-persona-concept]] · [[aku-variables-segmentacion-concept]] · [[aku-segmentos-de-clientes-concept]] · [[aku-customer-persona-dimensiones-analisis-concept]] · [[aku-cuatro-indicadores-mercado-concept]] · [[aku-elegir-modelos-que-se-parezcan-a-cada-segmento-claim]]

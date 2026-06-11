@@ -17,6 +17,9 @@ aku_links:
     - id: aku-anuncio-texto-google-ads-concept
       link_validation: llm-proposed
       link_note: "Marco del anuncio sobre el que se experimenta."
+    - id: aku-anuncio-callout-value-cta-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-anuncio-texto-google-ads-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -95,4 +98,4 @@ Aplicable también a descripciones, CTA o extensiones, cambiando una variable ca
 
 ## Relaciones
 
-**justified_by** ← [[aku-titulo-anuncio-google-concept]] · [[aku-anuncio-texto-google-ads-concept]]
+**justified_by** ← [[aku-titulo-anuncio-google-concept]] · [[aku-anuncio-texto-google-ads-concept]] · [[aku-anuncio-callout-value-cta-concept]]

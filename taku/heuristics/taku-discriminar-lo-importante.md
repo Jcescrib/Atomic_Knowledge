@@ -17,6 +17,9 @@ aku_links:
     - id: aku-detach-tactico-estrategico-concept
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-blitz-no-resuelvas-todos-problemas-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-saber-que-es-importante-y-que-no-method desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -68,4 +71,4 @@ Las 4 preguntas: ¿cómo impacta en los objetivos estratégicos?, ¿puede causar
 
 ## Relaciones
 
-**justified_by** ← [[aku-saber-que-es-importante-y-que-no-method]] · [[aku-detach-tactico-estrategico-concept]]
+**justified_by** ← [[aku-saber-que-es-importante-y-que-no-method]] · [[aku-detach-tactico-estrategico-concept]] · [[aku-blitz-no-resuelvas-todos-problemas-claim]]

@@ -54,6 +54,30 @@ aku_links:
     - id: aku-reducir-costes-no-precio-claim
       link_validation: llm-proposed
       link_note: "Claim que prioriza operar sobre costes no-precio para preservar margen."
+    - id: aku-dream-outcome-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-beneficio-emocional-concept desde [hormozi] (cross-source)"
+    - id: aku-value-equation-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-propuesta-de-valor-concept desde [hormozi] (cross-source)"
+    - id: aku-muestra-el-producto-antes-del-precio-en-productos-emocionales-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-beneficio-funcional-concept desde [kolenda] (cross-source)"
+    - id: aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-beneficio-emocional-concept desde [james-clear] (cross-source)"
+    - id: aku-dolor-es-el-pitch-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-problema-resuelto-concept desde [hormozi] (cross-source)"
+    - id: aku-ampliar-gap-valor-precio-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-ecuacion-valor-claim desde [hormozi] (cross-source)"
+    - id: aku-choice-psychology-tres-mecanismos-de-decision-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-ecuacion-valor-claim desde [kolenda] (cross-source)"
+    - id: aku-precio-alto-aumenta-valor-percibido-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-emocion-prevalece-razon-claim desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -140,6 +164,6 @@ Canvas 2×3 que descompone una propuesta de valor en columnas (qué ofreces / be
 
 ## Relaciones
 
-**justified_by** ← [[aku-power-value-modelo-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-beneficio-funcional-concept]] · [[aku-beneficio-emocional-concept]] · [[aku-problema-resuelto-concept]] · [[aku-coste-percibido-amplio-concept]] · [[aku-cosas-importantes-concept]] · [[aku-competencia-amplia-concept]] · [[aku-ecuacion-valor-claim]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-reducir-costes-no-precio-claim]]
+**justified_by** ← [[aku-power-value-modelo-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-beneficio-funcional-concept]] · [[aku-beneficio-emocional-concept]] · [[aku-problema-resuelto-concept]] · [[aku-coste-percibido-amplio-concept]] · [[aku-cosas-importantes-concept]] · [[aku-competencia-amplia-concept]] · [[aku-ecuacion-valor-claim]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-reducir-costes-no-precio-claim]] · [[aku-dream-outcome-concept]] · [[aku-value-equation-concept]] · [[aku-muestra-el-producto-antes-del-precio-en-productos-emocionales-claim]] · [[aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept]] · [[aku-dolor-es-el-pitch-claim]] · [[aku-ampliar-gap-valor-precio-claim]] · [[aku-choice-psychology-tres-mecanismos-de-decision-concept]] · [[aku-precio-alto-aumenta-valor-percibido-claim]]
 
 **complementary** ↔ [[taku-estrategia-oceano-azul]] · [[taku-plan-de-marca]]

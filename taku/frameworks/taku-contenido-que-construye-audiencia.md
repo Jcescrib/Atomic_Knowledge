@@ -23,6 +23,18 @@ aku_links:
     - id: aku-give-ask-ratio-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-copy-incluir-titular-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-content-hook-concept desde [power-mba] (cross-source)"
+    - id: aku-formulas-titulos-potentes-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-content-hook-concept desde [power-mba] (cross-source)"
+    - id: aku-estilo-editorial-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-content-retain-concept desde [power-mba] (cross-source)"
+    - id: aku-a-veces-el-mejor-modo-de-extraer-valor-es-no-regatear-al-maximo-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-give-ask-ratio-claim desde [50-cent] (cross-source)"
   constrained_by:
     - id: aku-content-reward-valor-por-segundo-claim
       link_validation: llm-proposed
@@ -100,6 +112,6 @@ pre-programar posts (peor feedback loop).
 
 ## Relaciones
 
-**justified_by** ← [[aku-content-unit-concept]] · [[aku-content-hook-concept]] · [[aku-content-retain-concept]] · [[aku-give-ask-ratio-claim]]
+**justified_by** ← [[aku-content-unit-concept]] · [[aku-content-hook-concept]] · [[aku-content-retain-concept]] · [[aku-give-ask-ratio-claim]] · [[aku-copy-incluir-titular-claim]] · [[aku-formulas-titulos-potentes-concept]] · [[aku-estilo-editorial-concept]] · [[aku-a-veces-el-mejor-modo-de-extraer-valor-es-no-regatear-al-maximo-claim]]
 
 **constrained_by** ← [[aku-content-reward-valor-por-segundo-claim]]

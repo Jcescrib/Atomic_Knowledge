@@ -28,6 +28,18 @@ aku_links:
     - id: aku-tipos-estrategias-crecimiento-concept
       link_validation: llm-proposed
       link_note: "Sitúa el blitzscaling frente a las otras tres estrategias."
+    - id: aku-los-que-no-arriesgan-no-ganan-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-blitzscaling-concept desde [jocko] (cross-source)"
+    - id: aku-calcular-y-mitigar-riesgo-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-blitzscaling-concept desde [jocko] (cross-source)"
+    - id: aku-free-bootstrap-plataforma-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-factores-crecimiento-blitzscaling-concept desde [(unknown)] (cross-source)"
+    - id: aku-tu-negocio-se-rompe-cuando-funciona
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-limitadores-crecimiento-blitzscaling-concept desde [hormozi] (cross-source)"
   constrained_by:
     - id: aku-blitzscaling-cuando-oportunidad-enorme-claim
       link_validation: llm-proposed
@@ -112,7 +124,7 @@ factores de crecimiento; exige aceptar riesgo, caos e ineficiencia temporales.
 
 ## Relaciones
 
-**justified_by** ← [[aku-blitzscaling-concept]] · [[aku-factores-crecimiento-blitzscaling-concept]] · [[aku-limitadores-crecimiento-blitzscaling-concept]] · [[aku-tipos-estrategias-crecimiento-concept]]
+**justified_by** ← [[aku-blitzscaling-concept]] · [[aku-factores-crecimiento-blitzscaling-concept]] · [[aku-limitadores-crecimiento-blitzscaling-concept]] · [[aku-tipos-estrategias-crecimiento-concept]] · [[aku-los-que-no-arriesgan-no-ganan-claim]] · [[aku-calcular-y-mitigar-riesgo-claim]] · [[aku-free-bootstrap-plataforma-claim]] · [[aku-tu-negocio-se-rompe-cuando-funciona]]
 **constrained_by** ← [[aku-blitzscaling-cuando-oportunidad-enorme-claim]]
 **complementary** ↔ [[taku-matriz-ansoff]] · [[taku-principios-blitzscaling]]
 **follows** ← [[taku-lean-startup-method]]

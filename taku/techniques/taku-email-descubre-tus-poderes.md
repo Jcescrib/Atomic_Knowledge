@@ -17,6 +17,15 @@ aku_links:
     - id: aku-diagnostico-estrategico-personal-concept
       link_validation: llm-proposed
       link_note: "Herramienta del diagnóstico para conocer fortalezas."
+    - id: aku-fortaleza-puede-ser-debilidad-y-viceversa-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-descubrir-fortalezas-feedback-externo-concept desde [jocko] (cross-source)"
+    - id: aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-descubrir-fortalezas-feedback-externo-concept desde [james-clear] (cross-source)"
+    - id: aku-conocer-tu-valor-y-extraer-el-maximo-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-diagnostico-estrategico-personal-concept desde [50-cent] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -99,6 +108,6 @@ y fortalezas (en qué destacas).
 
 ## Relaciones
 
-**justified_by** ← [[aku-descubrir-fortalezas-feedback-externo-concept]] · [[aku-diagnostico-estrategico-personal-concept]]
+**justified_by** ← [[aku-descubrir-fortalezas-feedback-externo-concept]] · [[aku-diagnostico-estrategico-personal-concept]] · [[aku-fortaleza-puede-ser-debilidad-y-viceversa-claim]] · [[aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim]] · [[aku-conocer-tu-valor-y-extraer-el-maximo-concept]]
 **precedes** → [[taku-analisis-situacion-laboral]]
 **follows** ← [[taku-viaje-al-pasado]]

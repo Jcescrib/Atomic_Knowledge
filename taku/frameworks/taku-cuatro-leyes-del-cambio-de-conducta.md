@@ -23,6 +23,24 @@ aku_links:
     - id: aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cuatro-leyes-del-cambio-de-conducta-concept desde [naval] (cross-source)"
+    - id: aku-se-capta-mas-atencion-con-baja-carga-cognitiva-sin-meta-activa-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-habito-concept desde [kolenda] (cross-source)"
+    - id: aku-impaciencia-con-las-acciones-paciencia-con-los-resultados-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim desde [naval] (cross-source)"
+    - id: aku-open-to-goal-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim desde [hormozi] (cross-source)"
+    - id: aku-sin-propiedad-tus-inputs-estan-atados-a-tus-outputs-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim desde [naval] (cross-source)"
+    - id: aku-earn-with-your-mind-not-your-time-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim desde [naval] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -91,4 +109,4 @@ Se complementa con los hábitos basados en la identidad (capa más profunda) y c
 
 ## Relaciones
 
-**justified_by** ← [[aku-cuatro-leyes-del-cambio-de-conducta-concept]] · [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-habito-concept]] · [[aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim]]
+**justified_by** ← [[aku-cuatro-leyes-del-cambio-de-conducta-concept]] · [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-habito-concept]] · [[aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim]] · [[aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim]] · [[aku-se-capta-mas-atencion-con-baja-carga-cognitiva-sin-meta-activa-claim]] · [[aku-impaciencia-con-las-acciones-paciencia-con-los-resultados-claim]] · [[aku-open-to-goal-claim]] · [[aku-sin-propiedad-tus-inputs-estan-atados-a-tus-outputs-claim]] · [[aku-earn-with-your-mind-not-your-time-claim]]

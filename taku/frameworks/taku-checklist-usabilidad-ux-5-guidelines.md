@@ -26,6 +26,15 @@ aku_links:
     - id: aku-ux-compatibility-adaptarse-al-usuario-concept
       link_validation: llm-proposed
       link_note: "Guideline 5."
+    - id: aku-perception-is-reality-value-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-ux-understanding-comunicar-con-claridad-concept desde [hormozi] (cross-source)"
+    - id: aku-preemptive-ownership-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-ux-errors-prevenir-y-recuperar-errores-concept desde [jocko] (cross-source)"
+    - id: aku-landing-page-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-ux-compatibility-adaptarse-al-usuario-concept desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -129,4 +138,4 @@ Cada táctica principal está respaldada por un claim-AKU propio (ver el cluster
 
 ## Relaciones
 
-**justified_by** ← [[aku-ux-focus-guiar-la-atencion-concept]] · [[aku-ux-understanding-comunicar-con-claridad-concept]] · [[aku-ux-effort-minimizar-el-esfuerzo-concept]] · [[aku-ux-errors-prevenir-y-recuperar-errores-concept]] · [[aku-ux-compatibility-adaptarse-al-usuario-concept]]
+**justified_by** ← [[aku-ux-focus-guiar-la-atencion-concept]] · [[aku-ux-understanding-comunicar-con-claridad-concept]] · [[aku-ux-effort-minimizar-el-esfuerzo-concept]] · [[aku-ux-errors-prevenir-y-recuperar-errores-concept]] · [[aku-ux-compatibility-adaptarse-al-usuario-concept]] · [[aku-perception-is-reality-value-claim]] · [[aku-preemptive-ownership-concept]] · [[aku-landing-page-concept]]

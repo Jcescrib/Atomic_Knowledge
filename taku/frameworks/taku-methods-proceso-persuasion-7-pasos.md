@@ -26,6 +26,24 @@ aku_links:
     - id: aku-methods-step5-optimizar-tu-mensaje-concept
       link_validation: llm-proposed
       link_note: "Fase DURANTE: optimizar mensaje."
+    - id: aku-leyes-persuasion-cialdini-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-methods-proceso-de-persuasion-en-siete-pasos-concept desde [power-mba] (cross-source)"
+    - id: aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-el-priming-influye-en-la-conducta-claim desde [james-clear] (cross-source)"
+    - id: aku-perception-is-reality-value-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-methods-step1-moldear-la-percepcion-concept desde [hormozi] (cross-source)"
+    - id: aku-el-toque-ligero-en-el-antebrazo-aumenta-el-acuerdo-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-methods-step1-moldear-la-percepcion-concept desde [50-cent] (cross-source)"
+    - id: aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-methods-step3-activar-presion-social-concept desde [james-clear] (cross-source)"
+    - id: aku-cialdini-prueba-social-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-methods-step3-activar-presion-social-concept desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -92,4 +110,4 @@ Ver `aku_links.justified_by`. Cada paso es un concept-AKU del cluster `kolenda, 
 
 ## Relaciones
 
-**justified_by** ← [[aku-methods-proceso-de-persuasion-en-siete-pasos-concept]] · [[aku-el-priming-influye-en-la-conducta-claim]] · [[aku-methods-step1-moldear-la-percepcion-concept]] · [[aku-methods-step3-activar-presion-social-concept]] · [[aku-methods-step5-optimizar-tu-mensaje-concept]]
+**justified_by** ← [[aku-methods-proceso-de-persuasion-en-siete-pasos-concept]] · [[aku-el-priming-influye-en-la-conducta-claim]] · [[aku-methods-step1-moldear-la-percepcion-concept]] · [[aku-methods-step3-activar-presion-social-concept]] · [[aku-methods-step5-optimizar-tu-mensaje-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept]] · [[aku-perception-is-reality-value-claim]] · [[aku-el-toque-ligero-en-el-antebrazo-aumenta-el-acuerdo-method]] · [[aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim]] · [[aku-cialdini-prueba-social-concept]]

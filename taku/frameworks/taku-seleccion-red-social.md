@@ -17,6 +17,9 @@ aku_links:
     - id: aku-eleccion-red-social-segun-negocio-claim
       link_validation: llm-proposed
       link_note: "Justifica elegir según negocio/audiencia/objetivo en lugar de tamaño."
+    - id: aku-depth-then-width-vs-width-then-depth-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-eleccion-red-social-segun-negocio-claim desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -92,4 +95,4 @@ Combinar con paid social y marketing de influencers según la red elegida.
 
 ## Relaciones
 
-**justified_by** ← [[aku-comparativa-redes-sociales-concept]] · [[aku-eleccion-red-social-segun-negocio-claim]]
+**justified_by** ← [[aku-comparativa-redes-sociales-concept]] · [[aku-eleccion-red-social-segun-negocio-claim]] · [[aku-depth-then-width-vs-width-then-depth-concept]]

@@ -17,6 +17,15 @@ aku_links:
     - id: aku-instinto-de-rendirse-es-mentiroso-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-not-feeling-it-go-anyway-claim desde [james-clear] (cross-source)"
+    - id: aku-48laws-22-use-the-surrender-tactic-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-instinto-de-rendirse-es-mentiroso-claim desde [robert-greene] (cross-source)"
+    - id: aku-corazon-de-hustler-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-instinto-de-rendirse-es-mentiroso-claim desde [50-cent] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -68,4 +77,4 @@ Si tras posponerlo un día sigues necesitando descanso, tómalo; si el patrón s
 
 ## Relaciones
 
-**justified_by** ← [[aku-not-feeling-it-go-anyway-claim]] · [[aku-instinto-de-rendirse-es-mentiroso-claim]]
+**justified_by** ← [[aku-not-feeling-it-go-anyway-claim]] · [[aku-instinto-de-rendirse-es-mentiroso-claim]] · [[aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method]] · [[aku-48laws-22-use-the-surrender-tactic-concept]] · [[aku-corazon-de-hustler-concept]]

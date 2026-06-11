@@ -20,6 +20,9 @@ aku_links:
     - id: aku-balance-ownership-decentralized-command-concept
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-el-liderazgo-eficaz-adapta-la-tactica-a-cada-persona-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-dichotomy-of-leadership-concept desde [50-cent] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -75,6 +78,6 @@ Cada dicotomía es un AKU propio con sus dos extremos de fallo; se complementa c
 
 ## Relaciones
 
-**justified_by** ← [[aku-dichotomy-of-leadership-concept]] · [[aku-lider-se-desvia-por-inclinarse-demasiado-claim]] · [[aku-balance-ownership-decentralized-command-concept]]
+**justified_by** ← [[aku-dichotomy-of-leadership-concept]] · [[aku-lider-se-desvia-por-inclinarse-demasiado-claim]] · [[aku-balance-ownership-decentralized-command-concept]] · [[aku-el-liderazgo-eficaz-adapta-la-tactica-a-cada-persona-claim]]
 
 **complementary** ↔ [[taku-diagnostico-micromanagement-hands-off]]

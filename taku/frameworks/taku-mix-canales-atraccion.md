@@ -28,6 +28,15 @@ aku_links:
     - id: aku-performance-marketing-concept
       link_validation: llm-proposed
       link_note: "Paid medible de respuesta casi instantánea."
+    - id: aku-core-four-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-canales-marketing-digital-concept desde [hormozi] (cross-source)"
+    - id: aku-content-nutre-toda-publicidad-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-inbound-marketing-concept desde [hormozi] (cross-source)"
+    - id: aku-cold-outreach-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-outbound-marketing-concept desde [hormozi] (cross-source)"
   constrained_by:
     - id: aku-calidad-vs-cantidad-trafico-concept
       link_validation: llm-proposed
@@ -103,6 +112,6 @@ de tráfico.
 
 ## Relaciones
 
-**justified_by** ← [[aku-canales-marketing-digital-concept]] · [[aku-inbound-marketing-concept]] · [[aku-outbound-marketing-concept]] · [[aku-performance-marketing-concept]]
+**justified_by** ← [[aku-canales-marketing-digital-concept]] · [[aku-inbound-marketing-concept]] · [[aku-outbound-marketing-concept]] · [[aku-performance-marketing-concept]] · [[aku-core-four-concept]] · [[aku-content-nutre-toda-publicidad-claim]] · [[aku-cold-outreach-concept]]
 **constrained_by** ← [[aku-calidad-vs-cantidad-trafico-concept]]
 **complementary** ↔ [[taku-power-funnel]]

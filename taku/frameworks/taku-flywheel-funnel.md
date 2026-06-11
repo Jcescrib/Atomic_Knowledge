@@ -21,6 +21,12 @@ aku_links:
     - id: aku-fidelizacion-vs-retencion-concept
       link_validation: llm-proposed
       link_note: "El objetivo central del flywheel es fidelizar/retener."
+    - id: aku-continuity-offer-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-fidelizacion-vs-retencion-concept desde [hormozi] (cross-source)"
+    - id: aku-facilitar-cancelacion
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-fidelizacion-vs-retencion-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -91,5 +97,5 @@ la velocidad (deleitar al cliente) y reducir la fricción (automatización).
 
 ## Relaciones
 
-**justified_by** ← [[aku-flywheel-funnel-concept]] · [[aku-fidelizacion-vs-retencion-concept]]
+**justified_by** ← [[aku-flywheel-funnel-concept]] · [[aku-fidelizacion-vs-retencion-concept]] · [[aku-continuity-offer-concept]] · [[aku-facilitar-cancelacion]]
 **alternative_to** ↔ [[taku-power-funnel]]

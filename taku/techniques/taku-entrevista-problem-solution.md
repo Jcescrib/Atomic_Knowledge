@@ -39,6 +39,18 @@ aku_links:
     - id: aku-falso-positivo-validation-concept
       link_validation: llm-proposed
       link_note: "El riesgo central que la técnica debe gestionar."
+    - id: aku-problem-solution-cycle-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-entrevista-problem-solution-concept desde [hormozi] (cross-source)"
+    - id: aku-bonos-gratis-crean-problemas-upsell
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-problem-solution-fit-concept desde [hormozi] (cross-source)"
+    - id: aku-cuatro-indicadores-mercado-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-customer-persona-concept desde [hormozi] (cross-source)"
+    - id: aku-elegir-modelos-que-se-parezcan-a-cada-segmento-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-customer-persona-concept desde [kolenda] (cross-source)"
   constrained_by:
     - id: aku-falso-positivo-validation-concept
       link_validation: llm-proposed
@@ -157,7 +169,7 @@ Funciona porque [[aku-aprender-clientes-reales-claim]] establece que el único a
 
 ## Relaciones
 
-**justified_by** ← [[aku-entrevista-problem-solution-concept]] · [[aku-problem-solution-fit-concept]] · [[aku-customer-persona-concept]] · [[aku-mvp-concept]] · [[aku-falso-positivo-validation-concept]]
+**justified_by** ← [[aku-entrevista-problem-solution-concept]] · [[aku-problem-solution-fit-concept]] · [[aku-customer-persona-concept]] · [[aku-mvp-concept]] · [[aku-falso-positivo-validation-concept]] · [[aku-problem-solution-cycle-concept]] · [[aku-bonos-gratis-crean-problemas-upsell]] · [[aku-cuatro-indicadores-mercado-concept]] · [[aku-elegir-modelos-que-se-parezcan-a-cada-segmento-claim]]
 
 **constrained_by** ← [[aku-falso-positivo-validation-concept]]
 

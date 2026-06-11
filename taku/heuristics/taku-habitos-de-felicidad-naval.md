@@ -23,6 +23,18 @@ aku_links:
     - id: aku-toda-actividad-de-pantalla-resta-felicidad-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-minimalismo-digital-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-mejora-metodica-de-tu-baseline-de-felicidad-method desde [power-mba] (cross-source)"
+    - id: aku-la-meditacion-con-mantra-baja-el-volumen-de-los-pensamientos-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-mejora-metodica-de-tu-baseline-de-felicidad-method desde [50-cent] (cross-source)"
+    - id: aku-redefinir-agotamiento-eleva-baseline-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-mejora-metodica-de-tu-baseline-de-felicidad-method desde [jocko] (cross-source)"
+    - id: aku-el-entorno-es-la-mano-invisible-que-moldea-la-conducta-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-toda-actividad-de-pantalla-resta-felicidad-claim desde [james-clear] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -91,4 +103,4 @@ Cambia un hábito cada vez con el método de cambio de hábitos (elige uno, visu
 
 ## Relaciones
 
-**justified_by** ← [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-mejora-metodica-de-tu-baseline-de-felicidad-method]] · [[aku-felicidad-requiere-presencia-claim]] · [[aku-toda-actividad-de-pantalla-resta-felicidad-claim]]
+**justified_by** ← [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-mejora-metodica-de-tu-baseline-de-felicidad-method]] · [[aku-felicidad-requiere-presencia-claim]] · [[aku-toda-actividad-de-pantalla-resta-felicidad-claim]] · [[aku-minimalismo-digital-concept]] · [[aku-la-meditacion-con-mantra-baja-el-volumen-de-los-pensamientos-method]] · [[aku-redefinir-agotamiento-eleva-baseline-claim]] · [[aku-el-entorno-es-la-mano-invisible-que-moldea-la-conducta-claim]]

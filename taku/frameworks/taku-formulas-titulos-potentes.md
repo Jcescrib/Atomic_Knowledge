@@ -32,6 +32,30 @@ aku_links:
     - id: aku-formula-titulo-caso-exito-method
       link_validation: llm-proposed
       link_note: "Plantilla «Cómo + Empresa + consiguió + Resultado + Tiempo»."
+    - id: aku-bonus-presentation-checklist-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-formula-titulo-resultado-tiempo-objecion-method desde [hormozi] (cross-source)"
+    - id: aku-content-hook-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-formulas-titulos-potentes-concept desde [hormozi] (cross-source)"
+    - id: aku-siete-componentes-headline-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-formulas-titulos-potentes-concept desde [hormozi] (cross-source)"
+    - id: aku-callout-cocktail-party-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-formulas-titulos-potentes-concept desde [hormozi] (cross-source)"
+    - id: aku-magic-naming-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-formulas-titulos-potentes-concept desde [hormozi] (cross-source)"
+    - id: aku-terminar-las-frases-con-una-imagen-concreta-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-hacks-copywriting-concept desde [kolenda] (cross-source)"
+    - id: aku-cta-hormozi-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-hacks-copywriting-concept desde [hormozi] (cross-source)"
+    - id: aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-formula-titulo-numero-errores-deseo-method desde [kolenda] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -109,4 +133,4 @@ Combina con power words y prueba social; testea variantes con A/B testing.
 
 ## Relaciones
 
-**justified_by** ← [[aku-formulas-titulos-potentes-concept]] · [[aku-hacks-copywriting-concept]] · [[aku-formula-titulo-resultado-tiempo-objecion-method]] · [[aku-formula-titulo-numero-sustantivo-adjetivo-method]] · [[aku-formula-titulo-como-lograr-objecion-method]] · [[aku-formula-titulo-numero-errores-deseo-method]] · [[aku-formula-titulo-caso-exito-method]]
+**justified_by** ← [[aku-formulas-titulos-potentes-concept]] · [[aku-hacks-copywriting-concept]] · [[aku-formula-titulo-resultado-tiempo-objecion-method]] · [[aku-formula-titulo-numero-sustantivo-adjetivo-method]] · [[aku-formula-titulo-como-lograr-objecion-method]] · [[aku-formula-titulo-numero-errores-deseo-method]] · [[aku-formula-titulo-caso-exito-method]] · [[aku-bonus-presentation-checklist-concept]] · [[aku-content-hook-concept]] · [[aku-siete-componentes-headline-concept]] · [[aku-callout-cocktail-party-claim]] · [[aku-magic-naming-concept]] · [[aku-terminar-las-frases-con-una-imagen-concreta-claim]] · [[aku-cta-hormozi-concept]] · [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]

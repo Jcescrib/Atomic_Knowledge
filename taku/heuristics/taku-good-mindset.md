@@ -17,6 +17,24 @@ aku_links:
     - id: aku-incluso-en-la-muerte-hay-good-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-la-adversidad-temprana-forja-una-resiliencia-que-el-privilegio-no-da-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-good-mindset-concept desde [50-cent] (cross-source)"
+    - id: aku-mentalidad-de-hustler-lo-recupero-en-la-siguiente-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-good-mindset-concept desde [50-cent] (cross-source)"
+    - id: aku-cambiar-aceptar-o-dejar-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-good-mindset-concept desde [naval] (cross-source)"
+    - id: aku-reencuadra-tus-habitos-de-have-to-a-get-to-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-good-mindset-concept desde [james-clear] (cross-source)"
+    - id: aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-good-mindset-concept desde [50-cent] (cross-source)"
+    - id: aku-proposito-personal-sostenibilidad-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-incluso-en-la-muerte-hay-good-claim desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -68,4 +86,4 @@ Empareja siempre el «good» con la pregunta «¿qué hago ahora?»: aceptar rea
 
 ## Relaciones
 
-**justified_by** ← [[aku-good-mindset-concept]] · [[aku-incluso-en-la-muerte-hay-good-claim]]
+**justified_by** ← [[aku-good-mindset-concept]] · [[aku-incluso-en-la-muerte-hay-good-claim]] · [[aku-la-adversidad-temprana-forja-una-resiliencia-que-el-privilegio-no-da-claim]] · [[aku-mentalidad-de-hustler-lo-recupero-en-la-siguiente-claim]] · [[aku-cambiar-aceptar-o-dejar-concept]] · [[aku-reencuadra-tus-habitos-de-have-to-a-get-to-method]] · [[aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept]] · [[aku-proposito-personal-sostenibilidad-claim]]

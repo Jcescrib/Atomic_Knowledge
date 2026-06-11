@@ -20,6 +20,15 @@ aku_links:
     - id: aku-relax-look-around-make-a-call-method
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-lead-scoring-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-prioritize-and-execute-concept desde [power-mba] (cross-source)"
+    - id: aku-cascada-estrategica-ejecucion-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-prioritize-and-execute-pasos-method desde [power-mba] (cross-source)"
+    - id: aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-prioritize-and-execute-pasos-method desde [naval] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -85,6 +94,6 @@ Tras la operación, en el post-operational debrief.
 
 ## Relaciones
 
-**justified_by** ← [[aku-prioritize-and-execute-concept]] · [[aku-prioritize-and-execute-pasos-method]] · [[aku-relax-look-around-make-a-call-method]]
+**justified_by** ← [[aku-prioritize-and-execute-concept]] · [[aku-prioritize-and-execute-pasos-method]] · [[aku-relax-look-around-make-a-call-method]] · [[aku-lead-scoring-concept]] · [[aku-cascada-estrategica-ejecucion-concept]] · [[aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim]]
 
 **complementary** ↔ [[taku-laws-of-combat]] · [[taku-planning-checklist]]

@@ -17,6 +17,27 @@ aku_links:
     - id: aku-cta-concept
       link_validation: llm-proposed
       link_note: "Justifica el hack de incluir llamadas a la acción."
+    - id: aku-cta-hormozi-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-hacks-copywriting-concept desde [hormozi] (cross-source)"
+    - id: aku-terminar-las-frases-con-una-imagen-concreta-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-hacks-copywriting-concept desde [kolenda] (cross-source)"
+    - id: aku-esquemas-de-combinacion-de-color-monocromatico-a-tetradico-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cta-concept desde [kolenda] (cross-source)"
+    - id: aku-los-colores-saturados-parecen-mas-cercanos-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cta-concept desde [kolenda] (cross-source)"
+    - id: aku-esquema-de-color-split-complementario-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cta-concept desde [kolenda] (cross-source)"
+    - id: aku-anuncio-callout-value-cta-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cta-concept desde [hormozi] (cross-source)"
+    - id: aku-reason-why-aumenta-accion-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cta-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -82,4 +103,4 @@ audiencia.
 
 ## Relaciones
 
-**justified_by** ← [[aku-hacks-copywriting-concept]] · [[aku-cta-concept]]
+**justified_by** ← [[aku-hacks-copywriting-concept]] · [[aku-cta-concept]] · [[aku-cta-hormozi-concept]] · [[aku-terminar-las-frases-con-una-imagen-concreta-claim]] · [[aku-esquemas-de-combinacion-de-color-monocromatico-a-tetradico-method]] · [[aku-los-colores-saturados-parecen-mas-cercanos-claim]] · [[aku-esquema-de-color-split-complementario-claim]] · [[aku-anuncio-callout-value-cta-concept]] · [[aku-reason-why-aumenta-accion-claim]]

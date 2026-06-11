@@ -20,6 +20,12 @@ aku_links:
     - id: aku-upsell-mayor-beneficio-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-un-numero-mayor-sugiere-un-producto-mas-avanzado-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cuatro-upsells-concept desde [kolenda] (cross-source)"
+    - id: aku-exponer-a-cualquier-numero-alto-eleva-el-precio-de-referencia-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cuatro-upsells-concept desde [kolenda] (cross-source)"
   constrained_by:
     - id: aku-money-model-concept
       link_validation: llm-proposed
@@ -96,6 +102,6 @@ late return → seguro → gas).
 
 ## Relaciones
 
-**justified_by** ← [[aku-upsell-offer-concept]] · [[aku-cuatro-upsells-concept]] · [[aku-upsell-mayor-beneficio-claim]]
+**justified_by** ← [[aku-upsell-offer-concept]] · [[aku-cuatro-upsells-concept]] · [[aku-upsell-mayor-beneficio-claim]] · [[aku-un-numero-mayor-sugiere-un-producto-mas-avanzado-claim]] · [[aku-exponer-a-cualquier-numero-alto-eleva-el-precio-de-referencia-claim]]
 
 **constrained_by** ← [[aku-money-model-concept]]

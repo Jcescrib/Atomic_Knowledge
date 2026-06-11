@@ -17,6 +17,9 @@ aku_links:
     - id: aku-power-funnel-concept
       link_validation: llm-proposed
       link_note: "Estructura de funnel sobre la que se asignan los KPIs."
+    - id: aku-paid-ads-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-medicion-resultados-influencers-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -93,4 +96,4 @@ Combinar con herramientas de marketing de influencers que automatizan el reporti
 
 ## Relaciones
 
-**justified_by** ← [[aku-medicion-resultados-influencers-concept]] · [[aku-power-funnel-concept]]
+**justified_by** ← [[aku-medicion-resultados-influencers-concept]] · [[aku-power-funnel-concept]] · [[aku-paid-ads-concept]]

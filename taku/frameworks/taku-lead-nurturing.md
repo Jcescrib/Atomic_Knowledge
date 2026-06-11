@@ -28,6 +28,27 @@ aku_links:
     - id: aku-marketing-automation-concept
       link_validation: llm-proposed
       link_note: "Automatizar el nurturing con CRM y workflows."
+    - id: aku-engaged-lead-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-lead-concept desde [hormozi] (cross-source)"
+    - id: aku-one-page-advertising-checklist-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-lead-concept desde [hormozi] (cross-source)"
+    - id: aku-lead-contactable-hormozi-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-lead-concept desde [hormozi] (cross-source)"
+    - id: aku-resolver-cada-problema-percibido-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-lead-nurturing-concept desde [hormozi] (cross-source)"
+    - id: aku-solve-every-problem-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-lead-nurturing-concept desde [hormozi] (cross-source)"
+    - id: aku-prioritize-and-execute-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-lead-scoring-concept desde [jocko] (cross-source)"
+    - id: aku-volumen-cold-tres-palancas-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-marketing-automation-concept desde [hormozi] (cross-source)"
   constrained_by:
     - id: aku-nurturing-segun-complejidad-claim
       link_validation: llm-proposed
@@ -104,6 +125,6 @@ automation con CRM y workflows).
 
 ## Relaciones
 
-**justified_by** ← [[aku-lead-concept]] · [[aku-lead-nurturing-concept]] · [[aku-lead-scoring-concept]] · [[aku-marketing-automation-concept]]
+**justified_by** ← [[aku-lead-concept]] · [[aku-lead-nurturing-concept]] · [[aku-lead-scoring-concept]] · [[aku-marketing-automation-concept]] · [[aku-engaged-lead-concept]] · [[aku-one-page-advertising-checklist-concept]] · [[aku-lead-contactable-hormozi-concept]] · [[aku-resolver-cada-problema-percibido-claim]] · [[aku-solve-every-problem-claim]] · [[aku-prioritize-and-execute-concept]] · [[aku-volumen-cold-tres-palancas-concept]]
 **constrained_by** ← [[aku-nurturing-segun-complejidad-claim]]
 **complementary** ↔ [[taku-power-funnel]]

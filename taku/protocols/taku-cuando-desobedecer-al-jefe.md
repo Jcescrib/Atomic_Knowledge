@@ -20,6 +20,9 @@ aku_links:
     - id: aku-ejecutar-decision-como-propia-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-elige-socios-con-integridad-sobre-todo-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-excepcion-resistir-ordenes-ilegales-inmorales-claim desde [naval] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -81,4 +84,4 @@ Proceder con extrema cautela: algunos cursos tienen desenlaces catastróficos pa
 
 ## Relaciones
 
-**justified_by** ← [[aku-cuando-desobedecer-ultimo-recurso-method]] · [[aku-excepcion-resistir-ordenes-ilegales-inmorales-claim]] · [[aku-ejecutar-decision-como-propia-claim]]
+**justified_by** ← [[aku-cuando-desobedecer-ultimo-recurso-method]] · [[aku-excepcion-resistir-ordenes-ilegales-inmorales-claim]] · [[aku-ejecutar-decision-como-propia-claim]] · [[aku-elige-socios-con-integridad-sobre-todo-claim]]

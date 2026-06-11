@@ -23,6 +23,9 @@ aku_links:
     - id: aku-cultura-saludable-ventaja-claim
       link_validation: llm-proposed
       link_note: "Una cultura sólida es factor diferenciador frente a competidores."
+    - id: aku-cultura-ownership-resiste-perdida-lider-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cultura-corporativa-concept desde [jocko] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -98,5 +101,5 @@ a la estrategia.
 
 ## Relaciones
 
-**justified_by** ← [[aku-arquetipos-cultura-concept]] · [[aku-cultura-corporativa-concept]] · [[aku-estructura-cultura-siguen-estrategia-claim]] · [[aku-cultura-saludable-ventaja-claim]]
+**justified_by** ← [[aku-arquetipos-cultura-concept]] · [[aku-cultura-corporativa-concept]] · [[aku-estructura-cultura-siguen-estrategia-claim]] · [[aku-cultura-saludable-ventaja-claim]] · [[aku-cultura-ownership-resiste-perdida-lider-claim]]
 **complementary** ↔ [[taku-estructuras-organizacionales]]

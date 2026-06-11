@@ -21,6 +21,15 @@ aku_links:
     - id: aku-hustlar-exige-definir-con-claridad-que-quieres-claim
       link_validation: llm-proposed
       link_note: "El tablero materializa la claridad de meta que el hustle exige."
+    - id: aku-sistemas-vs-metas-en-atomic-habits-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-los-vision-boards-materializan-las-metas-y-elevan-su-probabilidad-claim desde [james-clear] (cross-source)"
+    - id: aku-compartir-objetivos-compromiso-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-los-vision-boards-materializan-las-metas-y-elevan-su-probabilidad-claim desde [power-mba] (cross-source)"
+    - id: aku-reunir-datos-de-referencia-antes-de-negociar-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-hustlar-exige-definir-con-claridad-que-quieres-claim desde [kolenda] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -99,4 +108,4 @@ retadoras y específicas → 90 % más probables) como respaldo.
 
 ## Relaciones
 
-**justified_by** ← [[aku-los-vision-boards-materializan-las-metas-y-elevan-su-probabilidad-claim]] · [[aku-hustlar-exige-definir-con-claridad-que-quieres-claim]]
+**justified_by** ← [[aku-los-vision-boards-materializan-las-metas-y-elevan-su-probabilidad-claim]] · [[aku-hustlar-exige-definir-con-claridad-que-quieres-claim]] · [[aku-sistemas-vs-metas-en-atomic-habits-concept]] · [[aku-compartir-objetivos-compromiso-claim]] · [[aku-reunir-datos-de-referencia-antes-de-negociar-claim]]

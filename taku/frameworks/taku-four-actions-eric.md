@@ -36,6 +36,9 @@ aku_links:
     - id: aku-innovacion-valor-via-eric-claim
       link_validation: llm-proposed
       link_note: "Claim central: aplicar ERIC produce innovación en valor (más valor + menos coste)."
+    - id: aku-ampliar-gap-valor-precio-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-innovacion-valor-via-eric-claim desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -116,5 +119,5 @@ Las dos primeras acciones (Eliminar, Reducir) atacan la estructura de **coste**;
 
 ## Relaciones
 
-**justified_by** ← [[aku-eric-eliminar-method]] · [[aku-eric-reducir-method]] · [[aku-eric-incrementar-method]] · [[aku-eric-crear-method]] · [[aku-innovacion-valor-via-eric-claim]]
+**justified_by** ← [[aku-eric-eliminar-method]] · [[aku-eric-reducir-method]] · [[aku-eric-incrementar-method]] · [[aku-eric-crear-method]] · [[aku-innovacion-valor-via-eric-claim]] · [[aku-ampliar-gap-valor-precio-claim]]
 **complementary** ↔ [[taku-estrategia-oceano-azul]]

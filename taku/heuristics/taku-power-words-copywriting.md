@@ -17,6 +17,30 @@ aku_links:
     - id: aku-cta-concept
       link_validation: llm-proposed
       link_note: "Las power words refuerzan especialmente los CTAs."
+    - id: aku-reason-why-aumenta-accion-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-palabras-frases-persuasivas-concept desde [hormozi] (cross-source)"
+    - id: aku-reversion-riesgo-numero-uno-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-palabras-frases-persuasivas-concept desde [hormozi] (cross-source)"
+    - id: aku-urgencia-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-palabras-frases-persuasivas-concept desde [hormozi] (cross-source)"
+    - id: aku-tipos-y-tacticas-escasez-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-palabras-frases-persuasivas-concept desde [hormozi] (cross-source)"
+    - id: aku-distribuir-palabras-semanticamente-relacionadas-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-palabras-frases-persuasivas-concept desde [kolenda] (cross-source)"
+    - id: aku-agrandar-las-palabras-emocionales-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-palabras-frases-persuasivas-concept desde [kolenda] (cross-source)"
+    - id: aku-esquemas-de-combinacion-de-color-monocromatico-a-tetradico-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cta-concept desde [kolenda] (cross-source)"
+    - id: aku-los-colores-saturados-parecen-mas-cercanos-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cta-concept desde [kolenda] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -82,4 +106,4 @@ por la plataforma o que disparen filtros de spam.
 
 ## Relaciones
 
-**justified_by** ← [[aku-palabras-frases-persuasivas-concept]] · [[aku-cta-concept]]
+**justified_by** ← [[aku-palabras-frases-persuasivas-concept]] · [[aku-cta-concept]] · [[aku-reason-why-aumenta-accion-claim]] · [[aku-reversion-riesgo-numero-uno-claim]] · [[aku-urgencia-concept]] · [[aku-tipos-y-tacticas-escasez-concept]] · [[aku-distribuir-palabras-semanticamente-relacionadas-claim]] · [[aku-agrandar-las-palabras-emocionales-claim]] · [[aku-esquemas-de-combinacion-de-color-monocromatico-a-tetradico-method]] · [[aku-los-colores-saturados-parecen-mas-cercanos-claim]]

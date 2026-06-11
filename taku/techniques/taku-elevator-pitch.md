@@ -21,6 +21,9 @@ aku_links:
     - id: aku-vender-una-accion-concept
       link_validation: llm-proposed
       link_note: "El pitch debe «vender» el interés en pocos segundos."
+    - id: aku-hard-selling-producto-debil
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-vender-una-accion-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -108,5 +111,5 @@ comunicaciones.
 
 ## Relaciones
 
-**justified_by** ← [[aku-elevator-pitch-concept]] · [[aku-vender-una-accion-concept]]
+**justified_by** ← [[aku-elevator-pitch-concept]] · [[aku-vender-una-accion-concept]] · [[aku-hard-selling-producto-debil]]
 **complementary** ↔ [[taku-pitch-deck]]

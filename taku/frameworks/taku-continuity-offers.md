@@ -17,6 +17,21 @@ aku_links:
     - id: aku-tres-continuity-offers-concept
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-entorno-de-recompensa-inmediata-vs-diferida-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-continuity-offer-concept desde [james-clear] (cross-source)"
+    - id: aku-cltv-subscription-formula
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-continuity-offer-concept desde [power-mba] (cross-source)"
+    - id: aku-churn-rate-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-continuity-offer-concept desde [power-mba] (cross-source)"
+    - id: aku-dividir-el-precio-en-unidades-mas-pequenas-partitioned-prices-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-continuity-offer-concept desde [kolenda] (cross-source)"
+    - id: aku-fidelizacion-vs-retencion-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-continuity-offer-concept desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-churn-rate-concept
       link_validation: llm-proposed
@@ -90,6 +105,6 @@ exclusiva de la continuity.
 
 ## Relaciones
 
-**justified_by** ← [[aku-continuity-offer-concept]] · [[aku-tres-continuity-offers-concept]]
+**justified_by** ← [[aku-continuity-offer-concept]] · [[aku-tres-continuity-offers-concept]] · [[aku-entorno-de-recompensa-inmediata-vs-diferida-concept]] · [[aku-cltv-subscription-formula]] · [[aku-churn-rate-concept]] · [[aku-dividir-el-precio-en-unidades-mas-pequenas-partitioned-prices-claim]] · [[aku-fidelizacion-vs-retencion-concept]]
 
 **constrained_by** ← [[aku-churn-rate-concept]]

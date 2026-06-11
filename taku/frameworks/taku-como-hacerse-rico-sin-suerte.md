@@ -26,6 +26,30 @@ aku_links:
     - id: aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-specific-knowledge-concept desde [james-clear] (cross-source)"
+    - id: aku-apalancamiento-financiero-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-leverage-multiplicador-de-juicio-concept desde [power-mba] (cross-source)"
+    - id: aku-palanca-vence-fuerza-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-leverage-multiplicador-de-juicio-concept desde [jocko] (cross-source)"
+    - id: aku-leverage-leads-por-tiempo-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-leverage-multiplicador-de-juicio-concept desde [hormozi] (cross-source)"
+    - id: aku-overload-principle-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-productize-yourself-concept desde [jocko] (cross-source)"
+    - id: aku-pedir-equity-es-apostar-por-ti-mismo-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim desde [50-cent] (cross-source)"
+    - id: aku-quien-te-emplea-siempre-intentara-pagarte-menos-de-lo-que-vales-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim desde [50-cent] (cross-source)"
+    - id: aku-roe-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -97,4 +121,4 @@ Mnemónico «Productize Yourself»; se complementa con la rama de Building Judgm
 
 ## Relaciones
 
-**justified_by** ← [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-specific-knowledge-concept]] · [[aku-leverage-multiplicador-de-juicio-concept]] · [[aku-productize-yourself-concept]] · [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]]
+**justified_by** ← [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-specific-knowledge-concept]] · [[aku-leverage-multiplicador-de-juicio-concept]] · [[aku-productize-yourself-concept]] · [[aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim]] · [[aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim]] · [[aku-apalancamiento-financiero-concept]] · [[aku-palanca-vence-fuerza-claim]] · [[aku-leverage-leads-por-tiempo-concept]] · [[aku-overload-principle-concept]] · [[aku-pedir-equity-es-apostar-por-ti-mismo-claim]] · [[aku-quien-te-emplea-siempre-intentara-pagarte-menos-de-lo-que-vales-claim]] · [[aku-roe-concept]]

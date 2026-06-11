@@ -20,6 +20,15 @@ aku_links:
     - id: aku-leadership-capital-concept
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-48laws-31-control-the-options-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-manejar-jefe-micromanager-indeciso-debil-method desde [robert-greene] (cross-source)"
+    - id: aku-hablar-suave-transfiere-el-poder-hacia-ti-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-rendimiento-construye-confianza-del-jefe-claim desde [50-cent] (cross-source)"
+    - id: aku-48laws-23-concentrate-your-forces-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-leadership-capital-concept desde [robert-greene] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -80,4 +89,4 @@ Reevalúa la relación y el margen ganado tras varios ciclos de rendimiento.
 
 ## Relaciones
 
-**justified_by** ← [[aku-manejar-jefe-micromanager-indeciso-debil-method]] · [[aku-rendimiento-construye-confianza-del-jefe-claim]] · [[aku-leadership-capital-concept]]
+**justified_by** ← [[aku-manejar-jefe-micromanager-indeciso-debil-method]] · [[aku-rendimiento-construye-confianza-del-jefe-claim]] · [[aku-leadership-capital-concept]] · [[aku-48laws-31-control-the-options-concept]] · [[aku-hablar-suave-transfiere-el-poder-hacia-ti-claim]] · [[aku-48laws-23-concentrate-your-forces-concept]]

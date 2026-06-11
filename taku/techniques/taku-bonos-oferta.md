@@ -17,6 +17,12 @@ aku_links:
     - id: aku-bonos-de-terceros-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-cialdini-reciprocidad-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-bonuses-stack-concept desde [power-mba] (cross-source)"
+    - id: aku-ecosistema-alianzas-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-bonos-de-terceros-claim desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-ampliar-gap-valor-precio-claim
       link_validation: llm-proposed
@@ -99,6 +105,6 @@ Herramientas y checklists rinden mejor como bonos que más formaciones (menos es
 
 ## Relaciones
 
-**justified_by** ← [[aku-bonuses-stack-concept]] · [[aku-bonos-de-terceros-claim]]
+**justified_by** ← [[aku-bonuses-stack-concept]] · [[aku-bonos-de-terceros-claim]] · [[aku-cialdini-reciprocidad-concept]] · [[aku-ecosistema-alianzas-concept]]
 
 **constrained_by** ← [[aku-ampliar-gap-valor-precio-claim]]

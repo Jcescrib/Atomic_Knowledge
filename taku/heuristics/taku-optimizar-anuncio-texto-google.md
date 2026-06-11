@@ -20,6 +20,9 @@ aku_links:
     - id: aku-extensiones-mejoran-rendimiento-claim
       link_validation: llm-proposed
       link_note: "Justifica usar todas las extensiones posibles."
+    - id: aku-anuncio-callout-value-cta-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-anuncio-texto-google-ads-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -88,4 +91,4 @@ extensiones de forma incremental; mide y descarta lo que no mejora objetivos.
 
 ## Relaciones
 
-**justified_by** ← [[aku-anuncio-texto-google-ads-concept]] · [[aku-relevancia-anuncio-landing-rendimiento-claim]] · [[aku-extensiones-mejoran-rendimiento-claim]]
+**justified_by** ← [[aku-anuncio-texto-google-ads-concept]] · [[aku-relevancia-anuncio-landing-rendimiento-claim]] · [[aku-extensiones-mejoran-rendimiento-claim]] · [[aku-anuncio-callout-value-cta-concept]]

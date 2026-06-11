@@ -17,6 +17,18 @@ aku_links:
     - id: aku-descansos-un-minuto-method
       link_validation: llm-proposed
       link_note: "Las apps soportan los descansos breves de un minuto repartidos en el día."
+    - id: aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-mindfulness-concept desde [naval] (cross-source)"
+    - id: aku-meditar-60-min-60-dias-para-llegar-a-un-inbox-cero-mental-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-mindfulness-concept desde [naval] (cross-source)"
+    - id: aku-iluminacion-es-el-espacio-entre-tus-pensamientos-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-mindfulness-concept desde [naval] (cross-source)"
+    - id: aku-meditacion-es-apagar-a-la-sociedad-y-escucharte-y-adopta-muchas-formas-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-mindfulness-concept desde [naval] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -65,5 +77,5 @@ Elegir una app y usarla como soporte de la técnica de práctica de mindfulness:
 
 ## Relaciones
 
-**justified_by** ← [[aku-mindfulness-concept]] · [[aku-descansos-un-minuto-method]]
+**justified_by** ← [[aku-mindfulness-concept]] · [[aku-descansos-un-minuto-method]] · [[aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept]] · [[aku-meditar-60-min-60-dias-para-llegar-a-un-inbox-cero-mental-method]] · [[aku-iluminacion-es-el-espacio-entre-tus-pensamientos-concept]] · [[aku-meditacion-es-apagar-a-la-sociedad-y-escucharte-y-adopta-muchas-formas-claim]]
 **complementary** ↔ [[taku-practica-mindfulness]]

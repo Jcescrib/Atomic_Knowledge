@@ -31,6 +31,18 @@ aku_links:
     - id: aku-ab-testing-concept
       link_validation: llm-proposed
       link_note: "Herramienta de experimentación."
+    - id: aku-constraint-mayor-drop-off-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cro-concept desde [hormozi] (cross-source)"
+    - id: aku-reversion-riesgo-numero-uno-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-proceso-cro-method desde [hormozi] (cross-source)"
+    - id: aku-money-model-rompe-cash-bottleneck
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cuello-botella-funnel-concept desde [hormozi] (cross-source)"
+    - id: aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cuello-botella-funnel-concept desde [kolenda] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -105,5 +117,5 @@ con A/B testing en un ciclo de cinco pasos.
 
 ## Relaciones
 
-**justified_by** ← [[aku-cro-concept]] · [[aku-proceso-cro-method]] · [[aku-cuello-botella-funnel-concept]] · [[aku-piramide-conversion-concept]] · [[aku-ab-testing-concept]]
+**justified_by** ← [[aku-cro-concept]] · [[aku-proceso-cro-method]] · [[aku-cuello-botella-funnel-concept]] · [[aku-piramide-conversion-concept]] · [[aku-ab-testing-concept]] · [[aku-constraint-mayor-drop-off-claim]] · [[aku-reversion-riesgo-numero-uno-claim]] · [[aku-money-model-rompe-cash-bottleneck]] · [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]
 **complementary** ↔ [[taku-power-funnel]] · [[taku-optimizar-cta]]

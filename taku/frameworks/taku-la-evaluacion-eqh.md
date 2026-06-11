@@ -23,6 +23,24 @@ aku_links:
     - id: aku-eminently-qualified-human-concept
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-autoevaluacion-cuerpo-mente-alma-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-the-evaluation-concept desde [power-mba] (cross-source)"
+    - id: aku-sistemas-vs-metas-en-atomic-habits-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-the-evaluation-concept desde [james-clear] (cross-source)"
+    - id: aku-claridad-objetivos-fortalezas-exito-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-the-evaluation-concept desde [power-mba] (cross-source)"
+    - id: aku-tres-capas-liderazgo-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-the-code-concept desde [power-mba] (cross-source)"
+    - id: aku-objetivos-personales-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-eminently-qualified-human-concept desde [power-mba] (cross-source)"
+    - id: aku-habitos-mas-practica-deliberada-igual-maestria-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-eminently-qualified-human-concept desde [james-clear] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -97,4 +115,4 @@ Personalizable: las categorías y el Código pueden adaptarse al contexto de cad
 
 ## Relaciones
 
-**justified_by** ← [[aku-the-evaluation-concept]] · [[aku-evaluation-scoring-0-5-method]] · [[aku-the-code-concept]] · [[aku-eminently-qualified-human-concept]]
+**justified_by** ← [[aku-the-evaluation-concept]] · [[aku-evaluation-scoring-0-5-method]] · [[aku-the-code-concept]] · [[aku-eminently-qualified-human-concept]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]] · [[aku-sistemas-vs-metas-en-atomic-habits-concept]] · [[aku-claridad-objetivos-fortalezas-exito-claim]] · [[aku-tres-capas-liderazgo-concept]] · [[aku-objetivos-personales-concept]] · [[aku-habitos-mas-practica-deliberada-igual-maestria-concept]]

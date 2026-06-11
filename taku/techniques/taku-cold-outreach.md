@@ -23,6 +23,15 @@ aku_links:
     - id: aku-follow-up-volumen-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-outbound-marketing-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cold-outreach-concept desde [power-mba] (cross-source)"
+    - id: aku-lead-magnet-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-big-fast-value-claim desde [power-mba] (cross-source)"
+    - id: aku-herramientas-growth-hacking-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cold-outreach-numbers-game-claim desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-cold-outreach-ventajas-claim
       link_validation: llm-proposed
@@ -105,6 +114,6 @@ a tecnología nueva sin probar. Espera 2-3 conversaciones por venta de alto tick
 
 ## Relaciones
 
-**justified_by** ← [[aku-cold-outreach-concept]] · [[aku-big-fast-value-claim]] · [[aku-cold-outreach-numbers-game-claim]] · [[aku-follow-up-volumen-claim]]
+**justified_by** ← [[aku-cold-outreach-concept]] · [[aku-big-fast-value-claim]] · [[aku-cold-outreach-numbers-game-claim]] · [[aku-follow-up-volumen-claim]] · [[aku-outbound-marketing-concept]] · [[aku-lead-magnet-concept]] · [[aku-herramientas-growth-hacking-concept]]
 
 **constrained_by** ← [[aku-cold-outreach-ventajas-claim]]

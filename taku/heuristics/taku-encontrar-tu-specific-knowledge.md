@@ -20,6 +20,24 @@ aku_links:
     - id: aku-escapa-la-competencia-mediante-autenticidad-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-specific-knowledge-concept desde [james-clear] (cross-source)"
+    - id: aku-explore-exploit-trade-off-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-specific-knowledge-es-lo-que-hacias-sin-esfuerzo-de-nino-claim desde [james-clear] (cross-source)"
+    - id: aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-escapa-la-competencia-mediante-autenticidad-claim desde [james-clear] (cross-source)"
+    - id: aku-dirigirse-a-no-buscadores-mayor-conversion-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-escapa-la-competencia-mediante-autenticidad-claim desde [power-mba] (cross-source)"
+    - id: aku-categoria-de-uno-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-escapa-la-competencia-mediante-autenticidad-claim desde [hormozi] (cross-source)"
+    - id: aku-nunca-terminas-de-competir-al-final-compites-contigo-mismo-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-escapa-la-competencia-mediante-autenticidad-claim desde [50-cent] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -82,4 +100,4 @@ Apuntala primero las fundaciones (aritmética, claridad al expresarte, persuasi�
 
 ## Relaciones
 
-**justified_by** ← [[aku-specific-knowledge-concept]] · [[aku-specific-knowledge-es-lo-que-hacias-sin-esfuerzo-de-nino-claim]] · [[aku-escapa-la-competencia-mediante-autenticidad-claim]]
+**justified_by** ← [[aku-specific-knowledge-concept]] · [[aku-specific-knowledge-es-lo-que-hacias-sin-esfuerzo-de-nino-claim]] · [[aku-escapa-la-competencia-mediante-autenticidad-claim]] · [[aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim]] · [[aku-explore-exploit-trade-off-method]] · [[aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim]] · [[aku-dirigirse-a-no-buscadores-mayor-conversion-claim]] · [[aku-categoria-de-uno-concept]] · [[aku-nunca-terminas-de-competir-al-final-compites-contigo-mismo-claim]]

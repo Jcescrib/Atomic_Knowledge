@@ -31,6 +31,30 @@ aku_links:
     - id: aku-ventaja-competitiva-concept
       link_validation: llm-proposed
       link_note: "El objetivo que las estrategias persiguen."
+    - id: aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-estrategias-genericas-porter-concept desde [james-clear] (cross-source)"
+    - id: aku-categoria-de-uno-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-estrategia-diferenciacion-concept desde [hormozi] (cross-source)"
+    - id: aku-grand-slam-offer-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-estrategia-diferenciacion-concept desde [hormozi] (cross-source)"
+    - id: aku-riches-in-niches-pricing-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-nicho-strategy-concept desde [hormozi] (cross-source)"
+    - id: aku-segmentar-la-copy-por-necesidades-distintas-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-nicho-strategy-concept desde [kolenda] (cross-source)"
+    - id: aku-commit-to-niche-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-nicho-strategy-concept desde [hormozi] (cross-source)"
+    - id: aku-tres-mercados-eternos-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-nicho-strategy-concept desde [hormozi] (cross-source)"
+    - id: aku-mantenerse-sobrio-cuando-otros-beben-da-ventaja-competitiva-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-ventaja-competitiva-concept desde [50-cent] (cross-source)"
   constrained_by:
     - id: aku-factores-internos-recursos-capacidades-concept
       link_validation: llm-proposed
@@ -121,7 +145,7 @@ central: hay que elegir una estrategia clara o se queda «atrapado en la mitad»
 
 ## Relaciones
 
-**justified_by** ← [[aku-estrategias-genericas-porter-concept]] · [[aku-liderazgo-en-coste-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-nicho-strategy-concept]] · [[aku-ventaja-competitiva-concept]]
+**justified_by** ← [[aku-estrategias-genericas-porter-concept]] · [[aku-liderazgo-en-coste-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-nicho-strategy-concept]] · [[aku-ventaja-competitiva-concept]] · [[aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim]] · [[aku-categoria-de-uno-concept]] · [[aku-grand-slam-offer-concept]] · [[aku-riches-in-niches-pricing-claim]] · [[aku-segmentar-la-copy-por-necesidades-distintas-claim]] · [[aku-commit-to-niche-claim]] · [[aku-tres-mercados-eternos-concept]] · [[aku-mantenerse-sobrio-cuando-otros-beben-da-ventaja-competitiva-claim]]
 **constrained_by** ← [[aku-factores-internos-recursos-capacidades-concept]]
 **complementary** ↔ [[taku-cinco-fuerzas-porter]] · [[taku-matriz-ansoff]]
 **alternative_to** ↔ [[taku-estrategia-oceano-azul]]

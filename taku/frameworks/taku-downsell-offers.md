@@ -17,6 +17,9 @@ aku_links:
     - id: aku-tres-downsells-concept
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-mostrar-precios-altos-antes-que-bajos-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-downsell-offer-concept desde [kolenda] (cross-source)"
   constrained_by:
     - id: aku-no-bajar-precio-mismo-producto-claim
       link_validation: llm-proposed
@@ -93,6 +96,6 @@ Trial With Penalty para recurrentes.
 
 ## Relaciones
 
-**justified_by** ← [[aku-downsell-offer-concept]] · [[aku-tres-downsells-concept]]
+**justified_by** ← [[aku-downsell-offer-concept]] · [[aku-tres-downsells-concept]] · [[aku-mostrar-precios-altos-antes-que-bajos-claim]]
 
 **constrained_by** ← [[aku-no-bajar-precio-mismo-producto-claim]]

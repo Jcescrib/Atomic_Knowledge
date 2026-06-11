@@ -17,6 +17,12 @@ aku_links:
     - id: aku-humildad-es-la-cualidad-mas-importante-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-48laws-01-never-outshine-the-master-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-humildad-es-la-cualidad-mas-importante-claim desde [robert-greene] (cross-source)"
+    - id: aku-rodearte-de-yes-men-impide-aprender-de-tus-errores-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-humildad-es-la-cualidad-mas-importante-claim desde [50-cent] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -74,4 +80,4 @@ Larry, al ser nombrado LPO, dio guía clara y humilde en 30 minutos; Brian floun
 
 ## Relaciones
 
-**justified_by** ← [[aku-12-reglas-del-nuevo-lider-method]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]]
+**justified_by** ← [[aku-12-reglas-del-nuevo-lider-method]] · [[aku-humildad-es-la-cualidad-mas-importante-claim]] · [[aku-48laws-01-never-outshine-the-master-concept]] · [[aku-rodearte-de-yes-men-impide-aprender-de-tus-errores-claim]]

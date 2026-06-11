@@ -20,6 +20,12 @@ aku_links:
     - id: aku-constraint-mayor-drop-off-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-cro-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-constraint-mayor-drop-off-claim desde [power-mba] (cross-source)"
+    - id: aku-cuello-botella-funnel-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-constraint-mayor-drop-off-claim desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-size-of-pie-fallacy-claim
       link_validation: llm-proposed
@@ -91,6 +97,6 @@ Combina canales: cada actividad Core Four potencia a las demás (contenido + ads
 
 ## Relaciones
 
-**justified_by** ← [[aku-more-better-new-concept]] · [[aku-rule-of-100-claim]] · [[aku-constraint-mayor-drop-off-claim]]
+**justified_by** ← [[aku-more-better-new-concept]] · [[aku-rule-of-100-claim]] · [[aku-constraint-mayor-drop-off-claim]] · [[aku-cro-concept]] · [[aku-cuello-botella-funnel-concept]]
 
 **constrained_by** ← [[aku-size-of-pie-fallacy-claim]]

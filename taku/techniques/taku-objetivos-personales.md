@@ -17,6 +17,21 @@ aku_links:
     - id: aku-compartir-objetivos-compromiso-claim
       link_validation: llm-proposed
       link_note: "Justifica el paso de compartir: aumenta el compromiso."
+    - id: aku-eminently-qualified-human-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-objetivos-personales-concept desde [jocko] (cross-source)"
+    - id: aku-tu-vision-debe-evolucionar-y-escalar-con-el-tiempo-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-objetivos-personales-concept desde [50-cent] (cross-source)"
+    - id: aku-evaluation-relationship-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-objetivos-personales-concept desde [jocko] (cross-source)"
+    - id: aku-habit-contract-y-accountability-partner-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-compartir-objetivos-compromiso-claim desde [james-clear] (cross-source)"
+    - id: aku-los-vision-boards-materializan-las-metas-y-elevan-su-probabilidad-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-compartir-objetivos-compromiso-claim desde [50-cent] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -103,5 +118,5 @@ significado; la plantilla completa es descargable en el recurso original.
 
 ## Relaciones
 
-**justified_by** ← [[aku-objetivos-personales-concept]] · [[aku-compartir-objetivos-compromiso-claim]]
+**justified_by** ← [[aku-objetivos-personales-concept]] · [[aku-compartir-objetivos-compromiso-claim]] · [[aku-eminently-qualified-human-concept]] · [[aku-tu-vision-debe-evolucionar-y-escalar-con-el-tiempo-claim]] · [[aku-evaluation-relationship-concept]] · [[aku-habit-contract-y-accountability-partner-method]] · [[aku-los-vision-boards-materializan-las-metas-y-elevan-su-probabilidad-claim]]
 **complementary** ↔ [[taku-ikigai]]

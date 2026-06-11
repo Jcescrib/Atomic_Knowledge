@@ -23,6 +23,30 @@ aku_links:
     - id: aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-instila-y-exige-disciplina-tolerancia-cero-al-conflicto-interno-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-extreme-ownership-concept desde [50-cent] (cross-source)"
+    - id: aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-extreme-ownership-concept desde [50-cent] (cross-source)"
+    - id: aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-extreme-ownership-concept desde [50-cent] (cross-source)"
+    - id: aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-extreme-ownership-concept desde [50-cent] (cross-source)"
+    - id: aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-extreme-ownership-concept desde [50-cent] (cross-source)"
+    - id: aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-disciplina-se-extiende-a-todo-claim desde [naval] (cross-source)"
+    - id: aku-tu-apariencia-fisica-comunica-disciplina-antes-de-hablar-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-disciplina-se-extiende-a-todo-claim desde [50-cent] (cross-source)"
+    - id: aku-autoevaluacion-cuerpo-mente-alma-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-disciplina-se-extiende-a-todo-claim desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -100,4 +124,4 @@ Revisa ante cada impulso fuerte o recaída, y al cambiar tu entorno.
 
 ## Relaciones
 
-**justified_by** ← [[aku-buscar-ayuda-profesional-sin-que-el-ego-lo-impida-claim]] · [[aku-extreme-ownership-concept]] · [[aku-disciplina-se-extiende-a-todo-claim]] · [[aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim]]
+**justified_by** ← [[aku-buscar-ayuda-profesional-sin-que-el-ego-lo-impida-claim]] · [[aku-extreme-ownership-concept]] · [[aku-disciplina-se-extiende-a-todo-claim]] · [[aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim]] · [[aku-instila-y-exige-disciplina-tolerancia-cero-al-conflicto-interno-claim]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]] · [[aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim]] · [[aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept]] · [[aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept]] · [[aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept]] · [[aku-tu-apariencia-fisica-comunica-disciplina-antes-de-hablar-claim]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]]

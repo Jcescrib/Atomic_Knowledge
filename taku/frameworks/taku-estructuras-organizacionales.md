@@ -17,6 +17,9 @@ aku_links:
     - id: aku-estructura-cultura-siguen-estrategia-claim
       link_validation: llm-proposed
       link_note: "Se elige la estructura que sigue a la estrategia."
+    - id: aku-empleados-lead-getters-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-estructuras-organizacionales-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -92,5 +95,5 @@ alinearse con la estrategia.
 
 ## Relaciones
 
-**justified_by** ← [[aku-estructuras-organizacionales-concept]] · [[aku-estructura-cultura-siguen-estrategia-claim]]
+**justified_by** ← [[aku-estructuras-organizacionales-concept]] · [[aku-estructura-cultura-siguen-estrategia-claim]] · [[aku-empleados-lead-getters-concept]]
 **complementary** ↔ [[taku-arquetipos-cultura]]

@@ -26,6 +26,21 @@ aku_links:
     - id: aku-pay-less-now-or-more-later-concept
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-modelo-free-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-attraction-offer-concept desde [power-mba] (cross-source)"
+    - id: aku-lead-magnet-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-attraction-offer-concept desde [power-mba] (cross-source)"
+    - id: aku-sacrificio-real-vs-decoy-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-decoy-offer-concept desde [jocko] (cross-source)"
+    - id: aku-evaluamos-por-comparaciones-relativas-context-effects-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-decoy-offer-concept desde [kolenda] (cross-source)"
+    - id: aku-modelo-freemium-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-buy-x-get-y-free-concept desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -98,4 +113,4 @@ mayor valor; combinarlas con upsells, downsells y continuity para el money model
 
 ## Relaciones
 
-**justified_by** ← [[aku-attraction-offer-concept]] · [[aku-win-your-money-back-concept]] · [[aku-decoy-offer-concept]] · [[aku-buy-x-get-y-free-concept]] · [[aku-pay-less-now-or-more-later-concept]]
+**justified_by** ← [[aku-attraction-offer-concept]] · [[aku-win-your-money-back-concept]] · [[aku-decoy-offer-concept]] · [[aku-buy-x-get-y-free-concept]] · [[aku-pay-less-now-or-more-later-concept]] · [[aku-modelo-free-concept]] · [[aku-lead-magnet-concept]] · [[aku-sacrificio-real-vs-decoy-concept]] · [[aku-evaluamos-por-comparaciones-relativas-context-effects-concept]] · [[aku-modelo-freemium-concept]]

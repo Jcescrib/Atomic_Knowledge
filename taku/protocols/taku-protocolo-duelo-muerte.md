@@ -20,6 +20,12 @@ aku_links:
     - id: aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-proposito-personal-sostenibilidad-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-incluso-en-la-muerte-hay-good-claim desde [power-mba] (cross-source)"
+    - id: aku-never-miss-twice-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim desde [james-clear] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -93,4 +99,4 @@ Revisa cada año en el aniversario; evalúa si cumples la promesa de vivir la me
 
 ## Relaciones
 
-**justified_by** ← [[aku-incluso-en-la-muerte-hay-good-claim]] · [[aku-detach-tactico-estrategico-concept]] · [[aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim]]
+**justified_by** ← [[aku-incluso-en-la-muerte-hay-good-claim]] · [[aku-detach-tactico-estrategico-concept]] · [[aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim]] · [[aku-proposito-personal-sostenibilidad-claim]] · [[aku-never-miss-twice-claim]]

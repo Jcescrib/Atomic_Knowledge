@@ -17,6 +17,12 @@ aku_links:
     - id: aku-homeostasis-glucosa-insulina-concept
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-la-meditacion-es-ayuno-intermitente-para-la-mente-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-ayuno-beneficios-fisicos-y-psicologicos-method desde [naval] (cross-source)"
+    - id: aku-la-grasa-sacia-el-azucar-da-hambre-y-su-combinacion-es-letal-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-homeostasis-glucosa-insulina-concept desde [naval] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -77,4 +83,4 @@ Tras varios ayunos, evalúa cómo ha cambiado tu percepción del hambre y tu ene
 
 ## Relaciones
 
-**justified_by** ← [[aku-ayuno-beneficios-fisicos-y-psicologicos-method]] · [[aku-homeostasis-glucosa-insulina-concept]]
+**justified_by** ← [[aku-ayuno-beneficios-fisicos-y-psicologicos-method]] · [[aku-homeostasis-glucosa-insulina-concept]] · [[aku-la-meditacion-es-ayuno-intermitente-para-la-mente-concept]] · [[aku-la-grasa-sacia-el-azucar-da-hambre-y-su-combinacion-es-letal-claim]]

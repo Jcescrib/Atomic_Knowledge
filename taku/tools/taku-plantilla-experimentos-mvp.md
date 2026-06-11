@@ -37,6 +37,12 @@ aku_links:
     - id: aku-build-measure-learn-concept
       link_validation: llm-proposed
       link_note: "Es una vuelta concreta del ciclo."
+    - id: aku-no-hay-solucion-100-correcta-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-lean-startup-method-concept desde [jocko] (cross-source)"
+    - id: aku-paso-pequeno-reevaluar-ante-incertidumbre-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-lean-startup-method-concept desde [jocko] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -135,6 +141,6 @@ Sumadas, las plantillas forman un histórico que documenta cómo el modelo evolu
 
 ## Relaciones
 
-**justified_by** ← [[aku-lean-startup-method-concept]] · [[aku-hipotesis-concept]] · [[aku-mvp-concept]] · [[aku-aprendizaje-validado-concept]] · [[aku-build-measure-learn-concept]]
+**justified_by** ← [[aku-lean-startup-method-concept]] · [[aku-hipotesis-concept]] · [[aku-mvp-concept]] · [[aku-aprendizaje-validado-concept]] · [[aku-build-measure-learn-concept]] · [[aku-no-hay-solucion-100-correcta-claim]] · [[aku-paso-pequeno-reevaluar-ante-incertidumbre-method]]
 
 **complementary** ↔ [[taku-entrevista-problem-solution]]

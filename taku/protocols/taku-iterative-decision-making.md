@@ -17,6 +17,12 @@ aku_links:
     - id: aku-decisiveness-amid-uncertainty-concept
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-innovar-vs-competir-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-iterative-decision-making-method desde [power-mba] (cross-source)"
+    - id: aku-asumir-equivocarse-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-iterative-decision-making-method desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -78,4 +84,4 @@ Tras la operación, evalúa si los checkpoints estuvieron bien situados.
 
 ## Relaciones
 
-**justified_by** ← [[aku-iterative-decision-making-method]] · [[aku-decisiveness-amid-uncertainty-concept]]
+**justified_by** ← [[aku-iterative-decision-making-method]] · [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-innovar-vs-competir-concept]] · [[aku-asumir-equivocarse-claim]]

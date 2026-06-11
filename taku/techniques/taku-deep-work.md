@@ -17,6 +17,15 @@ aku_links:
     - id: aku-minimalismo-digital-concept
       link_validation: llm-proposed
       link_note: "Aporta las tácticas para reducir la distracción digital que erosiona el foco."
+    - id: aku-el-foco-dirige-el-trabajo-duro-y-eliminar-distracciones-libera-potencial-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-deep-work-concept desde [50-cent] (cross-source)"
+    - id: aku-toda-actividad-de-pantalla-resta-felicidad-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-minimalismo-digital-concept desde [naval] (cross-source)"
+    - id: aku-mejora-metodica-de-tu-baseline-de-felicidad-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-minimalismo-digital-concept desde [naval] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -102,5 +111,5 @@ por la rítmica. Complementa con la práctica de mindfulness para entrenar la at
 
 ## Relaciones
 
-**justified_by** ← [[aku-deep-work-concept]] · [[aku-minimalismo-digital-concept]]
+**justified_by** ← [[aku-deep-work-concept]] · [[aku-minimalismo-digital-concept]] · [[aku-el-foco-dirige-el-trabajo-duro-y-eliminar-distracciones-libera-potencial-claim]] · [[aku-toda-actividad-de-pantalla-resta-felicidad-claim]] · [[aku-mejora-metodica-de-tu-baseline-de-felicidad-method]]
 **complementary** ↔ [[taku-practica-mindfulness]]

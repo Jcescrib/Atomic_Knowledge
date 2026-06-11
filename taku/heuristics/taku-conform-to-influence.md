@@ -17,6 +17,12 @@ aku_links:
     - id: aku-power-of-relationships-liderazgo-concept
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-48laws-38-think-as-you-like-behave-like-others-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-conform-to-influence-claim desde [robert-greene] (cross-source)"
+    - id: aku-48laws-43-work-on-hearts-and-minds-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-power-of-relationships-liderazgo-concept desde [robert-greene] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -68,4 +74,4 @@ Ante un compañero negativo, ni le des la razón del todo ni le contradigas de f
 
 ## Relaciones
 
-**justified_by** ← [[aku-conform-to-influence-claim]] · [[aku-power-of-relationships-liderazgo-concept]]
+**justified_by** ← [[aku-conform-to-influence-claim]] · [[aku-power-of-relationships-liderazgo-concept]] · [[aku-48laws-38-think-as-you-like-behave-like-others-concept]] · [[aku-48laws-43-work-on-hearts-and-minds-concept]]

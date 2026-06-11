@@ -23,6 +23,30 @@ aku_links:
     - id: aku-paid-ads-concept
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-copy-incluir-titular-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-anuncio-callout-value-cta-concept desde [power-mba] (cross-source)"
+    - id: aku-cta-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-anuncio-callout-value-cta-concept desde [power-mba] (cross-source)"
+    - id: aku-anuncio-texto-google-ads-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-anuncio-callout-value-cta-concept desde [power-mba] (cross-source)"
+    - id: aku-anadir-elementos-de-la-atencion-top-down-del-espectador-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-callout-cocktail-party-claim desde [kolenda] (cross-source)"
+    - id: aku-tu-nombre-capta-la-atencion-cocktail-party-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-callout-cocktail-party-claim desde [kolenda] (cross-source)"
+    - id: aku-formulas-titulos-potentes-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-callout-cocktail-party-claim desde [power-mba] (cross-source)"
+    - id: aku-medicion-resultados-influencers-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-paid-ads-concept desde [power-mba] (cross-source)"
+    - id: aku-paid-social-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-paid-ads-concept desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-targeting-lookalike-filtros-concept
       link_validation: llm-proposed
@@ -100,6 +124,6 @@ es una fuente continua de creatividades.
 
 ## Relaciones
 
-**justified_by** ← [[aku-anuncio-callout-value-cta-concept]] · [[aku-callout-cocktail-party-claim]] · [[aku-what-who-when-framework-concept]] · [[aku-paid-ads-concept]]
+**justified_by** ← [[aku-anuncio-callout-value-cta-concept]] · [[aku-callout-cocktail-party-claim]] · [[aku-what-who-when-framework-concept]] · [[aku-paid-ads-concept]] · [[aku-copy-incluir-titular-claim]] · [[aku-cta-concept]] · [[aku-anuncio-texto-google-ads-concept]] · [[aku-anadir-elementos-de-la-atencion-top-down-del-espectador-claim]] · [[aku-tu-nombre-capta-la-atencion-cocktail-party-claim]] · [[aku-formulas-titulos-potentes-concept]] · [[aku-medicion-resultados-influencers-concept]] · [[aku-paid-social-concept]]
 
 **constrained_by** ← [[aku-targeting-lookalike-filtros-concept]]

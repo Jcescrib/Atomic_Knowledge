@@ -17,6 +17,15 @@ aku_links:
     - id: aku-deadlines-drive-decisions-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-palabras-frases-persuasivas-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-urgencia-concept desde [power-mba] (cross-source)"
+    - id: aku-cialdini-escasez-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-urgencia-concept desde [power-mba] (cross-source)"
+    - id: aku-cialdini-compromiso-consistencia-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-urgencia-concept desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-exploding-opportunity-concept
       link_validation: llm-proposed
@@ -82,6 +91,6 @@ fuerte la urgencia.
 
 ## Relaciones
 
-**justified_by** ← [[aku-urgencia-concept]] · [[aku-deadlines-drive-decisions-claim]]
+**justified_by** ← [[aku-urgencia-concept]] · [[aku-deadlines-drive-decisions-claim]] · [[aku-palabras-frases-persuasivas-concept]] · [[aku-cialdini-escasez-concept]] · [[aku-cialdini-compromiso-consistencia-concept]]
 
 **constrained_by** ← [[aku-exploding-opportunity-concept]]

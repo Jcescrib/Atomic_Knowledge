@@ -23,6 +23,21 @@ aku_links:
     - id: aku-mercado-oferta-persuasion-jerarquia-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-cliente-buscando-vs-no-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-starving-crowd-concept desde [power-mba] (cross-source)"
+    - id: aku-customer-persona-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cuatro-indicadores-mercado-concept desde [power-mba] (cross-source)"
+    - id: aku-elevator-pitch-template-anglosajon-completo-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cuatro-indicadores-mercado-concept desde [power-mba] (cross-source)"
+    - id: aku-nicho-strategy-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-tres-mercados-eternos-concept desde [power-mba] (cross-source)"
+    - id: aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-tres-mercados-eternos-concept desde [naval] (cross-source)"
   constrained_by:
     - id: aku-commit-to-niche-claim
       link_validation: llm-proposed
@@ -103,6 +118,6 @@ clientes buscando vs. no) del cluster Power MBA.
 
 ## Relaciones
 
-**justified_by** ← [[aku-starving-crowd-concept]] · [[aku-cuatro-indicadores-mercado-concept]] · [[aku-tres-mercados-eternos-concept]] · [[aku-mercado-oferta-persuasion-jerarquia-claim]]
+**justified_by** ← [[aku-starving-crowd-concept]] · [[aku-cuatro-indicadores-mercado-concept]] · [[aku-tres-mercados-eternos-concept]] · [[aku-mercado-oferta-persuasion-jerarquia-claim]] · [[aku-cliente-buscando-vs-no-concept]] · [[aku-customer-persona-concept]] · [[aku-elevator-pitch-template-anglosajon-completo-method]] · [[aku-nicho-strategy-concept]] · [[aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method]]
 
 **constrained_by** ← [[aku-commit-to-niche-claim]]

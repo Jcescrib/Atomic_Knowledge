@@ -22,6 +22,30 @@ aku_links:
     - id: aku-emocion-prevalece-razon-claim
       link_validation: llm-proposed
       link_note: "Base: la decisión de compra es más emocional que racional."
+    - id: aku-methods-proceso-de-persuasion-en-siete-pasos-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [kolenda] (cross-source)"
+    - id: aku-scarcity-limited-bonuses-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [hormozi] (cross-source)"
+    - id: aku-anadir-una-contingencia-simple-a-tu-oferta-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [kolenda] (cross-source)"
+    - id: aku-landing-page-permiso-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [hormozi] (cross-source)"
+    - id: aku-scarcity-limited-seats-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [hormozi] (cross-source)"
+    - id: aku-methods-step3-activar-presion-social-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [kolenda] (cross-source)"
+    - id: aku-programar-una-interaccion-futura-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [kolenda] (cross-source)"
+    - id: aku-tipos-y-tacticas-escasez-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -95,5 +119,5 @@ simpatía, autoridad, escasez y pertenencia.
 
 ## Relaciones
 
-**justified_by** ← [[aku-leyes-persuasion-cialdini-concept]] · [[aku-emocion-prevalece-razon-claim]]
+**justified_by** ← [[aku-leyes-persuasion-cialdini-concept]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-methods-proceso-de-persuasion-en-siete-pasos-concept]] · [[aku-scarcity-limited-bonuses-concept]] · [[aku-anadir-una-contingencia-simple-a-tu-oferta-claim]] · [[aku-landing-page-permiso-concept]] · [[aku-scarcity-limited-seats-concept]] · [[aku-methods-step3-activar-presion-social-concept]] · [[aku-programar-una-interaccion-futura-claim]] · [[aku-tipos-y-tacticas-escasez-concept]]
 **complementary** ↔ [[taku-decalogo-power-selling]]

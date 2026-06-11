@@ -21,6 +21,12 @@ aku_links:
     - id: aku-proposito-mision-concept
       link_validation: llm-proposed
       link_note: "El núcleo: el porqué."
+    - id: aku-commanders-intent-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-circulo-dorado-concept desde [jocko] (cross-source)"
+    - id: aku-mejores-lideres-mision-no-ego-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-proposito-mision-concept desde [jocko] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -91,5 +97,5 @@ marcas excepcionales comunican de dentro hacia fuera: empiezan por el porqué
 
 ## Relaciones
 
-**justified_by** ← [[aku-circulo-dorado-concept]] · [[aku-proposito-mision-concept]]
+**justified_by** ← [[aku-circulo-dorado-concept]] · [[aku-proposito-mision-concept]] · [[aku-commanders-intent-concept]] · [[aku-mejores-lideres-mision-no-ego-claim]]
 **complementary** ↔ [[taku-plan-de-marca]] · [[taku-mision-vision-valores]]

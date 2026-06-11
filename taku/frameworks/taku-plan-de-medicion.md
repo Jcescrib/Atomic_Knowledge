@@ -17,6 +17,9 @@ aku_links:
     - id: aku-objetivos-negocio-concept
       link_validation: llm-proposed
       link_note: "El plan parte de los objetivos de negocio."
+    - id: aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-plan-de-medicion-concept desde [james-clear] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -90,4 +93,4 @@ mes); «generar ventas» → ingresos (meta 30.000€/mes), ticket medio, ratio 
 
 ## Relaciones
 
-**justified_by** ← [[aku-plan-de-medicion-concept]] · [[aku-objetivos-negocio-concept]]
+**justified_by** ← [[aku-plan-de-medicion-concept]] · [[aku-objetivos-negocio-concept]] · [[aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim]]

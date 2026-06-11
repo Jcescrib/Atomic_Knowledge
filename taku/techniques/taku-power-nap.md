@@ -14,6 +14,9 @@ aku_links:
     - id: aku-power-nap-pies-elevados-method
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-autoevaluacion-cuerpo-mente-alma-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-power-nap-pies-elevados-method desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -77,4 +80,4 @@ Combínalo con el protocolo de sueño nocturno; no lo uses como sustituto del su
 
 ## Relaciones
 
-**justified_by** ← [[aku-power-nap-pies-elevados-method]]
+**justified_by** ← [[aku-power-nap-pies-elevados-method]] · [[aku-autoevaluacion-cuerpo-mente-alma-concept]]

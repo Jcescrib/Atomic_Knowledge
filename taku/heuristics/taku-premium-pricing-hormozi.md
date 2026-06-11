@@ -23,6 +23,30 @@ aku_links:
     - id: aku-profit-is-oxygen-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-reducir-costes-no-precio-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-virtuous-cycle-of-price-claim desde [power-mba] (cross-source)"
+    - id: aku-mostrar-precios-altos-antes-que-bajos-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-virtuous-cycle-of-price-claim desde [kolenda] (cross-source)"
+    - id: aku-circulo-virtuoso-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-virtuous-cycle-of-price-claim desde [power-mba] (cross-source)"
+    - id: aku-circulo-vicioso-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-virtuous-cycle-of-price-claim desde [power-mba] (cross-source)"
+    - id: aku-valor-independiente-usuarios-modelo-lineal-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-virtuous-cycle-of-price-claim desde [power-mba] (cross-source)"
+    - id: aku-ecuacion-valor-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-ampliar-gap-valor-precio-claim desde [power-mba] (cross-source)"
+    - id: aku-innovacion-valor-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-ampliar-gap-valor-precio-claim desde [power-mba] (cross-source)"
+    - id: aku-innovacion-valor-via-eric-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-ampliar-gap-valor-precio-claim desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-clientes-invertidos-mejores-resultados-claim
       link_validation: llm-proposed
@@ -91,6 +115,6 @@ suficiente para comprometerlo.
 
 ## Relaciones
 
-**justified_by** ← [[aku-virtuous-cycle-of-price-claim]] · [[aku-ampliar-gap-valor-precio-claim]] · [[aku-precio-alto-aumenta-valor-percibido-claim]] · [[aku-profit-is-oxygen-claim]]
+**justified_by** ← [[aku-virtuous-cycle-of-price-claim]] · [[aku-ampliar-gap-valor-precio-claim]] · [[aku-precio-alto-aumenta-valor-percibido-claim]] · [[aku-profit-is-oxygen-claim]] · [[aku-reducir-costes-no-precio-claim]] · [[aku-mostrar-precios-altos-antes-que-bajos-claim]] · [[aku-circulo-virtuoso-concept]] · [[aku-circulo-vicioso-concept]] · [[aku-valor-independiente-usuarios-modelo-lineal-claim]] · [[aku-ecuacion-valor-claim]] · [[aku-innovacion-valor-concept]] · [[aku-innovacion-valor-via-eric-claim]]
 
 **constrained_by** ← [[aku-clientes-invertidos-mejores-resultados-claim]]

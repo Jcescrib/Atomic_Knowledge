@@ -17,6 +17,18 @@ aku_links:
     - id: aku-grand-slam-offer-concept
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-formulas-titulos-potentes-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-magic-naming-concept desde [power-mba] (cross-source)"
+    - id: aku-commodity-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-grand-slam-offer-concept desde [power-mba] (cross-source)"
+    - id: aku-estrategia-diferenciacion-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-grand-slam-offer-concept desde [power-mba] (cross-source)"
+    - id: aku-innovacion-valor-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-grand-slam-offer-concept desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-offers-fatigue-claim
       link_validation: llm-proposed
@@ -93,6 +105,6 @@ monetización. Especialmente útil en negocios locales, que fatigan rápido.
 
 ## Relaciones
 
-**justified_by** ← [[aku-magic-naming-concept]] · [[aku-grand-slam-offer-concept]]
+**justified_by** ← [[aku-magic-naming-concept]] · [[aku-grand-slam-offer-concept]] · [[aku-formulas-titulos-potentes-concept]] · [[aku-commodity-concept]] · [[aku-estrategia-diferenciacion-concept]] · [[aku-innovacion-valor-concept]]
 
 **constrained_by** ← [[aku-offers-fatigue-claim]]

@@ -20,6 +20,9 @@ aku_links:
     - id: aku-relee-los-grandes-libros-identifica-los-tuyos-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-aprender-pensando-por-uno-mismo-descubre-mas-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-amar-leer-es-un-superpoder-vivimos-en-la-era-de-alejandria-claim desde [jocko] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -140,4 +143,4 @@ Recursos para profundizar en Naval: Navalmanack.com, nav.al, su podcast, la comp
 
 ## Relaciones
 
-**justified_by** ← [[aku-amar-leer-es-un-superpoder-vivimos-en-la-era-de-alejandria-claim]] · [[aku-lee-los-originales-y-clasicos-para-una-base-solida-claim]] · [[aku-relee-los-grandes-libros-identifica-los-tuyos-claim]]
+**justified_by** ← [[aku-amar-leer-es-un-superpoder-vivimos-en-la-era-de-alejandria-claim]] · [[aku-lee-los-originales-y-clasicos-para-una-base-solida-claim]] · [[aku-relee-los-grandes-libros-identifica-los-tuyos-claim]] · [[aku-aprender-pensando-por-uno-mismo-descubre-mas-claim]]

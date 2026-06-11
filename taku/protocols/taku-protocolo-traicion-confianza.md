@@ -20,6 +20,12 @@ aku_links:
     - id: aku-responder-no-reaccionar-da-control-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-48laws-39-stir-up-waters-to-catch-fish-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-no-sobrerreaccionar-mantener-la-calma-claim desde [robert-greene] (cross-source)"
+    - id: aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-responder-no-reaccionar-da-control-claim desde [james-clear] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -90,4 +96,4 @@ Revisa si reaparecen patrones de la persona o si surge nueva evidencia.
 
 ## Relaciones
 
-**justified_by** ← [[aku-detach-tactico-estrategico-concept]] · [[aku-no-sobrerreaccionar-mantener-la-calma-claim]] · [[aku-responder-no-reaccionar-da-control-claim]]
+**justified_by** ← [[aku-detach-tactico-estrategico-concept]] · [[aku-no-sobrerreaccionar-mantener-la-calma-claim]] · [[aku-responder-no-reaccionar-da-control-claim]] · [[aku-48laws-39-stir-up-waters-to-catch-fish-concept]] · [[aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept]]

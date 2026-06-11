@@ -17,6 +17,12 @@ aku_links:
     - id: aku-motivaciones-desde-experiencias-pasadas-concept
       link_validation: llm-proposed
       link_note: "Usa como input las motivaciones extraídas del viaje al pasado."
+    - id: aku-evaluation-professional-development-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-alineacion-laboral-motivaciones-felicidad-claim desde [jocko] (cross-source)"
+    - id: aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-motivaciones-desde-experiencias-pasadas-concept desde [james-clear] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -99,5 +105,5 @@ motivaciones (pasado) → fortalezas (feedback) → decisión (situación labora
 
 ## Relaciones
 
-**justified_by** ← [[aku-alineacion-laboral-motivaciones-felicidad-claim]] · [[aku-motivaciones-desde-experiencias-pasadas-concept]]
+**justified_by** ← [[aku-alineacion-laboral-motivaciones-felicidad-claim]] · [[aku-motivaciones-desde-experiencias-pasadas-concept]] · [[aku-evaluation-professional-development-concept]] · [[aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim]]
 **follows** ← [[taku-email-descubre-tus-poderes]]

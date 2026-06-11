@@ -40,6 +40,30 @@ aku_links:
     - id: aku-viral-bajo-cltv-compatible-claim
       link_validation: llm-proposed
       link_note: "Claim contraintuitivo que el marco hace explícito y operacionalizable."
+    - id: aku-free-bootstrap-plataforma-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-motor-crecimiento-viral-concept desde [(unknown)] (cross-source)"
+    - id: aku-client-financed-acquisition-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-motor-crecimiento-concept desde [hormozi] (cross-source)"
+    - id: aku-las-epidemias-virales-se-originan-en-micronetworks-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-motor-crecimiento-viral-concept desde [kolenda] (cross-source)"
+    - id: aku-la-interconectividad-construye-la-infeccion-dentro-de-la-red-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-motor-crecimiento-viral-concept desde [kolenda] (cross-source)"
+    - id: aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-coeficiente-viralidad-concept desde [kolenda] (cross-source)"
+    - id: aku-lead-magnet-reduce-cac-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-motor-crecimiento-pago-concept desde [hormozi] (cross-source)"
+    - id: aku-micronetwork-red-densa-con-interconexiones-fuertes-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-motor-crecimiento-viral-concept desde [kolenda] (cross-source)"
+    - id: aku-pedir-referidos-como-oferta-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-motor-crecimiento-viral-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -128,7 +152,7 @@ Taxonomía de los tres motores de crecimiento principales en negocios digitales:
 
 ## Relaciones
 
-**justified_by** ← [[aku-motor-crecimiento-concept]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-motor-crecimiento-viral-concept]] · [[aku-motor-crecimiento-sticky-concept]] · [[aku-coeficiente-viralidad-concept]] · [[aku-viral-bajo-cltv-compatible-claim]]
+**justified_by** ← [[aku-motor-crecimiento-concept]] · [[aku-motor-crecimiento-pago-concept]] · [[aku-motor-crecimiento-viral-concept]] · [[aku-motor-crecimiento-sticky-concept]] · [[aku-coeficiente-viralidad-concept]] · [[aku-viral-bajo-cltv-compatible-claim]] · [[aku-free-bootstrap-plataforma-claim]] · [[aku-client-financed-acquisition-concept]] · [[aku-las-epidemias-virales-se-originan-en-micronetworks-claim]] · [[aku-la-interconectividad-construye-la-infeccion-dentro-de-la-red-claim]] · [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]] · [[aku-lead-magnet-reduce-cac-claim]] · [[aku-micronetwork-red-densa-con-interconexiones-fuertes-concept]] · [[aku-pedir-referidos-como-oferta-claim]]
 
 **complementary** ↔ [[taku-digital-growth-engine-metrics-map]]
 

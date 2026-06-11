@@ -26,6 +26,12 @@ aku_links:
     - id: aku-decentralized-command-concept
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-mantener-el-numero-del-nombre-simple-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-simple-law-of-combat-concept desde [kolenda] (cross-source)"
+    - id: aku-lead-scoring-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-prioritize-and-execute-concept desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -84,6 +90,6 @@ Cada ley tiene su propio desarrollo (ver taku-prioritize-and-execute). Se comple
 
 ## Relaciones
 
-**justified_by** ← [[aku-laws-of-combat-concept]] · [[aku-cover-and-move-concept]] · [[aku-simple-law-of-combat-concept]] · [[aku-prioritize-and-execute-concept]] · [[aku-decentralized-command-concept]]
+**justified_by** ← [[aku-laws-of-combat-concept]] · [[aku-cover-and-move-concept]] · [[aku-simple-law-of-combat-concept]] · [[aku-prioritize-and-execute-concept]] · [[aku-decentralized-command-concept]] · [[aku-mantener-el-numero-del-nombre-simple-claim]] · [[aku-lead-scoring-concept]]
 
 **complementary** ↔ [[taku-prioritize-and-execute]]

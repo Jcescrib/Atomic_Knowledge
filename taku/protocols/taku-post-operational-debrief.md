@@ -17,6 +17,9 @@ aku_links:
     - id: aku-analisis-constante-medir-efectividad-claim
       link_validation: llm-proposed
       link_note: ""
+    - id: aku-establece-un-sistema-de-reflexion-y-revision-de-tus-habitos-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-post-operational-debrief-method desde [james-clear] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -80,6 +83,6 @@ Cada operación; alimenta el siguiente ciclo de planificación.
 
 ## Relaciones
 
-**justified_by** ← [[aku-post-operational-debrief-method]] · [[aku-analisis-constante-medir-efectividad-claim]]
+**justified_by** ← [[aku-post-operational-debrief-method]] · [[aku-analisis-constante-medir-efectividad-claim]] · [[aku-establece-un-sistema-de-reflexion-y-revision-de-tus-habitos-method]]
 
 **follows** ← [[taku-planning-checklist]]

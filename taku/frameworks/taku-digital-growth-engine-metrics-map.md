@@ -54,6 +54,30 @@ aku_links:
     - id: aku-cltv-cac-dual-optimization
       link_validation: llm-proposed
       link_note: "Claim estratégico que da sentido a coordinar las dos métricas centrales."
+    - id: aku-ltgp-cac-3-a-1-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cltv-concept desde [hormozi] (cross-source)"
+    - id: aku-ltgp-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cltv-concept desde [hormozi] (cross-source)"
+    - id: aku-affiliate-ltgp-cac-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cltv-concept desde [hormozi] (cross-source)"
+    - id: aku-gross-profit-additional-customer-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-arpu-concept desde [hormozi] (cross-source)"
+    - id: aku-continuity-offer-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-churn-rate-concept desde [hormozi] (cross-source)"
+    - id: aku-coste-por-engaged-lead-payroll-method
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cac-concept desde [hormozi] (cross-source)"
+    - id: aku-money-model-tres-etapas-concept
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cac-concept desde [hormozi] (cross-source)"
+    - id: aku-lead-magnet-reduce-cac-claim
+      link_validation: llm-proposed
+      link_note: "deducible: corrobora aku-cac-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []
   illustrates: []
@@ -161,7 +185,7 @@ El marco descansa sobre dos conceptos centrales (CLTV y CAC) y un claim estraté
 
 ## Relaciones
 
-**justified_by** ← [[aku-cltv-concept]] · [[aku-cac-concept]] · [[aku-arpu-concept]] · [[aku-churn-rate-concept]] · [[aku-cac-payback-concept]] · [[aku-cltv-cac-ratio-concept]] · [[aku-cltv-minus-cac-concept]] · [[aku-cltv-subscription-formula]] · [[aku-cltv-transactional-formula]] · [[aku-cltv-gross-margin-over-revenue]] · [[aku-cltv-cac-dual-optimization]]
+**justified_by** ← [[aku-cltv-concept]] · [[aku-cac-concept]] · [[aku-arpu-concept]] · [[aku-churn-rate-concept]] · [[aku-cac-payback-concept]] · [[aku-cltv-cac-ratio-concept]] · [[aku-cltv-minus-cac-concept]] · [[aku-cltv-subscription-formula]] · [[aku-cltv-transactional-formula]] · [[aku-cltv-gross-margin-over-revenue]] · [[aku-cltv-cac-dual-optimization]] · [[aku-ltgp-cac-3-a-1-claim]] · [[aku-ltgp-concept]] · [[aku-affiliate-ltgp-cac-method]] · [[aku-gross-profit-additional-customer-concept]] · [[aku-continuity-offer-concept]] · [[aku-coste-por-engaged-lead-payroll-method]] · [[aku-money-model-tres-etapas-concept]] · [[aku-lead-magnet-reduce-cac-claim]]
 
 **complementary** ↔ [[taku-tres-motores-crecimiento]] · [[taku-power-funnel]]
 
