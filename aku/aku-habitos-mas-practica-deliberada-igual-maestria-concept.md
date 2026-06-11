@@ -41,6 +41,7 @@ relations:
     - aku-exceso-de-sops-ahoga-iniciativa-claim
     - aku-el-mayor-enemigo-del-exito-no-es-el-fracaso-sino-el-aburrimiento-claim
     - aku-enamorate-del-aburrimiento-los-profesionales-aparecen-sin-importar-el-animo-claim
+    - aku-cinco-etapas-saber-entender-explicar-sentir-ser-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -53,4 +54,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-solo-se-logra-maestria-en-una-o-dos-cosas-claim]] · [[aku-agregacion-de-ganancias-marginales-concept]] · [[aku-goldilocks-rule-dificultad-justo-manejable-concept]] · [[aku-eminently-qualified-human-concept]] · [[aku-exceso-de-sops-ahoga-iniciativa-claim]] · [[aku-el-mayor-enemigo-del-exito-no-es-el-fracaso-sino-el-aburrimiento-claim]] · [[aku-enamorate-del-aburrimiento-los-profesionales-aparecen-sin-importar-el-animo-claim]]
+**related** ↔ [[aku-solo-se-logra-maestria-en-una-o-dos-cosas-claim]] · [[aku-agregacion-de-ganancias-marginales-concept]] · [[aku-goldilocks-rule-dificultad-justo-manejable-concept]] · [[aku-eminently-qualified-human-concept]] · [[aku-exceso-de-sops-ahoga-iniciativa-claim]] · [[aku-el-mayor-enemigo-del-exito-no-es-el-fracaso-sino-el-aburrimiento-claim]] · [[aku-enamorate-del-aburrimiento-los-profesionales-aparecen-sin-importar-el-animo-claim]] · [[aku-cinco-etapas-saber-entender-explicar-sentir-ser-concept]]

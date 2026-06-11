@@ -40,6 +40,7 @@ relations:
     - aku-pelear-hasta-el-final-nada-que-perder-claim
     - aku-abrumado-pelear-mas-duro-priorizar-claim
     - aku-no-relajarse-hasta-completar-la-mision-claim
+    - aku-habito-atomico-concept
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -52,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-camino-de-menor-resistencia-claim]] · [[aku-instinto-de-rendirse-es-mentiroso-claim]] · [[aku-la-oscuridad-solo-gana-si-la-dejas-claim]] · [[aku-pelear-hasta-el-final-nada-que-perder-claim]] · [[aku-abrumado-pelear-mas-duro-priorizar-claim]] · [[aku-no-relajarse-hasta-completar-la-mision-claim]]
+**related** ↔ [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]] · [[aku-camino-de-menor-resistencia-claim]] · [[aku-instinto-de-rendirse-es-mentiroso-claim]] · [[aku-la-oscuridad-solo-gana-si-la-dejas-claim]] · [[aku-pelear-hasta-el-final-nada-que-perder-claim]] · [[aku-abrumado-pelear-mas-duro-priorizar-claim]] · [[aku-no-relajarse-hasta-completar-la-mision-claim]] · [[aku-habito-atomico-concept]]

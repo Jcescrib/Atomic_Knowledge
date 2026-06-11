@@ -38,6 +38,7 @@ relations:
     - aku-rule-of-100-claim
     - aku-open-to-goal-claim
     - aku-one-page-advertising-checklist-concept
+    - aku-habito-concept
 
 sources:
   - raw/libros/hormozi/100m-leads/100m-leads.md
@@ -50,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-core-four-concept]] · [[aku-sueno-es-necesidad-7-9h-claim]] · [[aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim]] · [[aku-rule-of-100-claim]] · [[aku-open-to-goal-claim]] · [[aku-one-page-advertising-checklist-concept]]
+**related** ↔ [[aku-core-four-concept]] · [[aku-sueno-es-necesidad-7-9h-claim]] · [[aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim]] · [[aku-rule-of-100-claim]] · [[aku-open-to-goal-claim]] · [[aku-one-page-advertising-checklist-concept]] · [[aku-habito-concept]]

@@ -27,6 +27,7 @@ relations:
   supported_by: []
   supports:
     - aku-el-cambio-de-conducta-duradero-es-cambio-de-identidad-claim
+    - aku-cuatro-leyes-del-cambio-de-conducta-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -43,6 +44,7 @@ relations:
     - aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim
     - aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method
     - aku-cuando-de-verdad-quieres-cambiar-cambias-intentar-es-aplazar-claim
+    - aku-habitos-basados-en-la-identidad-vs-en-resultados-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -55,6 +57,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim]] · [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-proceso-de-dos-pasos-para-cambiar-tu-identidad-method]] · [[aku-implementation-intention-method]] · [[aku-cada-conducta-tiene-un-craving-de-superficie-y-un-motivo-profundo-concept]] · [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]] · [[aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim]] · [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method]] · [[aku-cuando-de-verdad-quieres-cambiar-cambias-intentar-es-aplazar-claim]]
+**related** ↔ [[aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim]] · [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-proceso-de-dos-pasos-para-cambiar-tu-identidad-method]] · [[aku-implementation-intention-method]] · [[aku-cada-conducta-tiene-un-craving-de-superficie-y-un-motivo-profundo-concept]] · [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]] · [[aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim]] · [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method]] · [[aku-cuando-de-verdad-quieres-cambiar-cambias-intentar-es-aplazar-claim]] · [[aku-habitos-basados-en-la-identidad-vs-en-resultados-concept]]
 
-**supports** → [[aku-el-cambio-de-conducta-duradero-es-cambio-de-identidad-claim]]
+**supports** → [[aku-el-cambio-de-conducta-duradero-es-cambio-de-identidad-claim]] · [[aku-cuatro-leyes-del-cambio-de-conducta-concept]]

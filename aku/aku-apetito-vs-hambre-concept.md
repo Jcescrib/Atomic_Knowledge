@@ -35,6 +35,8 @@ relations:
     - aku-redirection-principle-concept
     - aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method
     - aku-inaccion-deliberada-puede-ser-la-jugada-claim
+    - aku-habit-loop-cue-craving-response-reward-concept
+    - aku-el-contexto-es-el-cue-un-espacio-un-uso-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -47,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-redirection-principle-concept]] · [[aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method]] · [[aku-inaccion-deliberada-puede-ser-la-jugada-claim]]
+**related** ↔ [[aku-redirection-principle-concept]] · [[aku-disena-tu-entorno-se-su-arquitecto-no-su-victima-method]] · [[aku-inaccion-deliberada-puede-ser-la-jugada-claim]] · [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-el-contexto-es-el-cue-un-espacio-un-uso-concept]]

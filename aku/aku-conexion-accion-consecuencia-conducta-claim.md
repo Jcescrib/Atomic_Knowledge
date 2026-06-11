@@ -26,6 +26,7 @@ relations:
   supported_by: []
   supports:
     - aku-incentivos-simples-pocas-metricas-method
+    - aku-cardinal-rule-lo-recompensado-se-repite-lo-castigado-se-evita-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -49,6 +50,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-incentivos-simples-pocas-metricas-method]]
+**supports** → [[aku-incentivos-simples-pocas-metricas-method]] · [[aku-cardinal-rule-lo-recompensado-se-repite-lo-castigado-se-evita-concept]]
 
 **related** ↔ [[aku-camino-de-menor-resistencia-claim]] · [[aku-el-castigo-inmediato-reduce-el-mal-habito-claim]] · [[aku-gente-quiere-ganar-necesita-forcing-function-claim]] · [[aku-no-obligar-sino-liderar-claim]] · [[aku-metas-intermedias-visibles-method]]

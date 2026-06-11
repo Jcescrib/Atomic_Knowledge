@@ -26,7 +26,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-conexion-accion-consecuencia-conducta-claim
   supports: []
   constrained_by: []
   constrains: []
@@ -53,3 +54,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-cuatro-leyes-del-cambio-de-conducta-concept]] · [[aku-anade-placer-inmediato-al-buen-habito-para-cerrar-la-brecha-temporal-claim]] · [[aku-el-castigo-inmediato-reduce-el-mal-habito-claim]] · [[aku-mostrar-el-unboxing-del-producto-claim]] · [[aku-entorno-de-recompensa-inmediata-vs-diferida-concept]]
+
+**supported_by** ← [[aku-conexion-accion-consecuencia-conducta-claim]]

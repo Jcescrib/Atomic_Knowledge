@@ -28,6 +28,7 @@ epistemic_type: sourced
 relations:
   supported_by:
     - aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim
+    - aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method
   supports: []
   constrained_by: []
   constrains: []
@@ -45,6 +46,7 @@ relations:
     - aku-no-hay-buenos-ni-malos-habitos-solo-habitos-efectivos-claim
     - aku-los-habitos-crean-libertad-no-la-restringen-claim
     - aku-los-habitos-se-forman-por-frecuencia-no-por-tiempo-claim
+    - aku-no-cuentes-con-motivacion-cuenta-disciplina-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -57,6 +59,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-implementation-intention-method]] · [[aku-temptation-bundling-method]] · [[aku-cardinal-rule-lo-recompensado-se-repite-lo-castigado-se-evita-concept]] · [[aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim]] · [[aku-habito-concept]] · [[aku-todo-habito-resuelve-un-problema-recurrente-con-minimo-esfuerzo-claim]] · [[aku-no-hay-buenos-ni-malos-habitos-solo-habitos-efectivos-claim]] · [[aku-los-habitos-crean-libertad-no-la-restringen-claim]] · [[aku-los-habitos-se-forman-por-frecuencia-no-por-tiempo-claim]]
+**related** ↔ [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-implementation-intention-method]] · [[aku-temptation-bundling-method]] · [[aku-cardinal-rule-lo-recompensado-se-repite-lo-castigado-se-evita-concept]] · [[aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim]] · [[aku-habito-concept]] · [[aku-todo-habito-resuelve-un-problema-recurrente-con-minimo-esfuerzo-claim]] · [[aku-no-hay-buenos-ni-malos-habitos-solo-habitos-efectivos-claim]] · [[aku-los-habitos-crean-libertad-no-la-restringen-claim]] · [[aku-los-habitos-se-forman-por-frecuencia-no-por-tiempo-claim]] · [[aku-no-cuentes-con-motivacion-cuenta-disciplina-claim]]
 
-**supported_by** ← [[aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim]]
+**supported_by** ← [[aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim]] · [[aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method]]

@@ -37,6 +37,7 @@ relations:
     - aku-agregacion-de-ganancias-marginales-concept
     - aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim
     - aku-plateau-of-latent-potential-valley-of-disappointment-concept
+    - aku-derrota-por-mil-rendiciones-pequenas-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -49,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-agregacion-de-ganancias-marginales-concept]] · [[aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim]] · [[aku-plateau-of-latent-potential-valley-of-disappointment-concept]]
+**related** ↔ [[aku-agregacion-de-ganancias-marginales-concept]] · [[aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim]] · [[aku-plateau-of-latent-potential-valley-of-disappointment-concept]] · [[aku-derrota-por-mil-rendiciones-pequenas-claim]]
