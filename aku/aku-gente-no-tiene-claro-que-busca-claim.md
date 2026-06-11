@@ -34,7 +34,6 @@ relations:
   related:
     - aku-customer-persona-concept
     - aku-propuesta-de-valor-concept
-    - aku-segmentar-la-copy-por-necesidades-distintas-claim
     - aku-cosas-importantes-concept
     - aku-vete-a-beneficios-ultimos-claim
     - aku-emocion-prevalece-razon-claim
@@ -51,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-customer-persona-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-segmentar-la-copy-por-necesidades-distintas-claim]] · [[aku-cosas-importantes-concept]] · [[aku-vete-a-beneficios-ultimos-claim]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-competencia-amplia-concept]]
+**related** ↔ [[aku-customer-persona-concept]] · [[aku-propuesta-de-valor-concept]] · [[aku-cosas-importantes-concept]] · [[aku-vete-a-beneficios-ultimos-claim]] · [[aku-emocion-prevalece-razon-claim]] · [[aku-competencia-amplia-concept]]

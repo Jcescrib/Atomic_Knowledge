@@ -36,7 +36,6 @@ relations:
     - aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method
     - aku-el-castigo-inmediato-reduce-el-mal-habito-claim
     - aku-habit-contract-y-accountability-partner-method
-    - aku-cialdini-compromiso-consistencia-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -49,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method]] · [[aku-el-castigo-inmediato-reduce-el-mal-habito-claim]] · [[aku-habit-contract-y-accountability-partner-method]] · [[aku-cialdini-compromiso-consistencia-concept]]
+**related** ↔ [[aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method]] · [[aku-el-castigo-inmediato-reduce-el-mal-habito-claim]] · [[aku-habit-contract-y-accountability-partner-method]]

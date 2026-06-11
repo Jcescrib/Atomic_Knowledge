@@ -29,7 +29,6 @@ relations:
     - aku-waived-fee-start-y-stick
     - aku-commitment-a-cambio-de-bono
     - aku-di-a-tus-amigos-que-eres-feliz-para-conformarte-a-ello-claim
-    - aku-usar-preguntas-retoricas-claim
     - aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method
     - aku-habit-contract-y-accountability-partner-method
   supports:
@@ -49,7 +48,6 @@ relations:
     - aku-cialdini-simpatia-concept
     - aku-cialdini-escasez-concept
     - aku-cialdini-pertenencia-concept
-    - aku-commitment-device-method
 
 sources:
   - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
@@ -64,6 +62,6 @@ status_note: ""
 
 **supports** → [[aku-leyes-persuasion-cialdini-concept]]
 
-**related** ↔ [[aku-methods-step7-sostener-su-cumplimiento-concept]] · [[aku-landing-page-permiso-concept]] · [[aku-urgencia-concept]] · [[aku-cialdini-reciprocidad-concept]] · [[aku-cialdini-prueba-social-concept]] · [[aku-cialdini-autoridad-concept]] · [[aku-cialdini-simpatia-concept]] · [[aku-cialdini-escasez-concept]] · [[aku-cialdini-pertenencia-concept]] · [[aku-commitment-device-method]]
+**related** ↔ [[aku-methods-step7-sostener-su-cumplimiento-concept]] · [[aku-landing-page-permiso-concept]] · [[aku-urgencia-concept]] · [[aku-cialdini-reciprocidad-concept]] · [[aku-cialdini-prueba-social-concept]] · [[aku-cialdini-autoridad-concept]] · [[aku-cialdini-simpatia-concept]] · [[aku-cialdini-escasez-concept]] · [[aku-cialdini-pertenencia-concept]]
 
-**supported_by** ← [[aku-methods-step6-impulsar-su-momentum-concept]] · [[aku-trial-penalty-card-y-commitment]] · [[aku-waived-fee-start-y-stick]] · [[aku-commitment-a-cambio-de-bono]] · [[aku-di-a-tus-amigos-que-eres-feliz-para-conformarte-a-ello-claim]] · [[aku-usar-preguntas-retoricas-claim]] · [[aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method]] · [[aku-habit-contract-y-accountability-partner-method]]
+**supported_by** ← [[aku-methods-step6-impulsar-su-momentum-concept]] · [[aku-trial-penalty-card-y-commitment]] · [[aku-waived-fee-start-y-stick]] · [[aku-commitment-a-cambio-de-bono]] · [[aku-di-a-tus-amigos-que-eres-feliz-para-conformarte-a-ello-claim]] · [[aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method]] · [[aku-habit-contract-y-accountability-partner-method]]

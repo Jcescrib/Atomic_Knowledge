@@ -42,7 +42,6 @@ relations:
     - aku-debes-editar-y-expandir-tu-identidad-continuamente-claim
     - aku-manten-tu-identidad-pequena-y-flexible-para-poder-crecer-claim
     - aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim
-    - aku-the-path-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -55,6 +54,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-los-incentivos-inician-un-habito-la-identidad-lo-sostiene-claim]] · [[aku-habitos-basados-en-la-identidad-vs-en-resultados-concept]] · [[aku-cuando-de-verdad-quieres-cambiar-cambias-intentar-es-aplazar-claim]] · [[aku-tres-capas-del-cambio-de-conducta-concept]] · [[aku-tu-identidad-emerge-de-tus-habitos-claim]] · [[aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim]] · [[aku-proceso-de-dos-pasos-para-cambiar-tu-identidad-method]] · [[aku-debes-editar-y-expandir-tu-identidad-continuamente-claim]] · [[aku-manten-tu-identidad-pequena-y-flexible-para-poder-crecer-claim]] · [[aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim]] · [[aku-the-path-concept]]
+**related** ↔ [[aku-los-incentivos-inician-un-habito-la-identidad-lo-sostiene-claim]] · [[aku-habitos-basados-en-la-identidad-vs-en-resultados-concept]] · [[aku-cuando-de-verdad-quieres-cambiar-cambias-intentar-es-aplazar-claim]] · [[aku-tres-capas-del-cambio-de-conducta-concept]] · [[aku-tu-identidad-emerge-de-tus-habitos-claim]] · [[aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim]] · [[aku-proceso-de-dos-pasos-para-cambiar-tu-identidad-method]] · [[aku-debes-editar-y-expandir-tu-identidad-continuamente-claim]] · [[aku-manten-tu-identidad-pequena-y-flexible-para-poder-crecer-claim]] · [[aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim]]
 
 **supported_by** ← [[aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method]]

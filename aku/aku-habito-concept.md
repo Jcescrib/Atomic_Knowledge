@@ -42,10 +42,6 @@ relations:
     - aku-se-capta-mas-atencion-con-baja-carga-cognitiva-sin-meta-activa-claim
     - aku-cuatro-leyes-del-cambio-de-conducta-concept
     - aku-cambiar-un-habito-comprometiendote-30-dias-y-enfocando-semana-a-semana-method
-    - aku-disciplina-se-extiende-a-todo-claim
-    - aku-el-exito-demasiado-facil-y-rapido-afianza-los-viejos-habitos-claim
-    - aku-high-roi-habit-stack-concept
-    - aku-la-motivacion-es-relativa-encuentra-la-cosa-en-la-que-te-metes-claim
     - aku-lee-lo-que-amas-hasta-que-ames-leer-claim
     - aku-madrugar-predawn-stand-to-claim
     - aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim
@@ -61,4 +57,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-los-habitos-se-forman-por-frecuencia-no-por-tiempo-claim]] · [[aku-los-habitos-crean-libertad-no-la-restringen-claim]] · [[aku-no-hay-buenos-ni-malos-habitos-solo-habitos-efectivos-claim]] · [[aku-todo-habito-resuelve-un-problema-recurrente-con-minimo-esfuerzo-claim]] · [[aku-se-capta-mas-atencion-con-baja-carga-cognitiva-sin-meta-activa-claim]] · [[aku-cuatro-leyes-del-cambio-de-conducta-concept]] · [[aku-cambiar-un-habito-comprometiendote-30-dias-y-enfocando-semana-a-semana-method]] · [[aku-disciplina-se-extiende-a-todo-claim]] · [[aku-el-exito-demasiado-facil-y-rapido-afianza-los-viejos-habitos-claim]] · [[aku-high-roi-habit-stack-concept]] · [[aku-la-motivacion-es-relativa-encuentra-la-cosa-en-la-que-te-metes-claim]] · [[aku-lee-lo-que-amas-hasta-que-ames-leer-claim]] · [[aku-madrugar-predawn-stand-to-claim]] · [[aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim]]
+**related** ↔ [[aku-habit-loop-cue-craving-response-reward-concept]] · [[aku-los-habitos-se-forman-por-frecuencia-no-por-tiempo-claim]] · [[aku-los-habitos-crean-libertad-no-la-restringen-claim]] · [[aku-no-hay-buenos-ni-malos-habitos-solo-habitos-efectivos-claim]] · [[aku-todo-habito-resuelve-un-problema-recurrente-con-minimo-esfuerzo-claim]] · [[aku-se-capta-mas-atencion-con-baja-carga-cognitiva-sin-meta-activa-claim]] · [[aku-cuatro-leyes-del-cambio-de-conducta-concept]] · [[aku-cambiar-un-habito-comprometiendote-30-dias-y-enfocando-semana-a-semana-method]] · [[aku-lee-lo-que-amas-hasta-que-ames-leer-claim]] · [[aku-madrugar-predawn-stand-to-claim]] · [[aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim]]

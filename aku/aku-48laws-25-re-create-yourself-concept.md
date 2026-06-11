@@ -34,7 +34,6 @@ relations:
   related:
     - aku-48laws-24-play-the-perfect-courtier-concept
     - aku-48laws-26-keep-your-hands-clean-concept
-    - aku-debes-editar-y-expandir-tu-identidad-continuamente-claim
     - aku-todos-tenemos-una-creencia-contraria-que-la-tribu-rechaza-claim
     - aku-48laws-06-court-attention-at-all-cost-concept
     - aku-48laws-37-create-compelling-spectacles-concept
@@ -50,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-48laws-24-play-the-perfect-courtier-concept]] · [[aku-48laws-26-keep-your-hands-clean-concept]] · [[aku-debes-editar-y-expandir-tu-identidad-continuamente-claim]] · [[aku-todos-tenemos-una-creencia-contraria-que-la-tribu-rechaza-claim]] · [[aku-48laws-06-court-attention-at-all-cost-concept]] · [[aku-48laws-37-create-compelling-spectacles-concept]]
+**related** ↔ [[aku-48laws-24-play-the-perfect-courtier-concept]] · [[aku-48laws-26-keep-your-hands-clean-concept]] · [[aku-todos-tenemos-una-creencia-contraria-que-la-tribu-rechaza-claim]] · [[aku-48laws-06-court-attention-at-all-cost-concept]] · [[aku-48laws-37-create-compelling-spectacles-concept]]

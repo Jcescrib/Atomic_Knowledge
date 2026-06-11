@@ -25,8 +25,7 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports:
-    - aku-el-juicio-esta-infravalorado-claim
+  supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -38,7 +37,6 @@ relations:
     - aku-cadena-cinetica-potencia-golpe-concept
     - aku-tension-revela-la-verdad-claim
     - aku-entrenamiento-bjj-policia-reduce-uso-de-fuerza-claim
-    - aku-leverage-multiplicador-de-juicio-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -51,6 +49,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-32-principios-jiu-jitsu-concept]] · [[aku-labor-es-la-peor-forma-de-leverage-claim]] · [[aku-cadena-cinetica-potencia-golpe-concept]] · [[aku-tension-revela-la-verdad-claim]] · [[aku-entrenamiento-bjj-policia-reduce-uso-de-fuerza-claim]] · [[aku-leverage-multiplicador-de-juicio-concept]]
+**related** ↔ [[aku-32-principios-jiu-jitsu-concept]] · [[aku-labor-es-la-peor-forma-de-leverage-claim]] · [[aku-cadena-cinetica-potencia-golpe-concept]] · [[aku-tension-revela-la-verdad-claim]] · [[aku-entrenamiento-bjj-policia-reduce-uso-de-fuerza-claim]]
 
-**supports** → [[aku-el-juicio-esta-infravalorado-claim]]
+

@@ -42,8 +42,6 @@ relations:
     - aku-cialdini-simpatia-concept
     - aku-cialdini-escasez-concept
     - aku-cialdini-pertenencia-concept
-    - aku-leading-up-requiere-influencia-no-autoridad-claim
-    - aku-ensenar-con-no-a-incorporar-feedback-claim
 
 sources:
   - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
@@ -57,4 +55,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-leyes-persuasion-cialdini-concept]] · [[aku-cualificar-afiliado-cliente-experto-concept]]
-**related** ↔ [[aku-marca-potente-beneficios-claim]] · [[aku-perceived-likelihood-achievement-concept]] · [[aku-48laws-05-guard-your-reputation-concept]] · [[aku-cialdini-reciprocidad-concept]] · [[aku-cialdini-compromiso-consistencia-concept]] · [[aku-cialdini-prueba-social-concept]] · [[aku-cialdini-simpatia-concept]] · [[aku-cialdini-escasez-concept]] · [[aku-cialdini-pertenencia-concept]] · [[aku-leading-up-requiere-influencia-no-autoridad-claim]] · [[aku-ensenar-con-no-a-incorporar-feedback-claim]]
+**related** ↔ [[aku-marca-potente-beneficios-claim]] · [[aku-perceived-likelihood-achievement-concept]] · [[aku-48laws-05-guard-your-reputation-concept]] · [[aku-cialdini-reciprocidad-concept]] · [[aku-cialdini-compromiso-consistencia-concept]] · [[aku-cialdini-prueba-social-concept]] · [[aku-cialdini-simpatia-concept]] · [[aku-cialdini-escasez-concept]] · [[aku-cialdini-pertenencia-concept]]

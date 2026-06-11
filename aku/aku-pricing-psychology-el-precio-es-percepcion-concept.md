@@ -77,8 +77,7 @@ relations:
     - aku-precios-redondos-en-compras-emocionales-claim
     - aku-precios-redondos-en-compras-de-conveniencia-claim
     - aku-precios-redondos-en-productos-sociales-claim
-  supports:
-    - aku-seesaw-downselling-concept
+  supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -104,4 +103,4 @@ status_note: ""
 
 **related** ↔ [[aku-crear-percepcion-de-demanda-y-exclusividad-enciende-la-demanda-real-claim]] · [[aku-el-poder-de-la-percepcion-concept]] · [[aku-la-percepcion-es-separable-de-la-realidad-y-puedes-usarla-a-tu-favor-claim]]
 
-**supports** → [[aku-seesaw-downselling-concept]]
+

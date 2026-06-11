@@ -26,7 +26,6 @@ epistemic_type: sourced
 relations:
   supported_by: []
   supports:
-    - aku-nicho-strategy-concept
     - aku-elegir-modelos-que-se-parezcan-a-cada-segmento-claim
   constrained_by: []
   constrains: []
@@ -51,6 +50,5 @@ status_note: ""
 
 ## Relaciones
 
+**supports** → [[aku-elegir-modelos-que-se-parezcan-a-cada-segmento-claim]]
 **related** ↔ [[aku-magic-naming-concept]] · [[aku-ajustar-los-numerales-al-nombre-o-cumpleanos-egotismo-implicito-claim]] · [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-riches-in-niches-pricing-claim]] · [[aku-dolor-es-el-pitch-claim]]
-
-**supports** → [[aku-nicho-strategy-concept]] · [[aku-elegir-modelos-que-se-parezcan-a-cada-segmento-claim]]

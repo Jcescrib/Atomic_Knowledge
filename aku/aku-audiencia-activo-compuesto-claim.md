@@ -24,8 +24,7 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by:
-    - aku-capitalizar-interes-compuesto-method
+  supported_by: []
   supports: []
   constrained_by: []
   constrains: []
@@ -59,4 +58,4 @@ status_note: ""
 
 **related** ↔ [[aku-content-marketing-concept]] · [[aku-core-four-concept]] · [[aku-content-unit-concept]] · [[aku-give-ask-ratio-claim]] · [[aku-regularidad-importa-mas-que-frecuencia-claim]] · [[aku-depth-then-width-vs-width-then-depth-concept]] · [[aku-puddles-ponds-lakes-oceans-claim]] · [[aku-content-benchmarks-crecimiento-method]] · [[aku-siete-lecciones-contenido-concept]] · [[aku-how-to-vs-how-i-claim]] · [[aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim]] · [[aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim]]
 
-**supported_by** ← [[aku-capitalizar-interes-compuesto-method]]
+

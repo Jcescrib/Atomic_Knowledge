@@ -37,7 +37,6 @@ relations:
     - aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method
     - aku-draw-fire-concept
     - aku-ignorar-y-superar-a-los-negativos-claim
-    - aku-habitos-basados-en-la-identidad-vs-en-resultados-concept
 
 sources:
   - raw/libros/jocko/discipline-equals-freedom/discipline-equals-freedom.md
@@ -52,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-dichotomy-of-leadership-concept]]
 
-**related** ↔ [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method]] · [[aku-draw-fire-concept]] · [[aku-ignorar-y-superar-a-los-negativos-claim]] · [[aku-habitos-basados-en-la-identidad-vs-en-resultados-concept]]
+**related** ↔ [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method]] · [[aku-draw-fire-concept]] · [[aku-ignorar-y-superar-a-los-negativos-claim]]

@@ -38,7 +38,6 @@ relations:
     - aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim
     - aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim
     - aku-una-sola-persona-interesada-ya-prueba-que-tu-idea-tiene-valor-claim
-    - aku-impaciencia-con-las-acciones-paciencia-con-los-resultados-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -52,4 +51,4 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-conocer-tu-valor-y-extraer-el-maximo-concept]]
-**related** ↔ [[aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim]] · [[aku-las-negociaciones-no-son-personales-muevete-por-estrategia-no-emocion-claim]] · [[aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim]] · [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]] · [[aku-una-sola-persona-interesada-ya-prueba-que-tu-idea-tiene-valor-claim]] · [[aku-impaciencia-con-las-acciones-paciencia-con-los-resultados-claim]]
+**related** ↔ [[aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim]] · [[aku-las-negociaciones-no-son-personales-muevete-por-estrategia-no-emocion-claim]] · [[aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim]] · [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]] · [[aku-una-sola-persona-interesada-ya-prueba-que-tu-idea-tiene-valor-claim]]

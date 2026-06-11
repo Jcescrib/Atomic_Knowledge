@@ -42,8 +42,6 @@ relations:
     - aku-segmentado-strategy-concept
     - aku-nicho-recomendado-lanzamiento-claim
     - aku-importancia-segmentacion-claim
-    - aku-lead-magnet-cuatro-funciones-claim
-    - aku-puddles-ponds-lakes-oceans-claim
 
 sources:
   - "raw/cursos/power-mba/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md"
@@ -56,6 +54,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-early-adopter-concept]] · [[aku-nicho-strategy-concept]] · [[aku-comparativa-mass-market-vs-nicho-concept]] · [[aku-mass-market-strategy-concept]] · [[aku-segmentado-strategy-concept]] · [[aku-nicho-recomendado-lanzamiento-claim]] · [[aku-importancia-segmentacion-claim]] · [[aku-lead-magnet-cuatro-funciones-claim]] · [[aku-puddles-ponds-lakes-oceans-claim]]
+**related** ↔ [[aku-early-adopter-concept]] · [[aku-nicho-strategy-concept]] · [[aku-comparativa-mass-market-vs-nicho-concept]] · [[aku-mass-market-strategy-concept]] · [[aku-segmentado-strategy-concept]] · [[aku-nicho-recomendado-lanzamiento-claim]] · [[aku-importancia-segmentacion-claim]]
 
 **supported_by** ← [[aku-vender-mejores-clientes-mas-referidos-claim]]

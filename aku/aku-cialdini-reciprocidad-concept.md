@@ -23,9 +23,7 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by:
-    - aku-programar-una-interaccion-futura-claim
-    - aku-mencionar-tus-batnas-claim
+  supported_by: []
   supports:
     - aku-leyes-persuasion-cialdini-concept
     - aku-llevar-cafe-y-pasteles-a-la-negociacion-claim
@@ -64,4 +62,4 @@ status_note: ""
 **supports** → [[aku-leyes-persuasion-cialdini-concept]] · [[aku-llevar-cafe-y-pasteles-a-la-negociacion-claim]] · [[aku-anadir-una-contingencia-simple-a-tu-oferta-claim]]
 **related** ↔ [[aku-lead-magnet-concept]] · [[aku-bonuses-stack-concept]] · [[aku-pedir-de-nuevo-con-bono-reciprocidad-claim]] · [[aku-aportar-valor-es-clave-del-contenido-claim]] · [[aku-48laws-13-appeal-to-self-interest-concept]] · [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]] · [[aku-methods-step2-elicitar-actitudes-congruentes-concept]] · [[aku-cialdini-compromiso-consistencia-concept]] · [[aku-cialdini-prueba-social-concept]] · [[aku-cialdini-autoridad-concept]] · [[aku-cialdini-simpatia-concept]] · [[aku-cialdini-escasez-concept]] · [[aku-cialdini-pertenencia-concept]]
 
-**supported_by** ← [[aku-programar-una-interaccion-futura-claim]] · [[aku-mencionar-tus-batnas-claim]]
+[[aku-mencionar-tus-batnas-claim]]

@@ -38,7 +38,6 @@ relations:
     - aku-maestro-nunca-deja-de-aprender-humildad-claim
     - aku-no-hay-malos-estudiantes-solo-malos-profesores-claim
     - aku-liderar-con-el-ejemplo-unica-forma-de-ensenar-claim
-    - aku-cialdini-autoridad-concept
 
 sources:
   - raw/libros/jocko/32-principles/32-principles.md
@@ -51,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-reconnaissance-principle-concept]] · [[aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim]] · [[aku-aprender-pensando-por-uno-mismo-descubre-mas-claim]] · [[aku-maestro-nunca-deja-de-aprender-humildad-claim]] · [[aku-no-hay-malos-estudiantes-solo-malos-profesores-claim]] · [[aku-liderar-con-el-ejemplo-unica-forma-de-ensenar-claim]] · [[aku-cialdini-autoridad-concept]]
+**related** ↔ [[aku-reconnaissance-principle-concept]] · [[aku-ensenar-obliga-a-aprender-explica-lo-que-aprendes-claim]] · [[aku-aprender-pensando-por-uno-mismo-descubre-mas-claim]] · [[aku-maestro-nunca-deja-de-aprender-humildad-claim]] · [[aku-no-hay-malos-estudiantes-solo-malos-profesores-claim]] · [[aku-liderar-con-el-ejemplo-unica-forma-de-ensenar-claim]]

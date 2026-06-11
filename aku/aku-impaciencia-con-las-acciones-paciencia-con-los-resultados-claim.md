@@ -38,7 +38,6 @@ relations:
     - aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim
     - aku-la-mayor-parte-del-sufrimiento-viene-de-la-evitacion-claim
     - aku-si-hay-algo-que-quieres-hacer-luego-hazlo-ahora-no-hay-luego-claim
-    - aku-la-paciencia-es-una-fortaleza-negociadora-espera-el-deal-correcto-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -51,4 +50,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-motion-vs-action-concept]] · [[aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim]] · [[aku-hesitacion-es-el-enemigo-claim]] · [[aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim]] · [[aku-la-mayor-parte-del-sufrimiento-viene-de-la-evitacion-claim]] · [[aku-si-hay-algo-que-quieres-hacer-luego-hazlo-ahora-no-hay-luego-claim]] · [[aku-la-paciencia-es-una-fortaleza-negociadora-espera-el-deal-correcto-claim]]
+**related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-motion-vs-action-concept]] · [[aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim]] · [[aku-hesitacion-es-el-enemigo-claim]] · [[aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim]] · [[aku-la-mayor-parte-del-sufrimiento-viene-de-la-evitacion-claim]] · [[aku-si-hay-algo-que-quieres-hacer-luego-hazlo-ahora-no-hay-luego-claim]]

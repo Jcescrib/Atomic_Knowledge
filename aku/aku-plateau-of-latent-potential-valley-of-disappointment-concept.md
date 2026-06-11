@@ -35,7 +35,6 @@ relations:
   contradicts: []
   related:
     - aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim
-    - aku-perfeccionar-una-oferta-a-la-vez
     - aku-agregacion-de-ganancias-marginales-concept
     - aku-habito-atomico-concept
 
@@ -50,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim]] · [[aku-perfeccionar-una-oferta-a-la-vez]] · [[aku-agregacion-de-ganancias-marginales-concept]] · [[aku-habito-atomico-concept]]
+**related** ↔ [[aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim]] · [[aku-agregacion-de-ganancias-marginales-concept]] · [[aku-habito-atomico-concept]]

@@ -28,9 +28,6 @@ relations:
   supports:
     - aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim
     - aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim
-    - aku-audiencia-activo-compuesto-claim
-    - aku-leer-ciencia-mate-filosofia-una-hora-al-dia-te-eleva-en-siete-anos-claim
-    - aku-subir-la-escalera-de-leverage-accountability-specific-knowledge-crea-riqueza-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -58,4 +55,4 @@ status_note: ""
 
 **related** ↔ [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]] · [[aku-los-habitos-son-el-interes-compuesto-de-la-mejora-personal-claim]] · [[aku-capitalizar-interes-simple-method]] · [[aku-descontar-actualizar-method]] · [[aku-valor-actual-presente-concept]]
 
-**supports** → [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]] · [[aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim]] · [[aku-audiencia-activo-compuesto-claim]] · [[aku-leer-ciencia-mate-filosofia-una-hora-al-dia-te-eleva-en-siete-anos-claim]] · [[aku-subir-la-escalera-de-leverage-accountability-specific-knowledge-crea-riqueza-claim]]
+**supports** → [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]] · [[aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim]]

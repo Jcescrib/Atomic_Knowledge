@@ -25,8 +25,7 @@ epistemic_type: sourced
 relations:
   supported_by:
     - aku-recomendacion-vs-viralizacion-concept
-  supports:
-    - aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim
+  supports: []
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -53,4 +52,4 @@ status_note: ""
 **supported_by** ← [[aku-recomendacion-vs-viralizacion-concept]]
 **related** ↔ [[aku-leyes-persuasion-cialdini-concept]] · [[aku-cialdini-prueba-social-concept]] · [[aku-referral-growth-exponential-claim]] · [[aku-recomendacion-depende-producto-claim]] · [[aku-viralizacion-coste-cercano-cero-claim]]
 
-**supports** → [[aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim]]
+

@@ -36,7 +36,6 @@ relations:
     - aku-no-cuentes-con-motivacion-cuenta-disciplina-claim
     - aku-self-discipline-viene-de-dentro-concept
     - aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept
-    - aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim
     - aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim
     - aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim
     - aku-las-adicciones-pueden-disolverse-al-cambiar-radicalmente-el-entorno-claim
@@ -52,6 +51,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-no-cuentes-con-motivacion-cuenta-disciplina-claim]] · [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept]] · [[aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim]] · [[aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim]] · [[aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim]] · [[aku-las-adicciones-pueden-disolverse-al-cambiar-radicalmente-el-entorno-claim]]
+**related** ↔ [[aku-no-cuentes-con-motivacion-cuenta-disciplina-claim]] · [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-la-lucha-moderna-individuos-vs-ejercitos-que-explotan-la-abundancia-concept]] · [[aku-el-autocontrol-es-de-corto-plazo-haz-invisibles-los-cues-de-los-malos-habitos-claim]] · [[aku-el-autocontrol-cuesta-porque-no-es-satisfactorio-hay-que-soltar-el-deseo-no-satisfacerlo-claim]] · [[aku-las-adicciones-pueden-disolverse-al-cambiar-radicalmente-el-entorno-claim]]
 
 **contradicts** ↔ [[aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim]]

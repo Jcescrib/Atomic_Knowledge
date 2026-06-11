@@ -36,7 +36,6 @@ relations:
     - aku-no-te-tomes-tan-en-serio-eres-un-mono-con-un-plan-claim
     - aku-todos-los-marcadores-reales-son-internos-claim
     - aku-todo-exito-real-es-interno-la-adaptacion-hedonica-borra-el-externo-claim
-    - aku-manten-tu-identidad-pequena-y-flexible-para-poder-crecer-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -49,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-el-ego-se-construye-en-las-primeras-dos-decadas-concept]] · [[aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim]] · [[aku-no-te-tomes-tan-en-serio-eres-un-mono-con-un-plan-claim]] · [[aku-todos-los-marcadores-reales-son-internos-claim]] · [[aku-todo-exito-real-es-interno-la-adaptacion-hedonica-borra-el-externo-claim]] · [[aku-manten-tu-identidad-pequena-y-flexible-para-poder-crecer-claim]]
+**related** ↔ [[aku-el-ego-se-construye-en-las-primeras-dos-decadas-concept]] · [[aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim]] · [[aku-no-te-tomes-tan-en-serio-eres-un-mono-con-un-plan-claim]] · [[aku-todos-los-marcadores-reales-son-internos-claim]] · [[aku-todo-exito-real-es-interno-la-adaptacion-hedonica-borra-el-externo-claim]]
