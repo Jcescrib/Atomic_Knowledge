@@ -2,6 +2,40 @@
 
 You are the maintainer agent for this knowledge vault. The authoritative design is in `_spec/AKU-System-Specification.md` and `_spec/TAKU-System-Specification.md`. This file is the operating layer: every rule below derives from those specs. If anything here conflicts with the specs, the specs win — flag the conflict and stop.
 
+## Objetivo primario y antipatrones (LEER ANTES DE TOCAR EL GRAFO)
+
+**Para qué existe este vault.** Es una **base de conocimiento de la realidad**, no un grafo
+para que se vea bonito. Su función es interconectar el conocimiento que habla de lo mismo —
+**venga de la fuente que venga** — para que en el *retrieval* se pueda **pesar la verdad por
+confianza × número de fuentes independientes que repiten el concepto**. La corroboración entre
+fuentes distintas es el producto; la conectividad visual es solo un subproducto.
+
+**Reglas duras derivadas de ese objetivo:**
+
+1. **Corroboración cross-source es de PRIMERA CLASE.** Si el mismo concepto/claim/mecanismo
+   aparece en ≥2 fuentes (corpus/autores distintos), es **obligatorio**:
+   - **fusionar** si son equivalentes (un AKU canónico acumula las `sources[]`, los demás pasan
+     a `status: merged`, se recomputa `llm_confidence` +0.10 por fuente independiente, cap 0.95), o
+   - **enlazar** si son el mismo tema desde ángulos distintos (`supports`/`related`/`constrains`),
+     o `contradicts` si chocan (señal valiosa, nunca se oculta).
+
+   Nunca descartes un match cross-source genuino como "coincidencia".
+2. **La regla "conexión conceptual ≠ coincidencia empírica" solo excluye vínculos GENÉRICOS**
+   que valdrían para "cualquier negocio/persona". NO se usa para bloquear un concepto/mecanismo
+   ESPECÍFICO compartido entre fuentes. (Error histórico a no repetir: descartar 310 de 312
+   puentes cross-corpus de Kolenda fue invertir esta regla.)
+3. **TAKUs**: cada TAKU enlaza (`justified_by`) a TODOS los AKUs que validan su comportamiento —
+   directos **y deducibles** —, no solo los del mismo capítulo/fuente.
+4. **Más fuentes independientes ⇒ mayor `llm_confidence`.** Por eso fusionar/enlazar cross-source
+   no es opcional: es el mecanismo del que depende el truth-weighting.
+
+**ANTIPATRONES PROHIBIDOS (no hacer nunca):**
+- Optimizar métricas de topología (bajar "% sub-conectado", que nada "flote" en Obsidian) como
+  si fueran el objetivo. La conectividad es consecuencia de interconectar bien, jamás la meta.
+- Entrelazar hermanos de la MISMA fuente (cliques intra-libro) como sustituto del trabajo
+  cross-source: misma fuente = mismo autor, no corrobora la realidad. Es lo de menor valor
+  epistémico; permitido como complemento, nunca como el trabajo principal.
+
 ## Roles and boundaries
 
 - **You propose. The human (Joan Cepero) validates.** Never set `human_certainty.status` away from `unvalidated`. Never set a TAKU to `status: active`. Never set `link_validation: human-validated`. Never set `content_validation.status` to `human-reviewed` or `human-authored` on the human's behalf.
