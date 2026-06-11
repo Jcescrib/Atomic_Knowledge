@@ -26,6 +26,10 @@ epistemic_type: sourced
 relations:
   supported_by:
     - aku-cuatro-upsells-concept
+    - aku-exponer-a-cualquier-numero-alto-eleva-el-precio-de-referencia-claim
+    - aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim
+    - aku-distinguir-visualmente-la-opcion-mas-cara-claim
+    - aku-mostrar-precios-altos-antes-que-bajos-claim
   supports: []
   constrained_by: []
   constrains: []
@@ -52,6 +56,6 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-cuatro-upsells-concept]]
+**supported_by** ← [[aku-cuatro-upsells-concept]] · [[aku-exponer-a-cualquier-numero-alto-eleva-el-precio-de-referencia-claim]] · [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]] · [[aku-distinguir-visualmente-la-opcion-mas-cara-claim]] · [[aku-mostrar-precios-altos-antes-que-bajos-claim]]
 
 **related** ↔ [[aku-menu-upsell-concept]] · [[aku-unselling-concept]] · [[aku-prescription-upsell-concept]] · [[aku-ab-upsell-concept]] · [[aku-anchor-the-gasp]] · [[aku-anchor-no-fake]] · [[aku-anchor-features-primarias-iguales]]

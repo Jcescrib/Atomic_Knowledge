@@ -23,6 +23,7 @@ relations:
   supported_by: []
   supports:
     - aku-pricing-psychology-el-precio-es-percepcion-concept
+    - aku-anchor-upsell-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -55,6 +56,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
+**supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]] · [[aku-anchor-upsell-concept]]
 
 **related** ↔ [[aku-downsell-offer-concept]] · [[aku-virtuous-cycle-of-price-claim]] · [[aku-distinguir-visualmente-la-opcion-mas-cara-claim]] · [[aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim]] · [[aku-anadir-ligeras-diferencias-de-precio-en-el-surtido-claim]] · [[aku-no-agrupar-items-baratos-con-caros-promediacion-claim]]

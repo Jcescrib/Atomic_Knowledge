@@ -23,7 +23,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim
   supports: []
   constrained_by: []
   constrains: []
@@ -50,3 +51,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-decoy-offer-concept]] · [[aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim]] · [[aku-sacrificio-real-vs-decoy-concept]] · [[aku-decoy-permiso-para-vender-premium]] · [[aku-decoy-surprise-benefit]] · [[aku-decoy-pricing-tres-opciones-method]]
+
+**supported_by** ← [[aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim]]

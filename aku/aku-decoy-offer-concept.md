@@ -28,6 +28,7 @@ relations:
   supported_by: []
   supports:
     - aku-attraction-offer-concept
+    - aku-evaluamos-por-comparaciones-relativas-context-effects-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -52,6 +53,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-attraction-offer-concept]]
+**supports** → [[aku-attraction-offer-concept]] · [[aku-evaluamos-por-comparaciones-relativas-context-effects-concept]]
 
 **related** ↔ [[aku-decoy-permiso-para-vender-premium]] · [[aku-decoy-surprise-benefit]] · [[aku-decoy-pricing-tres-opciones-method]] · [[aku-economist-decoy-bundle-method]] · [[aku-sacrificio-real-vs-decoy-concept]] · [[aku-evaluamos-por-comparaciones-relativas-context-effects-concept]]

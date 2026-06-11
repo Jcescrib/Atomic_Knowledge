@@ -23,6 +23,7 @@ relations:
   supported_by: []
   supports:
     - aku-pricing-psychology-el-precio-es-percepcion-concept
+    - aku-anchor-upsell-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -46,6 +47,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
+**supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]] · [[aku-anchor-upsell-concept]]
 
 **related** ↔ [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]] · [[aku-hacer-la-primera-oferta-anclaje-claim]] · [[aku-un-numero-mayor-sugiere-un-producto-mas-avanzado-claim]] · [[aku-cuatro-upsells-concept]] · [[aku-no-agrupar-items-baratos-con-caros-promediacion-claim]]
