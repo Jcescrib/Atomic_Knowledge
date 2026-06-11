@@ -321,9 +321,12 @@ Never average. Never hide divergence — high `llm_confidence` + `validated-fals
 
 ### Link validation (TAKU → AKU)
 
-- `llm-proposed`: starting point, surfaced with a flag in retrieval.
-- `human-validated`: confirmed by the human, fully operational.
-- Both dimensions (content + each link) are independent. A `human-reviewed` TAKU with all `llm-proposed` links is not fully validated.
+Tres niveles, de menor a mayor confianza:
+- `llm-proposed`: punto de partida — propuesto por la máquina, SIN verificar. Se muestra con ◎ en retrieval.
+- `llm-verified`: sobrevivió a **verificación adversarial independiente** (un verificador escéptico intentó refutarlo y no pudo). Más fuerte que `llm-proposed`, pero **NO** es validación humana. Marca honesta del trabajo automático verificado. Se muestra con ◎✓ en retrieval.
+- `human-validated`: confirmado por el HUMANO de verdad, plenamente operativo. **El agente nunca lo fija** (ni siquiera en lote por delegación: usar `llm-verified` para eso). Se muestra con ✓.
+- **Regla de promoción**: el agente puede mover `llm-proposed → llm-verified` SOLO tras una pasada de verificación adversarial real (ver § Objetivo primario, listón de vetado). Solo el humano promueve a `human-validated`.
+- Las dos dimensiones (content + cada link) son independientes. Un TAKU `human-reviewed` con todos los links `llm-proposed` no está plenamente validado.
 
 ## Body wikilinks — Obsidian graph visibility
 
