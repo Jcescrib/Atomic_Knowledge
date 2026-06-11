@@ -12,25 +12,25 @@ when_not_to_use: "Como sustituto del fundamento (Extreme Ownership): las leyes o
 aku_links:
   justified_by:
     - id: aku-laws-of-combat-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-cover-and-move-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-simple-law-of-combat-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-prioritize-and-execute-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-decentralized-command-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-mantener-el-numero-del-nombre-simple-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-simple-law-of-combat-concept desde [kolenda] (cross-source)"
     - id: aku-lead-scoring-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-prioritize-and-execute-concept desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []

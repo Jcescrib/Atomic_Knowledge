@@ -12,13 +12,13 @@ when_not_to_use: "En misiones reales de alto riesgo donde un fallo del que apren
 aku_links:
   justified_by:
     - id: aku-liderazgo-como-herramienta-para-ensenar-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-ensenar-humildad-con-mision-dificil-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-construir-confianza-con-mision-asequible-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
   constrained_by: []
   breaks_when: []

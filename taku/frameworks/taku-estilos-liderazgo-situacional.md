@@ -12,22 +12,22 @@ when_not_to_use: "Buscando un único estilo 'correcto' que aplicar siempre: el m
 aku_links:
   justified_by:
     - id: aku-liderazgo-situacional-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "No hay estilo perfecto: adapta a personas y situación."
     - id: aku-estilos-autoritario-delegativo-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "El espectro autoritario↔delegativo y sus condiciones de encaje."
     - id: aku-el-liderazgo-eficaz-adapta-la-tactica-a-cada-persona-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-liderazgo-situacional-concept desde [50-cent] (cross-source)"
     - id: aku-liderazgo-indirecto-supera-al-directo-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-liderazgo-situacional-concept desde [jocko] (cross-source)"
     - id: aku-everyone-same-everyone-different-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-liderazgo-situacional-concept desde [jocko] (cross-source)"
     - id: aku-dar-ordenes-solo-commanders-intent-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-estilos-autoritario-delegativo-concept desde [jocko] (cross-source)"
   constrained_by: []
   breaks_when: []

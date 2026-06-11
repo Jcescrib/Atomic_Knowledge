@@ -12,13 +12,13 @@ when_not_to_use: "Si aún no tienes claro el output que persigues o el proceso q
 aku_links:
   justified_by:
     - id: aku-open-to-goal-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-rule-of-100-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-open-to-goal-claim desde [james-clear] (cross-source)"
   constrained_by: []
   breaks_when: []

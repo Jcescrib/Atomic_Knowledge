@@ -26,58 +26,58 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-bmc-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "El framework mismo — define los 9 bloques y su interdependencia."
     - id: aku-segmentos-de-clientes-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Bloque cliente; punto de partida lógico para rellenar el canvas."
     - id: aku-propuesta-de-valor-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Bloque oferta; bisagra entre el lado cliente y el lado infraestructura."
     - id: aku-canales-de-distribucion-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Bloque cliente — medio de entrega de valor."
     - id: aku-canal-directo-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Sub-concepto del bloque canales; trade-off margen/control vs alcance."
     - id: aku-canal-indirecto-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Sub-concepto del bloque canales; trade-off complementario al directo."
     - id: aku-relaciones-con-clientes-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Bloque cliente — tipo de relación sostenida post-captación."
     - id: aku-flujos-de-ingresos-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Bloque financiero — cómo el modelo cobra a cada segmento."
     - id: aku-recursos-clave-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Bloque infraestructura — activos necesarios para entregar la propuesta."
     - id: aku-actividades-clave-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Bloque infraestructura — procesos operativos."
     - id: aku-ecosistema-alianzas-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Bloque infraestructura — socios externos que extienden el modelo."
     - id: aku-estructura-de-costes-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Bloque financiero — deriva de recursos clave y actividades clave."
     - id: aku-segmento-relevante-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Regla metodológica para aplicar el bloque segmentos sin sobre-fragmentar."
     - id: aku-coste-prioridad-segun-estrategia-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Claim estratégico que prioriza (o no) la gestión del bloque costes."
     - id: aku-value-equation-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-propuesta-de-valor-concept desde [hormozi] (cross-source)"
     - id: aku-ltgp-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-flujos-de-ingresos-concept desde [hormozi] (cross-source)"
     - id: aku-bonos-terceros-revenue-streams-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-flujos-de-ingresos-concept desde [hormozi] (cross-source)"
     - id: aku-bonos-de-terceros-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-ecosistema-alianzas-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []

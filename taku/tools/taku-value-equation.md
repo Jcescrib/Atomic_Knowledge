@@ -12,47 +12,47 @@ when_not_to_use: "No sustituye la validación con clientes reales: rinde una est
 aku_links:
   justified_by:
     - id: aku-value-equation-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-dream-outcome-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-perceived-likelihood-achievement-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-time-delay-value-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-effort-sacrifice-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-ecuacion-valor-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-value-equation-concept desde [power-mba] (cross-source)"
     - id: aku-matriz-rice-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-value-equation-concept desde [power-mba] (cross-source)"
     - id: aku-propuesta-de-valor-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-value-equation-concept desde [power-mba] (cross-source)"
     - id: aku-cosas-importantes-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-dream-outcome-concept desde [power-mba] (cross-source)"
     - id: aku-emocion-prevalece-razon-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-dream-outcome-concept desde [power-mba] (cross-source)"
     - id: aku-beneficio-emocional-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-dream-outcome-concept desde [power-mba] (cross-source)"
     - id: aku-copy-aportar-pruebas-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-perceived-likelihood-achievement-concept desde [power-mba] (cross-source)"
     - id: aku-cialdini-autoridad-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-perceived-likelihood-achievement-concept desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-perception-is-reality-value-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
   breaks_when: []
   illustrates: []

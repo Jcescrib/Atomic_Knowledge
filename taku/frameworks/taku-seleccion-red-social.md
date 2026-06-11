@@ -12,13 +12,13 @@ when_not_to_use: "Cuando ya hay datos propios de rendimiento por red que deben p
 aku_links:
   justified_by:
     - id: aku-comparativa-redes-sociales-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Aporta las dimensiones de comparación de cada red."
     - id: aku-eleccion-red-social-segun-negocio-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Justifica elegir según negocio/audiencia/objetivo en lugar de tamaño."
     - id: aku-depth-then-width-vs-width-then-depth-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-eleccion-red-social-segun-negocio-claim desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []

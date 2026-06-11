@@ -12,28 +12,28 @@ when_not_to_use: "Como positividad ingenua que ignora la realidad o evita actuar
 aku_links:
   justified_by:
     - id: aku-good-mindset-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-incluso-en-la-muerte-hay-good-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-la-adversidad-temprana-forja-una-resiliencia-que-el-privilegio-no-da-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-good-mindset-concept desde [50-cent] (cross-source)"
     - id: aku-mentalidad-de-hustler-lo-recupero-en-la-siguiente-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-good-mindset-concept desde [50-cent] (cross-source)"
     - id: aku-cambiar-aceptar-o-dejar-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-good-mindset-concept desde [naval] (cross-source)"
     - id: aku-reencuadra-tus-habitos-de-have-to-a-get-to-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-good-mindset-concept desde [james-clear] (cross-source)"
     - id: aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-good-mindset-concept desde [50-cent] (cross-source)"
     - id: aku-proposito-personal-sostenibilidad-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-incluso-en-la-muerte-hay-good-claim desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []

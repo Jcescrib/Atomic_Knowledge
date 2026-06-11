@@ -12,44 +12,44 @@ when_not_to_use: "Si el problema real es de segmentación/plataforma (la gente c
 aku_links:
   justified_by:
     - id: aku-anuncio-callout-value-cta-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-callout-cocktail-party-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-what-who-when-framework-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-paid-ads-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-copy-incluir-titular-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-anuncio-callout-value-cta-concept desde [power-mba] (cross-source)"
     - id: aku-cta-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-anuncio-callout-value-cta-concept desde [power-mba] (cross-source)"
     - id: aku-anuncio-texto-google-ads-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-anuncio-callout-value-cta-concept desde [power-mba] (cross-source)"
     - id: aku-anadir-elementos-de-la-atencion-top-down-del-espectador-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-callout-cocktail-party-claim desde [kolenda] (cross-source)"
     - id: aku-tu-nombre-capta-la-atencion-cocktail-party-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-callout-cocktail-party-claim desde [kolenda] (cross-source)"
     - id: aku-formulas-titulos-potentes-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-callout-cocktail-party-claim desde [power-mba] (cross-source)"
     - id: aku-medicion-resultados-influencers-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-paid-ads-concept desde [power-mba] (cross-source)"
     - id: aku-paid-social-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-paid-ads-concept desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-targeting-lookalike-filtros-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
   breaks_when: []
   illustrates: []

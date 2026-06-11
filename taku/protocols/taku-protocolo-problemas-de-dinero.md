@@ -12,28 +12,28 @@ when_not_to_use: "Como sustituto de ayuda profesional financiera en situaciones 
 aku_links:
   justified_by:
     - id: aku-disciplina-se-extiende-a-todo-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-prioritize-and-execute-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-disciplina-se-extiende-a-todo-claim desde [naval] (cross-source)"
     - id: aku-tu-apariencia-fisica-comunica-disciplina-antes-de-hablar-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-disciplina-se-extiende-a-todo-claim desde [50-cent] (cross-source)"
     - id: aku-autoevaluacion-cuerpo-mente-alma-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-disciplina-se-extiende-a-todo-claim desde [power-mba] (cross-source)"
     - id: aku-lead-scoring-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-prioritize-and-execute-concept desde [power-mba] (cross-source)"
     - id: aku-never-miss-twice-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim desde [james-clear] (cross-source)"
   constrained_by: []
   breaks_when: []

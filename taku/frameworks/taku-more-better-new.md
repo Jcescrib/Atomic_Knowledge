@@ -12,23 +12,23 @@ when_not_to_use: "Antes de tener una actividad Core Four que funcione mínimamen
 aku_links:
   justified_by:
     - id: aku-more-better-new-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-rule-of-100-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-constraint-mayor-drop-off-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-cro-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-constraint-mayor-drop-off-claim desde [power-mba] (cross-source)"
     - id: aku-cuello-botella-funnel-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-constraint-mayor-drop-off-claim desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-size-of-pie-fallacy-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
   breaks_when: []
   illustrates: []

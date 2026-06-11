@@ -16,16 +16,16 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-circulo-dorado-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "El modelo Why/How/What."
     - id: aku-proposito-mision-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "El núcleo: el porqué."
     - id: aku-commanders-intent-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-circulo-dorado-concept desde [jocko] (cross-source)"
     - id: aku-mejores-lideres-mision-no-ego-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-proposito-mision-concept desde [jocko] (cross-source)"
   constrained_by: []
   breaks_when: []

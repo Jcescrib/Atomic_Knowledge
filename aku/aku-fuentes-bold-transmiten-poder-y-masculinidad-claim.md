@@ -36,6 +36,8 @@ relations:
     - aku-serif-vs-sans-serif-eleccion-segun-medio-y-tono-claim
     - aku-fuentes-condensadas-vs-espaciadas-transmiten-precision-vs-amplitud-claim
     - aku-fuentes-sans-serif-son-modernas-informales-y-legibles-en-pantalla-claim
+    - aku-las-mayusculas-transmiten-poder-y-fuerza-claim
+    - aku-mayusculas-minusculas-y-caja-mixta-transmiten-poder-compasion-y-legibilidad-claim
 
 sources:
   - raw/libros/kolenda/font-psychology-by-nick-kolenda/font-psychology-by-nick-kolenda.md
@@ -54,4 +56,4 @@ status_note: ""
 
 **supports** → [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]
 
-**related** ↔ [[aku-texturas-rugosas-parecen-masculinas-claim]] · [[aku-fuentes-rectas-transmiten-estabilidad-claim]] · [[aku-fuentes-simples-transmiten-franqueza-claim]] · [[aku-fuentes-espaciadas-se-sienten-relajantes-claim]] · [[aku-serif-vs-sans-serif-eleccion-segun-medio-y-tono-claim]] · [[aku-fuentes-condensadas-vs-espaciadas-transmiten-precision-vs-amplitud-claim]] · [[aku-fuentes-sans-serif-son-modernas-informales-y-legibles-en-pantalla-claim]]
+**related** ↔ [[aku-texturas-rugosas-parecen-masculinas-claim]] · [[aku-fuentes-rectas-transmiten-estabilidad-claim]] · [[aku-fuentes-simples-transmiten-franqueza-claim]] · [[aku-fuentes-espaciadas-se-sienten-relajantes-claim]] · [[aku-serif-vs-sans-serif-eleccion-segun-medio-y-tono-claim]] · [[aku-fuentes-condensadas-vs-espaciadas-transmiten-precision-vs-amplitud-claim]] · [[aku-fuentes-sans-serif-son-modernas-informales-y-legibles-en-pantalla-claim]] · [[aku-las-mayusculas-transmiten-poder-y-fuerza-claim]] · [[aku-mayusculas-minusculas-y-caja-mixta-transmiten-poder-compasion-y-legibilidad-claim]]

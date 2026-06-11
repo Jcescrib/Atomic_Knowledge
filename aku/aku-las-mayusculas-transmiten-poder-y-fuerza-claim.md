@@ -31,6 +31,8 @@ relations:
   related:
     - aku-mayusculas-minusculas-y-caja-mixta-transmiten-poder-compasion-y-legibilidad-claim
     - aku-la-caja-mixta-es-la-mas-legible-claim
+    - aku-fuentes-bold-transmiten-poder-y-masculinidad-claim
+    - aku-fuentes-angulares-transmiten-formalidad-y-masculinidad-claim
 
 sources:
   - raw/libros/kolenda/font-psychology-by-nick-kolenda/font-psychology-by-nick-kolenda.md
@@ -45,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]
 
-**related** ↔ [[aku-mayusculas-minusculas-y-caja-mixta-transmiten-poder-compasion-y-legibilidad-claim]] · [[aku-la-caja-mixta-es-la-mas-legible-claim]]
+**related** ↔ [[aku-mayusculas-minusculas-y-caja-mixta-transmiten-poder-compasion-y-legibilidad-claim]] · [[aku-la-caja-mixta-es-la-mas-legible-claim]] · [[aku-fuentes-bold-transmiten-poder-y-masculinidad-claim]] · [[aku-fuentes-angulares-transmiten-formalidad-y-masculinidad-claim]]

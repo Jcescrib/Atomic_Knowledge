@@ -12,13 +12,13 @@ when_not_to_use: "Cuando no se dispone de datos para iterar ni presupuesto para 
 aku_links:
   justified_by:
     - id: aku-concordancia-palabras-clave-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Define el conjunto de ajustes de concordancia disponibles."
     - id: aku-concordancia-alcance-relevancia-tradeoff-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Justifica la combinación de tipos según el tradeoff alcance/relevancia."
     - id: aku-concordancia-negativa-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Justifica el uso de negativas para filtrar tráfico no deseado."
   constrained_by: []
   breaks_when: []

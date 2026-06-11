@@ -12,34 +12,34 @@ when_not_to_use: "Intentar arrancar con un money model «completo» desde cero: 
 aku_links:
   justified_by:
     - id: aku-money-model-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-money-model-tres-etapas-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-cuatro-tipos-oferta-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-client-financed-acquisition-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-cac-payback-financia-crecimiento-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-money-model-concept desde [power-mba] (cross-source)"
     - id: aku-cac-payback-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-money-model-concept desde [power-mba] (cross-source)"
     - id: aku-cac-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-money-model-tres-etapas-concept desde [power-mba] (cross-source)"
     - id: aku-sinergia-principios-se-combinan-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-cuatro-tipos-oferta-concept desde [jocko] (cross-source)"
     - id: aku-motor-crecimiento-pago-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-client-financed-acquisition-concept desde [power-mba] (cross-source)"
     - id: aku-motor-crecimiento-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-client-financed-acquisition-concept desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []

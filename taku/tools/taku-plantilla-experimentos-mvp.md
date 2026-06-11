@@ -23,25 +23,25 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-lean-startup-method-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Marco donde la plantilla opera."
     - id: aku-hipotesis-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Primer campo de la plantilla."
     - id: aku-mvp-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Segundo campo — qué experimento se hace."
     - id: aku-aprendizaje-validado-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Tercer campo — qué se aprendió, qué cambia."
     - id: aku-build-measure-learn-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Es una vuelta concreta del ciclo."
     - id: aku-no-hay-solucion-100-correcta-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-lean-startup-method-concept desde [jocko] (cross-source)"
     - id: aku-paso-pequeno-reevaluar-ante-incertidumbre-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-lean-startup-method-concept desde [jocko] (cross-source)"
   constrained_by: []
   breaks_when: []

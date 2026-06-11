@@ -12,40 +12,40 @@ when_not_to_use: "Para rendirse, culpar a otros o descargar el estrés en la fam
 aku_links:
   justified_by:
     - id: aku-prioritize-and-execute-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-the-warpath-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-good-mindset-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-extreme-ownership-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-good-mindset-concept desde [50-cent] (cross-source)"
     - id: aku-lead-scoring-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-prioritize-and-execute-concept desde [power-mba] (cross-source)"
     - id: aku-felicidad-es-paz-no-alegria-paz-en-reposo-y-felicidad-en-movimiento-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-the-warpath-concept desde [naval] (cross-source)"
     - id: aku-la-libertad-es-el-valor-supremo-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-the-warpath-concept desde [naval] (cross-source)"
     - id: aku-la-adversidad-temprana-forja-una-resiliencia-que-el-privilegio-no-da-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-good-mindset-concept desde [50-cent] (cross-source)"
     - id: aku-mentalidad-de-hustler-lo-recupero-en-la-siguiente-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-good-mindset-concept desde [50-cent] (cross-source)"
     - id: aku-cambiar-aceptar-o-dejar-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-good-mindset-concept desde [naval] (cross-source)"
     - id: aku-reencuadra-tus-habitos-de-have-to-a-get-to-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-good-mindset-concept desde [james-clear] (cross-source)"
   constrained_by: []
   breaks_when: []

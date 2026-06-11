@@ -12,16 +12,16 @@ when_not_to_use: "No como sustituto del juicio situacional: son fundamentos, no 
 aku_links:
   justified_by:
     - id: aku-12-reglas-del-nuevo-lider-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-humildad-es-la-cualidad-mas-importante-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-48laws-01-never-outshine-the-master-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-humildad-es-la-cualidad-mas-importante-claim desde [robert-greene] (cross-source)"
     - id: aku-rodearte-de-yes-men-impide-aprender-de-tus-errores-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-humildad-es-la-cualidad-mas-importante-claim desde [50-cent] (cross-source)"
   constrained_by: []
   breaks_when: []

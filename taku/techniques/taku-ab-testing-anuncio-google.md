@@ -12,13 +12,13 @@ when_not_to_use: "Sin volumen de impresiones/clics suficiente para que la difere
 aku_links:
   justified_by:
     - id: aku-titulo-anuncio-google-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "El título es el elemento de mayor impacto a optimizar."
     - id: aku-anuncio-texto-google-ads-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Marco del anuncio sobre el que se experimenta."
     - id: aku-anuncio-callout-value-cta-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-anuncio-texto-google-ads-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []

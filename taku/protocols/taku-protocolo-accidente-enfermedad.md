@@ -12,31 +12,31 @@ when_not_to_use: "Como sustituto del tratamiento médico profesional, o para enf
 aku_links:
   justified_by:
     - id: aku-good-mindset-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-buscar-ayuda-profesional-sin-que-el-ego-lo-impida-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-prioritize-and-execute-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-la-adversidad-temprana-forja-una-resiliencia-que-el-privilegio-no-da-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-good-mindset-concept desde [50-cent] (cross-source)"
     - id: aku-mentalidad-de-hustler-lo-recupero-en-la-siguiente-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-good-mindset-concept desde [50-cent] (cross-source)"
     - id: aku-cambiar-aceptar-o-dejar-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-good-mindset-concept desde [naval] (cross-source)"
     - id: aku-reencuadra-tus-habitos-de-have-to-a-get-to-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-good-mindset-concept desde [james-clear] (cross-source)"
     - id: aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-good-mindset-concept desde [50-cent] (cross-source)"
     - id: aku-lead-scoring-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-prioritize-and-execute-concept desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []

@@ -25,35 +25,35 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-entrevista-problem-solution-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Concepto que la técnica operacionaliza."
     - id: aku-problem-solution-fit-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Estado objetivo que la técnica valida."
     - id: aku-customer-persona-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "El entrevistado debe encajar con la persona objetivo."
     - id: aku-mvp-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "La entrevista es un tipo de MVP."
     - id: aku-falso-positivo-validation-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "El riesgo central que la técnica debe gestionar."
     - id: aku-problem-solution-cycle-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-entrevista-problem-solution-concept desde [hormozi] (cross-source)"
     - id: aku-bonos-gratis-crean-problemas-upsell
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-problem-solution-fit-concept desde [hormozi] (cross-source)"
     - id: aku-cuatro-indicadores-mercado-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-customer-persona-concept desde [hormozi] (cross-source)"
     - id: aku-elegir-modelos-que-se-parezcan-a-cada-segmento-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-customer-persona-concept desde [kolenda] (cross-source)"
   constrained_by:
     - id: aku-falso-positivo-validation-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "El falso positivo es la restricción epistémica más importante."
   breaks_when: []
   illustrates: []

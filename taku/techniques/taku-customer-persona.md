@@ -22,22 +22,22 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-customer-persona-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "El concepto que la técnica operacionaliza."
     - id: aku-variables-segmentacion-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Las variables que se cruzan para definir la persona."
     - id: aku-segmentos-de-clientes-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Concepto base sobre el que la técnica opera."
     - id: aku-customer-persona-dimensiones-analisis-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Las ~17 dimensiones de análisis que componen el perfil completo de la persona (los bloques «conocerle mejor» y «por qué nos compra» que la técnica recorre)."
     - id: aku-cuatro-indicadores-mercado-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-customer-persona-concept desde [hormozi] (cross-source)"
     - id: aku-elegir-modelos-que-se-parezcan-a-cada-segmento-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-customer-persona-concept desde [kolenda] (cross-source)"
   constrained_by: []
   breaks_when: []

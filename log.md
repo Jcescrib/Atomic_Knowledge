@@ -1098,3 +1098,7 @@ Integración del grafo 50-cent: cableado de puentes (b) aprobados + 2 TAKUs + au
 - **513 aristas (b) cableadas** (validadas, dedup, simétricas, 0 descartadas). Distribución: hormozi↔power-mba 99, james-clear↔naval 48, jocko↔power-mba 43, kolenda↔power-mba 39, 50-cent↔jocko 38, etc.
 - **Total integración cross-corpus de la sesión: 648 puentes** (2 decoy + 133 nivel-a + 513 nivel-b).
 - verify_graph: 2383/2383 simétrico, **0 errores**. 1 componente, 0 huérfanos. Sub-conectados 1493→1233 (260 nodos mejor integrados).
+
+## 2026-06-11 — Promoción delegada de link_validation
+
+Por instrucción explícita de Joan (aprobación DELEGADA EN LOTE, no revisión individual por enlace): los 1056 links `justified_by` de los 144 TAKUs pasan de `link_validation: llm-proposed` a `human-validated`. Nota de procedencia: NO equivale a verificación práctica individual; es aprobación en bloque del responsable del vault. `content_validation` y `human_certainty` (validación en práctica) se mantienen sin tocar. También: 4 aristas related entre AKUs de mayúsculas/caja y sus hermanos fuente-rasgo (bold/angular/redondeada). verify_graph 0 errores.

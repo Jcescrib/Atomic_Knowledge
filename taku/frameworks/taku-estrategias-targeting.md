@@ -23,37 +23,37 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-mass-market-strategy-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Primera estrategia — una oferta para todo el mercado."
     - id: aku-segmentado-strategy-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Segunda estrategia — múltiples ofertas adaptadas por segmento."
     - id: aku-nicho-strategy-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Tercera estrategia — foco extremo en un único segmento."
     - id: aku-nicho-recomendado-lanzamiento-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Claim que prioriza nicho como estrategia recomendada en lanzamientos."
     - id: aku-segmentos-de-clientes-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Concepto base sobre el que las tres estrategias operan."
     - id: aku-riches-in-niches-pricing-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-mass-market-strategy-concept desde [hormozi] (cross-source)"
     - id: aku-target-un-microsegmento-y-escala-hacia-fuera-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-mass-market-strategy-concept desde [kolenda] (cross-source)"
     - id: aku-segmentar-la-copy-por-necesidades-distintas-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-segmentado-strategy-concept desde [kolenda] (cross-source)"
     - id: aku-commit-to-niche-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-nicho-strategy-concept desde [hormozi] (cross-source)"
     - id: aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-segmentado-strategy-concept desde [kolenda] (cross-source)"
     - id: aku-tres-mercados-eternos-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-nicho-strategy-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []

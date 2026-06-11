@@ -12,34 +12,34 @@ when_not_to_use: "Como fórmula rígida garantizada para cualquier conducta; Cle
 aku_links:
   justified_by:
     - id: aku-cuatro-leyes-del-cambio-de-conducta-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-habit-loop-cue-craving-response-reward-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-habito-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-cuatro-leyes-del-cambio-de-conducta-concept desde [naval] (cross-source)"
     - id: aku-se-capta-mas-atencion-con-baja-carga-cognitiva-sin-meta-activa-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-habito-concept desde [kolenda] (cross-source)"
     - id: aku-impaciencia-con-las-acciones-paciencia-con-los-resultados-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim desde [naval] (cross-source)"
     - id: aku-open-to-goal-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim desde [hormozi] (cross-source)"
     - id: aku-sin-propiedad-tus-inputs-estan-atados-a-tus-outputs-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim desde [naval] (cross-source)"
     - id: aku-earn-with-your-mind-not-your-time-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-no-subes-al-nivel-de-tus-metas-caes-al-de-tus-sistemas-claim desde [naval] (cross-source)"
   constrained_by: []
   breaks_when: []

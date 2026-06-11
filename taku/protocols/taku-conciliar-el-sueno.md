@@ -12,19 +12,19 @@ when_not_to_use: "Ante trastornos del sueño clínicos que requieren evaluación
 aku_links:
   justified_by:
     - id: aku-conciliar-sueno-temprano-pasos-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-sueno-es-necesidad-7-9h-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-high-roi-habit-stack-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-sueno-es-necesidad-7-9h-claim desde [hormozi] (cross-source)"
     - id: aku-dormir-lo-suficiente-es-parte-del-hustle-no-su-enemigo-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-sueno-es-necesidad-7-9h-claim desde [50-cent] (cross-source)"
     - id: aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-sueno-es-necesidad-7-9h-claim desde [50-cent] (cross-source)"
   constrained_by: []
   breaks_when: []

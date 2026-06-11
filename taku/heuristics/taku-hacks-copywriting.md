@@ -12,31 +12,31 @@ when_not_to_use: "En textos puramente informativos o legales donde la persuasió
 aku_links:
   justified_by:
     - id: aku-hacks-copywriting-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Define los siete principios de copy."
     - id: aku-cta-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Justifica el hack de incluir llamadas a la acción."
     - id: aku-cta-hormozi-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-hacks-copywriting-concept desde [hormozi] (cross-source)"
     - id: aku-terminar-las-frases-con-una-imagen-concreta-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-hacks-copywriting-concept desde [kolenda] (cross-source)"
     - id: aku-esquemas-de-combinacion-de-color-monocromatico-a-tetradico-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-cta-concept desde [kolenda] (cross-source)"
     - id: aku-los-colores-saturados-parecen-mas-cercanos-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-cta-concept desde [kolenda] (cross-source)"
     - id: aku-esquema-de-color-split-complementario-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-cta-concept desde [kolenda] (cross-source)"
     - id: aku-anuncio-callout-value-cta-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-cta-concept desde [hormozi] (cross-source)"
     - id: aku-reason-why-aumenta-accion-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-cta-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []

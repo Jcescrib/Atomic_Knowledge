@@ -12,16 +12,16 @@ when_not_to_use: "Como lista de lectura obligatoria o de prestigio social: Naval
 aku_links:
   justified_by:
     - id: aku-amar-leer-es-un-superpoder-vivimos-en-la-era-de-alejandria-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-lee-los-originales-y-clasicos-para-una-base-solida-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-relee-los-grandes-libros-identifica-los-tuyos-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-aprender-pensando-por-uno-mismo-descubre-mas-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-amar-leer-es-un-superpoder-vivimos-en-la-era-de-alejandria-claim desde [jocko] (cross-source)"
   constrained_by: []
   breaks_when: []

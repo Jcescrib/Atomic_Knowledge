@@ -12,34 +12,34 @@ when_not_to_use: ""
 aku_links:
   justified_by:
     - id: aku-hacks-copywriting-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Los principios de copy que esta bibliografía desarrolla en profundidad."
     - id: aku-leyes-persuasion-cialdini-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Cialdini (Influencia, Pre-suasión) es núcleo de este corpus."
     - id: aku-terminar-las-frases-con-una-imagen-concreta-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-hacks-copywriting-concept desde [kolenda] (cross-source)"
     - id: aku-cta-hormozi-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-hacks-copywriting-concept desde [hormozi] (cross-source)"
     - id: aku-methods-proceso-de-persuasion-en-siete-pasos-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [kolenda] (cross-source)"
     - id: aku-scarcity-limited-bonuses-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [hormozi] (cross-source)"
     - id: aku-anadir-una-contingencia-simple-a-tu-oferta-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [kolenda] (cross-source)"
     - id: aku-landing-page-permiso-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [hormozi] (cross-source)"
     - id: aku-scarcity-limited-seats-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [hormozi] (cross-source)"
     - id: aku-methods-step3-activar-presion-social-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [kolenda] (cross-source)"
   constrained_by: []
   breaks_when: []

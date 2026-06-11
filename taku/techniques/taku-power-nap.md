@@ -12,10 +12,10 @@ when_not_to_use: "Cerca de la hora de dormir, o si no puedes limitar la duració
 aku_links:
   justified_by:
     - id: aku-power-nap-pies-elevados-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-autoevaluacion-cuerpo-mente-alma-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-power-nap-pies-elevados-method desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []

@@ -16,7 +16,7 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-analisis-pest-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Define los factores del macroentorno y su uso."
   constrained_by: []
   breaks_when: []

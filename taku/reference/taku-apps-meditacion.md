@@ -12,22 +12,22 @@ when_not_to_use: ""
 aku_links:
   justified_by:
     - id: aku-mindfulness-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "El concepto que estas apps operacionalizan y guían."
     - id: aku-descansos-un-minuto-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Las apps soportan los descansos breves de un minuto repartidos en el día."
     - id: aku-choiceless-awareness-acepta-sin-juzgar-y-el-90-por-ciento-de-pensamientos-son-miedo-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-mindfulness-concept desde [naval] (cross-source)"
     - id: aku-meditar-60-min-60-dias-para-llegar-a-un-inbox-cero-mental-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-mindfulness-concept desde [naval] (cross-source)"
     - id: aku-iluminacion-es-el-espacio-entre-tus-pensamientos-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-mindfulness-concept desde [naval] (cross-source)"
     - id: aku-meditacion-es-apagar-a-la-sociedad-y-escucharte-y-adopta-muchas-formas-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-mindfulness-concept desde [naval] (cross-source)"
   constrained_by: []
   breaks_when: []

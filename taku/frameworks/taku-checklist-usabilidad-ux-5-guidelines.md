@@ -12,28 +12,28 @@ when_not_to_use: "Para optimizar la persuasión/conversión (objetivo distinto d
 aku_links:
   justified_by:
     - id: aku-ux-focus-guiar-la-atencion-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Guideline 1."
     - id: aku-ux-understanding-comunicar-con-claridad-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Guideline 2."
     - id: aku-ux-effort-minimizar-el-esfuerzo-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Guideline 3."
     - id: aku-ux-errors-prevenir-y-recuperar-errores-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Guideline 4."
     - id: aku-ux-compatibility-adaptarse-al-usuario-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Guideline 5."
     - id: aku-perception-is-reality-value-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-ux-understanding-comunicar-con-claridad-concept desde [hormozi] (cross-source)"
     - id: aku-preemptive-ownership-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-ux-errors-prevenir-y-recuperar-errores-concept desde [jocko] (cross-source)"
     - id: aku-landing-page-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-ux-compatibility-adaptarse-al-usuario-concept desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []

@@ -17,26 +17,26 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-fuentes-financiacion-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "El inventario de fuentes (el «quién»)."
     - id: aku-fases-financiacion-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "El mapa fase de desarrollo ↔ fase de financiación ↔ fuentes."
     - id: aku-bootstrapping-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Opción transversal a todas las fases."
     - id: aku-incubadora-aceleradora-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Fuentes de fases iniciales/intermedias."
     - id: aku-venture-capital-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Fuente de early-stage/growth con tracción."
     - id: aku-free-bootstrap-plataforma-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-bootstrapping-concept desde [(unknown)] (cross-source)"
   constrained_by:
     - id: aku-vc-busca-x10-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "El VC solo aplica si hay potencial de x10."
   breaks_when: []
   illustrates: []

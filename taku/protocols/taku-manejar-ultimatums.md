@@ -12,10 +12,10 @@ when_not_to_use: "Como herramienta habitual: no dejan margen, atrapan a la gente
 aku_links:
   justified_by:
     - id: aku-ultimatums-ultimo-recurso-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-dont-dig-in-no-sobrecomprometerse-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
   constrained_by: []
   breaks_when: []

@@ -16,40 +16,40 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-vender-una-accion-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "El principio que el decálogo operacionaliza."
     - id: aku-conversacion-mente-cliente-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Entrar en la conversación de la mente del cliente y hablar su idioma."
     - id: aku-estilo-editorial-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Generar intriga, curiosidad y sorpresa."
     - id: aku-leyes-persuasion-cialdini-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Social proof y otros gatillos en los pasos del decálogo."
     - id: aku-hard-selling-producto-debil
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-vender-una-accion-concept desde [hormozi] (cross-source)"
     - id: aku-problemas-a-soluciones-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-conversacion-mente-cliente-concept desde [hormozi] (cross-source)"
     - id: aku-dolor-es-el-pitch-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-conversacion-mente-cliente-concept desde [hormozi] (cross-source)"
     - id: aku-content-retain-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-estilo-editorial-concept desde [hormozi] (cross-source)"
     - id: aku-methods-proceso-de-persuasion-en-siete-pasos-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [kolenda] (cross-source)"
     - id: aku-scarcity-limited-bonuses-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [hormozi] (cross-source)"
     - id: aku-anadir-una-contingencia-simple-a-tu-oferta-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [kolenda] (cross-source)"
     - id: aku-landing-page-permiso-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []

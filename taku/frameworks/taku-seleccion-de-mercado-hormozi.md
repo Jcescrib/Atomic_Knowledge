@@ -12,35 +12,35 @@ when_not_to_use: "Cuando el mercado ya está fijado y validado por tracción rea
 aku_links:
   justified_by:
     - id: aku-starving-crowd-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-cuatro-indicadores-mercado-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-tres-mercados-eternos-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-mercado-oferta-persuasion-jerarquia-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-cliente-buscando-vs-no-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-starving-crowd-concept desde [power-mba] (cross-source)"
     - id: aku-customer-persona-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-cuatro-indicadores-mercado-concept desde [power-mba] (cross-source)"
     - id: aku-elevator-pitch-template-anglosajon-completo-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-cuatro-indicadores-mercado-concept desde [power-mba] (cross-source)"
     - id: aku-nicho-strategy-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-tres-mercados-eternos-concept desde [power-mba] (cross-source)"
     - id: aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-tres-mercados-eternos-concept desde [naval] (cross-source)"
   constrained_by:
     - id: aku-commit-to-niche-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
   breaks_when: []
   illustrates: []

@@ -17,47 +17,47 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-estrategias-genericas-porter-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Define los dos ejes y las tres/cuatro estrategias."
     - id: aku-liderazgo-en-coste-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Estrategia 1."
     - id: aku-estrategia-diferenciacion-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Estrategia 2."
     - id: aku-nicho-strategy-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Estrategia 3 (enfoque/nicho)."
     - id: aku-ventaja-competitiva-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "El objetivo que las estrategias persiguen."
     - id: aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-estrategias-genericas-porter-concept desde [james-clear] (cross-source)"
     - id: aku-categoria-de-uno-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-estrategia-diferenciacion-concept desde [hormozi] (cross-source)"
     - id: aku-grand-slam-offer-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-estrategia-diferenciacion-concept desde [hormozi] (cross-source)"
     - id: aku-riches-in-niches-pricing-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-nicho-strategy-concept desde [hormozi] (cross-source)"
     - id: aku-segmentar-la-copy-por-necesidades-distintas-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-nicho-strategy-concept desde [kolenda] (cross-source)"
     - id: aku-commit-to-niche-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-nicho-strategy-concept desde [hormozi] (cross-source)"
     - id: aku-tres-mercados-eternos-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-nicho-strategy-concept desde [hormozi] (cross-source)"
     - id: aku-mantenerse-sobrio-cuando-otros-beben-da-ventaja-competitiva-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-ventaja-competitiva-concept desde [50-cent] (cross-source)"
   constrained_by:
     - id: aku-factores-internos-recursos-capacidades-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "La elección debe partir de un análisis interno de fortalezas."
   breaks_when: []
   illustrates: []

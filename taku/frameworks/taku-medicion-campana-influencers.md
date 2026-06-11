@@ -12,13 +12,13 @@ when_not_to_use: "Cuando no es posible obtener datos del influencer ni instrumen
 aku_links:
   justified_by:
     - id: aku-medicion-resultados-influencers-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Aporta el mapeo funnel→KPIs→cómo medirlos."
     - id: aku-power-funnel-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Estructura de funnel sobre la que se asignan los KPIs."
     - id: aku-paid-ads-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-medicion-resultados-influencers-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []

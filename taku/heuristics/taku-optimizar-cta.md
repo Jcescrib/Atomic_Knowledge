@@ -16,31 +16,31 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-cta-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Define el CTA y sus tres dimensiones (contenido, diseño, ubicación)."
     - id: aku-vender-una-accion-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "El CTA es la materialización de «vender la acción»."
     - id: aku-esquemas-de-combinacion-de-color-monocromatico-a-tetradico-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-cta-concept desde [kolenda] (cross-source)"
     - id: aku-los-colores-saturados-parecen-mas-cercanos-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-cta-concept desde [kolenda] (cross-source)"
     - id: aku-esquema-de-color-split-complementario-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-cta-concept desde [kolenda] (cross-source)"
     - id: aku-anuncio-callout-value-cta-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-cta-concept desde [hormozi] (cross-source)"
     - id: aku-cta-hormozi-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-cta-concept desde [hormozi] (cross-source)"
     - id: aku-reason-why-aumenta-accion-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-cta-concept desde [hormozi] (cross-source)"
     - id: aku-hard-selling-producto-debil
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-vender-una-accion-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []

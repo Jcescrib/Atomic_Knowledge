@@ -12,40 +12,40 @@ when_not_to_use: "Como dogma rígido idéntico para todos: el Código es un punt
 aku_links:
   justified_by:
     - id: aku-the-code-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-eminently-qualified-human-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-disciplina-se-extiende-a-todo-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-empezar-aqui-y-ahora-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-tres-capas-liderazgo-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-the-code-concept desde [power-mba] (cross-source)"
     - id: aku-objetivos-personales-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-eminently-qualified-human-concept desde [power-mba] (cross-source)"
     - id: aku-habitos-mas-practica-deliberada-igual-maestria-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-eminently-qualified-human-concept desde [james-clear] (cross-source)"
     - id: aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-disciplina-se-extiende-a-todo-claim desde [naval] (cross-source)"
     - id: aku-tu-apariencia-fisica-comunica-disciplina-antes-de-hablar-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-disciplina-se-extiende-a-todo-claim desde [50-cent] (cross-source)"
     - id: aku-autoevaluacion-cuerpo-mente-alma-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-disciplina-se-extiende-a-todo-claim desde [power-mba] (cross-source)"
     - id: aku-si-hay-algo-que-quieres-hacer-luego-hazlo-ahora-no-hay-luego-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-empezar-aqui-y-ahora-method desde [naval] (cross-source)"
     - id: aku-48laws-28-enter-action-with-boldness-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-empezar-aqui-y-ahora-method desde [robert-greene] (cross-source)"
   constrained_by: []
   breaks_when: []

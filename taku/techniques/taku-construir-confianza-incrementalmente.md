@@ -12,13 +12,13 @@ when_not_to_use: "Cuando un fallo tendría consecuencias catastróficas inmediat
 aku_links:
   justified_by:
     - id: aku-dar-confianza-incrementalmente-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-confianza-se-construye-no-se-da-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-decentralized-command-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
   constrained_by: []
   breaks_when: []

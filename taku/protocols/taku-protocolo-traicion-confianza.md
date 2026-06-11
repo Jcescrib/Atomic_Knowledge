@@ -12,19 +12,19 @@ when_not_to_use: "Para estallar emocionalmente, actuar sin pruebas o dejar que e
 aku_links:
   justified_by:
     - id: aku-detach-tactico-estrategico-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-no-sobrerreaccionar-mantener-la-calma-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-responder-no-reaccionar-da-control-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-48laws-39-stir-up-waters-to-catch-fish-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-no-sobrerreaccionar-mantener-la-calma-claim desde [robert-greene] (cross-source)"
     - id: aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-responder-no-reaccionar-da-control-claim desde [james-clear] (cross-source)"
   constrained_by: []
   breaks_when: []

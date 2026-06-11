@@ -12,17 +12,17 @@ when_not_to_use: "Para bajar el precio del mismo producto «porque sí» (eso de
 aku_links:
   justified_by:
     - id: aku-downsell-offer-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-tres-downsells-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-mostrar-precios-altos-antes-que-bajos-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-downsell-offer-concept desde [kolenda] (cross-source)"
   constrained_by:
     - id: aku-no-bajar-precio-mismo-producto-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
   breaks_when: []
   illustrates: []

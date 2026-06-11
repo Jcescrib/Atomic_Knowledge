@@ -12,29 +12,29 @@ when_not_to_use: "Como única vía a escala: el tiempo y el tamaño de tu audien
 aku_links:
   justified_by:
     - id: aku-warm-outreach-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-todos-tienen-lista-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-aca-framework-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-first-five-free-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-lead-magnet-resumen-visita-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-warm-outreach-concept desde [power-mba] (cross-source)"
     - id: aku-leyes-persuasion-cialdini-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-aca-framework-concept desde [power-mba] (cross-source)"
     - id: aku-blitz-lanza-producto-aunque-averguence-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-first-five-free-claim desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-costes-ocultos-oferta-gratis-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
   breaks_when: []
   illustrates: []

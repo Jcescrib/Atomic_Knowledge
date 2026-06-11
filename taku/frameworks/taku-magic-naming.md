@@ -12,26 +12,26 @@ when_not_to_use: "Cuando el problema real no es el nombre sino la oferta o el me
 aku_links:
   justified_by:
     - id: aku-magic-naming-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-grand-slam-offer-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-formulas-titulos-potentes-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-magic-naming-concept desde [power-mba] (cross-source)"
     - id: aku-commodity-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-grand-slam-offer-concept desde [power-mba] (cross-source)"
     - id: aku-estrategia-diferenciacion-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-grand-slam-offer-concept desde [power-mba] (cross-source)"
     - id: aku-innovacion-valor-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-grand-slam-offer-concept desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-offers-fatigue-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
   breaks_when: []
   illustrates: []

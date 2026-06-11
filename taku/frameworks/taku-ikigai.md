@@ -12,19 +12,19 @@ when_not_to_use: "Como test de respuesta única o decisión inmediata; es un pro
 aku_links:
   justified_by:
     - id: aku-ikigai-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Define los 4 elementos, las 4 zonas intermedias y el carácter procesual."
     - id: aku-proposito-personal-sostenibilidad-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Justifica por qué vivir según el propósito importa: felicidad y rendimiento sostenibles."
     - id: aku-corazon-de-hustler-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-ikigai-concept desde [50-cent] (cross-source)"
     - id: aku-buscar-fuera-de-ti-la-felicidad-es-la-delusion-fundamental-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-proposito-personal-sostenibilidad-claim desde [naval] (cross-source)"
     - id: aku-incluso-en-la-muerte-hay-good-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-proposito-personal-sostenibilidad-claim desde [jocko] (cross-source)"
   constrained_by: []
   breaks_when: []

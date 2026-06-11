@@ -23,46 +23,46 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-motor-crecimiento-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "El concepto meta que define qué es un motor de crecimiento."
     - id: aku-motor-crecimiento-pago-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Primer arquetipo — crecimiento financiado por reinversión del margen CLTV-CAC."
     - id: aku-motor-crecimiento-viral-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Segundo arquetipo — crecimiento orgánico vía coeficiente de viralidad."
     - id: aku-motor-crecimiento-sticky-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Tercer arquetipo — crecimiento por retención de larga duración."
     - id: aku-coeficiente-viralidad-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Métrica clave del motor viral; permite diagnosticarlo cuantitativamente."
     - id: aku-viral-bajo-cltv-compatible-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Claim contraintuitivo que el marco hace explícito y operacionalizable."
     - id: aku-free-bootstrap-plataforma-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-motor-crecimiento-viral-concept desde [(unknown)] (cross-source)"
     - id: aku-client-financed-acquisition-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-motor-crecimiento-concept desde [hormozi] (cross-source)"
     - id: aku-las-epidemias-virales-se-originan-en-micronetworks-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-motor-crecimiento-viral-concept desde [kolenda] (cross-source)"
     - id: aku-la-interconectividad-construye-la-infeccion-dentro-de-la-red-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-motor-crecimiento-viral-concept desde [kolenda] (cross-source)"
     - id: aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-coeficiente-viralidad-concept desde [kolenda] (cross-source)"
     - id: aku-lead-magnet-reduce-cac-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-motor-crecimiento-pago-concept desde [hormozi] (cross-source)"
     - id: aku-micronetwork-red-densa-con-interconexiones-fuertes-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-motor-crecimiento-viral-concept desde [kolenda] (cross-source)"
     - id: aku-pedir-referidos-como-oferta-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-motor-crecimiento-viral-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []

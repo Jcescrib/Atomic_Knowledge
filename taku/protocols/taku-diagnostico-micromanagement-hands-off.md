@@ -12,19 +12,19 @@ when_not_to_use: "Cuando el problema es de competencia individual o recursos, no
 aku_links:
   justified_by:
     - id: aku-sintomas-de-micromanagement-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-sintomas-de-hands-off-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-corregir-micromanagement-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-corregir-hands-off-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-balance-ownership-decentralized-command-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
   constrained_by: []
   breaks_when: []

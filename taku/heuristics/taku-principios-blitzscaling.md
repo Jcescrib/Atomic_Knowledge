@@ -16,19 +16,19 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-blitzscaling-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Las reglas derivan de priorizar velocidad sobre eficiencia."
     - id: aku-etapas-organizacion-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Los principios acompañan la evolución de la organización."
     - id: aku-nueve-principios-blitzscaling-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Paraguas que define los nueve principios de gestión contraintuitivos que esta heurística enumera y operacionaliza."
     - id: aku-los-que-no-arriesgan-no-ganan-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-blitzscaling-concept desde [jocko] (cross-source)"
     - id: aku-calcular-y-mitigar-riesgo-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-blitzscaling-concept desde [jocko] (cross-source)"
   constrained_by: []
   breaks_when: []

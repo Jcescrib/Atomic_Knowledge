@@ -12,22 +12,22 @@ when_not_to_use: "Como excusa para no entrenar mientras lo perfeccionas: lo impo
 aku_links:
   justified_by:
     - id: aku-estructura-workout-pull-push-lift-squat-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-calentamiento-progresivo-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-para-tener-paz-mental-primero-hay-que-tener-paz-del-cuerpo-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-calentamiento-progresivo-method desde [naval] (cross-source)"
     - id: aku-haz-algo-fisico-cada-dia-el-mejor-ejercicio-es-el-que-haras-cada-dia-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim desde [naval] (cross-source)"
     - id: aku-habit-tracker-no-rompas-la-cadena-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim desde [james-clear] (cross-source)"
   constrained_by: []
   breaks_when: []

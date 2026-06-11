@@ -22,61 +22,61 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-power-value-modelo-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "El canvas mismo."
     - id: aku-propuesta-de-valor-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "El concepto que el canvas operacionaliza."
     - id: aku-beneficio-funcional-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Una de las tres dimensiones de beneficio."
     - id: aku-beneficio-emocional-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Segunda dimensión de beneficio — crítica por la primacía de la emoción."
     - id: aku-problema-resuelto-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Tercera dimensión — beneficio formulado en negativo."
     - id: aku-coste-percibido-amplio-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "La columna de costes en sus siete dimensiones."
     - id: aku-cosas-importantes-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Los motores últimos a los que apuntar."
     - id: aku-competencia-amplia-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "La dimensión Diferenciación se mide contra esta visión ampliada."
     - id: aku-ecuacion-valor-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "El criterio de éxito del marco: Beneficios > Costes."
     - id: aku-emocion-prevalece-razon-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Claim de fondo que prioriza la columna emocional de beneficios."
     - id: aku-reducir-costes-no-precio-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Claim que prioriza operar sobre costes no-precio para preservar margen."
     - id: aku-dream-outcome-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-beneficio-emocional-concept desde [hormozi] (cross-source)"
     - id: aku-value-equation-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-propuesta-de-valor-concept desde [hormozi] (cross-source)"
     - id: aku-muestra-el-producto-antes-del-precio-en-productos-emocionales-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-beneficio-funcional-concept desde [kolenda] (cross-source)"
     - id: aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-beneficio-emocional-concept desde [james-clear] (cross-source)"
     - id: aku-dolor-es-el-pitch-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-problema-resuelto-concept desde [hormozi] (cross-source)"
     - id: aku-ampliar-gap-valor-precio-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-ecuacion-valor-claim desde [hormozi] (cross-source)"
     - id: aku-choice-psychology-tres-mecanismos-de-decision-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-ecuacion-valor-claim desde [kolenda] (cross-source)"
     - id: aku-precio-alto-aumenta-valor-percibido-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-emocion-prevalece-razon-claim desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []

@@ -12,16 +12,16 @@ when_not_to_use: "Ante condiciones médicas (diabetes en tratamiento, embarazo, 
 aku_links:
   justified_by:
     - id: aku-ayuno-beneficios-fisicos-y-psicologicos-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-homeostasis-glucosa-insulina-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-la-meditacion-es-ayuno-intermitente-para-la-mente-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-ayuno-beneficios-fisicos-y-psicologicos-method desde [naval] (cross-source)"
     - id: aku-la-grasa-sacia-el-azucar-da-hambre-y-su-combinacion-es-letal-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-homeostasis-glucosa-insulina-concept desde [naval] (cross-source)"
   constrained_by: []
   breaks_when: []

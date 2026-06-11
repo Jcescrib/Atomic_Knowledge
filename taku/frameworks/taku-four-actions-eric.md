@@ -22,22 +22,22 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-eric-eliminar-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Acción E: qué factores que la industria da por supuestos eliminar."
     - id: aku-eric-reducir-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Acción R: qué factores reducir muy por debajo del estándar del sector."
     - id: aku-eric-incrementar-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Acción I: qué factores incrementar muy por encima del estándar del sector."
     - id: aku-eric-crear-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Acción C: qué factores nuevos crear que la industria no ofrece."
     - id: aku-innovacion-valor-via-eric-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Claim central: aplicar ERIC produce innovación en valor (más valor + menos coste)."
     - id: aku-ampliar-gap-valor-precio-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-innovacion-valor-via-eric-claim desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []

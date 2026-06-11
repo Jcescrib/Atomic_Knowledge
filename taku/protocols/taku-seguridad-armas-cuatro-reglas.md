@@ -12,7 +12,7 @@ when_not_to_use: "No aplica: las cuatro reglas se mantienen en todo momento, sin
 aku_links:
   justified_by:
     - id: aku-cuatro-reglas-seguridad-armas-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
   constrained_by: []
   breaks_when: []

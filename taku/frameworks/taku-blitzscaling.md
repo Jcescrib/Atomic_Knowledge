@@ -17,32 +17,32 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-blitzscaling-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Define la estrategia."
     - id: aku-factores-crecimiento-blitzscaling-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Los cuatro factores que habilitan el crecimiento explosivo."
     - id: aku-limitadores-crecimiento-blitzscaling-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Los limitadores a vigilar (PMF, escalabilidad operacional)."
     - id: aku-tipos-estrategias-crecimiento-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Sitúa el blitzscaling frente a las otras tres estrategias."
     - id: aku-los-que-no-arriesgan-no-ganan-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-blitzscaling-concept desde [jocko] (cross-source)"
     - id: aku-calcular-y-mitigar-riesgo-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-blitzscaling-concept desde [jocko] (cross-source)"
     - id: aku-free-bootstrap-plataforma-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-factores-crecimiento-blitzscaling-concept desde [(unknown)] (cross-source)"
     - id: aku-tu-negocio-se-rompe-cuando-funciona
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-limitadores-crecimiento-blitzscaling-concept desde [hormozi] (cross-source)"
   constrained_by:
     - id: aku-blitzscaling-cuando-oportunidad-enorme-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Solo aplica cuando la oportunidad es enorme."
   breaks_when: []
   illustrates: []

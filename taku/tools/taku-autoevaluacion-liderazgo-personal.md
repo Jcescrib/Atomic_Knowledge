@@ -12,37 +12,37 @@ when_not_to_use: "Como instrumento clínico o diagnóstico psicológico; es una 
 aku_links:
   justified_by:
     - id: aku-autoevaluacion-cuerpo-mente-alma-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Define las 3 áreas y señales de advertencia que la herramienta evalúa."
     - id: aku-tres-capas-liderazgo-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Justifica por qué el autoliderazgo (capa núcleo) merece evaluarse."
     - id: aku-autoliderazgo-prerequisito-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Motiva la herramienta: sin autoliderazgo efectivo no se lidera a otros."
     - id: aku-mind-control-controla-tu-propia-mente-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-tres-capas-liderazgo-concept desde [jocko] (cross-source)"
     - id: aku-evaluation-character-leadership-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-tres-capas-liderazgo-concept desde [jocko] (cross-source)"
     - id: aku-stress-bueno-y-malo-cortisol-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-autoevaluacion-cuerpo-mente-alma-concept desde [jocko] (cross-source)"
     - id: aku-the-evaluation-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-autoevaluacion-cuerpo-mente-alma-concept desde [jocko] (cross-source)"
     - id: aku-un-estilo-de-vida-limpio-sostiene-la-capacidad-de-trabajo-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-autoevaluacion-cuerpo-mente-alma-concept desde [50-cent] (cross-source)"
     - id: aku-evaluation-health-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-autoevaluacion-cuerpo-mente-alma-concept desde [jocko] (cross-source)"
     - id: aku-disciplina-se-extiende-a-todo-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-autoevaluacion-cuerpo-mente-alma-concept desde [jocko] (cross-source)"
     - id: aku-power-nap-pies-elevados-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-autoevaluacion-cuerpo-mente-alma-concept desde [jocko] (cross-source)"
   constrained_by: []
   breaks_when: []

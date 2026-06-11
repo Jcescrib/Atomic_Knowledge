@@ -12,13 +12,13 @@ when_not_to_use: "No la uses para desentenderte de problemas que sí requieren a
 aku_links:
   justified_by:
     - id: aku-saber-que-es-importante-y-que-no-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-detach-tactico-estrategico-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-blitz-no-resuelvas-todos-problemas-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-saber-que-es-importante-y-que-no-method desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []

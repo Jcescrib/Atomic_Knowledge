@@ -12,16 +12,16 @@ when_not_to_use: "En formatos no textuales (Shopping, display, vídeo) donde apl
 aku_links:
   justified_by:
     - id: aku-anuncio-texto-google-ads-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Estructura del anuncio sobre la que se optimiza."
     - id: aku-relevancia-anuncio-landing-rendimiento-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Justifica la coherencia anuncio-landing y el uso de keywords compartidas."
     - id: aku-extensiones-mejoran-rendimiento-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Justifica usar todas las extensiones posibles."
     - id: aku-anuncio-callout-value-cta-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-anuncio-texto-google-ads-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []

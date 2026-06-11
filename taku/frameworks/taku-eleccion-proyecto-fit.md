@@ -17,10 +17,10 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-fit-proyecto-emprendedor-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "El match founder↔modelo de negocio que el marco persigue."
     - id: aku-implicaciones-modelo-negocio-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Las siete dimensiones a analizar antes de elegir."
   constrained_by: []
   breaks_when: []

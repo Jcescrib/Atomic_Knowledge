@@ -12,25 +12,25 @@ when_not_to_use: "Como adulación o manipulación para beneficio propio: el fin 
 aku_links:
   justified_by:
     - id: aku-redirigir-al-jefe-onus-en-ti-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-rendimiento-construye-confianza-del-jefe-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-power-of-relationships-liderazgo-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-leadership-capital-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-hablar-suave-transfiere-el-poder-hacia-ti-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-rendimiento-construye-confianza-del-jefe-claim desde [50-cent] (cross-source)"
     - id: aku-48laws-43-work-on-hearts-and-minds-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-power-of-relationships-liderazgo-concept desde [robert-greene] (cross-source)"
     - id: aku-48laws-23-concentrate-your-forces-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-leadership-capital-concept desde [robert-greene] (cross-source)"
   constrained_by: []
   breaks_when: []

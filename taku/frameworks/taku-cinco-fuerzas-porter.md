@@ -17,28 +17,28 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-cinco-fuerzas-porter-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Define el marco completo de las 5 fuerzas."
     - id: aku-amenaza-sustitutivos-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Fuerza 1."
     - id: aku-barreras-de-entrada-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Fuerza 2 (amenaza de nuevos competidores)."
     - id: aku-poder-proveedores-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Fuerza 3."
     - id: aku-poder-compradores-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Fuerza 4."
     - id: aku-rivalidad-competitiva-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Fuerza 5 (síntesis)."
     - id: aku-lleva-un-book-scouting-report-de-tu-competencia-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-cinco-fuerzas-porter-concept desde [50-cent] (cross-source)"
     - id: aku-nunca-terminas-de-competir-al-final-compites-contigo-mismo-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-rivalidad-competitiva-concept desde [50-cent] (cross-source)"
   constrained_by: []
   breaks_when: []

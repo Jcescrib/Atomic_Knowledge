@@ -12,31 +12,31 @@ when_not_to_use: "Como ejercicio de marketing aislado: si no se vincula a objeti
 aku_links:
   justified_by:
     - id: aku-cascada-estrategica-ejecucion-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "La cascada misión/visión→valores→objetivos→iniciativas→ejecución."
     - id: aku-proposito-mision-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "La misión: el porqué, la razón de ser inspiradora."
     - id: aku-vision-empresa-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "La visión: a dónde vamos a medio-largo plazo."
     - id: aku-valores-marca-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Los valores: en qué cree la empresa y que guían las acciones."
     - id: aku-feedback-hacia-arriba-cadena-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-cascada-estrategica-ejecucion-concept desde [jocko] (cross-source)"
     - id: aku-prioritize-and-execute-pasos-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-cascada-estrategica-ejecucion-concept desde [jocko] (cross-source)"
     - id: aku-commanders-intent-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-proposito-mision-concept desde [jocko] (cross-source)"
     - id: aku-mejores-lideres-mision-no-ego-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-proposito-mision-concept desde [jocko] (cross-source)"
     - id: aku-no-comprometas-tu-vision-por-dinero-ni-por-relaciones-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-vision-empresa-concept desde [50-cent] (cross-source)"
   constrained_by: []
   breaks_when: []

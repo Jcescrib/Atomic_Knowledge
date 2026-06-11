@@ -12,16 +12,16 @@ when_not_to_use: "Antes de haber decidido el tipo de nombre y los fonemas releva
 aku_links:
   justified_by:
     - id: aku-construir-nombres-neologisticos-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "El kit instrumenta el paso B3/A del método neologístico."
     - id: aku-construir-nombres-asociativos-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "El kit instrumenta el paso B3 del método asociativo."
     - id: aku-construir-nombres-deviant-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Las técnicas refinan los sustantivos concretos del método deviant."
     - id: aku-blending-los-sonidos-adquieren-significado-por-mezcla-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "La técnica Blend explota el mecanismo de blending."
   constrained_by: []
   breaks_when: []

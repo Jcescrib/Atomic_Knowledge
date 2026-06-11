@@ -12,19 +12,19 @@ when_not_to_use: "Para grandes saltos precipitados sin información, o para qued
 aku_links:
   justified_by:
     - id: aku-paso-pequeno-reevaluar-ante-incertidumbre-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-detach-tactico-estrategico-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-prioritize-and-execute-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-lean-startup-method-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-paso-pequeno-reevaluar-ante-incertidumbre-method desde [power-mba] (cross-source)"
     - id: aku-lead-scoring-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-prioritize-and-execute-concept desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []

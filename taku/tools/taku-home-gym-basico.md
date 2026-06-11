@@ -12,19 +12,19 @@ when_not_to_use: "No es excusa para no entrenar mientras lo montas: el peso corp
 aku_links:
   justified_by:
     - id: aku-home-gym-equipo-basico-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-home-gym-equipo-basico-concept desde [james-clear] (cross-source)"
     - id: aku-haz-algo-fisico-cada-dia-el-mejor-ejercicio-es-el-que-haras-cada-dia-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim desde [naval] (cross-source)"
     - id: aku-habit-tracker-no-rompas-la-cadena-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-en-el-workout-lo-importante-es-hacer-algo-y-trackear-claim desde [james-clear] (cross-source)"
   constrained_by: []
   breaks_when: []

@@ -22,61 +22,61 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-cltv-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Concepto central — sin CLTV no hay marco."
     - id: aku-cac-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Segundo concepto central — el par CLTV/CAC define el marco."
     - id: aku-arpu-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Componente del cálculo de CLTV en modelos de suscripción."
     - id: aku-churn-rate-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Determina el lifetime esperado, input de CLTV; métrica clave del motor sticky."
     - id: aku-cac-payback-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Métrica temporal del marco — pregunta «¿en cuánto tiempo recuperamos?»"
     - id: aku-cltv-cac-ratio-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Métrica de multiplicador — pregunta «¿por cuánto?»"
     - id: aku-cltv-minus-cac-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Métrica de utilidad absoluta — pregunta «¿cuánto ganamos por cliente?»"
     - id: aku-cltv-subscription-formula
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Método de cálculo de CLTV para el contexto de suscripción."
     - id: aku-cltv-transactional-formula
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Método de cálculo de CLTV para el contexto transaccional."
     - id: aku-cltv-gross-margin-over-revenue
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Refina la base monetaria correcta para todas las métricas derivadas."
     - id: aku-cltv-cac-dual-optimization
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Claim estratégico que da sentido a coordinar las dos métricas centrales."
     - id: aku-ltgp-cac-3-a-1-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-cltv-concept desde [hormozi] (cross-source)"
     - id: aku-ltgp-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-cltv-concept desde [hormozi] (cross-source)"
     - id: aku-affiliate-ltgp-cac-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-cltv-concept desde [hormozi] (cross-source)"
     - id: aku-gross-profit-additional-customer-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-arpu-concept desde [hormozi] (cross-source)"
     - id: aku-continuity-offer-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-churn-rate-concept desde [hormozi] (cross-source)"
     - id: aku-coste-por-engaged-lead-payroll-method
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-cac-concept desde [hormozi] (cross-source)"
     - id: aku-money-model-tres-etapas-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-cac-concept desde [hormozi] (cross-source)"
     - id: aku-lead-magnet-reduce-cac-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-cac-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []

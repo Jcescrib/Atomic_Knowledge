@@ -12,22 +12,22 @@ when_not_to_use: "Como plan operativo detallado; es un ejercicio de visión, no 
 aku_links:
   justified_by:
     - id: aku-objetivos-personales-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "La visión a futuro por áreas concreta las dimensiones de los objetivos personales."
     - id: aku-diagnostico-estrategico-personal-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Es la primera herramienta del diagnóstico estratégico personal (clarificar a dónde quieres llegar)."
     - id: aku-eminently-qualified-human-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-objetivos-personales-concept desde [jocko] (cross-source)"
     - id: aku-tu-vision-debe-evolucionar-y-escalar-con-el-tiempo-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-objetivos-personales-concept desde [50-cent] (cross-source)"
     - id: aku-evaluation-relationship-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-objetivos-personales-concept desde [jocko] (cross-source)"
     - id: aku-conocer-tu-valor-y-extraer-el-maximo-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-diagnostico-estrategico-personal-concept desde [50-cent] (cross-source)"
   constrained_by: []
   breaks_when: []

@@ -17,20 +17,20 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-power-funnel-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Estructura del funnel y sus etapas."
     - id: aku-objetivos-negocio-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "A qué sirve el funnel: ventas, beneficios, ROI."
     - id: aku-palancas-marketing-digital-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Las cuatro palancas sobre las que actúa."
     - id: aku-funnel-corto-vs-largo-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Tipo de funnel según la complejidad de la venta."
   constrained_by:
     - id: aku-conversion-olvidada-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "Recordatorio de no olvidar la conversión frente a la atracción."
   breaks_when: []
   illustrates: []

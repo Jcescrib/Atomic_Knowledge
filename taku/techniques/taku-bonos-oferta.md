@@ -12,20 +12,20 @@ when_not_to_use: "Si el core no entrega valor real (los bonos no salvan una ofer
 aku_links:
   justified_by:
     - id: aku-bonuses-stack-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-bonos-de-terceros-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
     - id: aku-cialdini-reciprocidad-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-bonuses-stack-concept desde [power-mba] (cross-source)"
     - id: aku-ecosistema-alianzas-concept
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: "deducible: corrobora aku-bonos-de-terceros-claim desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-ampliar-gap-valor-precio-claim
-      link_validation: llm-proposed
+      link_validation: human-validated
       link_note: ""
   breaks_when: []
   illustrates: []
