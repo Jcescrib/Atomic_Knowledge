@@ -32,6 +32,7 @@ relations:
     - aku-quitar-el-envase-de-productos-frescos-claim
     - aku-el-vidrio-parece-mejor-que-el-plastico-claim
     - aku-ventanas-transparentes-transmiten-frescura-claim
+    - aku-mostrar-mas-unidades-de-producto-en-el-envase-claim
 
 sources:
   - raw/libros/kolenda/packaging-psychology-by-nick-kolenda/packaging-psychology-by-nick-kolenda.md
@@ -46,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-packaging-psychology-el-envase-comunica-por-heuristicas-visuales-concept]]
 
-**related** ↔ [[aku-quitar-el-envase-de-productos-frescos-claim]] · [[aku-el-vidrio-parece-mejor-que-el-plastico-claim]] · [[aku-ventanas-transparentes-transmiten-frescura-claim]]
+**related** ↔ [[aku-quitar-el-envase-de-productos-frescos-claim]] · [[aku-el-vidrio-parece-mejor-que-el-plastico-claim]] · [[aku-ventanas-transparentes-transmiten-frescura-claim]] · [[aku-mostrar-mas-unidades-de-producto-en-el-envase-claim]]

@@ -34,6 +34,8 @@ relations:
     - aku-nombres-cortos-para-productos-pequenos-largos-para-grandes-claim
     - aku-insertar-aliteracion-en-los-precios-claim
     - aku-mostrar-dos-multiplos-del-precio-cerca-claim
+    - aku-reducir-una-caracteristica-distinta-del-precio-claim
+    - aku-reducir-el-digito-izquierdo-en-uno-charm-pricing-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -48,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-elegir-precios-con-menos-silabas-claim]] · [[aku-mostrar-precios-en-fuente-pequena-claim]] · [[aku-nombres-cortos-para-productos-pequenos-largos-para-grandes-claim]] · [[aku-insertar-aliteracion-en-los-precios-claim]] · [[aku-mostrar-dos-multiplos-del-precio-cerca-claim]]
+**related** ↔ [[aku-elegir-precios-con-menos-silabas-claim]] · [[aku-mostrar-precios-en-fuente-pequena-claim]] · [[aku-nombres-cortos-para-productos-pequenos-largos-para-grandes-claim]] · [[aku-insertar-aliteracion-en-los-precios-claim]] · [[aku-mostrar-dos-multiplos-del-precio-cerca-claim]] · [[aku-reducir-una-caracteristica-distinta-del-precio-claim]] · [[aku-reducir-el-digito-izquierdo-en-uno-charm-pricing-claim]]

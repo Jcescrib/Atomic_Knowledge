@@ -30,6 +30,9 @@ relations:
   contradicts: []
   related:
     - aku-subir-el-precio-en-incrementos-pequenos-y-frecuentes-method
+    - aku-colocar-numerales-bajos-tras-digitos-orientados-a-la-derecha-claim
+    - aku-quitar-la-coma-de-los-precios-claim
+    - aku-ajustar-los-numerales-al-nombre-o-cumpleanos-egotismo-implicito-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -44,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-subir-el-precio-en-incrementos-pequenos-y-frecuentes-method]]
+**related** ↔ [[aku-subir-el-precio-en-incrementos-pequenos-y-frecuentes-method]] · [[aku-colocar-numerales-bajos-tras-digitos-orientados-a-la-derecha-claim]] · [[aku-quitar-la-coma-de-los-precios-claim]] · [[aku-ajustar-los-numerales-al-nombre-o-cumpleanos-egotismo-implicito-claim]]

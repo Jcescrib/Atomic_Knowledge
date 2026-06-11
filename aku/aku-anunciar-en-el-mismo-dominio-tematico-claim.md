@@ -33,6 +33,7 @@ relations:
     - aku-inmersar-al-espectador-en-perspectiva-de-primera-persona-claim
     - aku-anunciar-en-modalidades-congruentes-claim
     - aku-terminar-los-anuncios-ilustrando-el-siguiente-paso-claim
+    - aku-buscar-medios-con-emociones-congruentes-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-distribuir-palabras-semanticamente-relacionadas-claim]] · [[aku-inmersar-al-espectador-en-perspectiva-de-primera-persona-claim]] · [[aku-anunciar-en-modalidades-congruentes-claim]] · [[aku-terminar-los-anuncios-ilustrando-el-siguiente-paso-claim]]
+**related** ↔ [[aku-distribuir-palabras-semanticamente-relacionadas-claim]] · [[aku-inmersar-al-espectador-en-perspectiva-de-primera-persona-claim]] · [[aku-anunciar-en-modalidades-congruentes-claim]] · [[aku-terminar-los-anuncios-ilustrando-el-siguiente-paso-claim]] · [[aku-buscar-medios-con-emociones-congruentes-claim]]

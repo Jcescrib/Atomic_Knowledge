@@ -28,7 +28,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-subir-el-precio-en-incrementos-pequenos-y-frecuentes-method
+    - aku-dar-una-razon-para-el-descuento-claim
+    - aku-ofrecer-descuentos-en-numeros-redondos-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -42,3 +45,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
+
+**related** ↔ [[aku-subir-el-precio-en-incrementos-pequenos-y-frecuentes-method]] · [[aku-dar-una-razon-para-el-descuento-claim]] · [[aku-ofrecer-descuentos-en-numeros-redondos-claim]]

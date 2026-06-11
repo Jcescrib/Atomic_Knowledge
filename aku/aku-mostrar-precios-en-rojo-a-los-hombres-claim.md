@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-el-rojo-aumenta-la-agresividad-y-el-dominio-claim
+    - aku-mostrar-precios-en-fuente-pequena-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-el-rojo-aumenta-la-agresividad-y-el-dominio-claim]]
+**related** ↔ [[aku-el-rojo-aumenta-la-agresividad-y-el-dominio-claim]] · [[aku-mostrar-precios-en-fuente-pequena-claim]]

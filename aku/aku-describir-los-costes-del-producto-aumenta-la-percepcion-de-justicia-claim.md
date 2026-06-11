@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-restar-saliencia-al-campo-de-cupon-claim
+    - aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim
+    - aku-mencionar-el-incremento-desde-el-precio-de-oferta-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -44,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-restar-saliencia-al-campo-de-cupon-claim]]
+**related** ↔ [[aku-restar-saliencia-al-campo-de-cupon-claim]] · [[aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim]] · [[aku-mencionar-el-incremento-desde-el-precio-de-oferta-claim]]

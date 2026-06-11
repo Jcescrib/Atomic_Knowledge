@@ -32,6 +32,7 @@ relations:
     - aku-los-nombres-faciles-de-pronunciar-parecen-familiares-claim
     - aku-los-nombres-disfluentes-parecen-mas-avanzados-o-arriesgados-claim
     - aku-elegir-nombres-con-pocas-variantes-de-escritura-claim
+    - aku-verificar-la-disponibilidad-del-nombre-claim
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -46,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
 
-**related** ↔ [[aku-los-nombres-faciles-de-pronunciar-parecen-familiares-claim]] · [[aku-los-nombres-disfluentes-parecen-mas-avanzados-o-arriesgados-claim]] · [[aku-elegir-nombres-con-pocas-variantes-de-escritura-claim]]
+**related** ↔ [[aku-los-nombres-faciles-de-pronunciar-parecen-familiares-claim]] · [[aku-los-nombres-disfluentes-parecen-mas-avanzados-o-arriesgados-claim]] · [[aku-elegir-nombres-con-pocas-variantes-de-escritura-claim]] · [[aku-verificar-la-disponibilidad-del-nombre-claim]]

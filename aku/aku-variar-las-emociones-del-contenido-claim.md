@@ -31,6 +31,7 @@ relations:
   related:
     - aku-diversificar-palabras-sintaxis-y-emociones-claim
     - aku-variar-la-longitud-de-las-frases-claim
+    - aku-retratar-acciones-con-verbos-imperfectos-claim
 
 sources:
   - raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -45,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
 
-**related** ↔ [[aku-diversificar-palabras-sintaxis-y-emociones-claim]] · [[aku-variar-la-longitud-de-las-frases-claim]]
+**related** ↔ [[aku-diversificar-palabras-sintaxis-y-emociones-claim]] · [[aku-variar-la-longitud-de-las-frases-claim]] · [[aku-retratar-acciones-con-verbos-imperfectos-claim]]

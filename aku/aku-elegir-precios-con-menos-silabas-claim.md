@@ -32,6 +32,7 @@ relations:
     - aku-quitar-la-coma-de-los-precios-claim
     - aku-insertar-aliteracion-en-los-precios-claim
     - aku-mostrar-dos-multiplos-del-precio-cerca-claim
+    - aku-reducir-el-digito-izquierdo-en-uno-charm-pricing-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -46,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-quitar-la-coma-de-los-precios-claim]] · [[aku-insertar-aliteracion-en-los-precios-claim]] · [[aku-mostrar-dos-multiplos-del-precio-cerca-claim]]
+**related** ↔ [[aku-quitar-la-coma-de-los-precios-claim]] · [[aku-insertar-aliteracion-en-los-precios-claim]] · [[aku-mostrar-dos-multiplos-del-precio-cerca-claim]] · [[aku-reducir-el-digito-izquierdo-en-uno-charm-pricing-claim]]

@@ -30,6 +30,9 @@ relations:
   contradicts: []
   related:
     - aku-hustlar-exige-definir-con-claridad-que-quieres-claim
+    - aku-siempre-contraofertar-su-primera-oferta-claim
+    - aku-evitar-la-terminologia-de-negociacion-claim
+    - aku-pedir-un-rango-alto-y-preciso-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -44,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
-**related** ↔ [[aku-hustlar-exige-definir-con-claridad-que-quieres-claim]]
+**related** ↔ [[aku-hustlar-exige-definir-con-claridad-que-quieres-claim]] · [[aku-siempre-contraofertar-su-primera-oferta-claim]] · [[aku-evitar-la-terminologia-de-negociacion-claim]] · [[aku-pedir-un-rango-alto-y-preciso-claim]]

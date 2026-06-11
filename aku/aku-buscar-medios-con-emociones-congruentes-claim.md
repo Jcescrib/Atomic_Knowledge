@@ -30,6 +30,9 @@ relations:
   contradicts: []
   related:
     - aku-apelar-a-las-emociones-en-mercados-tradicionales-claim
+    - aku-anunciar-en-modalidades-congruentes-claim
+    - aku-anunciar-en-el-mismo-dominio-tematico-claim
+    - aku-evitar-medios-que-muestren-un-emplazamiento-pagado-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -49,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-apelar-a-las-emociones-en-mercados-tradicionales-claim]]
+**related** ↔ [[aku-apelar-a-las-emociones-en-mercados-tradicionales-claim]] · [[aku-anunciar-en-modalidades-congruentes-claim]] · [[aku-anunciar-en-el-mismo-dominio-tematico-claim]] · [[aku-evitar-medios-que-muestren-un-emplazamiento-pagado-claim]]

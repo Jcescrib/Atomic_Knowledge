@@ -30,6 +30,9 @@ relations:
   contradicts: []
   related:
     - aku-mostrar-el-surtido-completo-de-opciones-claim
+    - aku-aislar-las-opciones-emocionales-claim
+    - aku-subir-los-atributos-indeseables-por-encima-de-cero-zero-comparison-claim
+    - aku-evaluamos-por-comparaciones-relativas-context-effects-concept
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -44,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
 
-**related** ↔ [[aku-mostrar-el-surtido-completo-de-opciones-claim]]
+**related** ↔ [[aku-mostrar-el-surtido-completo-de-opciones-claim]] · [[aku-aislar-las-opciones-emocionales-claim]] · [[aku-subir-los-atributos-indeseables-por-encima-de-cero-zero-comparison-claim]] · [[aku-evaluamos-por-comparaciones-relativas-context-effects-concept]]

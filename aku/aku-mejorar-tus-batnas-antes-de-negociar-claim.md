@@ -32,6 +32,7 @@ relations:
   related:
     - aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim
     - aku-mencionar-tus-batnas-claim
+    - aku-ser-el-primero-en-redactar-el-contrato-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supported_by** ← [[aku-batna-mejor-alternativa-a-un-acuerdo-negociado-concept]]
 
-**related** ↔ [[aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim]] · [[aku-mencionar-tus-batnas-claim]]
+**related** ↔ [[aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim]] · [[aku-mencionar-tus-batnas-claim]] · [[aku-ser-el-primero-en-redactar-el-contrato-claim]]

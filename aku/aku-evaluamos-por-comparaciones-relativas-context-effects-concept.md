@@ -34,6 +34,7 @@ relations:
     - aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim
     - aku-methods-step1-moldear-la-percepcion-concept
     - aku-decoy-offer-concept
+    - aku-dividir-los-atributos-importantes-en-mas-items-claim
 
 sources:
   - raw/libros/kolenda/choice/choice.md
@@ -59,6 +60,6 @@ status_note: ""
 
 **supports** → [[aku-choice-psychology-tres-mecanismos-de-decision-concept]]
 
-**related** ↔ [[aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim]] · [[aku-methods-step1-moldear-la-percepcion-concept]] · [[aku-decoy-offer-concept]]
+**related** ↔ [[aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim]] · [[aku-methods-step1-moldear-la-percepcion-concept]] · [[aku-decoy-offer-concept]] · [[aku-dividir-los-atributos-importantes-en-mas-items-claim]]
 
 **supported_by** ← [[aku-subir-los-atributos-indeseables-por-encima-de-cero-zero-comparison-claim]] · [[aku-alinear-las-caracteristicas-con-las-de-la-competencia-claim]]

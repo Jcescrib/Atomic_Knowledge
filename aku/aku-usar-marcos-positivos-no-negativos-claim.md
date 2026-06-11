@@ -33,6 +33,7 @@ relations:
     - aku-eliminar-los-signos-de-exclamacion-claim
     - aku-demostrar-el-impacto-en-otras-personas-claim
     - aku-apelar-a-las-emociones-en-mercados-tradicionales-claim
+    - aku-retratar-acciones-con-verbos-imperfectos-claim
 
 sources:
   - raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
 
-**related** ↔ [[aku-usar-anuncios-negativos-para-captar-atencion-claim]] · [[aku-eliminar-los-signos-de-exclamacion-claim]] · [[aku-demostrar-el-impacto-en-otras-personas-claim]] · [[aku-apelar-a-las-emociones-en-mercados-tradicionales-claim]]
+**related** ↔ [[aku-usar-anuncios-negativos-para-captar-atencion-claim]] · [[aku-eliminar-los-signos-de-exclamacion-claim]] · [[aku-demostrar-el-impacto-en-otras-personas-claim]] · [[aku-apelar-a-las-emociones-en-mercados-tradicionales-claim]] · [[aku-retratar-acciones-con-verbos-imperfectos-claim]]

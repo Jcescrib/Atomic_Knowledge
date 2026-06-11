@@ -32,6 +32,7 @@ relations:
     - aku-las-amenazas-captan-la-atencion-alta-activacion-claim
     - aku-los-animales-captan-la-atencion-claim
     - aku-la-novedad-capta-la-atencion-claim
+    - aku-las-palabras-tabu-captan-la-atencion-claim
 
 sources:
   - raw/libros/kolenda/visual-attention-by-nick-kolenda/visual-attention-by-nick-kolenda.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept]]
 
-**related** ↔ [[aku-las-amenazas-captan-la-atencion-alta-activacion-claim]] · [[aku-los-animales-captan-la-atencion-claim]] · [[aku-la-novedad-capta-la-atencion-claim]]
+**related** ↔ [[aku-las-amenazas-captan-la-atencion-alta-activacion-claim]] · [[aku-los-animales-captan-la-atencion-claim]] · [[aku-la-novedad-capta-la-atencion-claim]] · [[aku-las-palabras-tabu-captan-la-atencion-claim]]

@@ -31,6 +31,8 @@ relations:
   related:
     - aku-envases-mate-parecen-mas-sanos-claim
     - aku-ventanas-transparentes-transmiten-frescura-claim
+    - aku-las-marcas-desconocidas-deben-invertir-en-packaging-claim
+    - aku-quitar-el-envase-de-productos-frescos-claim
 
 sources:
   - raw/libros/kolenda/packaging-psychology-by-nick-kolenda/packaging-psychology-by-nick-kolenda.md
@@ -45,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-packaging-psychology-el-envase-comunica-por-heuristicas-visuales-concept]]
 
-**related** ↔ [[aku-envases-mate-parecen-mas-sanos-claim]] · [[aku-ventanas-transparentes-transmiten-frescura-claim]]
+**related** ↔ [[aku-envases-mate-parecen-mas-sanos-claim]] · [[aku-ventanas-transparentes-transmiten-frescura-claim]] · [[aku-las-marcas-desconocidas-deben-invertir-en-packaging-claim]] · [[aku-quitar-el-envase-de-productos-frescos-claim]]

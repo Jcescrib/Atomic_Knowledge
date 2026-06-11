@@ -33,6 +33,7 @@ relations:
     - aku-hacer-la-primera-oferta-anclaje-claim
     - aku-un-numero-mayor-sugiere-un-producto-mas-avanzado-claim
     - aku-cuatro-upsells-concept
+    - aku-no-agrupar-items-baratos-con-caros-promediacion-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]] · [[aku-hacer-la-primera-oferta-anclaje-claim]] · [[aku-un-numero-mayor-sugiere-un-producto-mas-avanzado-claim]] · [[aku-cuatro-upsells-concept]]
+**related** ↔ [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]] · [[aku-hacer-la-primera-oferta-anclaje-claim]] · [[aku-un-numero-mayor-sugiere-un-producto-mas-avanzado-claim]] · [[aku-cuatro-upsells-concept]] · [[aku-no-agrupar-items-baratos-con-caros-promediacion-claim]]

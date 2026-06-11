@@ -34,6 +34,7 @@ relations:
     - aku-envases-altos-parecen-sanos-y-lujosos-claim
     - aku-los-colores-oscuros-parecen-pesados-claim
     - aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept
+    - aku-mantener-la-forma-completa-del-envase-claim
 
 sources:
   - raw/libros/kolenda/packaging-psychology-by-nick-kolenda/packaging-psychology-by-nick-kolenda.md
@@ -55,4 +56,4 @@ status_note: ""
 
 **supports** → [[aku-packaging-psychology-el-envase-comunica-por-heuristicas-visuales-concept]]
 
-**related** ↔ [[aku-envases-altos-parecen-mas-grandes-claim]] · [[aku-envases-pequenos-parecen-densos-y-potentes-claim]] · [[aku-envases-altos-parecen-sanos-y-lujosos-claim]] · [[aku-los-colores-oscuros-parecen-pesados-claim]] · [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]
+**related** ↔ [[aku-envases-altos-parecen-mas-grandes-claim]] · [[aku-envases-pequenos-parecen-densos-y-potentes-claim]] · [[aku-envases-altos-parecen-sanos-y-lujosos-claim]] · [[aku-los-colores-oscuros-parecen-pesados-claim]] · [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]] · [[aku-mantener-la-forma-completa-del-envase-claim]]

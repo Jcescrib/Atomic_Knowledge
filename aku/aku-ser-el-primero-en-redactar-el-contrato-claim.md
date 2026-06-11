@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-cerrar-con-un-email-de-resumen-claim
+    - aku-separar-cada-ganancia-en-componentes-individuales-claim
+    - aku-mejorar-tus-batnas-antes-de-negociar-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -48,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
-**related** ↔ [[aku-cerrar-con-un-email-de-resumen-claim]]
+**related** ↔ [[aku-cerrar-con-un-email-de-resumen-claim]] · [[aku-separar-cada-ganancia-en-componentes-individuales-claim]] · [[aku-mejorar-tus-batnas-antes-de-negociar-claim]]

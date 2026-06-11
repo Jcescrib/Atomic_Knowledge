@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-fuentes-sans-serif-son-modernas-informales-y-legibles-en-pantalla-claim
+    - aku-fuentes-bold-transmiten-poder-y-masculinidad-claim
 
 sources:
   - raw/libros/kolenda/font-psychology-by-nick-kolenda/font-psychology-by-nick-kolenda.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]
 
-**related** ↔ [[aku-fuentes-sans-serif-son-modernas-informales-y-legibles-en-pantalla-claim]]
+**related** ↔ [[aku-fuentes-sans-serif-son-modernas-informales-y-legibles-en-pantalla-claim]] · [[aku-fuentes-bold-transmiten-poder-y-masculinidad-claim]]

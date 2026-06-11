@@ -31,6 +31,9 @@ relations:
   contradicts: []
   related:
     - aku-ordenar-los-terminos-por-importancia-claim
+    - aku-charlar-sobre-detalles-personales-antes-de-negociar-claim
+    - aku-mostrar-un-balance-visual-de-equidad-claim
+    - aku-cerrar-con-un-email-de-resumen-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -47,4 +50,4 @@ status_note: ""
 
 **constrains** → [[aku-mentalidad-de-pastel-fijo-fixed-pie-concept]]
 
-**related** ↔ [[aku-ordenar-los-terminos-por-importancia-claim]]
+**related** ↔ [[aku-ordenar-los-terminos-por-importancia-claim]] · [[aku-charlar-sobre-detalles-personales-antes-de-negociar-claim]] · [[aku-mostrar-un-balance-visual-de-equidad-claim]] · [[aku-cerrar-con-un-email-de-resumen-claim]]

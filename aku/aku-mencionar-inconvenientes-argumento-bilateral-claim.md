@@ -32,6 +32,7 @@ relations:
     - aku-mostrar-resenas-imperfectas-claim
     - aku-enfatizar-la-autonomia-de-decision-but-you-are-free-claim
     - aku-describir-los-beneficios-indirectamente-claim
+    - aku-usar-preguntas-retoricas-claim
 
 sources:
   - raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
 
-**related** ↔ [[aku-mostrar-resenas-imperfectas-claim]] · [[aku-enfatizar-la-autonomia-de-decision-but-you-are-free-claim]] · [[aku-describir-los-beneficios-indirectamente-claim]]
+**related** ↔ [[aku-mostrar-resenas-imperfectas-claim]] · [[aku-enfatizar-la-autonomia-de-decision-but-you-are-free-claim]] · [[aku-describir-los-beneficios-indirectamente-claim]] · [[aku-usar-preguntas-retoricas-claim]]

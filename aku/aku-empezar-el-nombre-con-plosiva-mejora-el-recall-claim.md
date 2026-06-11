@@ -34,6 +34,7 @@ relations:
     - aku-brand-awareness-concept
     - aku-ordenar-las-consonantes-de-delante-hacia-atras-inward-claim
     - aku-terminar-el-nombre-con-fonema-de-genero-claim
+    - aku-la-repeticion-fonetica-aliteracion-rima-agrada-claim
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]] · [[aku-construir-nombres-neologisticos-method]]
 
-**related** ↔ [[aku-colocar-el-numero-mayor-a-la-izquierda-principio-de-sustraccion-claim]] · [[aku-brand-awareness-concept]] · [[aku-ordenar-las-consonantes-de-delante-hacia-atras-inward-claim]] · [[aku-terminar-el-nombre-con-fonema-de-genero-claim]]
+**related** ↔ [[aku-colocar-el-numero-mayor-a-la-izquierda-principio-de-sustraccion-claim]] · [[aku-brand-awareness-concept]] · [[aku-ordenar-las-consonantes-de-delante-hacia-atras-inward-claim]] · [[aku-terminar-el-nombre-con-fonema-de-genero-claim]] · [[aku-la-repeticion-fonetica-aliteracion-rima-agrada-claim]]

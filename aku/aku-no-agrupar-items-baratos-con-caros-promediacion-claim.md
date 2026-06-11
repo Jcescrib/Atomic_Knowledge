@@ -30,6 +30,9 @@ relations:
   contradicts: []
   related:
     - aku-atribuir-el-descuento-al-producto-emocional-del-bundle-claim
+    - aku-agrupar-palabras-de-tamano-pequeno-junto-al-precio-claim
+    - aku-exponer-a-cualquier-numero-alto-eleva-el-precio-de-referencia-claim
+    - aku-mostrar-precios-altos-antes-que-bajos-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -48,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-atribuir-el-descuento-al-producto-emocional-del-bundle-claim]]
+**related** ↔ [[aku-atribuir-el-descuento-al-producto-emocional-del-bundle-claim]] · [[aku-agrupar-palabras-de-tamano-pequeno-junto-al-precio-claim]] · [[aku-exponer-a-cualquier-numero-alto-eleva-el-precio-de-referencia-claim]] · [[aku-mostrar-precios-altos-antes-que-bajos-claim]]

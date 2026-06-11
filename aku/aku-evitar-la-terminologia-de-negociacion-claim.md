@@ -32,6 +32,8 @@ relations:
     - aku-emparejar-los-nombres-en-la-invitacion-de-calendario-claim
     - aku-enmarcar-la-info-de-venta-como-info-de-formacion-claim
     - aku-programar-una-interaccion-futura-claim
+    - aku-evitar-disclaimers-y-lenguaje-debil-claim
+    - aku-reunir-datos-de-referencia-antes-de-negociar-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -50,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
-**related** ↔ [[aku-emparejar-los-nombres-en-la-invitacion-de-calendario-claim]] · [[aku-enmarcar-la-info-de-venta-como-info-de-formacion-claim]] · [[aku-programar-una-interaccion-futura-claim]]
+**related** ↔ [[aku-emparejar-los-nombres-en-la-invitacion-de-calendario-claim]] · [[aku-enmarcar-la-info-de-venta-como-info-de-formacion-claim]] · [[aku-programar-una-interaccion-futura-claim]] · [[aku-evitar-disclaimers-y-lenguaje-debil-claim]] · [[aku-reunir-datos-de-referencia-antes-de-negociar-claim]]

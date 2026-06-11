@@ -32,6 +32,7 @@ relations:
     - aku-unir-frases-con-conectores-coherence-markers-claim
     - aku-distribuir-palabras-semanticamente-relacionadas-claim
     - aku-restringir-a-una-sola-interpretacion-claim
+    - aku-usar-voz-activa-claim
 
 sources:
   - raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -46,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
 
-**related** ↔ [[aku-unir-frases-con-conectores-coherence-markers-claim]] · [[aku-distribuir-palabras-semanticamente-relacionadas-claim]] · [[aku-restringir-a-una-sola-interpretacion-claim]]
+**related** ↔ [[aku-unir-frases-con-conectores-coherence-markers-claim]] · [[aku-distribuir-palabras-semanticamente-relacionadas-claim]] · [[aku-restringir-a-una-sola-interpretacion-claim]] · [[aku-usar-voz-activa-claim]]

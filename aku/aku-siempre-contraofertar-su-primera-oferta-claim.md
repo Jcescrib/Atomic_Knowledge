@@ -32,6 +32,10 @@ relations:
     - aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim
     - aku-pausar-tras-su-oferta-claim
     - aku-anadir-una-contingencia-simple-a-tu-oferta-claim
+    - aku-evitar-disclaimers-y-lenguaje-debil-claim
+    - aku-mostrar-un-balance-visual-de-equidad-claim
+    - aku-diagnosticar-las-razones-detras-de-sus-respuestas-claim
+    - aku-reunir-datos-de-referencia-antes-de-negociar-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -50,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
-**related** ↔ [[aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim]] · [[aku-pausar-tras-su-oferta-claim]] · [[aku-anadir-una-contingencia-simple-a-tu-oferta-claim]]
+**related** ↔ [[aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim]] · [[aku-pausar-tras-su-oferta-claim]] · [[aku-anadir-una-contingencia-simple-a-tu-oferta-claim]] · [[aku-evitar-disclaimers-y-lenguaje-debil-claim]] · [[aku-mostrar-un-balance-visual-de-equidad-claim]] · [[aku-diagnosticar-las-razones-detras-de-sus-respuestas-claim]] · [[aku-reunir-datos-de-referencia-antes-de-negociar-claim]]

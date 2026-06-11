@@ -30,6 +30,8 @@ relations:
   contradicts: []
   related:
     - aku-verificar-la-disponibilidad-del-nombre-claim
+    - aku-sound-symbolism-los-sonidos-tienen-significado-concept
+    - aku-blending-los-sonidos-adquieren-significado-por-mezcla-concept
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -44,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
 
-**related** ↔ [[aku-verificar-la-disponibilidad-del-nombre-claim]]
+**related** ↔ [[aku-verificar-la-disponibilidad-del-nombre-claim]] · [[aku-sound-symbolism-los-sonidos-tienen-significado-concept]] · [[aku-blending-los-sonidos-adquieren-significado-por-mezcla-concept]]

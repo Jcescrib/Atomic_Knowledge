@@ -34,6 +34,7 @@ relations:
     - aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim
     - aku-hacer-la-primera-oferta-anclaje-claim
     - aku-primar-la-capacidad-del-rival-de-ejecutar-el-trato-claim
+    - aku-reunir-datos-de-referencia-antes-de-negociar-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
-**related** ↔ [[aku-ser-preciso-con-precios-grandes-claim]] · [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]] · [[aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim]] · [[aku-hacer-la-primera-oferta-anclaje-claim]] · [[aku-primar-la-capacidad-del-rival-de-ejecutar-el-trato-claim]]
+**related** ↔ [[aku-ser-preciso-con-precios-grandes-claim]] · [[aku-cuando-te-meten-un-numero-en-la-cabeza-moverte-de-el-se-siente-como-perdida-claim]] · [[aku-nunca-te-fijes-en-un-numero-en-una-negociacion-claim]] · [[aku-hacer-la-primera-oferta-anclaje-claim]] · [[aku-primar-la-capacidad-del-rival-de-ejecutar-el-trato-claim]] · [[aku-reunir-datos-de-referencia-antes-de-negociar-claim]]

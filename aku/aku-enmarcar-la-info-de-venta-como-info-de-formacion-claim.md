@@ -34,6 +34,7 @@ relations:
     - aku-emparejar-los-nombres-en-la-invitacion-de-calendario-claim
     - aku-programar-una-interaccion-futura-claim
     - aku-evitar-medios-que-muestren-un-emplazamiento-pagado-claim
+    - aku-charlar-sobre-detalles-personales-antes-de-negociar-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
-**related** ↔ [[aku-enfatizar-la-autonomia-de-decision-but-you-are-free-claim]] · [[aku-evitar-la-terminologia-de-negociacion-claim]] · [[aku-emparejar-los-nombres-en-la-invitacion-de-calendario-claim]] · [[aku-programar-una-interaccion-futura-claim]] · [[aku-evitar-medios-que-muestren-un-emplazamiento-pagado-claim]]
+**related** ↔ [[aku-enfatizar-la-autonomia-de-decision-but-you-are-free-claim]] · [[aku-evitar-la-terminologia-de-negociacion-claim]] · [[aku-emparejar-los-nombres-en-la-invitacion-de-calendario-claim]] · [[aku-programar-una-interaccion-futura-claim]] · [[aku-evitar-medios-que-muestren-un-emplazamiento-pagado-claim]] · [[aku-charlar-sobre-detalles-personales-antes-de-negociar-claim]]

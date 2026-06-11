@@ -35,6 +35,7 @@ relations:
     - aku-grupo-1-vs-grupo-2-de-fonemas-concept
     - aku-fuentes-angulares-transmiten-formalidad-y-masculinidad-claim
     - aku-los-fonemas-del-grupo-1-parecen-angulares-claim
+    - aku-mantener-la-forma-completa-del-envase-claim
 
 sources:
   - raw/libros/kolenda/packaging-psychology-by-nick-kolenda/packaging-psychology-by-nick-kolenda.md
@@ -49,4 +50,4 @@ status_note: ""
 
 **supports** → [[aku-packaging-psychology-el-envase-comunica-por-heuristicas-visuales-concept]]
 
-**related** ↔ [[aku-fuentes-redondeadas-transmiten-comodidad-y-suavidad-claim]] · [[aku-envases-angulares-parecen-masculinos-y-picantes-claim]] · [[aku-texturas-rugosas-parecen-masculinas-claim]] · [[aku-grupo-1-vs-grupo-2-de-fonemas-concept]] · [[aku-fuentes-angulares-transmiten-formalidad-y-masculinidad-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-angulares-claim]]
+**related** ↔ [[aku-fuentes-redondeadas-transmiten-comodidad-y-suavidad-claim]] · [[aku-envases-angulares-parecen-masculinos-y-picantes-claim]] · [[aku-texturas-rugosas-parecen-masculinas-claim]] · [[aku-grupo-1-vs-grupo-2-de-fonemas-concept]] · [[aku-fuentes-angulares-transmiten-formalidad-y-masculinidad-claim]] · [[aku-los-fonemas-del-grupo-1-parecen-angulares-claim]] · [[aku-mantener-la-forma-completa-del-envase-claim]]

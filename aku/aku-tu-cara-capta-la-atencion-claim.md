@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-tu-nombre-capta-la-atencion-cocktail-party-claim
+    - aku-haz-tu-estimulo-similar-a-lo-que-el-objetivo-monitorea-goal-directed-claim
 
 sources:
   - raw/libros/kolenda/visual-attention-by-nick-kolenda/visual-attention-by-nick-kolenda.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept]]
 
-**related** ↔ [[aku-tu-nombre-capta-la-atencion-cocktail-party-claim]]
+**related** ↔ [[aku-tu-nombre-capta-la-atencion-cocktail-party-claim]] · [[aku-haz-tu-estimulo-similar-a-lo-que-el-objetivo-monitorea-goal-directed-claim]]

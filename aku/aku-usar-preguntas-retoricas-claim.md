@@ -28,7 +28,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-mencionar-inconvenientes-argumento-bilateral-claim
+    - aku-variar-la-longitud-de-las-frases-claim
+    - aku-terminar-las-frases-con-una-imagen-concreta-claim
 
 sources:
   - raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -42,3 +45,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
+
+**related** ↔ [[aku-mencionar-inconvenientes-argumento-bilateral-claim]] · [[aku-variar-la-longitud-de-las-frases-claim]] · [[aku-terminar-las-frases-con-una-imagen-concreta-claim]]

@@ -30,6 +30,10 @@ relations:
   contradicts: []
   related:
     - aku-mostrar-imagenes-realistas-en-productos-emocionales-claim
+    - aku-las-marcas-desconocidas-deben-invertir-en-packaging-claim
+    - aku-quitar-el-envase-de-productos-frescos-claim
+    - aku-envases-mate-parecen-mas-sanos-claim
+    - aku-colocar-productos-pesados-abajo-o-a-la-derecha-claim
 
 sources:
   - raw/libros/kolenda/packaging-psychology-by-nick-kolenda/packaging-psychology-by-nick-kolenda.md
@@ -50,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-packaging-psychology-el-envase-comunica-por-heuristicas-visuales-concept]]
 
-**related** ↔ [[aku-mostrar-imagenes-realistas-en-productos-emocionales-claim]]
+**related** ↔ [[aku-mostrar-imagenes-realistas-en-productos-emocionales-claim]] · [[aku-las-marcas-desconocidas-deben-invertir-en-packaging-claim]] · [[aku-quitar-el-envase-de-productos-frescos-claim]] · [[aku-envases-mate-parecen-mas-sanos-claim]] · [[aku-colocar-productos-pesados-abajo-o-a-la-derecha-claim]]

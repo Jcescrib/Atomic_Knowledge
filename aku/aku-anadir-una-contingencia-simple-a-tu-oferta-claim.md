@@ -34,6 +34,7 @@ relations:
     - aku-leyes-persuasion-cialdini-concept
     - aku-siempre-contraofertar-su-primera-oferta-claim
     - aku-pausar-tras-su-oferta-claim
+    - aku-mostrar-un-balance-visual-de-equidad-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supported_by** ← [[aku-cialdini-reciprocidad-concept]]
 
-**related** ↔ [[aku-pedir-de-nuevo-con-bono-reciprocidad-claim]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-siempre-contraofertar-su-primera-oferta-claim]] · [[aku-pausar-tras-su-oferta-claim]]
+**related** ↔ [[aku-pedir-de-nuevo-con-bono-reciprocidad-claim]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-siempre-contraofertar-su-primera-oferta-claim]] · [[aku-pausar-tras-su-oferta-claim]] · [[aku-mostrar-un-balance-visual-de-equidad-claim]]

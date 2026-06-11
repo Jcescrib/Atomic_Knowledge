@@ -30,6 +30,9 @@ relations:
   contradicts: []
   related:
     - aku-serif-vs-sans-serif-eleccion-segun-medio-y-tono-claim
+    - aku-fuentes-bold-transmiten-poder-y-masculinidad-claim
+    - aku-fuentes-simples-transmiten-franqueza-claim
+    - aku-fuentes-redondeadas-transmiten-comodidad-y-suavidad-claim
 
 sources:
   - raw/libros/kolenda/font-psychology-by-nick-kolenda/font-psychology-by-nick-kolenda.md
@@ -44,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]
 
-**related** ↔ [[aku-serif-vs-sans-serif-eleccion-segun-medio-y-tono-claim]]
+**related** ↔ [[aku-serif-vs-sans-serif-eleccion-segun-medio-y-tono-claim]] · [[aku-fuentes-bold-transmiten-poder-y-masculinidad-claim]] · [[aku-fuentes-simples-transmiten-franqueza-claim]] · [[aku-fuentes-redondeadas-transmiten-comodidad-y-suavidad-claim]]

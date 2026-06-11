@@ -36,6 +36,7 @@ relations:
     - aku-los-numeros-redondos-en-el-nombre-se-prefieren-claim
     - aku-usar-numeros-compuestos-no-primos-en-el-nombre-claim
     - aku-mantener-el-numero-del-nombre-simple-claim
+    - aku-la-repeticion-fonetica-aliteracion-rima-agrada-claim
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
 
-**related** ↔ [[aku-insertar-aliteracion-en-los-precios-claim]] · [[aku-los-nombres-alfanumericos-funcionan-en-productos-tecnicos-y-formulados-claim]] · [[aku-los-numeros-en-el-nombre-implican-atributos-del-producto-claim]] · [[aku-un-numero-mayor-sugiere-un-producto-mas-avanzado-claim]] · [[aku-los-numeros-redondos-en-el-nombre-se-prefieren-claim]] · [[aku-usar-numeros-compuestos-no-primos-en-el-nombre-claim]] · [[aku-mantener-el-numero-del-nombre-simple-claim]]
+**related** ↔ [[aku-insertar-aliteracion-en-los-precios-claim]] · [[aku-los-nombres-alfanumericos-funcionan-en-productos-tecnicos-y-formulados-claim]] · [[aku-los-numeros-en-el-nombre-implican-atributos-del-producto-claim]] · [[aku-un-numero-mayor-sugiere-un-producto-mas-avanzado-claim]] · [[aku-los-numeros-redondos-en-el-nombre-se-prefieren-claim]] · [[aku-usar-numeros-compuestos-no-primos-en-el-nombre-claim]] · [[aku-mantener-el-numero-del-nombre-simple-claim]] · [[aku-la-repeticion-fonetica-aliteracion-rima-agrada-claim]]

@@ -30,6 +30,9 @@ relations:
   contradicts: []
   related:
     - aku-reducir-una-caracteristica-distinta-del-precio-claim
+    - aku-no-descontar-productos-premium-claim
+    - aku-colocar-el-precio-de-oferta-debajo-del-original-claim
+    - aku-ser-preciso-con-precios-grandes-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -48,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-reducir-una-caracteristica-distinta-del-precio-claim]]
+**related** ↔ [[aku-reducir-una-caracteristica-distinta-del-precio-claim]] · [[aku-no-descontar-productos-premium-claim]] · [[aku-colocar-el-precio-de-oferta-debajo-del-original-claim]] · [[aku-ser-preciso-con-precios-grandes-claim]]

@@ -32,6 +32,9 @@ relations:
     - aku-posicionar-precios-arriba-o-a-la-izquierda-claim
     - aku-elegir-colores-claros-y-naturales-para-productos-sanos-claim
     - aku-los-colores-oscuros-parecen-pesados-claim
+    - aku-las-marcas-desconocidas-deben-invertir-en-packaging-claim
+    - aku-mostrar-mas-unidades-de-producto-en-el-envase-claim
+    - aku-mostrar-imagenes-realistas-en-productos-emocionales-claim
 
 sources:
   - raw/libros/kolenda/packaging-psychology-by-nick-kolenda/packaging-psychology-by-nick-kolenda.md
@@ -46,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-packaging-psychology-el-envase-comunica-por-heuristicas-visuales-concept]]
 
-**related** ↔ [[aku-posicionar-precios-arriba-o-a-la-izquierda-claim]] · [[aku-elegir-colores-claros-y-naturales-para-productos-sanos-claim]] · [[aku-los-colores-oscuros-parecen-pesados-claim]]
+**related** ↔ [[aku-posicionar-precios-arriba-o-a-la-izquierda-claim]] · [[aku-elegir-colores-claros-y-naturales-para-productos-sanos-claim]] · [[aku-los-colores-oscuros-parecen-pesados-claim]] · [[aku-las-marcas-desconocidas-deben-invertir-en-packaging-claim]] · [[aku-mostrar-mas-unidades-de-producto-en-el-envase-claim]] · [[aku-mostrar-imagenes-realistas-en-productos-emocionales-claim]]

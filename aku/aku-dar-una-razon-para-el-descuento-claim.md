@@ -33,6 +33,7 @@ relations:
     - aku-dar-dos-descuentos-en-orden-ascendente-claim
     - aku-arreglar-descuentos-en-tramos-escalonados-claim
     - aku-retirar-los-descuentos-gradualmente-claim
+    - aku-no-descontar-productos-premium-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-reason-why-aumenta-accion-claim]] · [[aku-dar-dos-descuentos-en-orden-ascendente-claim]] · [[aku-arreglar-descuentos-en-tramos-escalonados-claim]] · [[aku-retirar-los-descuentos-gradualmente-claim]]
+**related** ↔ [[aku-reason-why-aumenta-accion-claim]] · [[aku-dar-dos-descuentos-en-orden-ascendente-claim]] · [[aku-arreglar-descuentos-en-tramos-escalonados-claim]] · [[aku-retirar-los-descuentos-gradualmente-claim]] · [[aku-no-descontar-productos-premium-claim]]

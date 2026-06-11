@@ -37,6 +37,7 @@ relations:
     - aku-mostrar-precios-altos-antes-que-bajos-claim
     - aku-distinguir-visualmente-la-opcion-mas-cara-claim
     - aku-anadir-ligeras-diferencias-de-precio-en-el-surtido-claim
+    - aku-describir-los-costes-del-producto-aumenta-la-percepcion-de-justicia-claim
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -51,4 +52,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-cialdini-escasez-concept]] · [[aku-evaluamos-por-comparaciones-relativas-context-effects-concept]] · [[aku-decoy-pricing-tres-opciones-method]] · [[aku-economist-decoy-bundle-method]] · [[aku-decoy-surprise-benefit]] · [[aku-mostrar-precios-altos-antes-que-bajos-claim]] · [[aku-distinguir-visualmente-la-opcion-mas-cara-claim]] · [[aku-anadir-ligeras-diferencias-de-precio-en-el-surtido-claim]]
+**related** ↔ [[aku-cialdini-escasez-concept]] · [[aku-evaluamos-por-comparaciones-relativas-context-effects-concept]] · [[aku-decoy-pricing-tres-opciones-method]] · [[aku-economist-decoy-bundle-method]] · [[aku-decoy-surprise-benefit]] · [[aku-mostrar-precios-altos-antes-que-bajos-claim]] · [[aku-distinguir-visualmente-la-opcion-mas-cara-claim]] · [[aku-anadir-ligeras-diferencias-de-precio-en-el-surtido-claim]] · [[aku-describir-los-costes-del-producto-aumenta-la-percepcion-de-justicia-claim]]

@@ -30,6 +30,9 @@ relations:
   contradicts: []
   related:
     - aku-usar-voz-activa-claim
+    - aku-usar-marcos-positivos-no-negativos-claim
+    - aku-sumergir-al-lector-en-la-conducta-hipotetica-if-then-claim
+    - aku-variar-las-emociones-del-contenido-claim
 
 sources:
   - raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -48,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
 
-**related** ↔ [[aku-usar-voz-activa-claim]]
+**related** ↔ [[aku-usar-voz-activa-claim]] · [[aku-usar-marcos-positivos-no-negativos-claim]] · [[aku-sumergir-al-lector-en-la-conducta-hipotetica-if-then-claim]] · [[aku-variar-las-emociones-del-contenido-claim]]

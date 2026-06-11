@@ -32,6 +32,7 @@ relations:
     - aku-elegir-palabras-faciles-de-imaginar-claim
     - aku-terminar-las-frases-con-una-imagen-concreta-claim
     - aku-ofrecer-aplicaciones-relevantes-del-producto-claim
+    - aku-retratar-acciones-con-verbos-imperfectos-claim
 
 sources:
   - raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -46,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
 
-**related** ↔ [[aku-elegir-palabras-faciles-de-imaginar-claim]] · [[aku-terminar-las-frases-con-una-imagen-concreta-claim]] · [[aku-ofrecer-aplicaciones-relevantes-del-producto-claim]]
+**related** ↔ [[aku-elegir-palabras-faciles-de-imaginar-claim]] · [[aku-terminar-las-frases-con-una-imagen-concreta-claim]] · [[aku-ofrecer-aplicaciones-relevantes-del-producto-claim]] · [[aku-retratar-acciones-con-verbos-imperfectos-claim]]

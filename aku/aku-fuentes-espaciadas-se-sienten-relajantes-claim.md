@@ -30,6 +30,9 @@ relations:
   contradicts: []
   related:
     - aku-fuentes-condensadas-vs-espaciadas-transmiten-precision-vs-amplitud-claim
+    - aku-fuentes-bold-transmiten-poder-y-masculinidad-claim
+    - aku-fuentes-inclinadas-transmiten-velocidad-claim
+    - aku-fuentes-simples-transmiten-franqueza-claim
 
 sources:
   - raw/libros/kolenda/font-psychology-by-nick-kolenda/font-psychology-by-nick-kolenda.md
@@ -44,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-font-psychology-las-fuentes-significan-por-congruencia-de-rasgos-concept]]
 
-**related** ↔ [[aku-fuentes-condensadas-vs-espaciadas-transmiten-precision-vs-amplitud-claim]]
+**related** ↔ [[aku-fuentes-condensadas-vs-espaciadas-transmiten-precision-vs-amplitud-claim]] · [[aku-fuentes-bold-transmiten-poder-y-masculinidad-claim]] · [[aku-fuentes-inclinadas-transmiten-velocidad-claim]] · [[aku-fuentes-simples-transmiten-franqueza-claim]]

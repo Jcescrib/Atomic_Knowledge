@@ -30,6 +30,9 @@ relations:
   contradicts: []
   related:
     - aku-separar-cada-ganancia-en-componentes-individuales-claim
+    - aku-siempre-contraofertar-su-primera-oferta-claim
+    - aku-abordar-todos-los-terminos-relevantes-claim
+    - aku-anadir-una-contingencia-simple-a-tu-oferta-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -44,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
-**related** ↔ [[aku-separar-cada-ganancia-en-componentes-individuales-claim]]
+**related** ↔ [[aku-separar-cada-ganancia-en-componentes-individuales-claim]] · [[aku-siempre-contraofertar-su-primera-oferta-claim]] · [[aku-abordar-todos-los-terminos-relevantes-claim]] · [[aku-anadir-una-contingencia-simple-a-tu-oferta-claim]]

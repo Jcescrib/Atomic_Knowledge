@@ -34,6 +34,7 @@ relations:
     - aku-anadir-espacio-entre-precio-original-y-de-oferta-claim
     - aku-colocar-el-numero-mayor-a-la-izquierda-principio-de-sustraccion-claim
     - aku-hacer-que-el-precio-de-oferta-se-vea-distinto-contrast-fluency-claim
+    - aku-subir-el-precio-en-incrementos-pequenos-y-frecuentes-method
 
 sources:
   - raw/libros/kolenda/pricing-psychology-by-nick-kolenda/pricing-psychology-by-nick-kolenda.md
@@ -52,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]]
 
-**related** ↔ [[aku-ofrecer-descuentos-en-numeros-redondos-claim]] · [[aku-reducir-todos-los-digitos-en-el-precio-de-oferta-claim]] · [[aku-anadir-espacio-entre-precio-original-y-de-oferta-claim]] · [[aku-colocar-el-numero-mayor-a-la-izquierda-principio-de-sustraccion-claim]] · [[aku-hacer-que-el-precio-de-oferta-se-vea-distinto-contrast-fluency-claim]]
+**related** ↔ [[aku-ofrecer-descuentos-en-numeros-redondos-claim]] · [[aku-reducir-todos-los-digitos-en-el-precio-de-oferta-claim]] · [[aku-anadir-espacio-entre-precio-original-y-de-oferta-claim]] · [[aku-colocar-el-numero-mayor-a-la-izquierda-principio-de-sustraccion-claim]] · [[aku-hacer-que-el-precio-de-oferta-se-vea-distinto-contrast-fluency-claim]] · [[aku-subir-el-precio-en-incrementos-pequenos-y-frecuentes-method]]

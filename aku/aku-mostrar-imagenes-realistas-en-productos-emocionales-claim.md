@@ -30,6 +30,9 @@ relations:
   contradicts: []
   related:
     - aku-mostrar-mas-unidades-de-producto-en-el-envase-claim
+    - aku-colocar-productos-pesados-abajo-o-a-la-derecha-claim
+    - aku-las-marcas-desconocidas-deben-invertir-en-packaging-claim
+    - aku-elegir-colores-claros-y-naturales-para-productos-sanos-claim
 
 sources:
   - raw/libros/kolenda/packaging-psychology-by-nick-kolenda/packaging-psychology-by-nick-kolenda.md
@@ -48,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-packaging-psychology-el-envase-comunica-por-heuristicas-visuales-concept]]
 
-**related** ↔ [[aku-mostrar-mas-unidades-de-producto-en-el-envase-claim]]
+**related** ↔ [[aku-mostrar-mas-unidades-de-producto-en-el-envase-claim]] · [[aku-colocar-productos-pesados-abajo-o-a-la-derecha-claim]] · [[aku-las-marcas-desconocidas-deben-invertir-en-packaging-claim]] · [[aku-elegir-colores-claros-y-naturales-para-productos-sanos-claim]]

@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-ser-el-primero-en-redactar-el-contrato-claim
+    - aku-abordar-todos-los-terminos-relevantes-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -48,4 +49,4 @@ status_note: ""
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
-**related** ↔ [[aku-ser-el-primero-en-redactar-el-contrato-claim]]
+**related** ↔ [[aku-ser-el-primero-en-redactar-el-contrato-claim]] · [[aku-abordar-todos-los-terminos-relevantes-claim]]

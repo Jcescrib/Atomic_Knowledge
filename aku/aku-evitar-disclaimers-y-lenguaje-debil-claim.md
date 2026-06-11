@@ -30,6 +30,9 @@ relations:
   contradicts: []
   related:
     - aku-mostrar-enfado-y-decepcion-para-lograr-concesiones-claim
+    - aku-evitar-la-terminologia-de-negociacion-claim
+    - aku-mencionar-tus-batnas-claim
+    - aku-siempre-contraofertar-su-primera-oferta-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -44,4 +47,4 @@ status_note: ""
 
 **supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
 
-**related** ↔ [[aku-mostrar-enfado-y-decepcion-para-lograr-concesiones-claim]]
+**related** ↔ [[aku-mostrar-enfado-y-decepcion-para-lograr-concesiones-claim]] · [[aku-evitar-la-terminologia-de-negociacion-claim]] · [[aku-mencionar-tus-batnas-claim]] · [[aku-siempre-contraofertar-su-primera-oferta-claim]]

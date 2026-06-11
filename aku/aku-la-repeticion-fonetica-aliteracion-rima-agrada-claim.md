@@ -28,7 +28,10 @@ relations:
   context_breaks_at: []
   breaks_context_of: []
   contradicts: []
-  related: []
+  related:
+    - aku-los-numeros-aliterados-en-el-nombre-funcionan-mejor-claim
+    - aku-empezar-el-nombre-con-plosiva-mejora-el-recall-claim
+    - aku-sound-symbolism-los-sonidos-tienen-significado-concept
 
 sources:
   - raw/libros/kolenda/naming-a-product-by-nick-kolenda/naming-a-product-by-nick-kolenda.md
@@ -42,3 +45,5 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-naming-metodologia-cinco-pasos-concept]]
+
+**related** ↔ [[aku-los-numeros-aliterados-en-el-nombre-funcionan-mejor-claim]] · [[aku-empezar-el-nombre-con-plosiva-mejora-el-recall-claim]] · [[aku-sound-symbolism-los-sonidos-tienen-significado-concept]]

@@ -30,6 +30,9 @@ relations:
   contradicts: []
   related:
     - aku-retratar-acciones-con-verbos-imperfectos-claim
+    - aku-terminar-las-frases-con-una-imagen-concreta-claim
+    - aku-unir-frases-con-conectores-coherence-markers-claim
+    - aku-empezar-cada-frase-con-el-objeto-previo-claim
 
 sources:
   - raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -55,4 +58,4 @@ status_note: ""
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
 
-**related** ↔ [[aku-retratar-acciones-con-verbos-imperfectos-claim]]
+**related** ↔ [[aku-retratar-acciones-con-verbos-imperfectos-claim]] · [[aku-terminar-las-frases-con-una-imagen-concreta-claim]] · [[aku-unir-frases-con-conectores-coherence-markers-claim]] · [[aku-empezar-cada-frase-con-el-objeto-previo-claim]]

@@ -31,6 +31,7 @@ relations:
   contradicts: []
   related:
     - aku-mejorar-tus-batnas-antes-de-negociar-claim
+    - aku-evitar-disclaimers-y-lenguaje-debil-claim
 
 sources:
   - raw/libros/kolenda/negotiation-tactics-by-nick-kolenda/negotiation-tactics-by-nick-kolenda.md
@@ -47,4 +48,4 @@ status_note: ""
 
 **supported_by** ← [[aku-batna-mejor-alternativa-a-un-acuerdo-negociado-concept]]
 
-**related** ↔ [[aku-mejorar-tus-batnas-antes-de-negociar-claim]]
+**related** ↔ [[aku-mejorar-tus-batnas-antes-de-negociar-claim]] · [[aku-evitar-disclaimers-y-lenguaje-debil-claim]]
