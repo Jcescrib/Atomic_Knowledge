@@ -36,6 +36,19 @@ fuentes distintas es el producto; la conectividad visual es solo un subproducto.
   cross-source: misma fuente = mismo autor, no corrobora la realidad. Es lo de menor valor
   epistémico; permitido como complemento, nunca como el trabajo principal.
 
+**Listón de vetado cross-source (obligatorio en toda tanda).** El solape de términos genera
+~35-40% de falsos positivos (homónimos, temas amplios). Para aceptar un enlace cross-source:
+1. **Mecanismo concreto compartido, no concepto amplio.** Los dos AKUs deben describir el
+   MISMO mecanismo psicológico/causal específico, no solo el mismo tema. Cuidado con
+   HOMÓNIMOS (`leverage` financiero ≠ `leverage` de Naval; `compromiso` engagement ≠
+   commitment de Cialdini; `framing` de venta ≠ auto-encuadre; `paciencia` ≠ impaciencia).
+2. **`field` correcto.** `supports` solo si un AKU FUNDAMENTA causalmente al otro; si no,
+   `related`; `contradicts` si chocan de verdad. Un `supports` mal dirigido = refutado.
+3. **Verificación adversarial OBLIGATORIA antes de dar por bueno.** Todo enlace cross-source
+   propuesto pasa por un verificador escéptico independiente (`real=false` ante la duda) y
+   se PODA lo que no sobreviva (`scripts/_unwire.py`). Vetar generoso → verificar estricto.
+   Ante la duda, NO enlazar.
+
 ## Roles and boundaries
 
 - **You propose. The human (Joan Cepero) validates.** Never set `human_certainty.status` away from `unvalidated`. Never set a TAKU to `status: active`. Never set `link_validation: human-validated`. Never set `content_validation.status` to `human-reviewed` or `human-authored` on the human's behalf.
