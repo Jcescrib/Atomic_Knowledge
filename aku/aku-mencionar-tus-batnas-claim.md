@@ -24,6 +24,7 @@ relations:
     - aku-batna-mejor-alternativa-a-un-acuerdo-negociado-concept
   supports:
     - aku-negotiation-tactics-influencia-psicologica-por-fase-concept
+    - aku-cialdini-reciprocidad-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -44,7 +45,7 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
+**supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]] · [[aku-cialdini-reciprocidad-concept]]
 
 **supported_by** ← [[aku-batna-mejor-alternativa-a-un-acuerdo-negociado-concept]]
 

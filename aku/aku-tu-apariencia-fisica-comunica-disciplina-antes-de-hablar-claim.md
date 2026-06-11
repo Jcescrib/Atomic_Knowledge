@@ -35,6 +35,7 @@ relations:
     - aku-siempre-te-estan-juzgando-por-tu-presentacion-controla-la-mejor-claim
     - aku-ciertos-bienes-son-senales-que-dictan-si-te-toman-en-serio-claim
     - aku-el-esfuerzo-al-vestir-comunica-cuanto-te-valoras-y-valoras-la-relacion-claim
+    - aku-disciplina-se-extiende-a-todo-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-siempre-te-estan-juzgando-por-tu-presentacion-controla-la-mejor-claim]] · [[aku-ciertos-bienes-son-senales-que-dictan-si-te-toman-en-serio-claim]] · [[aku-el-esfuerzo-al-vestir-comunica-cuanto-te-valoras-y-valoras-la-relacion-claim]]
+**related** ↔ [[aku-siempre-te-estan-juzgando-por-tu-presentacion-controla-la-mejor-claim]] · [[aku-ciertos-bienes-son-senales-que-dictan-si-te-toman-en-serio-claim]] · [[aku-el-esfuerzo-al-vestir-comunica-cuanto-te-valoras-y-valoras-la-relacion-claim]] · [[aku-disciplina-se-extiende-a-todo-claim]]

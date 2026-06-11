@@ -25,7 +25,8 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-cialdini-compromiso-consistencia-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -55,3 +56,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-commitment-device-method]] · [[aku-habit-contract-y-accountability-partner-method]] · [[aku-compromiso-externo-si-interno-no-concept]] · [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]] · [[aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim]] · [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-metodo-de-cambio-de-habitos-la-autodisciplina-es-un-puente-a-una-nueva-autoimagen-method]] · [[aku-cuando-de-verdad-quieres-cambiar-cambias-intentar-es-aplazar-claim]] · [[aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim]]
+
+**supports** → [[aku-cialdini-compromiso-consistencia-concept]]

@@ -23,6 +23,7 @@ relations:
   supported_by: []
   supports:
     - aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept
+    - aku-cialdini-prueba-social-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -45,6 +46,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]]
+**supports** → [[aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept]] · [[aku-cialdini-prueba-social-concept]]
 
 **related** ↔ [[aku-facilitar-el-movimiento-simbolico-del-progreso-en-el-checkout-claim]] · [[aku-recomendar-una-opcion-por-defecto-claim]] · [[aku-disponer-los-productos-horizontalmente-para-explorar-claim]] · [[aku-usar-visuales-en-las-etapas-tempranas-de-eleccion-claim]]

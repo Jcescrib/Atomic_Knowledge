@@ -39,6 +39,11 @@ relations:
     - aku-simulation-fluency-simulamos-resultado-menos-proceso-concept
     - aku-temptation-bundling-method
     - aku-con-un-porque-suficientemente-grande-superas-cualquier-como-claim
+    - aku-la-vida-pasa-para-ti-no-a-ti-claim
+    - aku-status-pivot-concept
+    - aku-presenciar-la-pobreza-real-cura-el-entitlement-y-reencuadra-la-gratitud-claim
+    - aku-boyd-belt-system-method
+    - aku-enmarcar-la-info-de-venta-como-info-de-formacion-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -51,4 +56,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-good-mindset-concept]] · [[aku-deja-de-preguntar-por-que-y-empieza-a-decir-wow-gratitud-por-la-abundancia-claim]] · [[aku-simulation-fluency-simulamos-resultado-menos-proceso-concept]] · [[aku-temptation-bundling-method]] · [[aku-con-un-porque-suficientemente-grande-superas-cualquier-como-claim]]
+**related** ↔ [[aku-good-mindset-concept]] · [[aku-deja-de-preguntar-por-que-y-empieza-a-decir-wow-gratitud-por-la-abundancia-claim]] · [[aku-simulation-fluency-simulamos-resultado-menos-proceso-concept]] · [[aku-temptation-bundling-method]] · [[aku-con-un-porque-suficientemente-grande-superas-cualquier-como-claim]] · [[aku-la-vida-pasa-para-ti-no-a-ti-claim]] · [[aku-status-pivot-concept]] · [[aku-presenciar-la-pobreza-real-cura-el-entitlement-y-reencuadra-la-gratitud-claim]] · [[aku-boyd-belt-system-method]] · [[aku-enmarcar-la-info-de-venta-como-info-de-formacion-claim]]

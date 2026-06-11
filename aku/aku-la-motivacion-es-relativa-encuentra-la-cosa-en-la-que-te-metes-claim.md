@@ -29,7 +29,9 @@ relations:
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
-  contradicts: []
+  contradicts:
+    - aku-no-cuentes-con-motivacion-cuenta-disciplina-claim
+    - aku-self-discipline-viene-de-dentro-concept
   related:
     - aku-la-felicidad-es-una-habilidad-que-se-aprende-concept
     - aku-ser-curioso-es-mejor-que-ser-listo-el-deseo-no-la-inteligencia-mueve-la-conducta-claim
@@ -51,3 +53,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-ser-curioso-es-mejor-que-ser-listo-el-deseo-no-la-inteligencia-mueve-la-conducta-claim]] · [[aku-con-un-porque-suficientemente-grande-superas-cualquier-como-claim]] · [[aku-cada-conducta-tiene-un-craving-de-superficie-y-un-motivo-profundo-concept]] · [[aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept]] · [[aku-el-mayor-superpoder-es-la-capacidad-de-cambiarte-a-ti-mismo-claim]] · [[aku-no-hay-soluciones-permanentes-en-un-sistema-dinamico-claim]]
+
+**contradicts** ↔ [[aku-no-cuentes-con-motivacion-cuenta-disciplina-claim]] · [[aku-self-discipline-viene-de-dentro-concept]]

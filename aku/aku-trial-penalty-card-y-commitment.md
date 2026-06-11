@@ -25,7 +25,8 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-cialdini-compromiso-consistencia-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -51,3 +52,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-downsell-offer-concept]] · [[aku-leyes-persuasion-cialdini-concept]] · [[aku-trial-with-penalty-concept]] · [[aku-trial-penalty-explicar-fees-tras-tarjeta]] · [[aku-trial-penalty-upsell-tres-escenarios]] · [[aku-llamar-trial-with-penalty-just-trial]]
+
+**supports** → [[aku-cialdini-compromiso-consistencia-concept]]

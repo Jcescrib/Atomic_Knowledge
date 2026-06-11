@@ -23,6 +23,7 @@ relations:
   supported_by: []
   supports:
     - aku-negotiation-tactics-influencia-psicologica-por-fase-concept
+    - aku-cialdini-reciprocidad-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -50,6 +51,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]]
+**supports** → [[aku-negotiation-tactics-influencia-psicologica-por-fase-concept]] · [[aku-cialdini-reciprocidad-concept]]
 
 **related** ↔ [[aku-leyes-persuasion-cialdini-concept]] · [[aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim]] · [[aku-evitar-la-terminologia-de-negociacion-claim]] · [[aku-emparejar-los-nombres-en-la-invitacion-de-calendario-claim]] · [[aku-enmarcar-la-info-de-venta-como-info-de-formacion-claim]]

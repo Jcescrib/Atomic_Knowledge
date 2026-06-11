@@ -20,7 +20,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-fear-of-loss-claim
   supports:
     - aku-pricing-psychology-el-precio-es-percepcion-concept
     - aku-anchor-upsell-concept
@@ -59,3 +60,5 @@ status_note: ""
 **supports** → [[aku-pricing-psychology-el-precio-es-percepcion-concept]] · [[aku-anchor-upsell-concept]]
 
 **related** ↔ [[aku-downsell-offer-concept]] · [[aku-virtuous-cycle-of-price-claim]] · [[aku-distinguir-visualmente-la-opcion-mas-cara-claim]] · [[aku-ofrecer-una-version-similar-pero-mas-cara-como-senuelo-decoy-claim]] · [[aku-anadir-ligeras-diferencias-de-precio-en-el-surtido-claim]] · [[aku-no-agrupar-items-baratos-con-caros-promediacion-claim]]
+
+**supported_by** ← [[aku-fear-of-loss-claim]]

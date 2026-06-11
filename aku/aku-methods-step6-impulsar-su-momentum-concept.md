@@ -23,6 +23,7 @@ relations:
   supported_by: []
   supports:
     - aku-methods-proceso-de-persuasion-en-siete-pasos-concept
+    - aku-cialdini-compromiso-consistencia-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -48,6 +49,6 @@ status_note: "Fuente = stub de imagenes del audiolibro; anclado en Figure 0.1 (f
 
 ## Relaciones
 
-**supports** → [[aku-methods-proceso-de-persuasion-en-siete-pasos-concept]]
+**supports** → [[aku-methods-proceso-de-persuasion-en-siete-pasos-concept]] · [[aku-cialdini-compromiso-consistencia-concept]]
 
 **related** ↔ [[aku-methods-step5-optimizar-tu-mensaje-concept]] · [[aku-methods-step4-habituar-tu-mensaje-concept]] · [[aku-methods-step2-elicitar-actitudes-congruentes-concept]] · [[aku-methods-step7-sostener-su-cumplimiento-concept]] · [[aku-methods-step1-moldear-la-percepcion-concept]] · [[aku-methods-step3-activar-presion-social-concept]]

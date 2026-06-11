@@ -23,6 +23,7 @@ relations:
   supported_by: []
   supports:
     - aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept
+    - aku-cialdini-compromiso-consistencia-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -44,6 +45,6 @@ status_note: ""
 
 ## Relaciones
 
-**supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
+**supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]] · [[aku-cialdini-compromiso-consistencia-concept]]
 
 **related** ↔ [[aku-mencionar-inconvenientes-argumento-bilateral-claim]] · [[aku-variar-la-longitud-de-las-frases-claim]] · [[aku-terminar-las-frases-con-una-imagen-concreta-claim]]

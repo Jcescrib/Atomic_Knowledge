@@ -30,7 +30,8 @@ relations:
   constrains: []
   context_breaks_at: []
   breaks_context_of: []
-  contradicts: []
+  contradicts:
+    - aku-la-motivacion-es-relativa-encuentra-la-cosa-en-la-que-te-metes-claim
   related:
     - aku-no-hay-atajo-ni-hack-claim
     - aku-las-personas-disciplinadas-estructuran-su-entorno-para-no-necesitar-fuerza-de-voluntad-claim
@@ -54,3 +55,5 @@ status_note: ""
 **supports** → [[aku-disciplina-raiz-de-toda-buena-cualidad-concept]]
 
 **related** ↔ [[aku-no-hay-atajo-ni-hack-claim]] · [[aku-las-personas-disciplinadas-estructuran-su-entorno-para-no-necesitar-fuerza-de-voluntad-claim]] · [[aku-enamorate-del-aburrimiento-los-profesionales-aparecen-sin-importar-el-animo-claim]] · [[aku-disciplina-se-extiende-a-todo-claim]] · [[aku-self-discipline-viene-de-dentro-concept]] · [[aku-willpower-no-es-finita-disciplina-engendra-disciplina-claim]] · [[aku-es-un-trabajo-de-cada-dia-claim]]
+
+**contradicts** ↔ [[aku-la-motivacion-es-relativa-encuentra-la-cosa-en-la-que-te-metes-claim]]

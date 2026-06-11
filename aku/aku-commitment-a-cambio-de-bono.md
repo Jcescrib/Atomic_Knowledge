@@ -24,7 +24,8 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-cialdini-compromiso-consistencia-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -49,3 +50,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-continuity-offer-concept]] · [[aku-continuity-bonus-concept]] · [[aku-anunciar-bono-no-membership]] · [[aku-bonos-fisicos-digital-y-viceversa]] · [[aku-titulos-como-bono]]
+
+**supports** → [[aku-cialdini-compromiso-consistencia-concept]]

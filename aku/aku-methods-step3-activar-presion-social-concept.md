@@ -37,6 +37,7 @@ relations:
     - aku-methods-step2-elicitar-actitudes-congruentes-concept
     - aku-methods-step5-optimizar-tu-mensaje-concept
     - aku-methods-step7-sostener-su-cumplimiento-concept
+    - aku-cialdini-prueba-social-concept
 
 sources:
   - raw/libros/kolenda/audiobook-images-methods-of-persuasion/audiobook-images-methods-of-persuasion.md
@@ -56,4 +57,4 @@ status_note: "Fuente = stub de imagenes del audiolibro; anclado en Figure 0.1 (f
 
 **supports** → [[aku-methods-proceso-de-persuasion-en-siete-pasos-concept]]
 
-**related** ↔ [[aku-leyes-persuasion-cialdini-concept]] · [[aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim]] · [[aku-methods-step4-habituar-tu-mensaje-concept]] · [[aku-methods-step6-impulsar-su-momentum-concept]] · [[aku-methods-step1-moldear-la-percepcion-concept]] · [[aku-methods-step2-elicitar-actitudes-congruentes-concept]] · [[aku-methods-step5-optimizar-tu-mensaje-concept]] · [[aku-methods-step7-sostener-su-cumplimiento-concept]]
+**related** ↔ [[aku-leyes-persuasion-cialdini-concept]] · [[aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim]] · [[aku-methods-step4-habituar-tu-mensaje-concept]] · [[aku-methods-step6-impulsar-su-momentum-concept]] · [[aku-methods-step1-moldear-la-percepcion-concept]] · [[aku-methods-step2-elicitar-actitudes-congruentes-concept]] · [[aku-methods-step5-optimizar-tu-mensaje-concept]] · [[aku-methods-step7-sostener-su-cumplimiento-concept]] · [[aku-cialdini-prueba-social-concept]]

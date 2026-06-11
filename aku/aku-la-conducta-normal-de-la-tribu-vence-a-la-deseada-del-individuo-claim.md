@@ -25,8 +25,10 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
-  supports: []
+  supported_by:
+    - aku-boca-a-boca-supera-campana-claim
+  supports:
+    - aku-cialdini-prueba-social-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -53,3 +55,7 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-casi-todo-lo-que-se-lee-busca-aprobacion-social-los-retornos-estan-fuera-del-rebano-claim]] · [[aku-methods-step3-activar-presion-social-concept]] · [[aku-48laws-38-think-as-you-like-behave-like-others-concept]] · [[aku-los-mas-exitosos-empezaron-como-losers-fuera-del-rebano-claim]] · [[aku-blitz-crea-cultura-fuerte-claim]] · [[aku-imitamos-los-habitos-de-tres-grupos-cercanos-muchos-poderosos-concept]] · [[aku-unete-a-una-cultura-donde-tu-conducta-deseada-sea-lo-normal-method]]
+
+**supports** → [[aku-cialdini-prueba-social-concept]]
+
+**supported_by** ← [[aku-boca-a-boca-supera-campana-claim]]

@@ -22,7 +22,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-palanca-vence-fuerza-claim
   supports: []
   constrained_by: []
   constrains: []
@@ -47,3 +48,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-judgment-naval-concept]] · [[aku-pequenas-diferencias-de-juicio-se-amplifican-con-leverage-claim]] · [[aku-juicio-demostrado-con-credibilidad-atrae-leverage-infinito-claim]] · [[aku-sabiduria-es-conocer-consecuencias-a-largo-plazo-juicio-es-aplicarla-concept]]
+
+**supported_by** ← [[aku-palanca-vence-fuerza-claim]]

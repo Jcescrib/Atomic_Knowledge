@@ -24,7 +24,8 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-cialdini-prueba-social-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -55,3 +56,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-tipos-y-tacticas-escasez-concept]] · [[aku-scarcity-limited-seats-concept]] · [[aku-scarcity-limited-bonuses-concept]] · [[aku-scarcity-never-available-again-concept]] · [[aku-total-business-cap-concept]] · [[aku-growth-rate-cap-concept]] · [[aku-cohort-cap-concept]] · [[aku-extreme-scarcity-1on1-claim]] · [[aku-fear-of-loss-claim]] · [[aku-cuando-sube-demanda-corta-oferta-claim]] · [[aku-vender-menos-aumenta-demanda-claim]]
+
+**supports** → [[aku-cialdini-prueba-social-concept]]

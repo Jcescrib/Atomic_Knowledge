@@ -24,7 +24,12 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim
+    - aku-honest-scarcity-claim
+    - aku-hint-next-offer-early
+    - aku-recomendar-una-opcion-genera-momentum-claim
+    - aku-mostrar-prueba-de-consumo-compra-verificada-en-las-resenas-claim
   supports:
     - aku-leyes-persuasion-cialdini-concept
   constrained_by: []
@@ -44,6 +49,7 @@ relations:
     - aku-cialdini-simpatia-concept
     - aku-cialdini-escasez-concept
     - aku-cialdini-pertenencia-concept
+    - aku-methods-step3-activar-presion-social-concept
 
 sources:
   - raw/cursos/power-mba/5-1-clave-powerselling/5-1-clave-powerselling.md
@@ -57,4 +63,6 @@ status_note: ""
 ## Relaciones
 
 **supports** → [[aku-leyes-persuasion-cialdini-concept]]
-**related** ↔ [[aku-boca-a-boca-supera-campana-claim]] · [[aku-marketing-influencers-concept]] · [[aku-perceived-likelihood-achievement-concept]] · [[aku-formato-contenido-testimonio-concept]] · [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]] · [[aku-cialdini-reciprocidad-concept]] · [[aku-cialdini-compromiso-consistencia-concept]] · [[aku-cialdini-autoridad-concept]] · [[aku-cialdini-simpatia-concept]] · [[aku-cialdini-escasez-concept]] · [[aku-cialdini-pertenencia-concept]]
+**related** ↔ [[aku-boca-a-boca-supera-campana-claim]] · [[aku-marketing-influencers-concept]] · [[aku-perceived-likelihood-achievement-concept]] · [[aku-formato-contenido-testimonio-concept]] · [[aku-viral-marketing-las-redes-pequenas-causan-grandes-impactos-concept]] · [[aku-cialdini-reciprocidad-concept]] · [[aku-cialdini-compromiso-consistencia-concept]] · [[aku-cialdini-autoridad-concept]] · [[aku-cialdini-simpatia-concept]] · [[aku-cialdini-escasez-concept]] · [[aku-cialdini-pertenencia-concept]] · [[aku-methods-step3-activar-presion-social-concept]]
+
+**supported_by** ← [[aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim]] · [[aku-honest-scarcity-claim]] · [[aku-hint-next-offer-early]] · [[aku-recomendar-una-opcion-genera-momentum-claim]] · [[aku-mostrar-prueba-de-consumo-compra-verificada-en-las-resenas-claim]]

@@ -24,7 +24,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-cialdini-autoridad-concept
   supports: []
   constrained_by: []
   constrains: []
@@ -52,3 +53,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-marketing-afiliados-concept]] · [[aku-ciertos-bienes-son-senales-que-dictan-si-te-toman-en-serio-claim]] · [[aku-construir-affiliate-army-seis-pasos-concept]] · [[aku-oferta-al-afiliado-concept]] · [[aku-launch-then-integrate-afiliados-concept]] · [[aku-super-afiliado-niveles-concept]] · [[aku-whisper-tease-shout-concept]]
+
+**supported_by** ← [[aku-cialdini-autoridad-concept]]

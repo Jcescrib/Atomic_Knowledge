@@ -25,7 +25,8 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-cialdini-prueba-social-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -54,3 +55,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-money-model-concept]] · [[aku-lista-de-espera-concept]] · [[aku-upsell-offer-concept]] · [[aku-cuatro-upsells-concept]] · [[aku-actually-do-the-upsell]] · [[aku-upsell-mayor-beneficio-claim]] · [[aku-upsell-mas-rentable-primero]] · [[aku-integrar-upsells-en-entrega]] · [[aku-acceso-rapido-aumenta-valor-percibido]]
+
+**supports** → [[aku-cialdini-prueba-social-concept]]

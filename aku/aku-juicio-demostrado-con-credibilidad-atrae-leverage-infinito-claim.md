@@ -23,7 +23,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-probar-que-sabes-hacer-algo-te-da-apalancamiento-claim
   supports: []
   constrained_by: []
   constrains: []
@@ -51,3 +52,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-judgment-naval-concept]] · [[aku-fallar-en-publico-bajo-tu-nombre-da-poder-claim]] · [[aku-construye-un-caracter-que-atrae-la-suerte-el-caracter-es-destino-claim]] · [[aku-48laws-05-guard-your-reputation-concept]] · [[aku-el-juicio-esta-infravalorado-claim]] · [[aku-pequenas-diferencias-de-juicio-se-amplifican-con-leverage-claim]] · [[aku-sabiduria-es-conocer-consecuencias-a-largo-plazo-juicio-es-aplicarla-concept]]
+
+**supported_by** ← [[aku-probar-que-sabes-hacer-algo-te-da-apalancamiento-claim]]

@@ -45,6 +45,8 @@ relations:
     - aku-labor-es-la-peor-forma-de-leverage-claim
     - aku-trabajador-apalancado-rinde-1000x-y-el-juicio-supera-las-horas-claim
     - aku-la-direccion-importa-mas-que-la-velocidad-sobre-todo-con-leverage-claim
+    - aku-leverage-leads-por-tiempo-concept
+    - aku-palanca-vence-fuerza-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -57,4 +59,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-apalancamiento-financiero-concept]] · [[aku-permissioned-vs-permissionless-leverage-concept]] · [[aku-judgment-naval-concept]] · [[aku-productize-yourself-concept]] · [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-ahora-es-apalancado-vs-no-apalancado-claim]] · [[aku-formula-de-la-riqueza-e-ingreso-de-naval-method]] · [[aku-capital-escala-mejor-que-las-personas-claim]] · [[aku-desconexion-input-output-concept]] · [[aku-labor-es-la-peor-forma-de-leverage-claim]] · [[aku-trabajador-apalancado-rinde-1000x-y-el-juicio-supera-las-horas-claim]] · [[aku-la-direccion-importa-mas-que-la-velocidad-sobre-todo-con-leverage-claim]]
+**related** ↔ [[aku-apalancamiento-financiero-concept]] · [[aku-permissioned-vs-permissionless-leverage-concept]] · [[aku-judgment-naval-concept]] · [[aku-productize-yourself-concept]] · [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-ahora-es-apalancado-vs-no-apalancado-claim]] · [[aku-formula-de-la-riqueza-e-ingreso-de-naval-method]] · [[aku-capital-escala-mejor-que-las-personas-claim]] · [[aku-desconexion-input-output-concept]] · [[aku-labor-es-la-peor-forma-de-leverage-claim]] · [[aku-trabajador-apalancado-rinde-1000x-y-el-juicio-supera-las-horas-claim]] · [[aku-la-direccion-importa-mas-que-la-velocidad-sobre-todo-con-leverage-claim]] · [[aku-leverage-leads-por-tiempo-concept]] · [[aku-palanca-vence-fuerza-claim]]

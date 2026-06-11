@@ -34,6 +34,7 @@ relations:
     - aku-el-movimiento-biologico-capta-la-atencion-claim
     - aku-la-capacidad-de-movimiento-de-una-forma-capta-la-atencion-claim
     - aku-la-imagineria-dinamica-capta-la-atencion-claim
+    - aku-fear-of-loss-claim
 
 sources:
   - raw/libros/kolenda/visual-attention-by-nick-kolenda/visual-attention-by-nick-kolenda.md
@@ -52,4 +53,4 @@ status_note: ""
 
 **supports** → [[aku-visual-attention-captamos-estimulos-de-amenaza-ancestral-concept]]
 
-**related** ↔ [[aku-el-motion-onset-capta-la-atencion-claim]] · [[aku-el-movimiento-animado-impredecible-capta-la-atencion-claim]] · [[aku-el-movimiento-biologico-capta-la-atencion-claim]] · [[aku-la-capacidad-de-movimiento-de-una-forma-capta-la-atencion-claim]] · [[aku-la-imagineria-dinamica-capta-la-atencion-claim]]
+**related** ↔ [[aku-el-motion-onset-capta-la-atencion-claim]] · [[aku-el-movimiento-animado-impredecible-capta-la-atencion-claim]] · [[aku-el-movimiento-biologico-capta-la-atencion-claim]] · [[aku-la-capacidad-de-movimiento-de-una-forma-capta-la-atencion-claim]] · [[aku-la-imagineria-dinamica-capta-la-atencion-claim]] · [[aku-fear-of-loss-claim]]

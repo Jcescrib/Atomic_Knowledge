@@ -44,6 +44,7 @@ relations:
     - aku-humildad-asumir-errores-claim
     - aku-boss-no-da-soporte-culpate-primero-claim
     - aku-owner-no-toma-credito-da-honor-claim
+    - aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -58,4 +59,4 @@ status_note: ""
 
 **contradicts** ↔ [[aku-extreme-ownership-concept]]
 
-**related** ↔ [[aku-atribucion-sesgada-exito-fracaso-claim]] · [[aku-cortar-cancers-del-equipo-rapido-claim]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]] · [[aku-liderazgo-concept]] · [[aku-actitud-lider-determina-exito-claim]] · [[aku-lider-mirar-al-espejo-claim]] · [[aku-ver-problemas-lente-objetiva-claim]] · [[aku-humildad-asumir-errores-claim]] · [[aku-boss-no-da-soporte-culpate-primero-claim]] · [[aku-owner-no-toma-credito-da-honor-claim]]
+**related** ↔ [[aku-atribucion-sesgada-exito-fracaso-claim]] · [[aku-cortar-cancers-del-equipo-rapido-claim]] · [[aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim]] · [[aku-liderazgo-concept]] · [[aku-actitud-lider-determina-exito-claim]] · [[aku-lider-mirar-al-espejo-claim]] · [[aku-ver-problemas-lente-objetiva-claim]] · [[aku-humildad-asumir-errores-claim]] · [[aku-boss-no-da-soporte-culpate-primero-claim]] · [[aku-owner-no-toma-credito-da-honor-claim]] · [[aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept]]

@@ -23,7 +23,8 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-cialdini-compromiso-consistencia-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -49,3 +50,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim]] · [[aku-mejora-metodica-de-tu-baseline-de-felicidad-method]] · [[aku-formula-de-la-felicidad-de-naval-salud-riqueza-relaciones-method]] · [[aku-la-felicidad-es-un-juego-de-un-solo-jugador-concept]] · [[aku-para-la-mente-el-placebo-es-100-efectivo-se-positivamente-inclinado-claim]]
+
+**supports** → [[aku-cialdini-compromiso-consistencia-concept]]
