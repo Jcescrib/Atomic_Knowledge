@@ -36,6 +36,7 @@ relations:
     - aku-importancia-segmentacion-claim
     - aku-reemplazar-beneficios-vagos-por-ejemplos-concretos-claim
     - aku-adaptar-las-palabras-al-escenario-claim
+    - aku-variables-segmentacion-concept
 
 sources:
   - raw/libros/kolenda/copywriting-psychology-by-nick-kolenda/copywriting-psychology-by-nick-kolenda.md
@@ -50,4 +51,4 @@ status_note: ""
 
 **supports** → [[aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept]]
 
-**related** ↔ [[aku-nicho-strategy-concept]] · [[aku-plan-medicion-segmentos-concept]] · [[aku-segmentado-strategy-concept]] · [[aku-gente-no-tiene-claro-que-busca-claim]] · [[aku-importancia-segmentacion-claim]] · [[aku-reemplazar-beneficios-vagos-por-ejemplos-concretos-claim]] · [[aku-adaptar-las-palabras-al-escenario-claim]]
+**related** ↔ [[aku-nicho-strategy-concept]] · [[aku-plan-medicion-segmentos-concept]] · [[aku-segmentado-strategy-concept]] · [[aku-gente-no-tiene-claro-que-busca-claim]] · [[aku-importancia-segmentacion-claim]] · [[aku-reemplazar-beneficios-vagos-por-ejemplos-concretos-claim]] · [[aku-adaptar-las-palabras-al-escenario-claim]] · [[aku-variables-segmentacion-concept]]

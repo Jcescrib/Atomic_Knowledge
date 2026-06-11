@@ -25,7 +25,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-riches-in-niches-pricing-claim
   supports: []
   constrained_by: []
   constrains: []
@@ -55,3 +56,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-variables-segmentacion-concept]] · [[aku-segmentos-de-clientes-concept]] · [[aku-segmentar-la-copy-por-necesidades-distintas-claim]] · [[aku-comparativa-mass-market-vs-nicho-concept]] · [[aku-mass-market-strategy-concept]] · [[aku-segmentado-strategy-concept]] · [[aku-nicho-strategy-concept]] · [[aku-nicho-recomendado-lanzamiento-claim]] · [[aku-foco-early-adopters-match-brutal-claim]]
+
+**supported_by** ← [[aku-riches-in-niches-pricing-claim]]

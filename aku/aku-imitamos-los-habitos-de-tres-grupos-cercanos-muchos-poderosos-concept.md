@@ -38,6 +38,7 @@ relations:
     - aku-unete-a-una-cultura-donde-tu-conducta-deseada-sea-lo-normal-method
     - aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim
     - aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim
+    - aku-cialdini-pertenencia-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -50,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-teoria-de-los-cinco-chimpances-concept]] · [[aku-al-trabajar-rodeate-de-mas-exitosos-al-jugar-de-mas-felices-claim]] · [[aku-unete-a-una-cultura-donde-tu-conducta-deseada-sea-lo-normal-method]] · [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim]]
+**related** ↔ [[aku-teoria-de-los-cinco-chimpances-concept]] · [[aku-al-trabajar-rodeate-de-mas-exitosos-al-jugar-de-mas-felices-claim]] · [[aku-unete-a-una-cultura-donde-tu-conducta-deseada-sea-lo-normal-method]] · [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim]] · [[aku-cialdini-pertenencia-concept]]

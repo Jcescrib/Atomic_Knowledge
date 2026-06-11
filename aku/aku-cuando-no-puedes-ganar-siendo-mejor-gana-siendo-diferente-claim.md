@@ -42,6 +42,8 @@ relations:
     - aku-construye-habitos-que-encajen-con-tu-personalidad-big-five-concept
     - aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim
     - aku-explore-exploit-trade-off-method
+    - aku-specific-knowledge-concept
+    - aku-nicho-strategy-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -54,4 +56,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-escapa-la-competencia-mediante-autenticidad-claim]] · [[aku-categoria-de-uno-concept]] · [[aku-se-el-mejor-del-mundo-redefiniendo-lo-que-haces-claim]] · [[aku-encajar-atributos-con-el-rol-claim]] · [[aku-estrategias-genericas-porter-concept]] · [[aku-descubrir-fortalezas-feedback-externo-concept]] · [[aku-construye-habitos-que-encajen-con-tu-personalidad-big-five-concept]] · [[aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim]] · [[aku-explore-exploit-trade-off-method]]
+**related** ↔ [[aku-escapa-la-competencia-mediante-autenticidad-claim]] · [[aku-categoria-de-uno-concept]] · [[aku-se-el-mejor-del-mundo-redefiniendo-lo-que-haces-claim]] · [[aku-encajar-atributos-con-el-rol-claim]] · [[aku-estrategias-genericas-porter-concept]] · [[aku-descubrir-fortalezas-feedback-externo-concept]] · [[aku-construye-habitos-que-encajen-con-tu-personalidad-big-five-concept]] · [[aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim]] · [[aku-explore-exploit-trade-off-method]] · [[aku-specific-knowledge-concept]] · [[aku-nicho-strategy-concept]]

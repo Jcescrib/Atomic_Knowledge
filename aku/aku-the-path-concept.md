@@ -47,6 +47,7 @@ relations:
     - aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim
     - aku-tras-el-exito-agradecer-tomar-stock-ir-mas-duro-claim
     - aku-habitos-basados-en-la-identidad-vs-en-resultados-concept
+    - aku-el-cambio-de-conducta-duradero-es-cambio-de-identidad-claim
 
 sources:
   - raw/libros/jocko/the-code/the-code.md
@@ -59,4 +60,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-the-code-concept]] · [[aku-eminently-qualified-human-concept]] · [[aku-discipline-equals-freedom-concept]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-pequenas-elecciones-diarias-construyen-todo-claim]] · [[aku-eqh-no-es-estado-sino-camino-sin-fin-claim]] · [[aku-mejorar-mas-dificil-al-crecer-capacidad-claim]] · [[aku-tiempo-recurso-mas-valioso-y-limitado-claim]] · [[aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim]] · [[aku-tras-el-exito-agradecer-tomar-stock-ir-mas-duro-claim]] · [[aku-habitos-basados-en-la-identidad-vs-en-resultados-concept]]
+**related** ↔ [[aku-the-code-concept]] · [[aku-eminently-qualified-human-concept]] · [[aku-discipline-equals-freedom-concept]] · [[aku-empezar-aqui-y-ahora-method]] · [[aku-pequenas-elecciones-diarias-construyen-todo-claim]] · [[aku-eqh-no-es-estado-sino-camino-sin-fin-claim]] · [[aku-mejorar-mas-dificil-al-crecer-capacidad-claim]] · [[aku-tiempo-recurso-mas-valioso-y-limitado-claim]] · [[aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim]] · [[aku-tras-el-exito-agradecer-tomar-stock-ir-mas-duro-claim]] · [[aku-habitos-basados-en-la-identidad-vs-en-resultados-concept]] · [[aku-el-cambio-de-conducta-duradero-es-cambio-de-identidad-claim]]

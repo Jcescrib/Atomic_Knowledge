@@ -24,7 +24,8 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-foco-early-adopters-match-brutal-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -50,3 +51,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-referral-growth-exponential-claim]] · [[aku-goodwill-genera-referidos-concept]] · [[aku-goodwill-precio-valor-concept]] · [[aku-seis-formas-mas-valor-referidos-concept]] · [[aku-un-solo-cliente-thought-experiment-claim]] · [[aku-bajar-expectativas-para-sobreentregar-claim]]
+
+**supports** → [[aku-foco-early-adopters-match-brutal-claim]]

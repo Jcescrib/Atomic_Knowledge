@@ -34,6 +34,7 @@ relations:
     - aku-enfocar-una-iniciativa-a-la-vez-claim
   supports:
     - aku-laws-of-combat-concept
+    - aku-blitz-no-resuelvas-todos-problemas-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -49,6 +50,7 @@ relations:
     - aku-cuando-rendirse-tactico-no-estrategico-claim
     - aku-paso-pequeno-reevaluar-ante-incertidumbre-method
     - aku-lead-scoring-concept
+    - aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -63,6 +65,6 @@ status_note: ""
 
 **supported_by** ← [[aku-relax-look-around-make-a-call-method]] · [[aku-lider-abrumado-multiples-tareas-falla-claim]] · [[aku-contingency-planning-anticipar-method]] · [[aku-pull-off-the-firing-line-claim]] · [[aku-prioridades-cambian-comunicar-claim]] · [[aku-prioritize-and-execute-pasos-method]] · [[aku-enfocar-una-iniciativa-a-la-vez-claim]]
 
-**supports** → [[aku-laws-of-combat-concept]]
+**supports** → [[aku-laws-of-combat-concept]] · [[aku-blitz-no-resuelvas-todos-problemas-claim]]
 
-**related** ↔ [[aku-main-effort-supporting-efforts-concept]] · [[aku-target-fixation-concept]] · [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-abrumado-pelear-mas-duro-priorizar-claim]] · [[aku-saber-que-es-importante-y-que-no-method]] · [[aku-manejar-jefe-micromanager-indeciso-debil-method]] · [[aku-cuando-rendirse-tactico-no-estrategico-claim]] · [[aku-paso-pequeno-reevaluar-ante-incertidumbre-method]] · [[aku-lead-scoring-concept]]
+**related** ↔ [[aku-main-effort-supporting-efforts-concept]] · [[aku-target-fixation-concept]] · [[aku-decisiveness-amid-uncertainty-concept]] · [[aku-abrumado-pelear-mas-duro-priorizar-claim]] · [[aku-saber-que-es-importante-y-que-no-method]] · [[aku-manejar-jefe-micromanager-indeciso-debil-method]] · [[aku-cuando-rendirse-tactico-no-estrategico-claim]] · [[aku-paso-pequeno-reevaluar-ante-incertidumbre-method]] · [[aku-lead-scoring-concept]] · [[aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim]]

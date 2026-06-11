@@ -24,7 +24,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-capitalizar-interes-compuesto-method
   supports: []
   constrained_by: []
   constrains: []
@@ -53,3 +54,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-armate-con-specific-knowledge-accountability-y-leverage-claim]] · [[aku-formula-de-la-riqueza-e-ingreso-de-naval-method]] · [[aku-productize-yourself-concept]] · [[aku-da-a-la-sociedad-lo-que-quiere-a-escala-claim]] · [[aku-riqueza-se-construye-apilando-muchas-cosas-pequenas-claim]] · [[aku-aprende-a-vender-y-a-construir-claim]] · [[aku-earn-with-your-mind-not-your-time-claim]] · [[aku-te-haces-rico-ahorrando-tiempo-para-ganar-dinero-no-gastando-tiempo-para-ahorrar-claim]]
+
+**supported_by** ← [[aku-capitalizar-interes-compuesto-method]]

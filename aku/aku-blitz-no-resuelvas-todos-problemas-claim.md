@@ -25,6 +25,7 @@ epistemic_type: sourced
 relations:
   supported_by:
     - aku-nueve-principios-blitzscaling-concept
+    - aku-prioritize-and-execute-concept
   supports: []
   constrained_by: []
   constrains: []
@@ -43,6 +44,7 @@ relations:
     - aku-blitz-ignora-a-tus-clientes-claim
     - aku-blitz-lanza-producto-aunque-averguence-claim
     - aku-blitz-tolera-mala-gestion-claim
+    - aku-lider-abrumado-multiples-tareas-falla-claim
 
 sources:
   - raw/cursos/power-mba/4-5-blitzscaling/4-5-blitzscaling.md
@@ -55,6 +57,6 @@ status_note: ""
 
 ## Relaciones
 
-**supported_by** ← [[aku-nueve-principios-blitzscaling-concept]]
+**supported_by** ← [[aku-nueve-principios-blitzscaling-concept]] · [[aku-prioritize-and-execute-concept]]
 
-**related** ↔ [[aku-saber-que-es-importante-y-que-no-method]] · [[aku-main-effort-supporting-efforts-concept]] · [[aku-abrumado-pelear-mas-duro-priorizar-claim]] · [[aku-blitz-acepta-el-caos-claim]] · [[aku-blitz-consigue-demasiada-financiacion-claim]] · [[aku-blitz-contrata-rapido-claim]] · [[aku-blitz-crea-cultura-fuerte-claim]] · [[aku-blitz-haz-cosas-que-no-escalen-claim]] · [[aku-blitz-ignora-a-tus-clientes-claim]] · [[aku-blitz-lanza-producto-aunque-averguence-claim]] · [[aku-blitz-tolera-mala-gestion-claim]]
+**related** ↔ [[aku-saber-que-es-importante-y-que-no-method]] · [[aku-main-effort-supporting-efforts-concept]] · [[aku-abrumado-pelear-mas-duro-priorizar-claim]] · [[aku-blitz-acepta-el-caos-claim]] · [[aku-blitz-consigue-demasiada-financiacion-claim]] · [[aku-blitz-contrata-rapido-claim]] · [[aku-blitz-crea-cultura-fuerte-claim]] · [[aku-blitz-haz-cosas-que-no-escalen-claim]] · [[aku-blitz-ignora-a-tus-clientes-claim]] · [[aku-blitz-lanza-producto-aunque-averguence-claim]] · [[aku-blitz-tolera-mala-gestion-claim]] · [[aku-lider-abrumado-multiples-tareas-falla-claim]]

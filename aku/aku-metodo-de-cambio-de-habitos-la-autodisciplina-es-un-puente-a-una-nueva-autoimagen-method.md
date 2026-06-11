@@ -25,7 +25,8 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-el-cambio-de-conducta-duradero-es-cambio-de-identidad-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -55,3 +56,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-para-mejorar-sin-autodisciplina-actualiza-tu-autoimagen-claim]] · [[aku-la-felicidad-es-una-habilidad-que-se-aprende-concept]] · [[aku-proceso-de-dos-pasos-para-cambiar-tu-identidad-method]] · [[aku-implementation-intention-method]] · [[aku-cada-conducta-tiene-un-craving-de-superficie-y-un-motivo-profundo-concept]] · [[aku-no-anhelas-el-habito-sino-el-cambio-de-estado-interno-claim]] · [[aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim]] · [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]] · [[aku-comprometete-externamente-para-cambiar-o-fija-una-meta-menor-honesta-method]] · [[aku-cuando-de-verdad-quieres-cambiar-cambias-intentar-es-aplazar-claim]]
+
+**supports** → [[aku-el-cambio-de-conducta-duradero-es-cambio-de-identidad-claim]]

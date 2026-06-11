@@ -35,6 +35,7 @@ relations:
     - aku-el-contrario-optimista-razona-desde-cero-y-es-la-especie-mas-rara-concept
     - aku-las-creencias-tomadas-en-paquete-son-sospechosas-reevalua-desde-principios-claim
     - aku-los-mas-exitosos-empezaron-como-losers-fuera-del-rebano-claim
+    - aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -47,4 +48,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-modelos-mentales-concept]] · [[aku-48laws-25-re-create-yourself-concept]] · [[aku-el-contrario-optimista-razona-desde-cero-y-es-la-especie-mas-rara-concept]] · [[aku-las-creencias-tomadas-en-paquete-son-sospechosas-reevalua-desde-principios-claim]] · [[aku-los-mas-exitosos-empezaron-como-losers-fuera-del-rebano-claim]]
+**related** ↔ [[aku-modelos-mentales-concept]] · [[aku-48laws-25-re-create-yourself-concept]] · [[aku-el-contrario-optimista-razona-desde-cero-y-es-la-especie-mas-rara-concept]] · [[aku-las-creencias-tomadas-en-paquete-son-sospechosas-reevalua-desde-principios-claim]] · [[aku-los-mas-exitosos-empezaron-como-losers-fuera-del-rebano-claim]] · [[aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim]]

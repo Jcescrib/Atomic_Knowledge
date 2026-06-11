@@ -23,7 +23,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-entorno-de-recompensa-inmediata-vs-diferida-concept
   supports: []
   constrained_by: []
   constrains: []
@@ -49,3 +50,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim]] · [[aku-pequenas-elecciones-diarias-construyen-todo-claim]] · [[aku-las-virtudes-clasicas-son-heuristicas-para-optimizar-el-largo-plazo-concept]] · [[aku-la-sabiduria-es-descartar-vicios-y-volver-a-la-virtud-via-conocimiento-claim]] · [[aku-no-puedes-ocultarte-de-ti-mismo-tus-valores-determinan-tu-autoestima-claim]]
+
+**supported_by** ← [[aku-entorno-de-recompensa-inmediata-vs-diferida-concept]]

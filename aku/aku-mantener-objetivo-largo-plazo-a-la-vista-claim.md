@@ -25,7 +25,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-entorno-de-recompensa-inmediata-vs-diferida-concept
   supports: []
   constrained_by: []
   constrains: []
@@ -52,3 +53,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-metas-intermedias-visibles-method]] · [[aku-enfocar-una-iniciativa-a-la-vez-claim]] · [[aku-me-versus-me-superarte-a-ti-mismo-claim]] · [[aku-cuando-rendirse-tactico-no-estrategico-claim]] · [[aku-hope-no-es-curso-de-accion-pero-debe-existir-claim]] · [[aku-madrugar-predawn-stand-to-claim]]
+
+**supported_by** ← [[aku-entorno-de-recompensa-inmediata-vs-diferida-concept]]

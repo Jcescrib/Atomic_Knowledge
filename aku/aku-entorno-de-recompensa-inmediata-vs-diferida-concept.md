@@ -28,7 +28,9 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-mantener-objetivo-largo-plazo-a-la-vista-claim
+    - aku-elecciones-faciles-vida-dificil-elecciones-dificiles-vida-facil-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -44,6 +46,7 @@ relations:
     - aku-metas-intermedias-visibles-method
     - aku-cardinal-rule-lo-recompensado-se-repite-lo-castigado-se-evita-concept
     - aku-anade-placer-inmediato-al-buen-habito-para-cerrar-la-brecha-temporal-claim
+    - aku-time-delay-value-concept
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -56,4 +59,6 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim]] · [[aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim]] · [[aku-pequenas-elecciones-diarias-construyen-todo-claim]] · [[aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept]] · [[aku-si-no-puedes-decidir-la-respuesta-es-no-claim]] · [[aku-continuity-offer-concept]] · [[aku-metas-intermedias-visibles-method]] · [[aku-cardinal-rule-lo-recompensado-se-repite-lo-castigado-se-evita-concept]] · [[aku-anade-placer-inmediato-al-buen-habito-para-cerrar-la-brecha-temporal-claim]]
+**related** ↔ [[aku-run-uphill-ante-un-empate-elige-el-camino-mas-doloroso-a-corto-plazo-claim]] · [[aku-evolucionamos-para-la-escasez-pero-vivimos-en-abundancia-claim]] · [[aku-pequenas-elecciones-diarias-construyen-todo-claim]] · [[aku-sistemas-no-metas-disena-tu-entorno-para-tener-exito-concept]] · [[aku-si-no-puedes-decidir-la-respuesta-es-no-claim]] · [[aku-continuity-offer-concept]] · [[aku-metas-intermedias-visibles-method]] · [[aku-cardinal-rule-lo-recompensado-se-repite-lo-castigado-se-evita-concept]] · [[aku-anade-placer-inmediato-al-buen-habito-para-cerrar-la-brecha-temporal-claim]] · [[aku-time-delay-value-concept]]
+
+**supports** → [[aku-mantener-objetivo-largo-plazo-a-la-vista-claim]] · [[aku-elecciones-faciles-vida-dificil-elecciones-dificiles-vida-facil-claim]]

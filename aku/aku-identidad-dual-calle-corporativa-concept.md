@@ -36,6 +36,7 @@ relations:
     - aku-la-percepcion-es-separable-de-la-realidad-y-puedes-usarla-a-tu-favor-claim
     - aku-confia-en-tu-instinto-por-encima-de-la-sola-instruccion-claim
     - aku-aprendes-mas-de-alguien-en-dos-minutos-en-la-calle-que-en-veinte-anos-en-el-boardroom-claim
+    - aku-manten-tu-identidad-pequena-y-flexible-para-poder-crecer-claim
 
 sources:
   - raw/libros/50-cent/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive/hustle-harder-hustle-smarter-curtis-50-cent-jackson-2020-harpercollins-30ae304e30116010500aa632cb97e9da-anna-s-archive.md
@@ -48,4 +49,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-calle-y-negocios-comparten-principios-concept]] · [[aku-la-percepcion-es-separable-de-la-realidad-y-puedes-usarla-a-tu-favor-claim]] · [[aku-confia-en-tu-instinto-por-encima-de-la-sola-instruccion-claim]] · [[aku-aprendes-mas-de-alguien-en-dos-minutos-en-la-calle-que-en-veinte-anos-en-el-boardroom-claim]]
+**related** ↔ [[aku-calle-y-negocios-comparten-principios-concept]] · [[aku-la-percepcion-es-separable-de-la-realidad-y-puedes-usarla-a-tu-favor-claim]] · [[aku-confia-en-tu-instinto-por-encima-de-la-sola-instruccion-claim]] · [[aku-aprendes-mas-de-alguien-en-dos-minutos-en-la-calle-que-en-veinte-anos-en-el-boardroom-claim]] · [[aku-manten-tu-identidad-pequena-y-flexible-para-poder-crecer-claim]]

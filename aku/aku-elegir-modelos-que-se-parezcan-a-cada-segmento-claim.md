@@ -20,7 +20,8 @@ human_certainty:
 epistemic_type: sourced
 
 relations:
-  supported_by: []
+  supported_by:
+    - aku-implicit-egotism-concept
   supports:
     - aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept
   constrained_by: []
@@ -46,3 +47,5 @@ status_note: ""
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
 **related** ↔ [[aku-customer-persona-concept]] · [[aku-usar-miradas-directas-a-camara-en-productos-virtuosos-claim]]
+
+**supported_by** ← [[aku-implicit-egotism-concept]]

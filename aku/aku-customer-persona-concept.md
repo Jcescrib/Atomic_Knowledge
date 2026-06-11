@@ -49,6 +49,7 @@ relations:
     - aku-segmentos-vs-personas-concept
     - aku-gente-no-tiene-claro-que-busca-claim
     - aku-elegir-modelos-que-se-parezcan-a-cada-segmento-claim
+    - aku-magic-avatar-concept
 
 sources:
   - "raw/cursos/power-mba/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo/2-4-segmentaci-on-y-targeting-conceptos-clave-clientes-y-mercado-objetivo.md"
@@ -63,4 +64,4 @@ status_note: ""
 
 **supported_by** ← [[aku-customer-persona-dimensiones-analisis-concept]]
 
-**related** ↔ [[aku-segmentos-de-clientes-concept]] · [[aku-variables-segmentacion-concept]] · [[aku-early-adopter-concept]] · [[aku-entrevista-problem-solution-concept]] · [[aku-posicionamiento-concept]] · [[aku-conversacion-mente-cliente-concept]] · [[aku-cuatro-indicadores-mercado-concept]] · [[aku-define-publico-objetivo-antes-de-generar-contenido-claim]] · [[aku-segmentos-vs-personas-concept]] · [[aku-gente-no-tiene-claro-que-busca-claim]] · [[aku-elegir-modelos-que-se-parezcan-a-cada-segmento-claim]]
+**related** ↔ [[aku-segmentos-de-clientes-concept]] · [[aku-variables-segmentacion-concept]] · [[aku-early-adopter-concept]] · [[aku-entrevista-problem-solution-concept]] · [[aku-posicionamiento-concept]] · [[aku-conversacion-mente-cliente-concept]] · [[aku-cuatro-indicadores-mercado-concept]] · [[aku-define-publico-objetivo-antes-de-generar-contenido-claim]] · [[aku-segmentos-vs-personas-concept]] · [[aku-gente-no-tiene-claro-que-busca-claim]] · [[aku-elegir-modelos-que-se-parezcan-a-cada-segmento-claim]] · [[aku-magic-avatar-concept]]

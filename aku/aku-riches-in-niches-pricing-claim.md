@@ -24,7 +24,8 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-importancia-segmentacion-claim
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -51,3 +52,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-nicho-strategy-concept]] · [[aku-cuatro-indicadores-mercado-concept]] · [[aku-commit-to-niche-claim]] · [[aku-segmentado-strategy-concept]] · [[aku-mass-market-strategy-concept]] · [[aku-implicit-egotism-concept]] · [[aku-dolor-es-el-pitch-claim]]
+
+**supports** → [[aku-importancia-segmentacion-claim]]

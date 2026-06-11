@@ -43,6 +43,7 @@ relations:
     - aku-debes-editar-y-expandir-tu-identidad-continuamente-claim
     - aku-manten-tu-identidad-pequena-y-flexible-para-poder-crecer-claim
     - aku-los-incentivos-inician-un-habito-la-identidad-lo-sostiene-claim
+    - aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -55,4 +56,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim]] · [[aku-para-ser-honesto-habla-sin-identidad-las-etiquetas-te-atan-claim]] · [[aku-tres-capas-del-cambio-de-conducta-concept]] · [[aku-habitos-basados-en-la-identidad-vs-en-resultados-concept]] · [[aku-el-cambio-de-conducta-duradero-es-cambio-de-identidad-claim]] · [[aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim]] · [[aku-proceso-de-dos-pasos-para-cambiar-tu-identidad-method]] · [[aku-debes-editar-y-expandir-tu-identidad-continuamente-claim]] · [[aku-manten-tu-identidad-pequena-y-flexible-para-poder-crecer-claim]] · [[aku-los-incentivos-inician-un-habito-la-identidad-lo-sostiene-claim]]
+**related** ↔ [[aku-te-conviertes-en-tus-habitos-y-cambiarlos-es-un-viaje-de-anos-claim]] · [[aku-para-ser-honesto-habla-sin-identidad-las-etiquetas-te-atan-claim]] · [[aku-tres-capas-del-cambio-de-conducta-concept]] · [[aku-habitos-basados-en-la-identidad-vs-en-resultados-concept]] · [[aku-el-cambio-de-conducta-duradero-es-cambio-de-identidad-claim]] · [[aku-cada-accion-es-un-voto-por-el-tipo-de-persona-que-quieres-ser-claim]] · [[aku-proceso-de-dos-pasos-para-cambiar-tu-identidad-method]] · [[aku-debes-editar-y-expandir-tu-identidad-continuamente-claim]] · [[aku-manten-tu-identidad-pequena-y-flexible-para-poder-crecer-claim]] · [[aku-los-incentivos-inician-un-habito-la-identidad-lo-sostiene-claim]] · [[aku-descondicionate-revisa-si-tus-habitos-aun-te-sirven-claim]]

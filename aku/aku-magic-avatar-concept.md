@@ -37,6 +37,8 @@ relations:
     - aku-magic-goal-concept
     - aku-magic-interval-concept
     - aku-magic-container-concept
+    - aku-customer-persona-concept
+    - aku-early-adopter-concept
 
 sources:
   - raw/libros/hormozi/100m-offers/100m-offers.md
@@ -51,4 +53,4 @@ status_note: ""
 
 **supported_by** ← [[aku-magic-naming-concept]]
 
-**related** ↔ [[aku-posicionamiento-concept]] · [[aku-magic-magnet-concept]] · [[aku-magic-goal-concept]] · [[aku-magic-interval-concept]] · [[aku-magic-container-concept]]
+**related** ↔ [[aku-posicionamiento-concept]] · [[aku-magic-magnet-concept]] · [[aku-magic-goal-concept]] · [[aku-magic-interval-concept]] · [[aku-magic-container-concept]] · [[aku-customer-persona-concept]] · [[aku-early-adopter-concept]]

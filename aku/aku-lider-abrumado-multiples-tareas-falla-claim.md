@@ -39,6 +39,7 @@ relations:
     - aku-relax-look-around-make-a-call-method
     - aku-prioridades-cambian-comunicar-claim
     - aku-enfocar-una-iniciativa-a-la-vez-claim
+    - aku-blitz-no-resuelvas-todos-problemas-claim
 
 sources:
   - raw/libros/jocko/extreme-ownership/extreme-ownership.md
@@ -53,4 +54,4 @@ status_note: ""
 
 **supports** → [[aku-prioritize-and-execute-concept]]
 
-**related** ↔ [[aku-abrumado-pelear-mas-duro-priorizar-claim]] · [[aku-prioritize-and-execute-pasos-method]] · [[aku-target-fixation-concept]] · [[aku-pull-off-the-firing-line-claim]] · [[aku-relax-look-around-make-a-call-method]] · [[aku-prioridades-cambian-comunicar-claim]] · [[aku-enfocar-una-iniciativa-a-la-vez-claim]]
+**related** ↔ [[aku-abrumado-pelear-mas-duro-priorizar-claim]] · [[aku-prioritize-and-execute-pasos-method]] · [[aku-target-fixation-concept]] · [[aku-pull-off-the-firing-line-claim]] · [[aku-relax-look-around-make-a-call-method]] · [[aku-prioridades-cambian-comunicar-claim]] · [[aku-enfocar-una-iniciativa-a-la-vez-claim]] · [[aku-blitz-no-resuelvas-todos-problemas-claim]]

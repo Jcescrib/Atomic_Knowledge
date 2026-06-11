@@ -39,6 +39,7 @@ relations:
     - aku-ten-un-solo-gran-deseo-a-la-vez-y-perfecciona-tus-deseos-claim
     - aku-lo-mas-dificil-no-es-hacer-lo-que-quieres-sino-saber-que-quieres-claim
     - aku-99-por-ciento-del-esfuerzo-se-desperdicia-encuentra-el-1-claim
+    - aku-prioritize-and-execute-concept
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -51,4 +52,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim]] · [[aku-prioritize-and-execute-pasos-method]] · [[aku-mucha-gente-cree-que-le-falta-motivacion-cuando-le-falta-claridad-claim]] · [[aku-solo-se-logra-maestria-en-una-o-dos-cosas-claim]] · [[aku-puedes-lograr-casi-cualquier-cosa-si-es-una-sola-y-la-quieres-mas-que-nada-claim]] · [[aku-ten-un-solo-gran-deseo-a-la-vez-y-perfecciona-tus-deseos-claim]] · [[aku-lo-mas-dificil-no-es-hacer-lo-que-quieres-sino-saber-que-quieres-claim]] · [[aku-99-por-ciento-del-esfuerzo-se-desperdicia-encuentra-el-1-claim]]
+**related** ↔ [[aku-tu-salud-es-la-prioridad-numero-uno-por-encima-de-todo-claim]] · [[aku-prioritize-and-execute-pasos-method]] · [[aku-mucha-gente-cree-que-le-falta-motivacion-cuando-le-falta-claridad-claim]] · [[aku-solo-se-logra-maestria-en-una-o-dos-cosas-claim]] · [[aku-puedes-lograr-casi-cualquier-cosa-si-es-una-sola-y-la-quieres-mas-que-nada-claim]] · [[aku-ten-un-solo-gran-deseo-a-la-vez-y-perfecciona-tus-deseos-claim]] · [[aku-lo-mas-dificil-no-es-hacer-lo-que-quieres-sino-saber-que-quieres-claim]] · [[aku-99-por-ciento-del-esfuerzo-se-desperdicia-encuentra-el-1-claim]] · [[aku-prioritize-and-execute-concept]]

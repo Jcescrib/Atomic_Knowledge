@@ -34,6 +34,7 @@ relations:
     - aku-juegos-de-suma-positiva-vs-suma-cero-concept
     - aku-elige-juegos-largo-plazo-con-gente-largo-plazo-claim
     - aku-evita-los-juegos-de-estatus-te-vuelven-combativo-claim
+    - aku-enfocate-en-el-potencial-a-largo-plazo-no-en-el-primer-cheque-claim
 
 sources:
   - raw/libros/naval/almanack-of-naval-ravikant/almanack-of-naval-ravikant.md
@@ -46,4 +47,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-juegos-de-suma-positiva-vs-suma-cero-concept]] · [[aku-elige-juegos-largo-plazo-con-gente-largo-plazo-claim]] · [[aku-evita-los-juegos-de-estatus-te-vuelven-combativo-claim]]
+**related** ↔ [[aku-juegos-de-suma-positiva-vs-suma-cero-concept]] · [[aku-elige-juegos-largo-plazo-con-gente-largo-plazo-claim]] · [[aku-evita-los-juegos-de-estatus-te-vuelven-combativo-claim]] · [[aku-enfocate-en-el-potencial-a-largo-plazo-no-en-el-primer-cheque-claim]]

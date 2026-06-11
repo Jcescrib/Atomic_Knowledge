@@ -23,7 +23,8 @@ epistemic_type: sourced
 
 relations:
   supported_by: []
-  supports: []
+  supports:
+    - aku-nicho-strategy-concept
   constrained_by: []
   constrains: []
   context_breaks_at: []
@@ -48,3 +49,5 @@ status_note: ""
 ## Relaciones
 
 **related** ↔ [[aku-busca-personas-cuyos-valores-encajen-con-los-tuyos-claim]] · [[aku-specific-knowledge-concept]] · [[aku-specific-knowledge-es-lo-que-hacias-sin-esfuerzo-de-nino-claim]] · [[aku-specific-knowledge-no-se-ensena-pero-se-aprende-claim]] · [[aku-sigue-tu-curiosidad-intelectual-mas-que-lo-de-moda-claim]]
+
+**supports** → [[aku-nicho-strategy-concept]]

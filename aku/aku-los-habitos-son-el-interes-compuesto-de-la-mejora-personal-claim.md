@@ -40,6 +40,7 @@ relations:
     - aku-leer-ciencia-mate-filosofia-una-hora-al-dia-te-eleva-en-siete-anos-claim
     - aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim
     - aku-agregacion-de-ganancias-marginales-concept
+    - aku-audiencia-activo-compuesto-claim
 
 sources:
   - raw/libros/james-clear/atomic-habits/atomic-habits.md
@@ -52,4 +53,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-capitalizar-interes-compuesto-method]] · [[aku-habito-atomico-concept]] · [[aku-never-miss-twice-claim]] · [[aku-plateau-of-latent-potential-valley-of-disappointment-concept]] · [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]] · [[aku-leer-ciencia-mate-filosofia-una-hora-al-dia-te-eleva-en-siete-anos-claim]] · [[aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim]] · [[aku-agregacion-de-ganancias-marginales-concept]]
+**related** ↔ [[aku-capitalizar-interes-compuesto-method]] · [[aku-habito-atomico-concept]] · [[aku-never-miss-twice-claim]] · [[aku-plateau-of-latent-potential-valley-of-disappointment-concept]] · [[aku-juega-juegos-iterados-retornos-del-interes-compuesto-claim]] · [[aku-leer-ciencia-mate-filosofia-una-hora-al-dia-te-eleva-en-siete-anos-claim]] · [[aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim]] · [[aku-agregacion-de-ganancias-marginales-concept]] · [[aku-audiencia-activo-compuesto-claim]]

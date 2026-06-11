@@ -37,6 +37,8 @@ relations:
     - aku-mente-de-mono-concept
     - aku-mente-mono-no-estar-presente-concept
     - aku-descansos-un-minuto-method
+    - aku-puedes-lograr-casi-cualquier-cosa-si-es-una-sola-y-la-quieres-mas-que-nada-claim
+    - aku-el-foco-dirige-el-trabajo-duro-y-eliminar-distracciones-libera-potencial-claim
 
 sources:
   - raw/cursos/power-mba/7-1-1-recursos-liderarse-a-uno-mismo-ok/7-1-1-recursos-liderarse-a-uno-mismo-ok.md
@@ -49,4 +51,4 @@ status_note: ""
 
 ## Relaciones
 
-**related** ↔ [[aku-mindfulness-concept]] · [[aku-deep-work-concept]] · [[aku-enfocar-una-iniciativa-a-la-vez-claim]] · [[aku-mente-de-mono-concept]] · [[aku-mente-mono-no-estar-presente-concept]] · [[aku-descansos-un-minuto-method]]
+**related** ↔ [[aku-mindfulness-concept]] · [[aku-deep-work-concept]] · [[aku-enfocar-una-iniciativa-a-la-vez-claim]] · [[aku-mente-de-mono-concept]] · [[aku-mente-mono-no-estar-presente-concept]] · [[aku-descansos-un-minuto-method]] · [[aku-puedes-lograr-casi-cualquier-cosa-si-es-una-sola-y-la-quieres-mas-que-nada-claim]] · [[aku-el-foco-dirige-el-trabajo-duro-y-eliminar-distracciones-libera-potencial-claim]]
