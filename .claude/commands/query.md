@@ -19,6 +19,14 @@ If no argument was provided, ask what to retrieve and offer the three modes (dir
 - For hybrid AKUs, show both confidence dimensions explicitly per the human-primacy table.
 - Surface `llm-proposed` AKU links on TAKUs with a ◎ marker.
 - Order TAKUs: human-authored → human-reviewed → llm-authored.
+- **Corroboración cross-source (señal de verdad):** para cada AKU primario, calcula y muestra
+  cuántas FUENTES independientes lo sostienen, ejecutando
+  `python scripts/corroboration.py <aku-id>`. Cuenta el corpus del AKU + el de sus vecinos
+  directos por relaciones de acuerdo (`related`/`supports`/`supported_by`/`constrains`/
+  `constrained_by`); `contradicts` NO corrobora y se reporta aparte como ⚠ contra-evidencia.
+  Orden de la señal de verdad: **human_certainty prevalece** (si ≠ `unvalidated`); en su
+  defecto, `llm_confidence` **ponderada por la corroboración** (más fuentes independientes
+  que repiten el concepto ⇒ mayor confianza operativa). Nunca colapses ambas dimensiones.
 
 **Output structure (always exactly two sections):**
 
@@ -32,6 +40,7 @@ KNOWLEDGE LAYER — AKUs
   <statement>
   Status: <human_certainty.status> · iterations: N · domain: [tags]
   llm_confidence: <value>  [for hybrid: shown alongside human status]
+  Corroboración: <N> fuentes independientes [corpus1, corpus2, ...]  ⚠ contradicen: [...]
   context_boundary: <if set>
   Cluster:
     supported_by → <linked AKUs with their status>

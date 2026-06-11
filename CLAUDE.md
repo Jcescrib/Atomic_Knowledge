@@ -342,6 +342,15 @@ Lint verifies all three.
 
 ## Bidirectional retrieval (`/query`)
 
+**Corroboración cross-source (señal de verdad).** Cada AKU primario se reporta con su
+corroboración: nº de FUENTES independientes que sostienen el concepto = corpus del AKU +
+corpus de sus vecinos directos por relaciones de acuerdo (`related`/`supports`/
+`supported_by`/`constrains`/`constrained_by`). `contradicts` NO corrobora — se reporta como
+contra-evidencia. Herramienta: `python scripts/corroboration.py <aku-id>` (o `top`/`term`).
+Orden de la señal: `human_certainty` prevalece (si ≠ `unvalidated`); en su defecto
+`llm_confidence` **ponderada por la corroboración** (más fuentes independientes ⇒ mayor
+confianza operativa). Nunca se promedian ni colapsan las dimensiones.
+
 Every retrieval response has two sections:
 
 ```
