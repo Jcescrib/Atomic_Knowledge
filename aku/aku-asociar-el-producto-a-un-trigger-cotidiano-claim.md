@@ -30,6 +30,7 @@ relations:
   contradicts: []
   related:
     - aku-anunciar-pronto-para-moldear-las-simulaciones-futuras-claim
+    - aku-dispersar-los-anuncios-en-el-tiempo-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -44,4 +45,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-anunciar-pronto-para-moldear-las-simulaciones-futuras-claim]]
+**related** ↔ [[aku-anunciar-pronto-para-moldear-las-simulaciones-futuras-claim]] · [[aku-dispersar-los-anuncios-en-el-tiempo-claim]]

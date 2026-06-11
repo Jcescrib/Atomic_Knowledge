@@ -31,6 +31,7 @@ relations:
   related:
     - aku-las-amenazas-captan-la-atencion-alta-activacion-claim
     - aku-usar-anuncios-negativos-para-captar-atencion-claim
+    - aku-dispersar-los-anuncios-en-el-tiempo-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -45,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-las-amenazas-captan-la-atencion-alta-activacion-claim]] · [[aku-usar-anuncios-negativos-para-captar-atencion-claim]]
+**related** ↔ [[aku-las-amenazas-captan-la-atencion-alta-activacion-claim]] · [[aku-usar-anuncios-negativos-para-captar-atencion-claim]] · [[aku-dispersar-los-anuncios-en-el-tiempo-claim]]

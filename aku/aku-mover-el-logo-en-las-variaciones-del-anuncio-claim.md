@@ -31,6 +31,7 @@ relations:
   related:
     - aku-insertar-un-bloqueo-a-la-derecha-del-anuncio-claim
     - aku-posicionar-las-imagenes-a-la-izquierda-del-anuncio-claim
+    - aku-dispersar-los-anuncios-en-el-tiempo-claim
 
 sources:
   - raw/libros/kolenda/ad-psychology2/ad-psychology2.md
@@ -45,4 +46,4 @@ status_note: ""
 
 **supports** → [[aku-advertising-psychology-captar-atencion-facilitar-simulacion-y-ser-recordado-concept]]
 
-**related** ↔ [[aku-insertar-un-bloqueo-a-la-derecha-del-anuncio-claim]] · [[aku-posicionar-las-imagenes-a-la-izquierda-del-anuncio-claim]]
+**related** ↔ [[aku-insertar-un-bloqueo-a-la-derecha-del-anuncio-claim]] · [[aku-posicionar-las-imagenes-a-la-izquierda-del-anuncio-claim]] · [[aku-dispersar-los-anuncios-en-el-tiempo-claim]]

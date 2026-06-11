@@ -35,6 +35,7 @@ relations:
     - aku-methods-step7-sostener-su-cumplimiento-concept
     - aku-methods-step1-moldear-la-percepcion-concept
     - aku-methods-step2-elicitar-actitudes-congruentes-concept
+    - aku-dispersar-los-anuncios-en-el-tiempo-claim
 
 sources:
   - raw/libros/kolenda/audiobook-images-methods-of-persuasion/audiobook-images-methods-of-persuasion.md
@@ -50,4 +51,4 @@ status_note: "Fuente = stub de imagenes del audiolibro; anclado en Figure 0.1 (f
 
 **supports** → [[aku-methods-proceso-de-persuasion-en-siete-pasos-concept]]
 
-**related** ↔ [[aku-methods-step5-optimizar-tu-mensaje-concept]] · [[aku-methods-step3-activar-presion-social-concept]] · [[aku-methods-step6-impulsar-su-momentum-concept]] · [[aku-methods-step7-sostener-su-cumplimiento-concept]] · [[aku-methods-step1-moldear-la-percepcion-concept]] · [[aku-methods-step2-elicitar-actitudes-congruentes-concept]]
+**related** ↔ [[aku-methods-step5-optimizar-tu-mensaje-concept]] · [[aku-methods-step3-activar-presion-social-concept]] · [[aku-methods-step6-impulsar-su-momentum-concept]] · [[aku-methods-step7-sostener-su-cumplimiento-concept]] · [[aku-methods-step1-moldear-la-percepcion-concept]] · [[aku-methods-step2-elicitar-actitudes-congruentes-concept]] · [[aku-dispersar-los-anuncios-en-el-tiempo-claim]]
