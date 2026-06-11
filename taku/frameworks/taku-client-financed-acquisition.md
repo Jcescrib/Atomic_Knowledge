@@ -12,41 +12,41 @@ when_not_to_use: "Si el LTGP:CAC es < 3:1 (arregla primero el modelo de negocio 
 aku_links:
   justified_by:
     - id: aku-client-financed-acquisition-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-ltgp-cac-3-a-1-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-tres-fases-escalar-ads-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-cac-payback-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-client-financed-acquisition-concept desde [power-mba] (cross-source)"
     - id: aku-cac-payback-financia-crecimiento-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-client-financed-acquisition-concept desde [power-mba] (cross-source)"
     - id: aku-motor-crecimiento-pago-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-client-financed-acquisition-concept desde [power-mba] (cross-source)"
     - id: aku-motor-crecimiento-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-client-financed-acquisition-concept desde [power-mba] (cross-source)"
     - id: aku-metricas-accionables-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-ltgp-cac-3-a-1-claim desde [power-mba] (cross-source)"
     - id: aku-cac-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-ltgp-cac-3-a-1-claim desde [power-mba] (cross-source)"
     - id: aku-cltv-subscription-formula
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-ltgp-cac-3-a-1-claim desde [power-mba] (cross-source)"
     - id: aku-cltv-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-ltgp-cac-3-a-1-claim desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-ads-eficiencia-vs-alcance-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
   breaks_when: []
   illustrates: []

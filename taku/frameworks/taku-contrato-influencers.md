@@ -12,10 +12,10 @@ when_not_to_use: "En colaboraciones gratuitas informales sin contraprestación n
 aku_links:
   justified_by:
     - id: aku-clausulas-contrato-influencers-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Define el conjunto de cláusulas que debe contener el contrato."
     - id: aku-colaboraciones-influencers-pagadas-vs-gratuitas-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "El contrato es lo que da control en las colaboraciones pagadas."
   constrained_by: []
   breaks_when: []

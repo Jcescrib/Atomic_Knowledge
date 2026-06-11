@@ -12,40 +12,40 @@ when_not_to_use: "Sin un producto probado ni capacidad de pagar comisiones y dar
 aku_links:
   justified_by:
     - id: aku-oferta-al-afiliado-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-payout-afiliados-tiers-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-whisper-tease-shout-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-marketing-afiliados-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-cltv-cac-ratio-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-payout-afiliados-tiers-concept desde [power-mba] (cross-source)"
     - id: aku-launch-then-integrate-afiliados-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-marketing-afiliados-concept desde [hormozi] (cross-source)"
     - id: aku-affiliate-hormozi-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-marketing-afiliados-concept desde [hormozi] (cross-source)"
     - id: aku-construir-affiliate-army-seis-pasos-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-marketing-afiliados-concept desde [hormozi] (cross-source)"
     - id: aku-agencia-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-marketing-afiliados-concept desde [hormozi] (cross-source)"
     - id: aku-pagar-afiliados-forever-no-cap-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-marketing-afiliados-concept desde [hormozi] (cross-source)"
     - id: aku-cuatro-fortalezas-lead-getters-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-marketing-afiliados-concept desde [hormozi] (cross-source)"
     - id: aku-afiliado-ideal-quien-tiene-mis-leads-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-marketing-afiliados-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []

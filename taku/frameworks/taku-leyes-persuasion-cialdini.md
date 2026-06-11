@@ -17,34 +17,34 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-leyes-persuasion-cialdini-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Los siete principios."
     - id: aku-emocion-prevalece-razon-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Base: la decisión de compra es más emocional que racional."
     - id: aku-methods-proceso-de-persuasion-en-siete-pasos-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [kolenda] (cross-source)"
     - id: aku-scarcity-limited-bonuses-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [hormozi] (cross-source)"
     - id: aku-anadir-una-contingencia-simple-a-tu-oferta-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [kolenda] (cross-source)"
     - id: aku-landing-page-permiso-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [hormozi] (cross-source)"
     - id: aku-scarcity-limited-seats-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [hormozi] (cross-source)"
     - id: aku-methods-step3-activar-presion-social-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [kolenda] (cross-source)"
     - id: aku-programar-una-interaccion-futura-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [kolenda] (cross-source)"
     - id: aku-tipos-y-tacticas-escasez-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-leyes-persuasion-cialdini-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []

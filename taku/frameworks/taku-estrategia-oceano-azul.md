@@ -21,40 +21,40 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-oceano-azul-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "El concepto que el marco persigue crear."
     - id: aku-oceano-rojo-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "El contraste que motiva la búsqueda del océano azul."
     - id: aku-innovacion-valor-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "La fórmula central: más valor + menos coste simultáneamente."
     - id: aku-curva-valor-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Herramienta de diagnóstico inicial."
     - id: aku-matriz-rice-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Herramienta de rediseño (Reducir/Eliminar/Incrementar/Crear)."
     - id: aku-no-clientes-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "La segunda palanca del marco: dirigirse a no-clientes."
     - id: aku-factores-competitivos-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Vocabulario base para construir la curva de valor."
     - id: aku-empresas-borregos-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Diagnóstico de por qué los sectores se tiñen de rojo."
     - id: aku-mas-valor-menos-coste-no-tradeoff-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Claim que rechaza el trade-off tradicional valor-coste."
     - id: aku-grand-slam-offer-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-innovacion-valor-concept desde [hormozi] (cross-source)"
     - id: aku-ampliar-gap-valor-precio-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-innovacion-valor-concept desde [hormozi] (cross-source)"
     - id: aku-value-equation-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-matriz-rice-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []

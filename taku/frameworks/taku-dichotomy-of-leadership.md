@@ -12,16 +12,16 @@ when_not_to_use: "No es una fórmula fija: el punto de equilibrio depende del co
 aku_links:
   justified_by:
     - id: aku-dichotomy-of-leadership-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-lider-se-desvia-por-inclinarse-demasiado-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-balance-ownership-decentralized-command-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-el-liderazgo-eficaz-adapta-la-tactica-a-cada-persona-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-dichotomy-of-leadership-concept desde [50-cent] (cross-source)"
   constrained_by: []
   breaks_when: []

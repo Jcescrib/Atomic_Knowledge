@@ -12,43 +12,43 @@ when_not_to_use: "Como esquema para hacerse rico rápido, o en contextos donde n
 aku_links:
   justified_by:
     - id: aku-armate-con-specific-knowledge-accountability-y-leverage-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-specific-knowledge-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-leverage-multiplicador-de-juicio-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-productize-yourself-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-specific-knowledge-concept desde [james-clear] (cross-source)"
     - id: aku-apalancamiento-financiero-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-leverage-multiplicador-de-juicio-concept desde [power-mba] (cross-source)"
     - id: aku-palanca-vence-fuerza-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-leverage-multiplicador-de-juicio-concept desde [jocko] (cross-source)"
     - id: aku-leverage-leads-por-tiempo-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-leverage-multiplicador-de-juicio-concept desde [hormozi] (cross-source)"
     - id: aku-overload-principle-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-productize-yourself-concept desde [jocko] (cross-source)"
     - id: aku-pedir-equity-es-apostar-por-ti-mismo-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim desde [50-cent] (cross-source)"
     - id: aku-quien-te-emplea-siempre-intentara-pagarte-menos-de-lo-que-vales-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim desde [50-cent] (cross-source)"
     - id: aku-roe-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-no-te-haces-rico-alquilando-tu-tiempo-debes-poseer-equity-claim desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []

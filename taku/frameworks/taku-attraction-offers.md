@@ -12,34 +12,34 @@ when_not_to_use: "Si tu producto no entrega valor real (los descuentos no salvan
 aku_links:
   justified_by:
     - id: aku-attraction-offer-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-win-your-money-back-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-decoy-offer-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-buy-x-get-y-free-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-pay-less-now-or-more-later-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-modelo-free-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-attraction-offer-concept desde [power-mba] (cross-source)"
     - id: aku-lead-magnet-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-attraction-offer-concept desde [power-mba] (cross-source)"
     - id: aku-sacrificio-real-vs-decoy-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-decoy-offer-concept desde [jocko] (cross-source)"
     - id: aku-evaluamos-por-comparaciones-relativas-context-effects-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-decoy-offer-concept desde [kolenda] (cross-source)"
     - id: aku-modelo-freemium-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-buy-x-get-y-free-concept desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []

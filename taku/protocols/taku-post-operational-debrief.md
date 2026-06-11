@@ -12,13 +12,13 @@ when_not_to_use: "No aplica como sustituto de la corrección en tiempo real dura
 aku_links:
   justified_by:
     - id: aku-post-operational-debrief-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-analisis-constante-medir-efectividad-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-establece-un-sistema-de-reflexion-y-revision-de-tus-habitos-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-post-operational-debrief-method desde [james-clear] (cross-source)"
   constrained_by: []
   breaks_when: []

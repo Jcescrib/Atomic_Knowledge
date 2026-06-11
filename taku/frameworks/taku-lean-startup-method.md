@@ -25,64 +25,64 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-lean-startup-method-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "El concepto meta que el framework operacionaliza."
     - id: aku-innovar-vs-competir-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Define cuándo aplica el marco vs cuándo no."
     - id: aku-build-measure-learn-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "El ciclo iterativo central."
     - id: aku-hipotesis-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Paso explícito antes del MVP."
     - id: aku-mvp-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Vehículo del experimento."
     - id: aku-aprendizaje-validado-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Output del ciclo y única medida real de progreso."
     - id: aku-product-market-fit-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Objetivo de la fase de innovación."
     - id: aku-metricas-accionables-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Las métricas que importan en esta fase."
     - id: aku-metricas-vanidosas-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Las que NO importan en esta fase — contraste explícito."
     - id: aku-asumir-equivocarse-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Disposición epistémica central."
     - id: aku-aprender-clientes-reales-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Restricción epistémica sobre la fuente del aprendizaje."
     - id: aku-no-dar-supuesto-hipotesis-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Anti-patrón estructural que el marco previene."
     - id: aku-no-hay-solucion-100-correcta-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-lean-startup-method-concept desde [jocko] (cross-source)"
     - id: aku-iterative-decision-making-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-innovar-vs-competir-concept desde [jocko] (cross-source)"
     - id: aku-decisiveness-amid-uncertainty-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-innovar-vs-competir-concept desde [jocko] (cross-source)"
     - id: aku-paso-pequeno-reevaluar-ante-incertidumbre-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-lean-startup-method-concept desde [jocko] (cross-source)"
     - id: aku-billing-cadence-reduce-churn
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-metricas-accionables-concept desde [hormozi] (cross-source)"
     - id: aku-ltgp-cac-3-a-1-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-metricas-accionables-concept desde [hormozi] (cross-source)"
     - id: aku-lead-magnet-reduce-cac-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-metricas-accionables-concept desde [hormozi] (cross-source)"
     - id: aku-humildad-asumir-errores-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-asumir-equivocarse-claim desde [jocko] (cross-source)"
   constrained_by: []
   breaks_when: []

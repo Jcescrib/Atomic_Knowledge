@@ -12,34 +12,34 @@ when_not_to_use: "Para compararte con otras personas o como sello de estatus alc
 aku_links:
   justified_by:
     - id: aku-the-evaluation-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-evaluation-scoring-0-5-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-the-code-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-eminently-qualified-human-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-autoevaluacion-cuerpo-mente-alma-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-the-evaluation-concept desde [power-mba] (cross-source)"
     - id: aku-sistemas-vs-metas-en-atomic-habits-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-the-evaluation-concept desde [james-clear] (cross-source)"
     - id: aku-claridad-objetivos-fortalezas-exito-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-the-evaluation-concept desde [power-mba] (cross-source)"
     - id: aku-tres-capas-liderazgo-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-the-code-concept desde [power-mba] (cross-source)"
     - id: aku-objetivos-personales-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-eminently-qualified-human-concept desde [power-mba] (cross-source)"
     - id: aku-habitos-mas-practica-deliberada-igual-maestria-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-eminently-qualified-human-concept desde [james-clear] (cross-source)"
   constrained_by: []
   breaks_when: []

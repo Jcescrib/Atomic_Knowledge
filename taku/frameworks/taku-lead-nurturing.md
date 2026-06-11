@@ -17,41 +17,41 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-lead-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Qué es un lead y cuándo un contacto lo es."
     - id: aku-lead-nurturing-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Aportar valor para acercar el lead a la compra."
     - id: aku-lead-scoring-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Priorizar leads por probabilidad de compra."
     - id: aku-marketing-automation-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Automatizar el nurturing con CRM y workflows."
     - id: aku-engaged-lead-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-lead-concept desde [hormozi] (cross-source)"
     - id: aku-one-page-advertising-checklist-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-lead-concept desde [hormozi] (cross-source)"
     - id: aku-lead-contactable-hormozi-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-lead-concept desde [hormozi] (cross-source)"
     - id: aku-resolver-cada-problema-percibido-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-lead-nurturing-concept desde [hormozi] (cross-source)"
     - id: aku-solve-every-problem-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-lead-nurturing-concept desde [hormozi] (cross-source)"
     - id: aku-prioritize-and-execute-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-lead-scoring-concept desde [jocko] (cross-source)"
     - id: aku-volumen-cold-tres-palancas-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-marketing-automation-concept desde [hormozi] (cross-source)"
   constrained_by:
     - id: aku-nurturing-segun-complejidad-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "La intensidad del nurturing depende del precio/complejidad."
   breaks_when: []
   illustrates: []

@@ -16,7 +16,7 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-las-cuatro-cualidades-de-una-estrella-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "El marco completo: gran material + performer + apariencia única + personalidad fuerte."
   constrained_by: []
   breaks_when: []

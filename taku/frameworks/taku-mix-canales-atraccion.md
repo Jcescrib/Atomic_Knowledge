@@ -17,29 +17,29 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-canales-marketing-digital-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "El inventario de canales disponibles."
     - id: aku-inbound-marketing-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Atracción natural por contenido (lenta, sostenible, barata)."
     - id: aku-outbound-marketing-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Empuje con anuncios (rápido, medible, para validar)."
     - id: aku-performance-marketing-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Paid medible de respuesta casi instantánea."
     - id: aku-core-four-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-canales-marketing-digital-concept desde [hormozi] (cross-source)"
     - id: aku-content-nutre-toda-publicidad-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-inbound-marketing-concept desde [hormozi] (cross-source)"
     - id: aku-cold-outreach-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-outbound-marketing-concept desde [hormozi] (cross-source)"
   constrained_by:
     - id: aku-calidad-vs-cantidad-trafico-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Buscar siempre calidad Y cantidad."
   breaks_when: []
   illustrates: []

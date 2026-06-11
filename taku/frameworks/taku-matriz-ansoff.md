@@ -17,23 +17,23 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-matriz-ansoff-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Define los dos ejes y las cuatro estrategias."
     - id: aku-penetracion-mercado-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Cuadrante de menor riesgo."
     - id: aku-desarrollo-productos-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Producto nuevo, mercado actual."
     - id: aku-desarrollo-mercados-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Producto actual, mercado nuevo."
     - id: aku-diversificacion-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Cuadrante de mayor riesgo."
   constrained_by:
     - id: aku-riesgo-ansoff-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "El riesgo crece al alejarse del negocio actual."
   breaks_when: []
   illustrates: []

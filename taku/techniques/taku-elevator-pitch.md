@@ -16,13 +16,13 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-elevator-pitch-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Define el elevator pitch y sus plantillas."
     - id: aku-vender-una-accion-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "El pitch debe «vender» el interés en pocos segundos."
     - id: aku-hard-selling-producto-debil
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-vender-una-accion-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []

@@ -12,19 +12,19 @@ when_not_to_use: "Como etiqueta estática: las culturas reales mezclan arquetipo
 aku_links:
   justified_by:
     - id: aku-arquetipos-cultura-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Los 4 arquetipos y los 2 ejes."
     - id: aku-cultura-corporativa-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Qué es la cultura y de qué depende."
     - id: aku-estructura-cultura-siguen-estrategia-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "La cultura se activa para apoyar la estrategia."
     - id: aku-cultura-saludable-ventaja-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Una cultura sólida es factor diferenciador frente a competidores."
     - id: aku-cultura-ownership-resiste-perdida-lider-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-cultura-corporativa-concept desde [jocko] (cross-source)"
   constrained_by: []
   breaks_when: []

@@ -12,29 +12,29 @@ when_not_to_use: "Como primer paso sin reps de warm outreach; o si no estás dis
 aku_links:
   justified_by:
     - id: aku-cold-outreach-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-big-fast-value-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-cold-outreach-numbers-game-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-follow-up-volumen-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-outbound-marketing-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-cold-outreach-concept desde [power-mba] (cross-source)"
     - id: aku-lead-magnet-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-big-fast-value-claim desde [power-mba] (cross-source)"
     - id: aku-herramientas-growth-hacking-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-cold-outreach-numbers-game-claim desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-cold-outreach-ventajas-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
   breaks_when: []
   illustrates: []

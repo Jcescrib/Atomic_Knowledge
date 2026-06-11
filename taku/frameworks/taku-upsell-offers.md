@@ -12,23 +12,23 @@ when_not_to_use: "Antes de que el cliente perciba el problema que resuelve el up
 aku_links:
   justified_by:
     - id: aku-upsell-offer-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-cuatro-upsells-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-upsell-mayor-beneficio-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-un-numero-mayor-sugiere-un-producto-mas-avanzado-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-cuatro-upsells-concept desde [kolenda] (cross-source)"
     - id: aku-exponer-a-cualquier-numero-alto-eleva-el-precio-de-referencia-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-cuatro-upsells-concept desde [kolenda] (cross-source)"
   constrained_by:
     - id: aku-money-model-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
   breaks_when: []
   illustrates: []

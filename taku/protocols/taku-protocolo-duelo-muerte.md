@@ -12,19 +12,19 @@ when_not_to_use: "Para reprimir por completo el duelo o para hacerlo todo sobre 
 aku_links:
   justified_by:
     - id: aku-incluso-en-la-muerte-hay-good-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-detach-tactico-estrategico-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-proposito-personal-sostenibilidad-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-incluso-en-la-muerte-hay-good-claim desde [power-mba] (cross-source)"
     - id: aku-never-miss-twice-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim desde [james-clear] (cross-source)"
   constrained_by: []
   breaks_when: []

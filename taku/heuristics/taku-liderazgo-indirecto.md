@@ -12,22 +12,22 @@ when_not_to_use: "En emergencias, presión o indecisión del equipo: ahí toca l
 aku_links:
   justified_by:
     - id: aku-liderazgo-indirecto-supera-al-directo-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-dar-ordenes-solo-commanders-intent-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-liderazgo-situacional-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-liderazgo-indirecto-supera-al-directo-claim desde [power-mba] (cross-source)"
     - id: aku-48laws-16-use-absence-to-increase-respect-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-liderazgo-indirecto-supera-al-directo-claim desde [robert-greene] (cross-source)"
     - id: aku-estilos-autoritario-delegativo-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-dar-ordenes-solo-commanders-intent-claim desde [power-mba] (cross-source)"
     - id: aku-48laws-07-get-others-to-do-the-work-take-credit-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-dar-ordenes-solo-commanders-intent-claim desde [robert-greene] (cross-source)"
   constrained_by: []
   breaks_when: []

@@ -12,16 +12,16 @@ when_not_to_use: "Ante conductas ilegales/inmorales/no éticas: ahí hay que pla
 aku_links:
   justified_by:
     - id: aku-conform-to-influence-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-power-of-relationships-liderazgo-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-48laws-38-think-as-you-like-behave-like-others-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-conform-to-influence-claim desde [robert-greene] (cross-source)"
     - id: aku-48laws-43-work-on-hearts-and-minds-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-power-of-relationships-liderazgo-concept desde [robert-greene] (cross-source)"
   constrained_by: []
   breaks_when: []

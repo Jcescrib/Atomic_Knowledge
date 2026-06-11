@@ -12,10 +12,10 @@ when_not_to_use: "No sustituye el entrenamiento real ni el juicio legal sobre el
 aku_links:
   justified_by:
     - id: aku-immediate-action-drills-amenaza-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-defensa-propia-jerarquia-mente-correr-arma-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
   constrained_by: []
   breaks_when: []

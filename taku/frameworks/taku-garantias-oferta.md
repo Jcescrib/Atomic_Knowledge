@@ -12,26 +12,26 @@ when_not_to_use: "Para tapar un producto o un equipo de ventas malos: una garant
 aku_links:
   justified_by:
     - id: aku-garantia-reversion-riesgo-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-garantia-matematica-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-garantia-condicional-acciones-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-implied-guarantee-performance-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-marketing-afiliados-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-implied-guarantee-performance-concept desde [power-mba] (cross-source)"
     - id: aku-incentivos-simples-pocas-metricas-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-implied-guarantee-performance-concept desde [jocko] (cross-source)"
   constrained_by:
     - id: aku-clientes-por-garantia-toxicos-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
   breaks_when: []
   illustrates: []

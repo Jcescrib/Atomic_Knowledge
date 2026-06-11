@@ -16,13 +16,13 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-pitch-deck-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "La estructura de secciones del deck."
     - id: aku-criterios-inversion-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "El deck debe responder a los criterios del inversor."
     - id: aku-levantar-financiacion-como-ventas-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "El deck es la herramienta de «venta» del proyecto."
   constrained_by: []
   breaks_when: []

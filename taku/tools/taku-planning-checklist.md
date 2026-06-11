@@ -12,19 +12,19 @@ when_not_to_use: "Para tareas triviales o reactivas inmediatas donde la planific
 aku_links:
   justified_by:
     - id: aku-leaders-checklist-planning-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-planning-process-estandarizado-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-priorizar-3-4-contingencias-mas-probables-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-formato-contenido-checklist-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-planning-process-estandarizado-concept desde [power-mba] (cross-source)"
     - id: aku-implementation-intention-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-planning-process-estandarizado-concept desde [james-clear] (cross-source)"
   constrained_by: []
   breaks_when: []

@@ -12,13 +12,13 @@ when_not_to_use: "Como decisión puramente teórica desligada de la estrategia y
 aku_links:
   justified_by:
     - id: aku-estructuras-organizacionales-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Las 4 estructuras y sus pros/contras."
     - id: aku-estructura-cultura-siguen-estrategia-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Se elige la estructura que sigue a la estrategia."
     - id: aku-empleados-lead-getters-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-estructuras-organizacionales-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []

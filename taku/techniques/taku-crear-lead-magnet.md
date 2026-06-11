@@ -12,44 +12,44 @@ when_not_to_use: "Si anunciar directamente el core offer ya engancha suficientes
 aku_links:
   justified_by:
     - id: aku-lead-magnet-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-tipos-lead-magnet-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-problem-solution-cycle-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-give-away-secrets-sell-implementation-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-lead-magnet-prueba-producto-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-tipos-lead-magnet-concept desde [power-mba] (cross-source)"
     - id: aku-attraction-offer-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-lead-magnet-concept desde [hormozi] (cross-source)"
     - id: aku-lead-magnet-cuatro-funciones-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-lead-magnet-concept desde [hormozi] (cross-source)"
     - id: aku-lead-magnet-multiples-formatos-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-lead-magnet-concept desde [hormozi] (cross-source)"
     - id: aku-core-offer-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-lead-magnet-concept desde [hormozi] (cross-source)"
     - id: aku-scarcity-real-etica-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-lead-magnet-concept desde [hormozi] (cross-source)"
     - id: aku-lead-magnet-siete-pasos-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-lead-magnet-concept desde [hormozi] (cross-source)"
     - id: aku-lead-magnet-reduce-cac-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-lead-magnet-concept desde [hormozi] (cross-source)"
   constrained_by:
     - id: aku-lead-magnet-reduce-cac-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
   breaks_when: []
   illustrates: []

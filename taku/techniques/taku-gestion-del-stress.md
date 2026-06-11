@@ -12,13 +12,13 @@ when_not_to_use: "No sustituye la acción sobre las causas controlables: si pued
 aku_links:
   justified_by:
     - id: aku-gestionar-stress-detach-y-perspectiva-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-detach-tactico-estrategico-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-cuando-aplicar-tests-personalidad-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-gestionar-stress-detach-y-perspectiva-method desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []

@@ -17,31 +17,31 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-cro-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Define el CRO y su importancia."
     - id: aku-proceso-cro-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Los cinco pasos del proceso."
     - id: aku-cuello-botella-funnel-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Dónde priorizar la optimización."
     - id: aku-piramide-conversion-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Apuntalar lo funcional antes que lo persuasivo."
     - id: aku-ab-testing-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Herramienta de experimentación."
     - id: aku-constraint-mayor-drop-off-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-cro-concept desde [hormozi] (cross-source)"
     - id: aku-reversion-riesgo-numero-uno-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-proceso-cro-method desde [hormozi] (cross-source)"
     - id: aku-money-model-rompe-cash-bottleneck
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-cuello-botella-funnel-concept desde [hormozi] (cross-source)"
     - id: aku-ecommerce-psychology-optimizar-el-funnel-via-simulacion-de-compra-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-cuello-botella-funnel-concept desde [kolenda] (cross-source)"
   constrained_by: []
   breaks_when: []

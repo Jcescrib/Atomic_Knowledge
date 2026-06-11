@@ -12,19 +12,19 @@ when_not_to_use: "No para manipular ni para validar emociones destructivas: el f
 aku_links:
   justified_by:
     - id: aku-reflect-and-diminish-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-no-sobrerreaccionar-mantener-la-calma-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-reflect-and-diminish-method desde [james-clear] (cross-source)"
     - id: aku-48laws-44-mirror-effect-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-reflect-and-diminish-method desde [robert-greene] (cross-source)"
     - id: aku-48laws-39-stir-up-waters-to-catch-fish-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-no-sobrerreaccionar-mantener-la-calma-claim desde [robert-greene] (cross-source)"
   constrained_by: []
   breaks_when: []

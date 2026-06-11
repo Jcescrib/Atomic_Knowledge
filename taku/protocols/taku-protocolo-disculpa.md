@@ -12,37 +12,37 @@ when_not_to_use: "Para medias disculpas con tono de cumplir el trámite, sacar a
 aku_links:
   justified_by:
     - id: aku-humildad-asumir-errores-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-extreme-ownership-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-el-ego-mas-dificil-es-el-propio-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-humildad-asumir-errores-claim desde [50-cent] (cross-source)"
     - id: aku-asumir-equivocarse-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-humildad-asumir-errores-claim desde [power-mba] (cross-source)"
     - id: aku-instila-y-exige-disciplina-tolerancia-cero-al-conflicto-interno-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-extreme-ownership-concept desde [50-cent] (cross-source)"
     - id: aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-extreme-ownership-concept desde [50-cent] (cross-source)"
     - id: aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-extreme-ownership-concept desde [50-cent] (cross-source)"
     - id: aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-extreme-ownership-concept desde [50-cent] (cross-source)"
     - id: aku-el-deseo-y-el-ego-nublan-la-realidad-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-el-ego-mas-dificil-es-el-propio-claim desde [naval] (cross-source)"
     - id: aku-la-insignificancia-del-yo-ayuda-a-la-felicidad-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-el-ego-mas-dificil-es-el-propio-claim desde [naval] (cross-source)"
   constrained_by: []
   breaks_when: []

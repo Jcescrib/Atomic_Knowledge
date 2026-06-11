@@ -12,13 +12,13 @@ when_not_to_use: "Como sustituto del análisis cualitativo o cuando no hay objet
 aku_links:
   justified_by:
     - id: aku-plan-de-medicion-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Define los cinco bloques del plan de medición."
     - id: aku-objetivos-negocio-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "El plan parte de los objetivos de negocio."
     - id: aku-ley-de-goodhart-cuando-una-medida-se-vuelve-objetivo-deja-de-ser-buena-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-plan-de-medicion-concept desde [james-clear] (cross-source)"
   constrained_by: []
   breaks_when: []

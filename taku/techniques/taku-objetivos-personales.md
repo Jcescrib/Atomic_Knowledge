@@ -12,25 +12,25 @@ when_not_to_use: "Como sustituto de objetivos operativos del día a día; es una
 aku_links:
   justified_by:
     - id: aku-objetivos-personales-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Define las 9 dimensiones y el enfoque de 4 pasos."
     - id: aku-compartir-objetivos-compromiso-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Justifica el paso de compartir: aumenta el compromiso."
     - id: aku-eminently-qualified-human-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-objetivos-personales-concept desde [jocko] (cross-source)"
     - id: aku-tu-vision-debe-evolucionar-y-escalar-con-el-tiempo-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-objetivos-personales-concept desde [50-cent] (cross-source)"
     - id: aku-evaluation-relationship-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-objetivos-personales-concept desde [jocko] (cross-source)"
     - id: aku-habit-contract-y-accountability-partner-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-compartir-objetivos-compromiso-claim desde [james-clear] (cross-source)"
     - id: aku-los-vision-boards-materializan-las-metas-y-elevan-su-probabilidad-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-compartir-objetivos-compromiso-claim desde [50-cent] (cross-source)"
   constrained_by: []
   breaks_when: []

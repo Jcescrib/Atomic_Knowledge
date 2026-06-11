@@ -12,31 +12,31 @@ when_not_to_use: "Como excusa para vengarte o humillar a la otra persona, o para
 aku_links:
   justified_by:
     - id: aku-detach-tactico-estrategico-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-good-mindset-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-never-miss-twice-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim desde [james-clear] (cross-source)"
     - id: aku-la-adversidad-temprana-forja-una-resiliencia-que-el-privilegio-no-da-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-good-mindset-concept desde [50-cent] (cross-source)"
     - id: aku-mentalidad-de-hustler-lo-recupero-en-la-siguiente-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-good-mindset-concept desde [50-cent] (cross-source)"
     - id: aku-cambiar-aceptar-o-dejar-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-good-mindset-concept desde [naval] (cross-source)"
     - id: aku-reencuadra-tus-habitos-de-have-to-a-get-to-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-good-mindset-concept desde [james-clear] (cross-source)"
     - id: aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-good-mindset-concept desde [50-cent] (cross-source)"
   constrained_by: []
   breaks_when: []

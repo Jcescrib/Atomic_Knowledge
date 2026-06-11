@@ -18,10 +18,10 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-ciclo-vida-producto-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Define las cuatro fases y sus dinámicas."
     - id: aku-early-adopter-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "La fase de introducción se sostiene sobre early adopters."
   constrained_by: []
   breaks_when: []

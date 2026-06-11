@@ -12,29 +12,29 @@ when_not_to_use: "Como attraction offer en solitario (deja poco cash hoy); o par
 aku_links:
   justified_by:
     - id: aku-continuity-offer-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-tres-continuity-offers-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-entorno-de-recompensa-inmediata-vs-diferida-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-continuity-offer-concept desde [james-clear] (cross-source)"
     - id: aku-cltv-subscription-formula
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-continuity-offer-concept desde [power-mba] (cross-source)"
     - id: aku-churn-rate-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-continuity-offer-concept desde [power-mba] (cross-source)"
     - id: aku-dividir-el-precio-en-unidades-mas-pequenas-partitioned-prices-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-continuity-offer-concept desde [kolenda] (cross-source)"
     - id: aku-fidelizacion-vs-retencion-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-continuity-offer-concept desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-churn-rate-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
   breaks_when: []
   illustrates: []

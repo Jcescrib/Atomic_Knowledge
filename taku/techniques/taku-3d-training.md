@@ -12,20 +12,20 @@ when_not_to_use: "Para roles altamente creativos o de juicio sin pasos reproduci
 aku_links:
   justified_by:
     - id: aku-document-demonstrate-duplicate-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-empleados-lead-getters-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-entrenamiento-realismo-fundamentos-repeticion-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-document-demonstrate-duplicate-concept desde [jocko] (cross-source)"
     - id: aku-estructuras-organizacionales-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-empleados-lead-getters-concept desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-negocio-sin-ti-es-activo-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
   breaks_when: []
   illustrates: []

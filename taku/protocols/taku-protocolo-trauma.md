@@ -12,37 +12,37 @@ when_not_to_use: "Como sustituto de la ayuda profesional cuando esta es necesari
 aku_links:
   justified_by:
     - id: aku-buscar-ayuda-profesional-sin-que-el-ego-lo-impida-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-good-mindset-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-extreme-ownership-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-good-mindset-concept desde [50-cent] (cross-source)"
     - id: aku-la-adversidad-temprana-forja-una-resiliencia-que-el-privilegio-no-da-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-good-mindset-concept desde [50-cent] (cross-source)"
     - id: aku-mentalidad-de-hustler-lo-recupero-en-la-siguiente-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-good-mindset-concept desde [50-cent] (cross-source)"
     - id: aku-cambiar-aceptar-o-dejar-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-good-mindset-concept desde [naval] (cross-source)"
     - id: aku-reencuadra-tus-habitos-de-have-to-a-get-to-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-good-mindset-concept desde [james-clear] (cross-source)"
     - id: aku-instila-y-exige-disciplina-tolerancia-cero-al-conflicto-interno-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-extreme-ownership-concept desde [50-cent] (cross-source)"
     - id: aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-extreme-ownership-concept desde [50-cent] (cross-source)"
     - id: aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-extreme-ownership-concept desde [50-cent] (cross-source)"
   constrained_by: []
   breaks_when: []

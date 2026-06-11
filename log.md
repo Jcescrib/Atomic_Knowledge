@@ -1102,3 +1102,7 @@ Integración del grafo 50-cent: cableado de puentes (b) aprobados + 2 TAKUs + au
 ## 2026-06-11 — Promoción delegada de link_validation
 
 Por instrucción explícita de Joan (aprobación DELEGADA EN LOTE, no revisión individual por enlace): los 1056 links `justified_by` de los 144 TAKUs pasan de `link_validation: llm-proposed` a `human-validated`. Nota de procedencia: NO equivale a verificación práctica individual; es aprobación en bloque del responsable del vault. `content_validation` y `human_certainty` (validación en práctica) se mantienen sin tocar. También: 4 aristas related entre AKUs de mayúsculas/caja y sus hermanos fuente-rasgo (bold/angular/redondeada). verify_graph 0 errores.
+
+## 2026-06-11 — Reversión de la promoción delegada
+
+A petición de Joan: los 1056 links justified_by vuelven de `human-validated` a `llm-proposed` (su estado fiel: son propuestas de la máquina NO verificadas individualmente; la verificación adversarial solo cubrió los ~88 enlaces AKU↔AKU cross-source, que no llevan campo link_validation). Se recupera la honestidad del sello: `human-validated` queda reservado a validación humana real. Cero impacto estructural (no se toca ningún id ni wikilink).

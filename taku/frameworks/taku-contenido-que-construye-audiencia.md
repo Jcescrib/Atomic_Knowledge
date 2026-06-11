@@ -12,32 +12,32 @@ when_not_to_use: "Si buscas leads inmediatos y medibles a corto plazo (el conten
 aku_links:
   justified_by:
     - id: aku-content-unit-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-content-hook-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-content-retain-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-give-ask-ratio-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-copy-incluir-titular-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-content-hook-concept desde [power-mba] (cross-source)"
     - id: aku-formulas-titulos-potentes-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-content-hook-concept desde [power-mba] (cross-source)"
     - id: aku-estilo-editorial-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-content-retain-concept desde [power-mba] (cross-source)"
     - id: aku-a-veces-el-mejor-modo-de-extraer-valor-es-no-regatear-al-maximo-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-give-ask-ratio-claim desde [50-cent] (cross-source)"
   constrained_by:
     - id: aku-content-reward-valor-por-segundo-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
   breaks_when: []
   illustrates: []

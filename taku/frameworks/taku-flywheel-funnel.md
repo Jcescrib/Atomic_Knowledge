@@ -16,16 +16,16 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-flywheel-funnel-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Define el flywheel, sus fases y palancas."
     - id: aku-fidelizacion-vs-retencion-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "El objetivo central del flywheel es fidelizar/retener."
     - id: aku-continuity-offer-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-fidelizacion-vs-retencion-concept desde [hormozi] (cross-source)"
     - id: aku-facilitar-cancelacion
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-fidelizacion-vs-retencion-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []

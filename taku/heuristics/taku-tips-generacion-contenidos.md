@@ -12,34 +12,34 @@ when_not_to_use: "Como sustituto de una estrategia de distribución/paid o cuand
 aku_links:
   justified_by:
     - id: aku-define-publico-objetivo-antes-de-generar-contenido-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Regla previa: definir a quién va dirigido antes de producir nada."
     - id: aku-aportar-valor-es-clave-del-contenido-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Núcleo: el contenido debe aportar valor real, no solo promocionar."
     - id: aku-titulos-llamativos-cortos-evita-clickbait-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Títulos llamativos y cortos, evitando el clickbait que rompe confianza."
     - id: aku-regularidad-importa-mas-que-frecuencia-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "La regularidad sostenida pesa más que la frecuencia alta puntual."
     - id: aku-agrupa-contenido-en-series-tematicas-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Agrupar el contenido en series temáticas para enganchar y dar continuidad."
     - id: aku-aprende-que-contenido-funciona-y-replica-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Medir qué contenido funciona y replicar el patrón ganador."
     - id: aku-inspirate-en-contenido-de-calidad-de-otros-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Inspirarse en contenido de calidad de referentes para elevar el propio."
     - id: aku-audiencia-activo-compuesto-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-regularidad-importa-mas-que-frecuencia-claim desde [hormozi] (cross-source)"
     - id: aku-puddles-ponds-lakes-oceans-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-agrupa-contenido-en-series-tematicas-claim desde [hormozi] (cross-source)"
     - id: aku-replicar-acciones-mejores-clientes-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-aprende-que-contenido-funciona-y-replica-claim desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []

@@ -12,44 +12,44 @@ when_not_to_use: "Cuando persigues deliberadamente penetración de mercado a pé
 aku_links:
   justified_by:
     - id: aku-virtuous-cycle-of-price-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-ampliar-gap-valor-precio-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-precio-alto-aumenta-valor-percibido-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-profit-is-oxygen-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-reducir-costes-no-precio-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-virtuous-cycle-of-price-claim desde [power-mba] (cross-source)"
     - id: aku-mostrar-precios-altos-antes-que-bajos-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-virtuous-cycle-of-price-claim desde [kolenda] (cross-source)"
     - id: aku-circulo-virtuoso-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-virtuous-cycle-of-price-claim desde [power-mba] (cross-source)"
     - id: aku-circulo-vicioso-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-virtuous-cycle-of-price-claim desde [power-mba] (cross-source)"
     - id: aku-valor-independiente-usuarios-modelo-lineal-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-virtuous-cycle-of-price-claim desde [power-mba] (cross-source)"
     - id: aku-ecuacion-valor-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-ampliar-gap-valor-precio-claim desde [power-mba] (cross-source)"
     - id: aku-innovacion-valor-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-ampliar-gap-valor-precio-claim desde [power-mba] (cross-source)"
     - id: aku-innovacion-valor-via-eric-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-ampliar-gap-valor-precio-claim desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-clientes-invertidos-mejores-resultados-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
   breaks_when: []
   illustrates: []

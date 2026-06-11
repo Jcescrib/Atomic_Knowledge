@@ -12,50 +12,50 @@ when_not_to_use: "Antes de haber validado el mercado; o cuando el cuello de bote
 aku_links:
   justified_by:
     - id: aku-value-equation-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-problemas-a-soluciones-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-trim-and-stack-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-delivery-cube-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-grand-slam-offer-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-ecuacion-valor-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-value-equation-concept desde [power-mba] (cross-source)"
     - id: aku-matriz-rice-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-value-equation-concept desde [power-mba] (cross-source)"
     - id: aku-propuesta-de-valor-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-value-equation-concept desde [power-mba] (cross-source)"
     - id: aku-conversacion-mente-cliente-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-problemas-a-soluciones-concept desde [power-mba] (cross-source)"
     - id: aku-formato-contenido-video-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-delivery-cube-concept desde [power-mba] (cross-source)"
     - id: aku-elegir-el-medio-de-comunicacion-adecuado-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-delivery-cube-concept desde [kolenda] (cross-source)"
     - id: aku-lead-magnet-curso-gratuito-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-delivery-cube-concept desde [power-mba] (cross-source)"
     - id: aku-formato-contenido-caso-exito-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-delivery-cube-concept desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-solve-every-problem-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-sales-fulfillment-continuum-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
   breaks_when: []
   illustrates: []

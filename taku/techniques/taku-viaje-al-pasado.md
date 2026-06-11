@@ -12,16 +12,16 @@ when_not_to_use: "Cuando ya tienes alta claridad sobre tus motivaciones y necesi
 aku_links:
   justified_by:
     - id: aku-motivaciones-desde-experiencias-pasadas-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "La técnica operacionaliza la inferencia de motivaciones desde el pasado."
     - id: aku-diagnostico-estrategico-personal-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Herramienta del diagnóstico para conocer motivaciones."
     - id: aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-motivaciones-desde-experiencias-pasadas-concept desde [james-clear] (cross-source)"
     - id: aku-conocer-tu-valor-y-extraer-el-maximo-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-diagnostico-estrategico-personal-concept desde [50-cent] (cross-source)"
   constrained_by: []
   breaks_when: []

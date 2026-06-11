@@ -12,40 +12,40 @@ when_not_to_use: "Como sustituto de la ayuda profesional cuando esta es necesari
 aku_links:
   justified_by:
     - id: aku-buscar-ayuda-profesional-sin-que-el-ego-lo-impida-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-extreme-ownership-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-disciplina-se-extiende-a-todo-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-caer-del-path-es-inevitable-lo-decisivo-es-volver-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-instila-y-exige-disciplina-tolerancia-cero-al-conflicto-interno-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-extreme-ownership-concept desde [50-cent] (cross-source)"
     - id: aku-toma-responsabilidad-total-incluso-de-lo-que-no-fue-tu-culpa-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-extreme-ownership-concept desde [50-cent] (cross-source)"
     - id: aku-admitir-que-te-equivocaste-es-el-primer-paso-para-aprender-del-error-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-extreme-ownership-concept desde [50-cent] (cross-source)"
     - id: aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-extreme-ownership-concept desde [50-cent] (cross-source)"
     - id: aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-extreme-ownership-concept desde [50-cent] (cross-source)"
     - id: aku-una-emocion-es-biologia-prediciendo-el-futuro-a-menudo-exagerada-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-disciplina-se-extiende-a-todo-claim desde [naval] (cross-source)"
     - id: aku-tu-apariencia-fisica-comunica-disciplina-antes-de-hablar-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-disciplina-se-extiende-a-todo-claim desde [50-cent] (cross-source)"
     - id: aku-autoevaluacion-cuerpo-mente-alma-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-disciplina-se-extiende-a-todo-claim desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []

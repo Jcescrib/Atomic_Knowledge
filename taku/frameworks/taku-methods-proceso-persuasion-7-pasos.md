@@ -12,37 +12,37 @@ when_not_to_use: "Para una interacción puntual sin preparación previa posible,
 aku_links:
   justified_by:
     - id: aku-methods-proceso-de-persuasion-en-siete-pasos-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "El framework completo de 7 pasos."
     - id: aku-el-priming-influye-en-la-conducta-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Mecanismo del paso 2 (elicitar actitudes)."
     - id: aku-methods-step1-moldear-la-percepcion-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Fase ANTES: moldear percepción."
     - id: aku-methods-step3-activar-presion-social-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Fase ANTES: presión social."
     - id: aku-methods-step5-optimizar-tu-mensaje-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Fase DURANTE: optimizar mensaje."
     - id: aku-leyes-persuasion-cialdini-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-methods-proceso-de-persuasion-en-siete-pasos-concept desde [power-mba] (cross-source)"
     - id: aku-system-1-vs-system-2-solo-somos-racionales-tras-ser-emocionales-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-el-priming-influye-en-la-conducta-claim desde [james-clear] (cross-source)"
     - id: aku-perception-is-reality-value-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-methods-step1-moldear-la-percepcion-concept desde [hormozi] (cross-source)"
     - id: aku-el-toque-ligero-en-el-antebrazo-aumenta-el-acuerdo-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-methods-step1-moldear-la-percepcion-concept desde [50-cent] (cross-source)"
     - id: aku-la-conducta-normal-de-la-tribu-vence-a-la-deseada-del-individuo-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-methods-step3-activar-presion-social-concept desde [james-clear] (cross-source)"
     - id: aku-cialdini-prueba-social-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-methods-step3-activar-presion-social-concept desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []

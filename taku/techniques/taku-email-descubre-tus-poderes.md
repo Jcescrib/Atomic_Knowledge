@@ -12,19 +12,19 @@ when_not_to_use: "Cuando no tienes una red de personas de confianza que pueda da
 aku_links:
   justified_by:
     - id: aku-descubrir-fortalezas-feedback-externo-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Operacionaliza el descubrimiento de fortalezas mediante feedback externo."
     - id: aku-diagnostico-estrategico-personal-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Herramienta del diagnóstico para conocer fortalezas."
     - id: aku-fortaleza-puede-ser-debilidad-y-viceversa-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-descubrir-fortalezas-feedback-externo-concept desde [jocko] (cross-source)"
     - id: aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-descubrir-fortalezas-feedback-externo-concept desde [james-clear] (cross-source)"
     - id: aku-conocer-tu-valor-y-extraer-el-maximo-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-diagnostico-estrategico-personal-concept desde [50-cent] (cross-source)"
   constrained_by: []
   breaks_when: []

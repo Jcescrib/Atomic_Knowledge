@@ -12,40 +12,40 @@ when_not_to_use: "Como manual moral de conducta: muchas leyes son amorales o man
 aku_links:
   justified_by:
     - id: aku-48laws-01-never-outshine-the-master-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-48laws-05-guard-your-reputation-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-48laws-03-conceal-your-intentions-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-48laws-02-never-trust-friends-use-enemies-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-status-posicion-en-jerarquia-social-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-48laws-01-never-outshine-the-master-concept desde [naval] (cross-source)"
     - id: aku-un-principio-aplicado-con-constancia-genera-valor-desproporcionado-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-48laws-01-never-outshine-the-master-concept desde [50-cent] (cross-source)"
     - id: aku-humildad-es-la-cualidad-mas-importante-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-48laws-01-never-outshine-the-master-concept desde [jocko] (cross-source)"
     - id: aku-elige-juegos-largo-plazo-con-gente-largo-plazo-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-48laws-05-guard-your-reputation-concept desde [naval] (cross-source)"
     - id: aku-interes-compuesto-aplica-a-relaciones-reputacion-conocimiento-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-48laws-05-guard-your-reputation-concept desde [naval] (cross-source)"
     - id: aku-juicio-demostrado-con-credibilidad-atrae-leverage-infinito-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-48laws-05-guard-your-reputation-concept desde [naval] (cross-source)"
     - id: aku-cialdini-autoridad-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-48laws-05-guard-your-reputation-concept desde [power-mba] (cross-source)"
     - id: aku-intenciones-no-importan-importan-las-acciones-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-48laws-03-conceal-your-intentions-concept desde [naval] (cross-source)"
   constrained_by: []
   breaks_when: []

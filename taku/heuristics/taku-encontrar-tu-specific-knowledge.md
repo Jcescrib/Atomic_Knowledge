@@ -12,31 +12,31 @@ when_not_to_use: "Para elegir un campo solo porque está de moda o paga bien aho
 aku_links:
   justified_by:
     - id: aku-specific-knowledge-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-specific-knowledge-es-lo-que-hacias-sin-esfuerzo-de-nino-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-escapa-la-competencia-mediante-autenticidad-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-elige-el-campo-de-competicion-correcto-tus-genes-marcan-tus-areas-de-oportunidad-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-specific-knowledge-concept desde [james-clear] (cross-source)"
     - id: aku-explore-exploit-trade-off-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-specific-knowledge-es-lo-que-hacias-sin-esfuerzo-de-nino-claim desde [james-clear] (cross-source)"
     - id: aku-cuando-no-puedes-ganar-siendo-mejor-gana-siendo-diferente-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-escapa-la-competencia-mediante-autenticidad-claim desde [james-clear] (cross-source)"
     - id: aku-dirigirse-a-no-buscadores-mayor-conversion-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-escapa-la-competencia-mediante-autenticidad-claim desde [power-mba] (cross-source)"
     - id: aku-categoria-de-uno-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-escapa-la-competencia-mediante-autenticidad-claim desde [hormozi] (cross-source)"
     - id: aku-nunca-terminas-de-competir-al-final-compites-contigo-mismo-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-escapa-la-competencia-mediante-autenticidad-claim desde [50-cent] (cross-source)"
   constrained_by: []
   breaks_when: []

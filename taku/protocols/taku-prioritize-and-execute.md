@@ -12,22 +12,22 @@ when_not_to_use: "Cuando solo hay una tarea o no hay presión de simultaneidad; 
 aku_links:
   justified_by:
     - id: aku-prioritize-and-execute-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-prioritize-and-execute-pasos-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-relax-look-around-make-a-call-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-lead-scoring-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-prioritize-and-execute-concept desde [power-mba] (cross-source)"
     - id: aku-cascada-estrategica-ejecucion-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-prioritize-and-execute-pasos-method desde [power-mba] (cross-source)"
     - id: aku-no-tengo-tiempo-significa-no-es-una-prioridad-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-prioritize-and-execute-pasos-method desde [naval] (cross-source)"
   constrained_by: []
   breaks_when: []

@@ -12,10 +12,10 @@ when_not_to_use: "Nunca para abandonar la misión estratégica ni los objetivos 
 aku_links:
   justified_by:
     - id: aku-cuando-rendirse-tactico-no-estrategico-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-dont-dig-in-no-sobrecomprometerse-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
   constrained_by: []
   breaks_when: []

@@ -12,28 +12,28 @@ when_not_to_use: "Como recetas universales garantizadas: la felicidad es trial-a
 aku_links:
   justified_by:
     - id: aku-la-felicidad-es-una-habilidad-que-se-aprende-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-mejora-metodica-de-tu-baseline-de-felicidad-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-felicidad-requiere-presencia-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-toda-actividad-de-pantalla-resta-felicidad-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-minimalismo-digital-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-mejora-metodica-de-tu-baseline-de-felicidad-method desde [power-mba] (cross-source)"
     - id: aku-la-meditacion-con-mantra-baja-el-volumen-de-los-pensamientos-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-mejora-metodica-de-tu-baseline-de-felicidad-method desde [50-cent] (cross-source)"
     - id: aku-redefinir-agotamiento-eleva-baseline-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-mejora-metodica-de-tu-baseline-de-felicidad-method desde [jocko] (cross-source)"
     - id: aku-el-entorno-es-la-mano-invisible-que-moldea-la-conducta-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-toda-actividad-de-pantalla-resta-felicidad-claim desde [james-clear] (cross-source)"
   constrained_by: []
   breaks_when: []

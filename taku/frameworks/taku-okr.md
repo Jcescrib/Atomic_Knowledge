@@ -12,16 +12,16 @@ when_not_to_use: "En contextos estables y muy predecibles donde la planificació
 aku_links:
   justified_by:
     - id: aku-okr-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Objetivos + Resultados Clave, 3 niveles, transparencia."
     - id: aku-revision-anual-falla-incertidumbre-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Por qué el ajuste tradicional falla y motiva el OKR."
     - id: aku-ajuste-objetivos-tradicional-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "El enfoque tradicional (plan de negocios + presupuesto) que el OKR sustituye/complementa."
     - id: aku-objetivos-alineados-organizacion-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-okr-concept desde [jocko] (cross-source)"
   constrained_by: []
   breaks_when: []

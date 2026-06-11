@@ -12,19 +12,19 @@ when_not_to_use: "Cuando el nombre ya está fijado por restricciones legales/cor
 aku_links:
   justified_by:
     - id: aku-matriz-de-nombres-wording-x-relevance-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Paso 1: el eje wording × relevance define los cuatro tipos."
     - id: aku-sound-symbolism-los-sonidos-tienen-significado-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Paso 2: los sonidos portan significado (bouba-kiki)."
     - id: aku-grupo-1-vs-grupo-2-de-fonemas-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Paso 2: elegir el grupo de fonemas que encaja con el producto."
     - id: aku-los-nombres-persuasivos-son-ligeramente-irrelevantes-u-shaped-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Criterio rector: persuasión máxima con ligera irrelevancia."
     - id: aku-los-numeros-en-el-nombre-implican-atributos-del-producto-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Paso 5: añadir versión/número que implique atributos."
   constrained_by: []
   breaks_when: []

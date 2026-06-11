@@ -12,16 +12,16 @@ when_not_to_use: "Por desacuerdos de eficiencia o de ego: ahí se ejecuta y se c
 aku_links:
   justified_by:
     - id: aku-cuando-desobedecer-ultimo-recurso-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-excepcion-resistir-ordenes-ilegales-inmorales-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-ejecutar-decision-como-propia-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-elige-socios-con-integridad-sobre-todo-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-excepcion-resistir-ordenes-ilegales-inmorales-claim desde [naval] (cross-source)"
   constrained_by: []
   breaks_when: []

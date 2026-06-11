@@ -12,38 +12,38 @@ when_not_to_use: "Cuando persigues máxima penetración de mercado; o si la esca
 aku_links:
   justified_by:
     - id: aku-tipos-y-tacticas-escasez-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-fear-of-loss-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-vender-menos-aumenta-demanda-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-cialdini-escasez-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-tipos-y-tacticas-escasez-concept desde [power-mba] (cross-source)"
     - id: aku-leyes-persuasion-cialdini-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-tipos-y-tacticas-escasez-concept desde [power-mba] (cross-source)"
     - id: aku-palabras-frases-persuasivas-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-tipos-y-tacticas-escasez-concept desde [power-mba] (cross-source)"
     - id: aku-crear-percepcion-de-demanda-y-exclusividad-enciende-la-demanda-real-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-tipos-y-tacticas-escasez-concept desde [50-cent] (cross-source)"
     - id: aku-mostrar-precios-altos-antes-que-bajos-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-fear-of-loss-claim desde [kolenda] (cross-source)"
     - id: aku-el-movimiento-looming-capta-la-atencion-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-fear-of-loss-claim desde [kolenda] (cross-source)"
     - id: aku-negotiation-tactics-influencia-psicologica-por-fase-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-fear-of-loss-claim desde [kolenda] (cross-source)"
   constrained_by:
     - id: aku-deseo-viene-de-no-tener-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
   breaks_when: []
   illustrates: []

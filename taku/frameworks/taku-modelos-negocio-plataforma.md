@@ -23,55 +23,55 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-modelo-plataforma-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "El concepto central — sin él no hay marco."
     - id: aku-modelo-lineal-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "El contraste necesario para entender qué hace especial a una plataforma."
     - id: aku-network-effect-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Mecanismo subyacente que explica las dinámicas virtuosa/viciosa."
     - id: aku-masa-critica-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Umbral operativo clave del marco."
     - id: aku-circulo-virtuoso-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Dinámica positiva tras superar masa crítica."
     - id: aku-circulo-vicioso-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Estado por defecto pre-masa-crítica."
     - id: aku-huevo-gallina-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "El reto operativo concreto del lanzamiento."
     - id: aku-marketplace-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Subtipo: oferta y demanda con libertad de fijación."
     - id: aku-on-demand-platform-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Subtipo: oferta y demanda con condiciones centralizadas."
     - id: aku-content-platform-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Subtipo: asimetría creadores/consumidores."
     - id: aku-modelo-free-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Modelo de monetización común en plataformas con masa grande."
     - id: aku-modelo-freemium-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Variante con capa pagada que monetiza un subconjunto de usuarios."
     - id: aku-free-bootstrap-plataforma-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-modelo-plataforma-concept desde [(unknown)] (cross-source)"
     - id: aku-virtuous-cycle-of-price-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-circulo-virtuoso-concept desde [hormozi] (cross-source)"
     - id: aku-format-matchea-plataforma-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-content-platform-concept desde [hormozi] (cross-source)"
     - id: aku-attraction-offer-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-modelo-free-concept desde [hormozi] (cross-source)"
     - id: aku-buy-x-get-y-free-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-modelo-freemium-concept desde [hormozi] (cross-source)"
   constrained_by: []
   breaks_when: []

@@ -12,16 +12,16 @@ when_not_to_use: "Cuando una amenaza inmediata exige una decisión rápida y fir
 aku_links:
   justified_by:
     - id: aku-iterative-decision-making-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-decisiveness-amid-uncertainty-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-innovar-vs-competir-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-iterative-decision-making-method desde [power-mba] (cross-source)"
     - id: aku-asumir-equivocarse-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-iterative-decision-making-method desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []

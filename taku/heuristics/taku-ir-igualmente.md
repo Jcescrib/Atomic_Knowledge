@@ -12,19 +12,19 @@ when_not_to_use: "Ante señales reales de lesión, enfermedad o agotamiento que 
 aku_links:
   justified_by:
     - id: aku-not-feeling-it-go-anyway-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-instinto-de-rendirse-es-mentiroso-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-reduce-la-friccion-para-hacer-el-buen-habito-el-camino-de-menor-resistencia-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-not-feeling-it-go-anyway-claim desde [james-clear] (cross-source)"
     - id: aku-48laws-22-use-the-surrender-tactic-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-instinto-de-rendirse-es-mentiroso-claim desde [robert-greene] (cross-source)"
     - id: aku-corazon-de-hustler-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-instinto-de-rendirse-es-mentiroso-claim desde [50-cent] (cross-source)"
   constrained_by: []
   breaks_when: []

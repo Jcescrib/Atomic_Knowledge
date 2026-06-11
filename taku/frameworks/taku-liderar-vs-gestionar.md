@@ -12,28 +12,28 @@ when_not_to_use: "Como dicotomía rígida: en la práctica ambos roles se ejerce
 aku_links:
   justified_by:
     - id: aku-liderar-vs-gestionar-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Define los dos roles y sus actividades características."
     - id: aku-mix-liderazgo-gestion-segun-trabajo-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "La proporción depende del tipo de trabajo."
     - id: aku-complementar-habilidades-equipo-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Cómo cubrir las habilidades que faltan: aprender o complementar con el equipo."
     - id: aku-liderar-desde-frente-y-desde-atras-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-liderar-vs-gestionar-concept desde [jocko] (cross-source)"
     - id: aku-medida-significativa-liderazgo-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-liderar-vs-gestionar-concept desde [jocko] (cross-source)"
     - id: aku-leading-up-the-chain-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-liderar-vs-gestionar-concept desde [jocko] (cross-source)"
     - id: aku-delegar-todo-para-liderar-no-pareciendo-vago-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-liderar-vs-gestionar-concept desde [jocko] (cross-source)"
     - id: aku-lider-compensa-debilidades-con-el-equipo-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-complementar-habilidades-equipo-claim desde [jocko] (cross-source)"
   constrained_by: []
   breaks_when: []

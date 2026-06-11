@@ -12,22 +12,22 @@ when_not_to_use: "Ante un jefe que ordena lo ilegal/inmoral o pone en riesgo rea
 aku_links:
   justified_by:
     - id: aku-manejar-jefe-micromanager-indeciso-debil-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-rendimiento-construye-confianza-del-jefe-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-leadership-capital-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-48laws-31-control-the-options-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-manejar-jefe-micromanager-indeciso-debil-method desde [robert-greene] (cross-source)"
     - id: aku-hablar-suave-transfiere-el-poder-hacia-ti-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-rendimiento-construye-confianza-del-jefe-claim desde [50-cent] (cross-source)"
     - id: aku-48laws-23-concentrate-your-forces-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-leadership-capital-concept desde [robert-greene] (cross-source)"
   constrained_by: []
   breaks_when: []

@@ -12,16 +12,16 @@ when_not_to_use: ""
 aku_links:
   justified_by:
     - id: aku-32-principios-jiu-jitsu-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Define el conjunto finito de microprincipios que es el núcleo del framework."
     - id: aku-32-principles-diagnostic-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "El procedimiento operativo para aplicar el framework a una situación concreta."
     - id: aku-todo-problema-es-tecnica-por-descubrir-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "La premisa que motiva el uso del framework."
     - id: aku-principios-jiu-jitsu-forma-de-pensar-transferible-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Justifica la transferencia del framework fuera del tatami."
   constrained_by: []
   breaks_when: []

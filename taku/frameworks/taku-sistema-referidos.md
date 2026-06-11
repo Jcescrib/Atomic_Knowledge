@@ -12,34 +12,34 @@ when_not_to_use: "Si el producto aún no genera goodwill (la gente está «averg
 aku_links:
   justified_by:
     - id: aku-goodwill-genera-referidos-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-seis-formas-mas-valor-referidos-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-pedir-referidos-como-oferta-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-referral-growth-exponential-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-recomendacion-vs-viralizacion-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-pedir-referidos-como-oferta-claim desde [power-mba] (cross-source)"
     - id: aku-motor-crecimiento-viral-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-pedir-referidos-como-oferta-claim desde [power-mba] (cross-source)"
     - id: aku-coeficiente-viralidad-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-referral-growth-exponential-claim desde [power-mba] (cross-source)"
     - id: aku-boca-a-boca-supera-campana-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-referral-growth-exponential-claim desde [power-mba] (cross-source)"
     - id: aku-valor-independiente-usuarios-modelo-lineal-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-referral-growth-exponential-claim desde [power-mba] (cross-source)"
     - id: aku-churn-rate-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-referral-growth-exponential-claim desde [power-mba] (cross-source)"
   constrained_by: []
   breaks_when: []

@@ -12,49 +12,49 @@ when_not_to_use: "En contextos donde el clickbait perjudica la credibilidad de l
 aku_links:
   justified_by:
     - id: aku-formulas-titulos-potentes-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Define las plantillas de titular."
     - id: aku-hacks-copywriting-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "El hack «incluye siempre un titular» se operacionaliza con estas fórmulas."
     - id: aku-formula-titulo-resultado-tiempo-objecion-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Plantilla «Resultado + Tiempo + Objeción»."
     - id: aku-formula-titulo-numero-sustantivo-adjetivo-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Plantilla «Número + Sustantivo + Adjetivo + resto»."
     - id: aku-formula-titulo-como-lograr-objecion-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Plantilla «Cómo + lograr algo + Objeción»."
     - id: aku-formula-titulo-numero-errores-deseo-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Plantilla «Número + errores comunes al + Deseo»."
     - id: aku-formula-titulo-caso-exito-method
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Plantilla «Cómo + Empresa + consiguió + Resultado + Tiempo»."
     - id: aku-bonus-presentation-checklist-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-formula-titulo-resultado-tiempo-objecion-method desde [hormozi] (cross-source)"
     - id: aku-content-hook-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-formulas-titulos-potentes-concept desde [hormozi] (cross-source)"
     - id: aku-siete-componentes-headline-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-formulas-titulos-potentes-concept desde [hormozi] (cross-source)"
     - id: aku-callout-cocktail-party-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-formulas-titulos-potentes-concept desde [hormozi] (cross-source)"
     - id: aku-magic-naming-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-formulas-titulos-potentes-concept desde [hormozi] (cross-source)"
     - id: aku-terminar-las-frases-con-una-imagen-concreta-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-hacks-copywriting-concept desde [kolenda] (cross-source)"
     - id: aku-cta-hormozi-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-hacks-copywriting-concept desde [hormozi] (cross-source)"
     - id: aku-copywriting-psychology-frases-persuasivas-via-simulacion-mental-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-formula-titulo-numero-errores-deseo-method desde [kolenda] (cross-source)"
   constrained_by: []
   breaks_when: []

@@ -16,19 +16,19 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-los-vision-boards-materializan-las-metas-y-elevan-su-probabilidad-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Articular la visión en imágenes/palabras eleva la probabilidad de lograrla."
     - id: aku-hustlar-exige-definir-con-claridad-que-quieres-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "El tablero materializa la claridad de meta que el hustle exige."
     - id: aku-sistemas-vs-metas-en-atomic-habits-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-los-vision-boards-materializan-las-metas-y-elevan-su-probabilidad-claim desde [james-clear] (cross-source)"
     - id: aku-compartir-objetivos-compromiso-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-los-vision-boards-materializan-las-metas-y-elevan-su-probabilidad-claim desde [power-mba] (cross-source)"
     - id: aku-reunir-datos-de-referencia-antes-de-negociar-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-hustlar-exige-definir-con-claridad-que-quieres-claim desde [kolenda] (cross-source)"
   constrained_by: []
   breaks_when: []

@@ -12,23 +12,23 @@ when_not_to_use: "Con deadlines falsos (destruyen credibilidad), o cuando la nat
 aku_links:
   justified_by:
     - id: aku-urgencia-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-deadlines-drive-decisions-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
     - id: aku-palabras-frases-persuasivas-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-urgencia-concept desde [power-mba] (cross-source)"
     - id: aku-cialdini-escasez-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-urgencia-concept desde [power-mba] (cross-source)"
     - id: aku-cialdini-compromiso-consistencia-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-urgencia-concept desde [power-mba] (cross-source)"
   constrained_by:
     - id: aku-exploding-opportunity-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: ""
   breaks_when: []
   illustrates: []

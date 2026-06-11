@@ -18,58 +18,58 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-calle-y-negocios-comparten-principios-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Tesis paraguas: la calle y los negocios comparten los mismos principios básicos."
     - id: aku-fearlessness-no-es-ausencia-de-miedo-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Principio 1 — Be fearless."
     - id: aku-corazon-de-hustler-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Principio 2 — Cultivate the heart of a hustler."
     - id: aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Principio 3 — Build a strong crew."
     - id: aku-conocer-tu-valor-y-extraer-el-maximo-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Principio 4 — Know your value."
     - id: aku-evolucionar-o-morir-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Principio 5 — Evolve or die."
     - id: aku-el-poder-de-la-percepcion-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Principio 6 — Shape perception."
     - id: aku-la-competencia-como-estrategia-if-we-cant-be-friends-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Principio 7 — Don't be afraid to compete."
     - id: aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Principio 8 — Learn from your Ls."
     - id: aku-la-trampa-del-entitlement-nadie-te-debe-nada-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Principio 9 — Avoid the entitlement trap."
     - id: aku-48laws-02-never-trust-friends-use-enemies-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept desde [robert-greene] (cross-source)"
     - id: aku-extreme-ownership-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-aprender-de-tus-Ls-el-fracaso-como-herramienta-concept desde [jocko] (cross-source)"
     - id: aku-calcular-y-mitigar-riesgo-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-fearlessness-no-es-ausencia-de-miedo-concept desde [jocko] (cross-source)"
     - id: aku-paso-agresivo-hacia-el-miedo-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-fearlessness-no-es-ausencia-de-miedo-concept desde [jocko] (cross-source)"
     - id: aku-instinto-de-rendirse-es-mentiroso-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-corazon-de-hustler-concept desde [jocko] (cross-source)"
     - id: aku-ikigai-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-corazon-de-hustler-concept desde [power-mba] (cross-source)"
     - id: aku-cada-miembro-es-el-mas-importante-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept desde [jocko] (cross-source)"
     - id: aku-no-bad-teams-only-bad-leaders-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-ser-juez-astuto-de-caracter-es-la-mayor-habilidad-del-emprendedor-concept desde [jocko] (cross-source)"
   constrained_by: []
   breaks_when: []

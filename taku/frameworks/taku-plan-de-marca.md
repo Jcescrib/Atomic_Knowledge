@@ -17,35 +17,35 @@ when_not_to_use: >
 aku_links:
   justified_by:
     - id: aku-plan-de-marca-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Estructura completa del modelo."
     - id: aku-marca-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Define qué es la marca (la historia que cuentan los clientes)."
     - id: aku-proposito-mision-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Cimiento: el porqué."
     - id: aku-posicionamiento-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Cimiento: la diferencia relevante."
     - id: aku-brand-equity-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "El objetivo último: incrementar el valor de la marca."
     - id: aku-los-nombres-neologisticos-son-los-mas-escalables-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-marca-concept desde [kolenda] (cross-source)"
     - id: aku-commanders-intent-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-proposito-mision-concept desde [jocko] (cross-source)"
     - id: aku-mejores-lideres-mision-no-ego-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-proposito-mision-concept desde [jocko] (cross-source)"
     - id: aku-magic-avatar-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-posicionamiento-concept desde [hormozi] (cross-source)"
   constrained_by:
     - id: aku-esencia-mas-que-logo-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "La esencia precede y prevalece sobre la identidad visual."
   breaks_when: []
   illustrates: []

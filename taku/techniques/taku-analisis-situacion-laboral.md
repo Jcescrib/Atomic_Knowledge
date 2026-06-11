@@ -12,16 +12,16 @@ when_not_to_use: "Antes de haber identificado tus motivaciones y fortalezas; nec
 aku_links:
   justified_by:
     - id: aku-alineacion-laboral-motivaciones-felicidad-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Justifica por qué medir la alineación trabajo–motivaciones importa para el bienestar."
     - id: aku-motivaciones-desde-experiencias-pasadas-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "Usa como input las motivaciones extraídas del viaje al pasado."
     - id: aku-evaluation-professional-development-concept
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-alineacion-laboral-motivaciones-felicidad-claim desde [jocko] (cross-source)"
     - id: aku-tus-acciones-revelan-tus-verdaderas-motivaciones-claim
-      link_validation: human-validated
+      link_validation: llm-proposed
       link_note: "deducible: corrobora aku-motivaciones-desde-experiencias-pasadas-concept desde [james-clear] (cross-source)"
   constrained_by: []
   breaks_when: []
